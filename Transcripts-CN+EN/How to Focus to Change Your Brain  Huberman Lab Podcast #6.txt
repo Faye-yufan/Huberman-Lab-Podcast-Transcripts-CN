@@ -1,0 +1,3744 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到HubermanLab播客
+Welcome to the HubermanLab Podcast,
+在这里  我们讨论日常生活中的科学和基于科学的工具
+we discuss science and science based tools for everyday life.
+我叫Andrew Huberman
+My name is Andrew Huberman
+是斯坦福医学院神经生物学和眼科学的教授
+and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色是分开的
+This podcast is separate from my teaching and research roles at Stanford.
+然而
+It is,
+它是
+however,
+我的愿望和努力的一部分
+part of my desire and effort to bring zero cost
+目的是  将零成本的科学信息和科学相关工具提供给大众消费者
+to consumer information about science and science related tools to the general public.
+为了与这个主题保持一致
+In keeping with that theme,
+我要感谢今天播客的第一位赞助商
+I want to thank the first sponsor of today's podcast.
+我们的第一个赞助商是 InsideTracker
+Our first sponsor is InsideTracker.
+InsideTracker是一个个性化的营养平台
+Inside Tracker is a personalized nutrition platform.
+他们分析血液因素和DNA相关因素 帮助你制定个性化的健康计划
+They analyzes blood factors and DNA related factors that helps you develop a personalized health plan.
+许多与我们的健康和幸福有关的重要因素
+Many important factors related to our health and well being
+只能通过血液样本和购买DNA样本来测量
+can only be measured by a blood sample and buy a DNA sample.
+我做血液检查已经很多年了
+I've been getting my blood work done for many years now,
+我用的是InsideTracker因为InsideTracker使血液检测变得非常简单
+and I use inside tracker because inside tracker makes it very easy
+人们可以到你家里或者去诊所
+to not only get the blood work done so one can come to your house or you can go to a clinic,
+这样
+for instance,
+也会给你解释你的数据
+but also to interpret the data that you get.
+通常
+Oftentimes,
+当我们完成血液检查后
+when we get blood work done,
+各种不同的数字表示这  不同水平的激素和代谢因子
+There are all these numbers in all these levels of different hormones and metabolic factors and so forth.
+但人们不知道该如何处理这些信息
+but one doesn't know what to do with that information.
+InsideTracker有一个很棒的仪表盘平台 你可以上网查看
+Inside tracker has a terrific dashboard platform where you go online,
+这使得分析变得简单
+and it makes analyzing all that easy.
+它还提供了一些非常简单和直接的指导
+And it also provides some very simple and straightforward directives in terms of exercise,
+营养和其他生活方式因素可以帮助指导你的健康 改善你的健康
+nutrition and other lifestyle factors that can help guide your health and improve your health.
+如果你想试试InsideTracker
+If you'd like to try inside tracker,
+你可以进入内部追踪器
+you can go to insidetracker.com/huberman
+并使用优惠吗huberman
+slash human and use the code huberman
+然后结账 你的订单可以打25%的折扣
+Check out to get twenty five per cent off your order.
+同时今天的节目也是由headspace带给我们的
+Today's episode has also brought to us by head space.
+HeadSpace是一款冥想应用 让冥想变得简单
+Head Space is a meditation app that makes meditating easy.
+我已经断断续续地冥想了大约30年了
+I've been meditating on and off for about three decades now,
+通常情况下 冥想会经常...
+and typically it's been more often on,
+我觉得
+I think,
+像很多人一样
+like a lot of people,
+我发现很难坚持冥想练习
+I find it hard to stick with a meditation practice.
+几年前
+A few years ago,
+我开始使用headspace应用
+I started using the head Space app,
+当我这么做的时候
+and when I did that,
+我发现我能坚持冥想
+I found that I was meditating really consistently.
+首先
+First of all,
+headspace的冥想得到了高质量的科学同行研究的支持
+The meditations in head space are backed by quality scientific peer reviewed studies.
+其次
+Second of all,
+它们使冥想变得亲切 容易和有趣
+the meditations allow the meditation to be kind to be easy and fun to access.
+我第一次使用headspace是在旅行的时候
+I started first using them when I would travel.
+在捷蓝航空的航班上
+Because on Jetblue flights,
+航空公司就设置了这个
+which was the airline was using.
+冥想可以作为除了看电视或电影以外的另一种选择
+The meditations are offered as an alternative to watching a TV or movie,
+我发现我到达的时候会感觉比
+and I found that I would arrive feeling much more refreshed
+一直在看电视的时候神清气爽得多
+than had I just sort of zoned out on the TV the whole time,
+我甚至睡着了
+or even if I had slept.
+我现在每天都有时间进行短暂的冥想
+I now continues had space regularly pretty much every day for a short meditation,
+我个人从中获得了巨大的利益
+and I personally derived tremendous benefits from it.
+如果你想试试headspace
+If you'd like to try head space,
+你可以去headspace.com/specialoffer
+you can go to head space Dot com slashed special offer,
+他们会为你提供一个月的冥想这些冥想都是完全免费的是
+and they'll give you one month of all the meditations that they have available completely free
+目前headspace提供的最好的服务你可以登陆headspace.com/specialoffer
+as the best offer available right now from head space so you can go to head space dotcom,
+你可以免费得到一个月的
+and you'll get one month completely free.
+他们所有的冥想
+All the meditations they have.
+今天播客的第三个赞助商是一个BehavioralSience公司
+The third sponsor of today's podcast is made for made for is a behavioral science company
+是一个订阅模式 你每个月参加特定的活动
+that is a subscription model in which you engage in specific activities each month for ten months
+持续10个月 以带来积极的行为改变和成长的心态
+in order to bring about positive behavioral change and growth mindset.
+该公司由前海豹突击队队员帕特里克·多塞特(PatrickDossett)
+The company was founded by former Navy Seal Patrick Dossett
+和Tom's的创始人布莱克·麦可斯基(BlakeMycoskie)创立
+as well as Tom's founder Blake Mycoskie.
+我是他们的科学顾问委员会的首席顾问
+I'm the lead adviser of the Scientific Advisory Board that made for,
+咨询委员会的其他一些成员
+and some of the other members of the advisory board
+包括国家卫生研究院克朗生物部门的负责人
+include the head of the Krona Biology unit at the National Institutes of Health.
+还有来自哈佛欧文分校的精神病医生
+As well as psychiatrists from Harvard uc irvine
+和其他许多对科学认真的人 并帮助开发了计划专用软件
+and many other individuals who are serious about science and helped develop the made for program.
+如果你想尝试makefor 你可以去getmade4.com
+If you want to try made for you can go to getmade4.com,
+如果你在结账时输入huberman
+and if you enter human at checkout,
+你可以从这个项目中得到15%的折扣
+you'll get fifteen per cent off the program.
+今天
+Today,
+我们来讨论神经可塑性
+we're talking about neural plasticity,
+这是我们神经系统的不可思议的特性 它能根据经验发生改变
+which is this incredible feature of our nervous systems that allows it to change in response to experience.
+神经可塑性可以说是我们生物学中最重要的方面之一
+Neural plasticity is arguably one of the most important aspects of our biology.
+它让我们每个人都能有不同的想法
+It holds the promise for each and all of us to think differently,
+学习新事物
+to learn new things,
+忘记痛苦的经历 通过变得更好  来适应生活带给我们的一切
+to forget painful experiences and to essentially adapt to anything that life brings us by becoming better.
+神经可塑性有着漫长而重要的历史
+Neural plasticity has a long and important history,
+我们不会进行详细地赘述
+and we're not going to review all of it in detail.
+但是今天我们要讨论  什么是神经可塑性？
+But today what we are going to do is discuss what is neural plasticity,
+以及神经可塑性的不同形式
+as well as the different forms of neural plasticity we're going to talk about
+我们将讨论如何根据你的年龄来获得神经可塑性
+how to access neural plasticity depending on how old you are,
+这取决于你想要发生变化的具体类型
+and depending on the specific types of changes that you're trying to create.
+这个话题汇总  我们可以讨论有很多工具和生物学原理
+This is a topic for which there are lots of tools as well as lots of biological principles that we can discuss.
+让我们开始吧
+So let's get started.
+大多数人都熟悉 神经的可塑性 这个词
+Most people are familiar with the word neural plasticity.
+它有时也被称为 神经可塑性
+it sometimes also called neuro plasticity.
+它们是一样的
+Those are the same thing,
+所以如果我说 神经的可塑性 或 神经可塑性
+so if I say neural plasticity or neuro plasticity,
+我指的是同样的过程
+I'm referring to the same process,
+这是大脑和神经系统自我改变的能力
+which is the brain and nervous system's ability to change itself.
+神经系统这样做有很多原因
+And there are a lot of reasons why the nervous system would do this.
+它可能是对创伤性事件的反应
+It could do it in response to some traumatic event.
+它可以是
+It could,
+比如
+for instance,
+对一个特定的地方制造一种恐惧感  或对汽车或飞机的恐惧
+create a sense of fear around a particular place or a fear of automobiles or planes.
+它也可能发生在出现好事情的时候
+It could also occur when something positive happens,
+比如我们第一个孩子的出生
+like the birth of our first child,
+或者当我们的小狗做了一些有趣的事情
+or when our puppy does something amusing.
+或者我们看到一个运动员的一场令人难以置信的表现
+or we see an incredible feat of performance in athleticism.
+神经可塑性这个词对很多不同的人来说意味着很多不同的事情
+The word neural plasticity means so many things to so many different people that I thought
+所以我认为首先要从组织逻辑的角度来解释
+it would be important to just first put a little bit of organizational logic around
+它是什么？以及 它是如何发生的？
+what it is and how it happens,
+因为现在
+because nowadays,
+如果你上网搜索这个词
+if you were to go online and Google the word neural plasticity,
+你会找到成千上万的参考文献
+you would find hundreds of thousands of references,
+科学界的文献
+scientific references,
+以及许多关于什么是神经可塑性  以及如何获得它的错误理论
+as well as a lot of falsehoods about what neuroplasticity is and how to access it.
+正如我之前提到的
+As I mentioned before,
+我们将讨论它的科学原理
+we're going to talk about the science of it,
+我们将讨论一些工具这些工具
+and we're going to talk about the tools that allow you to
+可以让你激活你神经系统的这个不可思议的功能
+engage this incredible feature of your nervous system.
+接下来说第一点
+And that's the first point,
+那就是我们生来就有一个神经系统
+which is that all of us were born with a nervous system that
+它不仅能够改变 而且它本身的设计 就是能够不断改变的
+isn't just capable of change but was designed to change.
+当我们来到这个世界的时候
+When we enter the world.
+我们的神经系统已经为学习做好了准备
+Our nervous system is primed for learning.
+婴儿的大脑和神经系统的连接
+The brain and nervous system of a baby is wired.
+非常粗糙
+very crudely.
+这种连接并不精确
+The connections are not precise,
+我们从婴儿趴在那里
+and we can see evidence of that in the fact that babies are kind of flopping there
+他们就像有四肢的小土豆虫一样  从这就可以看出
+like a kind of a little potato bug with limbs.
+他们在协调运动方面非常贫乏
+They can't really do much in terms of coordinated movement.
+当然  他们不会说话
+They certainly can't speak.
+他们不能精确地做任何事情
+They can't really do anything with precision,
+那是因为我们来到的这个世界
+and that's because we come into this world.
+被过度连接了
+Over connected,
+我们脑中有回路
+we have essentially wires.
+这些回路
+Those wires,
+有像轴突和树突这样的名字 我们在第一集讨论的时候  已经列出了神经元的不同部分
+have names like axons and dendrites list of the different parts of the neurons discussed in Episode one.
+但那些小部件 那些回路和连接到处都是
+But those little parts and those wires and connections are everywhere.
+想象一下 一堆回路相互连接 一片混乱
+Imagine a bunch of roads that are all connected to one another in kind of a mess.
+而且没有高速公路
+But there are no highways,
+只有一些小路
+there are just small roads.
+这就是稚嫩的神经系统的本质
+That's essentially what the young nervous system is like.
+然后随着我们一天天长大
+and then as we mature as we go from day,
+慢慢地成熟
+one of life too.
+十岁
+Ten years old,
+二十岁
+twenty years old,
+三十岁的时候
+thirty years old,
+这时发生的情况是 特定的联系得到加强  变得更加强壮  而其他的联系则消失了
+what happens is particular connections get reinforced and stronger and other connections are lost.
+我希望这是每个人都能理解的  首要原则
+So that's the first important principal that I want everyone to understand.
+也就是发育期的可塑性
+Which is that developmental plasticity,
+发生在我们出生到大约25岁之间的神经可塑性
+the neural plasticity that occurs from the time we're born until about age twenty five
+主要是一个  去除那些对我们的目标没有好处的联系的过程
+is mainly a process of removing connections that don't serve our goals well now,
+当然
+of course,
+从出生到25岁 一些特定的事件会发生
+certain events happen during that birth to twenty five period,
+积极事件和消极事件
+in which positive events and negative events
+会以一种非常戏剧化的方式  深深烙印在我们的神经系统中
+are really stamped down into our nervous system in a very dramatic fashion.
+通过我们所谓的“一次学习”
+By what we call one trial learning,
+我们经历过一些事之后
+we experienced something once and then.
+我们的神经系统就永远地改变了
+Our nervous system is for ever changed.
+被经验改变
+By that experience,
+除非
+unless,
+当然
+of course,
+我们可以通过后期的工作来消除这种经历
+we go through some work to undo that experience.
+所以我想让你们在脑海中想象  当你们来到这个世界时
+So I want you to imagine in your mind that when you were brought into this world,
+你本质上是一个广泛连接的网络 但不擅长做任何一件事
+you are essentially a widely connected web of connections that was really poor at doing any one thing,
+通过你的经验
+and that through your experience,
+你从你的父母或其他抚养者那里接触到的东西
+what you were exposed to by your parents or other caretakers
+通过你的社会互动 你的思想 你学到的语言
+through your social interactions through your thoughts through the languages that you learn
+通过你去过或没去过的地方
+through the places you traveled or didn't travel.
+你的神经系统会根据你独特的经历进行调整
+Your nervous system became customized to your unique experience.
+对于你大脑的某些部分来说  确实是这样
+Now that's true for certain parts of your brain that are involved
+这些部分涉及到我们所说的 外部世界的表征
+in what we call representations of the outside world.
+你大脑的很多部分被设计用来代表视觉世界或听觉世界
+A lot of your brain is designed to represent the visual world or represent the auditory world
+或代表世界上可能存在的气味
+or represent the gallery of smells that are possible in the world.
+然而
+However,
+你的神经系统的某些方面本来就不是可塑的
+there are aspects of your nervous system that were designed not to be plastic.
+它们已经被固定连接 所以这些回路的可塑或变化是不太可能的
+they were wired so that plasticity or changes in those circuits is very unlikely.
+这些回路包括控制心跳的回路
+Those circuits include things like the ones that control your heartbeat,
+那些控制你呼吸的
+the ones that control your breathing,
+控制你消化的器官
+the ones that control your digestion.
+感谢上帝 这些回路在你生时 就已经建好了
+And thank goodness at those circuits were set up.
+固定了
+That way.
+因为你肯定希望  这些回路要非常可靠
+Because you want those circuits to be extremely reliable.
+你永远不需要去想你的心脏是否会跳动
+You never want to have to think about whether or not your heart will beat
+你是否能继续呼吸  你是否能消化食物
+or whether or not you will continue breathing or whether or not you'll be able to digest your food.
+所以许多神经系统的特征 如消化 呼吸和心率是很难改变的
+So many nervous system features like digestion and breathing and heart rate are hard to change.
+然而我们神经系统的其他方面很容易改变
+Other aspects of our nervous system are actually quite easy to change,
+而在童年 青春期和成年初期 有一个伟大天赋
+and one of the great gifts of childhood adolescence and young adulthood is that
+就是我们几乎可以通过被动的经历来学习
+we can learn through almost passive experience.
+我们不必为了学习新事物而集中精力
+We don't have to focus that hard in order to learn new things.
+事实上
+In fact,
+小孩们从不会说任何语言
+children go from being able to speak no language whatsoever to
+到能说很多很多的单词和句子
+being able to speak many many words and comprise sentences,
+包括他们从未听过的词
+including words they've never heard before,
+这真的很惊人
+which is remarkable.
+这意味着大脑中涉及说话和语言的部分
+It means that the portions of the brain involved in speech and language
+实际上已经准备好学习  并创造新的组合
+are actually primed to learn and create new combinations.
+这告诉我们 年轻的大脑是一个可塑性机器
+What this tells us is that the young brain is a plasticity machine.
+但是到了25岁左右的一两年
+But then right about age twenty five plus or minus a year or two,
+一切都变了
+everything changes after age twenty,
+在25左右
+five or so.
+如果想要改变
+in order to get changes.
+我们的神经系统
+In our nervous system,
+我们必须参与一套完全不同的过程 才能让这些变化发生
+we have to engage in a completely different set of processes in order to get those changes to occur
+更重要的是
+and for them more importantly,
+会更难以坚持
+to stick around.
+我认为这一点在神经可塑性的火热讨论中被忽略了
+and this is something that I think is vastly overlooked in the popular culture discussion about neuro plasticity.
+人们总是讲 神经细胞一起激活
+People always talk about fire together.
+一起连接
+wire together,
+一起激活 一起连接 确实是真的
+fire together wire together is true.
+这是我在斯坦福大学的同事Carlashots的说的
+It is the statement of my colleague at Stanford Carla shots.
+关于神经系统在发育早期的连接方式 这是绝对正确的
+and it's an absolute truth about the way that the nervous system wires up early in development.
+但25岁以后 这种情况就不一样了
+But fire together wire together doesn't apply in the same way after age twenty five.
+总有一些小流言 小句子在互联网上流传
+And so we have these little memes and these little quotes that circulate on the Internet
+就比如这句“一起激活 一起连接”
+like fire together wire together,
+或者有一句著名的名言 来自史上最伟大的神经生物学家 圣地亚哥·拉蒙-卡哈尔
+or there's a famous quote from the the greatest neurobiologist of all time Ramon Cajal.
+我记得他这么说
+I think it goes something like you know,
+如果有人想改变他们的神经系统
+should somebody wish to change their nervous system,
+他们可以把自己的神经系统雕刻成他们想要的那样
+They could be the sculptor of their nervous system in any way they want something like that.
+听起来很棒
+and that sounds great.
+我的意思是
+I mean,
+他们不想用自己想要的方式改变神经系统呢对吧
+who wouldn't want to change their nervous system any way they want.
+但是在这些表述中 我们忽略了一点  就是如何真正做到
+but what's lost in those statements is how to actually accomplish that,
+我们今天会讲到这个
+and we're going to cover that today.
+请你们理解 在发育的早期
+Please understand that early in development,
+你的神经系统之间的联系非常广泛
+your nervous system is connected very broadly in ways that make it
+从出生到25岁左右 你很难做好任何事情
+very hard to do anything well from birth until about age twenty five.
+这些联系主要是通过去除那些对我们没有帮助的联系
+Those connections get refined mainly through the removal of connections that don't serve us
+同时加强联系  这些联系往往与强大的经历有关
+and the incredible strengthening of connections that relate to either powerful experiences
+或者让我们能够完成一些事情 比如走路和说话
+or that allow us to do things like walk and talk,
+做数学题
+and do math,
+等等
+etc.
+25岁之后
+and then after age twenty five.
+如果我们想改变这些联系
+If we want to change those connections,
+那些连接如同高速公路
+those superhighways of connectivity,
+那么  我们必须参与一些非常具体的过程
+we have to engage in some very specific processes,
+这些过程
+and those processes,
+我很快就会讲
+as will soon learn,
+这些是封闭的
+are gated,
+这意味着你不能想改变  就改变你的大脑
+meaning you can't just decide to change your brain.
+实际上 你需要通过一系列的步骤来改变你的内在状态
+You actually have to go through a series of steps to change your internal state in ways
+从而改变你的大脑
+that will allow you to change your brain.
+我只想说 科斯特洛的鼾声今天特别响
+I just want to acknowledge that Costello is snoring particularly loud today,
+有些人似乎很喜欢听他的鼾声
+some of you seem very keen at picking up on his snoring.
+有些人听不到鼾声
+Others of you can't hear a snoring.
+它声音很低
+It's very low,
+隆隆的声音
+rumbling sound,
+不管你能不能听到
+and whether or not you can,
+这可能要和听觉联系起来
+or you can't probably relates to the sensitivity of your hearing.
+我们今天等下真的要讲  绝对音感和听觉探测范围
+We're actually going to talk about perfect pitch today and range of auditory detection,
+所以如果你能听到科斯特洛的鼾声
+and so if you can hear Costello snoring,
+享受它吧
+enjoy
+如果你听不到
+if you can't
+庆幸吧
+enjoy.
+我想谈谈神经系统是如何变化的
+I want to talk about how the nervous system changes.
+而且这些变化是什么？
+What are these changes?
+我们中的许多人都被流行媒体上关于神经元增加的故事所吸引
+Many of us have been captivated by the stories in the popular press about the addition of new neurons.
+这个想法
+This idea,
+哦
+Oh,
+什么 如果你去跑步或锻炼
+if you go running or you exercise,
+你的大脑会产生新的神经元
+your brain actually makes new neurons.
+好吧
+Well,
+我先告诉你坏消息
+I'm going to give you the bad news first,
+也就是青春期之后
+which is that after puberty,
+也就是在14或15岁之后
+so after about age fourteen or fifteen,
+人类的大脑和神经系统间连接增加的很少了
+the human brain and nervous system adds very few.
+即便有新的神经元
+If any new neurons.
+大脑中会增加新的神经元
+The idea that new neurons could be added to the brain is one that
+这个想法在实验科学中有着丰富的历史
+has a rich history in experimental science.
+很明显 在啮齿动物和一些非人类灵长类动物中
+It's clear that in rodents and in some nonhuman primates,
+这个被称为“神经发生”的过程
+new neurons a process called neurogenesis,
+在大脑的某些区域会发生
+can occur in areas of the brain,
+比如嗅球
+such as the olfactory bulb,
+这和嗅觉有关
+which is of course involved in smell,
+以及我们海马体的一个区域
+as well as a region of our hippocampus,
+大脑中负责记忆的中心
+a center of the brain involved in memory,
+叫做海马齿状回
+called the dentate gyrus of the hippocampus.
+有强有力的证据表明 在这些动物的一生中
+and there is strong evidence that new neurons can be added to
+新的神经元可以一直被添加到这些结构中
+those structures throughout the lifespan.
+而在人类中
+In humans,
+证据就更有争议了
+the evidence is a little bit more controversial.
+很明显 我们可以增加新的神经元来安置我们的嗅球
+It's clear that we can add new neurons to settle our olfactory bulb.
+事实上
+In fact,
+如果你们中有人有过头部被重重地击中的不幸经历
+if any of you have ever had the unfortunate experience of being hit on the head too hard,
+鼻子里那些嗅觉神经元的轴突会被截断
+the wires called axons from those olfactory neurons that live in your nose can get sheared off
+因为它们要穿过一个叫做“筛状板”的骨板
+because they have to pass through a bony plate called the cribriform plate,
+筛状板会截断这些轴突 而人可以成为所谓的嗅觉失灵
+and the cribriform plate can shear those axons and people can become what's called anosmic
+他们闻不到味道了
+they won't be able to smell.
+但是随着时间的推移
+But over time,
+这些神经元
+those neurons,
+与大多数中枢神经系统不同
+Unlike most all central nervous system,
+神经元可以重新建立这些连接 甚至可以重新建立新的神经元
+neurons can grow those connections back and even re establish new neurons
+这些神经元可能会被添加到除了嗅球外 其他大脑深处的地方
+may be added to the olfactory bulb they'd come from elsewhere deep in the brain,
+它们会通过一条叫做 “喙端迁移流” 的神经通路
+and they migrate through a pathway called the rostral Migratory Stream.
+如果你想了解更多 你可以谷歌这些术语
+You can Google these words and look look up some of the descriptions of this
+找一些相关的表述
+if you'd like to learn more.
+所以实际上
+So indeed,
+有证据表明 负责嗅觉的神经元
+there are some evidence that the neurons responsible for smell
+在人的一生中都可以被替换
+can be replaced throughout the lifespan,
+当然在非常年轻的个体中
+certainly in very young individuals,
+从出生到大约15岁左右
+from birth till about age fifteen or so.
+不管他们的新神经元是否有被添加到海马体中
+Whether or not their new neurons added to the hippocampus,
+大脑的记忆中心依然不清晰
+the memory center of the human brain isn't clear.
+许多年前
+Many years ago,
+索尔克研究所的RustyGage的实验室做了一项非常重要的研究
+rusty Gage's lab at the Salk Institute did a really important study
+研究癌症晚期患者 并给他们注射一种
+looking at terminally ill cancer patients and injecting them with a label,
+带有标签的染料  这种染料只有在新神经元上才会着色
+a dye that is incorporated only into new neurons.
+在这些病人死后
+And after these patients died,
+他们的大脑被采集
+their brains were harvested,
+观察了他们的大脑
+the brains were looked at,
+那里有新的神经元
+and there were new neurons there,
+这就是表明存在新的神经元的证据
+there was evidence for new neurons.
+这些结果
+Those results,
+我认为
+I think,
+随着时间的推移
+stand over time.
+但在那些流行媒体 并没有真正讨论的是
+But what was not really discussed in the popular press discussion around those papers was that
+新增的神经细胞非常少
+it was very few cells that were being added.
+这些年来出现了很多论文
+and a number of papers have come along over the years,
+主要来自UCSF的实验室
+mainly from labs that you UCSF,
+尽管其他研究也表明 如果成年大脑中添加了新的神经元
+although from others as well showing that if there are new neurons added to the adult brain,
+也只是一个非常小的数量的新神经元
+it's an infinitesimally small number of new neurons,
+这就是令人沮丧的地方
+so that's the depressing part.
+我们出生后  不会获得很多新的神经元
+We don't get new neurons after we're born.
+我们几乎拥有了之后一生会用到的神经元
+We pretty much have the neurons that we're going to use our entire life.
+是的
+And yes,
+随着年龄的增长 我们的大脑开始失去某些功能
+as we get older and we start to lose certain functions in our brain,
+我们会失去神经元
+We lose neurons,
+但并不是一切都完了
+but all is not lost,
+可以这么说
+so to speak,
+因为神经回路还有其他方式可以建立新的连接
+because there are other ways in which neural circuits can create new connections
+增加新的功能
+and add new functions,
+包括新的记忆
+including new memory,
+新的能力  新的认知功能
+new abilities and new cognitive functions.
+这些主要是通过某些过程来建立联系
+Those are mainly through the process of making certain connections,
+这过程
+which,
+当然了
+of course,
+就是我们称之为神经元间突触的那些东西
+are those things we call synapses between neurons,
+让这些联系更加紧密
+making those connections stronger,
+让它们更可靠
+so they're more reliable.
+这样它们更有可能参与和去除联系
+They're more likely to engage as well as removing connections,
+而消除联系  对于悲伤经历
+and the removal of connections is vital to say moving through a grieving process
+或消除创伤经历带来的情感负担 是至关重要的
+or removing the emotional load of a traumatic experience.
+所以即使我们在一生中不能大量增加新的神经元
+So even though we can't add new neurons throughout our lifespan at least not in very great numbers.
+很明显我们可以改变我们的神经系统
+Clear that we can change our nervous system that
+神经系统是可以改变的
+the nervous system is available for change that
+如果我们在大脑中创造了合适的环境  化学环境
+if we create the right set of circumstances in our brain chemical circumstances
+如果我们创造了合适的身体周围环境
+and if we create the right environmental circumstances around us are nervous.
+神经系统将转变模式 在这种模式下 改变不仅是可能的
+System will shift into a mode in which change isn't just possible,
+而且是有很大可能的
+but it's probable.
+正如我之前提到的
+As I mentioned before,
+儿童神经系统的特征发生了改变
+the hallmark of the child nervous system is changed.
+它想要改变一切
+It wants to change the whole thing.
+穿梭来去  交换的化学物质
+everything from the chemicals that are swapped,
+神经元之间有很多空间
+sloshing around in there to the fact that there's a lot of space between the neurons.
+而人们并不知道这一点
+While people don't know this.
+但在发育早期
+But early in development,
+内部的神经元之间有很多空间
+there's a lot of space between the neurons inside.
+神经元可以随意移动 很容易地找到不同的连接
+The neurons can literally move around and sample different connections very easily,
+随着年龄的增长 去掉一些 保留另一些
+removing some and keeping others as we get older.
+所谓的细胞外空间  实际上是由
+The so called extra cellular space is actually filled up by
+细胞外基质和神经胶质细胞填满了
+things called extra cellular Matrix and glial cells cleomenes glue.
+这些细胞会参与一系列不同的过程
+Those cells are involved in a bunch of different processes,
+但它们开始填满所有的空间  就像在岩石之间浇混凝土一样
+but they start to fill in all the space kind of like pouring concrete between rocks.
+当这种情况发生时
+And when that happens,
+改变现有的联系会变得更加困难
+It becomes much harder to change the connections that are there.
+我们在生命的任何阶段都能获得可塑性的方法之一
+One of the ways in which we can all get plasticity at any stage throughout the lifespan
+就是通过我们所谓的感觉器官的缺陷和损伤
+is through deficits and impairments in what we call our sensory apparatus,
+我们的眼睛
+our eyes,
+耳朵 鼻子  嘴巴
+our ears or nose or mouth.
+有一些非常戏剧性  并且有些悲剧的例子
+And there are some very dramatic and somewhat tragic examples of people,
+例如
+for instance,
+有的人有基因突变 生来就没有鼻子
+who have genetic mutations where they are born without a nose
+也没有大脑中的任何嗅觉结构
+and without any olfactory structures in the brain,
+所以他们没有嗅觉
+so they cannot smell.
+在这种情况下
+In that case,
+大脑中通常代表嗅觉的区域
+areas of the brain that normally would represent smell become overtaken by
+会被其他负责触觉和视觉听觉的区域所取代
+areas of the brain involved in other things like touch and hearing in sight.
+对于先天失明的人来说
+In individuals that are blind from birth,
+也就是所谓的枕叶
+the so called occipital cortex.
+后面的视觉皮层会被听觉所控制
+The visual cortex in the back becomes overtaken by hearing
+那里的神经元会开始对声音和盲文做出反应
+the neurons there will start to respond to sounds as well as Braille touch.
+有一个特别悲惨的事情
+And actually there is one particularly tragic incident where
+一位女性从出生就失明 因为在她身上进行了神经成像研究
+a woman who was blind since birth and because of neuro imaging studies,
+我们知道她的视觉皮层不再具有视觉功能
+we knew her visual cortex was no longer visual.
+它开始负责布莱叶盲文的阅读和听力  然后她中风了 这场疾病
+It was responsible for Braille reading and for hearing she had a stroke that actually took out.
+带走了她视觉皮层的大部分功能
+Most of the function of her visual cortex.
+所以她失明了
+so then she was blind,
+她不能朗读 不能听 不过她后来确实能够恢复一些功能
+she couldn't brel read or hear she did recover some aspect of function.
+大多数人来说
+Now most people,
+他们并没有陷入这种非常不幸的境地
+they don't end up in that highly unfortunate situation,
+我们知道的是
+and what we know is that,
+例如
+for instance,
+将视觉皮层用于读盲文 阅读  听力的盲人
+blind people who use their visual cortex for Braille,
+他们有更好的听觉和触觉敏锐度
+reading and for hearing have much better auditory acuity and touch acuity,
+也就是说他们可以用手指按屏幕发消息
+meaning they can send things with their fingers,
+他们可以用听觉感知到一些常人无法感知到的东西
+and they can sense things with their hearing that typical cited folks wouldn't be able to.
+事实上
+In fact,
+你会发现 失明的人更容易获得绝对音感
+you will find a much greater incidence of perfect pitch in people that are blind.
+这告诉我们 大脑 尤其是这个我们称之为“新皮质”的区域 也就是在大脑顶层
+And that tells us that the brain and in particular this area we call the neocortex which is the outer part,
+被设计成了  我们个人经历的地图
+is really designed to be a map of our own individual experience.
+所以这些
+So these,
+我称之为损伤或缺失的实验
+what I call experiments of of impairment or loss,
+有的人一出生就失明 有的人一出生就死亡
+where somebody is blind from birth or death from birth
+有的人可能有肢体发育障碍  有的人有残缺的肢体
+or maybe has a limb development impairment where they have a stump instead of an entire limb.
+没有
+With it.
+没有功能正常的手
+With a functioning hand their brain,
+会生成属于他们的身体计划  而不像其他人的身体计划
+We'll represent the body plan that they have not some other body plan,
+但这种情况的美妙之处在于  颅骨上的这块新皮质
+but the beauty of the situation is that the real estate up in the skull that neocortex.
+它的本质是属于个人的体验地图
+The essence of it is to be a customized map of experience.
+这是真的
+Now it is true,
+然而
+however,
+假设55岁的时候我瞎了
+that if let's say I were to be blind,
+我现在45岁
+when I'm fifty and forty five right now,
+我的视力健全
+I've always been sighted.
+如果我50岁失明
+If I was blind at fifty,
+我可能很少有机会使用我以前的视觉皮层来学习盲文
+I'll probably have less opportunity to use my formerly visual cortex for things like Braille,
+阅读和听力
+reading and hearing,
+因为我的大脑已经变了  它和我婴儿时的大脑不一样了
+because my brain has changed its not the same brain I had when I was a baby.
+这是生物学的原理
+So there's actually a principle of biology.
+没有多少人知道这一点
+Not many people know this.
+这是因为神经学的一个基本原理
+It's an associate principal neurology,
+叫肯纳德原理
+which is called the Kennard Principle,
+这个原理表明  如果你的大脑要受伤
+which says if you're going to have a brain injury,
+最好是在生命早期受伤  当然了
+you want to have it early in life and of course,
+最好是完全没有脑损伤
+better to not have a brain injury at all.
+但如果你有脑损伤的话
+But if you're going to have it,
+你会想要它发生在生命的早期
+you want to have it early in life.
+这是建立在大量实验的基础上
+And this is based on a tremendous number of experiments
+这些实验检测了人类大脑在早期或晚期
+examining the amount of recovery and the rate of recovery in humans that had lesions
+受到损伤的恢复量和恢复速度
+to their brain either early in life or later in life.
+所以肯纳德原则认为 最好是在生命早期就受伤
+So the kennard principle says better to have injuries early in life.
+这可能会让年轻人松口气
+Now that's reassuring for the young folks.
+但对老人们来说就不是什么好事情了
+It's not so reassuring for the older folks.
+但是神经可塑性的某些方面与损伤的时间早晚
+But there are aspects of neuroplasticity to have nothing to do with impairments mean.
+无关
+earlier.
+我说
+I said.
+我们都带着这张地图到处走
+We're all walking around with this map.
+它代表了我们周围的世界 这样我们就能看到棱角
+This representation of the world around us so we can see edges,
+我们能看到颜色
+we can see colors,
+当然除了色盲的人看不到颜色
+except for folks there colorblind for of course,
+我们也有一张情感体验的地图
+and we also have a map of emotional experience.
+我们有一张关于什么人是否值得信任的地图
+We have a map of whether or not certain people are trustworthy.
+哪些人不值得信任
+Some people aren't trustworthy.
+几年前
+A few years ago.
+我在上一门课 一位女士走过来  对我说
+I was at a a course and a woman came up to me and she said,
+嗯...
+You know,
+我只是
+I just,
+不是我在教这门课
+I wasn't teaching the course.
+我当时在上课   她走过来说
+I was in the course and she said,
+我只想告诉你 每次你一开口说话
+I just have to tell you that every time you speak,
+就会让我很紧张
+it really stresses me out.
+我说
+And I said,
+好吧
+Well,
+我以前也听过别人这么说
+I've heard that before.
+但你想说得更具体些吗
+But do you want to be more specific?
+她说
+And she said,
+是的
+Yeah,
+你的语气让我想起了一个给我生活带来可怕经历的人
+your tone of voice reminds me of somebody that I had a really terrible experience with,
+我说
+I said.
+好吧
+Well,
+好吧
+okay,
+我真希望能改变我的声音
+why can't change my voice?
+我很感激你能告诉我这一点
+I really appreciate that you acknowledge that,
+这也就能解释  为什么每次我说话你似乎都会畏缩
+and it also will help explain why you seem to cringe every time I speak,
+直到那时我才注意到这一点
+which I hadn't noticed until then,
+但在那之后 我的确注意到  她对我的演讲有一种非常直接的发自内心的反应
+but after that I didn't notice she had a very immediate and kind of visceral response to my speech.
+也许你们中的一些人现在就有这种感觉
+Perhaps some of you are having that right now.
+但无论如何
+But in any event,
+在那两周的课程中
+over the period of this two week course,
+她每隔一段时间就会回来说
+she would come back every once in a while and say,
+你知道我是怎么想的吗  告诉你你的声音让我很难接受这件事
+You know what I think just by telling you that your voice was really difficult for me to listen to.
+说着说着  结果我变得越来越容易忍受了
+It's actually becoming more tolerable to me,
+到最后 我们成了非常好的朋友 一直保持着联系
+and by the end we actually became pretty good friends and were still in touch.
+这就是说 对某物的认识
+And so what this says is that the recognition of something,
+不管这是否是一种情感上的东西 还是一种学习其他东西的欲望
+whether or not that's an emotional thing or a desire to learn something else,
+实际上是神经可塑性的第一步
+is actually the first step in neural plasticity.
+这是因为我们的神经系统有两大功能
+And that's because our nervous system has two broad sets of functions.
+有些反射性的功能 比如我们的呼吸
+Some of those functions are a reflexive things like our breathing,
+我们的心率
+our heart rate are obvious ones,
+但另一种反射性的功能
+but other aspects are reflexive,
+比如我们走路的能力
+like our ability to walk.
+如果我从椅子上站起来 走出门
+If I get up out of his chair and walk out of the door,
+我不会考虑我走的每一步
+I don't think about each step that I'm taking.
+那是因为我在发育过程中学会了如何行走
+and that's because I learned how to walk during development.
+但当我们决定要改变某种行为或反应时
+But when we decide that we're going to shift some sort of behavior or some reaction,
+或者一些我们想要学习的新信息时
+or some new piece of information that we want to learn
+这些都是我们想要带入意识中的东西
+is something that we want to bring into our consciousness.
+这种意识是一件了不起的事情因为它激发了大脑和神经系统的其他部分
+That awareness is a remarkable thing because it accused the brain and the rest of the nervous system
+当我们继续做这些反射性行为时
+that when we engage in those reflexive actions going forward that
+这些反射性行为就不再是天生的反射性行为了
+those reflexive actions are no longer faded to be reflexive.
+不过
+Now,
+如果这听起来有点抽象
+if this sounds a little bit abstract,
+我们之后将讨论如何做到这一点的方案
+we're going to talk about protocols for how to do this.
+神经可塑性的第一步是  认识到你想要改变什么
+The first step in neural plasticity is recognizing that you want to change something
+你应该马上就会想到
+and you should immediately say well,
+孩子们去学校的时候  可不会说
+kids don't go into school and say,
+哦
+Oh,
+我想学语言  或者我想学社交
+I want to learn language or I want to learn social interactions,
+这就是童年的美好
+and that's the beauty of childhood,
+整个大脑的开关都被打开了
+the whole brain has this switch flipped.
+这使得改变成为可能
+That is making change possible,
+但在那之后 我们必须刻意地去想
+but after that we have to be deliberate.
+我们必须知道 我们到底想要改变什么
+We have to know what it is exactly that we want to change or
+或者如果我们不知道到底想要改变什么
+if we don't know exactly what it is that we want to change,
+我们至少要知道 我们想要
+we at least have to know that we want to change something about
+改变一些特定的经历
+some specific experience in this case.
+我相信她来告诉我  我的声音对她来说很难受
+I believe that she came and told me that my voice was really awful for her to listen to,
+并不是为了让我难过 或其他原因
+not to make me feel bad or for any other reason,
+只是她不想再继续这样下去了
+except that she wanted it to not be the case,
+她知道我不会停止说话
+and she knew I was going to stop talking.
+所以她决定把它放入意识中  同时也放到我的意识里
+so she decided to call it to her consciousness in mine as well.
+所以这很重要 如果你想学习一些东西
+So that's important if you want to learn something
+或者你想以任何方式改变你的神经系统
+or you want to change your nervous system in any way,
+不管是不是
+whether or not,
+因为某些损伤
+Because of some impairment,
+或者因为你想要得到什么
+or because of something that you want to acquire,
+认知技能
+a cognitive skill,
+运动技能
+a motor skill,
+一种情感的技巧
+an emotional skill.
+首先要认识到这是什么
+The first thing is recognising what that thing is,
+这通常是最难鉴定的
+and that often can be the hardest thing to identify.
+但大脑有自我识别机制
+But the brain has the self recognition mechanisms,
+这些自我识别机制并不模糊
+and those self recognition mechanisms are not vague,
+并不灵性或神秘
+spiritual or mystical,
+也不是心理学概念
+or even psychological concepts.
+它们是神经化学物质  我们接下来要讲的是神经化学物质
+They are neural chemicals were going to talk next about the neural chemicals that
+这些化学物质压制了特定的行为 思想和情感模式
+stamped down particular behaviors and thoughts and emotional patterns
+并告诉神经系统的其他部分
+and tell the rest of the nervous system.
+这是需要注意的
+This is something to pay attention to,
+因为这正是我想要做出改变的方向
+because this is in the direction of the change that I want to make.
+我要重复一遍 一些特定的化学物质
+So I'll repeat that there are specific chemicals that,
+当我们有意识地意识到  我们想要做出的改变的时候
+when we are consciously aware of a change we want to make
+或者仅仅是我们脑子里想了一下 要做出一些改变
+or even just that we want to make some change.
+大脑中就会释放出的化学物质  让我们有机会做出这些改变
+Chemicals are released in the brain that allow us the opportunity to make those changes.
+现在科学告诉我们 如果我们想要这些改变发生
+Now there are specific protocols that science tells us we have to follow
+我们必须遵循特定的方法
+if we want those changes to occur,
+自我认知并不是一个模糊的概念
+but that self recognition is not a kind of murky concept,
+它是我们的前脑
+What it is is it's our forebrain,
+尤其是前额皮质
+in particular prefrontal cortex,
+向我们神经系统的其他部分发出信号
+signaling the rest of our nervous system that something that
+告诉它  即将感受到或经历的事情是我们值得关注的
+we're about to do here feel or experience is worth paying attention to,
+我们现在这里停一下 然后继续
+so we'll pause there and then I want to move forward.
+通常有一个很大的问题 这问题现在越来越突出了
+One of the biggest lies in the universe that seems quite prominent right now.
+那就是人们喜欢说  你的每一次经历都会改变你的大脑
+Is that every experience you have changes your brain people love to say this.
+他们喜欢说  你的大脑在这节课之后 会和两天前不一样
+They love to say your brain is going to be different after this lecture
+今天的课之后你的大脑会和两天前不一样
+that your brain is gonna be different after today's class than it was two days ago.
+这绝对不是真的
+And that's absolutely not true.
+神经系统不会因为你的经历而改变
+The nervous system doesn't just change because you experience something
+除非你是一个非常小的孩子
+unless you're a very young child.
+当某些神经化学物质被释放出来时 神经系统就会发生变化
+The nervous system changes when certain neural chemicals are released
+在这些化学物质在四处游动的时候 让某些神经元都处于活跃状态
+and allow whatever neurons are active in the period in which those chemicals are swimming around.
+加强或削弱这些神经元之间的联系
+To strengthen or weaken the connections of those neurons
+最好通过一点科学史来说明这一点
+Now this is best illustrated through a little bit of scientific history.
+神经可塑性的整个基础  基本上是从几个人的研究中来
+The whole basis of neural plasticity is essentially ascribed to individuals.
+尽管有很多人参与了这项工作
+Although there were a lot more people that were involved in this work,
+有两个人的名字分别是大卫·休伯尔和托斯坦·维厄瑟尔
+those two individuals go by the name David Hubel and Torsten Weasel,
+大卫·休伯尔和托斯坦·维厄瑟尔 从约翰·霍普金斯大学开始
+David Hubel and Torsten Weasel started off at Johns Hopkins,
+之后搬到哈佛医学院
+moved to Harvard Medical School
+到了七八十年代
+and in the seventies and eighties.
+他们做了一系列的实验来记录大脑的电活动
+They did a series of experiments recording electrical activity in the brain.
+视觉皮层的电活动
+They were in the visual cortex,
+也就是说他们把电极放在视觉皮层
+meaning they put the electrodes in the visual cortex,
+他们探索视觉是如何工作的
+and they were exploring how vision works
+以及视觉大脑是如构造视觉世界的特征
+and how the visual brain organizes all the features of the visual world.
+然后给我们留下了不可思议的研究
+To give us these incredible things,
+我们称之为视觉感受野
+we call visual perceptions.
+休伯尔是个医生 他对一些事情的构成很感兴趣
+Hubel was a physician and he was very interested in what happens when,
+例如
+for instance,
+一个孩子来到这个世界的时候 他患有白内障
+a child comes into the world and they have a cataract,
+眼睛的晶状体虽然清澈  但却不透明
+the lens of their eyes and clear but its opaque.
+或者当孩子有弱视或者斜视时
+or when a kid has a lazy eye or the eyes have what's called strabismus,
+也就是眼睛向内或向外偏移的时候
+which is when the eyes either deviate outward or inward.
+这些都是童年时期很常见的事情
+These are very common things of childhood,
+特别是在世界的某些特定地区
+especially in particular areas of the world.
+大卫和托斯坦做了什么呢
+And what David and Torsten and did,
+他们发现
+as they figured out,
+有一个关键的时期
+that there was a critical period in which.
+如果没有清晰的视觉 视觉大脑就会完全重新连接自己
+A clear vision did not occur the visual brain would completely rewire itself basically 
+来自己表示进入大脑的所有视觉信息
+to represent whatever bit of visual information was coming in,
+所以他们做了这些实验
+so they did these experiments,
+模拟了一些
+the kind of simulator,
+比如说一只眼睛肌无力  或者偏斜眼
+a droopy eyes or a deviating eye where they were closed.
+把这只闭起来
+One eye lid,
+然后他们发现视觉大脑会完全对另一只睁开的眼睛做出反应
+and then what they found is that the visual brain would respond entirely to the open eye.
+睁开的眼睛接管了视觉大脑 它作为了视觉代表
+There was sort of a takeover of the visual brain representing the open eye.
+很多不同感觉系统的实验都在跟进这个
+Many experiments in many different sensory systems followed up on this.
+这些出彩的实验
+They're beautiful experiments,
+比如格雷格·瑞坎宗在加州戴维斯的实验室
+for instance from Gregg H. Recanzone Lab at UC Davis.
+还有迈克·梅兹尼克
+C Davis and Mike Merzinick's
+在UCSF的实验室 都表明
+labs at UCSF showing that,
+例如
+for instance,
+如果两根手指在发育早期被粘在一起 那么它们就不能独立活动
+if two fingers were taped together early in development so they weren't moving independently.
+这两根手指的感觉会在大脑中产生混淆
+The representation of those two fingers would be confused in the brain 
+这样人们就无法真正分辨这两根手指的动作和感觉
+so that the person couldn't actually distinguish the movements and the sensations of the two fingers.
+无法区分
+Separately,
+相当棒的研究
+pretty remarkable.
+最后  大卫和托斯坦的研究赢得了诺贝尔奖
+All of this is to say that David and Torsten work for which they won a Nobel Prize.
+和罗杰·斯佩里一起获了奖
+They shared it with Roger Sperry.
+他们的研究表明 大脑实际上是一幅外部世界的定制地图
+Their work showed that the brain is in fact a customized map of the outside world.
+我已经说过这句话了
+We said that already,
+它所做的是测量我们身体某个部位的活动量
+but that what it's doing is it's measuring the amount of activity for a given part of our body,
+一个 另一个
+one or the other,
+或者我们的手指
+or our fingers.
+这个手指
+this finger,
+手指和所有其他的输入都在争夺大脑的空间
+that finger and all of those inputs are competing for space in the brain.
+这一点非常重要 因为这意味着
+Now this is fundamentally important because what it means is that 
+如果我们要在成年后改变我们的神经系统
+if we are to change our nervous system in adulthood,
+我们需要考虑的不仅仅是我们想要得到什么
+we need to think about not just what we're trying to get,
+而且还要考虑  我们要放弃什么
+but what we're trying to give up.
+我们不能在不移除其他东西的情况下  添加新的连接
+We can't actually add new connections without removing something else,
+这听起来可能有些讽刺
+and that might seem like kind of a stinger,
+但这实际上是一个很大的优势
+but it actually turns out to be a great advantage.
+大卫和托斯坦做的一个关键实验是
+One of the key experiments that David and Torsten did was an experiment 
+他们将受试者双眼闭上
+where they closed both eyes,
+在发育早期闭上  这样他们基本上删除了所有的视觉输入
+where they essentially removed all visual input early in development.
+这和失明有点不同
+Now this is slightly different than blindness.
+因为它是短暂的
+Because it was transient.
+只是很短的一段时间闭上
+it was only for a short period of time,
+但他们发现 当他们这么做的时候
+but what they found is when they did,
+大脑没有变化
+that there was no change,
+然而
+however.
+当只是闭上
+They were closed,
+一只眼睛的时候
+just one eye.
+发生了一个巨大的变化
+There was a huge change.
+所以当有人在某节课的最后告诉你  听完这堂课之后
+So when people tell you owe at the end of today's lecture at the end of something,
+你的大脑会变得完全不同
+your brain is can be completely different.
+这根本是假的
+That's simply not true.
+如果你超过25岁
+If you are older than twenty five,
+你的大脑不会改变 除非你的注意力有选择性的转移
+your brain will not change unless there's a selective shift in your attention 
+或者你的经历有选择性的转移 告诉大脑是时候改变了
+or a selective shift in your experience that tells the brain it's time to change,
+而且这些变化是通过我所说的方式发生的
+and those changes occur through the ways I talked about.
+在我们讨论加强和削弱特定的联系之前说的
+Before strengthening and weakening of particular connections.
+比如长期增强作用
+they have names like long-term potentiation,
+长期抑制作用
+longterm Depression,
+顺便说一下这和情绪抑郁没有关系
+which has nothing to do with emotional depression by the way
+ 还有 尖峰时间依赖性可塑性
+spiked timing dependent plasticity.
+我放出这么多术语不是为了扰乱你们
+I throw those names not to confuse you,
+如果有观众想要更深入探索
+But for those of you that would like more indepth exploration of those please,
+可以去查一下这些
+you can go Google those and look them up,
+它们在维基百科上有很棒的解释 你可以查这些文献
+they're great Wikipedia pages for them and you can go down the paper trail I might even touch.
+在接下来的几个月里我可能还会再说
+On the months of subsequent episodes.
+重要的是要明白 如果我们想要改变某件事
+The important thing to understand is that if we want something to change,
+无论我们想要改变的是什么 我们真的需要的是激发起自己巨大的关注
+we really need to bring an immense amount of attention to whatever it is that we want to change.
+这与我之前所说的有关
+This is very much linked to the statement I made earlier about.
+一切都从意识开始
+It all starts with an awareness now.
+为什么这种关注很重要
+Why is that attention important?
+好吧
+Well,
+大卫和托斯坦因为这个获得了诺贝尔奖
+David and Torsten one their Nobel Prize,
+这是他们应得的
+and they certainly deserved it.
+其实应该给他们颁两个 因为他们还研究出了视觉是如何运作的
+They probably deserve to because they also figured out how vision works,
+我可能会有偏见 因为他们是我们领域的大家
+and I might be bias because they're my scientific,
+伟大的前辈
+great grandparents.
+但我想神经科学领域的每个人都同意这一点
+But I think everybody in the field of neuroscience agrees that.
+休伯尔和维厄瑟尔
+Hubel and Wiesel,
+在业界中他们被称为H和W
+as they're called H and W for those in the game,
+他们的研究工作的绝对值得获得诺贝尔奖
+absolutely deserved a Nobel Prize for their work
+ 因为是他们揭示了大脑可塑性改变的机制
+because they really unveiled the mechanisms of brain change of plasticity.
+大卫几年前去世了 托斯坦现在仍活着  已经90多岁
+David passed away a few years ago Torsten still lives in his late nineties,
+他还在洛克菲勒大学任教
+he still at the Rockefeller University.
+他依然雷厉风行
+He's sharp as a tack,
+仍然坚持每天慢跑几英里
+He still jogs several miles a day.
+他很喜欢艺术  还有其他很多爱好
+He's really into art and a number of other things.
+他也是一个超级好的人
+He's also a super nice guy.
+休伯尔是个很好的人  他也是个很棒的飞盘手
+Hubel was a really nice guy as well as also he was a great Frisbee player,
+我知道这个  是因为他在八十多岁的时候  在一场游戏里打败了我
+I discovered because he beat me in a game of ultimate when he was like 80,
+搞得我现在还有点烦
+which still tells me a little bit irked.
+但无论如何
+but anyway,
+休伯尔和维厄瑟尔为科学做出了惊人的贡献
+Hubel Weasel did an amazing thing for science 
+那将永远改变我们思考大脑的方式
+that will forever change the way that we think about the brain.
+然而
+However,
+他们对“关键时期”的看法是错误的
+they were quite wrong about this critical period thing.
+“关键时期”指的是 如果你剥夺了神经系统的输入
+The critical period was this idea that if you were to deprive the nervous system of an input,
+比如
+say,
+在发育早期闭上一只眼睛
+Closing one eye early in development and 
+视觉皮层的其余部分就会被睁开眼睛的输入所取代
+the rest of the visual cortex is taken over by the representation of the open eye.
+除非你及早介入 否则你之后将永远无法改变
+That you could never change that unless you intervened early,
+这实际上就构成了  为什么一个孩子会有弱视或白内障
+and this actually formed the basis for why a kid that has a lazy eye or a cataract.
+为什么
+Why,
+尽管在麻醉和儿童方面存在一些问题
+even though there are some issues with anesthesia and young children,
+为什么小孩要尽早去眼科医生那里
+why now we know that you want to get in there early and 
+治疗白内障或斜视呢
+fix the cataract or fix the strabismus toward ophthalmologists do
+然而
+However,
+他们认为 小孩必须尽早治疗
+their idea that you had to do it early,
+否则就没有机会挽救神经系统的缺陷
+or else there was no opportunity to rescue the nervous system deficit 
+后来被证明这不是完全正确的
+later on turned out wasn't entirely true.
+在90年代早期
+In the early nineties,
+一个叫格雷格·瑞坎宗的研究生
+a graduate student by the name of Gregg H. Recanzone was 
+在迈克·梅兹尼克的实验室里
+in the laboratory of a guy named Mike Merzinick
+在加州旧金山大学
+UCSF,
+他们验证了 原本说如果一个人想要改变他们的大脑
+and they set out to test this idea that if one wants to change their brain,
+必须在生命早期接受 因为成人的大脑根本就不具有可塑性
+they need to do it early in life because the adult brain simply isn't plastic.
+不会再发生这种变化了  这个说法是不对的
+It's not available for these changes.
+他们做了一系列非常漂亮的实验
+And they did a series of absolutely beautiful experiments.
+到目前为止
+By now,
+我想可以这么说 事实证明  成年人的大脑可以改变
+I think we can say proving that the adult brain can change,
+前提是满足某些条件
+provided certain conditions are met.
+他们做的实验很困难
+Now the experiments they did are tough,
+他们对实验者很严厉
+they were tough on the experimenter,
+他们在这个问题上很强硬
+and they were tough on the subject.
+我来描述一个
+I'll just describe one.
+假设你是他们某个实验的对象
+Let's say you are a subject in one of their experiments,
+你走进实验室 先坐在桌子旁
+you would come into the lab and you'd sit down at a table
+ 他们会记录你大脑中的成像 并观察你手指的表现
+and they would record from or image brain and look at the representation of your fingers.
+指头
+The digits,
+我们这样叫
+as we call them,
+你面前会有一个旋转的鼓
+and there would be a spinning drum,
+真的
+literally like.
+在你面前的石鼓上  有小的凸起
+The stone drum in front of your metal drum that had little bumps.
+有些凸起靠得很近
+Some of the bumps were spaced close together,
+有些离得很远
+some of the more spaced far apart,
+他们会在期望实验对象在做实验的时候
+and they would do these experiments where they would expect their subjects too.
+每当在凸起变得更近
+Press a lever whenever,
+或离得更远的时候
+for instance,
+拉一下操作杆
+the bumps got closer together or farther apart,
+这些靠近 远离  都是非常细微的差别
+and these were very subtle differences.
+如果想要观察到这些
+So in order to do this,
+你必须全神贯注在两个凸起之间的距离
+you really have to pay attention to the distance between the bumps.
+受试者不是盲文读者  也不是做这种实验的老手
+and these were not Braille readers or any one skilled in doing these kinds of experiments.
+但他们发现 随着受试者越来越关注
+What they found was that as people paid more and more attention to 
+这些凸起之间的距离
+the distance between these bumps,
+当有变化时 受试者会通过按一个控制杆来表示
+and they would signal when there was a change by pressing a lever,
+他们这么做的时候
+as they did,
+手指的可塑性变化非常快
+that there was very rapid changes plasticity in the representation of the fingers 
+而且可以向任何方向发展
+and it could go in either direction.
+受试者开始变得非常擅长观察凸起之间的距离
+You could get people very good at detecting the distance between bombs that 
+随着距离越来越小
+with the distance is getting smaller,
+或者说越来越大
+or that it was getting greater,
+人们可以很好地完成这些任务
+so people could get very good at these tasks that you're kind of hard to imagine 
+你很难想象他们如何将这些任务转化为现实世界的任务  而他们明明不是盲文读者
+how they would translate to the real world for a non Braille reader.
+但这实验告诉我们的是 这些触觉地图
+But what it told us is that these maps of touch,
+可塑性很强
+we're very much available for plasticity,
+这些都是成年受试者
+and these were fully adult subjects.
+他们没有服用任何特定的药物
+They're not taking any specific drugs.
+据我们所知 他们本身没有任何损伤
+There now don't have any impairments that we're aware of.
+这实验证明了成人的大脑是非常具有可塑性的
+And what it showed when it proved is that the adult brain is very plastic 
+他们做了一些漂亮的对照实验 这些实验对每个人来说都很重要
+and they did some beautiful control experiments that are important for everyone to understand,
+有时他们会把人带到这里
+which is that sometimes they would bring people in 
+让他们触摸旋转鼓上的突起
+and they would have them touched the these bumps on this spinning drum.
+但他们同时会放一个声音  让受试者注意
+But they would have the person pay attention to an auditory cue
+每当一个音调下降 或者音调发生了变化
+Every time a tone would go off or there was a shift in the pitch of that tone,
+他们必须发出信号
+they would have to signal that so 
+受试者都认为自己在做一些与触觉和听觉有关的事情
+the subject thought they were doing something related to touch and hearing,
+但这一切都表明 这不仅仅是触摸这些凸起的行为
+and all that showed was that it wasn't just the mere action of touching these bumps.
+他们必须自己去关注这些凸起
+They had to pay attention to the bumps themselves,
+如果他们把注意力放在听觉上 放在音调上
+if they had were placing their attention on the auditory queue on the tone will 
+那么大脑的听觉部分就会有可塑性
+then there was plasticity in the auditory portion of the brain,
+而不是在大脑的触觉部分了
+but not on the touch portion of the brain,
+这与你经常听到的说法截然不同
+and this really spits in the face of this thing that you hear so often,
+你的每一次经历都会改变你大脑的运作方式
+which is every experience that you have is going to change the way your brain works 
+绝对不是
+absolutely not.
+只有你非常非常关注某件事情的时候
+The experiences that you pay super careful attention to our,
+它才会开启你的可塑性  开启了特定体验的可塑性
+what open up plasticity and it opens up plasticity to that specific experience.
+所以这个问题
+So the question,
+然后
+then,
+他的研究生和博士后继续解决这个“为什么会这样”的问题
+is why and Moronic and his graduate students and post docs went on to address this question of why.
+结果答案  是一个非常直接的神经化学原理
+and it turns out the answer is a very straightforward neurochemical answer,
+在这个答案是  我们每个人 在一生中的任何时刻
+and inside of that answer is the opportunity for any of us to change our brain 
+都有机会可以改变大脑
+at any point throughout our lifespan.
+不管是对于我们想要学习的任何东西
+Essentially for anything that we want to learn.
+还是从我们的经历中减去痛苦情感
+that could be subtracting in emotion from an experience we've had,
+或者可以让你的情绪变得更丰富
+it could be building a greater range of emotion.
+可以是学习新的信息 比如学习一门新的语言
+It could be learning new information like learning a new language.
+也可以是学习新的运动技能 比如跳舞或运动
+It could be learning new motor skill like dance or sport,
+或者可能是某种认知的组合
+or it could be some combination of cognitive motor.
+所以
+So,
+例如
+for instance,
+空中交通管制员  除了用手做很多事情外 他们还需要用大脑做很多事情
+an air traffic controller has to do a lot with their mind in addition to a lot with their hands.
+所以这不仅仅是认知
+so it's not just cognitive,
+不仅仅是运动 而是结合在一起的
+it's not just motor but combined,
+接着我们来讨论一下这种化学物质是什么
+so we're going to talk about what that chemical is,
+但是给你们一个重要的提示
+but to just give you an an important hint,
+这种化学物质  就是产生压力的化学物质
+That chemical is the same chemical of stress.
+我们没有要讨论压力本身
+This is not a discussion about stress per se.
+在以后的播客中
+In a future podcast episode,
+我们之后会讨论压力和应对压力的工具
+we'll talk all about stress and tools to deal with stress,
+这是我实验室里广泛研究的课题
+something my lab works on quite extensively,
+是个我喜欢讨论的话题
+and it's a topic that I enjoy discussing.
+这是一个关于大脑变化的话题
+This is a topic about brain change and 
+我刚刚说的是 为了改变大脑
+what I just told you is that in order to change the brain,
+你必须非常专注
+you have to pay careful attention,
+接下来就要说为什么要这么做
+and the immediate question should be well why?
+好
+well,
+答案是 当我们全神贯注时
+the answer is that when we pay careful attention,
+有两种神经化学物质  神经递质
+there are two neural chemicals neuromodulators,
+它们从我们大脑的多个部位释放出来
+as they're called that are released from multiple sites in our brain that 
+突出了有可能改变的神经回路
+highlight the neural circuits that stand a chance of changing 
+不过这个阶段它们还不一定会改变
+now it's not necessarily the case that they're going to change,
+但为了让改变发生  这是第一扇必须打开的门 第一个神经化学物质
+but it's the first gate that has to open in order for change to occur and the first neurochemical.
+就是肾上腺素(脑部)
+Is epinephrine.
+以及肾上腺素(腺部)
+Also adrenaline.
+当它从肾脏上方的肾上腺释放出来时 我们称之为adrenaline
+We call it a adrenaline when it's released from the adrenal glands above our kidneys,
+那是在身体里
+that's in the body.
+我们把大脑中的肾上腺素称为epinephrine
+We call epinephrine in the brain.
+但它们在化学上是相同的物质
+But they are chemically identical substances.
+脑部肾上腺素是从大脑的某个脑干区域释放出来的
+Epinephrine is released from a region in the brain.
+称为蓝斑   一个很花哨的名字
+stem called locus coeruleus fancy name.
+你不需要知道 除非你想好好了解
+You don't need to know it unless you want to.
+蓝斑延伸出小回路
+locus coeruleus sends out these little wires,
+我们称轴突  蓝斑将通过肾上腺素刺激整个大脑
+we call axons such that it hoses the entire brain essentially in this neurochemical epinephrine.
+蓝斑并不一直在通过肾上腺素刺激大脑
+Now it's not always hosing the brain with epinephrine,
+只有当我们处于高度警觉状态时 这种肾上腺素才会释放出来
+and it's only when we are in high states of alertness that this epinephrine is released.
+但是这个回路的设计
+But the way this circuit design,
+是非特异性的
+it's very non specific.
+它本质上是唤醒整个大脑
+it's essentially waking up the entire brain.
+这是因为肾上腺素通过与特定受体结合而起作用
+That's because the way that epinephrine works by binding particular receptors is 
+这种方式增加了神经元发挥作用的可能性
+to increase the likelihood that neurons will be act.
+所以如果没有警觉性
+So no alertness,
+就没有神经可塑性
+no neural plasticity.
+然而
+However,
+仅仅警觉清醒是不够的
+alertness alone is not sufficient,
+这是必要条件
+as we would say it's necessary,
+但对神经可塑性的发生来说还不够充分
+but not sufficient for neural plasticity.
+我们从休伯尔和维厄瑟尔的研究中也知道这一点
+We know this is true also from the work of Hubel Weasel,
+他们观察了大脑对某些经历的反应
+where they looked at brain plasticity in response to certain experiences in subjects 
+无论是清醒还是睡眠中
+that were either awake or asleep.
+我不想让你失望
+And I hate to break it to you.
+但你不能通过在睡梦中听这些东西 然后就进行学习
+But you cannot just simply listen to things in your sleep and learn those materials later.
+我之后会讲一些你如何在睡眠中做一些 你没有意识到的事情
+I'll talk about how you can do certain things in your sleep that you're unaware of 
+从而增强你在清醒时有意识的学习能力
+that enhance learning of things that you were aware of while you were awake.
+但这和你睡觉时听音乐或听磁带
+But that is not the same as just listening to some music or listening to a tape 
+并期待知识被吸收  这是不一样的
+while you sleep and expecting it to sink in,
+可以这么说
+so to speak.
+当我们集中注意力并保持警觉时 肾上腺素就会释放
+Epinephrine is released when we pay attention and when we are alert.
+获得可塑性最重要的首先是肾上腺素
+But the most important thing for getting plasticity is that there be epinephrine,
+这就等同于警觉性
+which equates to alertness.
+再加上神经调节物质乙酰胆碱的释放
+Plus the release of this neuromodulator acetylcholine.
+乙酰胆碱从大脑的两个部位释放出来
+Now acetylcholine is released from two sites in the brain.
+一个也在脑干
+One is also in the brain stem,
+不同的动物身上有不同的名字
+and it's named different things in different animals.
+在人类身上
+But in humans,
+产生乙酰胆碱的神经元中最丰富的位置是
+the most rich site of acetylcholine neurons were neurons that make acetylcholine is
+副交感神经核 或者 副交感神经区域
+the parasympathetic nucleus or the parasympathetic region.
+这些神经元聚集物有许多不同的名称
+There are number of different names of these aggregates of neurons.
+你不需要知道这些具体名字
+You don't need to know the names all you need to know is that 
+你只需要知道脑干那边有个区域
+you have an error in your brain stem and that area.
+那个区域发出回路
+Since wires,
+这些轴突向上投射进入大脑中  过滤感官的输入
+these axons up into the area of the brain that filters sensory inputs.
+我们大脑中有一个叫做丘脑的区域
+We have this area of the brain called the Thalamus,
+它一直受到各种感官信息的狂轰滥炸
+and it is getting bombarded with all sorts of sensory and put all the time.
+比如科斯特洛在我右边打呼噜
+Costello snoring off to my right,
+房间里的灯这样照着我
+the lights that are in the room,
+在我左边还有电脑
+the presence of my computer to my left.
+所有这些都灌进来
+All of that is coming in.
+但是当我注意到一些东西的时候 比如我在关注科斯特洛的鼾声
+But when I pay attention to something like I really hone in on Costello snoring.
+我创造了一个注意力集中点
+I create a cone of attention and 
+这个注意力集中点反映的是  乙酰胆碱在放大信号
+what that cone of attention reflex is that acetylcholine is now amplifying the signal.
+让科斯特洛打鼾这个信号放大
+of sounds that Costello is making with his snoring and essentially making that signal 
+比周围其他的信号都大
+greater than all the signal around it.
+用我们的话讲就是  信噪比会增加
+What we call signal to noise goes up,
+有工程背景的人应该很熟悉信噪比这个概念
+so those of you with an engineering background will be familiar signal to noise.
+那些没有工程背景的人
+Those who do not have an engineering background.
+别担心
+Don't worry about it.
+这意思就是  听到人群中有一声特别的喊叫声
+All it means is that one particular shout in the crowd comes through costello's.
+或者科斯特洛的打鼾变得更加明显
+Snoring becomes more salient more apparent relative 
+与发生的其他事情相比更加明显
+to everything else going on 
+乙酰胆碱就像一个聚光灯
+acetylcholine acts as a spotlight.
+肾上腺素象征着警觉性
+Epinephrine for alertness,
+乙酰胆碱则是
+acetylcholine,
+让这些特定的输入变得明显
+spotlighting these inputs,
+光是这两样神经递质还不足以获得可塑性
+those two things alone are not enough to get plasticity.
+还需要第三个要素
+There needs to be this third component,
+第三种物质是基底核释放出来的乙酰胆碱
+and the third component is acetylcholine released from an area of the forebrain called nucleus basalis ,
+如果你想要听技术上的名词
+If you really want to get technical,
+它具体叫 nucleus basalis of Mynert（基底核）
+it's called nucleus Bacillus of my note,
+对于那些正在准备当医生的
+for any of you that are budding,
+或者准备去医学院读书的人
+physicians are going to medical school.
+你们应该记住这些名词
+You should know that.
+如果你有从脑干释放出来的乙酰胆碱
+If you have acetylcholine released from the brain,
+有基底核释放出来的乙酰胆碱  再加上肾上腺素
+stem acetylcholine  released from nucleus Bacillus and epinephrine,
+你就可以改变你的大脑
+you can change your brain.
+我可以自信地说 因为梅兹尼克和瑞坎宗
+And I can say that with confidence because Merzinick and Recanzone,
+还有实验室的其他成员
+as well as other members of the mercenary lab,
+迈克尔·基尔加德 还有其他人做了这些令人惊叹的实验
+Michael Kilgaard and others did these incredible experiments,
+他们刺激基底核  释放乙酰胆碱
+where they stimulated the release of acetylcholine from nucleus basalis,
+无论是用电极还是其他一些方法 我们之后会讲到
+either with an electrode or with some other methods that we'll talk about 
+他们发现  当你刺激大脑这三个区域时
+and what they found was when you stimulate these three brain regions.
+蓝斑
+locus ceruleas,
+脑干  还有 基底前脑
+the brainstem source of acetylcholine and then the basal forebrain source of acetylcholine.
+当你刺激这三个部位
+When you have those three things.
+无论你正在听什么 正在做什么 或者正在注意什么
+Whatever you happen to be listening to doing or paying attention to 
+这件事情都会立刻占据大脑的特定区域
+immediately in one trial takes over the representation of a particular area of the brain.
+你会在一瞬间里 突然进入
+You essentially get rapid,
+快速 大量的学习模式
+massive learning in one shot,
+这一点在很多论文中被反复证明过
+and this has been shown again and again and again in a variety of papers,
+加州大学欧文分校的诺曼·温伯格也证明了
+also by a guy named Norman Weinberger from UC Irvine.
+它现在被认为是神经系统工作的基本原理
+And it is now considered a fundamental principle of how the nervous system works.
+因此 当休伯尔和维厄瑟尔讨论关键时期和发育可塑性时
+So while Hubel Weasel talked about critical periods and developmental plasticity,
+从梅兹尼克和温伯格的研究中  可以很清楚地看到 如果你同时刺激这三个区域
+it's very clear from the work of Merzinick and Weinberger and others that if you get these three things,
+如果你能得到肾上腺素
+if you can access these three things of epinephrine
+加上两个位置释放的乙酰胆碱
+acetylcholine from these two sources,
+神经系统不仅会改变
+not only will the nervous system change,
+而且它必须改变
+it has to change.
+一定会改变
+it absolutely will change.
+这是你们需要知道的最重要的事情
+and that is the most important thing for people to understand.
+如果想改变大脑
+If they want to change the brain,
+你不能只是被动地体验事物
+you cannot just passively experience things 
+虽然重复很重要
+and repetition can be important.
+但是利用重复来改变大脑的方式是完全不同的
+but the way to use repetition to change your brain is fundamentally different.
+现在让我们来谈谈我们如何将所有这些科学信息和历史
+So now let's talk about how we would translate all the scientific information and history
+ 转化成一些你可以实际应用的方法
+into some protocols that you can actually apply it.
+因为我认为这是你们很多人感兴趣的
+Because I think that's what many of you are interested in,
+我敢打赌 你们大多数人不会把电极放到基底核里
+and I'm willing to bet that most of you are not interested in lowering electrodes into your nucleus basalis
+坦白说
+and frankly,
+我也不想
+neither am I.
+在本播客的第一期里
+In episode one of the HubermanLab podcast,
+我讲了如何去观察和改变神经系统的各种方法
+I described the various ways that people can monitor and change their nervous system.
+这些方法包括脑机接口
+Those ways include brain machine interface,
+药理学
+pharmacology,
+行为实践
+behavioral practices,
+那些行为实践
+and those behavioral practices,
+当然
+of course,
+可以包括一些什么该做
+can include some dos.
+做这个 还有不该做 不能做那个
+Do this and some don't don't do that,
+等等
+et cetera.
+想想神经可塑性
+Thinking about neuro plasticity,
+我会非常坦诚地讲一个人能做什么
+I want to have a very frank conversation about what one can do,
+但也要承认我没有听说过那种未开发的大脑容量
+but also acknowledge this untapped capacity that I'm just not hearing about out there,
+你们也可以将行为实践和药理学结合起来
+which is one can also combine behavioral practices with pharmacology.
+我们可以将行为实践与脑机接口设备相结合
+One can be combined behavioral practices with brain machine interfaces,
+你不需要这么做
+and you don't have to do that.
+事实上
+In fact,
+我不建议你做一些特定的事
+I'm not recommending you do any anything in particular,
+像往常一样
+as always,
+我再说一遍
+I'll say it again.
+我不是医生
+I'm not a physician,
+所以我不会开任何处方
+so I don't prescribe anything.
+我是一个教授
+I'm a professor,
+所以我会讲很多原理
+so I profess a lot of things.
+你如何决定你的健康和治疗方案取决于你自己
+what you do with your health and your medical care is up to you.
+你要对自己的健康和幸福负责
+You're responsible for your health and well being.
+所以我不会告诉你该做什么 该吃什么
+so I'm not going to tell you what to do or what to take.
+我会转述文献所说的  以及关于获得可塑性的方法和建议
+I'm going to describe what the literature tells us and suggests about ways to access plasticity.
+我们需要肾上腺素  这等于警觉性
+We know we need epinephrine that means alertness.
+大多数人通过一杯咖啡或者睡个好觉可以达到这个目的
+Most people accomplish this through a cup of coffee and a good night's sleep.
+所以我认为你应该掌握好你的睡眠时间表
+so I will say you should master your sleep schedule 
+你应该弄清楚你需要多少睡眠才能
+and you should figure out how much sleep you need in order to achieve alertness.
+在你坐下来学习的时候保持清醒
+When you sit down to learn.
+所有的工具和科学都比我们想要听到的更多关于睡眠
+All the tools and more science than probably ever wanted to hear about sleep 
+以及如何更好地睡眠
+and how to get better at sleeping and timing,
+把握好睡眠时间
+your sleep,
+等等
+etc.
+还有午睡
+in naps,
+所有这些都在第2-5期里讲过
+and all of that is in episode two three four and five of the HubermanLab Podcast.
+所以如果你的睡眠不够好 我建议你参考一下那几期
+So I encourage you to refer to those if your sleep is not where you would like it to be.
+你进入深度思考的能力
+Your ability to engage in deliberate,
+注意力集中的警觉性与你平时的睡眠质量成正比
+focused alertness is in direct proportion to how well you are sleeping on a regular basis.
+我认为这显而易见
+I think that's kind of an obvious one,
+所以 管理好你的睡眠
+so get your sleep handled.
+但一旦睡眠没问题了
+But once that's in place,
+那问题就变成了
+the question,
+如何获得这种警觉性呢
+then is How do I access this alertness?
+好
+Well,
+有些人会利用自己非常复杂的心理
+there are a number of ways some people use some pretty elaborate psychological gymnastics.
+他们会告诉别人自己要做些什么 并立一些flag
+They will tell people that they're going to do something and create some accountability 
+这其实挺好的 有时候发几张照片
+that could be really good or they'll post a picture of themselves online,
+他们会用学习一些...
+and they'll commit to learning a certain amount a losing
+不好意思
+excuse me,
+要减多少斤或者什么的 这样他们就可以利用这种羞耻感
+a certain amount of weight or something like this so they can use either shame based practices  
+如果不坚持下去完成  就会让自己难堪
+to potentially embarrass themselves that they don't follow through.
+还有什么  有的人会给他们讨厌的机构开张支票
+They'll write checks to organizations that they hate 
+并坚持说 如果他们不努力完成 那机构就可以兑现支票
+and insists that they'll cash them if they don't actually follow through.
+或者是出于爱
+Or they'll do it out of love,
+你知道  有的人会决定去跑马拉松或者学一门语言
+you know they'll decide that they're going to run a marathon or learn a language or something,
+是因为他们爱的人  或者他们想要向某个人付出
+because if somebody they love where they want to devote it to somebody.
+事实是 从肾上腺素的角度来看 从警觉和激活大脑的角度来看
+The truth is that from the standpoint of epinephrine and getting alert and activated,
+这些都不是关键
+it doesn't really matter.
+肾上腺素是一种化学物质
+Epinephrine is a chemical.
+你的大脑不会区分做这些事情是出于爱还是出于恨
+and your brain does not distinguish between doing things out of love or hate,
+是愤怒 还是恐惧
+anger or fear.
+并不是所有这些都能促进自主觉醒和肾上腺素的释放
+it really doesn't all of those promote autonomic arousal and the release of epinephrine.
+所以我认为对大多数人来说
+So I think for most people,
+如果你觉得没有动力去做这些改变
+if you're feeling not motivated to make these changes,
+关键是要确定不止一个原因
+the key thing is to identify not just one,
+要去找到很多的原因
+but probably a kit of reasons.
+你想要做出这个改变的几个原因
+Several reasons as to why you would want to make this particular change 
+以及让你兴奋的目标其中的几个原因
+and being drawn toward a particular goal that you're excited about 
+以及可以鼓励你 即便没有完成目标
+can be one Also being motivated to not be completely afraid.
+你也完全不必害怕 感到羞愧或羞辱的动机
+Ashamed or humiliated for not following through on a goal is another.
+我想简单提一句
+Just want to briefly mention one little aside there,
+因为我有个朋友是医生
+because I've got a friend who's a physician,
+他是个心脏病专家 他提出了个很有趣的理论
+He's a cardiologist who has a really interesting theory.
+不过只是理论
+This is just theory,
+但我认为它会引起很多人的共鸣
+But I think it will resonate with a lot of people,
+大家都听说过多巴胺分子
+which is that you've all heard of this molecule dopamine,
+当我们完成某件事时 它会给我们一种奖励的感觉
+that it gives us the sense of reward when we accomplish something well.
+我们还希望在朝某个目标努力时 能够得到多巴胺
+We also want to be able to access dopamine while we're working towards things.
+享受这个过程
+Enjoy the process,
+正如他们所说
+as they say,
+因为它有各种积极的影响
+because it has all sorts of positive effects,
+给我们能量
+gives us energy,
+等等
+etc.
+但我那位朋友
+With my friend.
+他说的是
+what he says is,
+你知道的
+you know,
+有很多很多这样的例子 有人会对他说
+there's many many instances where someone will come to him and say 
+你知道吗 我要写一本书
+You know what I'm going to write a book.
+他说
+and he says,
+哦
+Oh,
+太好了
+that's great.
+我相信这些书会很棒 你真的应该写一本书
+I'm sure the books can be terrific and you really should write a book,
+但他们再也没有动笔写
+and then they never go do it.
+他的理论是
+and his theory is,
+如果别人夸你让你有奖励感  你从别人交谈中就能获得大量多巴胺
+if you get so much dopamine from the reward of people saying,
+哦
+Oh,
+是的
+yeah,
+你一定会做到的
+you're absolutely going to be able to do that.
+然后你之后就可能不会动身去追求
+You might not actually go after thee.
+成就本身带给你的奖励
+The reward of the accomplishment itself.
+所以要小心这些积极的强化
+So beware these positive reinforcements.
+不是说人们应该时刻鞭策自己 以达到他们追求的胜利的目的
+also not saying people should flagellate themselves to the point of victory in whatever they're pursuing,
+但动机是一个棘手的问题
+but motivation is a tricky one.
+所以我建议大家问问自己
+So I suggest that everyone asked themselves.
+我想要实现的目标是什么
+What is it that I want to accomplish and what is it?
+是什么驱使我去完成这件事 想出两三件事
+That's driving me to accomplish this and come up with two or three things.
+也许是恐惧 也许是爱
+Fear based perhaps love based perhaps,
+或者是其他一些原因  都是为了确保
+or perhaps several of those in order to ensure.
+警觉性
+Alertness,
+完成任务的精力和注意力
+energy and attention for the task.
+这就引出了我们对注意力的讨论
+and that brings us to the attention part 
+在你的大脑中植入电极来增加
+now it's one thing to have an electrode embedded into your brain 
+乙酰胆碱的含量是一回事
+and increase the amount of acetylcholine.
+存在于实验室之外的现实世界中  还有一个方面
+It's another to exist in the real world outside the laboratory 
+就是你很难集中注意力  很难将你的注意力集中到空间中的某个特定点上
+and have trouble focusing having trouble bringing your attention to a particular location in space 
+或某个特定事件上
+for a particular event.
+有很多人都在说 如今的智能手机和电子设备
+and there's a lot of discussion nowadays are about smartphones and devices,
+它们造成了一种注意力缺失  几乎达到了临床水平
+creating a sort of attention deficit almost at a clinical level.
+对许多人来说都是这样
+for many people,
+包括成年人
+including adults.
+我认为这在很大程度上是正确的
+I think that's largely true.
+这意味着
+And what it means,
+然而
+however,
+我们都需要去学习如何创造深度的焦点
+is that we all are responsible for learning how to create depth of a focus.
+有一些重要的神经科学原理可以让我们深入关注
+There are some important neuroscience principles to get depth of focus.
+我想先简单讲一下药理学
+I want to briefly talk about the pharmacology first,
+因为我总是被问到这个问题
+because I always get asked about this,
+人们会说
+People say,
+我可以服用什么来增加乙酰胆碱的水平呢
+What can I take to increase my levels of acetylcholine?
+好吧
+Well,
+这些东西你可以吃
+there are things you can take.
+尼古丁之所以被称为尼古丁 是因为乙酰胆碱会与尼古丁受体结合
+Nicotine is called nicotine because acetylcholine binds to the nicotine receptor.
+有两种乙酰胆碱受体  蕈毒硷型和烟碱型
+there are two kinds of acetylcholine receptors muscarinic and nicotinic,
+烟碱型涉及到注意力和警觉性
+but the nicotinic ones are involved in attention and alertness.
+我有几个同事
+I have colleagues,
+虽然不是我的
+these are not my,
+你知道的
+you know,
+不是那种好兄弟
+kind of like bro,
+科研界的好伙伴什么的
+science bodies,
+不是那种很好的朋友
+I have those friends to.
+这是一个获得诺贝尔奖的同事 他在工作时选择了尼古丁
+This is a no Nobel Prize winning colleague who choose nicorette While he works,
+他过去是个烟民
+he used to be a smoker.
+他戒烟是因为害怕肺癌
+He quit smoking because a fear of lung cancer,
+这确实是一个明智的选择
+so with a smart choice.
+但他同时丢失了集中到工作上的注意力
+But he missed the level of focus that he could bring to his work.
+这个人的职业生涯很长
+This is somebody who's had a very long career,
+如果你以前见过他
+and if you ever meet with him before,
+我不能说他名字
+I can't name him.
+如果你见过他们
+If you ever meet with them,
+你会发现  他每小时都要吃5片尼古丁
+what you realize is he choose about five pieces of nicorette an hour,
+我不建议大家这么做
+which I am not suggesting people do.
+但当我问他的时候
+But when I asked him,
+你干嘛呢
+Why are you doing this?
+他说
+he said,
+这能提高我的警觉性和注意力
+will increases my alertness and focus,
+他的理论  不过我想强调的是
+and also his theory and I want to really underscore that 
+这个理论还没有得到科学的支持  这理论说尼古丁可以抵消帕金森和阿尔茨海默症
+its theory not scientifically supported yet is that it offsets Parkinson's and Alzheimer's.
+的确 对于患有痴呆症和帕金森症的人来说
+It is true that nucleus basalis the primary site of degeneration in the brain,
+基底核是大脑退化的主要部位
+in people that have dementia and Parkinson's,
+这导致他们无法集中注意力
+and it's what leads to a lot of their inability to focus their attention,
+不仅仅是缺陷和可塑性
+not just deficits and plasticity.
+他还可能上瘾
+so he might be onto something.
+我之前试过嚼尼古丁
+Now I've tried chewing nicorette.
+但这让我超级紧张
+It makes me super jittery.
+我不喜欢它是因为我不能很好地集中注意力
+I don't like it because I cant focus very well.
+这会让我太过于清醒
+It kind of makes me too far up the level of autonomic arousal.
+我有朋友整天嚼着尼古丁
+I've got friends that dip nicorette all day,
+其中一些是科学家
+some of whom are scientists.
+在那个很多人吸烟的时代
+Writers and artists and musicians are familiar with the effects of nicotine 
+作家 艺术家和音乐家都很熟悉尼古丁
+from the era where a lot of people smoked.
+但是
+Unfortunately,
+现在吸烟的人越来越少了
+fewer people smoke now,
+如果你对药理学感兴趣
+so if you're interested in the pharmacology,
+有一些补品和其他东西可以增加胆碱能
+there are supplements and things that can increase cholinergic
+在大脑中的传输
+transmission in the brain.
+我不是建议你这么做
+I'm not suggesting you do this,
+但如果你选择走这条路
+but if you're going to go down that route,
+那你就要非常小心  看自己是否一直依赖这些东西
+you want to be very careful how much you rely on those all the time,
+因为可塑性的本质是创造一个注意力的窗口
+because the essence of plasticity is to create a window of attention and focus 
+它不同于你一天的其他
+时间that's distinct from the rest of your day.
+它会在你的大脑里留下印记
+That's what's going to create a mark in your brain.
+也有可塑性的潜力  这些增强乙酰胆碱的东西
+And the potential for plasticity things that increase the acetylcholine
+除了尼古丁嚼片
+Besides nicotine or nicorette,
+还有很多物质中有尼古丁
+the nicotine could come from a variety of sources.
+比如说
+Or things like Alpha,
+alpha gpc或胆碱
+Gpc or choline
+有很多这样的东西
+There are a number of these things.
+我建议你们去examine.com看看
+I would encourage you to go to examine,
+浏览网站 然后查一下乙酰胆碱
+the website and just put in acetylcholine.
+这个网站会给你一份补剂清单  以及这些补充剂的一些危险
+And it will give you a list of supplements as well as some of the dangers of these supplements 
+这些补剂与胆碱能的传输有关
+that are associated with cholinergic transmission.
+但我不能怠慢  我不会说谎  所以就这么说吧 有很多人
+But I would be remiss and I would be lying if I didn't say that there are a lot of people out there 
+正在使用胆碱能药物  为了增加他们的注意力
+who are using cholinergic drugs in order to increase their level of focus and 
+因为奥运会马上要开了 我不想让任何人惹上麻烦
+since we're coming up on the Olympics and won't let anyone in trouble.
+但我很清楚
+But I'm well aware of that.
+事实上 短跑运动员们非常执着于胆碱能药物
+The fact that the sprinters are really into cholinergic drugs 
+不仅是因为乙酰胆碱对注意力很重要
+because not only is the acetylcholine it important for the focus that 
+能让他们迅速听到枪声 在短跑比赛中率先起跑
+allows them to hear the gun and be first out of the blocks on the sprints.
+因为起跑算是比赛取胜的关键
+That's a lot of where the race is won
+要以最快的反应速度听到枪声
+Hearing that gun in being quickest on reaction time,
+所以他们会服用胆碱能
+so they take cholinergic for that,
+还有一种乙酰胆碱是控制神经肌肉收缩的分子
+as well as acetylcholine is the molecule that controls nerve to muscle contraction.
+所以你的反应速度实际上也会由尼古丁控制
+So your speed of reflexes is actually controlled by this nicotine at transmission as well,
+在体育运动和精神敏锐度方面 用乙酰胆碱要好好考虑
+so lots to think about in terms of acetylcholine in sport and mental acuity.
+不能只关注可塑性
+not just plasticity.
+对你们大多数人来说
+For most of you,
+你可能不想熟练地咀嚼尼古丁 不想吸烟
+you probably don't want to chew nicorette deftly don't want to smoke cigarettes 
+或服用补剂来增加乙酰胆碱
+or take supplements for increasing acetylcholine.
+那么有什么方法可以增加乙酰胆碱呢
+So what are some ways that you can increase acetylcholine 
+这听起来可能有点像一个循环论证
+and there it's going to sound like a bit of a circular argument,
+就是你需要增加注意力
+but you want to increase focus.
+如何提高呢
+How do you increase focus?
+人们经常会坐下来 读了几页书
+You know people are so familiar was sitting down and reading a couple of pages of a book 
+然后意识到什么都没进脑子里
+and realizing that none of it sunk in.
+我们在和某人说话 即便看着他们的嘴在动
+We're talking to someone and seeing their mouth move.
+甚至下意识地点头
+maybe even nodding your head subconsciously.
+但也没有听进去他们在说什么
+Income and none of it sinks in.
+这对学校授课  运动表现  人际关系来说
+this can be very damaging for school work,
+非常不好
+performance and relationships.
+你们很多人都知道
+As many of you know.
+科斯特洛
+Costello,
+顺便说一下
+incidentally,
+即便它直直地看着我的时候 它似乎从来不注意我说的任何话
+never seems to pay attention to anything I say while looking directly at me,
+不过我接下来要说的可能会有点矛盾
+which contradicts what I'm about to say,
+要想更好地集中注意力 最好的方法就是
+which is that the best way to get better at focusing is to
+利用你与生俱来的专注机制
+use the mechanisms of focus that you were born with.
+这里的关键原则是 精神跟随视觉的焦点集中
+and the key principle here is that mental focus follows visual focus.
+我们都很熟悉这样一个事实 我们的视觉系统可以不聚焦
+We are all familiar with the fact that our visual system can be unfocused,
+眼前一片模糊 或者眼神缥缈
+blurry or jumping around,
+我们也可以用聚精会神地盯着空间中的一个位置
+or we can be very laser focused on one location in space.
+对于理解如何获得神经可塑性来说 有趣且至关重要
+What's interesting and vitally important to understanding how to access neural plasticity is that 
+就是你可以利用你的视觉焦点
+you can use your visual focus 
+你可以通过增加你的视觉焦点 来让你的精神集中点
+and you can increase your visual focus as a way of increasing your mental focus.
+让你的集中能力变得更加广泛
+Focus abilities more broadly,
+我来解释一下怎么做
+so often explain how to do that.
+可塑性始于警觉性
+Plasticity starts with alertness.
+而且
+and,
+正如我之前提到的
+as I mentioned before,
+这种警觉可以来自一种爱的感觉 一种喜悦的感觉
+that alertness can come from a sense of love of a sense of joy.
+或者恐惧感  但这并不重要
+A sense of fear doesn't matter.
+有一些药理学方法可以提高警觉性  最常见的
+There are pharmacologic ways to access alertness to the most common one is,
+当然是咖啡因
+of course caffeine,
+如果你看了讲睡眠那一期
+which if you watch the sleep episodes you know,
+咖啡因会减少一种分子
+reduces this molecule.
+让我们昏昏欲睡的分子
+That makes us sleepy,
+叫腺苷
+called adenosine.
+我会喝大量的咖啡因
+I drink plenty of caffeine.
+我可能是咖啡因的重度患者 但我不认为自己在滥用咖啡因
+I might heavy user of caffeine and don't think abuser of caffeine.
+我认为只要晚上还能睡得着
+I think it reasonable amounts,
+这个量就是合理的
+provided we can still fall sleep at night.
+咖啡因是增加肾上腺素的一种相对安全的方式
+Caffeine can be a relatively safe way to increase epinephrine.
+现在很多人也在使用阿德拉
+Now many people are now also using Adderall 
+阿德拉在化学结构上看起来很像安非他命
+Adderall chemically looks a lot like amphetamine.
+基本上就是安非他命
+And basically it is amphetamine.
+它会增加从蓝斑中释放的肾上腺素  然后它会唤醒大脑
+It will increase epinephrine released from locust early as it will wake up the brain.
+这就是为什么很多人依赖它
+and that's why a lot of people rely on it.
+确实有大量的依据表明 在某些临床症状 如注意力缺陷的处方中会使用它
+It does have a heavy basis for use in certain clinical syndromes prescribed such as attention deficit.
+然而
+However,
+它也很有可能被滥用
+it also has a high probability of abuse,
+尤其是对那些没有开过处方的人 阿德拉并不会增加注意力
+especially in those who are not prescribed it Adderall will not increase focus,
+它增加警觉性
+it increases alertness.
+但它不接触乙酰胆碱系统
+it does not touch the acetylcholine system,
+如果你们中有人正在服用 你可能会说
+and if those of you that are taking out or I'll say well,
+它真的提高了我的注意力啊
+it really increases my focus over all.
+这可能是因为你的自主神经系统正在转向
+That's probably because your autonomic nervous system is just veering towards 
+我们所说的副交感神经系统
+what we call parasympathetic.
+你真的很困 所以它提高了你的警觉性水平
+You're really just very sleepy into its bring your levels of alertness up,
+就像我提到的
+as I mentioned at all,
+这对很多人来说都是个问题
+is very problematic for a number of people,
+就是有可能
+as it can be.
+会上瘾
+Habit forming.
+借助阿德拉的学习  并不总高效的
+Learning on Adderall does not always translate to high performance.
+不管是服用时还是服用后
+off were on Adderall at later times,
+也许我们应该什么时候找个精神病医生更广泛地谈谈阿德拉
+And the Adderall discussion is a broader one that perhaps we should have with a psychiatrist
+ 因为它是一种被广泛滥用的药物
+in the room at some point because it is a very widely abused drug.
+特别是现在这个时代
+At this point in time.
+想要乙酰胆碱系统及其带来的注意力
+The acetylcholine system and the focus that it brings is available,
+正如我在药理学中提到的
+as I mentioned through pharmacology,
+要通过行为练习才能让它生效
+but also through beat.
+这些行为练习 以及以视觉焦点为基础的行为练习
+These behavioral practices and the behavioral practices that are anchored in visual focus
+将会让你提高注意力的深度和持续时间
+are going to be the ones that are going to allow you to develop great depth and duration of focus.
+让我们谈一下视觉焦点
+So let's think about visual focus for a second,
+当我们把注意力集中在视觉上时
+When we focused on something visually,
+我们有两种选择 一种是在非常小的空间区域里
+we have two options we can either look at a very small region of space with a lot of detail 
+进行精准细节的观察
+and a lot of precision,
+或者我们可以扩大我们的目光 我们可以看到大块的视觉空间 但没有什么细节
+or we can dilate our gaze and we can see big pieces of visual space with very little detail.
+这是一个权衡
+It's a tradeoff.
+我们不能以高分辨率看到所有东西
+We can't look at everything at high resolution.
+这就是为什么我们有瞳孔
+This is why we have these that the pupil,
+或多或少和视网膜的中央凹有关
+more or less relates to the fovea of the eye,
+这里是有最多受体的区域
+which is the area in which we have the most receptors,
+感知光的受体的密度最高
+the highest density of receptors that perceive light,
+因此 我们在视野中心的视力要比外围的好得多
+and so our acuity is much better in the center of a visual field than our periphery.
+这是一个你现在就可以做的简单实验
+It's a simple experiment you can do right now.
+如果你在听
+If you're listening to this,
+你依然可以试试
+you can still do it.
+你可以控制自己的手
+You can hold your fit,
+把你的手伸到你面前
+but your hands out in front of you provided that your site,
+你应该能看到你面前有多少根手指
+you should be able to see how many fingers you have in front of you.
+我看出来
+For me,
+五根手指都还在
+it's five still get all five fingers.
+啊 幸好
+Amazingly enough.
+如果我把手移到一边
+If I move my hand off to the side,
+我就看不清楚了
+I can't see them with precision,
+但当我把它们移回视野中心时
+but as I move them back into the center of my visual field,
+我又可以精确地看到它们
+I can see them with precision.
+这是因为受体的密度
+And that's because the density,
+我视野中心得到的像素  比外围的要高得多
+the number of pixels in the center of my visual field is much higher than it is in the periphery.
+当我们的眼睛聚焦时
+When we focus our eyes,
+我们会做几件事
+we do a couple of things.
+首先
+First of all,
+我们倾向于在我们视野的中心
+we tend to do that in the center of our visual field,
+让我们的眼睛对齐平直的方向
+and our two eyes tend to align in what's called a Virgin.
+向一个共同的点移动
+I movement towards a common point.
+另一件事情是 我们眼睛的晶状体移动了
+The other thing that happens is the lens of our eye moves 
+所以我们的大脑不再看到整个视觉世界
+so that our brain now no longer sees the entire visual world,
+而是看到了一个小的视觉图像锥
+but is seeing a small cone of visual imagery.
+不好意思 是狗撞到墙上了
+If it does the dog bumping into the wall for to me.
+那个小的视觉图像锥或者是从罐装苏打水吸管中看世界
+That small cone of visual imagery or soda straw view of the world 
+这会有更高的敏锐度 更高的分辨率 比我看其他东西都要高
+has much higher acuity higher resolution than if I were to look at everything.
+现在你可能会说
+Now you say,
+当然了
+Of course,
+这很有道理
+this makes perfect sense,
+但这是在讲视觉注意力的
+but that's about visual attention,
+而不是精神上的注意力
+not mental attension.
+好吧
+Well,
+事实证明 大脑中的注意力与我们的视觉系统息息相关
+it turns out that focus in the brain is anchored to our visual system.
+我一会儿会讲到盲人
+I'll talk about blind people in a moment,
+但假设我们说的是视觉正常的人  如果你想提高认知或精神集中水平
+but assuming that somebody has cited the key is to learn how to focus better visually  
+关键在于如何学习去更好地集中视觉注意力
+if you want to bring about higher levels of cognitive or mental focus,
+即使你在从事体力活动
+even if you're engaged in a physical tasks,
+在动物身上有一种非常显著的现象 眼睛长在头部一侧的动物
+now there's a remarkable phenomenon in animals where animals that have their eyes on the side
+ 一直在扫视整个视觉环境
+of their head are scanning the entire visual environment all the time.
+他们不会专注于任何事情
+They are not focused on anything.
+想想放牧的动物
+Think your grazing animals,
+牛
+your cows,
+羊
+or sheep,
+鸟
+your birds,
+等等
+etc.
+但想一下那种在沙滩上或水泥地上捡种子的鸟
+But think about a bird picking up seeds on the beach or on concrete.
+鸟头在上面
+That birds head is up here.
+离地面大约一英尺高
+It's up about a foot off the ground,
+或者是一只小鸟 那离地大概6英寸高
+or if it's a small bird about six inches off the ground
+它的眼睛长在头部的一侧 而且它的嘴很小
+and its eyes are on the side of its head and yet has this tiny beak 
+但它依然可以非常精确地从地上啄起这些小种子
+that can quickly pick up these little seeds off the ground with immense precision.
+好
+Now,
+如果你试着盯着房间的两边
+If you try to do that by staring off to the sides of the room 
+然后要你非常准确地拿起你面前很小的东西
+and picking up items in front of you with high precision at that tiny scale,
+几乎每次你都捡不到这些小东西
+little tiny objects you will miss almost every time they do it perfectly,
+而且它们的喙不会撞到地上 也不会受伤
+and they don't smash their beak into the ground and damage that 
+它们的动作非常漂亮 也非常敏锐
+they do it with beautiful movement acuity also.
+那么它们是怎么做到的呢
+so how did they do it?
+当事物不在眼前时 它们是如何依然能创造出这种视觉焦点的呢
+How do they create this focus where this awareness of what's in front of them?
+事实证明
+It turns out,
+当它们低下头时
+as they lower their head,
+它们的眼睛会短暂地向内移动 这就是所谓的紧急移动
+their eyes very briefly move inward in what's called the emergency movement.
+它们的眼睛不能在脑子里转动
+Now their eyes can't actually trans locate in their head.
+它们固定在头骨里
+They are fixed in the skull,
+就像你我的一样
+just like yours and mine are.
+但当我们的眼睛稍微向内移动时
+But when we move our eyes slightly inward,
+也许你能看出来 它是这样的  基本上缩短了
+maybe you can tell I do It's like like so basically shortening 
+或者说使我们的视野距离变小了
+or we're making the interplanetary distance as it's called smaller.
+这两件事情
+Two things happen.
+我们不仅创造了一个更小的通向世界的视觉窗口
+Not only do we develop a smaller visual window into the world,
+我们还激活了脑干中的一组神经元
+but we activate a set of neurons in our brain stem that 
+触发去甲肾上腺素  肾上腺素和乙酰胆碱的释放
+trigger the release of both norepinephrine epinephrine and acetylcholine.
+去甲肾上腺素和肾上腺素差不多
+norepinephrine has caused similar to epinephrine.
+换句话说
+so in other words,
+当我们的眼睛放松的时候  当我们要看整个视觉环境的时候
+when our eyes are relaxed in our head when we're just going to look in our entire visual environment,
+我们会移动头部  在空间中移动
+moving our head around moving through space where an optic flow,
+光流  所有事物从我们身边掠过
+things moving past us,
+我们静静地坐着 看着广阔的空间 很放松
+we're sitting still were looking broadly at our space were relaxed.
+当我们的眼睛朝着特定的视觉目标微微向内移动时
+When our eyes move slightly inward toward a particular visual target,
+我们的视觉世界在缩小
+our visual world shrinks,
+我们的视觉聚焦水平提高了
+our level of visual focus goes up,
+我们知道这与乙酰胆碱的释放有关
+and we know that this relates to the release of acetylcholine 
+还有在大脑的相关部位的肾上腺素  进行可塑性
+and epinephrine at the relevant sites in the brain for plasticity.
+现在
+Now.
+这意味着 如果你平时很难集中注意力去阅读 或去听
+What this means is that if you have a hard time focusing your mind for sake of reading or for listening,
+你需要练习 你可以练习去集中你的视觉系统
+you need to practice and you can practice focusing your visual system,
+如果练习将你的视觉系统精确地集中在 你打算做的工作上
+and this works best if you practice focusing your visual system at the precise distance from the work
+ 以达到可塑性的目的 那效果最好
+that you intend to do for sake of plasticity.
+那么这在现实生活中怎样操作呢
+So how would this look in the real world?
+假设我正试着专注于一些
+Let's say I am trying to concentrate on something related to.
+我也不知道 什么科学的东西 要读一篇科学论文 让人很难接受 知识进不去脑子
+I don't know science and reading a science paper now having a hard time it's not absorbing.
+我自己可能会觉得  我只在看这篇论文
+I might think that I'm only looking at the paper that I'm reading.
+只是在看我的屏幕
+I'm only looking at my screen,
+但实际上我的眼睛可能会四处乱瞟
+but actually my eyes are probably darting around a bit.
+已经有实验证明了  我在当下的视觉环境中
+Experiments have been done on this or I'm gathering information from too many sources 
+在接收太多的信息来源
+and in the visual environment now,
+大概因为是我
+presumably because it's me,
+我已经喝过咖啡了
+I've already had my coffee.
+我吃饱了 休息得也很好
+I'm hydrated and well well rested,
+睡得也很好 但我仍然有这些挑战
+I slept well and I still experienced these challenges 
+那我会  花60到120秒集中精力
+and focusing spending just sixty to a hundred and twenty seconds,
+把我的视觉注意力集中在屏幕上的一个小窗口上
+focusing my visual attention on a small window of my screen,
+意思就是  我屏幕上什么都没有
+meaning just on my screen with nothing on it.
+把我的眼睛放在那个特定的位置  不仅增加了我对那个位置的视觉敏锐度
+Bringing my eyes to that particular location increases not just my visual acuity for that location,
+它还会增加大脑其他区域的活动
+but it brings about an increase in activity in a bunch of other brain areas that are 
+这些区域与从这个位置收集信息有关
+associated with gathering information from this location.
+所以简单地说 如果你想提高你的专注能力
+So put simply if you want to improve your ability to focus,
+现在就开始练习视觉聚焦
+practice visual focus now,
+如果你戴隐形眼镜或者戴矫正眼镜
+if you wear contacts or you have or you wear corrective lenses,
+没关系
+that's fine.
+你
+You,
+当然
+of course,
+你不会想要摘掉眼镜的
+would want to use those you don't want to take.
+然后看出来只有模糊的图像
+Those often use a blurry image,
+你看到的
+the finer,
+视觉成像越细小
+the visual image,
+你就越能把目光集中在视觉图像上
+and the more that you can hold your gaze to the visual image,
+你的专注度越高
+the higher your levels of attention will be
+ 在Instagram上有很多次
+ many times on Instagram,
+我经常被人嘲笑不眨眼
+and here I've been teased for not blinking very often.
+这实际上是一种练习
+That's actually a practised thing.
+当我们累的时候 我们眨眼的次数更多
+We blink more as we get tired,
+是的没错
+which as you hear it,
+你听完这个可能会说
+you'll probably just say,
+害 当然啦
+duh
+当我们疲惫的时候
+as we get tired.
+原本脑干中负责保持警觉 保持眼睑张开的神经元
+The neurons in the brain stem that are responsible for alertness and that hold the eyelids open,
+开始颤抖 我们的眼皮开始合上
+start to falter and our eyelids start to close.
+这就是“我眼睛都睁不开了”这句话 的由来
+This is why it's hard the words I could barely keep my eyes open,
+可能就是你现在的感觉
+Which may be how you feel right now.
+假设你现在注意力集中 思维敏捷
+Assuming that you're paying attention and you're alert.
+当你非常警觉的时候
+When you were very alert,
+你的眼睛通常都是睁得大大的
+your eyes are wide,
+你的眼睛睁开着
+Your eyes are open,
+当你累了的时候
+and as you get tired,
+你的眼皮开始闭上
+your eyelids start to close
+眨眼  实际上是在重置我们对时间和空间的感知
+blinks actually reset our perception of time and space.
+正如发表在《当代生物学》上的一篇很棒的论文所表明的那样
+as it was shown in a beautiful paper in current biology.
+我之后一定会把参考资料贴在下边
+I'll be sure to post the reference in the notes
+ 眨眼
+and blinking,
+当然
+of course,
+人们眨眼是因为他们的眼睛干涩
+is necessary to lubricate the eyes people blink because their eyes might get dry.
+但如果你能通过少眨几下眼睛来集中注意力 放在一个特定的位置上
+But if you can keep focus by blinking less and by focusing your eyes to a particular location 
+我现在就在这么做  你可能会觉得很恐怖
+is probably pretty creepy for you to experience as I'm doing this.
+但你越忍住不眨眼
+But the more that you can do this,
+你就越能保持精神集中的锥形  集中的隧道
+the more that you can maintain a kind of a cone or a tunnel of mental focus.
+所以我在某种程度上揭示了我的联系
+And so I'm sort of revealing my practice,
+就是我非常努力地练习不眨眼
+which is that I've worked very hard through blinking.
+虽然我十四岁的侄女每次都能打败我
+Contest with my fourteen year old niece who stole beats me every time,
+让我有点烦躁
+and it really bothers me,
+但也只是通过我自己的练习 学会少眨眼
+but also just through my own self practice of learning to blink less 
+把我的视觉注意力集中在一小块空间上
+and focus my visual attention on a small region of space.
+现在
+Now,
+对我来说
+for me,
+这很重要 因为我主要是在电脑屏幕上学习
+that's important because I'm mainly learning things on a computer screen.
+如果你要做运动
+If you're going to be doing sport,
+这就不一样了 我们可以讨论如何将其转化到体育运动上
+it's quite a bit different and we can discuss how you might translate that to sport.
+事实上
+In fact,
+在下一集中
+in the next episode,
+我要讲的是可塑性和注意力机制与掌握运动练习
+I'm going to talk all about how plasticity and the focus mechanisms relate to learning of movement,
+和协调动作的关系  下一期一整期都会讨论这个
+practices and coordinated movements is an entire discussion unto itself.
+同理 我们需要机警性
+But the same principle holds so we need alertness.
+你可以通过动机的心理技巧来实现
+You can get that through mental tricks of motivation,
+恐惧
+fear,
+或爱情
+or love.
+或者吃药
+Whatever it is pharmacology,
+但请健康地实践
+please do it healthfully,
+还有咖啡因  如果你喜欢的话
+your caffeine if that's in your practice,
+当然要多喝水
+certainly want to be well hydrated.
+这能帮助你增加警觉性
+That increases as she will increase.
+膀胱爆满会增加警觉性
+Alertness of having a very full bladder will increase alertness.
+虽然你不希望自己的警觉性这么高
+Although you don't want your alertness to be so high,
+你可以想象
+do not all you can think about.
+就是你想去小便
+it is the fact you have to go urinate,
+而这太让人分心了
+because that's very distracting.
+你也不想让自己的警觉性爆表吧
+You don't want your alertness to go through the roof.
+你需要集中注意力 而视觉集中是我们开始部署这些神经化学物质的主要方式
+You need focus and visual focus is the primary way in which we start to deploy these neural chemicals.
+现在你可能会问
+Now you may ask.
+好吧
+Well,
+那么 那些实验
+what about the experiment?
+就是实验者面前
+Where people were?
+有那种旋转的鼓 然后他们在 感受它 也会听到与视觉无关的听觉线索
+You'll feeling this rotating drama or listening to the auditory cues that doesn't involve vision at all.
+啊
+Ah,
+如果你仔细观察那些正在
+if you look at people who are learning things.
+用听觉系统学习的人
+With their auditory system,
+他们常常会闭上眼睛
+they will often closed their eyes.
+这并不是巧合
+and that's not a coincidence.
+如果一个人在非常认真的听
+If somebody is listening very hard.
+请不要让他看着你眼睛的同时  也要求他们听你说话
+Please don't ask them to look you directly in the eye while also asking that they listen to you.
+这其实是让别人听你说话很糟糕的方式
+That's actually one of the worst ways to get somebody to listen to you.
+如果你现在说
+If you say now,
+听我说 看着我的眼睛
+listen to me and look me in the eye.
+视觉系统会接管神经系统 他们会看到你的嘴在动
+The visual system will take over and they'll see your mouth moved,
+但他们听到的是自己的想法
+but they're going to hear their thoughts more.
+他们不会听你在说什么
+They're going to hear what what you're saying.
+闭上眼睛是创造听觉注意锥体的很好的一种方法
+Closing the eyes is one of the best ways to create a cone of auditory attention,
+这低视力或没有视力的人就是这么做的
+and this is what low vision or no vision folks do.
+他们有巨大的能力  可以将注意力集中在特定的位置
+They have a tremendous capacity to focus their attention in particular locations.
+顺便说一下
+Incidentally,
+你们知道世界上听觉最好的两种动物 是哪两种吗
+does anyone know the two animals that have the best hearing in the world?
+绝对最好的听力  比人类的听力好很多个数量级
+The absolute best hearing is many orders of magnitude better than humans.
+揭晓谜底
+Turns out,
+大象
+it's the elephant 
+这可能不会让你惊讶
+that might not surprise you,
+因为它们有巨大的耳朵
+they have huge ears 
+还有就是蛾子
+and the moth,
+有被惊到吗
+which probably will surprise you.
+我之前甚至都不知道
+I didn't even know it.
+飞蛾还有听力
+Moths could here,
+但现在就可以解释  为什么它们很难被捉到
+but now explains weather so hard to catch.
+如果你看不见
+If you are not cited,
+你要学会如何用你的听力做到这一点
+you learn how to do this with your hearing.
+如果你能读懂盲文
+If you're somebody who Braille reads you,
+要学习如何用你的手指去读
+learn how to do this with your fingers.
+如果你去看
+If you look at great.
+像格伦·古尔德这样的伟大钢琴演奏家  他们经常会把头偏向一边
+Piano players like Glenn Gould they oftentimes will turn their head to the side.
+你想想那些伟大的音乐家 比如史提夫·汪达  他们又不是盲人
+You think about some of the great musicians that like Stevie Wonder that we're blind,
+但他就会把目光移开 因为他没有理由看琴键
+right then he would look away because he had no reason to look at at the keys,
+通常情况下 他们会把耳朵或头的一侧对准钢琴的琴键
+but oftentimes they'll orient an ear or one side of their head to the keys on the piano.
+正如我之前提到的
+As I mentioned before,
+看不见的人 会有更好的音准
+people are non sided to have better pitch.
+所以我们有这些 可以投入的注意力锥
+so we have these cones of attention that we can devote.
+对于大多数人来说
+And for most people,
+视觉是培养注意力的主要方式
+vision is the primary way to train up this focus of building these kinds of attention,
+所以你必须把注意力集中在你想学的东西上
+so you absolutely have to focus on the thing that you're trying to learn,
+你会感到一些不安  因为你体内有肾上腺素
+and you will feel some agitation because of the epinephrine in your system.
+如果你感到不安
+If you're feeling agitation.
+如果感到很难集中注意力 你觉得自己做得不对
+It's challenging to focus and you're feeling like you're not doing it right.
+很有可能你做得是对的
+Chances are you're doing it right and you can practice this ability to 
+你也可以练习长时间不眨眼地盯着看一个东西
+stare for long periods of time without blinking.
+我知道 别人看了会觉得有点恐怖
+I know it's a little eerie for people to watch.
+但如果你的目标是为了控制你的注意力  而去学习如何控制视觉窗口
+But if your goal is to learn how to control that visual window for sake of controlling your focus,
+它可以是一个非常强大的入口去切入这些可塑性机制
+it can be an immensely powerful portal into these mechanisms of plasticity 
+因为我们知道有基底核 以及其他脑干机制在作用
+because we know it engages things like nuclear specialists in these other brain stem mechanisms.
+我收到很多关于注意缺陷与多动障碍
+I get a lot of questions about attention.
+的问题
+Deficit Hyperactivity disorder,
+注意力缺陷多动障碍  还有注意缺陷障碍
+ADHD and attention deficit disorder.
+有些人真的在临床上确诊了
+Some people actually have clinically diagnosed,
+患有ADD或者ADHD
+add and ADHD.
+如果你确诊了
+And if you do,
+你应该和一个好的精神科医生一起努力
+you should certainly work with a good psychiatrists to try 
+找出适合你的药物治疗和行为实践
+and figure out the right pharmacology and or behavioral practices for you.
+然而
+Many people,
+很多人
+however,
+因为他们自己在生活中的表现  自己评估自己为ADHD或者ADD
+have given themselves a low grade ADHD or ADD because of the way that they move through their world.
+他们大部分时间都在看手机
+They are looking at their phone a lot of the time.
+事实上  你很容易把注意力集中在手机上  下面我会说原因
+It's actually very easy to anchor your attention to your phone for the following reason.
+首先
+First of all,
+手机就这么大
+it's very restricted in size,
+所以很容易把你的视觉注意力限制在这么大的东西上
+So it's very easy to limit your visual attention to something about this big.
+这是也是手机的设计特点之一
+It's one of the design features of the phone.
+另一个就是  你可能已经听说了
+The other is that just as you've probably heard,
+一图胜千言
+a picture is worth a thousand words.
+当我们看到动的东西时
+While a movie is worth ten thousand pictures any time we're looking at things 
+比如一部电影  那就相当于一万张图片
+that have motion visual motion,
+我们的注意力系统自然会被它们吸引 就比如被那些电影吸引
+our attentional system will naturally gravitate towards them it towards those movies.
+对很多人来说 现在读一页纸上的字比以前难多了
+It's actually much harder to read words on a page than it used to be for many people,
+因为我们已经习惯了在Youtube视频中看一些东西
+because we're used to seeing things spelled out for us in Youtube videos 
+或者那些东西以非常戏剧化的方式移动的视频
+or videos where things move in a very dramatic,
+的确 我们看得这些动态视频
+it is true that the more that we look at,
+就会刺激我们更多地去看那些
+those motions stimulate the more that we're seeing movies of things 
+充满戏剧性和紧张感的电影
+and things that are very dramatic and very intense.
+文本之类的输入对我们来说越来越困难
+The worse we're getting at attending to things like text,
+或者听播客之类的东西 从里面提取信息越来越难
+on a page or to listening to something like a podcast and extracting the information.
+很多人都问过我
+So much so that I think many people have asked me,
+你为什么不给我们一些强烈的视觉效果呢
+Why aren't you providing intense visuals for us to look at?
+好吧
+Well,
+坦白讲
+frankly,
+这是因为  很多人是通过纯粹的音频来消费这些内容的
+it's because a lot of people are consuming this content through pure auditory thrust by listening,
+我希望他们能够消化所有的材料
+and I want them to be able to digest all the material.
+但除此之外
+But in addition to that,
+你想想生活中那些决定我们  是否成功
+if you think about the areas of life that dictate whether or not we become successful,
+是否独立
+independent,
+是否健康的人的事情
+healthy individuals.
+其中大多数都被放在一页纸上去消化信息  枯燥的练习
+Most of those involve the kind of boring practices of digesting information on a page
+ 枯燥是因为它在当下没有那么令人兴奋
+boring because it's not as exciting in the moment,
+并不像看电影或者灌输给我们的娱乐信息那样
+perhaps as watching a movie or something being spoon Fed talk to us,
+但我们对某个东西的关注越多
+but the more attention that we can put two something,
+即使它转瞬即逝
+even if it's fleeting,
+可能觉得自己只得到一点点
+and we feel like we're only getting little bits and pieces.
+信息的碎片
+Shards of the information,
+没有掌握整件事
+as opposed to the entire thing.
+但这在参与胆碱能系统 产生可塑性方面 依然有更强大的作用
+That has a much more powerful effect in engaging this cholinergic system for plasticity,
+然后
+then does,
+例如
+for instance,
+看电影
+watching a movie,
+那是因为当我们看电影的时候
+and that's because when we watch a movie,
+它
+it can,
+整本片子都很棒
+the entire thing can be great.
+非常酷炫
+It can be awesome.
+它可以是种压倒一切的经历
+It can be this overriding experience,
+但我认为 鉴于所有这些经历
+but I think for all those experiences if you're somebody 
+如果你对构建大脑 扩展大脑 在各种事情上做得更好 感兴趣
+who is interested in building your brain and expanding your brain and getting better at various things,
+想要更好的感受
+feeling better,
+做得更好
+doing better,
+等
+etc.
+有人会问我 我的神经化学资源中有多少是在被动的体验中
+One has to ask you how much of my neurochemical resources in my devoting to the passive experience 
+是一些让我不知所措的东西 让我兴奋
+of letting something just kind of overwhelmed me and excite me versus something that 
+而不是我真正想学习并吸收的东西
+I'm really trying to learn and take away.
+现在我什么都不喜欢了
+And now there's nothing I enjoy.
+不喜欢电影和电视 但我经常刷Instagram
+Movie content in TV content all the time I'd scroll Instagram often.
+我们在把握这些乙酰胆碱释放机制或肾上腺素  这些事情上
+We are limited in the extent to which we can grab a hold of these acetylcholine 
+是有限的
+release mechanisms or epinephrine.
+我认为我们需要很小心 不要付出我们所有的乙酰胆碱和肾上腺素
+And I think that we need to be careful that we don't devote all our acetylcholine an epic suffering.
+所有的多巴胺
+all our dopamine for that matter,
+这些被动的经历不会让我们变得更丰富 更好
+to these passive experiences of things that are not going to enrich us in better us.
+这是我个人的观点
+So that's a little bit of in an editorial on my part,
+手机上有很多电影
+But the phone is rich with movies.
+信息量很大
+It's rich with information.
+真正的问题是 这些信息对我们来说是丰富的 能让我们成长 培养我们更聪明的吗？
+The real question is is the information rich in for us in ways that grow us and cultivate smarter,
+变得更能控制情绪吗？
+more emotionally evolved or people,
+还是能更加创造性？
+or is it creating?
+它对我们的身体健康有什么影响呢?
+what's it doing for our physical well being for that matter?
+所以
+So
+我不会告诉大家该做什么 不该做什么
+I don't want to tell people what to do or not to do,
+但是仔细想想你关注某件事的频率
+but think carefully about how often you're focusing on something 
+以及你在关注那些有挑战性的事情上是好 还是坏
+and how good you are or poor you are at focusing on something that's challenging,
+所以一旦你的警觉性足够高
+so once you get this up enough in this alertness,
+乙酰胆碱释放后 你就可以集中注意力了
+you get the acetylcholine released and you can focus your attention.
+那么问题是 能持续多久呢
+Then the question is for how long.
+在之前的播客中
+And in an earlier podcast,
+我讲过这些昼夜节律的周期是90分钟
+I talked about these old treaty in cycles that last about ninety minutes.
+典型的学习周期应该是90分钟左右
+The typical learning bout should be about ninety minutes.
+我认为启动学习无疑会包括5到10分钟的热身时间
+I think that learning about will no doubt include five to ten minutes of warm up period.
+我认为每个人都应该  给自己留一点余地  不需要在学习周期的初期就全神贯注
+I think everyone should give themselves permission to not be fully focused in the early part of that bout,
+但是在这中间的一个小时
+but that in the middle of that bound for the middle Hour,
+所以你应该可以集中注意力一小时左右
+so you should be able to maintain focus for about an hour or so,
+所以对我来说 这意味着消除外界干扰
+so that for me it means eliminating distractions.
+意味着关掉Wifi
+That means turning off the Wifi.
+把手机放在另一个房间
+I put my phone in the other room.
+如果我发现自己会条件反射地起身去拿手机
+If I find myself reflexively getting up to get the phone,
+那就把手机拿走 然后锁在外面的车里 如果我发现自己还是会去取的话
+I will take the phone and lock it in the car outside if I find myself going to get it anyway,
+我会有一段时间感到愧疚
+I am guilty of giving away the phone for a period of time,
+甚至有更戏剧化的一次  我提前把它扔到屋顶上了 直到一天结束后才能去拿它
+or even things more dramatic have thrown it up on my roof before so I can get to it till the end of the day.
+那东西很吸引人 我们为了用它会编出各种各样的理由
+That thing is pretty compelling and we come up with all sorts of reasons why we need to be in contact with it,
+但我鼓励你尝试体验一下完全沉浸在一项活动中
+but I encourage you to try experiencing what it is to be completely immersed in an activity
+你可能感到不安 你的注意力正在飘忽不定
+where you feel the agitation that your attention is drifting,
+但你可以一直把它带回来
+but you continually bring it back,
+这一点很重要
+and that's an important point,
+注意力会转移
+which is that attention drifts,
+但我们得重新校准它
+but we have to re anchor it.
+我们必须不断地把它带回来 如果你能
+we have to keep grabbing it back and the way to do that if your site,
+用眼睛看到
+it is with your eyes that,
+当你的注意力飘忽不定的时候
+as your attention drifts in you,
+眼睛会乱瞟
+look away,
+你要试着把注意力集中在你要学习的东西上
+you want to try and literally maintain visual focus on the thing that you're trying to learn.
+当然
+Feel free to blink,
+随意眨眼
+of course,
+但是你可以极大地提高你的专注力和学习速度
+But you can greatly increase your powers of focus and the rates of learning,
+在梅兹尼克 休伯尔 维厄瑟尔还有其他人的研究中都有
+which is anchored in all the work of Merzinick Hubel Weasel and others.
+这就是可塑性的触发器
+now that's the trigger for plasticity.
+但真正的秘密是 神经可塑性不会在清醒状态下发生
+But the real secret is that neural plasticity doesn't occur during wakefulness.
+它发生在睡眠中
+It occurs during sleep.
+我们现在知道
+We now know that.
+如果你在一件事上集中注意力90分钟左右
+If you focus very hard on something for about ninety minutes or so,
+也许你每天还会集中好几次
+maybe you even do several bouts of that per day.
+只要你能做到
+If you can do that,
+有些人可以
+some people can.
+有些人只能专注学习一次
+Some people can only do one focus bout of learning.
+然后 那天晚上和接下来的几个晚上
+That night and the following nights,
+在你睡觉的时候 那些神经回路就开始被强调
+while you sleep the neural circuits that were highlighted,
+只要你愿意
+if you will,
+随着乙酰胆碱传递增强 其他的传递会消失
+with the acetylcholine transmission will strengthen and other ones will be lost,
+这就很棒了 因为这就是可塑性的本质
+which is wonderful because that's the essence of plasticity.
+这意味着 当你在几天或一周后醒来时
+and what it means is that when you eventually wake up a couple of days or a week later,
+你将永远获得知识 除非你通过一些特定的行为
+you will have acquired the knowledge forever unless you go through some process 
+去主动地忘却它 我们之后会讨论忘记
+to actively unlearn it and we will talk about unlearning at it.
+在后面的一集里会讲
+In a later episode.
+所以控制好睡眠是加强学习的关键
+So mastering sleep is key in order to reinforce the learning that occurs.
+但假设你在学习后一夜没睡好
+But let's say you get a really poor night of sleep after a bout of learning,
+很有可能
+chances are,
+如果你第二天睡觉的晚上 也就是你学习的第二个晚上
+if you sleep the next night are the following night that learning will occur.
+大脑中会有个印记  那是乙酰胆碱释放的地方
+There's a stamp in the brain where this acetylcholine was released.
+它实际上标记了这些突触
+It actually marks those synapses nor chemically,
+通过神经化学和代谢方式  所以那些突触就更容易改变
+and metabolically so that those aren't synapses are more biased to change now.
+如果你从来没得到过很深的睡眠
+If you don't ever get that deep sleep,
+那么你可能不会得到这些变化
+then you probably won't get those changes.
+还有一种方法  可以让你不需要深度睡眠
+There is also a way in which you can bypass the need for deep sleep,
+至少有的时候是这样  就是通过我一直在说的非睡眠深度休息 NSDR
+at least partially by engaging in what I call non sleep deep rest these NSDR protocols.
+但是我想讨论一下其中的科学原理
+But I just want to discuss the science of this.
+去年 《细胞报告》上发表了一篇论文
+There was a paper that was published in cell reports last year.
+这表明 如果人们去完成一个
+that shows that if people did,
+这是一个空间记忆任务
+it was a spatial memory task,
+其实这任务相当困难
+actually quite difficult.
+他们必须记住灯光点亮的顺序
+one where they had to remember the sequence of lights lighting up 
+如果特定的顺序中只有两到三盏灯 这很简单
+and if there are just two or three lights in a particular sequence is easy,
+但当你看到15或16盏灯的时候
+but as you get up to fifteen or sixteen lights and 
+想要记忆这些数字顺序就变得很难
+and think numbers in the sequence actually gets quite challenging.
+如果是在学习之后马上
+If immediately after and it was immediately after the learning,
+就是在任务实际执行完之后 立马
+the actual performance of this task,
+试验者去做了NSDR
+people took a twenty minute non sleep deep rest.
+或者是躺下 脚稍微抬高 小睡一会儿
+Protocol or took up a shallow naps are lying down feet slightly elevated,
+也许只是闭上了眼睛
+perhaps just closing their eyes.
+没有感官输入
+No sensory input.
+学习这些信息的比率明显更高
+The rates of learning were significantly higher for that information.
+相比于第二天晚上好好睡一觉还要好
+Than were to just had a good night's sleep the following night.
+所以你可以用这些NSDR方法加速学习 提高效率
+So you can actually accelerate learning with these NSDR protocols.
+或者打个盹
+or with brief naps,
+不超过90分钟
+ninety minutes or less.
+所以童年可塑性的关键是  当一个孩子就可以
+So the key to plasticity in childhood is to be a child.
+成年期可塑性的关键在于  一 保持警觉 集中注意力   
+The key to plasticity in adulthood is to engage alertness, engage focus 
+二 练习NSDR
+and then to engage non sleep deep rest.
+三 当你处于睡眠状态时尽量进入深度睡眠
+And deep sleep while you're in your typical bout of sleep,
+我总是被问到我我要学多少回 才能取得好成绩
+I always get asked how many bouts of learning can I perform well,
+我知道有人会训练这些视觉聚焦机制
+I know people that train up these visual focus mechanisms to the point  
+他们一天可以进行好几次的90分钟的学习周期 可以做三到四次
+where they can do several ninety minute bouts throughout the day as many as three or four,
+其中一些人还加入了非睡眠深度休息方法
+and some of them were also inserting non sleep deep rest as well.
+这边有一些小窍门
+Now that can get pretty tricky.
+很多人发现 通过做一些肌肉运动
+A lot of people find that they can recover best from these intense bouts of focused 
+他们可以从高强度的集中学习中恢复得很好
+learning by doing some motor activity,
+让你进入这些运动的光流中
+get it where you get into self generated optic flow,
+如果你听过我之前关于压力的讲座 你应该能理解
+and that should make sense if you've ever heard me lecture about stress,
+我在不同的播客中说过这一点
+which I've done a little bit in various podcasts 
+当我们处于一种自发的光流模式里的时候 比如走路或跑步
+when we are in a mode of self generated optic flow like walking or running,
+或者骑自行车
+or cycling,
+我们身边的东西会在视网膜上飘过
+and things are just floating past us on our on a retina,
+我们并没有在看什么特别的地方
+we're not really looking anywhere in particular,
+所以这是视野小范围聚焦的对立面
+so this is the opposite of a tight window focus.
+当我们这样做的时候
+When we do that.
+大脑中有一些区域 比如杏仁核
+There are areas of the brain like the amygdala,
+这涉及到在极端情况下  释放肾上腺素并创造警觉性
+which are involved in releasing epinephrine and create alertness at the extremes.
+极端情况会产生恐惧
+It creates fear,
+肯定还有警觉性
+but certainly alertness.
+这些都关闭了
+Those all shut down,
+所以这是一种非睡眠深度休息
+so it's its own form of non sleep deep rest.
+所以有些人觉得先专注于学习
+so some people find it much more pleasurable and practical to engage in a focus bout of learning,
+然后去做一些我们认为毫无价值的事情
+and then go do some activity that involves what we would essentially called worthlessness,
+你不用想太多的事情  这样更令人愉快 也更可操作
+where you're not really thinking about much of anything.
+所以对于那些一边跑步一边听有声书或播客的人
+And so for those of you that listen to audio books or podcasts while you run,
+你可能要考虑一下 到底要不要这样度过这段时间
+you may want to consider whether or not that's how you want to spend your time right now.
+如果你在跑步或骑自行车的时候听我们这个播客 那我还挺高兴的
+I'd love it if you were listening to this podcast while you run or cycle.
+但我更希望的是  你能从神经可塑性中获益
+I'm much more interested in you actually getting the benefits of neural plasticity
+ 而不是为了听我讲而听我讲
+than just listening to me for sake of listening to me.
+所以
+So.
+对许多人来说
+For many people,
+经过一段时间的集中精力 深度思考之后
+letting the mind drift,
+让思绪飘一会儿
+where it's not organized in thought after a period of very deliberate,
+是加速学习和深入学习的最好方式
+focused effort is the best way to accelerate learning and depth of learning.
+有很好的科学数据来支持这个理论
+And they are good scientific data to support these sorts of things,
+包括我刚才提到的《细胞报告》论文
+including the cell reports paper that I mentioned a few moments ago.
+我想总结一下我们到目前为止所讲到的重点
+I want to synthesize some of the information that we've covered up until now.
+整一个月都是讲关于神经可塑性的话题
+This entire month is about neuro plasticity.
+今天的节目涵盖了很多内容
+Today's episode is covered a lot.
+但它绝不可能涵盖神经可塑性所有的潜力和可塑性的方法
+By no means has it covered all of the potential for neural plasticity and protocols for plasticity.
+我们会慢慢详细讲解的
+We will get into all of it.
+但今天我想告诉你们的是  这些构成神经可塑性的支柱  这些关键元素
+But today I want to make sure that these key elements that form the backbone of neural plasticity 
+这真的是根植在人们的头脑中的
+are really embedded in people's minds.
+首先
+First of all,
+可塑性贯穿于人的一生
+plasticity occurs throughout the lifespan.
+从出生到25岁 仅仅是接触一个感官事件就可以创造可塑性
+Early from birth until twenty five mere exposure to a sensory event can create plasticity.
+这可能是件好事 也可能是件坏事
+That could be a good thing or a bad thing.
+我们会讲到忘记不好的东西
+We're going to talk about on learning the bad stuff,
+比如创伤
+traumas,
+等等
+etc.
+在本月的后面几期播客中会讲到
+In a subsequent episode this month.
+如果成年人要学习
+If you want to learn as an adult,
+那你们必须维持警觉
+you have to be alert.
+这似乎是显而易见的
+It might seem so obvious,
+但我想很多人都不知道
+but I think a lot of people don't think about when,
+在他们的24小时周期中 什么时间段是最警觉的时候
+in their twenty four hours cycle they are most alert.
+有四集专门讲了24小时周期以及清醒和睡眠的周期
+There are four episodes devoted to that twenty four hour cycle and the cycles of alertness and sleep.
+如果你还没有听过 我鼓励你去听以听 或者问问你自己
+I encourage you to listen to those if you haven't had the opportunity to yet or just ask yourself 
+一天中什么时候你最能保持警觉 能够让你很好的
+when during the day do you typically tend to be most alert that will afford you an advantage.
+在这段时间里学习特定的东西
+In learning specific things during that period of time,
+还有  不要放弃那些做毫无意义的事情的时间
+so don't give up that period of time for things that are meaningless,
+即使它们与你的目标无关
+useless are not aligned with your goals.
+不要一直被动地恪守
+I'd be a terrible time to get into passive observance or just.
+不要把所有的时间都花在费脑的事情上
+Letting your time get soaked away by something
+ 无意义的事情是很宝贵的资源
+that is a valuable asset that epinephrine released from your brain stem.
+让你的肾上腺素能够更规律的在24小时周期中释放
+Is going to occur more readily at particular phases of your 24 hour cycle than others 
+在你清醒的时候
+during the waking phase.
+当然
+Of course,
+你应该要知道是什么时候在释放肾上腺素
+you should know when those are,
+然后你可以开始考虑行为练习 也可以实践一些药理学
+and then you can start to think about the behavioral practices may be the pharmacologic practices 
+比如咖啡因
+like caffeine,
+水合作用
+hydration,
+等
+etc.
+这都会给
+that will support.
+高度的警觉性提供支持
+Heightened levels of alertness,
+注意力是可以学习的 而且注意力对创造一种特定的条件也至关重要
+attention is something that can be learned and attention is critical for creating that condition,
+这种条件下  不管你正在做什么 都能够改变你的大脑
+where whatever it is that you are engaging in will modify your brain 
+让你不用在上面花太多的注意力
+in a way that you won't have to spend so much attention on it.
+并向前发展
+going forward.
+这就是可塑性的本质 这些最终会变成反射性的
+That's the essence of plasticity that things will eventually become reflexive,
+你正在学习的语言
+the language that you're learning,
+运动
+the motor movement,
+认知技能
+the cognitive skill,
+抑制情绪反应  或引发情绪反应的能力
+the ability to suppress an emotional response or to engage an emotional response,
+这取决于你的目标是什么 什么适合你
+depending on what your goals are in what's appropriate for you.
+增加乙酰胆碱可以通过尼古丁  在药理学上实现
+Increasing acetylcholine can be accomplished pharmacologically through nicotine.
+但是
+However,
+对很多人来说 这样做是有一定危险的
+there are certain dangers for many people to do that,
+还有成本
+as well as a cost.
+金钱成本
+Financial cost.
+通过视觉系统练习 学习如何使用胆碱能系统
+Learning how to engage the cholinergic system through the use of the visual system practicing,
+眨眼睛的时候 你能集中注意力多久
+how long can you maintain focus with blinks as you need them?
+看着你身边几英尺外的一张纸上
+But how long can you maintain visual focus on a target just on a piece of paper set a few feet away
+或者是电脑屏幕上的一个点 你能将视觉焦点保持多久呢
+in the room or at the level of your computer screen?
+这些实际上是人们在需要高度视觉关注时 会做的事情
+These are actually things that people do in communities where high levels of visual focus are necessary.
+另一种获得高度视觉专注力和警觉性的方法是
+Now the other way to get high levels of visual focus and alertness is to 
+产生恐慌或者处于一种非常
+have a panic or to have a situation that's very,
+非常糟糕的情况中
+very bad.
+你会立刻集中注意力于与该情况相关的一切
+You will be immediately focused on everything related to that situation,
+但这让人难过
+but that's unfortunate.
+我们在这里真正想讨论的是  努力利用注意力的机制
+What we're really talking about here is trying to harness the mechanisms of attention 
+并提高集中注意力的能力
+and get better at paying attention.
+你可能也需要你的听觉系统集中注意力
+You may want to do that with your auditory system,
+而不是视觉系统的注意力
+not with your visual system,
+要么
+either,
+你可能是弱势或没有视力
+because you're low vision or no vision,
+或者是因为你在努力学习更多与声音有关的东西 而不是你视觉上的
+or because you're trying to learn something that relates more to sounds than to what you see.
+但对大多数人来说
+But for most people,
+大家都在努力学习信息
+they're trying to learn information,
+认知信息
+cognitive information,
+或者他们在努力学习 去了解伴侣的情绪上的细微变化
+or they are trying to learn how to hear the nuance in their partner's explanations 
+去倾听伴侣
+of their emotionally challenging events,
+等
+etc.
+记住
+And just remember.
+顺便说一下
+by the way,
+我之前说过
+what I said earlier,
+如果你真的想让别人听你说话
+which is that if you really want somebody to listen to you and really hear 
+听你在说什么 听你在含蓄地表达什么
+what you're saying and what's underlying it,
+当你这样做的时候 你不应该  也不能期望他们直视你
+you should not and cannot expect them to look directly at you while you do that,
+这会限制他们集中听力注意力的能力
+that's actually going to limit their ability to focus,
+没错 我在救你们
+trying to rescue a few folks out there who might be in this struggle.
+我
+I,
+当然
+of course,
+从来没有陷入过这种困境
+have never been in the struggle.
+额 这应该是个玩笑来着
+And that was supposed to be a joke.
+我很熟悉这种挣扎感
+I'm very familiar with that struggle,
+但我知道一个人可以更好地去倾听
+but I know that one can get better at listening.
+一个人可以更好地去学习
+One can get better at learning.
+通过固定这些机制 一个人可以在各种事情上变得更好
+One can get better at all sorts of things by anchoring in these mechanisms.
+然后
+Now,
+当然
+of course,
+你也可以把这些方法结合起来
+you can also combine protocols,
+你可以将药物与这些学习实践相结合
+you can decide to combine pharmacology with these learning practices.
+很多人 很多群体都这样做
+Many people and communities do that.
+很多人在学习前喝咖啡  就能很自然地做到这一点
+Many people are doing that naturally by drinking their coffee right before they do their learning.
+我也鼓励你们 回想一下这些学习周期有多长
+But I would also encourage you to think about how long those learning bouts are.
+如果你觉得自己有注意缺陷障碍
+If you think you have an ADD.
+或者ADHD
+Or A D H D?
+看过医生
+see a clinician,
+你也应该问自己
+but you should also ask yourself,
+你是不是放弃了每天中集中注意力最好的时间
+Are you giving up the best period of focus that you have each day?
+把这些时间放在了其他事情
+naturally to some other thing,
+比如社交媒体上
+like social media,
+或者其他对你没有益处的活动
+or some other activity that doesn't serve you well.
+还是说把这段时间用来学习
+or are you devoting that period to the opportunity to learn?
+你也应该问问自己 你是否在白天中花了太长时间 集中了太多的注意力
+You should also ask yourself whether or not you're trying to focus too much for too long during the day.
+我认识一些非常厉害的人
+I know some very high performing individuals.
+在各个领域
+Very high,
+都有很杰出的贡献
+performing in a variety of contexts,
+他们中 没有人能一整天都全神贯注
+and none of them are focused all day long.
+很多人会时不时的去走廊里散步
+Many of them take walks down the hallway,
+有时候喃喃自语  不去注意别的事情
+sometimes mumbling to themselves are not paying attention to anything else.
+他们会骑自行车
+They go for bike rides,
+他们散步
+they take walks,
+他们并没有努力让自己的大脑每时每刻都集中注意力
+they are not trying to engage their mind at maximum focus all the time.
+很少有人能做到 因为我们在这90分钟的周期中
+Very few people do that because we learn best in these ninety minute bouts 
+学得最好的是在这些昼夜节律中
+inside of one of these old treaty in cycles.
+我要再重复一遍 在这90分钟的周期内
+And I should repeat again that within that ninety minutes cycle,
+你不应该期望自己在整个90分钟的周期内都一直集中注意力
+you should not expect yourself to focus for the entire period of one ninety minutes cycle.
+在开始和结束时会有一些走神
+At the beginning and end are going to be a little bit flickering in and out of focus.
+那你怎么知道这个90分钟的周期何时开始呢
+How do you know when one of these ninety minutes cycles is starting,
+或者通常你醒来的时候是第一个90分钟周期的开始
+or typically when you wake up is the beginning in the first ninety minutes cycle,
+不过
+But it does.
+也不会精确到几分几秒
+It's not down to the minute you'll be able to tap into 
+一旦你开始选择进入这些学习实践的时候  你会有感觉自己进入了
+your sense of these ninety minutes cycles as you start to engage in these learning practices,
+那90分钟周期
+should you choose.
+当然
+And then of course,
+多练习NSDR
+getting some non sleep deep rest
+这种有意识的脱离思考
+Deliberate disengagement,
+比如走路 跑步 或者只是闭着眼睛坐着
+such as walking or running or just sitting eyes closed her eyes.
+睁着眼放空
+Opening on to mindlessly.
+可以是在学习了一轮之后  坐在椅子上
+It might seem in a chair just letting your thoughts move around.
+让你的思想四处活动
+After a learning about will accelerate.
+这可以加快可塑性的速度  这些方法已经在高质量的同行评审的研究中得到了证明
+the rate of plasticity that's been shown in quality peer reviewed studies.
+然后
+And then,
+当然
+of course,
+还有深度睡眠
+deep sleep,
+所以我们可以发现  可塑性是你生命早期的天生权利
+and so we can start to see is that plasticity is your natural right early in life,
+但在25岁以后
+but after about age twenty five,
+你必须做一些特别的工作  才能得到可塑性
+you have to do some work in order to access it.
+但幸运的是
+But fortunately,
+休伯尔 维厄瑟尔 梅兹尼克以及温伯格等科学家的特别棒的实验
+these beautiful experiments of Hubel Weasel and Merzinick and Weinberger and others
+ 为我们指明了方向 让我们能够实现可塑性
+point in the direction of what allows us to achieve plasticity.
+它指向了神经化学物质和脑回路
+It points to the neural chemicals and the circuits.
+现在我们有了行为学方法 可以做到这一点
+and we now have behavioral protocols that allow us to do that.
+我还想强调的是行为练习的另一个方面
+I also really want to emphasize that there's an entire other aspect of behavioral practices 
+能让我们得到可塑性 并且不需要强烈的专注和情绪
+that will allow us to engage in plasticity that don't involve intense focus and emotionality,
+但需要大量的重复
+but involve a lot of repetition.
+所以还有另一种可塑性  针对做一些看起来很普通的事情
+so there's another entire category of plasticity that involves doing what seem like almost mundane things,
+就是一遍又一遍地重复
+but doing them over and over again repeatedly 
+并将多巴胺的奖励系统融入进去
+and incorporating the reward system that involves dopamine.
+所以今天我讲的是一种来自极度集中注意力的可塑性
+So today I talked about the kind of plasticity it comes from extreme focus.
+一些困难的事情发生的时候 你会自然地获得这种极度的专注和警觉
+You would get that extreme focus and alertness naturally through a hard or difficult event 
+即便你不想要
+that you didn't want.
+就是这么讽刺
+That's the kind of stinger,
+但你的大脑就是被设计成 保护自己的安全
+but your brain is designed to keep you safe.
+所以它会想要从碰到滚烫的炉子
+So wants to get one trial learning from things like touching a hot stove 
+或和一个可怕的人接触中  进行学习
+or engaging with a really horrible person.
+如果想要在积极的方面产生不可思议的可塑性 可以通过这种
+You can get incredible plasticity of positive experiences of things that you want by 
+高度集中的状态 然后是休息
+engaging this high focus regime and then rest not sleep,
+NSDR和睡眠
+deep rest and sleep.
+可塑性还有另一个方面
+And there is another aspect to plasticity,
+我们将在下一集探讨
+which we will explore next episode,
+我们会探索增强可塑性的运动
+as well as when we explore movement based practices for enhancing plasticity 
+以及运动本身的可塑性
+and plasticity of movement itself.
+并不需要那种高度集中 强烈的情绪
+And those are not of the high attention kind of high emotionality,
+亦或是
+or.
+也不需要今天所描述的活动  那么大的强度
+The intensity of the experiences that I described today 
+那更多的是关于重复和奖励 重复 奖励 重复
+those are more about repetition and reward and repeat repetition reward repeat,
+这种机制被用于行为方面的改变  与前面的截然不同
+and they are used for a distinctly different category of behavioral change,
+更多的是习惯的形成
+more of which relate to habits,
+而不是学习特定类型的信息
+as opposed to learning of particular types of information that allow us to.
+让我们能够有身体认知  或调整我们的情绪系统
+Perform physically cognitively or adjust our emotional system.
+我就讲到这里
+So I'm going to stop there.
+我想你们肯定有很多问题要问
+I'm sure there are a lot of questions.
+请把你的问题发在下面的评论区
+Please put your questions in the comments section below,
+请记住 这一整个月 我们都会探索神经可塑性
+and please remember that this entire month we're going to be exploring a neural plasticity.
+所以这次讨论
+so this.
+讨论+课堂
+Discussions / lecture,
+我希望能有更多的互动
+I wish it was more of a back and forth,
+但没办法 现在就是这个形式
+but this is what the format offers us.
+所以请把你们的问题写在评论区
+So please do put your questions in the comments section 
+我会在接下来神经可塑性的播客中解答
+and I will address them in the other episodes coming soon on neural plasticity,
+就像我说的 你们很多人应该在苹果或者Spotify听这个
+as I say that I'm reminded that many of you are listening to this on Apple or Spotify,
+因此 除了Apple播客的打分区之外 没有什么地方可以评论了
+and therefore there isn't an opportunity to leave comments aside from the rating section on Apple.
+所以如果你有和神经可塑性有关的特定话题
+So if you have specific topics related to neural plasticity that you would like me 
+想让我在这个月的后续节目中讲到
+to cover in the subsequent episodes this month,
+请登录Youtube订阅
+please go to the Youtube subscribe.
+然后
+but as well.
+请把你的问题写在评论区
+Please put your question in the comments section for this episode,
+我一定会阅读并回复的
+and I'll be sure to read them and respond.
+很多朋友非常友好地问  如何帮助支持HubermanLab播客
+Many of you have very graciously asked how you can help support the HubermanLab podcast.
+最好的办法就是订阅
+The best way to do that is to subscribe on.
+Youtube  也可以点一下通知按钮 这样你就不会错过任何之后的节目
+Youtube might want to also hit the notification buttons so that you don't miss any upcoming episodes.
+请留下你的评论
+Leave a comment as well.
+如果你在Apple播客
+If you go to Apple,
+也可以给我们五星评级
+you can give us a five star rating,
+在那边
+and there's a place there were also,
+你也可以留言
+you can leave a comment.
+如果你喜欢在Spotify上听
+And if you prefer to listen on Spotify,
+可以订阅和下载
+subscribe and download on spot
+此外
+In addition,
+如果你把播客推荐给你的朋友 家人
+it's always helpful if you recommend the podcast to your friends and family 
+和其他你认为可能从其中受益的人  那就更好了
+and others who you think might benefit from the information and as well,
+也可以看看我们的赞助商
+please check out our sponsors.
+这也是在支持我们
+That's a great way to help us today.
+在之前的几期里
+and in previous episodes,
+我讲过很多次补剂
+I've talked a number of times about supplements.
+我很高兴我们能和THORNE合作
+I'm very pleased that we're partnering with Thorn.
+THORNE补剂
+THORNE supplements.
+因为THORNE对产品质量要求非常严格
+Because thorn has the very high levels of stringency in terms of product quality 
+对补剂的含量要求非常严格
+and precision about how much have given supplements are in the bottle,
+这还挺重要的 因为并不是所有的补剂公司都能经受住测试
+which is vital and not all supplement companies have stood up to the test on that one.
+如果你想去THORNE看看
+If you want to check out thorn and go to THORNE,
+那就是thorne.com/huberman
+that's thorne.com/huberman
+如果你去看了
+and if you do that,
+你购买的任何补品都可以打八折
+you'll get twenty percent off any supplements that you purchase.
+上面还列出了一些我服用的补品
+I've also listed there a gallery of supplements that I take,
+包括甘氨酸镁
+including magnesium glycate
+我知道
+I know.
+在之前的节目中 我谈到了我服用的苏糖酸镁作为助眠剂
+On previous episodes I talked about magnesium threonate as a sleep aid that I take.
+甘氨酸镁  苏糖酸镁基本上是可以互换的
+magnesium glycate and magnesium threonate are essentially interchangeable.
+非常感谢你的时间和关注
+Thanks so much for your time and attention
+ 一如既往
+and as always,
+谢谢你对科学的关注
+thank you for your interest in science
+如果喜欢这期内容 别忘了也给up主一键三连哦~:)

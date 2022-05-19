@@ -1,0 +1,3651 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到HubermanLab播客
+Welcome to the HubermanLab Podcast,
+在这里  我们讨论日常生活中的科学和基于科学的工具
+we discuss science and science space tools for everyday life.
+我叫安德鲁·休伯曼
+My name is Andrew Huberman 
+是斯坦福医学院神经生物学和眼科学的教授
+and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色是分开的
+This podcast is separate from my teaching and research roles at Stanford.
+然而
+It is,
+它是
+however,
+我的部分愿望和努力
+part of my desire and effort 
+为的是为你们带来零成本的消费者信息  关于科学和科学相关工具
+to bring you zero cost of consumer information about science and science related tools.
+为了与这个主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一位赞助商是 InsideTracker
+Our first sponsor is inside tracker Inside Tracker,
+InsideTracker分析血液和DNA的数据 帮助你更好地了解你的身体 健康和健康需求
+analyzes data from your Blood and DNA to help you better understand your body and health and health needs.
+我已经验血很多年了 因为我发现很多对我们的健康和幸福很重要的东西
+I've been getting my blood tested for many years now because it just turns out that many of the things that are 
+只能通过血液测试或DNA测试检测到 InsideTracker
+important to our health and wellbeing can only be detected in the blood test or a DNA test inside tracker 
+让这变得很容易
+makes that really easy.
+如果你愿意 他们可以到你家里拿样品
+They can come to your house to take those samples if you like,
+或者你也可以去附近的诊所
+or you can go to a nearby clinic as well.
+大多数血液测试和DNA测试的主要问题是
+The major problem with most blood tests and DNA tests is that 
+很难理解你所获得的信息
+it's very hard to make sense of the information you get.
+你会得到很多关于代谢因素和不同因素的数据
+you get a lot of numbers related to metabolic factors and different factors,
+
+内部追踪器 可以很容易地解读你血液和DNA中的这些水平
+Inside tracker makes it very easy to decipher what those levels in your blood and DNA mean 
+以及如何应对它们
+and what to do about them.
+他们有一个很容易使用的仪表盘 如果你去它
+They have a very easy to use dashboard that if you go to it,
+它可以告知人们如何选择生活方式 比如增加或减少某些形式的锻炼或营养
+it can inform about lifestyle choices such as adding or subtracting certain forms of exercise or nutrition.
+其他与补充有关的事项
+Other things relate a supplementation.
+这是一个功能强大且易于使用的程序
+It's a really powerful and easy to use program.
+如果你想试试
+If you want to try.
+Insidetracker
+Inside tracker,
+你可以去insidetracker.com/huberman
+you can go to inside tracker dotcom,
+并把Hubermen填在结账的优惠码里
+slash Hubert Gun and Put Huber men at check out 
+在他们的任何项目中获得25%的折扣
+to get twenty five per cent off any of their programs that's inside tracker dotcom,
+结帐时输入Huberman
+Huberman and put Huberman checkout.
+今天播客的第二个赞助商是athleticgreens
+The second sponsor of today's podcast is athletic greens.
+athleticgreens是一种维生素矿物质益生菌饮料
+Athletic greens is an all in one vitamin mineral probiotic drink.
+我从2012年开始使用athleticgreens
+I've been using athletic green since two thousand and twelve,
+我很高兴他们赞助了我的播客 我开始使用athleticgreens
+and so I'm delighted that their sponsoring the podcast I started using athletic greens
+ 我现在仍然使用athleticgreens 因为我发现要想知道我需要服用哪些
+and I still use athletic greens because I find it very complicated and almost dizzying to figure out 
+维生素和矿物质来满足我的营养基础非常复杂
+which vitamins and minerals I need to take in order to just cover my nutritional basis.
+服用athleticgreens就很容易了
+Taking athleticgreens makes that very easy.
+味道也很好 用水和一点柠檬汁做的
+It also tastes very good and makes mine with water and a little bit of lemon juice,
+我真的很喜欢
+and I really like it,
+所以我一天喝一两次
+so I drink at once or twice a day.
+athleticgreens中的益生菌对我来说也很重要
+The probiotics that are in athletic greens are also important to me,
+因为现在有很多数据表明 肠道微生物群
+because there are a lot of data now showing that the gut microbiome,
+它是由益生菌支持的
+which is supported by probiotics,
+对内脏很重要
+is important for things like the gut,
+大脑
+brain access,
+心情
+mood,
+内分泌因素
+endocrine factors,
+新陈代谢
+metabolism,
+很多生物功能 所以通过athleticgreens
+many many biological functions and so by taking athletic greens,
+我在益生菌中获得了维生素和矿物质 易于食用 口感极佳
+I get the vitamins and minerals in the probiotics all in one easy to consume great tasting.
+如果你想试试
+If you want to try out,
+athleticgreens
+athleticgreens
+你可以去athleticgreens.com/huberman
+you can go to athleticgreens.com/huberman
+如果你去看了
+and if you do that,
+你还能得到一年的液体维生素D3K2
+you also get one year supply of liquid vitamin D three K2
+现在也有很多数据
+There are a lot of data now as well,
+表明维生素D3对情绪的免疫功能很重要
+showing that vitamin D three is important for immune function for mood,
+内分泌因素
+endocrine factors,
+以及大脑和身体的其他系统
+as well as other systems in the brain and body.
+这是athleticgreens.com/huberman
+That's athleticgreens.com/huberman
+我还应该提一下 如果你这么做
+and I should also mention if you do that,
+你不仅能获得一年的维生素D3k2
+you won't just get the vitamin D three K two years supply.
+你还会得到五套免费的athleticgreens旅行装
+You also get five free travel packs of athletic greens,
+可以在路途中混合粉末
+mixing up powders when one is on the road,
+要么在车里 要么在酒店里 要么在飞机上
+either in the car were in a hotel or on the plane,
+
+可能会有点乱
+Can be kind of messy.
+这些小旅行包让旅行变得又干净又方便
+These little travel packs make it really clean and easy.
+再一次
+So once again,
+如果你去athleticgreens.com/huberman
+if you go to athleticgreens.com/huberman
+你会得到一份特殊的athleticgreens
+you'll get a special offer of your athletic greens,
+但你也能获得全年所需的维生素D3k2
+but you also get the year supply of vitamin D three K too,
+还有五个免费旅行包
+and the five free travel packs.
+今天播客的第三位赞助商madefor是一家行为科学公司
+The third sponsor of today's podcast is made for made for is a behavioral science company that 
+它通过一系列简单的步骤和一个月的计划 让实现积极的改变和成长的心态变得容易
+makes attaining positive changes and growth mindset easy through a simple set of steps and a monthly program.
+该公司由前海豹突击队队员帕特里克·多塞特 和Tom's 的创始人布莱克·麦考斯基创立
+The company was founded by former Navy Seal Patrick Dossett and Tom's founder Blake Mycoskie.
+我是他们科学顾问委员会的负责人
+I'm the head of their scientific advisory board.
+咨询委员会的其他成员包括
+and the other members of the advisory board include people like the Director of the Quantum Biology Unit,
+国家心理健康研究所量子生物学部门的主任
+the National Institutes of Mental Health,
+哈佛医学院和许多其他认真研究的人
+Numbers of Harvard Medical School and many other people who are serious about taking sides 
+并开发可以应用于积极习惯和成长心态的方法
+and developing protocols that can be applied toward positive habits and growth mindset.
+如果你想看看madefor 你可以去getmadefor.com
+If you want to check out made for you can go to get made for dot com,
+如果你购买任何一种产品并输入Huberman结账
+and if you purchase in either products and put human at check out,
+他们会给你打八折
+you'll get twenty percent off their program.
+除此之外
+In addition to that,
+我们每月都会给会员组织一场zoom会议
+we do a monthly zoom call where the members are made for good on it.
+帕特里克和我  有时还有布莱克
+And Patrick and myself sometimes Blake as well,
+讨论了madefor的项目和个人目标
+discussed the maid for program and the personal goals and things 
+以及人们试图通过项目实现的目标
+that people are trying to achieve with the program.
+这是一个Zoom上的来回对话
+So it's a dialogue back and forth on Zoom.
+每月一次会议
+Call once a month once again,
+getmadefor.com
+that's get made for dotcom,
+输入Huberman
+putting Huberman
+结账的时候 可以享受八折优惠
+check out and you'll be able to get the twenty percent off.
+也可以参与
+As well as access.
+每月的zoom会议
+The monthly zoom calls with us.
+我们来谈谈神经可塑性
+Let's talk about neural plasticity.
+更具体地说
+More specifically,
+我们来谈谈如何优化大脑的神经可塑性
+let's talk about how we can optimize our brain's neural plasticity.
+是我们神经系统的这种不可思议的特性 让它能够自我改变
+Is this incredible feature of our nervous system that allows it to change itself,
+甚至是我们有意识地决定要不要变
+even in ways that we consciously decide.
+这是一种不可思议的财产
+That's an incredible property are liver,
+你的肝脏可不能决定改变自己
+can't decide to just change itself.
+脾不能仅仅通过有意识的思考  或通过别人的反馈来
+are spleen can't decide to just change itself through conscious thought or through feedback 
+改变自己
+from another person.
+当然  这些组织中的细胞确实可以改变
+The cells in those tissues can make changes sure,
+但我们的神经系统正是拥有一种不可思议的能力 能够以自己想要的方式引导自己的改变
+but it's our nervous system that harbors this incredible ability to direct its own changes in ways that we believe,
+让我们自己变得更好
+where we are told will serve us better.
+
+今天是非常特别的一集
+today is a really special episode,
+因为虽然我们依然是讨论科学
+because while we are going to talk about science,
+和往常一样
+and as always,
+我们将深入研究机制
+we will delve into mechanism.
+但今天的节目是为了回答大家最常见的
+Today's episode is really geared toward answering your most common questions 
+关于如何利用神经可塑性的问题
+about how to leverage neural plasticity.
+前几集讲的是注意力以及如何为了可塑性而集中注意
+The previous episodes were about focus and how to achieve focus for sake of plasticity,
+和上一集一样
+as well as the last episode,
+这是一些用运动有关的方法 去形成可塑性
+which is what are some of the portals into plasticity that relate to movement.
+行为如何激活可塑性  以及如何激活行为本身的可塑性呢？
+how behavior can activate plasticity as well as how to activate plasticity for behavior itself?
+如何更好地学习某些动作？
+How to get better at learning certain movements?
+今天的播客主要是回答大家最常见的问题
+Today's podcast is really directed toward answering your most common questions 
+以及更大的一个问题  如何优化大脑
+and the bigger theme of How does one go about optimizing their brain,
+或者甚至试图去优化大脑
+or even think about optimizing the brain?
+这是什么东西？
+What is this thing that we're calling,
+优化大脑
+optimising the brain?
+在这一过程中
+In doing so,
+我还将分享一些我的典型日常习惯和工具
+I'm also going to share some of my typical routines and tools.
+不是说  我分享这些 因为我它们是唯一可用的
+I don't share these because I think that they are the only ones that are available out there.
+这些方法当然不是唯一的
+Certainly they're not,
+我分享这些  也不是因为我自己在做  所以我要每个人都去做
+nor do I share them because I think that everyone should do them just because I do them.
+当然不是
+Certainly not.
+我分享这些是因为  你们很多人都问过我具体做什么
+I share them because many of you have asked for very concrete examples of what I do,
+以及什么时候做
+and when,
+所以我将和你们分享这些
+and so I'll share those with you,
+你可以决定这些方案是否适合你
+And you can decide whether or not those protocols are for you or not.
+每个人都是不同的
+Everybody is different,
+但是在神经系统和身体的层面上  我们的组合构成 有一些共同的特征
+but there are some common features of how we are all put together at the level of the nervous system 
+这些共同的特征指引着我们去做一些特定的练习 特定的习惯
+and body that direct us toward particular practices particular routines 
+这些练习对于神经可塑性来说是非常强大的
+that can be especially powerful for neural plasticity.
+所以我想通过强调一些非常重要的东西来开始今天的讨论
+So I want to open up the discussion to day by emphasizing something that's fundamentally important,
+可塑性不是我们的目标
+which is that plasticity is not the goal.
+可塑性从来不是目标
+Plasticity is never the goal.
+可塑性只是我们神经系统改变的一种状态或能力
+Plasticity is simply a state or a capacity for our nervous system to change.
+我每次听到一些话就不知道说什么
+And so nothing makes me more frustrated.
+比如说
+Perhaps then,
+当我听到
+when I hear,
+哦
+Oh,
+这药丸  这药剂
+you know this pill this potion.
+这种练习
+This practice.
+它可以赋予你可塑性
+It gives you plasticity.
+可塑性就是改变
+Plasticity is just change.
+不是的  真正的问题是
+The real question is,
+你想要改变什么？
+what are you trying to change?
+特别是
+and specifically,
+你想要达到的最终目标是什么？具体的目标  可能是非常具体的目标
+what end goal are you trying to achieve Specific and goals might be extremely specific,
+比如你想学习一种特定的语言 或者你想学习一种新的运动技能
+like you want to learn how to speak a particular language or you want to learn a new motor skill,
+或者你想要非常擅长微积分
+or you want to get very good at calculus,
+或者你想忘记与某个特定的人或经历有关的坏情绪
+or you'd like to forget the bad emotions related to a particular human being or experience,
+或者它可以是更普遍的 比如你想要更有创造力
+or it can be more general like you'd like to be more creative 
+我们今天的确会讨论创造性
+and we'll actually talk about creative to creativity to day 
+或者你想要获得更多的注意力或者你想要更少的压力
+or you would like to achieve more focus or you'd like to be less stressed.
+所以理解可塑性非常重要   实现可塑性是我们所说的
+So it's very important that you understand that plasticity and achieving plasticity is the first step in what we call 
+优化大脑的第一步
+optimizing your brain.
+你不希望你的大脑一直都是可塑的
+You don't want your brain to be plastic all the time.
+事实上
+In fact,
+有一个主要的问题
+one of the major questions,
+神经科学的一个主要未解之谜是
+one of the major unsolved mysteries of neuroscience is how each 
+我们每个人每天醒来时 是如何知道自己是谁的
+and every one of us wakes up every day and knows who we are.
+为什么会这样呢
+Why should that be?
+嗯
+Well?
+大脑是可塑的
+The brain is plastic.
+它在整个生命周期中都有改变的能力
+it has a capacity to change throughout the lifespan,
+但它在每天晚上也没有那么可塑
+but it's not so plastic that every night,
+当我们睡觉或醒来时 这些连接会重新配置
+when we go to sleep or in our waking that the connections get reconfigured.
+以至于我们忘记了自己是谁
+so much so that we forget who we are,
+忘了怎么走路 怎么吃饭
+how to walk or how to eat.
+如果我们没有如此强大的可塑性或持续的可塑性 这是一件好事
+It's a good thing that we don't have such robust plasticity or ongoing plasticity that 
+这样我们每天都可以重组自己
+we have to restructure ourselves each day.
+我们生命延续的一部分
+It's part of what gives our life continuity.
+记住
+So remember,
+可塑性不是 也永远不会是目标
+Plasticity is not and is never the goal.
+我们的目标是弄清楚如何获得可塑性
+The goal is to figure out how to access plasticity and then
+ 然后将这种可塑性导向你想要实现的特定目标或改变
+to direct that plasticity toward particular goals or changes that you would like to achieve.
+我应该提一下
+and I should just mention,
+生活中没有任何规定  要求你必须利用神经可塑性这一不可思议的东西
+There's no rule that in life you have to leverage this incredible thing called Neural plasticity.
+没人说你必须这么做
+No one said you had to do that.
+本节课的播客是专门为那些
+This podcast in this episode is particularly for people 
+对生活的某一方面感到满意或不满意的人准备的
+who are either happy or unhappy with where they're out with a particular aspect of their life,
+他们想以积极的方式改变大脑
+and they want to shift it in some positive way.
+你们很多人可能会说
+and many of you listening might say well,
+难道不是每个人都想这么做吗
+wouldn't everyone want to do that?
+确实有一些人  他们在自己的领域已经做得很好
+Will actually there are a certain number of people that are pretty good where they're at,
+那么他们不想改变
+and they don't want to change.
+这当然太棒了
+and that's terrific.
+我向他们脱帽致敬
+and I tip my hat to them,
+我认为这很好
+and I think that's wonderful.
+如果有机会
+If ever,
+他们决定想要利用这些可塑性机制来改变自己
+they decide that they want to leverage these plasticity mechanisms,
+他们依然
+They can,
+在生命的任何阶段都可以这么做
+at any stage throughout the lifespan.
+我们先来谈谈神经系统中具有可塑性的不同系统
+Let's start by talking about the different systems within the nervous system that are available for plasticity 
+并且
+and in doing so,
+我每天每周 每年一直在做这些
+offering them in the context of what I do on a daily basis on a weekly basis and on a yearly basis.
+首先
+First of all,
+可塑性有几种形式
+there are several forms of plasticity.
+比如说长期增强作用
+They have names like long term potential nation,
+长期抑制作用
+long term depression,
+顺便说一下 这和情绪抑郁没有任何关系
+which has nothing to do with emotional depression by the way 
+比如时序相依可塑性
+and things like spike timing dependent plasticity,
+这些名字是用来描述细胞现象的
+those names are used to describe cellular phenomenon,
+突触的实际方式
+the actual ways that the synapses,
+神经元之间的连接
+the connections between neurons,
+改变
+change.
+我会提到这些东西
+I'll mention those things,
+我再多给点它们所代表的的意义
+and I'll give a little more meant as to what they are.
+我提到的时候会说
+As I mentioned them.
+从优化大脑的角度来看 这可能不是思考可塑性的最佳方式
+That's probably not the best way to think about plasticity in terms of optimizing your brain,
+最好的方法  是要从短期
+the best way to think about it in terms of short term,
+中长期  分开来讨论
+medium term and long term plasticity.
+短期可塑性  是任何你想在当下或当天实现的转变
+Shortterm plasticity is any kind of shift that you want to achieve in the moment or in the day,
+但你不一定想永远坚持下去
+but that you don't necessarily want to hold on to forever.
+比如说
+And I said,
+好
+well,
+什么样的事情才算是短期
+what kinds of things are those Well?
+比如
+For instance,
+短期可塑性可能是  你要在飞机起飞前起床  去赶飞机
+shortterm plasticity might be you wake up earlier than you would like to catch a flight.
+你没办法很清醒  你想要使用一个方法  或者你决定使用一个方法
+You're not feeling particularly alert and you want to use a protocol or you decide to use a protocol which could be 
+咖啡也可以  或者是某种形式的呼吸  或者可能其他工具
+coffee or it could be a certain form of breathing or could be some other tool to 
+让你在平时不清醒的时间段  清醒过来
+become more alert at a time of day when normally you aren't that alert.
+你应该希望 当你回家时
+Your expectation is that when you return home,
+你就不用在五点半起床 因为你在那时候还想睡觉
+you will discard with that the need to do that at five thirty a m because you'll be asleep at five thirty m.
+所以它们是短期可塑性  行为可塑性
+So they're short term plasticity behavioral plasticity.
+还有中期可塑性
+Then there's medium term plasticity,
+这些都是你可能想做的改变
+which are changes that you might want to make.
+当然  我很尊重地把他们称为
+I call this with respect,
+还有一点幽默
+and a little bit of humor.
+当然只是我的幽默
+release my kind of humour.
+我把这称为“医学预科本科”现象 因为曾经和我一起工作过的医学院同学
+I call this the the undergraduate premed phenomenon for those of you that have worked with Premier 
+当然我非常尊重医科学生和医学预科同学们
+and I have tremendous respect for medical students and primates.
+有一种刻板印象  虽然我并不认同
+There is a kind of a stereotype which I don't necessarily agree with,
+但刻板印象是 他们想知道 考试考什么
+but the stereotype is that they want to know what they need to know for sake of the exam,
+但他们并不是真的想学习这些知识  他们只是想要A
+but they don't really want to know they just want the A.
+不是每个学生都这样
+and I don't think that's always true.
+这些年来 我和很多不同的医学院学生合作过
+I've worked with a number of different premiums over the years,
+他们中有很多人对知识本身充满热情
+and there are many of them that are absolutely passionate about the knowledge itself.
+当然他们也想要A
+And they also wanted the day.
+但是“医学预科本科”现象
+But the premed phenomenon,
+正如在助教  教授们讨论的那样
+as its discussed among professors in th,
+这些学生
+is that that you know you've got these students.
+他们只想知道重点
+They just want to know what they need to know,
+这样他们就能得到答对题
+so they can get the right.
+这是中期可塑性
+It's medium term plasticity.
+他们并不想让目标在记忆中停留太久
+They don't actually want it to be embedded in their memory too long,
+或者他们实际上关心的是中期信息
+or else they would actually care about the informations that's medium term information,
+有的时候是有用的信息
+and sometimes that's useful.
+例如
+For instance,
+如果你去哥斯达黎加度假 你不熟悉当地的路
+if you go on vacation to Costa Rica and you don't know your way around Costa Rica,
+想了解不同的城镇和那里的路线
+who want to learn the different town and the routes there.
+但你回去之后  就根本没打算继续记着
+But you don't have any intention of going back,
+这只是一个中期你想要为自己组建的网络  以此节省时间
+it's just medium term you wanted to program it in for the sake of your time there and then you want to 
+然后大多数时候用完就丢  当我们思考或谈论优化大脑的时候
+discard it most of the time when we think about or talk about optimizing the brain 
+我们说的是长期的可塑性
+where time a long term plasticity,
+我们谈论的是人们想要做出的改变 从而使他们的大脑反射性地以不同的方式工作
+we're talking about the kinds of changes that people want to make so that their brain reflexively works differently.
+这就是一个孩子从不知道怎么走路到知道怎么走路时所发生的事
+This is what a child does when it goes from not knowing how to walk to and knowing how to walk.
+在他学会走路后
+It doesn't have to think about it.
+就不需要考虑这个问题了
+After it learns how to walk,
+就是反射性的
+it becomes reflexive.
+长期的可塑性几乎总是宏大的目标
+Long term plasticity is almost always the big goal.
+我想知道怎么说那种语言
+It's I want to know how to speak that language.
+我希望自己能够掌握这项技能
+I want to be able to do that skill.
+我希望不用花太多精力就能做好一件事情
+I want to be able to feel this way without having to put much work into it,
+有一些工具和方法可以实现这一点
+and there are tools and protocols that one can do to achieve that,
+我们会讲到这些
+and we are going to talk about those.
+我们在之前的节目中讨论过一些
+We've talked about a few of them in previous episodes,
+但我今天会重新讨论这些方法
+but I will revisit those protocols today.
+我将把所有这些都放在日常生活的背景下
+I'm going to frame all this in the context of the daily life,
+一周和一年的生活
+the weekly life and the yearly life.
+这是因为神经可塑性和优化大脑
+And that's because neural plasticity and optimizing your brain.
+建立在可塑性的深层基础上
+Rides on a deeper foundation of this thing that governs plasticity,
+事实上 这才是控制着我们生命的  叫做自主觉醒
+and in fact governs all our life called autonomic arousal,
+也就是在24小时的周期中  睡完之后
+which is that were asleep for part of the twenty four hour cycle.
+我们几乎总是能醒来 如果我们强迫自己保持清醒
+And we are awake almost always if we push ourselves and stay awake where okay,
+我们可以这样待一两个晚上
+we can do that for a night or two,
+但我们几乎总是在其中一部分时间里睡着 而在另一部分时间里醒着
+but almost always we are asleep for a portion of it and we are awake for a portion of it.
+我之前说过
+I've said it before,
+我再说一遍
+and I'll say it again.
+可塑性和学习的触发  发生在注意力高度集中和高度清醒状态下
+The trigger for plasticity and learning occurs during high focus on high alertness states.
+不是在你睡着的时候
+Not while you're asleep,
+注意力和警觉性都是关键 因为与这些状态相关的神经化学物质
+and the focus and alertness are both key because of the neural chemicals associated with those states.
+但在非睡眠深度休息状态下 大脑连接的重新配置发生了实际的重新连接
+But the actual rewiring in the reconfiguration of the brain connections happens during non sleep.
+还有深度睡眠的情况下   我们以后会讲到
+Deep rest which we'll talk more about is always and deep sleep,
+所以你清醒的时候触发了这种变化   在睡眠中你就会得到这种变化
+so you trigger the change and in sleep you get the change.
+所以我们今天要讨论的关于优化大脑的一些事情  不以睡觉为中心
+So some of the things that we'll talk about today about optimizing the brain are centered around not sleep.
+而是围绕着自主觉醒系统
+but around the autonomic arousal system,
+我们的大脑和身体都有这样的神经元系统
+we have this system of neurons in our brain and body.
+这真是不可思议 能让我们清醒
+That's just incredible that wake us up and make us alert.
+当我们无法进入那个系统时
+And when we're not accessing that system,
+那么
+well,
+我们无法获得可塑性
+we cannot access plasticity.
+我们不能优化我们的大脑
+We cannot optimize our brain.
+同样的
+Likewise,
+如果我们睡不好 休息的不好
+if we cannot sleep well and we can't rest well,
+我们无法获得可塑性并重新连接我们的大脑
+we will not access plasticity and rewire our brain because that's
+ 因为睡眠才是实际发生重新连接的时候
+when the actual configuration between the connections occurs.
+基于这些背景
+So to set this in context.
+我每天醒来 坦白讲
+I wake up each day and I'll be totally honest.
+我通常不想从床上起来
+I usually don't feel like bouncing right out of bed.
+我通常感觉没有完全休息好
+I usually don't feel completely rested,
+这并不是因为我睡眠不足
+and that's not because they don't get enough sleep.
+可能是因为我不擅长把握时间
+It's probably because I'm not terrific about timing.
+但这个月不是讲睡眠的
+My sleep so well now this month isn't about sleep.
+这是前一个月的主题
+That was the previous month,
+但我真的想强调几点
+but I really want to emphasize a few points.
+我醒来时通常比我想的更累 更昏昏沉沉 因为我往往睡得太晚
+I wake up generally more tired and groggy than I would like because I tend to go to sleep too late.
+这是我经常做的事
+It's just some thing that I do.
+我不喜欢早起 因为我设了闹钟 因为我有事情要做
+I not tend to get up early either because I set an alarm because I have things to do 
+或者因为我自然会早起 因为光线进来了等等
+or because I naturally wake up early because the light coming in and so forth.
+
+这告诉我 我的自然昼夜节律你们可能听说过
+what that tells me is that I'm probably somebody whose natural circadian rhythm you may have heard of 
+慢性的
+chrono types.
+这些都是基因决定的
+These are genetically programmed things,
+但慢型的人  昼夜节律短于24小时
+but chrono type is shorter than twenty four hours.
+这意味着我清醒和警觉的周期可能少于24小时
+It means that the cycle of waking and alertness for me is probably shorter than twenty four hours.
+这意味着在下午晚些时候获得一些光线可以帮助我转换 使我的周期稍微长一点
+Which means that getting some light in the late afternoon will help me shift and make my cycle a little bit longer.
+它会逐步推迟我的生物钟  如果听不懂  可以看看之前的几集
+It will phase delay me if that doesn't make any sense to see a previous episode,
+但我的意思是  在下午得到一些阳光可以让我晚睡一会儿
+but what it really means is getting some light in the afternoon will allow me to stay up a little bit later.
+但这意味着我并没有真正满足我入睡的固有需求
+But what it means is that I'm not really matching my hardwired needs of going to bed,
+可能要8点30或9点入睡  早上4点起床
+probably at eight, thirty or nine and waking up at four am.
+我一般十点三十  十一点左右睡觉  最近大约十一点半或十二点
+I tend to go to sleep around ten thirty eleven lately around eleven thirty or twelve,
+然后我六点就醒了
+and then I wake up at six.
+当然
+and so of course,
+我会有点晕
+I'm going to feel groggy.
+所以神经可塑性会让我优化清醒状态
+So neural plasticity will allow me to optimize my wakefulness.
+但我必须做点什么才能得到这种状态
+But I have to do something in order to access that.
+你们中的一些人可能已经猜到了我将要说的话
+And some of you may already be anticipating what I'm about to say,
+你们应该会想
+which is,
+哦
+Oh,
+不
+no,
+他会让我们把阳光照进眼睛里
+he's going to tell us to get sunlight in her eyes.
+提前三十分钟
+In the first thirty minutes of the day.
+我确实是要告诉你要这么做
+I am going to tell you to do that,
+但我也要告诉你们一些我之前没有讨论过的事情
+but I'm going to also tell you to things that I have not discussed before,
+这与黑色素 还有感光细胞
+which relate to the plasticity between the melanopsin and sells these sunlight detecting bright light,
+检测细胞 以及循环生物钟  之间关系的可塑性有关
+detecting cells in our eye and the circadian clock.
+我从来没有在这播客中说过这些
+I've never said this before in this podcast.
+但事实证明 这些黑色素和生物钟细胞之间的联系
+But it turns out that the connections between these melanopsin and cells in the circadian clock are plastic 
+在整个生命过程中都是可塑的
+throughout the lifespan.
+在一种叫做星形胶质细胞的细胞中 有大量的连接结构
+There's a massive configuration of the connections there in a cell type called the Astrocytes,
+这种胶质细胞每天都在积极地移除和加强眼睛之间的连接
+which are a glial cell are actively removing and reinforcing connections between the eye in that clock every day.
+这是不可思议的 因为你大脑的其他方面
+Now this is incredible because other aspects of your brain that,
+例如
+for instance,
+代表着  当你早上醒来时 你知道你是谁 或者名字是什么的连接
+Represent you knowing who you are when you wake up in the morning or what your name is,
+当然  假设你已经足够大 你已经知道了你的名字
+assuming that you're old enough that you've already learned your name 
+这也是孩子们学的第一样东西 我们基本上从此就不会忘记
+when the first things kids learn in something we rarely ever forget.
+这些连接每24小时都在变化
+Those connections are changing all the time every twenty four hour cycle,
+因此 短期可塑性是可能的
+so there's an opportunity for short term plasticity.
+这就是为什么你每天第一件事就是晒太阳
+So that's why have you sunlight first thing in the day?
+让我清醒
+It helps me wake up.
+我做的另一件事是 在生理时钟和肾上腺之间存在一个回路
+The other thing that I do is that there's a circuit that exists between the circadian clock and our adrenals 
+我之前提到过 它会触发皮质醇的释放 让我们在早晨醒来
+that I've talked about before that triggers the release of cortisol first thing in the morning that wakes us up,
+特别是当我们看到光的时候 皮质醇会释放
+especially when we view light.
+所以 如果你早上感觉昏昏沉沉
+so if you're groggy in the morning,
+看光线会有很好的改善
+that's why viewing light is helpful.
+但有趣的是
+But the interesting thing is,
+如果你开始在早上 频繁地观察光线
+if you start viewing light frequently in the morning,
+然后黑色素细胞和生物钟之间的联系就会被激活或增强
+then those connections between the melanopsin and cells and the circadian clock become primed or potentiate 
+我们会说它们会因为期待光线而变得更强 你就会自然地开始早起
+did we would say they become stronger for the anticipation of light and you naturally start waking up earlier,
+感觉更加清醒
+feeling more alert.
+这就是说
+So what this says is,
+我所做的就是保持有规律的光照  因为我知道有些早上我不会很清醒
+and what I do is I get that regular light because I know that some mornings I'm just not going to feel very alert,
+我会感觉特别累 而且我可能无法接触到阳光 比如阴天
+I'll feel especially tired and I might not be able to access sunlight because it's really overcast 
+或者我正在旅行或其他有些什么事情
+or I'm travelling or some other feature.
+但是这个系统是可塑的
+But the system is plastic,
+所以它会向正确的方向移动
+so it shifted in the right direction.
+现在它又会转回来 因为这是短期的应急办法 大约只有两三天
+Now it will shift back because it's short term policy after about two or three days,
+所以你要定期接受阳光照射
+so you want to try and get the sunlight exposure on a regular basis.
+我做的另一件事就是在我醒来后的  前两个小时里  延迟摄入咖啡因
+The other thing that I do is I delay my intake of caffeine for the first two hours that I'm awake now.
+我知道这对一些人来说是非常痛苦的
+This can be very painful for people.
+之前我们讲过腺苷系统  以及腺苷的积累让我们昏昏欲睡
+Earlier we talked about the adenosine system and how the accumulation of adenosine makes us sleepy and.
+而咖啡因会抑制腺苷
+Caffeine suppresses adenosine.
+它使我们警觉
+It makes us feel alert,
+但我们知道 如果你在唤醒肾上腺释放皮质醇的信号时
+but we know that if you ingest caffeine immediately on waking the signal to the adrenals to release cortisol,
+而这是一种健康的皮质醇释放  立即摄入咖啡因  腺苷会被抑制
+which is a healthy release of cortisol and the suppression of adenosine that 
+抑制我们从睡眠中醒来和深度睡眠中的腺苷
+that that happens as we come out of sleep and in deep sleep.
+对腺苷的抑制
+the suppression of adenosine.
+如果你摄入咖啡因太早
+If you ingest caffeine too early,
+腺苷会通过一种机制竞争受体
+there's a mechanism by which the adenosine competes for the receptors,
+这样你可能会有一个“上午崩溃”
+So that you have a midmorning crash,
+因为如果咖啡因
+because if the if caffeine,
+因为它的作用
+the way it works,
+如果咖啡因占据了腺苷受体  那么自然的抑制腺苷的机制
+as if caffeine is occupying the adenosine receptor than the natural indigenous mechanisms for suppressing
+ 就不会产生作用
+adenosine are not actually going to have their action.
+所以大脑对肾上腺轴  也是有可塑性的
+So the brain to adrenal axis is subject to plasticity also,
+所以通过延迟咖啡因
+and so by delaying caffeine.
+直到醒来两小时后再喝
+Until about two hours after waking,
+我能够捕获并加强  潜在配对的神经回路
+I am able to capture and reinforced to potential mate the neural circuit 
+存在于生物钟和皮质醇肾上腺素释放的腺体之间
+that exists between the circadian clock and the cortisol release in the adrenals as well as leave.
+并且让这些腺苷受体不被占用 然后我就可以使用咖啡因
+Those adenosine receptors unoccupied so that I can then use the caffeine to 
+来自然地提高警觉和注意力
+get a natural lift in alertness and focus.
+两个小时后
+Two hours later,
+不需要用它把自己从睡意中唤醒
+as opposed to using it just to wake myself up out of sleepiness.
+所以虽然我知道有一些睡眼朦胧
+So while I'm sure there are some eye rolls out there in some,
+还会打哈欠
+yawns were all know.
+但大家应该清楚  又是有关清晨的阳光
+It's the sunlight in the morning thing again.
+它是重新调整这些回路的强大工具
+It's a powerful tool for readjusting these circuits,
+所以短期可塑性  以及在醒来的头几个小时延迟摄入咖啡因的原因
+so the shortterm plasticity and the reason for delaying caffeine for the first few hours of the day,
+即使刚开始的几天很痛苦
+even if its painful to do for the first couple days,
+但你之后会很自然地  在没有咖啡因的情况下醒来
+is that then you naturally start to wake up more readily in the morning without caffeine.
+因为腺苷被自然抑制了  咖啡因和自然腺苷抑制机制就不会相互竞争了
+Because the adenosine is suppressed and you don't have these competing,
+这被称为腺苷受体的竞争性拮抗
+it's called a competing antagonist for the adenosine receptor.
+所以我醒来
+So I wake up.
+因为我想醒得很早 所以最近我会让阳光照到我的眼睛里
+I get sunlight in my eyes lately because I wake up very early.
+我确实是在用强光来提高警觉性
+I do use a bright light to stimulate alertness.
+它并不是为这个目的而设计的
+It's not actually designed for that purpose.
+它只是一束光 大概900勒克斯 然后我再推迟咖啡因
+It's just a light wore that as of about nine hundred luxe and then I delay caffeine,
+你们中的一些人问过我  那我再强调一遍不是说你们需要这么做
+some of you have asked and again I'm not saying that you want to have to do this,
+你到底喝什么？
+what exactly do you drink?
+我是黑咖啡的忠实信徒
+I'm a big believer in black coffee.
+我也碰巧喜欢黑咖啡
+I just happen to like black coffee.
+人们问过我关于这种咖啡的问题 我不想在这里说出这种咖啡的品牌名称
+People have asked me about and I don't want to name brand names here about this type of coffee,
+或者是那种混合了其他东西的咖啡
+or that type of coffee mixed with these other kinds of things.
+会增加注意力吗
+Will that increase focus?
+
+我们会
+we're going to.
+今天我会讲的很多关于饮食和禁食的使用 以及进食的时机和特定种类的食物
+I'm going to talk today a lot about the use of of diet and fasting and timing of foods and certain kinds of foods.
+但说实话
+But to be honest,
+我简单的选择黑咖啡是因为 它总是对我有效
+black coffee is just a simple choice that it's always worked for me.
+我还会确保早上第一件事就是喝水
+I also make sure a hydrate first thing in the morning.
+有
+There are.
+现在有大量数据表明 即使脱水程度稍有增加
+There is plenty of data now showing that even a slight increase in dehydration,
+也就是说你缺水的时候  会导致人头痛
+meaning just when you're lacking water can make people have headaches.
+它可以为那些偏头痛患者提供一些额外的帮助
+It can provide some additional photophobia for those of you that are migraine.
+因为亮光会容易引发偏头痛
+Prone bright light can trigger migraines.
+这对那些头痛和偏头痛的人来说应该很熟悉
+That's no surprise to those of you that get headaches and migraines,
+但脱水会加剧偏头痛  和人在头痛面前的脆弱性
+but dehydration can can compound the vulnerability to migraine and headache.
+所以我喝水
+so a drink water.
+我喝黑咖啡
+I drink black coffee,
+我喝拿铁
+I drink Latte,
+因为我有阿根廷血统
+which is just because I have Argentine lineage,
+这也是一种高咖啡因的饮料  喝咖啡通常是我起床后做的第一件事
+which is just a high caffeine drink first thing in the morning,
+但我把它推迟到我醒来后两个小时
+But I delay it until two hours after I wake up.
+那是因为我想让我的眼睛 我的生物钟和我的肾上腺之间的回路
+And that's because I want the circuits between my eye and my circadian clock and my adrenals to be  
+以一种特定的方式运作  这样之后  咖啡因会以附加的作用进入身体
+functioning in a particular way so that then later the caffeine is an addition.
+它才能增加更多的警觉性
+It adds more alertness.
+这是一个关于如何优化你的大脑的讨论
+Now this is a discussion about how to optimize your brain.
+很多人醒来很快 很自然地想要从床上跳起来
+Many people who wake up quickly and just naturally feel like bouncing out of bed.
+我非常羡慕这些人
+I envied these people.
+他们可以直接去进行一轮的学习  或打理他们的任何事情  没有关系 不会困
+They will do just fine by going into a learning bout or taking care of whatever it is that they need to take care of.
+有时是一些更普通的任务 比如发邮件或诸如此类的
+Sometimes that's kind of more mundane tasks like email or and whatnot.
+这里有一个或多或少关于大脑如何运作的规则
+Here's a more or less a rule about how the brain functions.
+Vis-à-vis  注意力
+vis-a-vis focus,
+学习和创造力
+learning and creativity,
+我以后的播客里会详细讨论这个问题
+and I'm going to discuss this much more in future Episodes.
+一般来说
+generally,
+当我们非常非常警惕的时候 高度警惕的状态对计划的实施非常有利
+states of high alertness when we're very very alert are great for strategy implementation.
+当我们已经知道如何做某事的时候
+when we already know how to do something.
+只要简单地积累  把正确的元素插入正确的框中
+It's just a sum simply a matter of plugging the correct elements into the correct boxes,
+我之前讲过的“持续时间路径结果”
+things I've talked before about duration path and outcome,
+为了完成特定的任务 有意识的大脑试图弄清楚三件事
+as the three things that the deliberate conscious brain is trying to figure out in order to perform certain tasks,
+甚至是认知任务
+even cognitive tasks,
+这是我们非常擅长的事情 当我们休息好 注意力集中的时候
+this is the sort of thing that we are very good at when we're well rested and were focused  
+我们的自主觉醒
+and our autonomic arousal,
+或警觉性
+or alertness,
+是在一个较高的水平上
+rather as it is at a high level,
+如果你一起床就进入了一天的警觉性阶段
+if you are somebody who is hitting that alertness phase of your day very early right after you wake up,
+这是一个很好的时机去做一些事情  研究表明你至少要已经知道这个计划策略
+that's a great time to move right into things that at least the research says you already know how the strategy 
+并且想要实施这个计划策略
+and just want to implement the strategy.
+这就是我根本不认为
+This is where I fundamentally depart from the idea that,
+哦
+oh,
+你必须完成一天中最困难或最关键的任务
+you know you have to do the hardest or most critical task throughout the day.
+有时最艰难最关键的
+Sometimes the hardest and most critical task,
+需要创造力的任务
+our task that required creativity.
+我们很快会讲到创造力以及与之相关的任务
+and as we'll soon talk about creativity and tasks related to it.
+通常
+Oftentimes.
+当我们处于平静的状态 甚至是轻微的睡意时 大脑最擅长实现这些
+Come to us based or the brain is best at achieving those when we are in state of calm or even slightly drowsy,
+这就是我们将要讨论的有趣的事情
+which is something that's interesting in what we'll get into.
+但对我来说
+But for me,
+例如
+for instance,
+我一起床
+I get up,
+我一开始并不是很警觉
+I'm not terribly alert first thing,
+所以我试着调整  让我的大脑和想法开始井然有序
+and so I try and just get my brain and my thoughts organized.
+对于我来说 这个时间段  我并不能以非常线性的方式回复电子邮件
+It's not a time for me to be responding in a very linear fashion to emails 
+或做一些计算  要到2小时之后才可以
+or carrying out calculations that comes about two hours later.
+我想很多人会觉得上午十点左右
+I think many people out there will relate midmorning is when we tend to,
+很多人都是在那个时候  警觉性和专注力达到顶峰
+when many people tend to achieve their peak in alertness and focus.
+
+很多时候我被问到
+Many times I get the question,
+这就是我接下来要说的  就是我得到的成百上千的问题  都是在问
+and this is what I'm about to say is directly related to the hundreds of questions I got about this.
+我应该使用背景音乐来学习吗?
+Should I use background music in order to learn?
+还有什么  隔壁在装修
+Should I have you know construction next door?
+这是好事还是坏事
+Is that a good thing or a bad thing.
+还是说处于一个完全安静的环境下更好
+Is it better to be in complete silence,
+
+听好了  这视情况而定
+Now this will vary.
+有些人比其他人更能忍受自己大脑里的噪音
+Some people can tolerate their own noise within their head much better than others.
+另一些人则发现  一些背景噪音有助于抵消这种影响
+Other people find that having some background noise helps cancel that out.
+但有一条简单的经验法则
+But there's a simple rule of thumb that one can use,
+因为至少我的经验是 有时背景音乐/背景噪音对我集中注意力很有帮助
+because at least my experience is that sometimes background music background noise is very helpful 
+但有时又会让我分心
+for allowing me to focus and other times it's very distracting.
+那么到底是什么在主导这一切呢
+So what actually governs that?
+
+我们必须问自己 如果我们的注意力不集中
+we have to ask ourselves what is at the source of the lack of focus if our lack of focus is 
+是因为我们的自主觉醒
+because our autonomic arousal,
+还是因为我们的警觉性非常高
+or our alertness is very very high.
+我们咖啡喝多了
+We had a little too much coffee.
+或者如果真有这种事
+or if there is such a thing,
+可能睡得太久了
+slept a little too long,
+或者我们非常紧张  或者非常有活力
+or we're really stressed or really activated,
+在这种情况下 我们似乎无法集中注意力
+and we can't seem to focus in that case,
+消除背景噪音 尽量保持安静 这样我们就能安静下来
+eliminating background noise and really just trying to get silence so that we can quiet some of that.
+自主觉醒对学习和执行我们已知的事情
+autonomic arousal is going to be best for learning and for implementation of things we already know how to do 
+对于任何注意力
+for any kind of focus.
+一些线性的任务
+Linear task,
+基本上学习就是专注于线性任务
+which basically learning is a focus on linear tasks,
+就是你不一定在所有时间都会
+is that you're just not necessarily performing it well,
+表现得很好
+all the time.
+上次我们讨论了犯错误
+Last time we talked about making errors.
+所以作为经验法则
+So as a rule of thumb,
+如果你感觉太紧张
+if you're feeling too keyed up,
+那么安静会有帮助
+Then silence and quiet is going to be helpful.
+事实上
+In fact,
+如果你非常紧张
+if you're very keyed up.
+与基底神经节相关的特定回路  在回路中更容易被触发
+Particular circuit related to the basal ganglia starts getting triggered more easily in the circuit.
+我之后将深入讨论
+I'm going to talk about in depth,
+它被称为Go-nogo回路
+but it's called the Go nogo circuit.
+我们有连接前脑的回路
+we have circuits that connect our forebrain.
+两个是在我们大脑中的结构 叫做基底神经节
+two are its structure in our brain called the Basal ganglia,
+它实际上是一系列结构和前脑的集合
+which is actually a collection of structures and the forebrain,
+包括理性想法 思考和计划
+which is involved in rational thought and thinking and planning.
+总是试图去做计划的行为
+An action is always trying to plan.
+我应该做什么 然后再去实施这个行动？
+what should I do and then implement that action?
+基底神经节与这个讨论密切相关
+And the basal ganglia are intimately involved in that discussion,
+在基底神经节和皮层之间有一个相互交流的回路
+there's a reciprocal loop of communication between basal ganglia and cortex.
+基底节区与皮层有一组连接 而皮层又与基底节区有一组连接
+The basal ganglia has one set of connections to the cortex and the cortex back to the basal ganglia 
+这些连接促进了go回路
+that facilitates go.
+促进了行动
+if facilitate action and the molecule.
+而神经调质多巴胺
+The neuromodulator dopamine.
+触发Go回路的激活
+Triggers the activation of Go.
+会让我们想要做更多的事情
+It tends to make us want to do more things.
+它倾向于让我们倾向于让多巴胺与D-1受体结合  产生行为
+It tends to make us bias toward action by the way that dopamine binds to something called the D-1
+D-1受体是一种特定类型的多巴胺受体
+receptors  just a particular type of dopamine receptor.
+如果你们想知道的话可以记一下
+For those of you who want to know.
+nogo通路
+The nogo pathway,
+基底神经节和皮层中抑制活动的通路
+the pathway in the basal ganglia and cortex that suppresses action.
+它包括多巴胺
+It involves dopamine,
+与另一个受体结合
+binding to this other receptor,
+叫做D-2受体   然后D-1 D-2受体
+called the D two receptor now d1 d2 receptors
+你不能有意识地去决定它们
+You can't just consciously decide.
+哦
+Oh,
+我只希望D-1受体和B-2受体激活
+I only want my D one receptors and my two receptors B to be active.
+你必须思考哪种精神和身体状态有助于go回路 哪种状态有助于
+You have to think about which sorts of states of mind and body facilitate go and which ones facilitate.
+nogo回路
+no go.
+这一点非常重要 因为做专注的工作
+Now this is critically important because doing focused work,
+获得可塑性和学习  都需要做某些事情而不做其他事情
+accessing plasticity and learning involve doing certain things and not doing others.
+我接下来讲它怎么运作
+So here's how it works,
+下面是我每天使用的方法
+and here's how I apply it on a daily basis.
+因为我最警觉的时候
+Because I tend to be most alert,
+上午十点左右的第一件事
+first thing midmorning or so,
+然后我通常会喝咖啡
+and then I generally will have my caffeine,
+上午十点左右
+midmorning.
+我最清醒警觉的时刻
+My hot peak of alertness.
+对我来说 一天的前半段  这个时刻发生在9点半到11点之间的某个时间
+In the early part of the day is occurring for me some time between nine thirty and eleven m.
+但只是我的情况
+that's just me.
+另一些人可能会在刚从床上爬起来时就有这种感觉
+Other people might experience that immediately after rolling out of bed,
+他们可能完全清醒 准备好开始工作了
+they might be wide awake and ready to go.
+在这种情况下 你要小心  不要在混合物中加入咖啡因
+In which case this you'd be cautious about throwing caffeine in that mix because of that,
+不然这会让他们过于
+and it's going to make them very,
+清醒警觉
+very alert.
+有三种级别的自主觉醒使我们更倾向于go
+There are three sort of levels of autonomic arousal of alertness that bias us more toward go,
+nogo 或者两者同时
+no go or both.
+这和我在这期播客的评论部分
+And this relates to a question that I've gotten now hundreds of times from you 
+收到无数次的一个问题有关
+in the comments section for this podcast.
+那就是当我工作和学习的时候  是应该听音乐？
+Which is is it better for me to listen to music in the background while I work and learn.
+还是应该呆在完全安静的环境？
+or should I have complete silence?
+答案是
+And the answer is,
+视情况而定
+it depends.
+但这并不取决于你是谁 甚至不一定是一天中的什么时间
+But it doesn't depend randomly on who you are or even necessarily time of day.
+这取决于你的自主觉醒的整体水平
+It depends on your overall or overall level of autonomic arousal,
+这要视情况而定 因为自主觉醒的警觉性水平会对我们更倾向于go
+and it depends because autonomic arousal level of alertness biases the extent to 
+去采取行动
+which we are more prone to goes to action or to know,
+或nogo  去抑制行为
+goes to suppress action and dopamine.
+而多巴胺这个四处游动的分子  会倾向于某一个反应
+Is this molecule that swimming around and is going to bias one or the other responses
+接下来讲一下它的工作原理
+So here's how it works.
+假设我很清醒警觉
+Let's say I'm very alert.
+也许我前一天晚上睡得特别好
+Maybe I got a particularly good night's sleep the night before.
+也许我咖啡喝多了 反正现在我要坐下来做点工作
+I had a little too much coffee and I'm going to sit down to some work.
+我总是告诉自己 当我非常警觉的时候
+The thing to know and what I always tell myself is when I'm very alert,
+我很容易go  去行动
+I am very prone to go to action,
+但我也倾向于不激发nogo  对吧
+but I'm also prone to not no go right.
+我不太能抑制行为
+I'm not going to be very good at suppressing action.
+这是两个不同的东西
+so those are two different things.
+偏向于行动 和偏向于抑制行动是两码事
+Being bias toward action and being biased towards suppressing action are two different things.
+好
+Ok,
+这些都是行动和抑制行动
+so those are push pole toward action,
+的推杆
+suppress action.
+所以当你非常警觉的时候
+so when you're very alert,
+你对一切事物都有刺激的倾向
+the tendency is for everything to be a stimulus.
+这就是为什么当人们说  嗯
+This is why when people say well,
+我是不是应该吃那种药   来提高我的肾上腺素水平和警觉性
+should I just take a drug like that will increase my level of epinephrine and alertness.
+从而帮助我更好地学习？
+Will that help me learn better?
+它会让你有动力做一些事情
+Know because it will make you do things,
+但它也会让你不能够抑制不必要行为
+but it will also make you less good at suppressing actions that you need to suppress.
+所以如果我非常警觉 特别是对我来说 我意识到这种状态的时候
+So if I'm very alert particularly alert for me and I recognize what that state is,
+当然
+of course,
+因为每个人都是不同的
+because everyone will be different.
+我知道这对我的意义
+I know what it is for me.
+那么我就需要安静的环境来学习
+Then I want silence for learning.
+我需要关掉我的网络
+I want to shut down my Internet,
+这是我做的事情
+which I do.
+我有时使用一个程序 我记得是个免费的app  叫Freedom
+I sometimes use a program that I believe is a free program called Freedom,
+它会在特定的时间内  把你锁在互联网之外
+Where it actually locks you out of the Internet for a particular time,
+他们不是播客的赞助商
+they're not a sponsor of the podcast.
+我只是碰巧用了  然后说一下
+I just happened to use it,
+还有另一种形式的限制 你去找到无线设备
+and there's another version of freedom where you go to the wireless thing,
+然后把它关掉
+and you turn it off.
+那你就断开了无线网络
+You disconnect from the wireless.
+这是另一个方法
+That's the other one,
+尽管很多人都会忍不住再去把它打开
+although many people have a hard time not reactivating it,
+所以我试着关闭让我分心的通道
+so I'm trying to shut down the the go pathway towards distraction,
+我会做的另一件事是  我会关掉我的手机
+and the other thing that I'll do is I'll generally turn off my phone.
+把手机放在外面的车里   还有一次特别极端
+Put the phone outside in the car or in really extreme cases.
+我把它
+I'll put it.
+我把它扔到屋顶上
+I'll throw it up on the roof,
+那我就拿不到了
+which is hard for me to retrieve so that I can't get to it.
+如果我很警觉
+So if I'm very alert,
+我意识到我会倾向于行动
+I'm aware that I will have a bias toward action.
+我很难抑制不行动
+It will be hard for me to suppress non action,
+但这是非常不具体的 因为警觉性的下一个层次
+but that it's very nonspecific because the next kind of level,
+或自主觉醒的下一个层面
+down of alertness or autonomic arousal is clear,
+是清楚  冷静和专注  在这个层面 我们有一个最佳平衡点
+calm and focused where we have that kind of sweet spot between.
+我们非常愿意采取行动  处于一种行动模式
+Our willingness to pursue action were in a mode of go,
+不一定是身体活动
+and it's not always physical action,
+也可以是追求艰难的学习
+but it can be pursuing hard bouts of learning.
+我们抑制行为的能力也很好
+That our ability to suppress is also very good,
+这是因为 不过我也不想讲太多细节
+and this is because and I don't want to get into too many details because of the way 
+多巴胺是如何竞争的
+that dopamine competes for these dopamine.
+一个是go通路中的多巴胺受体 一个是nogo通路中的
+One receptors in the NGO pathway in dopamine receptors in the nogo pathway.
+它们总是处于这种推拉状态
+They're always in this kind of push pull,
+所以有一个最佳平衡点
+and so there is a sweet spot,
+而这个 最佳平衡点 不是流动的
+and that sweet spot isn't flow where it isn't.
+不是说在某种状态下 它突然自然地出现了
+some sort of state where all of a sudden things come naturally to us.
+我们试图达到最优学习的这种状态
+The state that we're trying to achieve that's optimal,
+是一种我们有精力和注意力去追求东西
+for learning is one in which we have the energy and focus to pursue,
+但我们也有精力和注意力来抑制行动
+but we also have the energy and focus to suppress action.
+所以基底神经节以一种完美的方式
+so the basal ganglia are kind of working in a perfect kind of singsong ye manner 
+通过这个平行通路工作
+through this parallel pathway now,
+当我们累了 或者当我们完成一个大约90分钟的昼夜周期
+as we get tired or as we round out an old treaty in cycle of about ninety minutes.
+我们的疲劳
+What happens is our fatigue,
+即使不是身体上的疲劳  让我们想要睡觉的那种
+even if it's not a physical fatigue that makes us want to go to sleep.
+我们的精神疲劳也开始累积 因为这些神经通路实际上
+but our mental fatigue starts to accumulate because these pathways of go nogo are actually 
+非常消耗代谢
+very metabolically consuming.
+所以我意识到 当我开始注意力不集中时
+So what I recognized is that as I start to falter,
+我很难投入和行动
+I have a harder time engaging and going.
+我知道我正朝着目标前进
+I also know you're going toward the goal.
+相反
+Rather,
+我也知道我对与学习无关的行为的反射也会开始增加
+I also know that my reflex toward actions that are unrelated to the learning are also going to start increasing 
+因为我无法抑制
+because I'm not going to be able to suppress the.
+我不能够
+I'm not gonna.
+不能够抑制行动  并激活nogo通路
+Be able to suppress action and activate the nogo pathway.
+如果这听起来很拗口
+So if this all sounds like a mouthful,
+那么简单来讲 当你非常警觉的时候
+let's make it very simple for you when you are very alert,
+学习的最佳情境就是安静
+The best situation for learning is going to be silence.
+是完全安静的环境
+it's going to be complete,
+如果你是低清醒  疲倦的状态
+quiet if you are low arousal and you're tired,
+你有点困了
+and you're kind of sleepy.
+很多人发现一些背景的闲聊声和一些背景噪音
+A lot of people find that having some background chatter and some background noise 
+可以帮助他们提高自主觉醒的水平
+can help elevate their level of autonomic arousal.
+这是因为我们的听觉系统和视觉系统是相连的
+And that's because our auditory system in our visual system are linked and 
+它们是显着络的一部分
+are part of what's called the salient network,
+显着络就是我们总是在扫描我们的环境  寻找东西
+which is that we're always scanning our environment for things.
+当我们的环境中有很多东西需要扫描时
+And when we have a lot of things in our environment to scan generally,
+我们的警觉性会提高
+our level of alertness goes up.
+这就是为什么  如果在一个环境是光秃秃的  或者没什么东西  那我们在里面会感到冷静下来
+This is why environments that are very stark or have very little or very few objects in them tend to make us feel 
+因为我们的显着络接近于被关闭
+kind of calm because our salients network kind of shuts off a lot of people.
+很多人不喜欢这种  比如他们去冥想静修
+Don't like that they'll go to a meditation retreat retreat,
+或者他们会进入一个没有杂乱的环境
+or they'll go into an environment where there is very little clutter,
+特别是城市里的人
+especially city people,
+突然之间 他们开始觉得
+and all of a sudden they start feeling really,
+非常焦虑
+really anxious.
+这是因为他们内部的自主觉醒水平非常高
+And that's because their internal level of autonomic arousal is really high,
+而自主觉醒并没有被所有需要关注的东西占据
+and it's not being occupied by all this stuff to pay attention to,
+所以他们的显着络
+and so they're salience.
+开始向内发展
+network starts to turn inward.
+他们从外部的干扰变成了内部的干扰
+They move from extra deception to interception.
+他们没有看自己的外部世界
+They're not looking outside themselves,
+他们在看自己的内心
+their looking inside themselves,
+里面有很多噪音
+and there's a lot of noise in there.
+所以作为经验法则
+So as a rule of thumb,
+如果你倾向于高度警觉和焦虑的状态
+If you tend to be kind of on the high level of alertness and kind of anxiety,
+我说的不是临床上的焦虑
+and I'm not talking about clinical levels of anxiety,
+而是你的精力非常充沛
+but you tend to be pretty high energy.
+
+那么你肯定会在学习行为的过程中受益更多
+then you are definitely going to benefit more in a learning bout from learning to go,
+并激活需要大量能量的nogo通路
+as well as activate the nogo pathway that requires a lot of energy,
+当你周围有很多让你分心的事物时
+and when you have a lot of distractions in your environment,
+我们很有可能会在学习中被分心
+there's a high probability that we're going to be distracted from the learning.
+有些人天生就更冷静
+Now some people are just naturally more calm.
+就像我的斗牛犬
+They're like my bulldog,
+科斯特洛
+Costello,
+他非常的冷静
+who is exceedingly calm.
+他们很成熟
+They're pretty mellow.
+它们通常都很清醒
+They're kind of clear common,
+一直都很专注
+focused all of the time.
+这些人实际上本来就没有那么容易激动
+and those people actually are going to be less flammable.
+他们不会被背景噪音干扰
+they're not going to be yanked around by background noise,
+或者他们不会
+or they're not to be around.
+
+被厨房里锅的叮当声所干扰
+bothered from their learning or from their study by a clanging of a pot from somebody in the kitchen.
+所以我们每个人通常都倾向于在这个自主觉醒的阶梯上上下浮动
+So each one of us generally tends to ride up and down this autonomic ladder,
+对大多数人来说 是一天中的不同时间
+so to speak at different times a day for most people,
+醒了三个小时后
+three hours after waking those three hours,
+这三个小时往往是他们一天中
+Not three hours on the markup of that three hour been tends to be the period in which 
+最清醒的时间
+they are most alert throughout the day.
+不过我稍后会告诉你  睡觉前有一段特殊的时间
+except I'll tell you later about a unique time right before sleep,
+在那段时间里  你也会非常
+in which you are also very,
+非常警觉
+very alert.
+自然地警觉
+naturally,
+所以早晨
+so that morning,
+那三个小时是非常重要的
+three hours is quite vital.
+很多人可能会问关于运动  以及什么时候运动
+Now many of you might ask about exercise and when to exercise.
+我想我可能在之前的播客中提到过这个
+I think I may have mentioned this on a previous podcast episode.
+但研究表明 至少就表现而言
+But the research shows that at least for performance,
+在下午
+afternoon,
+运动也许能更好地避免受伤
+exercise might be better in terms of avoiding injury,
+
+但是说到体温的上升和与体温相匹配的精神警觉性
+But in terms of rising body temperatures it and matching body temperature to have mental alertness,
+
+很明显 早起锻炼不仅会让我们更早起床
+It's pretty clear that exercising early in the day not only biases us towards waking up earlier,
+但它也会触发像肾上腺素和其他神经调节物质的释放
+but that it also triggers the release of things like up an epinephrine and other neuromodulators that 
+这些物质会让我们在上午晚些时候甚至下午都处于高度觉醒
+lend itself to a situation where we have heightened levels of arousal and mental acuity 
+和精神敏感的状态
+in the late morning and even into the afternoon.
+这是非常好的 因为如果你想把你集中学习的大部分时间
+And this can be very good because if you want to restrict most of your focused learning 
+限制在一天的早期
+to the early part of the day,
+早起锻炼确实会让你产生神经化学反应 让你变得更有动力
+Exercising early in the day does set a neurochemical context or mill you for go.
+它会触发go通路的激活
+It tends to trigger activation of the NGO pathway,
+所以对于那些像我一样  很难在一天的早些时候
+and so for those of you like myself who have a hard time kind of engaging and getting into action 
+振作精神 行动的人
+early in the day,
+清晨
+early morning,
+醒来后一小时内锻炼
+exercise within an hour of waking,
+当然也不能迟于醒来后三小时
+and certainly no later than three hours after waking.
+会给你一整天提供更多的精力
+We'll give you quote unquote more energy throughout the day.
+这会让你更倾向于行动
+It will make you feel more bias for action.
+你不会感到昏昏欲睡 所以在回顾我之前做的事情 我早晨会照光看光
+you won't feel as lethargic so in kind of reviewing what I've set up until now I do the morning light thing.
+我醒来后会延迟两小时喝咖啡
+I delay my caffeine two hours after waking,
+我一般会在起床后的一个小时内锻炼 最好是在起床后的三个小时内
+and then I generally try and get exercising in the first hour or ideally within the first three hours of waking up,
+然后我会集中学习一轮
+and then I'll move into a focused learning about now.
+你们有些人给我评论说
+Some of you wrote to me and said,
+如果我在早上锻炼
+if I exercise early in the day,
+然后我在之后会感到一阵崩溃
+then I feel a crash afterwards.
+如果这个锻炼
+If that exercise is very,
+非常强烈地消耗了你所有的糖原
+very intensely are depleting all your glycogen,
+如果你在做举重训练
+so you're doing heavy dead lifts,
+
+很有可能在你吃完饭后
+Chances are after you eat,
+你会开始感到精力不足
+You will start to feel a crash.
+这与营养时间和兴趣  有关作为一般经验法则
+so this relates to timing of nutrition and interest as a general rule of thumb 
+禁食状态和低碳水化合物状态
+fasted states and low carbohydrate states,
+我说的不是全天候的生酮饮食
+I'm not talking about a keto diet round the clock or all week,
+只是禁食状态和低碳水化合物状态会让人清醒
+but fasted states and low carbohydrate states lend themselves to alertness.
+这是因为碳水化合物富含色氨酸
+And that's because carbohydrates are rich in tryptophan.
+它们进入血液往往容易犯困
+They tend to lend themselves to sleepiness,
+当然
+of course,
+任何情况下  大量摄入食物
+ingesting large amounts of any kind of food.
+任何填满肠道的物质  都会将血液转移到肠道
+Any substance that fills your gut will divert blood to your gut.
+所以如果你吃很多食物
+So if you eat a lot of food,
+不管它是不是碳水化合物
+regardless of whether or not it's a lot of carbohydrate or not,
+你都会感到更加困倦
+you're going to generally feel more sleepy.
+
+很多人
+many people,
+包括每一个
+including everyone,
+用食物来调节它们的自主觉醒水平的人
+use food to modulate their levels of autonomic arousal,
+通常情况下的进食
+and typically eating shifts.
+让我们转向平静的状态  禁食会使我们更多地转向警觉的状态
+us more towards a state of calm and fasting shifts us more toward a state of alertness.
+这些都是
+And these are hard,
+与寻找食物的需求和欲望相关的固定连接/回路
+wired circuits that relate to the need and desire to find food,
+这需要行动
+which requires action,
+或者是所谓的休息和消化系统  将我们的能量转移到消化上
+or the so called rest and digest system which it diverts our resources in our energy towards digestion.
+它让我们感到平静
+It makes us feel calm,
+所以我个人依赖水
+so I personally rely on water,
+拿铁和黑咖啡作为一整天的第一件事  然后锻炼身体 进入第一轮工作
+Latte and black coffee first thing in the day in order to exercise and get into the first round of work.
+如果我发现我太警觉了 我一般会吃东西
+If I find that I'm too alert and then I generally will tend to eat and kind of,
+降低我的警觉性 继续工作
+bring down my level of alertness and will continue working now.
+这不是一个严格的规定
+this isn't a strict thing.
+既然人们问我日常是怎么做的  我才说一下  我并不是要求大家都严格遵守这个
+and since people asked me what I do and I'm not dictating that people follow it exactly,
+当然了
+of course,
+一般情况下我会这么做
+or even generally.
+我告诉你我是怎么做的
+but I'll just tell you what I do it.
+如果你喝黑咖啡 喝拿铁 摄入了大量的水
+It is possible if you're drinking black coffee and your Latte and you're ingesting a lot of water 
+你可能会脱水  这是因为钠的排除
+that you're going to dehydrate yourself somewhat because of excretion of sodium  
+前提是你没有高血压
+provided you don't have hypertension.
+盐真的是一种好东西
+Salt is a really good thing.
+如果一个人身体不稳定 无法思考  通常他们会认为自己的血糖很低
+A lot of people think that they are low on blood sugar because there are shaky and they can't think,
+或者当他们的钠含量很低 尤其是喝了很多咖啡因的时候 他们就会头疼
+or they have a headache when actually they're low in sodium and especially if you're drinking a lot of caffeine,
+所以我是盐的忠实信徒
+so I'm a big believer in salt,
+我早上第一件事就是喝盐水 因为我喝黑咖啡
+so I've drink salt water first thing in the morning because I drink black coffee,
+黑咖啡让我的警觉性很好
+and that keeps my levels of alertness really good.
+我一直以为我的手绘颤抖  是因为我把自己的血糖搞乱了
+I always thought that I had messed up blood sugar at shaky hands,
+我不知道在喝咖啡的时候发生了什么 感觉太兴奋了
+And I didn't know what was going on during a little bit of coffee and feel too amped up  
+结果发现这是钠的问题
+and turns out that it was a sodium issue,
+如果我在喝的水里加一点海盐 或者只是普通的
+and if I just drank water with a little bit of sea salt in or even just a general table,
+食用盐
+a typical table salt,
+我马上感觉我的血糖稳定了下来
+then I'd felt rock solid in terms of my blood sugar.
+再说一次
+Now again,
+我不是医生
+I'm not a physician.
+我是一个教授
+I'm a professor,
+所以我不开任何处方
+so I don't prescribe anything,
+我都是在讲道理  所以我不想让糖尿病患者或有血糖问题的人们 偏离固有的治疗轨道
+but I profess lots of things so I don't want people have diabetes or blood sugar issues to go off the rails.
+你要对自己的健康负责
+You are responsible for your health,
+不是我
+not me,
+这是一个有趣的参数 你可以尝试一下  前提是如果你的医生说可以 那就可以
+but it's an interesting parameter to think about in an experiment with provided that your doctor says it's OK,
+因为我认为很多人可能只是摄入了太多的钠
+because I think a lot of people probably just too much sodium.
+但很多人可能都缺乏钠
+but a lot of people might be sodium deficient,
+特别是
+in particular.
+禁食的人们
+the people that are fasting.
+我通常在中午左右吃第一顿饭
+I typically eat my first meal right around midday,
+不管我有没有锻炼过
+whether or not I've exercised or not,
+这时候食物的组成对我来说非常重要
+and the food content there is actually quite important to me.
+我也不知道这是为什么
+I don't know why this is.
+还没有一个科学的机制能解释其中的原理
+I don't have a scientific mechanism for this,
+但如果我午餐吃热的食物
+but if I eat hot food for lunch,
+午饭后我就会犯困
+I'd get sleepy after lunch,
+所以我中午一般不吃热的食物
+so I generally don't eat hot food for lunch.
+我可能会喝点汤之类的
+I might have a little bit of soup or something like that.
+但总的来说 我只吃低碳水化合物的食物
+But in general I rely on a low carbohydrate meal.
+我会吃肉 沙拉或含有的脂肪的坚果之类的东西
+I'll eat meat or salad or some variation that nuts in fats and things like that 
+因为获得注意力需要一定胆碱含量
+because of the choline content for focus,
+因为我相信蛋白质是好的
+because the protein is good in my belief,
+因为我相信要多吃水果和蔬菜
+and because I believe in eating fruits and vegetables,
+我也是这么做的
+I do that too.
+如果我在早上很努力地锻炼
+If I've exercised very hard early in the day,
+我之后会吃一些淀粉 比如燕麦
+I do in jest starches like oatmeal,
+或者大米和水果之类的东西
+or rice and fruit and things like that.
+
+我为什么要告诉你这些呢
+why am I telling you all this?
+因为几百
+Because hundreds,
+甚至上千人问我
+if not a thousand people ask me,
+禁食有助于集中注意力吗
+Is fasting good for focus?
+禁食确实会提高警觉性
+And indeed fasting will increase alertness.
+但如果你太饿了 一心扑在食物上 那你就无法集中注意力
+But if you're so hungry or preoccupied with food that you can't focus will,
+那对学习就没有好处了
+Then it's not going to be good for learning,
+这只会对焦虑有好处
+it's only going to be good for agitation.
+那我继续
+I'm just going to Mark.
+继续讲我的一天
+continue marched through my day,
+这是
+and this is,
+当然是我所经历的
+of course what I experienced.
+跟其他人很不一样
+Some people are quite different,
+但我发现大约是下午2点或3点左右
+but what I find is around two or three P m.
+我开始有点昏昏沉沉 有点困
+I start getting a little groggy a little bit sleepy.
+我倾向于把我的一些  需要仔细分析“持续时间路径结果”的工作
+I will tend to shift my work from work that requires a lot of duration path,
+转移出来
+outcome,
+并且激活nogo通路
+really careful analysis and activation of the nogo pathway,
+也就是说 我试图抑制看手机 回邮件或做其他事情的冲动
+meaning I'm trying to suppress the impulse to look at my phone or answer email or do other things.
+这就是为什么我有一个3点的邮件due  一定要在下午三点前回复邮件
+This is why I have an email due back until three in the afternoon.
+回复收到的短信
+By the way of responding to your text messages,
+不管是谁发的邮件我都这样
+whoever you are out there.
+在下午早些时候
+Around early afternoon,
+我觉得我可以做一些典型的
+I find I can do kind of typical,
+更无趣的任务
+more mundane tasks,
+因为这些任务需要
+because those tasks or require less code,
+它们需要较少的认知负荷 可以按常规的操作或多或少地完成
+they have required less cognitive load and they can be done more or less in and out of sequence.
+我可以在这里回复一些电子邮件
+I can answer a couple of email here.
+也许在那里回复那封邮件
+Maybe answer that email there.
+我不需要用完全的
+I don't have to do it in a pure,
+线性方式去回复邮件
+linear fashion,
+任何线性的工作或学习都需要集中精力
+any kind of linear work or learning work is going to take a lot of focus.
+下午四点左右 我会做两件事
+and then typically around four pm or so I do two things,
+有时比四点更早一点
+sometimes a little earlier.
+有的时候稍晚一点
+Something is a little later,
+我会做两件事
+but I do two things.
+一是我要确保自己摄入水分 因为如果你在锻炼  或者吃东西
+one is I make sure I hydrate because if you're exercising and you're eating,
+你需要消化食物
+you need to digest that food,
+
+所以我一定要喝水
+I make sure I hydrate so I drink water.
+我尽量避免在下午喝咖啡
+I try and refrain from drinking coffee in the afternoon.
+我不怎么喝
+This is a new thing for me.
+我有时也这样会来一杯
+I sometimes do it,
+但我尽量克制自己
+but I try to refrain from that,
+然后我总是在下午的某个时间做一个非睡眠深度休息练习
+and then I always do a non sleep Deep rest protocol sometime in the afternoon.
+有时是10分钟的瑜伽休息术
+This is sometimes a ten minute.
+有时候是三十分钟的
+Yoga drew a type protocol or a thirty minute.
+瑜伽休息术
+yoga ninja type type protocol.
+这些方法和我没有任何关系  没有任何的商业关系
+These are protocols that I have no relationship to no business relationship to whatsoever.
+我已经做了好几年了  现在他们有这些音频脚本  已经放评论区了
+I've been doing them for years now they involve listening to a script will provide the links again,
+虽然我们以前试过
+although we've tried them before.
+或者我提供的催眠音频脚本 在Reverie Health上
+or I'll do a hypnosis protocol from Reverie Health,
+这是我的同事
+which is my colleague,
+David Spiegel的网站  提供了这些免费的催眠音频
+David Spiegel's website that has these free hypnosis,
+你可以听应用程序  或脚本  这些都让我进入一种真正深度休息的状态
+apps or scripts that you can listen to and those take me into a state of really deep rest.
+有时我都睡着了
+Sometimes so much so that I fall asleep,
+然后我总是设一个闹钟 让我的睡眠时间不超过90分钟
+and I always set an alarm that I don't sleep for longer than ninety minutes,
+通常是30分钟左右
+but typically this goes for about thirty minutes,
+我这样做是因为我在下午四点半的时候
+and I do that because for me by about four thirty in the afternoon,
+我基本上什么也做不了
+I'm capable of doing basically nothing.
+我就是一只彻头彻尾的科斯特洛
+I am just a complete costello.
+我无法思考  无法做事情
+I can't think I can't do.
+我无法回复邮件
+I can't respond to email.
+我已经完全没有了振作的能力
+I've just completely troughs my ability to function.
+我个人认为在这个时候喝双倍浓缩咖啡并使劲充电是个错误
+I personally find it a mistake to at that point down a double espresso and charge really hard.
+这对我来说行不通
+It just doesn't work for me.
+不然我的睡眠时间表会被打乱
+I end up really disrupting my sleep schedule.
+之后可能会搞砸很多不同的事情
+I end up disrupting a lot of different things.
+所以对我来说 我采用非睡眠深度休息方案
+So for me I do the non sleep deep Rest protocol.
+这对我很有帮助
+It really helps me later.
+特别是之后当我真正需要入睡的时候
+when I need to fall asleep.
+它对各种事情都有帮助
+It helps with all sorts of things,
+正如我之前提到的
+as I mentioned before,
+我通常醒来时会有点昏昏沉沉 或者感觉我还得再活一天
+but I usually emerge from that a little groggy or feeling like I have another whole day.
+开启第二波  不停工作
+Second wind like I could just work,
+工作
+work,
+工作
+work,
+工作
+work,
+工作
+work,
+然后我会进行第二轮学习
+and then I'll do a second bout of learning.
+我将做一些工作 包括线性分析
+I'll do some sort of work That either involves linear analysis of something,
+可能是数值运算
+so maybe numerical work,
+或者我想学点什么
+or I'm trying to learn something.
+我通常会尝试使用90分钟的时间
+I generally try and really use those bouts of ninety minute.
+在非睡眠深度休息后  集中精力
+focus energy after the non sleep deep rest.
+正如我在之前的节目中提到的
+And as I've mentioned in previous episodes,
+有很多证据表明这些NSDR方法
+there's a lot of evidence that these non sleep deep breaths.
+可以增强和加速可塑性
+Protocols can enhance and accelerate plasticity.
+其中
+The most,
+我认为的原因和引人注目的一点是  我们上次在评论区置顶中提到的研究
+I think reason and striking one is the study that we referenced last time in the caption,
+《细胞》的一篇文章
+Notes was a cell press article.
+《细胞》一个非常棒的期刊  报告显示 NSDR中的这20分钟的浅盹
+Cell reports Great Journal was showing that these twenty minute got a shallow naps in non sleep.
+可以促进感觉运动学习
+Deep breaths can facilitate sensory motor learning.
+接下来我要讲另一个关于
+So then I'll go into another learning about.
+这不需要咖啡因
+That's caffeine free.
+这种学习方式与早晨的学习方式非常不同
+This learning about is very different than the than the morning one.
+这是一种锻炼的周期或学习的周期
+This is a work bout or learning bout.
+这更多的是在明确的常见注意力机制中
+That's more in the clear common focus regime.
+因为我已经从这非睡眠的深度休息中醒来了
+because I've come out of this non sleep deep rest.
+我没有再摄入咖啡因 因为我想确保我晚上能睡得很好
+I'm not ingesting caffeine because I want to make sure that I can sleep later that night really well.
+当我做创造性的工作时 这种情况会更多发生
+and this tends to be more when I do creative type work.
+创造力是一个我们将花整个月的时间讨论的话题 马上就会讲到
+Now creativity is a topic that we're going to spend the entire month on coming up soon.
+创造力是一种非常有趣的思维状态 在这种状态中 我们将现有的元素
+But creativity is a very interesting state of mind in which we're taking existing elements,
+我们已经知道的东西  以新颖的方式重新排列  有些人听到这可能会说 “害
+things that we already know and rearranging them in ways that are novel they will die.
+这不就是创造力嘛”
+That's what creativity is,
+但是创造力有两个部分它有一个创造性的发现模式
+But creativity has two parts it has a creative discovery mode where 
+你可以用一种非常放松的方式打乱这些元素
+you're kind of shuffling things around in a very relaxed way,
+非常有趣地  或者探索不同的配置
+and I'm being playful or exploring different configurations 
+然后创造力也有一个绝对线性的实现模式
+and then creativity also has an absolutely linear implementation mode 
+在这个模式中你利用你的想法或设计创造出一些非常
+in which you take the idea or the design you've come up with and you create something very rope,
+稳固的结构
+robust in concrete.
+所以创造力是由两部分组成的
+And so creativity is really a two part thing.
+积极探索不同形态的第一部分
+and the first part of actively exploring different configuration,
+有时以一种有趣的方式探索
+sometimes in a playful way,
+有时在某种程度上几乎是随机的 只是一种探索
+sometimes in a in a way that's almost random and just kind of exploring that.
+放松和几乎昏昏欲睡肯定会促进这种状态
+State is definitely facilitated by being relaxed and almost sleepy.
+我个人在早晨  并不能很好地进入这种状态
+That is not a state that I personally can access very well Early in the day.
+我试图在睡眠中进入这种状态   那么有人会说
+I've tried to access it coming out of sleep because one would say well.
+你在早上还是很困   但我不行 早上我写的大部分创新内容
+You're still sleepy early in the day and just doesn't work most of what I write down.
+我做的大部分创新的事情  都是垃圾
+Most of what I do is complete garbage.
+所以我发现在下午  大约90分钟
+And so what I found is there's this block in the afternoon of about ninety minutes,
+那个时候  我可以做创造性的写作或创造性的科学想法想象
+where I can do creative typewriting or creative type imagination of.
+或创造性实验
+Scientific ideas or experiments we might want to do 
+对你们很多人来说  科学可能不是一个富含创造性的领域
+science might not seem like a creative endeavor to many of you,
+但是它包含了很多的想象 如果我们可以把这些结合起来
+but it is has a lot of imagining what if this or we could combine that and thinking 
+思考新的概念或新的安排事物的方式
+of novel concepts or ways of arranging things.
+当你发现自己有这种明显的一般注意力模式
+So when you find yourself in that kind of clear common focused mode,
+在那种状态下 创造性的工作往往会很好地产生
+creative works tend to come about very well in that in those regimes.
+我知道很多人依赖一些物质  来达到创造性的状态
+and I know that a lot of people out there rely on substances to access creative states.
+我不吸大麻 就只是因为这种毒品对我来说不适合
+I'm not a marijuana user is just not the drug for me,
+由于各种原因
+for a variety of reasons.
+我也不喝酒
+I'm not a drinker.
+我不是这一卦的
+It's not that not the substance for me,
+也是由于各种原因
+for a variety of reasons.
+
+我不是警察
+I'm not a cop.
+所以我不是来告诉你们  该做什么 不该做什么
+I'm not here to tell you what they should do or shouldn't do.
+使用物质来获取创造力的问题是
+The problem with using substances to access creativity is that 
+通常那些让人放松的物质
+generally the ones that the substances that relaxed people will allow them 
+会让他们进入创造性的头脑风暴模式
+to get into that creative brainstorming mode,
+但他们会不太擅长线性实现模式
+but not so good at the linear implementation mode you know.
+前几天
+At the other day,
+我和一个朋友说
+I was remarking with a friend that
+ 这些年来我看到了一些特别棒的广告  完全不敢相信
+there's some add some advertisements that I've seen over the years that are just incredible.
+我来告诉你是什么
+I'll just tell you what they are,
+这里没有什么好神秘的  我在表明我的品味
+so there's not cryptic or anything I'm revealing my taste here.
+有一支广告
+There's a one.
+斯派克·琼斯做了一个特别的香水广告 非常棒
+There is a particular perfume ad that Spike Jones made that it's just amazing.
+就真的
+it's just,
+我会给它放个链接 因为它太酷了
+I'll put a link to it because it's just so cool,
+我不想把结局说出来
+and it's just so and I don't want to give away the end,
+但它有一个特点  让我作为一个神经科学家特别感兴趣
+but it has a feature of it that is particularly interesting to me as a neuroscientist and just a cool,
+因为我从小就玩滑板
+and because I grew up in the skateboarding thing,
+我对斯派克的电影和滑板
+I knew a little bit about spikes,
+有点了解
+movies and skateboarding,
+当然 他也拍了很多令人印象深刻的流行电影
+and he's of course made a lot of very impressive popular movies as well.
+完整的电影
+Full length features.
+我私底下并不认识他
+I don't know him personally,
+但这不是一个商务
+but this isn't a plug.
+他根本不需要我的推广
+Not that he needs my endorsement for anything at all.
+但这个广告的神奇之处在于
+But the the amazing thing about this advertisement is,
+它是一种  它是一种  你从未想过会被结合在一起的东西的集合
+it's a kind of it's a collection of things that you would never really think would be combined.
+它涉及到不同的运动速度和各种效果
+And it involves different speeds of motion and in all sorts of effects,
+我的意思是
+I mean,
+就像斯派克·琼斯那种经典的表达方式
+it's like a real classic like Spike Jones kind of delivery.
+但令人难以置信的是  不仅仅是得有人想象出这个创意
+But what's incredible is when you think about not just the fact that someone had to imagine that,
+而且还要实现这个创意
+but to actually implement the steps in order to create that,
+当你看到这个
+when you see this,
+你会意识到那是一大堆工作
+you'll realize that was a ton of work.
+你不能随便把它们组合在一起
+You can't just put that together randomly.
+所以很多人  当然并不包括斯派克
+and so a lot of people not spike clearly,
+但是很多人都有不可思议和新奇的想法  可以想到各种东西的组合
+but a lot of people who can who have an incredible mined for ideas and novel novel arrangements of things.
+他们可能很轻松地就能够
+They are graded,
+进入状态
+accessing that state,
+但不太擅长进入真正实践的状态
+but not so good at accessing the implementation state.
+还有一点是  确实  有很多人有些人倾向于我们所说的
+And then it's also true that a lot of people and some who tend to fall on what we would call 
+像亚斯伯格症或者是某些自闭症  他们会非常擅长线性执行
+the kind of like more asperger's or autism end of the spectrum are very good at linear implementation.
+我说的不是所有类型的自闭症
+Now I'm not talking about all forms of autism.
+当然
+Of course,
+我对这个事实很敏感  自闭症有很多形式
+I'm sensitive to the fact that there are many forms on the spectrum,
+但有些人很擅长线性实现
+but some people are very good at linear implementation,
+这是一种独立于创造性状态的状态
+and that's a separate state from a creative states.
+所以在下午的时段 我试着进入一种更自由 更放松的心态
+So that afternoon block is when I try to access the freer kind of looser mindset 
+这种心态与下午晚些时候的疲劳有关
+that's associated with the fatigue that comes later in the afternoon.
+对于你们中的一些人来说
+For some of you,
+更好的创造力和创造性学习的状态可能在早上
+that state that favors creativity and creative learning might be better in the morning.
+我无法了解你们的情况
+I don't know it.
+你们必须做出决定
+You're going to have to decide for some of you,
+有一部分人  可能更晚一点
+you're going to be late shifted.
+你们中的一些人可能更早一点
+some of you are going to be morning shifted,
+但是当我们有警觉性的时候
+but where we have alertness generally,
+我们擅长线性执行  擅长激活抑制行为的nogo通路
+we are good at linear implementation were good at activating the nogo pathway in suppressing action,
+我们擅长于追求特定的目标和战略实施
+and we were good at at pursuing particular goals and strategy implementation.
+那我们在什么地方会更放松呢
+and where are we tend to be more relaxed?
+什么时候处于一种昏昏欲睡的状态呢
+and we tend to be almost in a kind of sleepy mode?
+所以对我来说 我是从NSDR中刚醒过来的时候
+So for me coming out of one of these non sleep deep rest modes are or sleep.
+这时我们更擅长于现有元素的新构型
+That's when we tend to be better at novel configurations of existing elements,
+这是创造力
+which is creativity,
+这就带来了一个问题 我一直收到这个问题
+and this brings about a question that I get all the time,
+关于迷幻药的问题
+which is what about psychedelic stuff.
+所以我之后会和一些迷幻药的专家谈谈
+So I am going to talk to some experts on psychedelic.
+我希望把其中的一些带到播客里讲一讲
+I hope to bring some of them in actually speaking on people coming in 
+说到邀请的人或者邀请的生物  刚才  一只绝对不需要迷幻药的生物
+or creatures coming in a creature that is definitely not on psychedelic.
+一点都不需要的一只生物
+Who doesn't need any
+科斯特洛  他刚进来了
+As Costello and he just arrived,
+他似乎处于昏昏欲睡的状态
+he seems to be in a sleepy state.
+大多数时候都这样
+Most all the time 
+嗨 兄嘚 怎么啦  你不进来吗？
+Hey buddy how are you doing are you come in?
+哈
+Yeah,
+他正在准备今天里的  第五十次
+he's working on his fiftieth sleep.
+睡眠深度休息
+deep rest episode of the day,
+之后通常是10到12个小时
+which is generally followed by a ten to twelve.
+深度休息的  几乎全都是快速眼动睡眠
+our deep rest episodes almost exclusively comprised of REM,
+我知道这个是因为他的眼睛是睁着的  因为他的眼睛太下垂了  无法闭上
+and I know this because his eyes are open because they're so droopy can't close them all away,
+他的眼睛像这样转动
+and his eyes are going like this,
+他又要昏过去了
+and he's going down for the count.
+没错
+Yeah,
+我看到一个大大的哈欠
+I saw a big yawn,
+好吧
+OK,
+所以迷幻药
+so psychedelic,
+首先
+so first of all,
+我想说清楚
+I want to be very clear.
+我既不是支持者
+I am neither a proponent,
+我也不是那种拒绝迷幻剂潜在作用的人
+nor am I somebody who rejects the potential role of psychedelic.
+我的确
+I do,
+然而
+however,
+认为迷幻药对那些有心理问题
+think that psychedelic can be particularly hazardous for people who have preexisting psychological issues 
+且没有与资格认证的医生谈过的人尤其危险
+and are not working with a board certified psychiatrist or physician,
+以及所有的孩子
+as well as for essentially all kids.
+我认为年轻的大脑基本上处于它自己的迷幻状态 很自然的就是迷幻状态
+I think that the young brain is basically in its own psychedelic state and just naturally 
+好了不开玩笑
+and it all kidding aside.
+我认为年轻的大脑非常容易受到神经可塑性的影响
+I think that the young brain is so subject to neural plasticity that drugs,
+而迷幻药的药性非常强
+which likes psychedelic which are very powerful,
+对发育中的大脑有害
+can be detrimental to the developing brain.
+这就是我的立场
+That's just my stance.
+如果有人不同意我的观点
+If anyone disagrees with me,
+我很乐意和你以一种礼貌的方式谈论它 我会很乐意倾听
+I'd be happy to chat with you about it in a in a polite and discourse will be happy to listen 
+并告诉你更多我的理由
+as well as tell you more why.
+我相信这是根据数据得出的
+I believe that based on the data.
+我说的是迷幻药
+I'm mentioning psychedelic
+因为很多人问
+because many of you asked,
+迷幻药是这样的
+Here's the deal with psychedelic.
+至少它们的工作原理是这样的
+at least here's how they work in a nutshell,
+迷幻药
+psychedelic acts.
+被认为可以释放感官处理的调节剂 减少过滤
+were thought to unleash sensory processing and to make it less filtered.
+让眼睛有很多不同的输入
+We have a lot of different inputs from our eyes,
+从耳朵 从鼻子 从味道
+from her ears from her nose from a taste,
+
+这些一直都是平行进入的
+that you're coming in all the time in parallel,
+我们有抑制这些的机制 让我们只关注
+and we have mechanisms that suppress some of those and allow us to only focus on things 
+视觉上正在发生的事情
+that are happening visually generally,
+我们没有联觉  除了一些人  基本上没有联觉
+we don't have synaesthesia is unless some of us don't have synaesthesia,
+我们不会以一种困惑的方式  将所见与所闻混淆在一起
+we don't blend what we see with what we hear in a way that is confusing to us.
+我们知道是什么发出了声音 也知道它是什么
+We know what's making sounds and we know what it is.
+有视觉刺激的迷幻者报告说  他们能闻到颜色
+A visual stimulus on psychedelic people report being able to smell colors or two here,
+或者听到树的声音
+trees,
+
+那是因为有很多感官的融合
+And that's because there's a lot of sensory blending.
+然而
+However,
+这导致了误解
+that's led to the misconception.
+感官融合本身就是一个创造性的过程
+that sensory blending itself is a creative process.
+感官融合并没有产生什么创意
+There's nothing creative about sensory blending.
+而创造过程的本质
+There is the essence of a creative process.
+是某种全新的元素构型
+Is that some novel configuration of elements,
+不管是钢琴上的音符  还是歌曲里的歌词
+whether not it's notes on a piano or within its words,
+在一页有真实数字的纸上
+on a page with an honest numbers,
+或者某种运动
+or whether or not it's movement,
+在某种程度上 这些艺术
+that some way in which those art.
+以某种新的方式配置算法  它们这种配置的方式
+Configured in some new way that the algorithm the way in which they are configured 
+对观察者产生一些意义
+makes sense to the observer.
+这一点很关键
+And this is a key thing.
+在我看来 当人们报告他们的迷幻经历时
+It seems to me that when people report their psychedelic experiences,
+他们更多的是在经历  而非观察
+it makes a lot more sense to the person who experiences it than to the observer.
+所以创造性的工作 从定义上来说 或者是通过新的方式来配置东西 使它们能适合更大的
+And so creative works by definition or new ways of configuring things that lend themselves to a bigger,
+更大  更好 更深刻 更新颖的 观察者角度的理解
+bigger or greater or deeper or novel understanding on the part of the observer  
+仅仅是感官的融合并不能实现这一点
+and just sensory blending is not going to accomplish that.
+这是真的  在 《细胞》 杂志上有一篇很棒的评论  关于迷幻药是如何起作用的
+Now it is true and there's a great review in the journal Cell Excellent Journal about how psychedelic work and 
+事实证明 迷幻药的作用不仅仅是允许更多的感官混合  它们能作用是因为
+it turns out they don't just work by allowing for more sensory blending they do because of the way that 
+它们激活特定的血清素受体的方式
+they activate certain serotonin receptors,
+
+它们确实有助于不同大脑区域之间的横向连接
+They do lend themselves to more lateral connectivity between different brain areas,
+更多新奇的联想
+more novel associations.
+所以原则上
+So in principle,
+原则上
+in principle,
+我应该说
+I should say,
+这不是一种规范的做法
+not a sterling practice,
+但原则上 它们确实允许大脑的不同区域  甚至是大脑的两侧
+but in principle they do allow different areas of the brain may be even the two sides of the brain 
+能够比正常情况下更广泛地交流
+to communicate more broadly than they would normally.
+所以这里面有一些元素确实可以激发创造力
+So that has certain elements that speak to creativity,
+但迷幻药不可能是创造力的入口
+but it can't simply be the case that psychedelic or the portal to creativity,
+因为创造力
+because creativity,
+正如我之前提到的
+as I mentioned before,
+不仅涉及到新奇的联想和打破时空规则
+involves not just novel associations and a breaking of kind of space time rules.
+它还包括重新配置元素 比如人们提出的新的时空规则  很有趣
+It also involves reconfiguring things such that the new space time rule that one comes up with is interesting,
+令人兴奋 而且在许多情况下会使观察者感到愉快
+stimulating and in many cases delightful to the observer.
+这就是为什么很多人认为迷幻药会打开可塑性  或者增加创造力
+And that's why many claims that psychedelic open plasticity or the increase creativity 
+但对我个人来说  这是不够的
+that's not sufficient for me personally,
+我好奇的是
+I'm curious about.
+它不只是打开了创造性思维的过程？
+Does it not just open the creative thinking process?
+这种新颖的构型过程
+this novel configuration process,
+但它是否也有助于创意作品的实施？
+but does it also lend itself to the implementation of creative works,
+而答案是否定的
+and the answer is no.
+在大多数情况下 这与创造性执行没有任何关系
+In most cases it has nothing to do with creative implementation.
+现在我认为可能会有那么一段时间  当然现在也有正在进行的临床试验
+Now I think that there may come a time and certainly there are clinical trials that are happening now,
+将迷幻药用于特定的临床目标
+where psychedelic are leveraged toward particular clinical goals.
+而我
+And I,
+我要对约翰霍普金斯大学的工作表示敬意
+I want to tip my hat to the work at Johns Hopkins.
+他们正在做这个实验
+that's happening now,
+这真的
+which really lends itself.
+促成了早期的初步数据和一些即将发表的论文
+To the idea that early preliminary data and some of the papers that are coming out,
+他们真的很棒
+they're really fantastic,
+这些数据表明  某些致幻剂在特定的临床环境中可能有很好的作用
+showing that there may be some excellent roles for certain psychedelic in certain clinical context.
+这些是在精神病医生在场的情况下进行的临床研究
+These are clinical studies done with a psychiatrist present.
+它可以帮助人们度过创伤中的抑郁
+That is authorized to do that that can help people through depression in trauma,
+
+我们会花很多时间讨论这个问题
+And we're going to spend a lot of time talking about that,
+包括那些进行研究的人
+including with some of those those folks running those studies,
+所以我们可以期待邀请他们来做客
+so we can look forward to that.
+所以   所有这些答案都是在说 不
+So all of this is to say that no,
+我不会用迷幻药来达到创造性状态
+I don't take psychedelic to access creative states.
+这不是我认为的主要作用  迷幻药的重要作用可能会表现出来
+That's not where I think the major role the important role of psychedelic might show up 
+对于人类来说
+if its going to for humanity.
+我认为它在临床中可能有这些重要的作用
+I think that it may have these important roles in the clinical context,
+只要它是合法和安全的
+provided it's done legally and safely.
+我认为
+I think that.
+创造的过程是一个两阶段的过程 这意味着我个人最好是通过这段时间
+The creative process being a two stage process means that I am personally best served 
+对概念进行非线性探索
+by having this period of nonlinear exploration of concepts,
+不管它是什么
+whatever it is.
+我下午刚好在做一件事
+I happen to be working on in the afternoon,
+然后我会把这件事推开 放掉
+but then I'll actually shove that work.
+我会把它放在一边 然后在第二天甚至是第三天  再去重新审视它 看看是否
+I'll just set it aside and then I'll revisit it the next day or even the next day to see whether or not.
+真的已经准备好了
+The work itself is ready for deliberate,
+线性实践
+linear implementation,
+我很想在高度集中的时候做线性实践
+which I would want to do during one of these high highly focused states.
+所以简单地说 当我们非常清醒警觉的时候  做线性运算
+So the long and short way of saying this is that when we're very alert,
+当我们更困倦更放松的时候
+do linear type of operations when we tend to be more sleepy and more relaxed,
+这是创意作品的第一个构思的好时机
+That's when creative works can first be conceived,
+但实施这些构思需要高度的警觉性
+but their implementation requires high levels of alertness.
+现在我们捋到了傍晚时分
+Now that gets us more to the kind of late afternoon evening.
+就像我之前提到的那样
+now I am as I've mentioned before.
+我也支持在晚上晒晒太阳
+I'm a proponent of getting sunlight in the evening as well.
+这是我之前没有提到的一个关键问题
+This is a critical thing that I have not mentioned before.
+下面我讲一下它的工作原理
+Here's how it works.
+现在很多人都听我说过 在一天中早起很重要
+Many people now have heard me say getting light early in the day is important,
+但这将提前一个人的时间
+but that will advance one's clock.
+它会让你第二天想要早起
+It'll make you want to get up earlier the next day
+ 而晚上接受一点光
+by getting light in the evening.
+它为我实现了两件事  首先
+It accomplishes two things for me First of all,
+确保我不会起得太早
+it make sure that I don't get up too early,
+我不会在凌晨三四点醒来  因为这会改变我的生物钟
+that I'm not waking up at three or four in the morning because it's going to shift my clock.
+这会让它延迟一点
+It's going to delay it a little bit,
+所以这非常重要  如果你想让你的作息时间保持在一个正常的24小时周期
+And so this is really important if you want to keep your schedule on a normal routine on a regular twenty four 
+不让你的睡眠和清醒的昼夜节律飘忽不定
+hour cycle and not have your circadian rhythms of sleep and wakefulness drifting all over the place,
+为了优化学习和表现 你希望大脑的工作方式
+and you want some predictability to how your mind is going to work in order to optimize 
+有一定的可预见性
+learning and performance.
+
+然后你需要同时得到晨光和夜光   晨光会让我的时钟提前
+then you need to get morning light and evening light the morning light is going to advance my clock,
+让我的身体想要早起  而夜晚的光
+make my system want to get up earlier in the evening,
+则会让我的时钟延迟一点  所以平均来说
+Light is going to delay my clock a little bit so that on average,
+这预定了我的昼夜生理机制的末尾时间  我基本上每天晚上都想在相同的时间睡觉
+it kind of book ends my circadian mechanisms and I'll basically want to go to sleep at more or less the same 
+每天早上都想在相同的时间醒来
+time each night and wake up more or less at the same time each morning.
+这就是它的工作原理
+That's how it works,
+这非常固定的
+and that's a hard,
+连接机制
+wired mechanism.
+这不是什么主观的事情 我告诉自己这是固定连接机制
+That's not some subjective thing that I tell myself that's a hard wired mechanism,
+所以我们到了晚上 通常是晚上
+so that gets us to the evening and generally in the evening.
+我会走出去 接受一点夕阳
+I'll get that light by going outside,
+有时我会把人造灯光调亮
+Or sometimes I'll do it by turning up artificial lights brightly,
+然后我就会把它们调暗 因为
+and then I'll start to dim them for the evening because,
+正如我之前多次提到的
+as I mentioned many times before,
+我就不赘述为什么需要减少光暴露这个问题了
+and I'm not going to belabor the point you want to minimize your light exposure,
+特别是头顶强光照射
+especially overhead bright light exposure,
+不管它是蓝光还是什么
+regardless of whether it's blue light or not.
+晚上
+In the evening,
+从晚上十点到凌晨四点
+from about ten pm to four pm,
+有些人问
+some of you asked,
+等等
+wait,
+我以为11点到4点呢
+I thought it was eleven P m to four am.
+
+确实可以
+it is,
+但是晚上10点到凌晨4点更好
+but ten pm to four am is even better.
+只是当我最初说10点到4点的时候
+It's just that when I originally said ten P M to form a M,
+大多数人不可能坚持这个时刻表
+people had done its impossible for most people to adhere to.
+对我来说 我就开始挡住光线  留一点暗淡的光线
+So for me it screens off its dim lights,
+这就是为什么我能睡个好觉
+and that's what favours falling asleep in a good night's sleep For me.
+既然我们之前谈的是食物
+Since we were talking about food earlier,
+我再回顾一下之前说的
+I'll just revisit a little bit of what I said before my evening.
+在晚上  我会吃含有更多碳水化合物的食物  至于蛋白质
+Meal tends to be more carbohydrate rich if I have proteins,
+就吃比如 鸡蛋
+it'll be like eggs,
+鱼或鸡肉
+fish or chicken,
+我吃的是高碳水化合物
+or something of that sort were no protein and I eat high carbohydrates,
+所以我不是那种使用生酮饮食  或只吃肉那种
+so I'm not one of these people that keto or high I meet only or anything like that.
+记住  低碳水化合物的状态下禁食  可以提高警觉
+Remember fasting in low carbohydrate states facilitate alertness.
+富含碳水化合物的食物有助于镇静和困倦
+Carbohydrate rich foods facilitate calmness and sleepiness.
+它们会刺激色氨酸的释放  让人转向睡眠状态
+They'd stimulate the release of tryptophan in the transition to sleep,
+这就是为什么要在一天的晚些时候吃这些
+so that's why do them late in the day.
+同时
+Also,
+如果你在早上锻炼过
+if you've exercised early in the day,
+特别是如果是负重锻炼  或失重训练
+especially if its weight bearing exercise or everything's weight bearing exercise,
+当然了除非你是宇航员才
+this was unless you're an astronaut,
+还要在太空中才有失重训练
+but and you're in space.
+但如果你是一大早
+But if you're early in the day,
+进行了举重锻炼  或者长跑
+exercising with weights or you're doing a long run or something,
+迟早
+sooner or later,
+你会需要补充糖原
+you need to replenish glycogen,
+然后我意识到肾脏已经不行了  它们会一直吵着呀
+and I realized that the kidneys does out they're going to say.
+
+葡萄糖
+you know glucose glucose,
+葡萄糖可以让你补充糖原
+will allow you to replenish glycogen,
+我现在要戳穿这个谎言  因为我觉得需要这么做
+I'm just going to call out the lie right now because I feel like doing it,
+然后因为这个理论还没有被正式声明
+and because I think it just hasn't been stated,
+也就是说 不是每个人 但是很多人都是高脂肪肉类的支持者
+which is that not everybody but a lot of the people that are proponents of high meat.
+生酮饮食
+keto diets,
+很好
+fine.
+如果这是他们想做的 那没问题
+That's fine if that's what they want to do,
+你们应该还记得
+and as you recall,
+我确实在一天中会有个生统有机饮食的阶段
+I do relatively keto organic diet during the day,
+为了获得警觉性或禁食
+two for alertness or fasting.
+但很多人都能很好地补充糖原而不需要摄入糖类
+But a lot of those people can replenish glycogen really well without ingesting carbohydrate 
+也就是葡萄糖血管生成  并增强蛋白质合成  是因为他们的激素增强了
+socalled glucose angiogenesis and enhance protein synthesis because they are hormone enhanced,
+这理论已经存在一段时间了
+and it's just there had been around a while.
+我知道这看起来像什么
+I know what this looks like.
+他们要么甲状腺增强
+They're either thyroid,
+或激素增强 但我对此没有任何评价诊断
+enhanced or hormone enhance and I dont pass any judgment.
+但当你看到那些在生酮  而且看起来精力很充沛的人
+But when you look at people who look amazing on keto 
+他们还能在生酮中获得大量能量并补充糖原
+and are able to have a lot of energy and replenish their glycogen on keto,
+他们
+they.
+在许多情况下
+In many cases,
+当然不是全部
+not all,
+但在很多情况下 他们的激素增加是因为  他们服用了外源性激素
+but in many cases their hormone enhance their taking exogenous hormones that 
+使他们能够合成和修复肌肉
+allow them to synthesize and repair muscle in ways that
+这是那些没有服用外源性激素的人无法做到的
+people who aren't taking those exogenous hormones can't.
+这不仅发生在男性身上
+This is not just true of the men.
+顺便说一下
+By the way,
+这也适用于女性
+this is also true of the women,
+当然这个讨论
+and this is a whole discussion unto itself,
+可能和这个月的播客没有直接关系
+probably not directly related to this month of the podcast.
+所以我不介意人们使用生酮
+So I don't mind that people do this.
+但有一个问题是 当人们一直遵循生酮饮食直到入睡时
+But one problem is when people are fought following ketogenic diets all the way through to sleep 
+他们会出现睡眠问题
+and they have trouble with sleep,
+或者如果他们在进行长时间的禁食的时候
+or they're doing long bouts of fasting,
+他们会很难入睡
+and they're having trouble falling asleep.
+这是有道理的 因为它们的自主觉醒倾向于受到肾上腺素的释放
+That makes sense is because their autonomic arousal is tilted towards epinephrine release.
+去甲肾上腺素释放  以及多巴胺释放的影响
+norepinephrine to release and dopamine release,
+所以它们有很多精力
+so they have a lot of energy.
+但是他们很难平静下来  并进入深度睡眠
+but they have a hard time calming down and getting into deep sleep.
+我倾向于用碳水化合物达到那种状态
+I tend to achieve that state using carbohydrates,
+它还能补充糖原
+and it also replenishes glycogen.
+再说一次
+So again,
+
+我不是想引来喷子
+I'm not trying to draw any fire,
+但如果有人来喷
+but if I do,
+我很乐意再和你谈谈这件事
+I'd be happy to have a conversation about all that again.
+没有偏见
+No judgment,
+但我认为  大多数人都没有意识到其他的一些变量
+but I think that most people out there are not aware of some of the other variables.
+记住
+Remember,
+好的科学是需要分离变量的
+good science is about isolating variables,
+所以通常我们在社交媒体上看到的  是被呈现在我们面前的单个变量
+and so oftentimes what we're seeing in social media is we're getting presented single variables,
+我们没有看到被操纵的其他变量  没有完整背景
+and we're not seeing the full context of the other variables that are being manipulated so.
+我晚上吃意大利面 米饭和蔬菜之类的食物
+I eat pasta and rice and vegetables and things like that in the evening.
+同时
+Also,
+我发现我可能是最后一批想到这点 并说出来的人
+I just find maybe I'm becoming one of the last people that does that,
+尽管我不希望真的是这样
+although I hope not,
+我希望还有像我一样的人
+I hope there are others out there like me,
+但是我从所有的文献中都知道  碳水化合物不仅能做到这一点
+but I just from all the literature speaks to the fact that carbohydrates not only do that,
+但它们也有助于维持健康的甲状腺功能
+but they also help maintain healthy thyroid function,
+
+这就是我的偏见
+So that's my bias.
+这就是我的工作
+That's what I do.
+我晚上不喝咖啡因
+I do avoid caffeine and one in the evening.
+我确实服用补充剂
+I do take supplements,
+我很乐意找个时间把我吃过的完整的补品清单写出来
+and I'll be happy at some point to put out the complete list of supplements that I put out.
+我会po出来
+Take out there.
+但总的来说
+But in general,
+这些是我日常所做的核心事情  它们与你们一直以来问的很多问题有关
+these are the core things that I do and they relate to a lot of the questions that you've been asking over time.
+接下来我要讲的科学数据是非常重要的
+The next pieces of scientific data that I'm going to describe is a very important piece of scientific data 
+它有助于我们理解如何优化大脑 获取睡眠
+for sake of understanding how to optimize your brain and access sleep.
+它还可以帮助避免很多焦虑问题
+It also can help avoid a lot of anxiety issues,
+这些都和Charles Eisler博士的数据有关
+and these relate to data from Charles Eisler.
+他是哈佛医学院Chucks Eisler实验室的医学博士
+Dr is an MD Chucks Eisler lab at Harvard Medical School.
+他在哈佛医学院运营这个睡眠实验室很长一段时间了  他们做的工作非常出色
+He's run a sleep lab out of Harvard Medical School for a long time now does very impressive work,
+他的研究表明 清醒状态下生物钟的峰值输出
+and what he has shown is that the peak output of the circadian clock for wakefulness,
+换句话说
+in other words,
+我们清醒的高峰和抑制睡眠的信号  实际上发生在一天的晚些时候
+the peak of our wakefulness and the suppression of the sleep signal actually happens very late in the day.
+所以  我们在醒来前有一个体温变化的低谷 体温最低点
+So we have this trough of activity and body temperatures lowest right before waking than as we wake up,
+醒来后  我们的体温会上升 直到下午  还会继续上升
+our body temperature goes up and into the afternoon it continues to go up up up up up,
+然后在晚上和睡觉时间下降
+and then it tends to fall in the evening and towards bedtime.
+但是有一些肽和其他物质  会有一个短暂的释放
+But there's a brief blip of release of peptides and other substances from thee,
+从大脑的睡眠中心中的视交叉上核中  释放
+from the sleep centers in the brain and the super charismatic nucleus that sleep centers.
+这是视前区 如果你想知道这个具体术语  视前区
+That's pre optic area that if you want to look that up this pre optic area,
+离昼夜生物钟标志着警觉和清醒的顶峰很近
+not far from the circadian clock that signals the peak of alertness and wakefulness.
+大约在睡前一小时
+About an hour before bedtime.
+
+这真的很奇怪
+that's really weird,
+但很多人上床后
+but a lot of people get into bed,
+他们准备睡觉 但他们完全清醒 他们认为这是一件不自然的事情
+They're ready to go to sleep and they are wide awake and they think this is an unnatural thing.
+或者觉得自己有什么问题
+or there's something wrong with them.
+实际上不是这样的
+and actually it's not this.
+我确信
+It's believed again.
+当然我没有参与
+I wasn't consulted.
+实验理论的设计阶段
+The design phase,
+但这是公众认可的
+but this is it once believed,
+这是一种信号 有助于人类开始收集资源
+is a signal that is helpful to human beings to start gathering up resources 
+确保自己能睡一晚上
+and securing themselves for a night's sleep,
+在人类历史上
+during which we you know historically,
+我们很容易受到其他人类和动物的攻击
+were very vulnerable to attack from other humans and farm animals and so forth,
+所以想要四处奔波  打扫厨房或者整理东西的欲望
+and so that desire to run around and clean the kitchen or organized things 
+或者只是一种晚上内心的焦虑
+or just a general feeling of internal anxiety late in the evening.
+这是一个自然的释放点 会在大约45到60分钟后自然消失
+That's a natural blip that naturally passes after about forty five to sixty minutes.
+
+人们通常会在这个时候开始担心  第二天还有事情要做
+that's often the time when people start stressing about the fact that they have something to do the next day,
+他们担心睡不好会引发一系列的问题
+and they worry about not being able to sleep in a can cascade into a whole set of things.
+所以我每天做的另一件事是
+So another thing that I do throughout my day is,
+我知道这天早些时候  如果我下午很清醒
+I know that early day I'm going to be alert afternoon.
+我到了晚上可能会有点困
+I'm going to be kind of sleepy and then as the evening comes around,
+除了我正在做的其他事情
+in addition to doing all the other things I'm doing,
+我预计自己会有一个警觉性和活跃度的高峰
+I anticipate a peak in alertness and activity,
+然后我并不担心这个
+and I don't worry about it.
+我可能用这个时间段  来为第二天做准备
+I use that perhaps to get organized for the next day,
+但基本上我只是简单安排一下
+but basically I just go through it,
+我可能做一些很平淡的事情
+so I'm going to do anything that can be very mundane task,
+比如打扫  或其他几乎不需要费力的事情
+like cleaning or things that require almost zero effort,
+这可能也说明了我打扫卫生的能力
+and that probably speaks to my cleaning abilities too.
+但事实是
+But the fact of the matter is,
+我们不能就这么
+we don't just go.
+慢慢地睡过去
+drift off into sleep.
+睡觉前  是会有一段时间的警觉性 我希望从认知上了解这一点对大家有所帮助
+There's this blip of alertness right before sleep that I hope just cognitively knowing about will be helpful to people,
+这又引出了另一个我认为非常重要的主题
+and that raises yet another theme that I think is going to be very important,
+就是
+which is.
+生理机制  比如警觉性的变化 或者使用呼吸工具
+Physiological mechanisms like these changes in alertness or using breathing tool something 
+来改变自主觉醒的水平  这些我们以后会讲到
+we'll talk about in future episodes to shift our levels of autonomic arousal.
+这些都是具体的生物现象
+Those are concrete biological phenomena,
+禁食也是
+so is fasting.
+禁食会提高警觉性  咖啡因也是如此
+Fasting will increase alertness that way so is caffeine,
+并不是每个人对咖啡因的敏感程度都一样
+not everybody susceptible to caffeine for the same degree or others,
+但这是一种生理机制  我们知道受体在哪  我们知道它们被称为配体
+but it's a physiological mechanisms we know the receptors we know the ligands as they're called,
+会与受体结合
+which bind to the receptors.
+我们知道有皮质醇和肾上腺素的机制
+We know the mechanisms that have all cortisol and epinephrine.
+这些都是我个人在学习中尝试和利用的东西
+Those are the sorts of things that I personally try and leverage toward my learning,
+来优化我的大脑和活动
+an optimisation of my brain and my activity.
+在一天的早些时候进行体育锻炼活动
+Doing physical activity early in the day,
+会给我们一个更长的醒来信号的
+tends to give us a longer duration.
+持续时间  旨在加速早起
+Wake up signal intends to accelerate waking up early in the day,
+所以在白天很晚的时候锻炼  有时会导致人们难以入睡
+so I'm working out late in the day can sometimes cause people to have trouble falling asleep.
+因为它会延迟你的生物钟
+It will also phase delay.
+这样你第二天  就会想要晚一点醒来
+You make it so that you want to wake up later the next day.
+这不只是因为你累了
+It's not just because you're tired,
+这是因为你通过活动和温度  改变了生物钟
+it's because you've shifted your clock with activity and temperature.
+很多人问我关于可塑性的主观方法
+Many people ask me about subjective tools for plasticity.
+比如  视觉化？
+What about visualization you know?
+我们能想象自己在做一个特定的活动吗？
+Can we just imagine doing a particular activity?
+这会帮助我们在这项活动中做得更好吗？
+Will that help us get better at that activity?
+有证据表明 可视化可以做到这一点
+There's some evidence that visualization can do that.
+这是真的
+it's true,
+但这里有一个重要的区别
+but here's the important distinction,
+这也是为什么我个人不怎么有意识地想象
+and here's why I personally don't do much deliberate visualization.
+首先
+First of all,
+当我处于昏昏欲睡的状态时 我就会发挥我最好的能力来想象事物
+I get my best ability or achieve my best ability to visualize things when I'm in kind of a sleepy state.
+我不知道为什么
+I don't know why,
+但这就是我能让我的大脑
+but that's what I'm able to direct my brain torch,
+点燃内心的可视化
+internal visualization.
+我闭上眼睛
+With my eyes closed,
+一般情况下
+and generally,
+我会睡着 我不记得之前想过的任何事情
+I fall asleep and I can't remember anything that I was thinking about before some people 
+许多年前罗杰·谢泼德和他伙伴所做的工作
+and the work that was done many years ago by Roger Shepherd and by others,
+罗杰当时在斯坦福大学
+Rodger was at Stanford.
+但是其他实验室也做了这个
+But and other labs have done this to,
+当然
+of course,
+他们的大脑中有物体在进行物理旋转
+of rotating objects physically in their mind as a way of improving or looking 
+以此来提高或观察空间计算的速度等等
+at the speed of of spatial calculations and so forth.
+有些人很擅长想象
+Some people are very good at visualization.
+他们可以闭上眼睛 看到物体 然后有意地将其旋转
+they can close their eyes and they could just see objects and rotate them deliberately,
+但很多人  比如我
+A lot of people like me.
+当我们开始这样做的时候
+When we start doing that,
+我们很容易走神
+our mind drifts too easily.
+但我想  在清醒状态下我是一个理性的专注者
+but I'd like to think I'm a reasonably focus person in the waking state.
+所以可视化
+so visualization,
+很有趣 因为我认为人们很容易被这种想法所吸引
+it's interesting because I think people are very attracted to the idea that
+他们只需要在脑子里想这个事情 然后就能做得更好
+they can just think about something and then get better at it that way.
+如果你可以用形象化的方式将事物线性化 这可能是对的
+and it's probably true if you can be very linear in the way that you visualize things.
+我就不重复了
+So I won't repeat that.
+我认为想象可视化确实有一定的力量
+I think visualization does have certain power 
+如果你能保持线性 深思熟虑 专注于想象
+if you can remain very linear and deliberate and focused in the visualization.
+但是很多像我一样的人很难闭上眼睛
+But many people like myself who are challenged with maintaining that linear focus with eyes closed 
+保持线性的注意力
+and in visualization,
+那么他们不会从想象中得到什么
+they don't get much out of visualization.
+我认为有关表现的数据  确实支持了这一点
+And I think the date on performance really supports that.
+有一些例子
+Now there are examples where,
+例如
+for instance,
+人们损伤了一侧肢体 然后他们会锻炼完好的那一侧肢体  或者没有受伤的那一侧肢体
+people injure one limb and then they will exercise the intact limb or that the non injured limb rather 
+同时他们会想象另一侧的肢体
+and they will visualize the opposite limb.
+有时甚至还会用到镜子  假设我的左肢受伤了
+Sometimes there's even the use of mirror boxes so that let's say my left limb is injured.
+我会保持右肢活动
+I'm maintaining activity with my right limb,
+但我会用一面镜子
+but I'm using a mirror box,
+镜像中看起来 我的左肢工作得很好
+So it looks like my left limb is working well.
+是的
+yes,
+有一些观点确实表明
+there's some top down or you know or feedback mechanisms that support the idea 
+自上而下的反馈机制可以支持受伤的肢体更快的康复
+that the injured limb can rehabilitate more quickly,
+
+但这些都是相当复杂的计划
+But those are fairly elaborate schemes.
+不是说家里有面镜子就能做这件事
+These aren't the kinds I don't have mirror boxes around my house.
+我想  这是特殊情况
+I think these are our specialized circumstances.
+这有点像我们在新闻上看到的例子  某某中风了
+There are a little bit like the examples that we see in the news where Oh so and so has a stroke 
+然后自发地说一种新的语言
+and then spontaneously speaks a new language.
+我不知道他想表达的答案是什么
+I don't know what the answer to that is.
+研究表明 大脑具有典型的联想网络 这些网络在可以被释放时受到抑制
+It shows that the brain has associative networks that are typically suppressed in those can be unleashed.
+但你肯定不想故意让自己中风 来揭开其中的一些问题
+But you certainly don't want to go out and give yourself a stroke deliberately to try and unmask some skill.
+因为就是没有
+Because there's just no,
+没有一种具体的方法  可以让你真正知道
+there's no concrete way to go about that in a way that you could really know that 
+你可以如何去抵消中风的有害影响
+you were going to offset the detrimental effects of the stroke.
+事实上
+In fact,
+我认为
+I think,
+这是个糟糕的主意
+would be a terrible idea,
+我想我要描述的是一个问题  “我不知道半夜醒来是特有的还是正常的”
+so I think what I'm trying to describe is how a typical I don't know if I'm typical or normal,
+我的意思是
+I mean,
+除非你们被告知说这是正常的  一般你们都觉得自己不正常
+They've been told otherwise it's certainly not normal,
+但就我安排生活的方式而言
+but in terms of the way that I structure my day,
+我认为这很正常
+I think that's normal.
+这是很正常的
+That's pretty normal.
+我总是在大概
+I tend to wake up right around.
+我不知道在早上5点30到7点之间醒来
+I don't know somewhere between five thirty and seven a m,
+取决于我前一晚做了什么
+depending on what I've been doing the night before.
+我通常在10点30到11点左右睡觉
+I tend to go to sleep somewhere around ten thirty eleven.
+我倾向于在早上进行一轮学习 那个阶段我可以非常专注地努力工作
+I tend to have one bout in the morning where I can do really focused hard work,
+我可以激活go通路 同时也激活nogo通路 这样我就能真正集中注意力
+and I can really activate the go pathway while also activating the nogo pathway so that I can really stay focused,
+但我也依赖一些工具
+but I rely on some tools.
+下午有一段时间 我会觉得很困 然后就想
+I have a period in the afternoon where I get sleepy and got out of it like,
+我想大多数人 包括我 都意识到在这种稍微昏昏欲睡的状态下
+I think most people and I tend to come out of that with an up recognizing the opportunity of that 
+有机会进行创造性的工作 用新颖的方式思考问题
+slightly sleepy state for creative work and for thinking about things in novel ways,
+我一天会接受好几次光照
+I get light a couple times a day.
+我白天吃低碳水化合物食物
+I low carb during the day and I eat.
+我不说是高碳水
+I don't say hi,
+但是晚上吃比白天更高碳的食物  比如淀粉  这样我就可以睡觉了
+But you know higher carbon eat starches in the evening that so in a way I can sleep,
+然后我会预计到下午晚些时候
+and then I really anticipate that late afternoon,
+有一个峰值和警觉性
+peak and alertness.
+抱歉说错了  晚上的峰值
+Excuse me late night peak,
+和警觉性 很多人误认为是失眠或很难入睡
+and alertness that many people confuse for insomnia or challenges when  
+但实际上他们的生理周期很正常
+actually they're really quite normal in their circadian cycle.
+然后如果一切顺利  我就睡着了
+And then I fall asleep and if all goes well,
+我睡大概四五个小时
+I stay asleep for four or five hours.
+通常情况下
+Typically,
+3-4小时
+it's three or four,
+然后我会醒过来
+and then I wake up.
+我和大多数人一样 会在半夜醒来
+I think I'm like most people I wake up during the middle of the night.
+不过有一件事  我认为大家讨论得不多
+Now one thing that I don't think has been discussed a lot,
+但我在斯坦福睡眠实验室的一位同事告诉我 每一个半小时左右 我们都会醒来
+but one of my colleagues at the Stanford Sleep Lab tells me is that every hour and a half or so we all wake up.
+你们有些人甚至可能会四处看看
+Some of you even look around,
+信不信由你
+Believe it or not,
+然后继续睡觉 但你却不会记得
+and go right back to sleep and you don't recognize it.
+在睡眠中定期醒来是常态
+Waking up periodically during sleep is the norm.
+这是正常的
+It is not abnormal.
+我不知道为什么这个问题没有得到更深入的讨论
+I don't know why this hasn't been discussed more prominently,
+我醒来的时候
+I tend to wake up,
+如果有强光从百叶窗射进来
+and if there is a bright light coming through the blinds,
+或者如果楼上有噪音
+or if there's some noise upstairs,
+或者科斯特洛的打呼声音特别大
+I've Costello storing particularly loud,
+我可能会起床
+I might get up,
+去下洗手间
+I might go use the restroom,
+我可能会
+I might.
+
+拿起一本书 在昏暗的光线下阅读一会儿
+pick up a book and read under low light or something,
+然后我通常会再次入睡 然后又会在正常的时间醒来
+and then I generally fall back asleep and wake up typical time for me again.
+5:30到7点左右醒来
+five thirty, seven a m in the morning,
+半夜醒来这件事情
+this waking up in the middle of the night.
+嗯
+saying,
+正如我在播客一开始提到的 并不一定是不正常的
+as I mentioned at the beginning of the podcast episode today is not necessarily abnormal.
+它可能反映的是人类的真实时间
+What it probably reflects is that the real time,
+意思是  我应该睡觉的时间可能接近8点
+meaning the time that I should go to sleep is probably closer to eight o'clock.
+午夜(12点) 这个词本来就是 午夜 的意思
+The word midnight was literally supposed to mean midnight.
+意味着 之前的人类都应该在日落时睡觉
+We many meaning all of us were meant to go to sleep and wake up with the rise you know 
+和日出一起醒来
+with the setting and the rising of the sun.
+我们知道这一点  是因为科罗拉多大学的一项很棒的研究
+And we know this because this beautiful study from University of Colorado,
+他们把试验者带到野外  通过重置他们的生物钟
+where they took people out into the wilderness to reset their circadian clocks by way of you.
+通过测量褪黑激素和皮质醇
+measured by way of of melatonin and cortisol,
+他们让试验者
+and they had them.
+完全打乱原本的光线时间
+they were completely out of whack for mix,
+看屏幕 熬夜
+interacting with screens and staying up too late,
+
+他们让受试者每天看日出和日落
+And they basically had them view the sunrise and view the sunset each evening,
+几乎所有的学生 不是所有
+and almost all of them not all of those students.
+那些作息时间很自然的人 他们想在日落时睡觉
+but all of them got onto a schedule where they naturally wanted to go to sleep at sunset 
+在日出前后或日出前醒来
+and wake up around sunrise or just before sunrise,
+即使他们回到正常的人造光线环境中  还是保持了这个时间表
+even when they were brought back into a normal artificial light setting.
+所以我认为这是一种自然的模式 而我们现代人只是用人造光改变了它
+So I think that's the natural pattern and we've just deviated from it with artificial lights,
+所以在凌晨三四点醒来并不一定意味着你有什么毛病
+so waking up at three am or four am doesn't necessarily mean that there's something screwed up about you it,
+或者有焦虑症之类的
+or that you know you have anxiety or something,
+尽管可能
+although you might.
+这可能意味着你应该早点上床睡觉
+What it likely means is that you were supposed to go to bed much earlier.
+由于自主神经系统的这种不对称性
+and because of this asymmetry in the autonomic nervous system where it's much easier for us to 
+我们更容易推迟睡觉时间 而不是加速提前起床时间
+push and to delay our sleep time than it is to accelerate our wakeup time.
+换句话说
+In other words,
+你想要在派对上待着会更容易
+it's easier to stay up and hang out at the party,
+即使你不想待在那里 也比你睡熟疲惫的时候醒来好得多
+even if you don't want to be there than it is to wake up when you are exhausted in your fast asleep.
+大多数人都是熬夜到很晚才上床睡觉
+Most people are pushing through into the late hours of the evening and night and going to bed much later than 
+比基因自然的入睡时间要晚得多
+they naturally would want to.
+所以我自己也是不想在晚上8点就上床睡觉
+and so I personally don't want to go to bed at eight pm.
+晚上8点到11点之间还会发生很多很棒的事
+A lot of good things happened between eight P m and eleven P m.
+我想要享受这些时光 我熬过了晚上的时间
+And so I want to enjoy those and I pushed through the evening hours.
+但结果是
+But as a consequence,
+我的褪黑激素耗尽了 我的褪黑激素释放量在凌晨3 4点左右就开始消退
+I'm running out of melatonin in my melatonin release is basically subsided by about three or four am.
+所以我醒来是有道理的
+and so it makes sense that I would wake up.
+我不服用褪黑激素的原因  在之前的节目中已经讨论过了
+I don't take melatonin For reasons discussed in previous episodes,
+我确实依赖甘氨酸镁
+I do rely on things like magnesium,
+以及苏糖酸镁
+glycate or magnesium.
+还有茶氨酸
+threonate things like the theanine.
+不是说你们都要吃这些
+not seeing any of you need to take those.
+这些只是我自己为了促进睡眠而服用的东西
+That's just what I happen to take in order to facilitate my sleep,
+这对我很有好处
+and it's been of great benefit to me.
+如果我半夜醒来感到焦虑
+If I wake up in the middle of the night and I'm anxious,
+不管什么原因  在我脑子里循环着什么事情
+for whatever reason in my mind is looping,
+我会有几条规矩
+I have a couple of rules.
+一个是
+one is,
+我不相信我在半夜醒来时想到的任何事
+I don't trust anything I think about when I wake up in the middle of the night,
+什么事都不信
+any of it.
+除非我做了一个很惊艳的梦 我想把它写下来
+unless I've had a magnificent dream and I want to write it down.
+我偶尔会这么做
+I'll do that every once in a while.
+通常情况下
+Typically,
+当我之后再翻回去读的时候
+when I go back and read it,
+它一点也不惊艳了
+it's not at all magnificent.
+我不记得在我的梦中想出过任何真正奇妙 让我久久不能忘怀的东西
+I can't ever remember coming up with anything really fantastic in one of my dreams  
+也没有实现过
+that stuck with me or that I implemented.
+我不太相信发生在生物钟凌晨的那种想法
+I don't really trust the kind of thinking that happens in those wee hours of the circadian cycle.
+对我来说
+For me,
+对我来说什么都没发生
+there's just nothing either for me,
+非常有创意或者值得线性执行
+terribly creative or worth linear implementation at that time.
+但有一件事很有帮助 那就是有时做一些非睡眠深度休息的方法
+But one thing that has been very helpful is to sometimes do one of these non sleep deep rest protocols 
+作为一种重新进入睡眠的方式
+as a way to go back into sleep.
+催眠应用我之前提到过迈克尔·瑟雷网站reverie health上的一些音频脚本
+So a hypnosis app by whereas some of the scripts by Michael Seeley that I've mentioned before,
+或瑜伽休息术之类的方法
+or the reverie health or a yoga near a protocol,
+这些对我来说非常有用 帮助我在半夜停止循环思考
+Those for me have been very useful at helping me turn off kind of looping thinking in the middle of the night 
+重新入睡
+and fall back asleep.
+在刚才回顾我的一天的安排的时候
+In reviewing my schedule for you just as a context 
+有一些实施特定类型的工具来优化学习的场景
+for how to implement certain types of tools for optimizing learning,
+大家应该有点印象的是上午有90分钟的学习
+realize that it gives the impression that there's a ninety minute bout of learning and work in the morning 
+和工作下午有90分钟的创造性工作
+and then a ninety minute bout of creative type work in the afternoon,
+就是这样
+and that's it.
+中间有很多时间
+There are a lot of hours in between,
+当然
+of course,
+我想说清楚
+and I just want to be very clear.
+我的那些时间都被
+Those hours for me are occupied by pretty.
+其他一些也不是平淡的任务
+I'm not mundane tasks,
+都是随机的事情所占据
+but things that are kind of random.
+比如说回复电子邮件  参加zoom会议
+Those are things like email were tending to zoom,
+与同事和学生的会议
+meetings or meeting with colleagues and students,
+诸如此类的事情
+and things of that sort.
+我有时会为了自己的消遣而读书
+I sometimes we'll read just for sake of my own enrichment.
+我提到了那两个90分钟的学习周期
+I mentioned those two ninety minute bouts,
+因为在这两个90分钟里
+because those are the two ninety minutes where I'm trying to 
+我试图扩展我已经拥有的心智能力
+expand on the mental capacities that I already have.
+那两段时间里 我真的在努力伸展和发展  让我能够条件反射地做的事情
+There's really where I'm trying to stretch and grow what I'm able to do on a regular basis reflexively.
+所以我想强调的是 我的一整天不只是由两个90分钟的学习组成
+So I want to emphasize that the whole day doesn't just consist of those two ninety minute belts.
+这不是我所有的日程安排
+That's not the way my schedule works,
+我的生活也不是这样安排的
+and that's not the way my lifestyle is arranged,
+这也很幸运 因为我也很享受其他的事情
+which is fortunate because I enjoy all those other things as well.
+所以对于你们中的很多人来说  在学校  或者有家庭的陪伴  或者其他的事情
+and so for many of you out there who are in school or have a family demands or other demands.
+关键是在90分钟左右的大脑优化时段
+The key is to slot in those brain optimization segments of about ninety minutes,
+一个或两个
+one or two,
+或者一天中有更多次
+or maybe more per day,
+你要把这些学习  放到任何你能放的时间段里
+you're trying to slop those in wherever you can,
+在你的其他义务和你需要做的事情中挤出时间来学习
+amidst your other obligations and things that you need to do.
+你可以用一种从你的生物学角度出发  一种随机应变的方式来做这件事
+But you want to do that in an intelligent way that's anchored to your biology,
+然后你们可以尝试做一些我今天讲过的事情
+and then you want to do a number of things which I've talked about today.
+为了优化这些学习时间 最大限度地利用它们
+In order to optimize those sessions to get the most out of them.
+所以我们总结一下
+So as we round up,
+我再次承认
+I acknowledged that once again,
+我已经涵盖了大量与如何优化学习和大脑变化
+I've covered a huge range of topics related to how to optimize learning and brain change 
+以及本质上的精神表现相关的主题
+and essentially mental performance.
+我说过 在某些生物机制的背景下
+And I've said that in the context of some biological mechanism,
+比如基底神经节  go-nogo通路  昼夜自主系统
+like the basal ganglia go nogo pathways to the circadian autonomic system 
+以及食物和禁食之间的一些关系
+and some of the relationship between food and fasting,
+以及在清醒或困倦时吃特定类型的食物
+and particular types of food in alertness or sleepiness.
+线性的注意力以及计划的实施 最好是在注意力重点突出的状态下做
+Linear focus and strategy implementation is best served by highlight states,
+虽然不需要特别警觉  还有 创造力的状态 至少是第一阶段
+although not to alert and how creative states at least the first phase of creativity,
+是一种创造性的安排 是一种头脑风暴阶段
+which is the creative arrangement kind of brainstorming stage 
+是由放松状态甚至是轻微的睡意来主导的
+is supported by states of relaxation or even slightly sleepy.
+但是创造性的实施是一个线性的 有重点的 深思熟虑的过程
+But the creative implementation is a very linear and focused and deliberate process,
+很像高度集中的状态
+much like the highly focused state.
+然后我描述了我是如何做这些事情  只是给你们一个场景 既然很多人都想知道
+Then I described I described how I do these things that just to give you a context a lot of you ask for it.
+你知道我做了什么来把它设置在一个特定的场景下
+You know what I do in order to set it within a context,
+但这绝不是僵化的时间和做事的方式
+but by no means are these rigid times and ways of doing things.
+可以说 我的工作是有生理规律的
+I think it's fair to say that what I do has a circadian logic.
+它也有非常具体的生物机制的基础
+It also has grounding in biological mechanisms that are very concrete,
+我们已经知道了其中的细胞 机制和神经递质
+that we know the cells and mechanisms and neurotransmitters,
+而其中的一些则开拓到了  一些新兴的方向
+and then some of them are a little bit headed out into what we would call kind of emerging.
+或者
+Or you know,
+我不想说最尖端
+I don't wanna say cutting edge,
+但也许是前沿的神经科学  比如试图理解创造力等等
+but maybe your front edge of what neuroscience is trying to understand about creativity and so forth.
+这些领域最近才开始逐渐明朗
+Those are areas that are just now coming to some clarity,
+当然还有很多工作要做 你们自己也有很多不同的方式来安排日程
+and there certainly is still a lot more work to do and a lot of different ways to arrange one's routine.
+但希望我所描述的工具和实践对您有用
+But hopefully the tools and practices I've described will be useful to you.
+我想说的是 很多人问我关于具体工具和实践的问题
+I want to mention that a lot of people ask me about specific tools and practices.
+比如会问
+They asked me out.
+Wim Hof的冰人呼吸法  问冰浴
+Wim Hof Breathing about ice bars,
+之前我已经讲过一些关于冰浴的知识  关于双音节拍之类的
+have talked a little bit about ice baths before I think in cold exposure about binaural beats and things though sort,
+我认为观察任何调节或测量神经系统的工具的方法
+I think the way to look at any tool to modulate or measure the nervous system is asked 
+都要看它是否会使你的自主觉醒状态上升或下降
+whether or not it's going to move you up or down the state of autonomic arousal.
+不管它能让你更警觉还是更冷静
+Whether that's can make you more alert or more calm,
+更专注或更少专注
+more focused or less focus.
+这是
+That's kind of the.
+是我们需要思考的两条轴  有时你想要比现在更警觉
+The two axes here is that we need to think about sometimes you want to be more alert than you are,
+事实上 像冷水澡
+and indeed things like cold showers,
+冰浴
+ice baths,
+一个氧气充足的
+a super oxygenation,
+冰人呼吸法
+Wim Hof.
+会提高你的警觉性水平
+Type breathing will bring your level of alertness up.
+每种方法都有一些注意事项  你需要仔细阅读并理解这些注意事项
+There are some cautionary notes associated with each of those you need to read and understand those  
+每个人都不一样
+cautionary notes for yourself everybody's different,
+其中一些在特定条件下会带来特定的危险
+and some of those carries certain dangers under certain conditions.
+在其他时候则非常安全
+Others have huge margins for safety.
+冰浴通常能让你清醒
+An ice bath generally wakes you up.
+洗个热水澡通常能让你的平静下来
+A warm or hot bath generally calms you down binaural beats.
+双音节拍则没有大量的数据和高质量的同行评议期刊
+There aren't a lot of data and quality peer reviewed journals.
+我确实花了不少力气去找
+I did put in the effort to go search it out.
+有一些双耳节拍是听频率有细微差别的声音
+There are a few binaural beats are listening to frequencies of sound that slightly differ.
+两只耳朵偏置
+offset for the two ears.
+研究表明 它可以改变大脑的特定状态 你会注意到今天
+It has been shown can shift the brain in particular states you'll notice today.
+我并没有真正谈论Alpha Theta
+I didn't really talk about Alpha Theta,
+或伽玛节奏
+or Gamma rhythms.
+我自己在回顾文献的时候
+I personally in reviewing the literature,
+我并不认为说alpha波对某些东西好
+I don't think it's fair to say that alpha states are great for aix and theta.
+Theta波对另一些方面好
+Estates are great for Y,
+除此之外
+and besides,
+我们大多数人每天在家里 在工作的地方
+most of us are walking around our homes in our workplaces geared up to .
+又不会真的带着脑电图机走来走去
+EEG machines are with wires down below our school,
+所以我们不知道自己什么时候处于各个脑波状态
+so we don't know when we're in those states anyway.
+我认为判断一个人是否清醒的主观判断是他是否冷静
+I think the subjective reading of whether or not one is alert were calm 
+以及这种清醒或冷静是否符合目标
+and whether or not that alertness or calmness matches the goal.
+或者是我们在学习这方面想要达到的目标
+or that thing that we're trying to achieve in terms of learning,
+包括睡眠
+including sleep.
+这些都是我们都能拥有的最有价值的内部工具
+is the most valuable internal tool and recognition that we can all have?
+换句话说
+In other words,
+如果我想保持清醒警觉
+if I want to be very alert,
+我必须非常警觉 如果我已经精疲力竭了
+I need to be very alert and I'm exhausted.
+也许我应该用一些工具来唤醒自己
+There might be tools that I should use to wake up.
+这也可能说明了一个事实 那就是我们前一天晚上可能没有睡好
+It might also speak to the fact that we might not have slept as well as I could ever shoot of the night before.
+所以这实际上是关于我们在自主觉醒量表上的位置
+So it's really about a match between where we are on that autonomic arousal scale 
+和我们想要达到的目标之间是否匹配
+and what we're trying to achieve.
+事实上
+And indeed,
+会有很多工具
+there are going to be a lot of tools,
+包括补品和其他处方药以及其他能帮助我们
+including supplements and other prescription drugs and things that can help move us along.
+在连续的自主觉醒上前进
+their autonomic continuum,
+朝着更加清醒的方向
+up toward more alertness,
+或者更平静的方向
+or toward more calmness.
+最终
+Ultimately,
+这是关于调整警觉和平静的具体类型的学习和活动
+it's about tailoring that alertness and calmness to the specific types of learning and activities  
+你要去做并执行
+that you are going to do and perform.
+这是互惠的
+and it's reciprocal,
+也就是说 像早起锻炼这样的一些活动
+meaning some of those activities like exercise early in the day will 
+会提高你的自主觉醒和警觉性水平
+increase your level of autonomic arousal and alertness.
+某些食物会让你清醒
+Certain foods will tend to wake you up.
+有些食物会让你更加困倦 食物的份量和进食的时间段也是一个因素
+Certain foods will tend to make you more sleepy and the volume of food and the timing of food is a factor.
+同时
+Also,
+整个环境中有很多变量
+so it's a huge parameter space at the huge of variables,
+其中的影响
+the impacts,
+不管我们是否感觉良好  表现良好
+whether or not we're feeling well performing well,
+很好地学习  或者学不好
+learning great or not learning great,
+关键是你要成为你自己身体系统的观察者
+and the key thing is to become an observer of your own system in what works for you,
+并认识到有两种类型的工具  可以优化大脑的学习表现
+and to recognize that there are two bins of tools for optimizing learning in brain performance.
+一种是固定在生物机制中的工具
+One are tools that are really anchored in biological mechanism,
+我们现在可以确定这些内容了
+and we are certain of what those are.
+我已经讲过其中的一些
+And I've talked about some of those,
+另一方面
+the other,
+更主观的工具
+the more subjective tools.
+对你们中的一些人来说
+For some of you.
+有的时候可视化  想象可能对你们有些人非常有用
+A visualization might work terrifically well for some of you.
+比如一首歌能唤醒你 因为它对你有某种意义
+One song might really wake you up because of the associations you have with it,
+对我来说 这可能会选驱使我离开房间的歌  因为我不喜欢它
+and for me I might just you know it might propel me from the room because I don't like it 
+或者它可能会让我睡着
+or it might put me to sleep.
+当然
+But of course,
+音量几乎对所有人都通用
+volume is kind of a universal.
+大声的音乐容易把人吵醒
+Loud music tends to wake people up.
+轻音乐往往不会把他们吵醒
+Soft music doesn't tend to wake them up quite as much.
+所以今天的部分内容是让你们以科学的方式
+So part of today is really getting you to think about in a scientific way 
+以结构化的方式  来思考这些固定的因素
+in a structured way about the non negotiable elements,
+也就是每24小时就会有更清醒的一段时间
+which are that you're going to have a period of every twenty four hour cycle when you tend to be more awake  
+一段更沉睡的时间
+and a period when you tend to be more asleep 
+如何去平衡这些  这样你就不用在你非常困的时候  艰难地起床
+and how to leverage those who are not fighting an uphill battle to wake up when you're actually I would want
+也不用在你自然最清醒的时候才去睡觉
+to be and should be sleepy and not trying to go to sleep when you are naturally going to be most awake,
+所以很多都是围绕着那些生物的核心机制
+so a lot of it is really anchors back to those core mechanisms of biology 
+然后你可以开始在食物和补剂的不同方法上分层
+and then you start layering on the different protocols of food and supplementation,
+我认为重要的是要认识到  有些人天生更喜欢
+And I think it's important to recognize that some people are just more go,
+做事情
+go go,
+动力十足
+go go and no go.
+而有些人则更平静
+And some people are just calmer and have a harder time.
+想要再一项活动中投入行动更加艰难  这是我们与生俱来的
+Getting into action in an activity is just the way that we're wired.
+有些人的自主神经系统更倾向于副交感神经的平静状态
+Some of us have autonomic nervous systems that are more geared towards parasympathetic calm states.
+而我喜欢斗牛犬的原因
+When the reasons I love bulldogs,
+不仅仅是我的斗牛犬 它们是非常冷静的动物
+not just my bulldog is that they are very calm animals.
+事实上
+In fact,
+除非有什么需要回应 否则它们不会自发地做出动作
+they make no spontaneous movements unless there's something to respond to.
+一种令人难以置信的放松状态
+and I find that incredibly relaxing.
+其他动物如比特犬
+Other animals like pit bulls,
+我也很喜欢  因为它们总是摇尾巴
+who I also really like and enjoy in other species their tails always wagging,
+在任何时候  都有一个可以移动到下一个位置  活力十足
+and that there are always in a position to make a movement at any any second.
+因为它们倾向于在非常高的自主觉醒水平上
+because they tend to ride at pretty high levels of autonomic arousal.
+当你说要去散步的时候 它们很快就跑过来
+They pop up really quickly when you say it's time to go for a walk.
+科斯特洛就一步一步
+Castella does at one limb.
+慢悠悠地挪过来 有时都不管你  直接回去睡觉   所以人也是会这样
+A time and sometimes you just goes back to sleep and so that there are people like that too,
+所以你必须知道你在哪里 你想要追求的目标是什么
+and so you have to know where you are and what particular goals you are trying to pursue.
+作为最后的总结
+As a final closure to this,
+今天我想强调的是
+I want to emphasize that today,
+像往常一样
+as always,
+我一直努力做到准确
+I've strived to be accurate.
+我确信如果我犯了错误
+I'm sure if I made mistakes,
+你们肯定会指出来 我很感激  如果确实说错了  我会发表更正声明
+some of you will pointed out and I appreciate that now post a correction if we agree that I indeed misspoke,
+我确实会说错很多
+were decided something.
+但我并没有讲得很完整
+But by no means was I exhaustive,
+可能对你们一部分人来说已经足够消化了
+a man might have exhausted some of you,
+但信息并不全面
+but the information wasn't exhaustive,
+也就是说 我不可能涵盖
+meaning there's no way that I could cover all the ways in which 
+优化学习和表现的所有方法
+we optimize or can optimize learning and performance.
+我想我们已经谈到了一些我希望你们能从中发现价值
+I think we've touched on a number of them that I hope that you'll find value in 
+并在自己的生活中探索
+and that you'll explore in your own lives.
+我们将继续这个主题 因为这就是这个播客的运作方式
+We are continuing with this theme because that's what we do for this podcast.
+整整一个月  我们都坚持讨论一个主题
+We stand one theme for an entire month.
+下一期
+For the next episode.
+我们将探索神经可塑性的两个非常重要的方面 它们实际上与学习有关
+we're going to explore two very essential aspects of neuro plasticity that actually relate to learning,
+就是痛苦
+which are pain,
+痛苦管理和神经再生
+pain management and neural regeneration.
+对于那些没有受伤或者没有遭受慢性疼痛的人
+And for those of you that don't have injuries or don't suffer from chronic pain,
+这个讨论仍然是非常重要的
+the discussion is still going to be a very important one because 
+因为它不仅仅可以你摆脱的疼痛
+it's not just going to be about pain that you're trying to get rid of it.
+它也将涉及疼痛网络中的某些感官体验如何被放大
+It's also going to be about how certain sensory experiences within the pain network can become amplified,
+以及如何使用自上向下的机制调制
+as well as how we can use top down modulation.
+我们可以用大脑来抑制疼痛反应
+we can use our mind to suppress the pain response.
+我们也会讨论一些
+We're also going to talk about some of the hard,
+这种存在于我们身体的外围的固定的自下而上的机制  来控制疼痛
+wired mechanisms that are bottom up that exist in our periphery in our body to control pain.
+我们还会讨论一些在疼痛系统和学习系统之间
+and we're also going to discuss a number of interesting interactions between the pain system 
+有趣的互动
+and the learning system.
+再说一下
+So again,
+如果你对痛苦本身不感兴趣
+if you're not interested in pain per se,
+为了理解优化大脑 这仍然是一次非常有用的讨论
+it still is going to be a very valid conversation for sake of understanding.
+它与如何优化大脑性能和神经再生与这个讨论密切相关
+How to optimize brain performance and neural regeneration goes hand in hand with that discussion.
+所以我希望你能加入我们
+so I hope you'll join us for that.
+我想我还得提一下  科斯特洛今天打呼的声音特别想
+I suppose I'd be remiss if I didn't mention that Costello has been storing extremely loudly today.
+是的
+Yeah,
+今天早上散步了很久
+a good long walk this morning,
+沿着车道一直走下去  在走上来
+which means up the driveway down the driveway.
+他是个老家伙了
+He's an old dog,
+所以如果你一直在注意这个背景音 又让你分心了
+so if you've been hearing him in the background and it's been distracting now,
+那你现在应该知道为什么了  这可能与你的自主觉醒水平有关
+you know why it probably relates to where you were on your level of autonomic arousal.
+我把这个问题留给你们自己来回答
+And I'll leave it to you to answer that question for yourself.
+你们中的许多人会继续礼貌地问如何支持播客
+Many of you continue to graciously ask how you can help support the podcast,
+我们非常感谢这个问题
+and we really appreciate the question.
+最好的办法是在平台上订阅
+The best way is to subscribe wherever it is.
+你正好在听或者在看的那个平台
+you happen to be listening or watching.
+如果你用Youtube 请订阅Youtube频道
+So for those of you that its Youtube please subscribe to the Youtube channel,
+如果用苹果播客
+that's Apple,
+也可以订阅播客或订阅Spotify
+subscribed to the podcast on Apple or its modify subscribe.
+它们可能你都订阅了
+They're maybe you subscribed to all three.
+如果你对我们未来的播客或话题有意见和反馈
+If you have comments and feedback for US suggestions for future podcast episodes or topics to cover.
+请把这些放在Youtube的评论区
+Please place those in the comment section on Youtube.
+苹果也提供了一个可以留言的地方 你可以给我们打分的时候留言
+Apple also provides a section where you can give us a rating.
+如果你能给我们五星 我们会很高兴的
+We would love it if you give us a five star rating,
+或者按照你自己的想法打多少分都可以
+Or whatever it is that you feel that we deserve,
+一般而言
+and in general,
+如果你能向大家推荐播客
+if you could tell people about the podcast,
+我们希望你能告诉他们   只要你认为这些信息会对他们有用
+we hope that you would tell them because you think the information will be of use to them.
+当然
+Of course,
+告诉你的朋友告诉你的家人
+tell your friends tell your family,
+告诉你的同事 因为随着播客的扩展
+tell your coworkers because as we expand the podcast,
+对播客的支持也会随之增长
+the support for the podcast just grows along with it.
+这是支持我们的好方法
+So that's a terrific way to support us as always,
+还有可以看看我们的赞助商
+check out our sponsors,
+这在一开始就提到过
+which were mentioned at the beginning.
+除此之外
+And in addition to that,
+我们现在建立了一个Patreon账户
+we've now set up a Patreon account.
+有些人特别问如何支持播客
+Some of you asked specifically how you can help support the podcast,
+但对我们的赞助商不感兴趣
+but you weren't interested in our sponsors,
+或者你已经在用我们的赞助商的产品了
+or you were already engaged with our sponsors.
+所以我们有一个Patreon账户
+So we have a patriot on account.
+你可以找到它
+You can find it.
+在patreon.com/andrewhuberman
+At patreon.com/andrewhuberman
+最后
+Finally,
+在今天和以后的节目中
+in previous episodes to day and in future episodes,
+我都会提到补剂
+I mentioned supplements.
+补剂是一种方法
+Supplements are one way,
+但肯定不是唯一的方法
+but certainly not the only way,
+但它们是我们调节神经系统的一种方式
+but they are one way in which we can modulate our nervous system,
+为了更好的睡眠
+forsake a better sleep,
+学习  清醒和其他一些功能
+learning alertness and several other things as well.
+如果你对补剂感兴趣
+If you're interested in supplements,
+我们和Thorne合作
+we've partnered with Thorn T H O R N E.
+因为Thorne的补品在剂量方面有很高的要求
+Because thorn supplements have very high stringency in terms of what's in the bottle.
+每个胶囊或药丸中物质的含量和瓶子上的是严格一致的
+The amounts of the substances that are in each capsule or pill,
+
+他们还和其他组织合作 比如梅奥诊所
+And they have partnered with other groups such as the Mayo Clinic,
+所有主流的运动队
+all the major sports teams.
+所以Thorne非常严谨
+So there's very high rigor associated with thorn,
+所以我们决定和他们合作
+which is why we've decided to partner with them.
+如果你想查一下补剂或者看看我服用的补充剂
+If you'd like to check out or in supplements and see the supplements that I take,
+你可以去thorne/u/huberman
+you can go to thorne/u/huberman
+你们也会看到我服用的一些补品的清单
+and you'll see a list of some of the supplements that I take as well.
+买那里列出的补品
+You'll get twenty percent off.
+还可以打八折
+Any of the supplements listed there,
+thorne网站上的其他产品也可以打八折
+as well as anywhere else on the thorn website,
+所以是thorne/u/huberman
+so that thorne/u/huberman
+20%的优惠
+for twenty per cent off any thorn supplements.
+最后
+Last but not least,
+我代表我和科斯特洛
+on behalf of me and Costello,
+我想感谢大家抽出时间来关注今天的这一期
+I want to thank you for your time and attention to day 
+和往常一样
+and as always,
+谢谢你对科学的兴趣
+thank you for your interest in science.

@@ -1,0 +1,4161 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到HubermanLab播客
+Welcome to the HubermanLab Podcast,
+我们讨论日常生活中的科学和基于科学的工具
+we discuss science and science based tools for everyday life.
+我是Andrew Huberman 是斯坦福医学院神经生物学和眼科的教授
+I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色是分开的
+This podcast is separate from my teaching and research roles at Stanford.
+然而
+It is,
+这是
+however,
+我的愿望和努力的一部分
+part of my desire and effort
+目的是让大众获得  零成本的关于科学和科学相关工具的消费者信息
+to bring zero cost of consumer information about science and science related tools to the general public.
+为了与这个主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一位赞助商是 InsideTracker
+Our first sponsor is inside tracker InsideTracker,
+InsideTracker可以分析你的血液和DNA 给你一个你的健康和生理年龄的准确评估
+analyzes your blood and DNA to give you an accurate assessment of your health and your biological age.
+对于我们的健康 有很多事情只能通过血液和DNA测试来分析
+There are many things about our health that can only be analyzed from blood and DNA tests.
+多年来 我一直在验血
+I'd been getting my blood assessed for many years now,
+大约一年前 我改用了InsideTracker
+and about a year ago I switched to inside tracker.
+我喜欢InsideTracker 的地方在于 你可以得到关于代谢因素的所有信息
+What I like about inside tracker is that you get all this information back about metabolic factors,
+内分泌因素
+endocrine factors,
+
+这对你的健康很重要
+that are really important to your health,
+但不像很多血检
+but unlike a lot of blood test,
+或者你只是把所有的数字都拿回来 然后它就会告诉你数字高不高
+or you just get all the numbers back and it tells you whether or not things are high,
+正常或低  而InsideTracker
+normal or low inside tracker.
+也很有用 很容易使用
+also has this really useful and really easy to use.
+仪表盘会收集你的血液和DNA测试信息 并指出你的特定行为
+Dashboard that takes the information for your blood and DNA tests and points you toward particular behavioral,
+营养和其他类型的方法 你可以用它们来得到你想要的数据 对你的健康
+nutritional and other sorts of protocols that you can use to get the numbers where you want them for your health.
+如果你想试试InsideTracker
+If you'd like to try inside tracker,
+你可以去insidetracker.com/huberman
+you can go to inside tracker dotcom,
+而且他们的任何项目都会再给你打25%的折扣
+and they will give you twenty five per cent off any of their programs again.
+他们的程序可以让你从内部评估你的健康状况这是任何一种不涉及血液和DNA的测试都无法评估的
+Their programs allow you to assess your health from the inside things that you could just never assess from any kind of test that didn't involve blood and DNA.
+它还有一个非常有趣的特点 它可以测量你的内在年龄
+And it also has this really interesting feature that it can measure your inner age,
+这是基于生物学的
+which is based on biology.
+你的实际年龄
+Your chronological age,
+当然
+of course,
+关于你的健康状况和健康指标的信息非常丰富
+is very informative about your health and where you ought to be in terms of health metrics,
+但是人们有所不同
+but people vary.
+我们知道人
+We know people,
+当然
+of course,
+一些90多岁的人都身体很好
+that are in their late nineties were doing well.
+我们知道那些50多岁的人
+We know people that are in their fifties,
+正在奋斗的人 甚至只有二十几岁
+who are struggling or even in their twenties,
+血液和DNA可以用来分析你的健康状况
+so blood and DNA are the way to analyze your health.
+这是我所相信的
+That's my belief.
+这就是为什么要使用InsideTracker
+Thats why use inside tracker,
+所以去 insidetracker.com/huberman
+So go to inside tracker dot com,
+所有产品的25%折扣 并在收银台使用人huberman优惠吗
+slash huberman to get twenty five per cent off any of their products and use huberman at checkout.
+今天节目的第二个赞助商是HelixSleep
+Our second sponsor of today's episode is Helix Sleep,
+HelixSleep使床垫和枕头最适合你的需要 以获得最好的睡眠
+Sleep makes mattresses and pillows that are ideally suited to your needs for the best night sleep possible.
+我改用HelixSleep床垫和枕头 从去年开始
+I switched to using a helix mattress and he looks below this last year.
+我现在睡得比以往任何时候都好  HelixSleep床垫的工作方式
+And I'm sleeping better than I ever have before the way that helix mattresses work,
+它们不同的原因是它们是根据你个人的睡眠方式量身定制的
+and the reason they're different is that they are tailored to your individual sleep style.
+你的睡眠方式可以通过访问他们的网站来评估
+Your sleep style can be assessed by going to their website.
+你做一个简短的两分钟的问卷测试问你一些问题 比如你是平躺着睡觉还是侧着睡
+You take a brief two minute questionnaire quiz asks you questions like Do you sleep on your back or your side,
+趴着睡
+your stomach?
+也许你不知道
+Maybe you don't know,
+或者你在晚上经常翻身
+or maybe you move around a lot during the night.
+它也会问你这样的问题 比如你是倾向于洗热水澡  或者醒来的时候冷不冷
+It also asks you questions such as Do you tend to run hot or wake up cold things of that sort,
+然后
+and then they Taylor,
+生产一张专门为你睡觉用的床垫
+a particular mattress to your sleep needs for me.
+dusk床垫  我喜欢它
+I matched to the socalled dusk at the D U S K Mattress and I love it.
+我现在睡得比以往任何时候都好
+I sleep better than ever and right now.
+如果你想试试螺旋睡眠
+If you want to try helix sleep,
+你可以去helixsleep.com/huberman
+you can go to helixsleep.com/huberman
+如果你这么做了
+and if you do that,
+你可以从订单中减去200美元
+You'll get two hundred dollars off your order,
+外加两个免费枕头
+plus two free pillows.
+他们也有很好的保修期床垫有十年的保修期
+They also have a great warranty they have a ten year warranty on their mattresses.
+如果你不喜欢这个床垫
+If you don't like the mattress for any reason,
+他们会在你家免费拿
+they'll pick it up for free from your home,
+他们只是让整个事情变得很容易  让你去尝试和决定它是否适合你
+and they just make the whole thing really easy to try and determine whether or not it's right for you.
+再一次
+So again,
+helixsleep.com/huberman
+得到200美元的折扣 第一次订购就免费提供枕头
+slash huber men to get two hundred dollars off and to free pillows on your first order.
+有些人问如何支持播客 还有没有其他的方式
+Some of you have asked how you can help support the podcast and yet other ways besides,
+看看我们的赞助商
+just checking out our sponsors.
+我们真的很感谢这个问题  我们在patreon网站设立了一个账号  patreon.com/andrewhuberman
+we really appreciate the question and we've set up a patriot on account at patriotic dotcom slash Andrew Human,
+你可以在不同层次上向播客捐款
+which allows you to donate to the podcast at a variety of different levels.
+我们有
+We have,
+例如
+for instance,
+5-htp是为了向血清素致敬
+the five http which is in honor of serotonin.
+5-htp是血清素的名称 每个月你可以捐出5美元
+each TP is the name for serotonin that it allows you to donate five dollars per month.
+我们有昼夜节律
+We have the circadian,
+你们很多人
+as many of you,
+当然已经知道这是什么
+of course will know,
+是一天24小时 所以如果你愿意 你可以每月捐24美元
+is twenty four hours a day so you can donate twenty four dollars a month if you like,
+您也可以选择任何您想要的值
+You can also pick any value that you want.
+我们甚至还有科斯特洛
+We even have the Costello,
+一个月十美元
+which is ten dollars a month,
+它允许你支持播客
+which allows you to support the podcast.
+向科斯特洛致敬
+In honor of Costello.
+他十岁了 每天要吃十磅的食物
+the fact that he's ten years old that eats ten pounds of food a day,
+他平均每天小睡十次 每次一小时
+and the fact that he takes ten one hour naps per day on average.
+再一次
+So again,
+patreon.com/andrewhuberman
+如果你想支持播客
+slash Andrew Human if you'd like to support the podcast.
+可以去看看
+that way.
+今天的节目主要是关于情感上的科学的
+Today's episode is going to be all about the science of emotions.
+播客的第一个月
+The first month of the podcast,
+我们讨论了睡眠和清醒
+we talked about sleep and wakefulness.
+上个月
+Last month,
+我们讨论了神经可塑性
+we were talking about neural plasticity,
+大脑对经历做出反应的能力
+the brain's ability to change in response to experience.
+这个月我们将讨论这些  我们称之为情感的东西
+And this month we're going to talk about these things that we call emotions 
+我们将破译它们是什么
+we're going to decipher what they are,
+它们是如何工作的
+how they work,
+当我们感觉无法控制情感的时候  如何去控制它们
+how we can control them when we might not want to control them.
+有四期是关于情感的
+There are going to be four episodes on emotions,
+今天我们将特别讨论一种  通常被称为压力的东西
+and today we're going to talk in particular about something that most often is called stress.
+你可能会想
+You might be thinking,
+等等
+wait,
+压力不是一种情绪啊
+Stress isn't an emotion,
+但是真的关键是 压力它决定了我们的内在体验
+but stress really lies at the heart of whether or not our internal experience is matched well or not 
+是否与我们的外在体验  或者发生在我们身上和周围的事件相匹配
+to our external experience or the events that are happening to us and around us,
+你们很快就会理解到
+and as you'll soon see,
+这些汇聚在一起  形成了我们所说的情感
+those converge were combined to create what we call emotions.
+现在我想明确一点 我们将讨论情绪的生物学
+Now I want to be very clear that we're going to talk about the biology of emotions.
+我们会讨论一些与情绪相关的心理学概念
+we're going to talk a little bit about some psychological concepts related to emotion,
+我们肯定会讲到控制我们所谓的压力的工具  或者通常认为的是压力的感觉
+and we are definitely going to talk about tools to control what we call stress or commonly think of his stress.
+我们还将澄清一些关于压力的常见误解
+We're also going to clean up some common myths about stress,
+例如
+for instance,
+这种压力会损害你的免疫系统
+that stress impairs your immune system.
+这在某些情况下是正确的
+That's true in certain contexts,
+但在其他一些情况下
+and in other contexts,
+压力实际上增强了你的免疫系统 使它发挥更好的功能
+stress actually enhances your immune system and makes it function better.
+会有很多关于我们的内心状态的讨论
+There is going to be a lot of discussion about whether or not our internal state,
+不管我们是警觉还是镇静
+whether or not we are alert or calm,
+是好是坏
+is good or bad,
+视情况而定
+depending on the circumstances.
+所以我们现在要讲的是 我希望你们从今天的课中总结出一种
+So where we're headed here is I'd like you to come away from today's episode with 
+我称之为“组织逻辑”的东西
+what I call an organizational logic,
+一个思考这些问题的框架 通常我们称之为快乐 悲伤 抑郁或焦虑
+a framework for thinking about these things that typically we just call happy or sad or depressed or anxious,
+我要确保你们有生理学和神经科学基础的工具
+and I'm going to make sure that you have tools that are grounded in physiology and neuroscience.
+这会让你驾驭这个我们称之为情感的复杂空间
+That will allow you to navigate this otherwise complex space that we call emotions 
+当你感觉生活很沉重 或你被生活之流牵引时
+that will allow you to ground yourself better when you're feeling like life is weighing on you 
+这会让你更好地控制自己
+or your kind of being pulled by the currents of life,
+同时也支持你身边的人
+as well as to support other people,
+不管是心理学实践
+whether or not that's in a psychological practice
+如果你是一名从业人员  或者你有客户 有孩子或者配偶  为了能够更好地支持你周围的其他人
+If you're a practitioner or you have clients or children or spouses really to be able to support other people in 
+我今天要讲的方法  包括行为方法
+your environment better and the tools that I'm going to focus on today ranged from behavioral tools.
+我们会讲到一些更有价值的补充方法
+We will talk about some of the more valuable supplementation tools that are out there.
+我们会谈论一些像抑郁症
+and we're going to talk a little bit about things like depression,
+创伤后应激障碍
+PTSD.
+之后我们会用一整集来讲述抑郁症
+But we will be devoting an entire episodes to things like depression,
+创伤后应激障碍 甚至注意力缺陷和强迫症
+PTSD and even attention deficit and obsessive compulsive disorder,
+真的
+which believe it or not.
+虽然这并不奇怪 你们中的很多人都有很强的情感成分
+although this might not surprise many of you have a very strong emotional component is just
+不仅仅是强迫的行为和侵入性想法
+not just about compulsive behaviors and intrusive thoughts,
+这也与处于那种状态的情感负担有关
+it's also about the emotional load of being in that state.
+所以我保证今天我们会消除很多误解
+So I promised that today we're going to clean up a lot of misunderstanding.
+我们会给你们很多工具 你们会学到很多关于你的身体和大脑
+We're going to give you a lot of tools and you're going to learn a lot about the biology of 
+如何一起工作的生物学知识
+how your body and brain work together,
+因为如果一般一个话题涉及到大脑和身体  或者精神和身体的关系
+because if ever there was a topic that brought together the brain and body or mind body relationship,
+那就是压力和情绪
+it's stress and emotions.
+当我们感觉到什么的时候 这也是一种积极的情绪
+It's also the positive emotions when we feel something,
+不管我们是不是超级快乐 还是只是感觉有点愉快
+whether or not we're super happy or just feeling kind of pleasant,
+或者我们感到有压力
+or we are feeling stressed,
+焦虑和不知所措
+anxious and overwhelmed.
+它不仅存在于我们的大脑中
+It isn't just in our head,
+它也在我们的身体里
+it's also in our body.
+你们可能还记得
+and as you may recall,
+神经系统包括大脑 眼睛和脊髓
+the nervous system which includes the brain and the eyes and the spinal cord.
+还有所有与身体器官的连接
+But also all the connections with the organs of the body,
+包括大脑和身体
+including the brain and body,
+以及身体的器官
+and those organs of the body.
+内脏 肝脏和脾脏
+Gut and your liver and your spleen.
+它们也与大脑交流
+They are also communicating with the brain,
+所以我期待着有一天
+so I look forward to a day.
+事实上
+In fact,
+我们不再将神经科学局限于大脑
+when we no longer think about neuroscience,
+许多神经科学家现在也开始思考身体
+as just the brain and many neuroscientists now also think about the body,
+当然
+of course,
+大脑控制着身体
+and the brain controls the body.
+但身体也对大脑有非常深刻和具体的影响
+But the body is also having a very profound and concrete influence on the brain.
+我认为
+I think.
+直到最近
+Up until recently,
+人们会听说带着身体  总是保持正念
+people would hear about kind of bringing body and always think about mindfulness.
+我们今天不会讲太多关于正念的内容
+We're actually not going to talk that much about mindfulness at all today.
+正念是一个模糊的概念
+Mindfulness is kind of a vague concept.
+事实上
+In fact,
+当你思考正念的时候
+when you think about mindfulness,
+反过来想也不错
+it's good to take the opposite.
+正念的对立面是没有思维
+What's the opposite of mindfulness would be mindlessness.
+
+突然之间
+all of a sudden.
+我们进入了一个人很难描述的领域
+we're into territory that isn't really easy for one person to describe.
+他们的经验是用自己的经验去帮助别人
+their experience were to help others with their experience.
+今天
+Today,
+我们将讨论匹配的大脑身体经验的客观工具
+we're going to talk about objective tools that match the brain body experience 
+或单独的身体经验的方式 利用精益的能力确实到生活得更好 感觉更好
+or separate the brain body experience in ways that leverage your ability to lean into life better to feel better 
+在正在经历事情中  感觉更好
+literally to just feel better about what you're experiencing and believe it or not to be able  
+控制自己的情绪 量力而行
+to control your emotions when that's appropriate.
+这并不是说要变得跟个机器人一样
+This isn't about becoming robotic.
+这不是为了不表现出人类的感觉
+This isn't about trying not to feel human.
+这实际上是关于能够更好地融入生活
+This is actually about being able to lean into life better 
+因为你能够控制你的一些内在状态
+as a consequence of being able to control some of your inner real estate.
+包括大脑和身体的神经系统
+this nervous system that includes the brain and body 
+以及神经系统是如何与外界互动的
+and how that nervous system is interacting with the outside world.
+为了让你拥有更大的能力
+So as to place you in a greater position of power,
+让我们开始解读什么是压力
+and so let's get started in deciphering what is stress,
+情绪是什么
+what are emotions,
+为什么我今天要把压力和情绪集中在一起讨论
+and why did I batch stress and emotions into one discussion today?
+恩
+Ok.
+什么是压力呢
+So what is stress?
+我们总是听到压力是不好的
+We hear all the time that stress is bad,
+我们听到别人说  他们真的压力很大
+We hear people saying they're really stressed out.
+压力是什么
+What is stress?
+你们大概都听过这种观点或框架  压力是进化的产物
+You've all presumably heard the arguments or the framework that stresses this 
+在可怕的远古时代 人类被动物或其他食肉动物捕猎
+horrible ancient carry over from times in which humans were pursued by animals or other human predators.
+当我们感到压力或感到压力过大时
+And that whenever we feel what we call stress or feel stressed out,
+这只是一种情绪入侵  是我们在现代生活中不再需要的东西
+that it's just this unfortunate invasion of something that we no longer need in modern life that 
+这是为我们被熊 老虎 狮子或其他什么攻击而设计的
+this was designed for when we were being attacked by bears or tigers or lions or whatever it is.
+天哪
+and gosh,
+多么不幸的事情 毕竟我们现在有这么多的物质享受
+what an unfortunate thing and we have so many creature comforts nowadays,
+但我们并没有消除这种压力 就好像它是我们身体的一个器官或系统一样
+but we have not eliminated this stress almost as if it was like an organ or a system in our body.
+这对我们来说是件坏事
+That was bad for us that we're stuck with,
+只是因为我们这物种就这样
+just because of the species that we are.
+首先
+First of all,
+所有物种都有压力
+all species experience stress,
+我认为公平地说
+and I think that it's fair to say,
+即使我不是其他的物种
+even though I wasn't there,
+没错
+that yes.
+事实上
+in fact,
+纵观我们的进化史
+throughout our evolutionary history,
+我们很容易受到动物袭击和其他经常发生的人类袭击
+we were vulnerable to animal attack and other human attacks on a regular basis,
+直到我们开始开发武器 建筑 火力和其他东西
+up until the point where we started developing weapons and structures and fire and other things 
+这些东西能让我们更好地保护自己免受动物和各种入侵者的伤害
+that allow us to protect ourselves better from those animals and invaders of various kinds.
+但如果我们认为
+But it is entirely naive for us to think that,
+在古代
+in ancient times.
+这里 古代泛指好久之前  包括中世纪之前
+Ancient times being kind of loose term for previous on medieval times.
+一百年前
+One hundred years ago,
+一千年前
+a thousand years ago,
+一万年前
+ten thousand years ago,
+当然
+of course,
+古代也有不忠
+there were infidelities.
+伴侣出轨  也有亲人死去
+partner's cheated people died.
+事实上
+In fact,
+在手机出现之前
+before the advent of phones,
+这就是我们今天要讲的
+which we're going to talk about today.
+你可以想象  可能会有人去打猎
+You can imagine that someone might head off on a hunt where to go,
+去拜访亲戚 然后再也不回来
+visit a relative and never come back,
+你永远也不会知道为什么  这会让你很有压力
+and you would never know why that would be very stressful.
+有心理社会压力  有失去亲人的压力
+So there were psychosocial stress there was the stress of losing loved ones.
+有寒冷和饥荒的压力
+There was the stress of cold of famine.
+还有一种压力可能就是担心
+There was the stress probably also have just worry this idea that you know 
+一千年前人类的古代版“担心”
+ancient versions of the of humans a thousand years ago,
+一百年前
+one hundred years ago,
+他们也会担心
+didnt worry.
+我认为这与我们所知的100或1000年前人类大脑结构
+I think that that is entirely inconsistent with everything we know about the structure of the human brain
+完全不一致
+a hundred years a thousand years ago,
+所以所有的问题都是永远存在的
+so all the problems that were struggling with existed for ever.
+压力的核心是一个广义系统
+It's just that stress at its core is a generalized system.
+它不是为了什么 攻击我们的老虎
+It wasn't designed for Tiger Tiger.
+或者别人攻击我们而设计
+is attacking us or people attacking us.
+这是一个调动大脑和身体其他系统的系统
+It's a system to mobilize other systems in the brain and body.
+这就是所谓的压力 因为它被设计成全身通用的
+That's what stress really as it's designed to be generic.
+今天我想让你们理解的最重要的一点就是
+And that's the most important thing that I'd like you to understand today is that 
+控制我们所说的压力的系统是通用的
+the system that governs what we call stress is generic.
+它不是为某一件事而设计的
+It wasn't designed for one thing.
+这给了它控制我们大脑和身体状态的某种优势
+And that gives it a certain advantage in taking over the state of our brain and body,
+但它也给了我们控制它的优势 因为它是基于
+but it also gives you all of us an advantage in controlling it because it's based on hard,
+本能固定的生物机制
+wired biological mechanisms,
+有很多
+and there are hard,
+本能固定的生物机制
+wired biological mechanisms,
+这意味着你体内存在的细胞 化学物质 通路和组织
+meaning cells and chemicals and pathways and tissues that exists in you right now that require 
+不需要神经可塑性来抑制压力
+no neural plasticity that allow you to put a brake on stress.
+我们会讲到这些   所以你有一个应对压力的系统
+and so we're going to talk about those so you have a system for stress and 
+你也有一个应对痛苦的系统
+you have a system for distress that are baked into you.
+它们是刻在基因里的 你生来就有
+They were genetically encoded and you were born with them,
+你现在还留着它们
+and you still have them now.
+所以如果你还活着 还在听着
+So if you're alive and listening,
+你有能力控制你的压力
+you have the capacity to control your stress.
+今天我要讲的是控制压力的方法
+And today I'm going to talk about ways that you can control your stress,
+不仅仅是在呼吸中做一些冥想练习
+not just by doing some offline practice of meditation in a breath,
+之类的
+work or something like that,
+而是即时方法
+but real time tools,
+这些方法可以让你在压力袭来时  计时将其击退
+tools that allow you to push back on stress when stress hits in real time and 
+这是我的实验室积极进行的工作 正在开发和测试这些方法工具
+this is something that my lab works actively on in developing and testing these tools.
+发展这些工具
+In evolving these tools,
+还有其他实验室也在做这个
+And there are other laboratories that do this as well.
+我们来谈谈应激反应
+So let's talk about the stress response,
+这样你们就会明白
+and by doing that you will understand exactly
+ 为什么我要给你们的这些工具   你们可能会想
+why the tools I'm going to give you work for those of you that are saying,
+等等
+wait,
+我只想要工具
+I just want the tools.
+给我一个总结就行  别多说了
+Just give me a summary.
+相信我
+Trust me,
+如果你理解了原理
+if you understand mechanism,
+你将处于一个更好的位置去整合这些工具  去教别人使用这些工具
+you are going to be in a far better position to incorporate these tools to teach these tools to others 
+并随着你生活环境的改变来修改它们
+and to modify them as your life's circumstances change if you'd like to cheat sheet 
+但如果你想要一份工具备忘录  你最终只需要一页PDF
+where you just want the one page PDF eventually,
+我们会把这些东西发给大家
+we'll get that stuff out to people,
+但是理解其内在机制真的很重要
+but it's really important to understand the underlying mechanism.
+好吧
+OK,
+那么什么是压力呢
+So what is stress?
+
+我们来区分一下压力源
+let's just distinguish between stress source,
+这些事情会让我们感到压力
+which are the things that stress us out and stress,
+这是对压力源的心理和生理反应
+which is the psychological and physiological response to stressors.
+我主要讲一下压力
+I'm mainly going to talk about stress,
+就是你对事物的反应
+which is your response to things.
+让我们把我们已经知道的弄清楚
+Let's be clear about what we already know,
+那就是
+which is that.
+压力源可以是心理上的
+Stressors can be psychological.
+也可以生理上的 如果我在寒冷的天气里把你放在外面很长一段时间不穿夹克
+Or they can be physical if I put you outside on a cold day without a jacket for a very long time.
+这是压力
+that is stressful.
+如果我让你们一次准备太多的考试
+If I have you prepare for too many exams at once,
+而且你根本无法平衡你的睡眠时间表以及舒适和健康的其他需求 比如食物
+and you can't balance at all with your sleep schedule and your other needs for comfort and well being like food.
+休息  睡眠  同时社会交流也是有压力的
+Rest sleep in social connection that is stressful.
+压力 正如我之前提到的
+So stress and as I mentioned before,
+是通用的
+is generic,
+它不区分
+it doesn't distinguish between.
+身体和情绪上的压力
+Physical and emotional stress.
+所以当应激反应产生时  到底发生了什么
+So what happens when the stress response is,
+我们来谈谈即时应激反应 或者我们所说的急性应激反应
+let's talk about the immediate or what we call the acute stress response.
+我们也可以认为这是一种短期的压力
+We could also think of this as a short term stress,
+你有一个神经元的集合
+so you have a collection of neurons.
+它们有名字
+They have a name,
+它被称为交感神经链神经节
+It's called the sympathetic chain ganglia,
+这和同情没有任何关系
+and it has nothing to do with sympathy.
+交感 就是  有一组神经元就在
+sympa means together and there is a group of neurons that start right about it,
+从你的脖子开始  到肚脐下面一点
+your neck and run down to about your navel,
+终止
+a little bit lower,
+这些被称为交感神经链神经节
+and those are called the sympathetic chain ganglia.
+你不需要记住那个名字
+You don't need to memorize that name.
+这里没有课堂小测验
+There will not be a quiz,
+但重要的是要知道 在你身体的中央有一组神经元
+but it's important to know that in the middle of your body you have a chain of neurons that 
+当我们感到压力时
+when something stresses us out,
+要么是在我们的脑海里 要么是因为有东西进入了我们的环境
+either in our mind or because something enters our environment,
+我们看到一些让我们紧张的东西   比如我不喜欢高
+and we see something that stresses us out that we don't like heights.
+如果你恐高
+If you're afraid of heights,
+或者你不喜欢的人走进房间
+somebody you dislike walks into the room,
+
+神经元链被激活 就像一堆错掉的多米诺骨牌
+That chain of neurons becomes activated like a bunch of dominoes falling wrong.
+一次性推倒
+all at once.
+非常快
+It's very fast.
+当这种情况发生时
+When that happens,
+这些神经元会释放一种神经调制剂神经化学物质
+those neurons release a neuromodulator neurochemical that 
+我之前在播客中提到过  它叫乙酰胆碱
+I've talked about before in this podcast called acetylcholine.
+它们在身体的不同部位释放这种物质
+They release that at various sites within the body.
+这很重要 因为通常
+This is important because normally,
+乙酰胆碱可以用来运动肌肉
+acetylcholine would be used to move muscles actually,
+每次我们移动一块肌肉
+every time we move a muscle,
+拿起一杯咖啡
+pick up a cup of coffee,
+用钢笔写字
+write with a pen,
+沿着街道走
+walked down the street.
+脊髓神经元
+It's spinal neurons,
+连接到肌肉 都会释放乙酰胆碱
+connecting to muscle and releasing acetylcholine,
+所以当大脑集中注意力时  它就会让肌肉抽搐
+so when the brain gets involved in focus and it muscles is involved in making muscles twitch.
+但如果我们有压力呢
+But what if we were stressed?
+我们不希望所有的肌肉同时收缩
+We wouldn't want all our muscles to contract at once,
+因为这样我们就会有点瘫痪
+because we would just be kind of like paralyzed,
+就像这种强直性激活
+like this tonic activation,
+正如它的名字
+as it's called.
+我们可不想要那种叫破伤风的东西
+We wouldn't want that something called tetanus.
+真的
+Believe it or not,
+因为破伤风毒素会引起全身的那种僵硬
+because the tetanus toxin will cause that kind of rigour of the above the entire body.
+你不会想要那样的
+You do not want that.
+当这些神经元被激活时
+When those neurons are activated,
+乙酰胆碱被释放
+acetylcholine is released.
+还有其他一些神经元
+but there are some other neurons for the aficionados out there.
+它们被称为节后神经元
+they are called the Post Ganglionic Neuron.
+对乙酰胆碱产生反应
+Those ones responded out acetylcholine.
+然后它们释放肾上腺素(脑部)
+And then they release epinephrine,
+相当于肾上腺素(腺体)
+which is the equivalent to adrenaline.
+所以我们的系统  非常快的
+So we have this system wears very fast.
+每当我们感到压力时 我们身体的核心部分
+Whenever we're stressed the core of our body,
+这些位于我们身体中部的神经元
+these neurons down the middle of our body,
+释放这些化学物质
+release these chemicals,
+还有肾上腺素
+and then there's adrenaline.
+或者肾上腺素释放到特定的器官并以特定的方式发挥作用
+Or epinephrine released a particular organs and acts in particular ways.
+我们要开始讲很多干货和专业术语了
+We're going down into the weeds here.
+所以听好了 因为这对大家都很有用
+So just stay with me because it's going to make a lot of sense.
+你会很高兴掌握这些知识的  肾上腺素有两种不同的作用方式
+And you will appreciate having this knowledge in hand that epinephrine acts in two different ways.
+就好像腿部和心脏的肌肉
+Some things like the muscles of your legs and your heart,
+当你有压力的时候 还有其他需要活跃起来的东西/激素
+and other things that need to be active when you're stressed.
+它们有一种特定的受体
+They have a certain kind of receptor,
+它被称为Beta受体
+which is called the beta receptor,
+Beta受体会做出反应 血管扩张
+and that beta receptors respond step in effort and blood vessels dilate,
+血管变得更大 血液涌进我们的腿
+they get bigger and blood rushes in to our legs.
+心跳加速
+The heart rate speeds up.
+很多组织都会被激活
+Lots of things happen that get activated,
+与此同时 肾上腺素会激活某些组织上我们不需要的其他受体
+and at the same time that epinephrine activates other receptors on certain tissues that we don't need 
+这些参与消化的受体
+the ones involved in digestion,
+参与繁殖之类的受体
+reproduction and things of that sort,
+当你这个人状态好的时候 这些都是高级需求
+that are luxuries for when things are going well,
+不是当我们有压力时需要去关注的事情
+not things to pay attention to when we're stressed,
+肾上腺素与其他受体结合 收缩血管
+and that binds to other receptors that contract the blood vessels.
+基本上就是应激反应
+So basically the stress response.
+这是关键的词 应激反应
+This is the key phrase here the stress response,
+首先 它是通用的
+A is generic.
+我之前说过 其次
+I said that before and B.
+应激反应基本上就是推动某些系统被激活  而让另一些系统不被激活
+basically pushes certain systems to be activated in other systems to not be activated,
+所以应激反应是两个方向的
+so the stress response is two pronged it.
+一个方向是  对某些事情的肯定
+It's a yes for certain things,
+还有一个是否定
+and it's a no.
+对你不需要的事情的否定
+You may not right now for other things,
+这是理解应激反应的关键
+so that's the key thing to understand about the stress response.
+这就是你的心脏加速的原因
+That's why your heart speeds up.
+这就是为什么你会在身体的某些器官和组织中感觉到血液的激增
+That's why you feel blood in certain organs and tissues of your body,
+而非其他地方
+but not in others.
+这就是为什么你的喉咙会变干 因为事实证明 当你感到压力时
+That's why your throat goes dry because it turns out that when you get stressed,
+唾液腺被关闭了
+the salivary glands are shut down.
+流向控制唾液分泌的神经元的血液减少了很多
+There's a lot less blood flow to the neurons that control salivation,
+当你开始吞咽的时候  你会觉得喉咙越来越干
+and so you're going to start swallowing you feel like your throat is getting dry.
+还有很多不同的影响
+There are a lot of different effects.
+我不会把它们都列出来
+I'm not going to list them all off,
+但它激活这些之后  是能够支撑你移动的
+but basically you are activated in ways that support you moving.
+所以这是第三个要点
+That's the third thing.
+首先
+It's first of all,
+这是通用的
+it's generic.
+第二
+second,
+在所有应激反应中
+of all the stress response,
+它会激活某些东西 也会关闭我们身体的其他功能
+activate certain things and shuts down other features of our body.
+第三  这是一种激动的感觉 让你想要移动
+and then it's a sense of agitation that makes you want to move.
+这是因为从根本上说
+And that's because fundamentally,
+应激反应是一种通用的反应
+The stress response is just this generic thing that says,
+在这种情况下 做某事和行动  可以看做是行动方面的偏见
+do something and movement in this case can either be the bias to move in terms of action,
+也可能是偏见导致的
+or it can be the bias to say something.
+当我们有压力时
+When we are stressed,
+我们更有可能说一些我们不应该说的话  我们更有可能移动
+we are more likely to say something that probably we shouldn't say we are more likely to move,
+如果你想抑制运动
+and if you're trying to suppress movement,
+你会感到一阵震颤
+you'll feel that as a tremor,
+你会感到焦躁不安
+you're going to feel agitated,
+那是因为它就是为了移动身体而设计的
+and that's because it was designed to move you.
+这很重要 因为如果你想控制压力
+So this is important because if you want to control stress,
+你得学会如何应对这种情绪
+you need to learn how to work with that agitation.
+现在我想给大家一个工具 因为感觉如果再讲更多的科学原理
+I'd like to give you a tool at this point because I think if we go any further with a lot more science,
+你们可能会开始怀疑这是否是一场
+people are going to begin to wonder if this is just going to be a kind of 
+关于应激反应的标准大学讲座
+standard university lecture about the stress response.
+我会给你们更多关于应激反应的信号
+I'm going to give you more signs about the stress response,
+但是我想用我们已经知道的  关于应激反应的知识  并以此作为一个框架
+but I want to take what we now already know about the stress response and use that as a framework 
+来思考如何实时快速地减少  甚至消除应激反应
+for thinking about how one might reduce or even eliminate the stress response quickly in real time.
+如果它在我们不想要的时候出现
+should it arise when we dont want it,
+所以我们在讲台上  或者我们坐下来开启zoom会议
+so we're taking the podium or we're sitting down at a zoom call,
+突然之间
+and all of a sudden,
+我们会感到脸红
+we're feeling flushed.
+我们会感觉到心跳加速
+We're feeling like your heart is racing,
+我们变得有点警觉
+we're feeling a little to alert,
+感觉有点激动 但我们想冷静下来
+We're feeling a little worked up and we want to calm down.
+据我所知
+As far as I am aware of.
+快速减轻压力的最佳工具
+The best tools to reduce stress quickly,
+所谓的实时工具就是
+so called a real time tools are going to be tools that have a direct line
+与自主神经系统有直接联系的工具
+to the socalled autonomic nervous system.
+自主神经系统是对身体中警觉性或镇静这种一般特征的概括
+the autonomic nervous system is a name given to the kind of general features of alertness or calmness in the body.
+它通常意味着自动反射
+It's typically it means automatic.
+不过我们还是有控制权的
+Although we do have some control over it.
+也就是所谓的  离开点或进入点
+What socalled leavers or entry points.
+下面我来说  对控制压力不会产生效果的行为
+Here's what doesn't work to control stress.
+告诉自己冷静下来
+Telling yourself to calm down.
+事实上
+In fact,
+这只会加剧压力
+that tends to just exacerbates stress.
+让别人冷静下来  也会加剧他们的压力
+Telling someone else to come down also tend to exacerbate their stress.
+如果你想减少应激反应的程度
+If you want to reduce the magnitude of the stress response,
+你能做的最好的事情就是  激活身体的另一个系统
+the best thing you can do is activate the other system in the body,
+用来在放松中保持镇静的系统
+which is designed for calming in relaxation.
+这个系统叫做  副交感神经系统
+And that system is called the parasympathetic nervous system.
+因为
+Because,
+正如我之前提到的
+as I mentioned before,
+控制压力的神经元从你的脖子到肚脐
+the neurons that control stress run from about your neck to your navel.
+副交感神经  para的意思是“周围”  存在于一些颅神经
+The parasympathetic neurons para means near exist in they are some of the cranial nerves 
+在脖子和下脑干这边   还有在骨盆区域
+so it's kind of let neck and lower brain stem coming back to the brain and in the neck and in the pelvic area.
+副交感神经系统非常有趣 因为尤其是脑神经
+And the parasympathetic neurons system is really interesting because especially the cranial nerves,
+那些位于脑干和颈部的神经细胞
+the ones that are up in the brain stem and in the neck area,
+它们与你面部的各种特征有直接的联系
+those have a direct line to various features of your face,
+特别是
+in particular,
+控制眼球运动的眼睛
+the eyes that control things like eye movements,
+瞳孔扩张
+pupil dilation,
+诸如此类的事情
+things of that sort,
+还有舌头
+as well as the tongue,
+面部肌肉等等
+the facial muscles,
+
+副交感神经系统
+The parasympathetic nervous system.
+很多人没有意识到  这是我们控制脸部和眼睛的系统
+many people don't realise this is the system by which we control the face and the eyes,
+在某种程度上
+and to some extent,
+我们的气道
+our airway,
+气管
+the trachea.
+这些神经元正是在骨盆区域
+And it's these neurons that reside within the pelvic area.
+骨盆区域内的神经元参与控制生殖器
+Now the neurons within the pelvic area are involved in control of the genitals,
+膀胱和直肠
+the bladder and the rectum.
+这些没有直连
+And those don't have a direct line.
+你没有直接的控制方法
+You don't have a direct way to control.
+这些细胞需要从大脑进入脊髓 然后再进入器官
+Those actually has to go from brain to spinal cord and then out to those organs.
+而副交感神经系统有一定的切入点
+Whereas the parasympathetic nervous system has certain entry points.
+或者我称之为 离开者 的权利 它能让你实时地击退应激反应
+or what I'll call leavers right that will allow you to push back on the stress response in real time 
+减少它 并很快地感到放松
+and diminish it and feel more relaxed really quickly.
+现在我要教你们第一个工具
+So I'm going to teach you the first tool now.
+所以我不会用这些学术知识把你们压垮  然后什么有用的东西和工具都不给你们
+so I don't overwhelm you with all this academic knowledge without giving you something useful and the tool 
+至少在我看来是生理学和神经科学中最快最彻底的基础
+that at least to my knowledge is the fastest and most thoroughly grounded in physiology and neuroscience.
+以一种自我指导的方式冷静下来 这就是所谓的生理叹息
+For calming down in a self directed way is what's called the physiological sigh
+你们中有些人可能听我在之前的播客中讲过这个
+Now some of you might have heard me talk about this on previous podcast,
+但我要解释一下
+but I'm going to explain this.
+在呼吸通常是让我们冷静下来的情况下
+In the context of how respiration in general is used to calm us down and turns out,
+大家一直都在这么做
+you're all doing this all the time,
+但你不是自愿的
+but you are doing it involuntarily,
+当你感到压力时
+and when you stress,
+你往往会忘记 你也可以主动激活这些系统这个事情
+you tend to forget that you can also activate these systems voluntarily.
+这是一套非常强大的技术  是我们从实验室里的科学研究中了解到的
+This is an extremely powerful set of techniques that we know from scientific studies that have been done in my lab.
+还有加州大学洛杉矶分校的Jack Feldman的实验室
+Jack Feldman slab at U CLA and others.
+
+我们的
+Our very,
+对减少即时应激反应非常有用
+very useful for reducing your stress response in real time,
+它们是这样工作的
+and here's how they work these days,
+人们似乎对呼吸很感兴趣
+there seems to be a lot of interest in breath work,
+呼吸
+breath,
+当你坐下或躺下时 你故意用一种特定的方式
+work typically as when you go and you sit down or you lie down and you deliberately breathe in a particular
+ 呼吸几分钟  来改变你的生理状态
+way for a series of minutes in order to shift your physiology access some states,
+它确实有一些我们将要讨论的效用
+and it does have some utility that we're going to talk about.
+但我现在说的不是这个
+That is not what I'm talking about now,
+但我说的生理上的大小
+but I'm talking about when I refer to physiological size is the very real 
+是医学院教科书中  大脑
+medical school textbooks relationship between the brain.
+身体  还有身体中的呼吸器官  三者之间的真实关系
+The body and the body as it relates to the breathing apparatus,
+也就是隔膜 肺和心脏
+meaning the diaphragm and lungs and the heart.
+我们来看看应激反应的特征
+Let's take the hallmark of the stress response.
+心脏开始加速跳动
+The heart starts beating faster.
+血液被输送到身体的大块肌肉上进行运动
+blood is shuttled to the big muscles of the body to move.
+让你远离压力源
+move you away from whatever it is.
+就是让你觉得你需要移动  或说话
+The stressor is are just make you feel like you need to move or talk,
+你的脸变得通红
+your face goes flushed,
+
+心率
+heart rate.
+我们很多人都觉得这是无意识的
+Many of us feel his involuntary,
+只是一些自带功能
+just kind of functions.
+不管我们移动的是快是慢
+Whether or not we're moving fast or moving slow.
+如果你仔细想想
+If you think about it,
+这并不是完全自主的 因为你可以通过跑步加速你的心率
+it's not really purely autonomic because you can speed up your heart rate by running 
+也可以通过减慢跑步的速度来减慢你的心率
+or you can slow it down by slowing down by your run,
+你可以走动或躺下
+you can move to a walk or lie down.
+但这是间接控制
+but that's indirect control.
+然而
+There is,
+有那么
+however,
+一种可以直接控制心率的呼吸方式
+a way in which you can breathe that directly controls your heart rate.
+通过交感神经和副交感神经系统之间的相互作用
+Through the interactions between the sympathetic and the parasympathetic nervous system,
+下面是你吸气时  它的工作原理
+here's how it works when you inhale,
+所以不管是通过鼻子还是通过嘴
+so whether knots through the nose or through the mouth.
+你体内有一块骨骼肌叫做横膈膜
+This skeletal muscle that's inside your body called the diaphragm,
+它向下移动
+it moves down,
+这是因为肺部扩张
+and that's because the lungs expand,
+隔膜向下移动
+the diaphragm moves down.
+你的心脏在这个扩张的空间里会变得大
+Your heart actually gets a little bit bigger in that expanded space.
+有更多的空间给心脏
+There's more space for the heart,
+不是说情感上的心变大了
+so not about your emotional heart getting bigger.
+我说的是 你真正的心脏
+I'm talking about your actual physical heart,
+变大了一点
+getting a little bit bigger.
+体积会因此增长
+The volume growth and as a consequence,
+不管里面有什么血
+whatever blood is in,
+现在  体积更小的物体在更大的物体中移动得更慢
+there is now at a lower volume are moving a little bit more slowly in that larger volume.
+然后在你吸入之前
+Then it was before you inhaled.
+好吧
+OK,
+心脏空间越大 血液流动越慢
+some more space heart gets bigger blood moves more slowly,
+在心脏里有一小群神经元叫做窦房结 它们负责记录血液速度  真的
+and there's a little group of neurons called the Sinoatrial node in the heart that registers its believe or not.
+这些神经元会注意到血液流经心脏的速度
+Those neurons pay attention to the rate of blood flow through the heart 
+并向大脑发送一个信号 表明血液流经心脏的速度变慢了
+and send a signal up to the brain that blood is moving more slowly through the heart.
+然后大脑向心脏发送信号加速心脏跳动
+The brain then sends a signal back to the heart to speed the heart up.
+这意味着
+So what this means is,
+如果你想让你的心跳加快
+if you want your heart to beat faster,
+吸更长的气
+inhale longer.
+吸气要比呼气用力
+Inhale more vigorously than your exhales.
+有很多方法可以做到这一点
+Now there are a variety of ways that one could do that,
+但不管是通过鼻子还是通过嘴巴  都没有关系
+but it doesn't matter if it's through the nose or through the mouth.
+如果你吸气的时间长于呼气的时间
+If your inhales are longer than your exhales,
+你的心脏就会加速  或者如果你的吸气更剧烈 
+you're speeding up your heart if your inhales are more vigorous,
+所以即使你吸气比呼气短
+so even if your inhales are shorter than your exhales,
+也在加速你的心率
+you are speeding up your heart rate.
+现在  反过来也是一样
+Now the opposite is also true.
+如果你想降低心率
+If you want to slow your heart rate down,
+应激反应出现的时候  你会想要降低心率
+so stress response hits you want to slow your heart rate down.
+你要做的是再次利用身体之间的关系
+What you want to do is again capitalize on this relationship between the body that meaning 
+也就是隔膜 心脏和大脑
+the diaphragm and the heart and the brain.
+下面是它的工作原理
+Here's how it works.
+当你呼气时
+When you exhale,
+隔膜向上移动
+the diaphragm moves up,
+这会让心脏变小一点
+which makes the heart a little bit smaller,
+它实际上会变得更紧凑  血液在这个紧凑的空间中流动得更快
+it actually gets a little more compact blood flows more quickly through that compact space 
+就像一个管道变得更小
+sort of like a just a pipe getting smaller.
+窦房结记录到血液流动更快
+The sinoatrial node registers that blood is going more quickly 
+它就向大脑和副交感神经系统发送信号
+sends a signal up to the brain and the parasympathetic nervous system.
+脑干中的一些神经元向心脏发送信号 使心脏减速
+Some neurons in your brainstem send a signal back to the heart to slow the heart down.
+所以如果你想迅速冷静下来
+So if you want to calm down quickly,
+你需要使你的呼气比吸气更长或更有力
+you need to make your exhales longer and or more vigorous than your inhales.
+作为一种控制压力的工具 它之所以如此吸引人  是因为它可以实时工作
+Now the reason this is so attractive as a tool for controlling stress is that it works in real time.
+这并不意味着你必须坐在那里做任何与生活无关的事情
+This doesn't involve a practice that you have to go and sit there and do anything separate from life,
+然后我们来谈谈情感
+and we are going to get to emotion,
+情绪和压力是实时发生的
+Emotions and stress happen in real time.
+虽然呼吸练习之后的感觉很好
+And so while it's wonderful to have a breath,
+或有机会得到按摩或坐桑拿或做任何你做的事情
+work practice or to have the opportunity to get a massage or sit in a sauna or do whatever it is that you do  
+以使你的压力控制在正确的方向上  这种都会让你感觉不错
+in order to set your stress controls in the right direction,
+拥有不需要学习就能实时接触到的工具
+having tools that you can reach to in real time that require no learning.
+我的意思是
+I mean,
+我必须教你
+I had to teach it to you.
+你必须学会这一点
+You had to learn that.
+它不需要任何辅助工具  就能激活这些通路
+But it doesn't require any plus to see to activate these pathways,
+所以如果你感到有压力
+So if you're feeling stressed,
+你仍然需要吸气
+you still need to inhale,
+当然了
+of course,
+你需要拉长你的呼气
+but you need to lengthen your exhales.
+现在有一种工具以一种独特的方式利用了这一点
+Now there's a tool that capitalizes on this in a kind of unique way,
+一个小技巧
+a kind of a twist,
+这就是生理上所说的“叹息”
+which is the physiological sigh.
+生理学上的“叹息”说法是在三十年代被发现的
+the physiological Sai was discovered in the thirties.
+现在加州大学洛杉矶分校杰克·戈德曼的实验室已经在神经生物学和机制的层面上进行了更详细的探索
+It's now been explored at the neurobiological level and mechanistically in far more detail by Jack.
+斯坦福大学的马克·克罗斯尼斯实验室也在探索
+Goldman's lab at UCLA also Mark Crossness Lab at Stanford and 
+生理叹息是人类和动物在任何他们即将入睡的时刻都会做的事情
+the physiological sigh is something that humans and animals do any time they are about to fall asleep.
+你在睡觉的时候也会时不时地这么做 当二氧化碳...
+You also do it throughout sleep from time to time when carbon dioxide,
+我们一会儿会讲到
+which we'll talk about a moment,
+当你的系统 体内中积累了太多的二氧化碳
+builds up too much in your system and the physiological size,
+生理叹息  也是人们哭过之后自然而然会做的事
+something that people naturally start doing when they've been crying,
+当他们哭泣的时候 他们试图呼吸新鲜空气  平静下来
+and they're trying to recover some air or calm down when they've been sobbing,
+或者当他们处于幽闭恐怖环境时  都会试图呼吸新鲜空气
+very hard or when they are in claustrophobic environments.
+然而
+However,
+神奇的是 我们把横膈膜称为骨骼肌
+the amazing thing about this thing that we call the diaphragm the skeletal muscle is that
+ 它是一个内部器官 你可以自主控制
+it's an internal organ that you can control voluntarily,
+不像你的脾脏和心脏
+unlike your spleen or your heart,
+或者你的胰腺
+or your your pancreas,
+你不能够
+where you can't just say,
+哦
+Oh,
+我想让我的胰腺现在分泌更多的胰岛素
+I want to make my pancreas churn out a little more insulin right now.
+我要直接用意念来做
+I'm just going to do that with my mind directly.
+你做不到这个
+You can't do that.
+你可以闻一闻美味的甜甜圈或其他东西
+You could do that by smelling a really good donut or something,
+但你不能直接命令它分泌
+but you can't just do it directly.
+但你可以有意识地移动你的隔膜
+You can move your diaphragm intentionally right,
+你想什么时候做都行
+You can do it anytime you want,
+如果你去想它 它会自己动
+and it'll run in the background if you're not thinking about it.
+这条从大脑到横膈膜的不可思议的通路 通过所谓的横隔膜神经
+So this incredible pathway that goes from brain to diaphragm through what's called the Phrenic nerve
+Phrenic
+横隔膜神经支配了
+the frantic nerve innervates.
+这个隔膜  你自己可以随时控制
+The diaphragm you can control any time you want.
+你可以双倍或三倍地吸气  你可以呼气多于吸气
+You can double up your inhales or triple up your inhales you can exhale more than your inhales,
+不管你想做什么
+whatever you want to do.
+如此不可思议的器官和生理叹息是我们自发做出的
+Such an incredible organ and the physiological sigh is something that we do spontaneously.
+但当你感到压力时
+But when you're feeling stressed,
+你可以做两次吸气
+you can do a double inhale.
+然后长呼气
+Long exhale now.
+我一分钟前告诉过你 如果你吸气比呼气多
+I just told you a minute ago that if you inhale more than you exhale,
+你会让心跳加速
+you're going to speed the heart rate up,
+这会增加更多的压力  让你兴奋
+which would promote more stress and activation.
+现在我让你做一个双吸气
+Now I'm telling you to do a double inhale,
+再呼气  则是为了平静下来
+exhale in order to calm down,
+原因是  双吸气呼气
+and the reason is the double inhale exhale,
+这就是生理叹息
+which is the physiological sigh.
+它利用了这样一个原理 当我们做双吸气时
+It takes advantage of the fact that when we do a double inhale,
+即使是第二次吸气 也只是吸入了一点点空气
+even if the second inhale is sneaking in just a tiny bit more air because it's kind of 
+因为很难连续吸气太深
+hard to get too deep inhales back to back you.
+深吸一口气  然后又有一个小小的吸气
+big deep inhale another little one,
+把气体偷偷放进小肺泡里
+sneaking it in the little sacs in your lungs,
+每一个肺
+every only of the lungs,
+你的肺不只是两个大袋子
+your lungs aren't just two big bags,
+但是你的肺里遍布着数百万个小肺泡
+but you've got millions of little sacs throughout the the lungs that actually 
+使你肺的表面积和网球场一样大
+make the surface area of your lungs as big as a tennis court.
+真是太神奇了
+It's amazing we're just spread out with.
+当我们感到压力或者
+those tend to collapse.
+二氧化碳在我们的血液中积累时
+As we get stressed and carbon.
+它们往往会崩溃
+a carbon dioxide builds up in our bloodstream,
+这也是我们感到焦虑的原因之一
+and that's one of the reasons we feel agitated as well.
+这让我们非常紧张
+so and it makes us very jittery.
+我的意思是
+I mean,
+还有一些二氧化碳的其他影响 我不讲了
+there's some other effects of carbon dioxide I don't want to get into,
+但当你做双吸气 呼气时
+but when you do the double inhale,
+双吸气
+exhale the double inhale,
+让肺部的小肺泡重新充气
+reinflate those little sacs of the lungs,
+然后当你长时间呼气的时候
+and then when you do the long exhale that long,
+可以更有效地汲取你的身体和血液中的二氧化碳
+exhale is now much more effective at reading your body and bloodstream of carbon dioxide,
+让你很快放松下来
+Which relaxes you very quickly.
+我的实验室
+My lab,
+与大卫·斯皮格尔的实验室合作
+in collaboration with David Spiegel Slab David,
+他是斯坦福大学精神病学副主席
+the associate chair of psychiatry at Stanford,
+正在做一项研究
+are doing a study right now,
+探索生理大小和其他有意识的呼吸模式
+exploring how physiological size and other patterns of breathing done deliberately 
+如何调节应激反应和其他与情绪有关的事情
+can modulate the stress response and other things related to emotionality.
+是正在进行的工作
+Those worker ongoing.
+我想先说清楚
+I want to be clear.
+这些研究还没有完成
+those studies aren't done,
+但从我们和杰克·费尔德曼的实验室的研究中可以清楚地看到
+but it's very clear from work in our labs from work and Jack Feldman,
+包括其他人都认为生理叹息是最快的
+his lab and others that the physiological sigh is the fastest.
+固有的
+Hard,
+让我们实时快速地消除身体中的应激反应的方法
+wired way for us to eliminate this stressful response in our body quickly in real time,
+所以我很高兴能给你们这个方法因为我想大多数人都听说过
+and so I'm excited to give you this tool because I think most people have heard that 
+正念冥想很好
+mindfulness of meditation is good.
+运动对我们有好处
+Exercise is good for us.
+我们都需要足够的睡眠
+We all need to be getting enough,
+睡眠
+sleep,
+但生活一直在发生
+But life happens,
+当你发现自己处于一种更清醒 更活跃的状态时
+and when you find yourself in a position where you are more alert 
+你就会想要处于这种状态
+and activated that you would like to be regardless of whether or not 
+而不管压力源是基于人际关系还是经济因素
+the stressor is relationship based or its financial,
+或者身体上的
+or its physical,
+或者类似的东西
+or anything like that,
+你可以从生理的角度来看
+you can look to the physiological side,
+因为它绕过了我们运作方式的一个非常重要的特征
+because it bypasses a very important feature of how we function,
+那就是很难用意念来控制意念
+which is that it's very hard to control the mind with the mind,
+尤其是当我们处于高度激活状态时
+especially when we are in heightened states of activation.
+我们要么非常警觉 要么非常困倦
+We are very alert or very sleepy.
+很难使用所谓的自上而下的意图和感激机制
+It is very hard to use the so called top down mechanisms of intention and gratitude,
+所有这些都是非常强大的工具 当我们不是特别活跃
+and all these things that are really powerful tools when we are not super activated 
+没有压力 或者不是特别疲倦的时候
+and stressed or not super tired.
+但当我们处于非常警觉和压力到非常困倦的范围内时
+But when we are anywhere in the range of very alert and stress to very sleepy 
+生理叹息是一种强大的方式 可以提高我们所谓的自主激活水平
+physiological sighs are a powerful way of bringing our level of socalled autonomic activation,
+也就是说我们的警惕性降低了  不管你现在是不是在银行排队
+which just means our level of alertness down and see whether or not it's in line at the bank.
+有没有带着口罩
+or whether or not you're wearing a mask nowadays,
+或者你是不是
+or you're not whatever you know,
+不管在什么时候
+whatever the conditions may be,
+当你感到压力时
+where your ad and your needs when you're feeling stressed,
+生理叹息只需要做一到三次
+the physiological side done just one to three times.
+也就是两次吸气  呼气
+it would be double Inhale,
+两次吸气  呼气
+exhale double Inhale exhale.
+也许两次就能降低你的压力水平
+Maybe just two times will bring down your level of Stress very,
+非常快
+very fast,
+据我所知
+and as far as I know,
+这是实现目标的最快方式
+it's the fastest way to accomplish that.
+关于生理的叹气或注重呼气的呼吸
+An important note about the physiological sigh or exhale emphasized 
+为了降低应激反应的这种呼吸 我强调一个点
+breathing for lowering the stress response.
+许多人担心他们的心率下降得不够快
+Many people worry that their heart rate does not come down fast enough.
+我想告诉你
+I want to tell you,
+不要让你的心率很快的降低
+do not want your heart rate to reduce very fast.
+实际上有一种叫做血管迷走神经反应的东西  人们会站起来
+There's actually something called the vasovagal response where people will stand up,
+或者他们会在半夜起床去上厕所 然后突然晕倒
+or they'll get up in the middle of the night to use the bathroom and then all of a sudden collapse.
+他们会晕倒
+They'll faint.
+那就是因为心率降低了很多
+That's because the heart rate was reduced to much.
+有些人看到血
+Some people will see blood,
+或者看到一些非常麻烦和有压力的事情
+or they'll see something really troubling and stressful,
+然后他们就会昏倒
+and they'll pass out.
+这是一种过度激活或加速的平静反应
+That's an over activation or an acceleration of the calming response 
+他们没有那么紧张 他们有点跌落压力的悬崖
+they're not so stressed that they kind of fall off the cliff of stress.
+他们感到如此紧张 以至于让自己平静下来的反弹机制变得太高 太快
+They get so stressed that the rebound mechanism for calming themselves down goes too high too fast.
+冷静得太快
+They calm down too fast,
+他们就昏倒了
+and they collapse and faint.
+所以要注意 如果你要使用生理叹息或呼气
+And so be aware that if you're going to use the physiological sigh or exhale,
+强调呼吸使自己平静下来
+emphasize breathing to calm down,
+你的心率需要20到30秒才能降到基线
+that your heart rate will take about twenty to thirty seconds to come down to base line 
+你可能需要重复几次生理的叹气
+and you may need to repeat the physiological sigh a few times.
+这是关于使用呼吸来控制压力水平的一个重要提示
+so that's an important note about the use of breathing to control levels of stress.
+另一件事是 当你决定依靠身体来控制思想时
+The other thing is that when you decide to look to the body to control the mind,
+当你的大脑和身体处于压力时 它还会做一些非常强大的事情
+it does something else that's very powerful when you are stressed in your mind and body,
+打个比方  你现在非常激动
+so you're feeling really agitated,
+被刺激到了
+activated,
+你会使用生理叹气或者呼气的方法
+and worried and you use a tool like the physiological sigh or exhale.
+强调自己的呼吸
+Emphasize breathing.
+你会注意到你的大脑在控制应激反应
+You will notice that then your brain in your mind becomes more available for controlling the stress response 
+和做出反应时变得更容易
+and reacting to it,
+这很好 因为生活中最好的状态  就是在你不想睡觉的时候  保持警觉和冷静
+which is great because the sweet spot in life is to be provided you're not trying to sleep is to be alert and calm,
+所以我们的想法就是要保持警觉和普通  让你回到那种警觉的状态
+and so that's the idea is to be alert and common to bring you back into that sort of plane of alertness.
+对于那些白天无法入睡或只是放松的人
+For those of you that have trouble sleeping or just relaxing through the day,
+可能是重复的10-15个周期
+the physiological cycle can be repeated for ten fifteen cycles.
+如果你想
+If you like,
+有些人发现  这实际上会让他们入睡
+Some people find that it actually puts them to sleep.
+所以如果他们躺下阅读
+So if they lie down in their reading,
+他们做了太多这样的事情  实际上可以让他们入睡
+and they do too many of these that actually can put them to sleep and 
+你会发现大多数关于呼吸的方法
+what you'll find is that most breath work protocols,
+那些远离现实生活的事情  你会腾出时间来做
+that kind of stuff that's done away from real life that you set aside time in a side.
+“呼吸练习”
+Deuce quote Unquote Breath work,
+大部分都是这样的 如果你的吸入时间更长 下一次呼气更有活力
+most of that works such that if you're in doing inhales that are longer and more vigorous to next sales,
+当你呼气的时间比吸气更长更剧烈时
+it tends to be activating and alert you if you're doing exhales that are longer 
+它会激活并提醒你
+and more vigorous than the inhales,
+它倾向于让你在许多方法中入睡 这些方法在实验室中存在
+it tends to put you to sleep in many of the protocols that are out there from laboratories 
+在互联网和健康网站上很流行
+and that are popular on the Internet and wellness sites and whatnot.
+如果是强调呼气的呼吸方法
+If its exhale emphasize,
+经常被用来作为一种 让人们入睡的方法
+breathing oftentimes has been used as a tool for trying to teach people to fall asleep.
+生理叹气则略有不同
+Physiological sigh a little different.
+它被设计用来实时使用
+It's designed to be used in real time.
+想想看
+Just think of it,
+它就像你的工具包 你可以用在生活中做的任何事情上
+it's just kind of in your kit of things that you can do as life happens,
+当你需要对生活做出反应时
+and as you need to react to life.
+说一个关于鼻口呼吸的注意事项
+a note about nasal versus mouth breathing.
+流传了太多的信息
+There is a plethora of information out there.
+因为詹姆斯·内斯特的书
+Now because of James Nesters book,
+<Breath: The New Science of a Lost Art>
+Breath: The New Science of a Lost Art
+这本去年出版的书  以及<Jaws>
+which came out this last year Excellent book as well as Jaws,
+这是桑德拉·科恩
+which is from Sandra Cohen,
+保罗 埃尔利希
+Paul Ehrlich,
+由贾里德·戴蒙德和罗伯特·托波尔斯基作序
+with a foreword by Jared Diamond and Robert Topolski,
+来自斯坦福的一群人
+a collection of people from Stanford,
+贾里德·戴蒙德不在斯坦福
+Jared Diamond's not at Stanford,
+但剩下的是还有一些书中的重量级人物
+but the rest are and some heavy hitters on that book,
+写的是关于鼻呼吸的好处
+which is about the benefits of of nasal breathing.
+在很多情况下
+And in many cases,
+鼻呼吸比嘴呼吸更有利
+nasal breathing is more advantageous than mouth,
+呼吸各种各样的东西
+breathing for all sorts of things.
+脸部的特征
+Cosmetic features of the face,
+尤其是孩子
+especially in kids,
+防止感染
+warding off infection,
+
+使用生理叹息
+With the physiological sigh.
+最好的办法是
+the best way to do it would be double.
+用鼻子吸两次气
+Inhale through the nose,
+用嘴呼气
+exhale through the mouth.
+但如果你做不到 而且只能通过嘴来做
+But if you can't and you can only do that through your mouth,
+没问题的
+just do it through your mouth.
+如果你想用鼻子做
+If you do want to do all through your nose,
+也没问题
+do it through your nose.
+这个可以追溯到一些潜在的神经学或神经科学原理
+This anchor is back to some underlying neurology or neuroscience.
+所以对于那些想知道呼吸中枢的人
+so for those of you that want to know you have to breathing centers,
+一种是有节奏的吸气呼吸
+one that's involved in rhythmic breathing for inhales,
+其次是呼出
+followed by exhales,
+接下来是吸入
+followed by inhales followed by exhales
+所谓的Pre-Bötzinger
+the so called pre bought singer Nucleus,
+这个名字是由加州大学洛杉矶分校的杰克·费尔德曼发现的
+named after a bottle of wine and discovered by Jack Feldman at UCLA.
+还发现边上一对  称为面旁核
+And a nearby nucleus called the pair of facial Nucleus,
+也是由加州大学洛杉矶分校的杰克·费尔德曼发现的
+also discovered by Jack Feldman at UCLA.
+当你的吸气次数增加一倍或者呼气量增加一倍时 这对面旁核就会参与其中
+And the pair facial nucleus is involved in any time you double up the inhales or double up the sales 
+它的设计是为了让你在说话的时候可以呼吸  因为你不能总是
+it was designed so that you could breathe while you're speaking because you can't always go,
+吸气
+inhale,
+呼气
+exhale,
+吸气
+inhale,
+说话的时候呼气
+exhale when you're speaking.
+我告诉你们这些 不是要用专业知识压倒你们
+I tell you this not to overwhelm you with knowledge,
+但你要知道 当你加倍吸气或加倍呼气时
+but just know that when you double up your inhales or you double up your exhales,
+你激活了这对面旁核  它还有其他很酷的效果
+you are activating this pair of facial nucleus and it has other cool effects 
+因为它位于控制脸部的神经元附近
+because it's located near the neurons that control the face.
+它也有放松下巴的倾向
+It also has a tendency to relax the jaw.
+在你的舌头上控制说话的神经元之间有一些相互作用
+There's some interplay between the neurons that control the speaking stuff in the stuff for your tongue.
+所以突然之间
+So all of a sudden,
+当我们发出这种生理叹息时
+when we do this physiological sigh,
+我们利用能让我们更清晰地说话的神经回路来控制面部和下巴的肌肉
+we tap into neural circuitry that allows us to speak more clearly to control the muscles of the face and jaw.
+也许这意味着当我们感到压力时 不要说某些话
+Maybe that means not saying certain things when we're stressed.
+只是放松一下
+And just generally to relax.
+这就把我们带回了副交感神经系统的神经科学
+And so this brings us back to the neuroscience of this parasympathetic nervous system.
+这种平静系统是被基因编码到我们身上的
+This calming system that's been genetically encoded into us that we all have,
+跟你父母怎么样没什么关系
+regardless of who your parents are,
+也就是那些控制眼睛的神经元
+which is that the neurons that control all this stuff that face the eyes,
+
+都在一起工作
+are all working together.
+这就是为什么当我们感到压力时
+And that's why when we get stressed,
+我们很难开口说话
+it's hard for us to speak,
+或者我们在一些事情上倾向于不安
+or we tend to jitter in these kinds of things,
+就像所有在脊髓中心引起压力的神经元一起工作
+just like all the neurons that cause stress in the center of the spinal cord are working together 
+使我们的身体被激活 被刺激
+to get our body activated.
+好吧
+Ok,
+很多科学知识
+a lot of science.
+今天 生理叹息就成了你的工具
+today you've now got the physiological sigh as a tool.
+您知道强调呼气的呼吸  会使您的心跳减慢
+You know that exhale emphasized breathing will slow your heart down and inhale.
+强调吸气呼吸会让你的心跳加速
+emphasize breathing will speed your heart up.
+我们来想想
+So let's think about something.
+
+让我们想想压力 无论是急性的还是慢性的
+let's think about stress from not whether or not it's acute or chronic,
+不管这对我们是好是坏
+whether or not it's good for us or bad for us,
+但这都是在三个不同的时间尺度下
+but on three different time scales,
+因为这样我们就能知道这一切是关于情感的
+because then we can arrive at what this is all about as it relates to emotions,
+因为  相信我
+because trust me,
+这和情绪有很大关系
+this has everything to do with emotions.
+不管你的情绪运作是否正常
+And whether or not your functioning well emotionally or you're not functioning well emotionally,
+不管你是否在应对
+whether or not you're coping or not coping.
+这些都是典型的心理学术语和心理学讨论
+So those are typically psychological terms and psychological discussions.
+我们是通过这些入口进入的
+We are entering this through the portal of physiology,
+是医学教科书上的东西
+the stuff of medical textbooks,
+我们很快就会讲到心理学
+and we will arrive at the psychology soon.
+但我真的希望你们理解这三种压力  在三个不同的时间尺度上的区别
+but I really want you to understand the difference between the three kinds of stress on three different 
+短期
+timescales short term,
+中期和长期
+medium term and long term,
+以及它的好处和坏处
+and what it's good for and what it's bad for.
+我想  我们都听说过压力对我们有害
+I think we've all heard that stress is bad for us.
+我们还见识过那些吓唬人的照片
+We have seen these pictures intended to frighten us,
+的确 它们令人恐惧
+and indeed they are frightening.
+比如图片上
+You see the nice,
+左边的大脑非常丰满
+really plump brain on the left.
+这是更健康的控制 比你看到的大脑压力更大 在右边
+That's healthier control and than you see the brain that's as stressed above it on the right,
+我们看到海马体
+and it's like wither'd where we see that the hippocampus,
+与记忆有关的区域
+an area involved in memory,
+右边的更小
+is smaller.
+右边的人 明显压力大
+People are stressed.
+我们知道阿尔茨海默症患者的大脑会因为压力而变得更糟
+We see that the Alzheimer's brain is made worse by stress that people who have a predisposition to 
+那些有精神分裂症倾向的人在压力下
+schizophrenia when they get stress,
+精神分裂症的发病率更高
+higher incidence of schizophrenia episodes.
+你可能听说过  瘾君子在压力大的时候会旧病复发
+You hear that addicts will relapse when they're stressed.
+我的意思是
+I mean,
+好了
+OK,
+我懂我懂
+we get it,
+反正压力很重要就对了
+and it's very important,
+但是我想  我们已经听过很多次压力是坏的
+but I think we've all heard now so many times that stress is bad,
+但在那些传言中
+but in that conversation,
+不幸的是
+unfortunately,
+它掩盖了  压力在短期内为我们所做的一些真正积极的事情
+it's eclipsed some of the really positive things that stress does for us in the short term,
+压力可以是短期的 中期的或长期的
+so stress can be short term medium term or long term.
+长期的压力确实是不好的 包括我刚才提到的原因  还有很多
+Long term stress is indeed bad for all the reasons I just mentioned and many others,
+但实际上从未被讨论过的是  压力其实有很好  很积极的影响  在短期内
+but what's never actually been discussed is what stresses so terrific for positive for in the short term,
+我认为我们往往忽略了一个重要的问题
+and I think we tend to overlook the important question,
+什么是长期  中期  短期
+which is what is short term in what is a long term.
+没人费心告诉我们什么是慢性的
+No one ever bothers to tell us what is chronic.
+什么是急性呢  五分钟? 五天后？
+What is acute rise at five minutes is at five days.
+是为了期末考试？
+Is it for the duration of final exams,
+或者是在肝大学毕业论文？
+or is it for the duration of a senior thesis in college?
+我知道没有人会为这些东西划定界限 甚至是没有普适的指导方针
+Knowing no one actually draws boundaries around the stuff or even general guidelines.
+所以 坦白地说  想要试图解读整个围绕压力的空间  就有点混乱
+And so it's become a bit of a mess frankly to try to decipher this whole space around stress.
+所以我要试着帮你们整理一下
+So I'm going to try and clean some of this up for you.
+根据我们从科学数据中了解到的
+Based on what we know from the scientific data.
+首先
+First of all.
+急性应激  当应激反应来袭时 这对你的免疫系统有好处
+Acute stress when the stress response hits that is good for your immune system.
+我知道这个理论可能对有些人来说  很难接受
+I know that might be a tough pill to swallow,
+但这绝对是真的
+but it's absolutely true.
+事实上
+In fact.
+压力通常以细菌或病毒感染的形式出现
+Stress often comes in the form of bacterial or viral infection,
+应激反应是用来对抗细菌和病毒感染的
+and the stress response is import organized to combat bacterial and viral infection.
+大脑中心也有一些通路可以激活脊髓中的神经元
+There are pathways from the same brain centers that activate these neurons in your in your spinal cord to 
+让你产生想要移动的感觉
+make you feel like you want to move.
+你的大脑中还有其他神经元可以激活你的脾脏
+There are other neurons in your brain that activate things like your spleen,
+它会部署杀伤细胞出去 清除进来的细菌和病毒
+which will deploy killer cells to go out and scavenge for incoming bacteria and viruses and try
+ 并吃掉它们 杀死它们
+and eat them up and kill them.
+所以短期压力
+So short term stress.
+尤其是肾上腺素的释放
+And the release of adrenaline in particular,
+或者肾上腺素
+or epinephrine same thing adrenalin epinephrine,
+肾上腺素有助于对抗感染
+is good for combating infection.
+这对我来说  这个问题讨论得还不够多
+And this to me is just not discussed enough.
+这就是我在这里讨论它的原因
+So that's why I'm discussing it here,
+这和你们很多人问的一个工具方法有关
+and it relates to a particular tool that many of you ask about.
+我并不经常有机会  在如此恰当的时机谈论这个问题
+I don't often get the opportunity to talk about in such an appropriate context.
+并不是说谈论这个话题是不合适的
+It's not that it's ever inappropriate to talk about,
+我现在要讲的是呼吸法的使用
+but what I'm about to talk about now is the use of again respiration breathing,
+人为地激活应激反应
+to somewhat artificially activate the stress response,
+这将实现两件事
+and that will accomplish two things.
+好
+Ok,
+我之后会回到中长期压力的问题上来
+I'll return to medium and long term stress.
+但我希望先讲好的短期压力  因为瞳孔扩张
+But I wanted a short term stress as good because the dilation of the pupils,
+眼睛的光学变化
+the changes of the optics of the eyes,
+心跳加速
+the quickening of the heart rate,
+你的认知的锐化
+the sharpening of your cognition,
+事实上
+and in fact,
+这种短期压力会让大脑的某些部分活跃起来 使你能够集中注意力
+that shortterm stress brings certain elements of the brain online that allow you to focus.
+它帮你缩小了注意力范围
+Now it narrows your focus,
+你就不会去注意所谓的“大局”
+you're not good at seeing the socalled big picture,
+但这会缩小你的注意力范围
+but it narrows your focus.
+它让你能够做到这点
+It allows you to do these.
+我称之为持续路径结果类型的分析  可以让你评估你的环境
+What I call duration path outcome types of analysis allows you to evaluate your environment,
+评估你需要做什么
+Evaluate what you need to do.
+它让你的整个系统做好更好的认知准备
+It primes your whole system for better cognition.
+是你抗感染的免疫系统的激活时期
+A prime is your immune system to combat infection,
+想想饥饿的时候 那么这些都说得通了
+and that all makes sense when you think about the fact that famine.
+想象渴的时候
+Thirst.
+细菌感染
+Bacterial infections,
+病毒感染
+viral infections,
+入侵者来临的时候
+invaders,
+所有这些都会释放出体内的一种反应
+all of this stuff liberates a response in the body that's designed to get you to fight back 
+它会让你对抗任何心理上的压力源
+against whatever stressor that happens to be psychological,
+身体上的细菌
+physical bacterial.
+病毒
+viral again.
+应激反应是通用的
+the stress response is generic.
+这个方法
+The tool.
+利用肾上腺素在体内释放的事实
+Takes advantage of the fact that when adrenaline is released in the body.
+从肾上腺的
+From the adrenals,
+它也有从免疫器官中释放大量杀伤细胞的效果
+it has the effect of also liberating a lot of these killer cells from the immune organs,
+尤其是从脾脏
+in particular from the spleen,
+但也可以来自其他地方
+but from elsewhere as well.
+以及与对抗感染的淋巴系统的相互作用
+and interactions with the lymphatic system that combat infection.
+一项可以追溯到所谓的维姆·霍夫(WimHoff)的呼吸研究
+The way this works in the real world is best captured by a study 
+很好的展现了这种呼吸方法在现实世界中的运作方式
+that can be mapped back to so called Wim Hoff Breathing now,
+维姆·霍夫呼吸法
+Wim Hoff.
+这个名字来源于所谓的冰人维姆·霍夫
+Breathing is so named after the socalled Iceman Wim Hoff.
+维姆
+Wim,
+当然了
+of course,
+这个荷兰人
+being this Dutch he
+我记得他自称“超胆侠”
+I think he his self titled Daredevil,
+事实上 他创下了很多很多的吉尼斯世界纪录 比如在冰山下游泳
+and indeed he has many many Guinness Book of World Records for Things like Swimming under Icebergs 
+穿着短裤爬上乞力马扎罗山 穿越沙漠
+and going up Kilimanjaro in his shorts and crossing the desert.
+
+没有水的情况下穿越
+without water,
+
+要是你不知道自己在做什么 这种呼吸就会变得很危险  显然维姆他活下来了
+things that are quite dangerous if you don't know what you're doing and we obviously survived.
+是的我告诉你
+I'm telling you.
+他活了下来
+He survived.
+他开发的呼吸方法 有两个组成部分
+There are two components to a sort of breathing protocol that he developed.
+这也是基于tommo呼吸法
+That was based also on what's called tumor breathing.
+所以在他之前 有这个tummo呼吸法
+so before when there was Tummo breathing.
+很多人称之为超氧呼吸法
+and many people call this now Super oxygenation breathing.
+尽管呼吸方面的工作爱好者可能会说
+Although the breath work aficionados will probably say,
+好吧
+well,
+它不是超氧呼吸  因为你也释放了很多二氧化碳
+it's not super oxygenation because you're also blowing a lot off a lot of carbon dioxide.
+我知道  但这边我想说的是
+What I'm talking about here,
+不管它叫tummo呼吸  维姆·霍夫呼吸法 还是超氧呼吸
+regardless of whether it's called Wim Hoff tomorrow or Super Oxygenation,
+它都是快速的
+is rapid.
+有意识的呼吸
+Deliberate breathing,
+这是有意的行为
+so it's deliberate,
+超级呼吸
+hyper ventilation.
+为什么会有人想做这个呢  嗯
+Why would somebody want to do this Well,
+故意的
+deliberate,
+过度通气 也许有25个循环
+hyper ventilation d'enfer maybe twenty five cycles,
+吸气
+so inhale,
+呼气
+exhale,
+吸气
+inhale,
+呼气
+exhale,
+吸气
+inhale,
+呼气  通常是通过鼻子吸气 通过嘴巴呼气
+exhale typically has done in through the nose out through the mouth,
+尽管有时只是通过嘴
+although sometimes it's just through the mouth.
+如果你做了15个呼吸
+If you do that for fifteen breaths,
+20个呼吸
+twenty breaths,
+25次
+twenty five breaths,
+你会感到非常警觉 清醒
+you will feel very alert.
+焦虑的人会感到焦虑
+People who have anxiety will feel anxious.
+他们甚至可能会出现"焦虑发作"
+They might even have an anxiety attack.
+然而
+However,
+我们需要问一下  为什么那种呼吸会产生这种感觉
+we need to ask why that kind of breathing feels that way.
+因为这种呼吸模式
+and it's because that pattern of breathing,
+横膈膜的快速运动
+rapid movements of the diaphragm.
+将从肾上腺中 释放出肾上腺素
+will liberate adrenalin from the adrenals,
+这是肾上腺素的释放 我提到过  维姆也被称为冰人
+so it's the release of adrenaline I mentioned that Wim is also called the Iceman.
+
+那是因为他发现了这种呼吸模式
+that's because he actually discovered this pattern of breathing somewhat.
+再一次联系到tummo呼吸法
+And again it maps back to tummo,
+当你进入冷水时
+breathing by going into cold water when you go into cold water.
+这是一种压力源
+That too is a stressor,
+冷水会刺激释放肾上腺素
+and you liberate adrenalin in response to cold water.
+所以如果你洗冰浴或冷水澡
+So if you get into an ice bath or a cold shower,
+你会立即从肾上腺中 释放肾上腺素
+you will immediately release adrenaline from your adrenals.
+与此相关的还有各种各样的事情关于心理控制和压力阈值
+Now there are all sorts of things related to this about psychological control and stress thresholds 
+我们之后会讲到
+that we'll talk about,
+但我真的想让你们明白的是 当肾上腺素在体内释放时
+but I really want people to understand that when adrenaline is released in the body,
+你可以更好地对抗感染
+you are in a better position to combat infections,
+所以不管你是否在这25次呼吸周期中快速呼吸
+and so whether or not you breathe very quickly in these cycles of twenty five breaths,
+不管你怎么称呼它  都不重要
+and regardless of what you call it doesnt matter.
+肾上腺素肯定在释放
+Adrenaline is released.
+如果你洗冷水澡
+If you take a cold shower,
+肾上腺素释放
+adrenaline is released.
+如果你故意去冰浴
+If you go into an ice bath deliberately.
+即使你不是故意这么做 肾上腺素也会释放
+Even if you do it non deliberately adrenaline is released,
+你在模仿应激反应 肾上腺素用来抑制或对抗即将到来的感染
+you are mimicking the stress response and that adrenaline serves to suppress or combat incoming infections.
+这在一个很好的期刊上发表的研究中  得到了很好的证明
+And this was beautifully shown in a study that was published in a very fine journal.
+“美国国家科学院院刊 ”
+The Proceedings of the National Academy of Sciences for the US
+这就是字面上
+That's it literally called ,
+美国国家科学院院刊
+The Proceedings of the National Academy of Sciences for the US
+以区别于其他国家国家科学院的其他院刊
+to distinguish it from other Proceedings of other national academies in other countries.
+实验是这样的 试验者被注射内毒素
+So the way the experiment went is that people were injected with endotoxin,
+或者在一些病例中 他们被注射细菌壁以模拟感染
+or in some cases they were injected with with a bacterial wall that mimics infection.
+会让你发烧
+That it gives you a fever.
+它让你感到想吐
+It makes you feel nauseous.
+它让你感到恶心
+It makes you feel sick.
+这一点都不舒服
+It is not pleasant.
+一半的人用一种特定的呼吸模式 看起来很像我刚才描述的呼吸模式
+Half of the people did a particular pattern of breathing that looked very much like the pattern of breathing I 
+就是做25次深吸气和呼气
+described a moment ago of doing twenty five deep inhales and exhales,
+然后是一个呼气 屏住呼吸  然后再重复的二十五次吸气和呼气  屏住呼吸
+followed by an an exile holding their breath than repeating twenty five inhales and exhales holding their breath.
+所以这个看起来是这样的
+So this would look something like this.
+或者如果你在听
+or if you're listening,
+它听起来像
+it sounds like.
+二十五次  三十次 你就会开始觉得热起来
+Twenty five thirty times you'll start feeling heat it up,
+你会开始感觉到肾上腺素的反应
+you'll start feeling the adrenalin response,
+释放你体内的肾上腺素   然后呼气
+your liberating adrenalin in your body than exhale.
+屏住呼吸15秒 然后再重复
+Hold your breath for fifteen seconds and then repeat,
+然后一般
+and then typically,
+在做了三到四轮之后
+after doing three or four rounds of that,
+他们会深深地吸气并屏住呼吸
+they would inhale very deeply and hold their breath,
+我想强调的是   永远不要在水里这样做
+and I want to emphasize never ever ever do this anywhere in your water.
+这么做的人有些就昏倒了
+People have passed out,
+所谓的浅水区爆发
+socalled shallow water breakout,
+有人因此丧生
+people have died.
+不要在浴缸里做
+Don't do it in the bathtub,
+不要在热水里做
+doing the hot tub.
+游泳前不要这样做
+Don't do before swimming.
+请不要在你的水里做这种事
+Please don't do it anywhere in your water.
+除非你得到医生的许可 否则请不要这样做
+Please don't do it at all unless you get clearance to do it from your doctor.
+因为它会对肺部有影响
+Because there are some pulmonary effects and whatnot.
+任何人都不应该做屏气动作
+and the breath holds should definitely not be done by anyone.
+如果你有青光眼或压力  千万别做
+it has glaucoma or pressure.
+为了你的眼睛
+You know concerns for the eyes.
+但是这些重复的
+But these repeated?
+释放肾上腺素的呼吸循环  让采用该方案的小组
+Cycles of breathing that liberate adrenaline allowed the group that did that protocol to 
+基本上没有因大肠杆菌喷射而产生任何症状
+essentially experience zero symptoms from the ejection of this E coli,
+这是值得注意的
+which is remarkable,
+他们的症状大大减轻了  或没有症状
+they had much reduced or no symptoms.
+他们没有感到发烧
+They didn't feel feverish,
+他们没有感到不舒服
+they didn't feel sick.
+他们没有呕吐
+They weren't vomiting.
+没有腹泻
+no diarrhea,
+这是很显著的 但当你想到短期应激反应 也就是通常所说的急性应激反应
+which is remarkable but makes total sense when you think about the fact that the short term stress response 
+是为了对抗所有应激源而设计的 这就完全说得通了
+that what's typically called the acute stress response is designed to combat all stressors.
+事实上
+In fact,
+假设你是在树林里徒步旅行时  被割伤了  伤口很深
+were you to cut yourself very deeply while out on a hike in the woods?
+另一件会发生的事情是会有快速的炎症反应  虽然我们经常听到
+The other thing that would happen is that there will be a rapid inflammation response and we always hear.
+炎症是不好的
+Inflammation is bad.
+炎症会导致老年痴呆症
+Inflammation gives us Alzheimer's.
+炎症是糟糕的事情
+inflammation is the worst thing,
+但是它伴随着肿胀
+but the swelling is associated.
+炎症与巨噬细胞或小胶质细胞的聚集有关
+The inflammation is associated with the recruitment of things like macrophages or micro glia.
+如果它是我们大脑和身体中的神经组织细胞
+If it's a neural tissue cells in our brain and body whose job is to act like little ambulances 
+它的工作是像小救护车一样冲到那个地方并清理它
+and rush to that site and clean it up.
+的确 炎症反应看起来很可怕
+and indeed the inflammation response looks horrible.
+听起来可怕
+It sounds horrible,
+但从短期来看 把标记出受伤组织  是件好事
+But it's a great thing in the short term you want to have that tissue marked as in trouble,
+你要让身体和大脑对此做出反应
+and you want the body and brain to react to it.
+所以 如果你在一天或一周中不时地出现压力高峰
+So if you're getting peaks and stress from time to time throughout your day or throughout your week,
+你可以更好地抵抗感染
+you are in a better position to combat infection.
+你的伤口愈合得比较好
+you are in a better position to heal your wounds,
+身体的伤口
+physical wounds.
+在应激反应中发生了许多很好的事情
+Many great things happened in the stress response.
+
+当然
+of course,
+应激反应并不总是受自己的控制
+the stress response isn't always superintends.
+有时候它是温和的
+Sometimes it's milder.
+有时他会让我们专注于某件事 比如赶DDL  你会觉得压力很大
+sometimes he allows us to just focus on something because we have a deadline that can feel stressful.
+这也是你们拖延的原因之一
+but that's one of the reasons you procrastinators out there.
+人们总是问我怎样才能克服拖延症
+People always ask me what can be done for procrastination.
+怎样才能克服拖延症
+What can be done for a procrastination?
+正如你所理解的
+As you can understand what's happening,
+就是你给自己施加压力
+which is that you are self imposing stress,
+因为压力就像药物一样 是一种强大的益智药
+because stress acts like a drug is a powerful nootropics.
+有人问我益智药
+I get asked about nootropics.
+最有效的益智药是压力
+The most powerful nootropics or smart drug is stress.
+是对失败的关注
+It's the concern of failure.
+是想要做得更好
+It's the desire to do well,
+最后期限就要到了
+It's the impending deadline.
+是
+It's the.
+“😯噢！
+Oh,
+我的天哪！
+my gosh,
+我必须现在做这件事 否则我会失败的！”
+I have to do this thing now or I'm going to fail.
+这是你能找到的最好的益智药 加上睡一晚好觉
+That is the best nootropics you will ever find it that combined with a good night's sleep,
+我们之后会讲到
+which we'll talk about,
+但我们整整一个月都在讲睡眠
+but we spent a whole month on sleeps.
+我不想绕回去讲太多
+I don't want to backtrack too much.
+好吧
+OK,
+所以短期压力很好
+so short term stress great.
+关键是 当你完成了  你不再想做时 能够关闭应激反应
+The key is to be able to turn the stress response off when you're done when you don't want that.
+事实上
+In fact,
+我们先来研究一下短期或急性应激反应和感染之间的关系
+let's just really tamped down the relationship between the shortterm or acute stress response and infection.
+我们很多人都熟悉一直工作
+Many of us are familiar with the experience of work,
+工作工作工作
+work work work
+或照顾心爱的人  或压力大大大大大  然后终于放松了下来
+work or taking care of a loved one or stress stress stress than we finally relax me.
+我们甚至想去度假 现在终于可以休息了
+We even go on vacation like how now I'm finally going to get the break.
+然后就开始生病
+and then we get sick,
+这是因为肾上腺素反应骤降 你的免疫系统也随之崩溃
+and that's because the adrenaline response crashed and your immune system crashed with it.
+所以现在请理解这一点
+So please understand this now.
+很多人可能会说
+Many of you might say,
+好吧
+well,
+多长时间呢
+how long is it?
+两个小时  还是三个小时
+Two hours is at three hours.
+你们很多人都喜欢具体化
+A lot of you out there that really like specificity.
+每个人的情况各不相同
+It will vary for everybody.
+当你不能再获得良好的睡眠时 我将使用一个经验法则
+I would just going to use a rule of thumb when you are no longer able to achieve good sleep.
+好的睡眠对你意味着什么 请看/听关于睡眠的那几期
+what good sleep means to you and please see the episodes on sleep.
+如果你想了解更多关于睡觉的工具  回去看一下吧
+If you want more about tools to sleep.
+当你不能再获得良好的睡眠时
+when you are no longer able to achieve good sleep,
+你现在正从急性应激状态
+you are now moving from acute stressor,
+转向慢性压力
+to chronic stress.
+你需要有能力去关闭应激反应  我现在有一个愿望
+you need to be able to turn the stress response off if I have one wish.
+虽然我这一辈子有很多愿望
+We have many wishes for this lifetime.
+但如果我今天有一个愿望   我希望它能渗透到你们的心里
+but if I have one wish today that I hope will permeate.
+传播出去
+Spread out,
+我们需要从小就有一个想法
+there is this idea that we need from a young age,
+即使是成年了  也要知道
+but even as adults and forever,
+我们需要学习如何去关闭我们的应激反应  “生理叹息”是一个方法
+we need to learn how to turn off our stress response physiological sigh as one.
+如果我们要激活应激反应  可以通过冰浴 冷水浴
+If we're going to activate our stress response intentionally by ice baths,
+循环超氧呼吸
+cold showers cyclic hyper oxygenated,
+也就是tummo呼吸
+breathing AKA tummo breathing,
+或者维姆·霍夫的呼吸
+or Wim Hoff breathing.
+激活之后  我们还需要学习如何按下刹车
+We also need to learn how to press the break.
+好
+OK,
+我们来考虑一下压力系统
+so let's think about the stress system.
+它知道如何激活自己
+It knows how to activate itself.
+现在我们要讨论的是一种  有意识地激活压力系统以对抗感染的方法
+Now we're talking about a way of deliberately activating your stress system in order to combat infection.
+我有时会这样做 我可能会觉得喉咙发痒 或者感觉筋疲力竭了
+I do this from time to time I might feel a tickle in my throat or like I'm getting kind of run down.
+我会这样呼吸
+I will do this kind of breathing.
+我真的这么做的
+I do.
+我会呼吸25-30次
+I will take twenty five or thirty breaths exhale home.
+然后我屏住呼吸
+I hold my breath.
+才来一遍  25次呼吸
+Twenty five to breaths again,
+呼气
+exhale,
+屏住呼吸大约15秒
+hold my breath for about fifteen seconds.
+25-30次呼吸  最后呼气屏住呼吸25秒或30秒
+Twenty five thirty breath again exhale hold my breath for twenty five or thirty seconds,
+然后深吸一口气
+then a big inhale,
+我屏住呼吸 直到憋不住想要再次呼吸
+and I hold my breath until I feel the impulse to breathe again.
+这对我来说很安全
+I feel it's safe for me.
+我已经问过我的医生了
+I've run it by my doctor.
+所以 对我来说没问题 但你不应该这样做 除非它适合你
+so it's fine you should not do this unless it's right for you.
+虽然我是这么做的
+but I do this.
+有些人喜欢冰浴
+Some people like the ice bath,
+我很少洗冰浴
+I rarely do the ice bath.
+有人会喜欢洗冷水澡
+somebody will like cold showers,
+但我喜欢洗热水澡
+I like hot showers,
+所以我洗热水澡
+so I take hot showers,
+但我是这样操作的
+but I do this kind of breathing again.
+它们或多或少都有增加肾上腺素的效果
+They are all having more or less the same effect of increasing adrenaline and which allows you 
+可以让你对抗感染 因为这样可以激活免疫反应
+to combat the infection because you're activating the immune response.
+好
+OK,
+我们来谈谈中期压力
+so let's talk about medium term stress.
+中期压力是指持续几天到几周的压力
+Medium term stress is going to be stressed that last anywhere from several days to several weeks.
+我们可能会认为几周已经是长期了
+We might think of that as long term stress,
+生活中总有那么几次
+there are times in life.
+我们要处理的事情太多了
+we are just dealing with a lot.
+好
+OK,
+比如这个季度
+this particular quarter,
+我正好在指导实验室里的一个项目
+I happen to be directing a quarter some do in the lab.
+我工作
+I'm doing this.
+虽然我非常喜欢这些东西
+I enjoy all these things immensely,
+但我已经接近极限了
+but I'm kind of near my threshold.
+我的意思是
+I mean,
+我已经靠近奔溃的边缘了 任何其他的事情  比如说前几天我突然不能登录一个网站
+I'm near the point where any additional thing like I couldnt log on to a website the other day,
+那一刻  我觉得完蛋了  这是世界上最紧张的事情
+and I felt like the most intense thing in the world at that moment,
+说到这里我得嘲笑一下自己了
+and I got laughed at myself.
+不过幸运的是
+Fortunately,
+我控制住了
+I caught it.
+通常还没接近压力阈值的时候  我是不会这么做的
+That typically wouldn't be my response under conditions where I wasn't pushed a threshold.
+什么是中期压力
+What is this medium term stress?
+什么是压力阈值
+What is stress threshold?
+
+压力阈值实际上是  我们认知上
+stress threshold is actually our ability to cognitive leave.
+去偏离我们体内调节的能力
+Regulate what's going on in our body,
+我们都听过很多这种话
+so we've all heard so much about.
+我们需要统一我们的身心
+We need to unify our mind and body,
+我们需要身心合一
+we need to be at one with our mind and body,
+我意识到我是在拿这些新兴的句子开玩笑
+or you know now I realise I'm kind of poking fun at some of the new age language,
+但我开玩笑不是因为它没有价值
+but the reason I poke fun is not because I don't think it has value,
+而是我觉得  它没有特异性
+but it has no specificity.
+什么意思呢
+What does that mean?
+我的意思是
+I mean,
+我认为我一直在我的身体里
+I think I'm always in my body.
+幸好我从来没有在房间的另一头看到我的胳膊和腿在那里
+I've never fortunately looked across the room and seeing my arm over there where my leg over there.
+我的身体相互连接在一起
+I'm connected to my body.
+实际上有一种综合症 患者会感觉与四肢脱节
+There actually is a syndrome where people feel disconnected from their limbs.
+这是一种真实的临床症状
+This is a real clinical condition.
+这些人会去寻求截肢
+These people actually will seek out amputation.
+他们将试图说服医生  切除他们身体的某些部分
+They will try and convince doctors to amputate certain portions of their body.
+这对患者来说是一件很可怕的事情
+It's a really terrible thing for people to have,
+它与
+and it relates to it.
+大脑中央地图的变化有关  不管你信不信
+A change in central maps in the brain believe it or not,
+而我们大多数人都想保留四肢
+most of us want to keep our limbs,
+我们碰巧没有那种症状
+whichever ones we happen to have,
+我们大多数人都能感觉到自己的精神和身体
+and most of us feel one in mind and body,
+以至于当压力来临时
+so much so that when stress hits,
+我们感觉它给我们的大脑和身体带去了很多压力
+we feel it in our mind and body a lot of stress inoculation.
+很多中期压力的治疗和管理  都需要时间长度大约 几周
+A lot of managing medium turned stress on the on the time scale of weeks,
+或者甚至几个月
+or maybe even a couple of months.
+所以我们说的不是很多年的压力
+So we're not talking about years of stress.
+这很大程度上与提高我们的压力阈值有关
+A lot of that has to do with raising our stress threshold,
+这是关于可容量 自身的能力 有一些非常简单的工具方法
+it's about capacity and there are very simple tools,
+这些优秀的工具可以让我们调节应对压力的能力
+excellent tools that will allow us to modulate our capacity for stress,
+我刚才描述的工具方法很像
+and they look a lot like the tools I just described.
+它们会要求  有意识的将自己置于一个肾上腺素升高的环境中
+They involve placing oneself deliberately into a situation where our adrenaline is increased somewhat,
+没有到极限
+not to the extreme,
+然后当我们感到肾上腺素泛滥时
+and then when we are feel flooded with adrenaline.
+通常我们会感到恐慌
+And normally we would panic.
+这是关于认知心理的
+It's about cognitively mentally,
+让自己在情绪上平静下来 并对自己身体的反应感到舒服
+emotionally calming ourselves and being comfortable with that response in our body.
+所以不像试图将身心统一起来 使其平静或警觉
+So unlike trying to unify the mind and body and make it all calm or make it all alert,
+这里要的是 分离精神和身体
+this is about dissociating.
+用一种健康的方法
+mine embody in a healthy way.
+怎么样做呢
+And what would this look like?
+
+这是我实际会做的练习  因为我之前提到过
+this is something I should do as a practice because I mentioned before 
+你可以实时使用生理叹息
+you can use physiological sigh in real time.
+你可以使用循环超氧合呼吸来对抗感染
+you can use the cyclic hyper oxygenation breathing to combat infection.
+如果你感觉有点累 也有一种方法
+If you're feeling kind of run down and there is also a way in which you can use 
+你可以使用冷水浴 或者去运动 让心率非常高
+things like cold showers or if you exercise and you bring your heart rate up very high,
+你会进入那种高强度的领域
+you kind of go into that high intensity realm,
+你的心跳频率会比你感到舒服的时候更剧烈
+where your heart is beating a little bit harder than you are comfortable with,
+有些人认为那是乳酸
+and you're just you feel some people think it's lactic acid.
+大家都不能在这个问题上达成一致  到底是“肌肉燃烧”   还是乳酸  还是氢聚集
+No one can agree on this with what the barn is when an lactic acid buildup of hydrogen,
+之类的
+or whatever.
+我不想谈这个
+I don't want to get into that.
+但我们都熟悉肌肉燃烧的强烈
+But we're all familiar with the intense feeling of your muscles kind of burning 
+感觉因为我们的身体在非常努力地运动和工作
+because we were working very hard physically.
+在这些时刻 关键是要学会在身体非常活跃的时候  放松大脑
+The key in those moments is to learn to relax the mind while the body is very activated 
+那么放松大脑会导致什么呢
+and what that tends to do.
+这方面的研究有限
+There's a limited amount of research on this,
+但这样做的结果往往是 它往往会创造出一种局面 让曾经感觉很困难的事情变得可以控制
+but what that tends to do is it tends to create a situation where what once felt like a lot feels manageable.
+好吧
+OK,
+你提高了你的压力阈值  或压力承受能力
+that you raised your stress threshold or your stress capacity.
+一种方法是
+One way that you can do this,
+很有趣
+and this is kind of fun.
+如果你的医生批准了  你可以这样做
+If it's approved by your physician and you're able to do this,
+你可以提高你的心率
+you can bring your heart rate up.
+你可以用冰浴来做
+You could do this through an ice bath.
+如果你喜欢洗冷水澡  或者循环氧合呼吸
+If that's your thing or a cold shower or cyclic oxygenation breathing,
+或者你可以冲刺
+or you could sprint or,
+你可以骑自行车骑得很猛
+you could go hard on the bike,
+不管是什么
+whatever it is,
+这会让你心跳加速 然后你要做的是
+that brings your heart rate up and then what you want to do is 
+当你的身体处于这种高度激活状态时 你要试着让大脑平静下来
+you want to actually try and calm the mind while your body is in this heightened state of activation.
+据我所知 最好的办法是
+And the best way that I'm aware to do,
+这又回到了生理学
+That again goes back to physiology,
+不是心理学
+not psychology.
+当我们有压力时
+When we are stressed,
+我们的瞳孔会放大
+our pupils dilate,
+瞳孔扩张的效果是  造成视野的缩小  变成了管状视力
+the effect of that pupil dilation is to create tunnel vision,
+它实际上缩小了我们的视觉世界 我们不再看到全景
+it literally narrows our view of the visual world we no longer see in panorama 
+还会产生一些其他的效果
+and there's some other effects as well.
+但那是因为我之前描述过的通过颅神经系统的视觉系统
+but that's because the visual system through this cranial nerve system that I described before 
+这时是被束缚的  是自主神经系统的一部分
+is tethered and is part of this autonomic nervous system.
+通过故意扩大你的视野
+By deliberately dilating your gaze,
+意思是  不要动你的头和眼睛
+meaning not moving your head and eyes around,
+但是通过有意识地从管状视野  转向更广阔的全景视野
+but by deliberately going from tunnel vision to broader panoramic vision literally 
+一下子就能看到更多的环境
+seeing more of your environment all at once.
+在看的你们 不必做我现在做的事哈
+You don't have to do what I'm doing,
+我现在在锻炼不眨眼  你们就尽情眨眼吧
+which is not bringing your welcome to blink.
+但这意味着故意扩大你的视线 这样你就能在你所处的环境中看到自己
+But it means deliberately dilating your gaze so that you can see yourself in the environment you're in.
+这样可以在大脑中产生了一种镇静的效果
+It creates a calming effect on the mind because it releases a particular circuit 
+因为它在脑干中释放了一个与警觉性有关的特定回路
+in the brain stem that's associated with alertness.
+也就是压力
+A K stress.
+这是非常强大的  如果你在跑步
+Now this is very powerful if you're running,
+例如 在你的极限  或者接近极限的时候
+for instance in your Max Capacity or close to it,
+或者在骑车的时候
+where you're kind of hitting,
+接近百分之八十到九十   你放大你的目光视野
+like eighty ninety percent of maximum on the bike and you dilate your gaze,
+你会发现 这时身体依然处于充分输出状态   但大脑就会得到放松
+what you'll find is the mind can relax while the body is in full output.
+我们和很多不同领域的团体合作
+and this is relates to work that in various communities,
+和我们一起工作的有体育界的运动员
+people are working with us in the sports community.
+有军事领域等等
+military comedian Sarah.
+但这是一种形式
+But it's a form,
+不是真正的压力接种
+not really of stress inoculation.
+更重要的是这能够提高压力阈值  这样身体才能继续保持高度警觉
+It's more about raising stress threshold so that the body is going to continue to be in a high alertness.
+高反应活性模式
+High reactivity mode.
+高输出
+High output,
+但头脑是平静的
+but the mind is calm,
+所以这并不是说要统一身心
+and so this isn't about unifying mind and body.
+这实际上是利用身体 来提高你的激活水平 然后让两者分离
+This is actually about using body to bring up your level of activation then dissociating,
+不是那种临床分离的疾病
+not the clinical dissociation kind of disorders,
+但是随着时间的推移 将精神或情绪反应 与身体分离开来
+but dissociating the mental or emotional response from what's going on in your body and over time.
+如果你这样锻炼
+So if you do this,
+只要几次就行  不需要每次锻炼都这么做
+you know a couple of times you don't to do this every workout,
+但如果你这样做
+but if you do this,
+大概一周一次吧
+maybe once a week or so,
+你就可以开始适应这些更高的激活状态
+you start being comfortable at these higher activation states.
+曾经让人难以承受的工作 现在是可以承受且管理的
+What once felt overwhelming and like a lot of work now is manageable.
+感觉还过得去
+It feels tolerable,
+这就是应对中期压力的方法
+so that's for navigating medium term stress.
+现在还有其他的工具
+Now there are other tools as well,
+但我们不想超过90分钟  因为90分钟是一个昼夜循环
+but we don't want to go over ninety minutes because ninety minutes as one old treaty in cycle,
+我试图让播客的时长一直保持在一个昼夜周期 如果你没有注意到 跟你们说一下
+I was trying to keep these podcasts have won all trading cycle in case you haven't noticed 
+这样你可以从中获得最大的利益 基于昼夜周期的原则中进行学习
+so you can derive maximum benefit from them based on all Treaty in cycle principles of learning.
+这边我不再深入说下去了
+So I don't want to go into every little bit of this 
+回过来 我想确保我们得到两种情绪
+and I want to make sure we get two emotions,
+但我想强调的是 这些中期压力是艰难的一个月或者一周
+But I want to emphasize that these medium term stressors of all has been a hard month or hard weak 
+是十周的一个标准学习季度  或者一个学期
+standards on the quarter systems at ten weeks or semester 
+当我们训练自己的精神保持冷静的时候  就会变得更容易管理
+that is becomes more manageable when we train ourselves to be calm of mine,
+而身体是在激活的状态
+when our body is activated.
+如果你还没有注意到  我今天描述的大多数工具方法都不是什么
+If you haven't noticed most of the tools I'm describing today are nothing like the sort of okay,
+坐下来做冥想啊之类的
+sit and do meditation.
+我都没讲
+I'm not.
+我一直在避免说这些话  避免说什么NSDR之类的
+I'm actively avoiding saying the words NSDR non sleep deep rest.
+在关于睡眠和神经可塑性的那两个月里 我讲这些讲得太多了
+I talked a lot about those tools during the months on sleep and neural plasticity.
+当然 它们也能很好地补充你的能力 让你努力学习集中注意力
+and of course they are wonderful for replenishing your ability to lean into effort to learn to focus,
+请试着用一用NSDR方法  看看他们是否适合你
+please do try and check out NSDR protocol see if they're right for you.
+这些的安全性
+The margins for safety,
+我认为
+I think,
+很高
+are enormous.
+你基本上只需要听一个音频脚本 在我们再次提供它们之前
+You've basically just listening to a script we have links to them 
+我们在之前的评论区中有它们的链接 在不同的播客中都讨论过它们
+in previous captions have talked on them in various podcast before we can provide them again.
+今天
+Today,
+我真正说的是一个工具方法 你可以与压力“共舞”
+I'm really talking about tool so you can learn to dance with stress too.
+在短期内
+In the short term,
+如果你在中期感到不舒服
+reduce that stress response a little bit if you feel too uncomfortable in the medium term to 
+不能适应这种高强度的激活  而生活还继续向你袭来
+be comfortable at these heightened levels of activation because life is going to continue to come at you,
+我们不能选择压力源
+and we can't pick the stressors.
+但我们需要经常以更高的能力运作自己
+But we need to be able to function at a higher capacity often,
+然后是长期的压力
+and then there's long term stress.
+长期的压力是不好的
+now long term stress is bad.
+你不希望肾上腺素在你的身体里持续很长时间
+You do not want adrenalin up in your system for a very long time.
+事实上
+In fact,
+你
+you,
+你
+you,
+理想情况下
+ideally,
+你的压力会在一天中不同时间上升
+you would have your stress go up various times throughout the day,
+它不会一直升高 也不会阻止你睡个好觉
+but it would never stay elevated and it would never prevent you from getting a good night's sleep 
+但这是不现实的
+now that isn't realistic.
+好吧
+OK,
+对我来说 一个月里有三四个晚上
+I would say for me three four nights out of the month.
+无论我做了什么
+No matter what I do,
+我承受了太多  或者什么事情发生了  但是生活就是生活
+I take on too much or something happens in life is life,
+我也没有得到我想要的最好的睡眠
+and I don't get the best night sleep that I would like to get for many of you.
+可能你们很多人每个月30个晚上都这样
+It's thirty nights per month.
+对于一些人来说
+For some of you,
+一个月里一次都不会出现 那么恭喜你  如果一个月中的每一天
+it's zero nights per month and congratulations to use your own nights per month people
+你每天晚上都能很好地管理自己的睡眠
+If you are managing your sleep really well every night,
+那这实在是太棒了
+that is fantastic,
+你能在晚上入睡
+you really want to be able to fall asleep at night.
+晚上大部分时间都在睡觉
+Stay asleep for most of the night,
+如果你起床
+and if you get up,
+想要休息的时候 想睡多久就多久
+go back to sleep for as long as you need to in order to feel rested.
+这就是我定义的健康的睡眠关系
+That's what I define as a healthy relationship to sleep.
+可以看看关于睡眠的几期
+Check out the episodes on sleep.
+如果你想要工具来完成这些
+if you want tools to be able to accomplish that,
+我们都能做到
+we can all accomplish that.
+这是可以做到的 有一些工具可以做到零成本的工具
+It can be done and there are tools to do at zero cost tools.
+好吧
+OK,
+我们来谈谈长期压力
+so let's talk about long term stress.
+早些时候
+Earlier,
+我讲过呼吸  以及如何通过这个循环来调节心率
+I talked about how breathing can modulate heart rate through this loop.
+这包括大脑和副交感神经系统
+That includes the brain and the parasympathetic nervous system.
+我好像没提过这个
+I don't think I mentioned this,
+我想确保我提到过这一点
+and I want to make sure that I mentioned that.
+呼吸通过交感神经和副交感神经系统 控制心率
+Breathing controlling heart rate through the sympathetic and parasympathetic nervous system 
+是HRV的基础  心率变异性
+is the basis of what's called H R V of the heart rate variability.
+我们知道心率变异性是好的
+And we know that heart rate variability is good.
+你不会想要你的心率
+You don't want your heart rate.
+长期保持在很高的状态  或者长期处于低的状态
+Chronically elevated were chronically low.
+很多人认为
+A lot of people think.
+哦
+Oh,
+我想要一个很好的低水平心率
+I want a really nice low heart rate,
+事实上
+and indeed,
+如果你身体健康
+if you're in shape,
+你心脏的搏量会更大 你就可以有一个美好的
+the stroke volume in your heart will be greater and you can have a nice.
+
+慢的心率
+Slow heart rate.
+几年前我还有定期跑步习惯的时候
+Years ago when I was running regularly,
+你知道的
+you know,
+我想我的心率降到了50或60或类似的水平
+I think my heart rate was down to like fifty or sixty or something like that.
+太好了
+That's that's great,
+但是现在它比那个高了  因为我跑的少了一点
+but and now it's higher than that because I'm running a little bit less,
+但每个人都需要决定  什么适合你自己
+but everyone needs to determine what's right for them,
+但你真的不需要你的心率长期保持低水平或高水平
+but you don't really want your heart rate to be chronically low or chronically high.
+两种情况都是不好的
+Both are bad.
+我们知道   长期慢性压力
+We know that chronic stress,
+压力升高
+elevated stress,
+尤其是所谓的a型人格
+and especially in the socalled type a personalities,
+会让你得心脏病
+creates heart disease,
+几乎每个国家的头号杀手
+a leading killer in most every country,
+但特别是在美国
+but in particular in the US
+由于肾上腺素对血管的影响 有些血管收缩 有些血管扩张
+Because of the way that adrenaline impacts those blood vessels are constricting and some and dilating others 
+这就是高血压
+is just that kind of hypertension.
+慢性高血压是不好的
+Chronic hypertension is just bad,
+所以慢性压力确实不好
+and so chronic stress truly is bad.
+我想讲清楚  因为我刚才一直强调压力的一些积极影响
+I want to really make that clear because I emphasize a lot of what some of the positive effects of stress,
+但你希望自己能够实时地减轻压力
+but you want to be able to tamp down your stress in real time.
+你也希望能够在调节你的压力  你的情绪  身体压力
+You also want to be able to modulate your stress in the your emotional relationship 
+让压力处于中期
+to stress in the body in the medium term.
+但是你绝对不希望长期地 月复一月 月复一月
+but by no means do you want to be stressed out all the time chronically for months and months 
+年复一年地承受压力
+and months and years on end.
+最好的工具
+The best tools,
+我们所知道的调节长期压力的最佳机制  说出来可能会让你有点惊讶
+the best mechanisms that we know to modulate long term stress might surprise you a little bit.
+首先
+First of all.
+先讲一些你不会感到惊讶的事情
+There are going to be the things that don't surprise you,
+每个人都知道定期锻炼
+which is everyone knows getting regular exercise,
+良好的睡眠
+getting good sleep,
+使用实时工具试着压制应激反应
+using real time tools to try and tamp down the stress response,
+
+这些都很有用
+That's all going to be really useful.
+数据表明  社交关系  特别是某些类型的社交关系
+The data really point to the fact that social connection and certain types of social connection in particular 
+能够缓解或减少长期的压力
+are what are going to mitigate or reduce long term stress.
+这是一个特别重要的问题
+and this is a particularly important issue.
+现在这个年代  所有的社交关系都有了代理
+Now it is where we have all these proxies are surrogates for social connection.
+你经常上网和别人发短信 我们的联系是这样
+You were online and texting with people a lot so we can feel connected,
+
+就比如飞机就要起飞了  大家全都在聊天
+people are like the plane is about to take off in everyone's texting each other,
+不知道是不是因为害怕飞行
+you know whether or not they have fear of flying or not.
+大家都是
+they're like,
+好吧
+OK,
+你知道的
+you know,
+“待会儿见”  “爱你”
+see you love You
+“讨厌你”
+hate you,
+不管在发什么  他们都试图与别人交流
+whatever it is that they are trying to communicate to people.
+然后  飞机降落的时候
+Then you know plane lands every phones out,
+继续 “待会儿见”  “爱你”
+see you love you,
+“讨厌你”
+hate you,
+虽然希望“讨厌你”更少一些
+Let's hope it's fewer hate use,
+但每个人都有这种相互联系的需要
+but everyone has this kind of need to stay connected to one another.
+人类是不可思议的社会性生物
+Humans are incredibly social creatures.
+现在  有一种看待整个社会联系的方法
+Now there is a way to look at this whole business of social connection,
+而不仅仅是从一种虚无缥缈的角度
+not from just the kind of wishy washy new agey perspective.
+我想指出的是 有时候我也会说“虚无缥缈”的话
+And I want to point out that sometimes I'll say wishy washy new agey,
+我并不反对这种交流
+I have nothing against that.
+但是我的目标是把科学数据和一些神经化学的东西呈现出来
+I just my goal here is always to put scientific data and some neurochemistry on things 
+这样对于那些喜欢无聊的虚无缥缈的人来说
+so that for those of you that are into wishy washy new agey stuff,
+你也可以用一些论点来武装自己
+you also can arm yourself with some arguments for those of you,
+你的家人 你的生活  可能不太适应那些典型围绕实践的言论
+the members of your family and your and your life that maybe aren't so tuned in to the typical language around
+什么“社交关系是非常关键的”
+those practices like a connection is really key.
+“可以让我们产生催产素”
+We all get oxytocin actually.
+但你知道吗  人与人之间的关系很少会导致催产素的释放
+Did you know that connection between individuals rarely causes the release of oxytocin?
+催产素释放
+oxytocin is released.
+那是非常特殊的情况 比如高潮后
+It was very particular circumstances like post orgasm.
+婴儿和母乳减少  它与一种非常强烈的
+Baby and mother milk let down its associated with kind of really intense kinds of 
+母子联结的关系相关
+pair bonding things of mother and child,
+还有父亲和孩子
+also father and child,
+但尤其是母亲和孩子更强烈
+but especially mother and child.
+因为它与哺乳系统有关系
+Because its relationship to the lactation system,
+夫妻的性生活后
+couples post sex.
+这些反映出深层生物学的事情会释放催产素
+these kinds of things that were reflect deep kind of layers of our biology and oxytocin is not just released 
+而不是我们走进去 拍拍狗的头  或者我们看到别人  给他们一个拥抱
+when we walk in and you'll pat the dog on the head or we see somebody and we give them a hug 
+我看见你很高兴  然后击拳致意
+and I agreed to see you in a fist bump.
+这些都不是催产素释放的情况
+That's not a situation for oxytocin.
+思考社会关系的方式以  及它如何减轻压力的一些长期影响
+the way to think about social connection and how it can mitigate some of the long term effects of stress.
+真的需要
+Really,
+通过神经调节系统来讲
+through the systems of neuromodulation,
+比如血清素
+like serotonin and through
+或者当我们感到被社会孤立时 阻止某些对我们非常有害的事情
+Blocking certain things that are really bad for us when we feel socially isolated,
+比如“心动过速”
+things like tachycardia
+我来解释一下这是什么
+so let me explain what these are.
+血清素是一种神经调节物质  有点像大脑中的播放列表
+serotonin again as a neuromodulator neuromodulators are a little bit like playlists in the brain.
+血清素倾向于放大或倾向于某些大脑回路和身体回路
+They tend to amplify or bias the likelihood that certain brain circuits and body circuits 
+让一些回路被激活 而其他回路不会被激活的可能性
+are going to be activated and that others will not serotonin generally.
+我意识到我在这里讲得很笼统
+And I realize I'm speaking very generally here.
+但它通常会给我们很高的幸福感
+But it generally gives us feelings of well being at very high levels.
+它让我们感到幸福
+It makes us feel blessed,
+这往往会让我们觉得  在眼前的环境中  自己拥有的已经足够多了
+and it tends to make us feel like we have enough in our immediate environment.
+这就是为什么抗抑郁药的一些副作用是提高血清素
+This is why some of the side effects of antidepressants that elevate serotonin 
+而这实际上可以帮助很多有抑郁症状的人
+and actually can help a lot of people with depressive symptoms.
+但是副作用是增加血清素的药物  往往会降低某些租用
+But the side effects associated with drugs that increase serotonin tend to be reduced effect.
+让人变得有点迟钝
+They tend to kind of blunt,
+或让人们感觉他们的性欲降低
+affect or make people feel like their libido,
+因为身体里有很多血清素  大脑里有一些血清素
+as lower desire goes down because the body has so much serotonin in the brain has somewhat serotonin,
+让他们觉得自己拥有的已经足够了
+that one feels like they have enough,
+但是血清素
+but serotonin,
+我们先不讲药理学和抗抑郁药了 下次再谈
+pharmacology aside or taking antidepressants aside a topic for another time.
+当我们被认可 或者被信任时 血清素会让我们感觉良好
+Serotonin tends to make us feel good when we see somebody that we recognize and trust.
+血清素在大脑中释放
+Serotonin is released in the brain.
+这对免疫系统和其他神经修复系统
+and that has certain positive effects on the immune system and on other systems of neural repair 
+神经根和突触等都有一定的积极影响 这些都加强了大脑中的连接
+and root and synapses and things that really reinforced connections in the brain 
+防止了连接的长期萎缩
+and prevent that long term withering of connections.
+所以血清素与社会联系有关
+So serotonin is tied to social connection.
+现在社会联系可以有很多形式
+Now social connection can take many forms.
+你们很多人都知道
+As many of you know,
+我很喜欢我的狗
+I am very attached to my dog,
+我希望他也喜欢我
+I hope is attached to me.
+但是他大部分时间都在睡觉
+He's asleep most of the time,
+所以我也不知道啦
+so I don't know.
+即使他醒着
+And even if he was awake,
+我不知道该问他什么
+I don't really know what I would ask him.
+但他似乎或多或少也联系着我
+but he seems more or less to be attached to me as well.
+没有科学证据表明一定要是人与人之间的依恋
+And there's no scientific evidence that it has to be human human attachment.
+当然我对人类也有感情
+I do have attachments to humans as well,
+你也可以对其他人有感情
+but you can have attachments to other people.
+其中一些可能是恋爱关系
+Some of those could be romantic attachments.
+这些可能是非浪漫友谊的家庭依恋
+Those could be familial attachments that are non romantic friendship,
+对宠物的依恋
+pets,
+甚至对让我们快乐的事物的依恋
+even attachments to things that just delights us.
+有一件事可以缓解
+One of the things that really can mitigate against the long term.
+长期慢性压力的负面影响   不仅仅是简单的开心
+Negative effects of chronic longterm stress isn't just having fun,
+我们已经知道 什么听到自己想听的事情
+we hear all the stuff you need to play and have fun.
+这个概念可能有点难理解
+That can be a little bit of a tough concept,
+尤其是对目标导向的人来说 他们有的是压力   但一种愉悦感
+especially for the hard driving people are people that are stressed but having a sense of delight,
+一种真正享受你所看到的东西的感觉
+a sense of really enjoying something that you see.
+与血清素系统相关的视觉感受或参与感
+An engage in witness or participate in that is associated with the serotonin system,
+当然 这种享受也是各种形式的社会联系之一
+and certainly play is one of those things social connection of various forms.
+这些都是需要你付出的
+Those are things to invest in,
+有些人可能会说
+Some people might say.
+
+你知道的
+you know,
+没人想和我做朋友
+nobody wants to be my friend or so.
+没人想再参与社交活动了
+Nobody wants to engage socially anymore.
+我会第一个站出来说不是  还是有社交关系和友谊存在的
+I'll be the first to admit social connection and friendship.
+所有与动物 人类或无生命物体的关系都需要各自的努力
+and relationships of all kinds to animals or humans or inanimate objects takes work.
+需要付出
+It takes investment.
+你不需要事事都按照你想要的方式去做 需要时间去磨合
+It takes time in not needing everything to be exactly the way you want it to be.
+我有个朋友为此很纠结
+I have a friend who struggles with this,
+通常我和他的对话会回到这样一个结论 当你想要保持社交联系时
+and oftentimes the conversations just circle back to the fact that when you want social connection,
+你要更灵活一些
+you often have to be more flexible.
+你得按照别人的时间表吃饭
+You have to eat on other people's schedule.
+有时候你不得不吃一些 你在那一刻不想吃的东西
+Sometimes you have to eat things you don't necessarily want to eat the most in that moment 
+晚一点睡或者早一点起床
+or stay up a little later or wake up A little earlier.
+社会联系是需要我们努力的东西
+Social connection is something that we work for,
+但它不可思议的强大
+but it is incredibly powerful.
+我想
+I want,
+当然
+of course,
+向一些人致敬
+tip my hat too.
+就是
+It's only appropriate,
+非常棒的罗伯特·沙波斯基
+the great Robert Sapolsky by my colleague,
+我非常幸运能在斯坦福与他认识
+who I am fortunate to know at Stanford,
+当然
+of course,
+这个话题已经谈了很多了
+has talked about this quite a lot.
+所以我想感谢罗伯特在这方面的出色工作和讨论
+So I want to acknowledge Robert's incredible work and discussions around this.
+你可以在网上查这些资料和他的书
+You can look up those materials on line and his wonderful books.
+我们是灵长类动物 我们是群居物种
+Primates and we are primates where we are social species and,
+罗伯特已经说过很多次了
+as Robert has said many times before,
+在灵长类历史上从未有过现在这样
+never before in any primate history,
+尤其是在人类历史上
+but in particular in human history.
+我们在与这么多陌生人没有真正联系的情况下 与他们进行了远距离交流
+Have we interacted with so many strangers at a distance when we are not really connected to them?
+所以只要找到几个人
+So finding just a few people,
+哪怕是一只或一只动物或你喜欢的东西
+even one or an animal or something that you delight in,
+真的
+believe it or not,
+对缓解长期压力这一问题有非常积极的影响
+has very positive effects on mitigating this long term.
+可以改善我们生活的各个方面 因为它与压力和情绪有关
+Stress on improving various aspects of our life as it relates to stress and emotionality.
+这就是社会联系的部分
+So that's the social connection part.
+另一件事是 太长时间的社会隔离 会产生各种事情  不管是苍蝇
+The other thing is that social isolation that goes too long is associated in everything from flies,
+真的  不管是老鼠还是人类
+believe or not to mice and humans.
+只要有这个分子
+With this molecule,
+速激肽
+tachykinin,
+速激肽是一种让我们感到恐惧
+tachykinin is a molecule that makes us more feel fearful.
+偏执
+Paranoid.
+会损害我们的免疫系统的分子
+impairs our immune system,
+这种惩罚的内部惩罚信号就像我们的身体和大脑告诉我们
+and so tacky kind in is like this punish internal punishment signal it's like our body and our brain telling us 
+你没有花足够的时间和你真正信任的人在一起
+you're not spending enough time with people that you really trust.
+你没有花时间做你真正喜欢的事情
+You're not spending time doing things that you really enjoy.
+当我特别目标导向的时候  我都会想一想速激肽
+and I often think about tachykinin for myself because I'm pretty hard driving.
+可能我有很多追求
+I have a lot of pursuits.
+但我的生活中还有很多很棒的人  还有一只非常棒的牛头犬
+I also have a lot of wonderful people and an incredibly wonderful bulldog in my life,
+但有些时候 我完全被目标操控 努力要完成每一件事
+but there are times when I can be so goal-directed and so in motion and trying to accomplish everything 
+然后我有时会忘记速激肽的影响
+that I sometimes forget that about tachykinin,
+然后我就会经常提醒自己 所以我把它贴在了我的桌子上
+and I'd like to remind myself so much so that I actually have a little post it above my desk.
+“速 激 肽”三个大字  提醒我
+It's as tachykinin to remind me.
+速激肽是一种非常邪恶的分子 当我们的社会联系不够紧密时
+The tachykinin is this very sinister molecule that starts being secreted when we are not 
+它就会开始分泌
+socially connected enough.
+这就是为什么要留出时间和朋友或家人吃饭  我们一会儿会讲到手机
+and this is why long meals with friends or family where there we'll talk about phones in a moment,
+但是在没有实际接触的情况下  或者即使只是感觉到我们是联系在一起的
+but where there's no intrusions or even if there are just feeling like we are connected,
+都可以压制速激肽
+suppresses tachykinin and tachykinin.
+这是你必须避免的  因为长期的隔离
+is something you really want to avoid because chronic isolation chronically high,
+与长期压力相关的速激肽  会消耗我们大脑和身体的很多好的功能
+tachykinin that's associated with long term stress really deplete so many good functions of our brain 
+并促进很多不好的功能
+and body and promote so many bad ones,
+包括易怒
+including irritability,
+偏执
+paranoia,
+恐惧
+fear,
+
+这是要避免的
+That is really something to avoid.
+所以我想强调速激肽  来避免它的分泌
+And so I want to highlight tacky kind into something to avoid.
+我并不想完全忽视催产素
+I don't want to completely disregard oxytocin.
+但是催产素在媒体中积累了很多血清素  对更快的时间技巧有作用
+it's just the oxytocin has been built up a lot in the media and really serotonin works on much faster time skills.
+那么你怎么知道你是否在制造血清素呢
+Now how do you know if you're making serotonin?
+你现在不知道
+you don't know in the moment,
+但如果你注意到  有舒适的感觉
+but you can learn if you pay attention to kind of recognize these feelings of comfort,
+信任
+trust,
+幸福
+bliss,
+喜悦
+delight.
+这些都不是单薄的词语
+and those are not weak terms.
+这些不仅仅与心理学术语有关
+Those are not associated just with psychological terms.
+它们是
+they are.
+它们就像你肌肉的运动  和肾上腺素的分泌一样  是生理上的
+They are every bit as physiological as the movement of your muscles are the secretion of adrenalin and many people.
+专注于感恩
+Focus now on gratitude.
+感恩有点主观
+Gratitude is a little bit subjective,
+这里  我们从一些客观的东西转移到一些主观的东西
+and here we're moving from some objective to kind of subjective things,
+但意识到
+but recognizing,
+特别地
+and in particular,
+写下让你感激的事情
+writing down things that you're thankful for.
+无论它们看起来多么渺小
+however small they may seem,
+似乎对血清素系统有积极的影响
+does seem to have a positive effect on the on the serotonin system.
+有太多的事情会影响幸福 并让你调整你的长期压力
+Now there are a plethora of things that will also impact well being and allow you to march to modulate your long term.
+降低了你陷入长期压力的可能性
+Stress reduced the likelihood that you engage in long term stress,
+我们没有时间把这些都讲完
+and we don't have time to go into all of these,
+但当然 找到适合你的饮食和营养计划
+but of course finding the diet and nutrition that's right for you.
+锻炼计划  你的睡眠计划等等
+The exercise schedule   the sleep schedule all that.
+也请不要低估社会联系的部分
+Do not under emphasize the social connection part please as well.
+有些化合物并不是抗抑郁药
+There are some compounds that are not antidepressants,
+但如果你需要抗抑郁药 而且临床医生开了处方 请遵从他们的建议
+although if you need antidepressants and a clinician prescribes them to please follow their advice,
+重要的是要适合你自己
+if that's right for you.
+有些化合物不是处方药  它们可以调节压力系统
+there are compounds that are not prescription compounds that can modulate the stress system 
+有时因为生活的方式
+and sometimes because of the way that life is,
+我们没有机会去控制生活 去控制我们对压力的反应
+we just don't have the opportunity to control life and to control our response to stress.
+至少对我自己来说
+And at least for myself,
+我只能谈谈我自己的经历
+I can only talk about my own experience.
+我发现它在慢性压力的时候很有用
+I found it useful in times of chronic stress,
+开始调节一些与应激反应相关的神经化学物质
+to start modulating some of the neurochemistry related to the stress response,
+为了帮助我们
+in order to help now,
+如果医生给你开了孕激素或其他重要激素的处方
+if a doctor prescribes you pregnant zone or prescribes you some other hormone or something that's important,
+但我现在说的是非处方药 你应该去看看
+but what I'm talking about now are nonprescription things you should check out,
+examine.com
+examine.com
+这个免费网站
+this free website,
+你可以加入任何补品并对补品进行评估
+which will allow you to put in any supplement and evaluate that supplement
+ 他们在Human Effect Matrix中提供链接到Pubmed
+with they provide links in the so called Human Effect Matrix to Pubmed.
+告诉你他们的研究对象是绝经后的妇女  还是孩子
+It tells you the exact subjects they were done in It was a postmenopausal women was at kids.
+是正常的成年人  还是自闭症患者
+Was it normal adults was that people with autism,
+
+看看网站上你正在考虑或服用的任何补品
+Check out that site for any and all supplements you're considering or taking?
+我强烈推荐它  我和他们没有利益关系
+I highly recommend it had no relationship to them.
+我只是觉得这是一个制作精良的很棒的网站
+I just think it's a wonderful site that's curated.
+那么已经讲了很多
+All this important information.
+其中一些化合物已经足够有效了
+Some of these compounds are effective enough.
+它们可以让我放松下来
+they can kind of take the edge off.
+我自己也会定期使用它们
+and I'll use them periodically myself,
+所以我想我应该提一下
+and so I just thought I'd mention them since there,
+对它们感兴趣的人
+a number of you that are interested in them,
+我想重点讲的三个我认为你们需要小心的一个是我之前提到的UsherUganda
+the three I want to focus on and one that I think you need to be cautious about that I mentioned before include Usher Uganda.
+有趣的名字
+Funny name.
+这就是所谓的
+But that's what's called.
+它通常被称为L-茶氨酸  或者茶氨酸
+l-theanine or theanine,
+褪黑激素
+and it's often called and melatonin.
+我们先来谈谈褪黑激素
+Let's talk about melatonin first,
+褪黑激素
+melatonin.
+我在讲睡觉的一个月里
+I talked about during the month on sleep,
+褪黑激素是松果体分泌的一种激素 它与你所处的黑暗程度直接相关
+melatonin is a hormone secreted from the pineal in direct relationship to how much darkness you are in,
+没有情感的黑暗
+not emotional darkness,
+但光线会抑制褪黑激素
+but light suppresses melatonin.
+褪黑激素帮助你入睡
+Melatonin helps you fall asleep.
+它不能帮助你保持睡眠
+It doesn't help you stay asleep.
+我个人不建议补充褪黑激素 因为它的补充量非常高
+I personally do not recommend supplementing melatonin because it supplemented typically at very high levels.
+但是一到三毫克
+Yet one to three milligrams,
+甚至更多 与你通常的生理剂量相比
+or even more that is an outrageously high dose it's super super physiological compared to 
+这是一个非常高的剂量
+what you normally would make.
+它也会对生殖和荷尔蒙产生一些潜在的负面影响
+It also has a number of potentially negative effects on the reproductive access and hormones there.
+如果你愿意  没问题  可以吃
+Some people can take it without problems if you like it,
+这是你自己的事情
+and that's your thing.
+没关系
+Fine,
+我只是想知道  你可能会遇到一些问题
+I just want to queue to the fact that there can be issues you should check on,
+和你的医生谈谈吧
+examine dotcom talk to your doctor,
+特别是小孩子
+especially in kids.
+因为褪黑素会抑制很多物种的
+because melatonin suppresses the puberty response in a number of species enough about 
+青春期反应
+the negative things in melatonin,
+除了那些长期服用过多褪黑激素的人
+except that people who take too much melatonin chronically.
+很多时候 当他们服用它睡觉的时候
+Often times when they're taking it to sleep,
+或者其他原因
+or for whatever reason.
+确实
+yes,
+它可以减少焦虑和压力
+it can reduce anxiety and stress.
+但它也会减少肾上腺的输出 从而导致问题的产生
+But it also can reduce the output of the adrenals to the point where it can become problematic.
+
+关于肾上腺衰竭的说明  实际上在正常情况下 肾上腺是不会衰竭的
+a note about adrenal burn out there is actually no such thing as a dream will burn out under normal conditions.
+肾上腺素有足够的肾上腺素  来支持长达两百年的压力 无论好坏
+The adrenals have enough adrenaline to support two hundred years of stress for better for worse.
+肾上腺衰竭的概念起源于诺贝尔奖得主 汉·西利尔的研究
+The concept of adrenal burnout has origins in the work of Nobel Prize winner Han Sillier,
+他发现了他所谓的一般适应综合症
+who actually discovered what he called the General adaptation Syndrome.
+他发现了很多关于压力的事情
+He discovered a lot of things about stress.
+他做了一些  被证明是正确且非凡的工作
+He did some phenomenal work that turned out to be true.
+没错我们有压力
+We have stressors,
+有一种东西叫窘迫
+there's something called distress.
+他谈到了良性应激
+He talked about eustress,
+这就是积极的压力  良性应激从来没有流行过 没有被广泛讨论过
+which is positive stress eustress has never really caught on in the in the kind of more general discussion.
+他的理论是 如果压力持续的时间足够长
+He had this theory that if stress went on long enough that 
+你最终会达到精疲力竭的阶段
+you would eventually reach a phase called exhaustion.
+结果证明这是错的
+and that turned out to be wrong.
+尽管你们中的许多人可能会因为长期的压力而感到疲惫
+Although many of you may feel exhausted after chronic stress,
+并不是真的发生了生理上的疲惫
+there isn't really a physiological exhaustion that happened and that eventually got picked up 
+最终公众接受到的信息是
+and ran with by the general public,
+肾上腺会耗尽  喝了太多咖啡
+and they talk about a dream will burn out too much coffee adrenal burn out.
+你肯定听过
+you hear all this stuff.
+没有肾上腺衰竭这种事  肾上腺不会衰竭
+There is no such thing as adrenal burn out the adrenals don't burn out.
+但是
+There is something,
+有一些东西
+however,
+叫做肾上腺机能不全综合征
+called Adrenal Insufficiency syndrome,
+这是一个真正存在的生理问题 一些人肾上腺受损
+which is a real physiological problem where some people have very impaired adrenals 
+他们不能产生肾上腺素  褪黑激素在很长一段时间里会非常高
+and they can't produce adrenaline and melatonin taken at very high levels for periods of time that are too long 
+会导致抑制肾上腺皮质醇和肾上腺素释放的
+can cause suppression of the cortisol and epinephrine release from the adrenals 
+可以创造一种
+and can create a kind of pseudo.
+肾上腺机能不全综合征
+Adrenal insufficiency syndrome so.
+所以  要小心褪黑激素
+Beware melatonin.
+出于这个原因
+For that reason,
+请大家
+please.
+我在努力
+I'm trying.
+我一直被问 肾上腺衰竭 这个问题
+I'm alone can't get rid of the phrase adrenal burnout.
+我并不是要为难那些感到精疲力竭的人
+I'm not trying to give a hard time to anyone who feels burnt out or exhausted,
+但还有其他原因
+but it is for other reasons.
+这并不是因为肾上腺素被烧坏了 除非你恰好患有机能不全综合征
+it is not because the adrenals are burnt out unless you happen to have a journal insufficiency syndrome.
+我不喜欢褪黑激素有很多原因
+So I'm not a fan of melatonin for a lot of reasons.
+我已经提到了几个
+Now I've mentioned several.
+还一个是L-茶氨酸  我之前说过L-茶氨酸
+The other is  l-theanine I've talked about  l-theanine,
+可以在睡前30分钟或60分钟
+which provided it safe for you can be taken one hundred milligrams or 
+服用100毫克或200毫克
+two hundred milligrams about thirty minutes or sixty minutes before sleep.
+它可以增强睡眠的过渡和深度睡眠
+It can enhance the transition to sleep and depth of sleep.
+对许多人来说
+For many people.
+它会增加大脑中这种抑制性神经递质的GABA
+It increases gab of this inhibitory neurotransmitter in the brain.
+它会更好地关闭我们的大脑
+It tends to turn off our for brain a little better,
+或者减少我们这种思考系统和反刍的活动
+or reduce the activity of our kind of thinking systems and ruminating.
+系统帮助人们入睡
+Systems help people fall asleep.
+这是针对睡眠的
+That's for sleep.
+但茶氨酸的研究也证明了那些长期焦虑或长期紧张的人
+But l-theanine has also been shown for people that are chronically anxious or chronically stressed.
+如果你看看这些研究  我面前有大量的研究
+if you look at the studies that I have a large collection of studies in front of me right now,
+如果你想看这些链接
+if you want to see those links,
+我知道如果你想要了解 去examine.com吧 把茶氨酸放进去搜一下
+I know if you want those go to examine dotcom put in theanine they linked,
+例如
+for instance,
+众所周知 它能显著地增强放松
+it is known to significantly increase relaxation.
+他们的四项研究都列在了pubmed的链接上
+Their four studies listed there with pubmed links.
+已知它对焦虑有轻微的影响
+It is known to have a minor effect on anxiety,
+但是有八个研究表明了这一点  我认为这是一个相当大的研究
+but eight studies have shown that which I think is a fairly large set of studies,
+有些还发表在很棒的期刊里
+some of them in great journals.
+它还可以减少任务完成焦虑
+It also can reduce task completion anxiety,
+所以与任务完成相关的焦虑
+so anxiety related to task completion,
+这对拖延症患者来说并不友好
+not good for the procrastinators,
+也许
+perhaps,
+对于那些长期紧张的人
+but for those either chronically stressed,
+它可以增加注意力
+it can increase attention.
+可以对降低血压有一点帮助
+a little bit can reduce blood pressure,
+改善睡眠质量有一点帮助
+a little bit improves sleep quality,
+
+它无疑对学习压力有显著的影响
+It definitely has a notable effect on stress to studies,
+尤其是它可以显著地减少压力的影响
+in particular that it can notably reduce the effects of stress.
+所以这里有很多东西  比如失眠患者的血脂情况
+So there's a lot there it also as if Exxon insomnia on some blood lipid profiles 
+可以去examine.com看看
+and to go to examine.com and check it out.
+但这也是我为了睡眠补充茶氨酸的原因之一
+But this is one reason why I supplement the theanine for sleep.
+但是如果我感觉我承受了很大的压力
+But if I'm feeling like I've been under a lot of stress 
+我不能很好地利用之前提到的  短期和中期工具来控制我的压力
+and I'm not managing my stress very well with a short term and medium term tools that I talked about earlier,
+我可能会开始服用一些茶氨酸
+I might start taking a little bit of theanine,
+尤其是在傍晚
+especially in the late afternoon,
+这时我就会觉得自己做的事情还不够多
+which is when I tend to start to feel like I haven't gotten enough done,
+今天还得继续工作
+and the day is kind of carrying on,
+所以你可以稍微减弱对压力的反应
+and so you can blunt the response to stress a little bit,
+这就是为什么很多公司现在把茶氨酸放入能量饮料
+which is why a lot of companies are now putting theanine into energy drinks.
+我不太喜欢能量饮料
+I am not a big fan of most energy drinks,
+大多数都含有牛磺酸
+most of them have taurine,
+我知道你们中的一些人给我留言  说牛磺酸很好
+in which I know some of you wrote to me as taurine is great.
+由于所有这些原因
+For all these reasons.
+牛磺酸对微血管也有影响
+taurine also has effects on the microvascular that,
+至少对我来说
+at least for me,
+可能会导致引起巩膜微血管爆裂
+were not good at caused bursting of microvascular in my sclera in my eyes,
+这就是为什么我不喜欢任何含有牛磺酸的能量饮料
+which is why I'm not a fan of any energy drink that has torn or taurine generally.
+但这只是我的想法
+But that's just me.
+你得自己做决定
+You'll have to decide for you.
+我相信在评论区会有一些牛磺酸簇拥者会说
+I'm sure the comment section there'll be a couple of tauriness does out there that will say,
+但我喜欢服用牛磺酸
+but I love taurine.
+没问题
+Great.
+可以让牛磺酸公司不倒闭
+Keep the taurine companies in business.
+但它不适合我
+but it's not for me,
+我想让大家知道这对每个人来说可能适合 也可能不适合
+and I'd like people to know that it may or may not be for them.
+另一个非常有用的补充是南非醉茄
+The other supplement that can be very useful is Ashwagandha
+南非醉茄可以降低焦虑和皮质醇
+Ashwagandha is known to lower anxiety and cortisol.
+有六个
+There is six.
+不好意思说错了
+There are Excuse me.
+六项研究共同表明  皮质醇水平下降
+Six studies that collectively show reductions in cortisol,
+皮质醇
+which is cortisol,
+通常与早上醒来有关
+is typically associated with waking up in the morning,
+这是好的
+which is good.
+这是一个健康
+That's a healthy,
+短暂的皮质醇激增  然后褪去
+brief cortisol bump that goes away,
+只要你能在正确的时间中得到光
+provided you're getting your light at the right time of days at right,
+正确的时间 如早上和晚上
+correct times of day like morning and evening.
+但你不希望皮质醇长期升高
+But you don't want cortisol chronically elevated.
+这和所有关于压力的不好的东西有关
+That's associated with all the bad stuff about stress.
+南非醉茄有很强的影响
+There's a very strong effect of Ashwagandha.
+你可以到examine.com去查看剂量
+you can find dosages that examined outcome.
+他们在六项研究中报告
+they report in across six studies.
+在健康但有压力反应的人体中 服用南非醉茄后 皮质醇下降了14.5到27.9点
+fourteen point five to twenty seven point nine reduction in cortisol in otherwise healthy but stressed individuals.
+我不了解孩子的情况怎么样
+Now I don't know about kids.
+你必须看补充剂上的说明
+you have to look at what it says on very supplements.
+这里的大部分事情都是成年人为试验者做的
+Most things here are being done an adult,
+所以请仔细检查
+so please check carefully,
+但这很棒
+but this is great.
+我的意思是  我会服用这种东西
+I mean the opportunity for me anyway to be able to take something that 
+来帮助我降低皮质醇水平 这样我就不会受到压力的长期影响
+can help me reduce my cortisol so that I don't get some of the long term effects of stress,
+我不会长年累月地服用南非醉茄
+and I'm not going to take Ashwagandha a year round.
+只有当我觉得自己无法管理好自己的中短期压力时 我才会这么做
+I would only do this if I was feeling like I wasn't managing my short and medium term stress well
+所以我不经常服用
+so I don't take it on a regular basis.
+我确实会在压力特别大的时候服用
+I do take it when I'm in these times when things are particularly stressful,
+它有
+it has.
+还有其他五项研究表明
+There are five other studies that show.
+减少压力 不是皮质醇
+Reduced stress so that's not cortisol,
+测量
+measurements,
+但是像疲劳
+but things like fatigue,
+认知障碍 这些
+cognitive impairment,
+
+它会降低胆固醇的总量
+It does lower total cholesterol,
+这可能对你有好处 也可能对你有坏处  高达10%
+which may or may not be good or bad for you up to ten per cent.
+所以有些人不想降低胆固醇
+So some people don't want their cholesterol lowered.
+有些人可能会产生胆固醇
+Some people might cholesterol,
+我们会用一个月的时间来讨论荷尔蒙这个问题
+and we'll talk about this in a month on hormones.
+但是胆固醇是合成睾酮 雌激素和皮质醇的分子
+But cholesterol is the molecule from which testosterone and estrogen and cortisol for that matter are synthesized.
+所以你不能让你的胆固醇太低 这样会有各种负面影响
+So you don't want to get your cholesterol so low that there are all sorts of negative effects,
+但又不想太高  在临床研究中胆固醇对减少压力有轻微效果
+but don't want to high either mild effects in good clinical studies on reducing depression,
+可能与压力和其他一些事情有关
+probably associated with the effects on stress and some other things as well.
+所以我要给大家展示一下我时不时会用到的东西
+So I'll show a gander is something I use from time to time.
+这很有趣
+It's kind of interesting L-theanine.
+我很少在白天使用茶氨酸
+I rarely will use those during the daytime,
+除非在我感到长期压力的时候
+except under conditions where I'm feeling chronically stressed,
+再去检查一下examine.com网站上的人类影响矩阵
+so check out the human effect matrix on examined Dot com again,
+一个非凡的网站
+a phenomenal website.
+我想我之前给他们发过几封邮件
+I think I've sent them a few emails before.
+这是我和他们唯一的一次交流
+That's the only exchanges I've ever had with them,
+但我觉得他们能把这些资源整合起来真的太棒了
+but I just think it's wonderful that they put together this resource,
+否则我们就要自己去搜索pubmed了  他们已经核对好了
+otherwise we'd be stuck mining pubmed they've collated that the ,
+从Pubmed链接到Pubmed的论文
+the papers from Pubmed with links to Pubmed,
+优秀资源的整合
+so terrific resource,
+社会联系  以及一些补充
+so social connection and some supplementation.
+当然
+Of course,
+还有饮食 运动
+diet exercise,
+睡眠  对付长期压力要记住这些
+sleep for long term stress.
+现在我们终于可以谈谈  我们要着手讲的事情
+And now we are finally in a position to talk about what we have set out to do from the beginning,
+接下来一个月的时间都会花在情感上
+which has spent a month on emotions.
+我们讨论压力是非常重要的  我们在短中长期压力的背景下讨论
+It was very important that we discuss stress and we discussed in the context of short,
+我们讨论了短期的工具
+medium and long term stress that we discussed tools for short term,
+中期和长期的工具方法
+medium term and long term control.
+我不想说“缓解”压力
+I don't really want to say mitigation of stress.
+压力就是会发生
+Stress is going to happen,
+但是我们实时调节 和控制压力的能力  使用的工具
+but our ability to modulate and control stress in real time offline using tools
+比如呼吸    比如视野的扩张
+such as respiration using tools such as dilation of gaze,
+利用社交联系等方法工具
+Using tools like social connection,
+也许一些补品  当然了 保证你的睡眠 营养和锻炼
+maybe some supplements certainly take care of your sleep and nutrition and exercise.
+再一次
+Again,
+讲睡眠的那一个月中有大量的资源和信息
+tons of resources and information in the sleep episodes,
+你可以回去看看那几期
+so you can look there,
+我们之后又一个月会讲到荷尔蒙  会讲到运动
+we will do a month on hormones on exercise,
+
+这个月来谈谈情绪
+But let's talk about emotions because.
+在随后的几期节目中
+In subsequent episodes,
+我们会讲到
+we're going to talk about,
+强迫症
+OCD
+会讲到抑郁症
+We're going to talk about depression.
+躁狂
+We're going to talk about mania.
+我们将讨论多巴胺和其他各种东西
+We're going to be talking about dopamine and all sorts of things.
+而是这些核心都是情感
+But at the core of emotions.
+这算是问题吗
+Is this question?
+什么是情绪
+What is an emotion?
+
+它是复杂的
+it's complex.
+大脑中没有一个单独的区域来处理这些我们称之为情绪的东西
+There isn't a single brain area for any one of these things that we call emotions,
+在我的知识框架中  现代科学 包括心理学和神经科学
+my framework and I think the modern science with psychology and neuroscience.
+这与丽莎·费尔德曼·巴雷特在东北大学(NortheasternUniversity)谈到的非常一致
+is pretty well aligned with what Lisa Feldman Barrett has talked about now Lisa at Northeastern University.
+她在那里经营着一个大实验室
+She runs a big lab there.
+她是情绪方面的世界级专家
+She's a world expert in emotion.
+她写了两本书 非常棒
+She's written two books that are really wonderful.
+一本是<How Emotions Are Made: The Secret Life of the Brain>
+One is how emotions are made,
+这是她的第一本书
+which was her first book.
+第二本是 <Seven and a Half Lessons About the Brain>  也是一本很棒的书
+The second one is seven and a half facts about the brain as a wonderful book as well.
+这本是最近出版的
+It came out more recently,
+我在Instagram直播的时候邀请了Lisa
+I hosted Lisa on an Instagram live Once.
+也许我们之后会在播客中邀请她
+Maybe we'll get here her here on the podcast.
+如果我们幸运的话
+If we're lucky,
+我们对情绪神经科学的看法并不完全一致
+we don't agree on everything about the neuroscience of emotions.
+但我对我听到的大部分她说的都深信不疑
+but I subscribe to most everything that I've heard,
+丽莎说
+Lisa say.
+特别是
+in particular,
+事实上 情绪是有场景依赖性的
+the fact that emotions are context dependent,
+还有一种文化依赖
+there's a cultural dependence,
+
+我主要是从生理学和神经科学的角度 来看待事物的底层的回路
+I look at things mainly through the lens of physiology and neuroscience at kind of low level circuitry,
+我认为一种思考情感的方式是一致的
+and one way to think about emotions that I think is consistent,
+我想丽莎也会同意的
+and I think Lisa would generally approve.
+虽然我不能替她发表意见
+I can't speak for her,
+但我希望她会普遍认同这样的描述
+but I would hope she would generally approve of this description is that 
+当我们的内在压力或平静状态符合我们的要求时
+when our internal state of stress or calm matches the demands on us
+或者与我们的需求不匹配时
+Or is mismatch from the demands on us?
+我们倾向于将其解读为“好”或“坏”
+We tend to interpret those as good or bad.
+让我给你举个例子
+Let me give you an example.
+如果我感到非常焦虑
+if I am feeling very anxious,
+内心压力非常大
+very stressed inside.
+我还有很多事要做
+And I have a lot to do.
+这感觉就不太好
+That doesn't feel good,
+但这其实与 “我很累 还有很多事要做” 这两种情况没什么不同 因为都是这种不匹配
+but it's really no different than if I'm very tired and I have a lot to do because there's this mismatch.
+我的内心状态不太好
+I'm not in the right internal state.
+我的内在状态是正确的 完全可以满足强加于我的要求
+My internal state is in correct rather to meet the demands that are being placed upon me.
+在这两种情况下
+So in both cases,
+太累或压力太大而不能做我需要做的事时
+when I'm too tired or m to stress to do what I need to do,
+这种“效价”
+the valence,
+也就是说 我给它赋的值
+meaning the value that I assigned to,
+就是
+that is,
+我感觉“不好”
+I don't feel good,
+这不是一个“好”情况
+It's not a good situation,
+我感觉不太好
+and I don't feel good.
+我可能称之为压力 也可能称之为焦虑
+I might call it stressed I might call it anxious,
+我可能会把它称之为担心  可能会有很多说法
+I might call it worried might call it a number of things,
+不管怎么样就是不好
+but its not good.
+然而
+However,
+当我累了 想好好睡觉的时候
+when I'm tired and I want to fall asleep well,
+我感觉很好 因为这就是需求
+then I feel good because that's what the demand is.
+我要睡觉了 我累了
+I need to go to sleep and I'm tired.
+如果我很清醒 需要睡觉
+If I'm wide awake and I need to fall asleep,
+那就是“不好”了
+then that's not good,
+我倾向...
+and I tend.
+大脑顶部  就会倾向  把这种情况解读为“糟糕”的情况
+Then the brain top tends to go down the direction of interpreting the situation as a bad one.
+所以 虽然关于情绪的讨论远比这更微妙 更详尽
+So while the discussion around emotions is far more nuanced and more elaborate than this,
+考虑你与情绪的关系的一种方法是
+one way to think about your relationship to emotions is  
+你的内在状态是否与你的需求相匹配
+whether or not your internal state is matching the demands that are upon you.
+这样一来 我们就不会把精力放在判断自己是否警觉或困倦上了
+So in that way we don't really play so much value on whether or not we're feeling alert or sleepy.
+我们只看重  这种警觉性
+We only place value on whether or not that alertness,
+或者是一种完全的压力
+whether not it's full blown stress or not,
+或嗜睡
+or sleepiness,
+不管我们是睡着了  还是有点困
+whether or not we're falling asleep or just a little bit drowsy,
+这种状态  是否符合我们所面临的条件
+whether or not that matches the conditions that we face,
+这是一个很有用的框架
+and it's a useful framework to have.
+这也是为什么我花了一个半小时谈论压力
+and it's the reason in part why I spent this last hour and a half or so talking about stress 
+以及如何控制压力的一部分原因
+and how to control stress.
+我们这么做的一个原因是  我认为这是一个宝贵的机会
+One reason we did that is because I think it's a valuable opportunity 
+让大家学习一些方法  了解压力 并真正学习如何控制压力
+to learn some tools and understand stress and really learn how to take control of stress,
+我想无论年龄多大 我们都能从中受益
+which I think we could all benefit from doing regardless of age.
+另一个原因是 当你开始了解到你的身体里有这种“跷跷板系统”时
+The other reason is that when you start to understand that you have this kind of seesaw system in your body,
+就是自主神经系统  它让你从警觉到平静
+This autonomic nervous system that takes you from alert and calm,
+再到压力过大 再到恐慌的完全爆发
+too stressed to full blown panic.
+它有这种能力
+It has that capacity,
+或者 从困倦到昏过去
+or from sleepy and drowsy to passing out.
+累了
+tired,
+到一种
+too.
+
+上帝保佑
+God forbid,
+最好永远别发生
+let's hope never.
+就是知道晕倒昏迷过去  你基本上就像一直在跷跷板上
+But a coma right that you're basically on this seesaw all the time 
+跷跷板上的警戒或冷静  会让你对所面对的要求有更好的反应
+and where you are on that seesaw of alertness or calmness positions you to be in better reaction to the demands that you face,
+不管你所面对的是需要入睡  还是安静地倾听 不做出反应
+whether or not the thing that you face is the need to fall asleep or to listen quietly and not react.
+你现在自己可以知道了
+You now know,
+例如
+for instance,
+如果你的工作是接受反馈
+that if your job is to take feedback,
+也许你要参加工作评估
+maybe you're going in for a job evaluation,
+或者你处于一段亟待讨论的关系中
+or you're in a relationship where there was a call for a discussion.
+有人要和你谈谈
+and somebody needs to talk to you about something,
+“我们得谈谈”
+and we need to talk about something you're going to.
+然后你会想“天哪
+then like goodness.
+估计有的难受了”
+This is gonna be rough.
+学习一点减少这种应激反应 这样你就能更好地听到信息
+Learning to reduce that stress response a little bit so that you are in a position to hear the information better 
+记得上一期讲的吗
+and remember from a previous episode.
+如果你闭上眼睛
+If you close your eyes,
+你将能够更好地关注信息
+you'll be able to actually focus on the information better.
+当别人和你说话的时候 你可以不直视对方的眼睛
+There's your permission to not look someone directly in the eye when they talk to you.
+如果你真的想听他们说什么  就这样做吧
+If you really want to hear what they have to say,
+你将能够调整这种应激反应 更好地融入生活
+you will be able to modulate that stress response and lean into life better.
+你将能够以一种更有效的方式对事情做出反应 而不是被动的反应
+you will be able to react to things in a more effective way and not be reactive.
+这对我来说真的很重要
+and this is really one of the important things to me anyway.
+那么多心理学的术语
+Is that so much of the language around psychology,
+当然这是一个很棒的领域
+which I think is a wonderful field.
+尤其是流行心理学
+But pop psychology in particular,
+这个领域中 都会说应答的
+is the responsive,
+而不是非主动的
+not reactive,
+好
+well great.
+但那要怎么做呢
+But then how does one do that?
+实时调节他们的短期应激反应
+What one does that by modulating their shortterm stress response in real time,
+不是说“等等
+not by saying hold on,
+我需要冥想”
+I need to meditate,
+“等等
+hold on,
+我需要按摩”
+I need a massage,
+然后我就可以通过实时调节反应  来对外部世界进行反映
+and then I can have this conversation by modulating the reactivity in real time.
+一个人如何
+How does one,
+保持正念
+be mindful,
+当然了 这是一个很好的概念
+Which is a beautiful concept.
+但你如何做到正念呢
+But how are you mindful?
+
+我不知道我的一天是怎么度过的  很多时候
+I don't know when I'm moving through my day a lot of times.
+我只是想把事情做完
+I'm just trying to get things done,
+一旦我开始观察自己  看着自己在做什么 从第三视角来观察自己
+and as soon as I start monitoring and seeing what I'm doing and it kind of third person in what I'm doing,
+这样实际上让我失去了工作的有效性和经验
+it actually takes me out of the effectiveness and experience of what I'm doing.
+所以对我来说
+So for me.
+有时候 所谓的 “观察者” “正念”
+Sometimes that mindfulness that observer as they call it is,
+对我毫无帮助
+is something that doesn't help me.
+可能还会阻碍我
+It actually hinders me.
+对我来说重要的是  能够工作和专注
+What's important to me is to be able to work and focus,
+然后完了之后  让自己脱离出来
+and then to be able to disengage,
+能够进行NSDR 或者能够好好的入睡
+to be able to do an on sleep depressed or to be able to still fall asleep.
+即便我一直努力工作到九点半
+even though I've been working hard until nine,
+十点钟躺下来
+thirty to put my head down at ten o'clock and be out cold,
+十点零二分  睡觉
+sleeping by ten or two.
+这是有可能的
+That's possible.
+只要你能学会控制这种应激反应
+If you can learn to control this stress response,
+为了做到这一点
+and to do that,
+我们不能用意念控制意念
+we can't use the mind to control the mind.
+我们需要的是工具
+we need tools.
+很多人脾气暴躁 焦虑 抑郁
+and so a lot of the people being grumpy or anxious or depressed.
+这并不是由于某种潜在的慢性神经化学原因造成的
+A lot of that provides not for some underlying neurochemical reason that's chronic.
+这很大程度上是由于过度劳累导致的休息不足 然后感觉世界在向我们施加压力
+A lot of that comes from being poorly rested from overworked from feeling like the world is bearing down on us.
+所以我不想主观地看待这个问题
+and so rather than take a subjective view of this,
+我持客观生理学的观点
+I take the view of objective physiology.
+我们该怎么办
+What can we do?
+瞄准身体 大脑 眼睛和横膈膜的神经元系统上
+That's anchor to these neuronal systems in their body and our brain and our eyes and our diaphragm,
+
+把这些东西看作是工具
+and look to those as tools leavers that 
+我们可以在生活中操纵  让我们有一定的能动性
+we can pull on and push and maneuver through life in a way where we start to feel like we have some agency.
+我们真的有一些真正的控制权 因为我们控制着内部格局
+We actually have some real control because we're controlling the internal landscape,
+所以我认为这应该为我们接下来要讲的打下基础
+so I think that ought to set the stage for where we're headed next,
+也就是说 讲到情绪时  你通常会想到快乐这样的事情
+which is to talk about all the things that you normally think of when you think of emotions like happiness,
+比如幸福
+like all like joy,
+我们会讲到的
+and we will get into some of that.
+但所有这些都牢固地
+But all of that rests firmly.
+扎根在这点上
+On the foundation of this thing,
+我们把自主神经系统称为这种压力调制
+we call the autonomic nervous system this stress modulation,
+这个镇定调制系统
+this calming modulation system,
+再说一下
+and again,
+不管你是否被刺激 或是很冷静
+Whether or not you're activated or your calm is not good or bad,
+是好是坏要看情况而定
+it depends on the situation.
+当然 当你想睡觉的时候  被刺激并不是件好事
+Certainly when you want to fall asleep,
+但是如果你还有工作要做  这时候被刺激是件好事
+being activated isn't good when you have work to do being activated is great.
+所以我希望今天你们能够从一个稍微不同的角度来看待  我们称之为“压力”的这个东西
+So I hope today you were able to take a slightly different view of this thing that we call stress,
+不只是把它视为邪恶
+not just see it as evil,
+但我们认为它在某些情况下很强大 很有用  在某些情况下对我们很重要
+but see it as powerful and useful in certain contexts of great for us in certain contexts 
+而在其他情况下则是成问题的
+and problematic in other contexts,
+同时考虑一下我已经介绍过的各种工具方法
+and as well to think about the various tools that I've presented.
+这可以让你调整和调节你内在的警觉性或冷静的水平
+That can allow you to adjust and modulate your internal levels of alertness or calmness 
+这样你就可以将它们更有效地融入生活
+so that you can lean more effectively into life,
+包括睡眠和你必须好好维系的社会关系
+which include sleep and social connection and the work you have to do and of course,
+承认在这世界上 发生的事情超出我们的控制
+acknowledges that the events in the world are beyond our control.
+我们能控制的是  我们对它们的反应
+What's in our control is how we react to them,
+这是心理学世界中健康和自我帮助的常用说法
+something that's commonly said in the wellness and self help in psychology world,
+但对于这一点 我们通常没有太多的具体工具可以实时关注
+but for which there often aren't as many concrete tools that we can really look to interest in real time.
+当然
+And of course,
+还有其他的工具
+There are other tools out there.
+跟之前一样
+As always.
+我会说
+I'll say it.
+我努力做到准确
+I strive to be accurate,
+但我永远不会把所有说完
+but I'll never be exhaustive.
+可能听这些已经把你累死了
+I might have exhausted you.
+今天的讨论可能可以治好你的失眠
+I might have cured your insomnia with this discussion today,
+但说真的
+but in all seriousness,
+我的目标是带给你们工具和信息 让你们能够更好地管理生活
+my goal is to bring you tools and information so that you can manage better through life.
+非常感谢
+So thanks so much.
+我非常感谢大家对播客的支持
+I very much want to thank all of you for your support for the podcast.
+这已经很棒了
+It's really been wonderful.
+如果你订阅了Youtube频道
+If you subscribe to the podcast on Youtube,
+苹果 或者Spotify
+Apple or Spotify,
+或者全部都关注了  那太感谢了
+or maybe even all three terrific.
+如果还没有
+If you haven't,
+请在Youtube上订阅吧
+please do subscribe on Youtube,
+或者苹果和Spotify
+Apple or Spot a fire,
+如果可能的话三个都订阅了
+maybe even all three,
+那就真的太好了
+which would be wonderful.
+在Apple上
+on Apple.
+如果你认为我们应该得到五星评价 可以给我们评价
+You can leave a five Star review if you think we deserve that,
+以及留下对我们的评论
+as well as a comment reviewing us.
+如果你有什么建议
+If you have suggestions,
+如果你对播客的内容有任何疑问 或者你希望我们在未来继续讲解的内容
+if you have questions regarding the content of the podcast or things that you'd like us to cover in the future,
+请把这些也放到Youtube的评论区
+please put those in the comment section on Youtube as well.
+如果你能推荐播客给朋友
+If you could recommend the podcast to friends,
+家人
+family members,
+你认为会从中受益的同事
+coworkers that you think would benefit from the information,
+如果你愿意 甚至可以把链接发给他们
+Maybe even send them the links if you like,
+这也对我们非常有帮助
+that's tremendously helpful to day,
+与之前的几期一样  今天
+as in previous episodes,
+我已经提到了一些与补剂有关的东西
+I've touched on some things as they relate to supplementation.
+像往常一样
+As always,
+我总是会讲到很多零成本的工具  这些工具不涉及任何药物的服用  都是纯行为工具
+I always cover a lot of tools that are zero cost tools that don't involve ingesting anything at all behavioral tools.
+但我都会提到一些我觉得特别有用的补品
+But I mentioned some supplements that I particularly find useful.
+补剂是一个复杂的领域
+With supplements is a complicated landscape,
+通常是因为很多补剂公司往瓶子里放的东西
+often because many supplement companies don't put in the bottle.
+和瓶身上完全不一样
+What they say is in.
+我们与Thorne合作
+A particular product we've partnered with Thorne
+因为Thorne是一家 我们知道它的严格程度是最高的补品公司
+Because thorn is a supplement company that we know to have the highest levels of stringency.
+梅奥诊所使用过
+It's used by the Mayo Clinic.
+因为这个原因 所有主要的体育组织都使用它
+It's used by all the major sports organizations for that particular reason  
+因为他们的质量标准非常高
+and because their quality standards are exceptionally high.
+如果你想试试我服用的补品
+If you'd like to try any supplements and see the ones that I take,
+你可以去thorne.com/u/huberman
+you can go to thorne.com/u/huberman
+如果你去买了
+and if you do that,
+页面上列出的东西都可以打八折
+you'll get twenty percent off and eating that listed there on my page,
+以及任何thorne的补品
+as well as any of the supplements that thorn cells so that Thorn T,
+thorne.com/u/huberman
+thorne.com/u/huberman
+得到百分之二十的折扣 任何thorne卖的补品
+to get twenty per cent off anything that thorn cells.
+此外
+In addition,
+如果你想在推特上关注我们
+if you want to follow us on Twitter,
+是HubermanLab  或者ig上的@hubermanlab
+where they're @hubermanlab or an Instagram @hubermanlab,
+我也在@hubermanlab账号上放一些神经科学的内容
+I also do some content on @hubermanlab Little Neuroscience.
+一些就是播客里的剪辑片段
+Post Summer repost clips from the Podcasts.
+其他的是你在播客上找不到的独特内容 所以你可以在@hubermanlab关注我们
+Others are unique content that you won't find on the podcast so you can follow us it @hubermanlab
+同时
+Also,
+如果你喜欢
+if you like,
+可以去patreon.com/andrewhuberman上捐款  最重要的是
+Check out our patriotic patreon.com/andrewhuberman and most of all,
+一如既往
+and as always,
+非常感谢你今天的时间和关注
+really appreciate your time and attention today.
+希望你们能找到并练习一些适合自己的工具
+I hope you practice some of the tools if they're right for you.
+我希望你们认真思考压力  以及如何控制压力 最重要的是
+I hope you think hard about stress and how you can control your stress and above all,
+像往常一样
+as always,
+谢谢你对科学的兴趣
+thank you for your interest in science.

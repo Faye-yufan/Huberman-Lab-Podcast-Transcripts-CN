@@ -1,0 +1,3026 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到HubermanLab播客
+Welcome to the HubermanLab Podcast,
+在这里我们讨论科学与日常生活中的科学工具
+we discuss science and science space tools for everyday life.
+我是Andrew Huberman
+I'm Andrew Huberman
+是斯坦福医学院的神经生物学和眼科教授
+and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色是分开的
+This podcast is separate from my teaching and research roles at Stanford.
+然而
+It is,
+这是
+however,
+我的部分愿望  目的是为了给消费者提供零成本的关于科学的信息
+part of my desire to bring you zero cost a consumer information about science and science,
+以及相关工具
+related tools.
+为了与这个主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是HelixSleep
+Our first sponsor is Helix.
+HelixSleep制作的床垫非常适合你的睡眠需求
+Sleep makes mattresses that are ideally suited to your sleep needs.
+他们家的
+helix.
+床垫是惊人的
+Mattresses are amazing,
+我之所以这么说 是因为我一直睡这个床垫
+and I can say this because I've been sleeping on one 
+而且睡得比以前任何时候都好
+and I've been sleeping better than I've ever slept before.
+关于Helix床垫的有趣之处在于
+The interesting thing about healing smashes is that they're tailored to
+ 它们是根据你独特的体型和睡眠方式量身定制的
+your unique body type and sleeping style once a sleeping style.
+恩
+Well,
+如果你去他们网站
+if you go to the hill,
+你可以做一个快速测验
+excite you can take a quick quiz.
+大约需要两分钟  看你是趴着睡
+It takes about two minutes as to whether or not you sleep on your stomach,
+还是侧着睡
+your side,
+还是背靠着睡
+you're back,
+不管你是否来回翻转
+whether or not you flip back and forth,
+或者你不知道你是以什么姿势睡觉
+or whether or not you don't know in what position you sleep 
+以及你是睡着的时候倾向于热还是冷
+as well as whether or not you tend to run hot or run cold,
+或者冷的醒来
+wake up cold,
+热的醒来
+wake up hot,
+等
+etc.
+如果你这样做
+If you do that,
+然后它就会把你和适合你睡觉的床垫匹配起来
+then it will match you to the mattress that's perfect for your sleep needs.
+如果你想试试Helix床垫
+If you want to try a helix mattress,
+你可以登陆helixsleep.com/huberman
+you can go to helix sleep dot com slash huberman,
+如果你去那个网站
+and if you do that,
+除了免费枕头外 您还可以减去200美元
+You'll get two hundred dollars off your order as well as to free pillows.
+这是helixsleep.com/huberman
+that's helixsleep dot com,slash huberman.
+今天播客的第二个赞助商是Athleticgreens
+The second sponsor of today's podcast is athletic greens.
+Athleticgreens是一款综合补剂
+Athletic greens is an all in one,
+维生素矿物质益生菌饮料
+a vitamin mineral probiotic drink.
+我从2012年开始使用Athleticgreens
+I've been using athletic green since two thousand and twelve,
+我开始服用它 因为我对应该服用哪些维生素
+and I start using it because I had a lot of confusion about what vitamins 
+和哪些矿物质有很多困惑
+and minerals I should take and taking an athletic greens.
+而Athleticgreens让我在一款产品里 就能得到我需要的所有东西
+Allow me to get the foundation of sort of the base of everything I need in one easy to consume.
+一款产品
+Formula.
+而且它味道很好
+It tastes great,
+我把水和一点柠檬汁混合
+I mixed with water and a little bit of lemon juice,
+很喜欢喝它
+and I like drinking it.
+里面的益生菌对我也很重要
+And the probiotics in there are important to me as well,
+因为有很多数据现实
+because there are a lot of data out.
+现在已经确定了肠道微生物群以及肠道大脑通路
+There now identified the gut microbiome and the importance of the gut brain 
+在四种免疫功能中的重要性
+access in the four immune function,
+代谢功能等等
+metabolic function and so forth.
+如果你想尝试Athleticgreens
+If you want to try athletic greens,
+你可以去athleticgreens.com/huberman
+you can go to athleticgreens.com/huberman
+如果你这么做了
+and if you do that,
+他们还会给你送来一年的液体维生素D3
+they'll also send you a year's supply of liquid vitamin D.
+维生素 K
+Three K too.
+有很多数据开始显示  维生素d3对免疫功能的重要性
+There are a lot of data starting to surface about the importance of vitamin D three for immune function,
+代谢功能和内分泌功能等
+metabolic function and endocrine function and so forth.
+此外
+In addition,
+如果你去athleticgreens.com/huberman
+if you go to athleticgreens.com/huberman
+你会得到一年的维生素d3和K补剂
+you'll get the year supply of d three and K too,
+还有五个免费旅行装
+as well as five free travel packs,
+就是小包装的Athleticgreens产品
+which are little packets of athletic greens.
+除了你的如常服用 当你在飞机上或其他旅行时
+In addition to your normal order and those are great for when you're on the plane 
+这些就很好用
+or your otherwise traveling,
+不用什么搅拌工具就能摇匀
+they mix up really easily without any master.
+不用勺子舀出粉末之类的东西  平时在家很容易做的事情
+The need to spoon out powder and things of that sort those are the things that are easy to do at home,
+在路上可能有点困难
+kind of harder on the road.
+这些包装在旅途中就很方便
+Those packets make it easy while on the road.
+今天我们来谈谈梦
+Today we're going to talk about dreaming,
+做梦时学习 做梦时遗忘
+learning during dreaming and unlearned during dreaming,
+特别是遗忘令人不安的情绪事件
+in particular unlearning of troubling emotional events.
+我对梦的兴趣可以追溯到很久以前
+Now my interest in dreaming goes way back.
+当我还是个孩子时
+When I was a child,
+我有个朋友 有一天他来找我
+I had a friend and he came over one day,
+他带来了一个面具 在里面角上有一个小红光
+and he brought with him a mask that had a little red light in the corner.
+他是通过某本杂志的广告买的这个东西
+He had purchased the thing through some magazine ad that he had seen,
+这个面具本来是用来触发清醒梦的
+and this mask was supposed to trigger lucid dreaming.
+清醒梦是指  在睡眠中做梦
+Lucid dreaming is the experience of dreaming during sleep.
+但能意识到自己在做梦的体验 在某些情况下能够指导自己的做梦活动
+But being aware that one is dreaming and in some cases being able to direct one's dream activity.
+所以如果你在清醒梦中想飞
+So if you are in a lucid dream and you want to fly, for instance,
+有报道说  有些人能够自己在梦里开始飞
+some people report being able to initiate that experience of flying or 
+或者把自己扭曲成动物 或者把自己送到他们想去的任何地方
+to contort themselves into an animal or to transport themselves to wherever they want.
+在梦中
+Within the dream.
+我试过这个装置  它的工作原理就是你在清醒状态下戴上面具
+I tried this device the way it worked as you put on the mask during the waking state wide awake,
+看着角上闪烁的微光
+and you look at the low light flashing in the corner,
+你晚上睡觉的时候也戴着它
+and then you'd also wear it when you went to sleep at night,
+然后
+and indeed,
+当我睡着的时候
+while I was asleep,
+我就能看到红灯
+I could see the red light,
+大概是通过我的眼皮
+presumably through my eyelids,
+也许我可能睁开了眼睛
+although probably I know am I had opened my eyes?
+我也不知道 因为我睡着了 因为我在做梦
+I don't know I was asleep and then because I was dreaming 
+我经历了一些非常生动的事情
+and I was experiencing something very vivid,
+我能意识到我是在做梦 然后开始引导梦中发生的一些事情
+I was able to recognize that I was dreaming and then start to direct some of the events within that dream.
+大约20%的人会做清醒梦
+Now lucid dreaming occurs in about twenty percent of people,
+在这些人中有一小部分人
+and in a small percentage of those people,
+他们几乎每天晚上都做清醒梦
+they lucid dream almost every night.
+以至于有报道说  他们中的许多人的睡眠不如其他情况下那么有活力
+So much so that many of them report their sleep not being as restorative as it would be otherwise.
+所有这些都是为了说明
+Now all of this is to say that lucid,
+清醒梦和普通梦都是深刻的经历
+dreaming and dreaming are profound experiences.
+我们倾向于极度依恋我们梦境的经历
+We tend to feel extremely attached to our dream experience.
+这也许可以解释  如果人们做了强烈梦
+This may explain the phenomenon of people who have a very intense dream.
+他们会把这个梦告诉所有人的这种现象
+They need to somehow tell everybody about that dream.
+或者告诉别人他们做过的梦
+Or tell someone about their dream?
+我也不知道这种行为是怎么回事
+I don't really know what that behavior is about,
+但有时我们醒来 我们会对梦的状态下发生的事情感到如此依恋
+but sometimes we wake up and we feel so attached to what happened in this state,
+我们认为  如果做完梦有一种与他人分享的强烈需求
+that we call dreaming that there seems to be an intense need to share it with other people,
+大概是为了处理和理解它
+presumably to process it and make sense of it.
+好
+Now,
+历史上很多人都试图理解梦
+numerous people throughout history have tried to make sense of dreams 
+并以某种有组织的方式表达出来
+and in some sort of organized way,
+其中最著名的
+the most famous of which,
+当然
+of course,
+是西格蒙德·弗洛伊德
+is a Sigmund Freud,
+他谈到了梦中的象征
+who talked about symbolic representations in dreams.
+很多都被证伪了
+A lot of that has been kind of debunked,
+虽然我认为人们对梦的象征多多少少都有一些兴趣
+although I think that there's some interest in what the symbols of dreaming are,
+这是我们今天要深入讨论的问题
+and this is something that we'll talk about in more depth today,
+虽然不是真正的
+although not for it,
+从理论上讨论
+in theory in particular,
+所以我认为  为了真正地思考梦以及如何处理它们
+so I think in order to really think about dreams and what to do with them 
+以及如何最大化地利用梦的体验 来学习和遗忘
+and how to maximize the dream experience for sake of learning and unlearning.
+解决这个问题的最好方法就是从睡眠的生理学角度
+The best way to address this is to look at the physiology of sleep 
+来研究我们对睡眠到底了解多少
+to really just what do we know concretely about sleep?
+首先
+So first of all,
+当我们昏昏欲睡的时候
+as we get sleepy.
+我们会让闭上眼睛
+We tend to shut her eyes,
+这是因为大脑中有一些自主中枢
+and that's because there are some autonomic centers in the brain,
+一些控制眼睑闭合的神经元
+some neurons that control closing of the eyelids.
+当我们感到困倦 然后进入睡眠
+when we get sleepy and then we transition into sleep and sleep,
+不管我们睡多长时间 我们通常都被分解成一系列90分钟的周期
+regardless of how long we sleep is generally broken up into a series of ninety minutes cycles.
+这些昼夜节律循环出现
+These old treaty in cycles.
+所以在晚上的早些时候
+So early in the night,
+这90分钟的周期通常包括浅睡眠和慢波睡眠
+these ninety minute cycles tend to be comprised more of shallow sleep and slow wave sleep,
+一个阶段
+so stage one stage,
+接着一个
+two,
+等等
+etc.
+我们称之为慢波睡眠
+And what we call slow wave sleep.
+我一会儿会详细解释这一切的意义
+I'll go into detail about what all this means in a moment,
+我们往往很少有所谓的REM睡眠
+and we tend to have less so called REM sleep R E M sleep,
+即快速眼动睡眠
+which stands for rapid eye movement sleep,
+我会详细讲一下快速眼动睡眠
+and I'll talk about rapid eye movement sleep in detail so early in the night,
+所以晚上的早些时候
+a lot more slow,
+每90分钟的周期  更多的是慢波睡眠和更少的快速眼动睡眠
+wave sleep and less REM for every ninety minutes cycle that we have.
+在一夜的睡眠中
+During a night of sleep.
+我们倾向于开始有越来越多的快速眼动睡眠
+we tend to start having more and more REM sleep.
+在之后的90分钟的睡眠周期中 更多的快速眼动睡眠  和更少的慢波睡眠
+Some more of that ninety minutes cycle is comprised of REM sleep and less of slow wave sleep.
+这是真的
+Now this is true.
+不管你半夜有没有醒来去洗手间
+regardless of whether or not you wake up the middle of the night to use the restroom 
+还是你的睡眠被打断了
+or your sleep is broken.
+你晚上睡得越多
+The more sleep you're getting across the night,
+快速眼动睡眠时间越多
+the more REM sleep you're going to have,
+还有快速眼动睡眠和非快速眼动睡眠
+and REM sleep and non REM as I'll refer to.
+它在学习和遗忘有明显不同的作用
+it have distinctly different roles in learning and unlearning,
+它们明显负责学习和遗忘不同类型的信息
+and they are responsible for learning and unlearning of distinctly different types of information.
+这对学习运动技能
+And this has enormous implications for learning of motor skills,
+忘却创伤性事件有很大的影响
+for unlearning of traumatic events,
+或者在处理情感上的挑战和情感上的愉快片段  都有影响
+or for processing emotionally challenging as well as emotionally pleasing events.
+我们会看到
+And as we'll see,
+人们可以利用白天的活动来进入更多的慢波睡眠
+one can actually leverage their daytime activities in order to access more slow wave sleep 
+或者我们称之为非快速眼动睡眠或者更多快速眼动睡眠
+or non REM sleep as we'll call it or more REM sleep 
+这取决于你特定的情感和生理需求
+depending on your particular emotional and physical needs,
+所以这确实是生命中一个重要的阶段
+so it's really a remarkable stage of life that 
+我们对自己有比你想象得更多的控制和力量  所以我们也会谈论清醒梦
+we have a lot more control and power over then you might believe we'll also talk about lucid dreaming.
+我们还会讨论幻觉以及药物引起的幻觉
+We're also going to talk about hallucinations and how drug induced hallucinations 
+导致很多梦境有惊人的相似之处
+have a surprising similarity to a lot of dream states.
+还有一些非常重要的区别
+and yet some really important differences.
+好
+OK,
+让我们从慢波睡眠或非快速眼动睡眠开始
+so let's start by talking about slow wave sleep or non REM sleep.
+我意识到慢波睡眠和非快速眼动睡眠并不是一回事
+And I realized that slow wave sleep and non REM sleep aren't exactly the same thing,
+对于你们
+so for you,
+睡眠爱好者们
+sleep aficionados out there,
+我现在就混着说了
+I am lumping right now,
+正如我们在科学中
+as we say in science,
+有混淆者 也有分明者 我两者都是  有的时候我会混为一谈
+there are lumpers and there are splitters and I am both sometimes a lump.
+有时我会清晰地区分开来  为了轻松的交流而分开
+Sometimes I split for sake of clarity and ease of conversation.
+现在我要变成一个混淆者了
+Right now I'm going to be a lumber.
+所以当我说慢波睡眠时
+So when I say slow wave sleep,
+我指的就是非快速眼动睡眠
+I mean Nono REM sleep generally.
+虽然这两者是有区别的
+although acknowledged there is a distinction.
+慢波睡眠
+slow wave sleep,
+所以
+so slow.
+慢波睡眠是以一种特殊的大脑活动模式为特征的
+Wave sleep is characterized by a particular pattern of brain activity
+ 在这种模式下 大脑的新陈代谢处于活跃状态
+in which the brain is metabolically active,
+但是这些大范围的活动包括大脑的大部分区域
+but that there's these big sweeping waves of activity that include a lot of the brain.
+如果你想查这个
+If you want to look this up there,
+你可以找到证据 证明神经活动的波 扫过联结皮层
+you can find evidence for sweeping of of waves of neural activity across association cortex 
+穿过脑干的大片区域 也就是所谓的被囊叶枕部通路
+across big swaths of of the brain stem the socalled ponds tunicate occipital pathway.
+先是脑干
+This is brain stem,
+丘脑 然后是皮层
+thalamus and then cortex.
+如果你们感兴趣 可以记住
+For those of you that are interested.
+尽管在快速眼动睡眠中会发生更多这种情况
+Although more of that is going to occur in REM sleep,
+关于慢波睡眠有趣的是  与之相关的神经调节物质
+Now the interesting thing about slow wave sleep are the neuromodulators that tend to
+ 在慢波睡眠中有最活跃和最不活跃之分
+be associated with it that are most active and least active during slow wave sleep.
+这就是为什么 这边要提醒大家  神经调节剂这些化学物质  作用都相当缓慢
+And here's why to remind you neuromodulators are these chemicals that act rather slowly?
+但它们的主要作用是使特定的大脑回路活跃 而使其他的大脑回路不活跃
+But their main role is to bias particular brain circuits to be active and other brain circuits to not be active.
+就像音乐播放列表
+These are like the music playlist,
+想想神经调节剂
+so think of Neuromodulators,
+有乙酰胆碱  去甲肾上腺素  血清素和多巴胺
+and these come in the names of acetylcholine norepinephrine serotonin and dopamine 
+把它们想象成音频设备上的推荐播放列表
+think of them as suggesting playlists on your audio device,
+所以你可以想象
+so you know,
+古典音乐在感觉和音调上与其他音乐有明显的不同
+classical music is distinctly different in feel and tone,
+还有一些其他的特征也不同 比如和第三次浪潮朋克
+and a number of other features from like third wave punk or from you know,
+比如hiphop  想象它们绕开了特定类型的神经回路活动
+hip hop right to think of them as bypassing toward particular genres of neural circuit activity.
+好
+OK,
+柔和的音乐 vs 快节奏的音乐
+mellow music versus really aggressive fast music,
+或者  有歌词的节奏音乐
+or rhythmic music that includes lyrics,
+vs
+verses,
+无歌词的纯音乐
+rhythmic music that doesn't include lyrics that's,
+或多或少  可以这么考虑这些神经调节剂的方法
+that's more or less the way to think about these neuromodulators.
+因此 它们与某些大脑功能有关
+and they are associated as a consequence with certain brain functions.
+所以我们知道
+So we know,
+例如
+for instance,
+回顾一下清醒状态下的通话是一种神经调节器
+And just to review acetylcholine in waking states is a neuromodulator that 
+它会放大与注意力有关的大脑回路的活动
+tends to amplify the activity of brain circuits associated with focus and attention.
+去甲肾上腺素是一种会放大  大脑回路中与警觉性相关的神经调节剂
+Norepinephrine is a neuromodulator that tends to amplify the brain.
+会让人想要不停地动
+Circuits associated with alertness.
+而血清素  一种神经递质 它被释放出来
+and the desire to move serotonin is the neuromodulator that's released intends to 
+旨在放大大脑和身体中与幸福相关  以及保持静止的回路
+amplify the circuits in the brain and body that are associated with bliss and the desire to remain still.
+多巴胺  被释放的时候
+and dopamine is the neuromodulator that's released and is associated with 
+它与大脑和身体中与追求目标 快乐
+amplification of the neural circuits in the brain and body associated with pursuing goals 
+和奖励相关的神经回路放大有关
+and pleasure and reward.
+所以在慢波睡眠中
+So in slow wave sleep,
+会发生很有趣的事情
+something really interesting happens.
+从本质上说 就没有乙酰胆碱
+There is essentially no acetylcholine  
+乙酰胆碱的产生和释放  是从两个地方
+acetylcholine production and release an action from the two major sites which are
+这两个主要的部位是在脑干的一个核
+in the brain stem from a nucleus.
+这一对由生发核组成
+The pair by Germinal nucleus.
+如果你真的想了解前脑
+If you really want to know or from the forebrain,
+这些核就在一边 你们不需要知道这些名字
+which is nucleus beside us and you don't need to know these names,
+但如果愿意 可以记一下
+but if you like,
+所以我才把它们说明一下
+that's why I put them out there.
+乙酰胆碱产量骤降
+acetylcholine production plummets.
+它几乎是0
+it's just almost to zero,
+乙酰胆碱
+and acetylcholine,
+就像我刚才提到的
+as I just mentioned,
+与专注有关
+is associated with focus.
+可以把慢波睡眠看作是大脑中大规模的活动波
+She can think of slow wave sleep as these big sweeping waves of activity through the brain 
+是一种空间和时间的扭曲 所以我们不能真正的去关注任何一件事
+and a kind of distortion of space and time so that we're not really focusing on any one thing now.
+其他当时非常活跃的分子  或者去甲肾上腺素
+The other molecules that are very active at that time or norepinephrine,
+这有点让人惊讶 因为通常在清醒状态或清醒状态下
+which is a little bit surprising because normally in waking states nor up
+ 你的去甲肾上腺素会与  警觉性  以及动的欲望联系在一起
+an effort is going to be associated with a lot of alertness and the desire to move.
+但在慢波睡眠中  并没有大量的去甲肾上腺素
+But there's not a ton of norepinephrine around in slow wave sleep,
+但它就在周围
+but it is around,
+所以在慢波睡眠中有一些与运动回路相关的东西
+So there's something associated with the movement circuitry going on in slow wave sleep,
+记住这主要发生在夜晚的早期
+and remember this is happening mostly at the beginning of the night.
+这时你的睡眠主要是慢波睡眠
+Your sleep is dominated by slow wave sleep.
+所以没有乙酰胆碱
+So acetylcholine very little.
+很少的去甲肾上腺素
+norepinephrine
+尽管体内有很多血清素
+Although there is some and a lot of serotonin and serotonin again,
+与另一种
+is associated with this desire,
+一种幸福的感觉相联系
+the sensation of kind of bliss or well being.
+但是没有太多的动的欲望
+but not a lot of movement.
+在睡眠中 你倾向于不动 但在慢波睡眠中
+And during sleep you tend not to move now and slow wave sleep,
+你可以移动  你并没有瘫痪  所以你可以翻身  还有人会梦游
+you can move your not parallel so you can roll over if people are going to sleep walk.
+通常情况下
+Typically,
+这是在慢波睡眠期间 一些虐待狂实验表明
+it's going to be during slow wave sleep and what studies have shown through some kind of sadistic
+ 如果人们被剥夺了慢波睡眠
+experiments where people are deprived specifically of slow wave sleep,
+这可以通过在电极记录显示他们处于慢波睡眠时  叫醒他们来实现
+and that can be done by waking them up as soon as the electrode recording show that they're in 
+或者通过化学方法改变他们的睡眠 使他们远离慢波睡眠
+slow wave sleep or by a chemically altering their sleep so that it biases them away from slow wave sleep.
+研究表明 运动学习
+What studies have shown is that motor learning.
+通常发生在慢波睡眠中
+is generally occurring in slow wave sleep.
+比如说在你睡觉的前一天
+so let's say the day before you go to sleep.
+你在学习一些新的舞蹈动作 学习一些特定的运动技能
+You are learning some new dance move where you were learning some specific motor skill,
+不管是精准的运动技能 还是普通课程运动技能
+either a fine motor skill or a course motor skill.
+假设这是一种新的锻炼形式  或者一些新的协调运动
+So let's say it's a new form of exercise or on some new coordinated movements.
+甚至可能是协调手指
+This could be coordinate,
+指间的活动
+moving at the level of the fingers,
+或者可以是在整个身体水平上协调  进行大型肢体运动
+or it could be coordinated movement to level the whole body and large limb movements.
+也可能涉及到与其他人合作
+It could involve other people,
+也可能是个人活动
+or it could be a solo activity.
+这些运动技能的学习
+Learning of those skills.
+主要发生在晚上早些时候的慢波睡眠中
+It is happening primarily during slow wave sleep in the early part of the night.
+此外
+In addition,
+慢波睡眠已被证明对学习细节信息很重要
+slow wave sleep has been shown to be important for the learning of detailed information.
+这并不一定是认知信息
+Now this isn't always cognitive information.
+我们之后会讲到认知信息
+We're going to talk about cognitive information,
+但在学习细节信息这方面  已有的研究表明
+but the studies that have been done along these lines involve having 
+如果让人们学习关于特定单词拼写的非常具体的规则
+people learn very detailed information about very specific rules in the way that certain words are spelled,
+往往是具有挑战性的单词
+they tend to be challenging words,
+所以受试者做了测试
+so if people are tested.
+就他们在这类考试中的表现而言
+And in terms of their performance on these types of exams,
+如果他们被剥夺了慢波睡眠
+and they're deprived of slow wave sleep,
+他们的表现往往很差
+they tend to perform very poorly,
+所以我们可以认为慢波睡眠对运动学习很重要
+so we can think of slow wave sleep is important for motor learning,
+运动技能的学习  以及对特定事件的具体细节的学习
+motor skill learning and for the learning of specific details about specific events.
+慢波睡眠非常重要
+And this turns out to be fundamentally important,
+现在我们知道了
+because now we know that.
+慢波睡眠主要发生在夜晚的早些时候
+Slow wave sleep is primarily in the early part of the night,
+运动学习主要发生在夜间的早期
+and motor learning is occurring primarily early in the night,
+细节的学习也发生在夜晚的早期
+and detailed learning is occurring early in the night.
+所以
+Now.
+对于那些只睡了三四个小时就醒来的人来说
+for those of you that are waking up after only three or four hours of sleep,
+这可能对你们有用
+this might be informative.
+这能告诉你  如果你只有睡那么一点时间
+This might tell you a little something about what you are able to learn and not able to learn  
+那么你能学什么 不能学什么
+if that were to be the only sleep that you get,
+虽然希望这不是你唯一的睡眠
+although hopefully that's not the only sleep that you get,
+我们将深入探讨如何最大化地进行运动学习
+but we're going to dive deep into how it is that one can maximize motor learning 
+以提取有关协调运动的更详细信息
+in order to extract a more detailed information about coordinated movements 
+以及如何让大家学得更快或更慢
+and how to make them faster or slower,
+这对某些运动来说可能有点重要
+so that might be important for certain sports.
+对某些运动来说可能是非常重要的
+They might be it almost certainly important for certain sports.
+这对任何形式的协调运动都很重要
+It's going to be important for any kind of coordinated movement,
+就像
+like,
+比如
+say,
+学习弹钢琴
+learning to play the piano,
+或者
+or,
+例如
+for instance,
+如何与他人学习并一起做动作
+how to learn synchronized movements with somebody else.
+也许我之前提到过舞蹈的例子
+So maybe I mentioned the example of dance earlier.
+如果你像我一样
+if you like me.
+几年前
+A few years ago,
+我开始学探戈  因为我有一些阿根廷的亲戚 但我跳得实在糟糕
+I set out to to learn tango because I've some Argentine relatives and I was abysmal.
+我总有一天会讲这个话题的
+I need to return to that at some point.
+跳得简直糟透了
+I was just abysmal and one of the worst things about being 
+如果跳舞跳得不好 最糟糕的事情之一就是别人也要忍受这个糟糕
+a abysmal learning dance is that there's somebody else has to suffer the consequences also,
+我不知道  也许在讲神经可塑性的那个月
+so I don't know maybe in the month on neuroplasticity,
+我将作为自我实验  再次探索这个问题
+I'll explore that again as a self experimentation,
+但了解慢波睡眠的关键在于它涉及到运动学习和细节学习
+but the key things to know our slow wave sleep that involved in motor learning and detailed learning.
+这个时间段  没有乙酰胆碱
+There's no acetylcholine around at that time.
+没有这种振幅很大的波动横扫整个大脑
+Has this big amplitude activity sweeping throughout the brain,
+同时有着去甲肾上腺素和血清素的释放
+and that there's the release of these neuromodulators norepinephrine and serotonin and again,
+这都发生在晚上的早些时候
+that's all happening early in the night.
+所以运动员
+So athletes,
+关心运动表现的人
+people that are concerned about performance.
+如果你只睡了几个小时就醒了比如三四个小时
+if you happen to wake up after just a couple hours of you know three or four hours of sleep 
+因为你对第二天的比赛很兴奋
+because you're excited about a competition the next day.
+可能是这样
+Presumably,
+如果你已经为这个比赛训练了所需的技能
+if you've already trained the skills that you need for the event,
+你参加那个比赛应该没问题
+you should be fine to engage in that particular activity.
+最好是睡个好觉你知道的
+Now it's always going to be better to get a full night's sleep and you know 
+比如你好好地睡个饱觉是6个小时
+what full night sleep if for you at six hours,
+多睡总比少睡好
+and it's always going to be better to get more more sleep than it is to get less.
+但是
+However,
+有些人会有点担心
+I think some people get a little bit,
+虽然不是过分担心 如果他们在比赛前没有睡个好觉
+but not overly concerned that if they didn't get their full night sleep before some sort of physical event 
+他们的表现就会变差
+that their performance is going to plummet.
+如果你已经知道你需要做什么 它已经储存在你的神经回路
+Presumably if you've already learned what you need to do and it's stored in your neural circuits 
+你知道如何使这些协调运动在慢波睡眠中的建议
+and you know how to make those coordinated movements with the literature on slow wave sleep
+ 就是你补充的运动学习
+suggest is that you would be replenished that the motor learning 
+和锻炼的恢复  会发生在夜间的早期
+and the recovery from exercise is going to happen early in the night.
+我们就停在这里  稍微讲一下
+so we'll just pause there and and kind of show of that for a moment.
+后面我们会回到这个问题上的
+then we're going to come back to it.
+但我现在想谈谈REM睡眠
+but I want to talk about REM sleep,
+快速眼动睡眠
+rapid eye movement sleep REM,
+正如我之前提到的
+as I mentioned before,
+这会发生在整个晚上
+occurs throughout the night,
+但你会有更多的机会
+but you're going to have more of it.
+在这九十分钟里
+A larger percentage of these ninety minutes,
+临睡前的快速眼动睡眠是睡眠周期的组成部分
+sleep cycles is going to be comprised of REM sleep as you get towards morning.
+快速眼动睡眠很神奇
+REM sleep is fascinating.
+它是在五十年代发现的
+It was discovered in the Fifties.
+芝加哥的一个睡眠实验室
+When a sleep laboratory in Chicago,
+研究人员观察到人们的眼睛在眼皮下移动
+the researchers observed that people's eyes were moving under their eyelids.
+当我们稍后谈到创伤的时候
+Now something very important that we're going to address 
+我们要讲的非常重要的一点是眼球运动并不只是左右移动
+when we talk about trauma later is that the eye movements are not just side to side,
+它们在各个方向上飘忽不定
+they're very erratic in all different directions.
+有一件事我想我从来没听过的人在公开场合谈论过
+One thing that I don't think anyone I've never heard anyone really talk about publicly 
+为什么是眼球运动  睡觉时明明眼睛是闭着的
+is why eye movements during sleep eyes are closed 
+有时人们的眼皮会有点睁着 眼球四处乱跳
+and sometimes people's eyelids will be a little bit open in their eyes are darting around,
+尤其是小孩子
+especially in little kids.
+我不建议你这么做
+I don't suggest you do this.
+我甚至不确定这是否道德
+I'm not even sure it's ethical,
+但是当你在一个孩子睡觉的时候拉下他的眼皮
+but it has been done when you pull back the eyelids of a kid while they're sleeping 
+他们的眼睛到处乱飞  之前有人对他们的过去做过这样的事情
+in their eyes are kind of darting all over the place that people do this to their past,
+派对上朋友的恶作剧之类的
+our friends at parties and things like that.
+再一次
+So again,
+我不建议你这么做
+I don't suggest you do it,
+但我告诉你是因为以前有人做过所以你不必再做一次
+But I'm telling you it because it's been done before and therefore you don't have to do it again.
+但是快速眼动睡眠是很神奇的 
+But rapid eye movement sleep is fascinating
+因为脑干之间有联系
+because there are connections between the brain stem
+称为脑桥的区域以及丘脑和大脑顶部的区域
+an area called the pons and areas of the thalamus and the top of the brain
+丘脑和脑干顶部的一个区域参与产生不同方向的运动
+an areas of the thalamus and the top of the brain stem that are involved in generating movements in different direction,
+有时也叫SIM卡----
+sometimes called cicadas,
+虽然有时在快速眼动睡眠中
+although sometimes during rapid eye movement sleep,
+它不仅仅是快速的
+it's not just rapid,
+而且左右摇摆不定
+it's kind of a jittery side to side thing,
+然后眼球就会转动
+and then the eyeballs kind of roll.
+眼球的滚动看起来真的有点令人毛骨悚然
+It's really pretty creepy to look at if you see so what's happening
+有意识的眼球运动所涉及的回路有点混乱
+There is the circuitry that is involved in conscious eye movements is kind of going haywire,
+但它并没有失控
+but it's not haywire.
+这是来自大脑的活动波
+It's these waves of activity from the brain.
+向上延伸到所谓的丘脑
+Stem up to the socalled Thalamus,
+这个区域将感觉信息过滤到大脑皮层
+which is an area that filter sensory information up to the cortex,
+大脑皮层
+and the cortex,
+当然了
+of course,
+与意识知觉有关
+is involved in conscious perceptions.
+所以在快速眼动中
+So in rapid eye movement,
+还发生了一些其他事情
+sleep there are a couple of things are happening.
+除了
+Besides,
+快速眼动之外
+rapid eye movements.
+主要的是它们
+The main ones are that their income,
+我应该说
+I should say.
+与快速眼动睡眠中的慢波睡眠相比
+In contrast to slow wave sleep in REM sleep,
+在这种分子中 血清素基本上是不存在的
+serotonin is essentially absent in the case of this molecule,
+这种会让人产生幸福和平静感觉的神经调节物质 是不存在的
+this neuromodulator that tends to create the feeling of bliss and well being and just calm placidity is absent.
+好了
+Alright,
+这是有趣的
+so that's interesting.
+除此之外
+In addition to that.
+去甲肾上腺素
+norepinephrine
+这个参与运动和警觉的分子
+this molecule that's involved in movement and alertness,
+这时候一点都没有
+is absolutely absent.
+在我们的生命中 肾上腺素在我们的系统中基本上处于零活动状态
+It's probably one of the few times in our in our life that epinephrine is essentially at zero 
+这可能是为数不多的一次
+activity within our system,
+这对快速眼动睡眠中发生的梦的类型
+and that has a number of very important implications for the sorts of dreaming that occur during REM 
+以及在其中发生的学习过程  有很多非常重要的暗示
+sleep and the sorts of learning that can occur in REM sleep and on learning.
+首先
+First of all,
+在快速眼动睡眠中
+in REM sleep,
+我们是处于瘫痪状态的
+we are paralyzed,
+我们正在经历所谓的张力缺失
+we are we are experiencing what's called Antonia,
+这就意味着身体完全瘫痪了
+which just means that were completely laid out and paralyzed.
+我们也倾向于把我们梦到的任何事情
+We also tend to experience whatever it is that we're dreaming about as 
+当作一种幻觉或幻觉活动
+a kind of hallucination or a hallucinatory activity.
+很久以前
+Long ago,
+我观察幻觉和梦境
+I looked into hallucinations and dreaming.
+我在高中的时候就对这个很着迷
+I was just fascinated by this in high school,
+关于这方面 有一些好书
+and there are some great books on this.
+如果你对探索幻觉和做梦之间的关系感兴趣
+If you're interested in exploring the relationship between hallucinations and dreaming,
+其中最有名的是一个人
+the most famous of which are from a guy.
+一个哈佛大学研究员
+Researcher at Harvard,
+艾伦·霍布森(AllanHobson) 写了一本名为 梦境药店 (DreamDrugstore)的书
+Allan Hobson and wrote a book called Dream Drugstore
+ 讨论了引起幻觉的药物和快速眼动睡眠期做梦的相似之处
+and talked all about the similarities between drugs that induce hallucinations and dreaming in REM.
+如果你愿意 你可以去看一下
+So you can explore that if you like.
+所以在REM中我们的眼睛在移动
+So in REM our eyes are moving,
+但我们身体的其他部分都瘫痪了
+but the rest of our body is paralyzed,
+而且我们产生了幻觉
+and we are hallucinating.
+身体没有肾上腺素
+There's no epinephrine around.
+肾上腺素不只是产生运动和警觉的欲望
+epinephrine doesn't just create a desire to move and alertness.
+它也是恐惧和焦虑的化学特征
+It is also the chemical signature of fear and anxiety.
+它是从我们的肾上腺释放出来的
+It's what's released from our adrenal glands.
+当我们经历可怕的事情时 比如一辆汽车突然在我们前面发出刺耳的声音
+When we experience something that's fearful were alerting is if a car suddenly screeches in front of us.
+或者我们会收到一条烦人的短信
+Or we get a troubling text message.
+肾上腺素就会被部署到我们的系统中
+Adrenaline is deployed into our system.
+脑部肾上腺素就是腺部肾上腺素
+Adrenaline is epinephrine.
+它们是等价的分子
+those are equivalent molecules,
+肾上腺素不仅仅是从肾上腺中释放出来的
+and epinephrine isn't just released from our adrenals.
+它也会在我们的大脑中释放
+It's also released within our brain.
+所以我们的生活中有一个奇怪的阶段 它发生在早晨
+so there's this weird stage of our life that happens more toward morning,
+我们称之为快速眼动睡眠
+that we call REM sleep,
+我们产生幻觉  并在脑海中产生一些可怕的经历
+where we're hallucinating and having these outrageous experiences in our mind.
+但与恐惧 恐慌和焦虑相关的化学物质是没有的
+But the chemical that's associated with fear and panic and anxiety is not available to us,
+这是非常重要的  你可以想象为什么这很重要
+and that turns out to be very important and you can imagine why that's important.
+这很重要 因为它让我们能够经历事情 回顾确实发生过的事情
+It's important because it allows allows us to experience things both replay of things that did occur,
+以及对没有发生的事情进行精心的扭曲
+as well as elaborate contortions of things that didn't occur.
+它让我们在没有恐惧和焦虑的情况下回忆那些
+And it allows us to experience those in the absence of fear and anxiety,
+而且
+and that,
+事实证明
+it turns out,
+这对于调整我们的情绪关系 来接受我们清醒时发生的挑战之事
+is very important for adjusting our emotional relationship to challenging things that happened to us 
+非常重要
+while we were awake.
+那些具有挑战性的事情有时会表现为社交焦虑
+Those challenging things can sometimes be in the form of social anxiety,
+或者一直在很努力的工作 或者担心即将到来的事情
+Or just having been working very hard or concern about an upcoming event,
+有时人们反映他们会
+or sometimes people report,
+例如
+for instance,
+在梦里 他们发现自己考试迟到了 或者在公共场合赤身裸体
+dreams where they find themselves late to an exam or naked in public 
+或者在某些特别难堪的场景中
+or in some sort of situation that would be very troubling to them,
+这几乎肯定发生在快速眼动睡眠期间
+and that almost certainly occurs during REM sleep.
+所以我们有一段不可思议的睡眠期在这段时间里
+So we have this incredible period of sleep in which our experience of emotionally 
+我们的情感经历从化学物质角度被阻止了
+laden events is dissociated chemically blocked from us.
+我们无法拥有真实的情感
+having the actual emotion.
+不过
+now,
+可能马上
+probably immediately.
+你们就会想
+some of you are thinking well.
+那么  噩梦呢
+What about nightmares?
+我经常做噩梦 而且噩梦里充满了情感
+I have nightmares and those carry a lot of emotion.
+或者有时你会在恐慌中醒来
+or sometimes you'll wake up in a panic.
+让我们分别来考虑一下这两件事
+Let's consider each of those two things separately,
+因为它们对理解快速眼动睡眠很重要
+because they are important in understanding REM sleep.
+在慢波睡眠中很有可能会做噩梦
+There's a good chance that nightmares are occurring during slow wave sleep.
+有些药物我不建议人们服用
+There are actually some drugs that I don't suggest people take.
+事实上
+In fact,
+太多了 我不会提及那些使人感到非常恐惧
+so much so I'm not going to mention them that give people vary.
+的东西
+Kind of scary,
+以及在梦里有什么东西在追着他们
+your eery dreams in this kind of feeling that things are pursuing them,
+或者当你在梦里被追赶时  身体却无法动弹
+or that they can't move when they are being chased.
+这其实是我做过的一个常见的梦
+That's actually a common dream that I've had it.
+我想这或多或少是一场噩梦
+I guess it's more or less a nightmare.
+一个人被麻痹 被什么东西追赶却不能移动
+The feeling that one is paralyzed and can't move and is being chased by.
+很多人说
+a lot of people have said,
+哦
+Oh,
+那一定是快速眼动睡眠 因为你已经瘫痪了
+that must be in REM sleep because you're paralyzed,
+所以你梦见自己瘫痪 不能动弹
+and so you're dreaming about being paralyzed and you can't move.
+我认为这可能是错误的
+I think that's probably false.
+研究表明 由于去甲肾上腺素在快速眼动睡眠中缺失
+The research says that because norepinephrine is absent during REM sleep,
+你不太可能会有这些强烈的恐惧记忆
+it's very unlikely that you can have these intense fearful memories,
+所以这些可能发生在慢波睡眠中
+so those are probably occurring in slow wave sleep.
+虽然也有一些人在快速眼动睡眠时会做噩梦
+Although there might be instances where people have nightmares in REM sleep.
+有些人经历过另一件事是
+The other thing is some people experience.
+当然 我也有过这样的经历 一觉醒来 我就会感到非常紧张
+Certainly I've had this experience of waking up and feeling very stressed about whatever it was 
+我刚才碰巧在想什么或者梦到了什么
+that I happen to be thinking about it or dreaming about in the moments before.
+这是一个有趣的例子 梦到的状态入侵到清醒的状态
+and that's an interesting case of an invasion of the dream state into the waking state 
+你醒来的那一刻
+and the moment you wake up.
+肾上腺素就开始分泌了
+Epinephrine is available.
+关于这方面的研究还没有完全明确
+So the research on this isn't fully crystallized,
+但大部分都指向了醒来后感到非常恐慌这个方向
+but most of it points in the direction of the experience of waking up and feeling very panicked.
+也许我想突出我自己的经历
+Maybe I want to highlight me',
+但也许你也有这种感觉
+but maybe that you,
+我们在白天正在经历一些令人不安的事情
+we're experiencing something that was troubling in the daytime.
+你会在睡梦中重复这一经历
+You're repeating that experience in your sleep.
+这时没有肾上腺素
+Epinephrine is not available,
+因此 与恐惧和焦虑相关的大脑回路被关闭
+and therefore the brain circuits associated with fear and anxiety are shut off,
+然后你能够处理这些事件然后突然醒来
+and so you're able to process those events and then suddenly you wake up.
+肾上腺素的激增与这种经历相联系起来
+And there's a surge of adrenaline of epinephrine that's now coupled to that experience.
+所以噩梦很可能发生在慢波睡眠中
+So nightmare is very likely in slow wave sleep,
+这种醒来时的恐慌  很可能是从思想和观念的入侵中产生
+and that kind of panic on waking from something very likely to be an invasion of the thoughts and ideas,
+无论在快速眼动睡眠中如何扭曲侵入清醒状态
+however distorted in REM sleep invading the waking state,
+事实上
+in fact,
+这让我想起了我之前提到过的事情
+That brings to mind something that I've mentioned once before,
+但是我想再提一下这个张力缺失
+but I want to mention again this a tonia.
+我们在睡眠时经历的瘫痪会侵入清醒时的状态
+This paralysis that we experienced during sleep can invade the waking state.
+许多人都有过醒来后全身瘫痪的经历
+Many people report the experience of waking up and being paralyzed.
+他们如往常一般醒来
+they're legitimately waking up.
+这不是一场醒来就瘫痪的梦
+It's not a dream waking up and being paralyzed,
+这很可怕 我以前也遇到过
+and it is terrifying I've had this happen before it is,
+我可以告诉你  完全清醒很可怕
+I can tell you terrifying to be wide awake,
+据我所知
+and as far as I could tell fully,
+意识清醒但无法移动
+conscious but unable to move,
+然后通常你可以在几秒钟内让自己摆脱困境
+and then generally you can jolt yourself out of it in a few seconds.
+但现在非常可怕的是
+but it is quite frightening now some people actually experience 
+有些人醒来时完全瘫痪 还产生幻觉
+waking up being fully paralyzed and hallucinating.
+在学术界和科学界有一种理论
+And there is a theory in the academic and scientific community,
+至少人们所报道的是外星人绑架 具有一定数量的核心特征
+at least that what people report as alien abductions have a certain number of core characteristics.
+与这些经历非常相似的怪异现象
+That map quite closely eerily similarly to these experiences.
+很多关于外星人绑架的报道都涉及到人们无法移动
+A lot of reports of alien abduction involves people being unable to move,
+看到特定的面孔会  产生幻觉 感觉他们的身体漂浮着 或者他们被转移了
+seeing particular faces hallucinating extensively feeling that their body is floating or they were transported.
+这和在清醒状态下被张力缺失入侵的经历很相似
+This is very similar to the experience of invasion of Atonia into the waking state,
+醒来后仍然瘫痪
+waking up and still being paralyzed,
+幻觉 就是快速眼动睡眠中做梦的特征
+as well as the hallucinations that are characteristic of dreaming in REM sleep.
+我并不是说人们说被外星人绑架 这种说法不合理
+Now I'm not saying that people's alien abductions were not legitimate alien abductions.
+我不会说 我又不在那里
+How could I wasn't there,
+如果我在那里
+and if I was there,
+我也不会告诉你的 因为那样我就是外星人 我也不会想让你知道
+I wouldn't tell you because that would make me an alien and I wouldn't want you to know.
+但是
+But.
+很有可能人们正在经历这些事情  它们是一种从睡眠状态进入清醒状态的入侵
+It is quite possible that people are experiencing these things and they are an invasion of the sleep state
+它们可能持续几分钟或更久 因为在梦中
+into the waking state and they can last several minutes or longer and because in dreams,
+空间和时间被扭曲了
+space and time are distorted.
+我们的感知是  好像它们持续了好几个小时
+Our perception of these events could be that they lasted many hours,
+我们真的能感觉到它们持续了好几个小时 但实际上它们只过了一小会儿
+and we can really feel as if they lasted many hours when in fact they took only moments 
+我们很快就会回到空间和时间的扭曲
+and we're going to return to distortion of space and time in a little bit,
+所以
+so.
+简单回顾一下我们讲的内容
+To just recap where we've gone so far,
+晚上早期的慢波睡眠被证明对运动学习和细节学习很重要
+slow wave sleep early in the night that's been shown to be important for motor learning and for detail.
+快速眼动睡眠有一定的梦境成分
+Learning REM sleep has a certain dream component,
+REM没有肾上腺素
+where in which there is no epinephrine.
+因此
+Therefore,
+我们不能体验焦虑
+we can't experience anxiety,
+我们是瘫痪状态
+we are paralyzed,
+这些梦往往非常生动 有很多细节
+those dreams tend to be really vivid and have a lot of detail to them.
+但在快速眼动睡眠中
+and yet in REM sleep,
+非常清楚的是 在快速眼动睡眠期发生的学习
+what's very clear is that the sorts of learning that happen in REM,
+或者不是运动
+sleep or not motor event,
+它更多的是关于忘却情绪事件
+it's more about unlearning of emotional events.
+现在我们知道原因了
+And now we know why.
+因为那时的化学物质
+Because the chemicals available for.
+真正感受到这些情绪现在并不存在 这有非常重要的含义
+Really feeling those emotions are not present now that has very important implications.
+所以让我们从两个方面来解决这些影响
+So let's address those implications from two sides.
+首先
+First of all,
+我们应该问 如果我们没有获得足够的快速眼动睡眠会发生什么
+we should ask what happens if we don't get enough REM sleep 
+如果人们没有获得足够的快速眼动睡眠 这种情况经常发生
+and a scenario that happens a lot where people don't get enough.
+快速眼动睡眠是这样的
+REM sleep is the following.
+我只解释我很熟悉的一个  因为它经常发生在我身上
+I'll just explain the one that I'm familiar with because it happens to me a lot.
+虽然我有办法适应
+although I figured out ways to adjust,
+我大约在10点30分  11点睡觉
+I go to sleep around ten thirty eleven o'clock.
+我很容易睡着 然后就醒了
+I fall asleep very easily and then I wake up.
+在3或4点醒了
+Around three or four,
+我是
+I am,
+我知道要用NSDR方法
+I now know to use an SDR anon,
+非睡眠深度休息方法
+non sleep deep rest protocol,
+这样我就能再次入睡
+and that allows me to fall back asleep,
+尽管它被称为非睡眠深度休息
+even though it's called non sleep deep rest,
+但它真的能让我放松身体和大脑
+it's really allows me to relax my body and brain,
+我常常会再睡着 一直睡到7点左右
+and I tend to fall back to sleep and sleep till about seven m,
+在这段时间里 我有大量的快速眼动睡眠
+during which time I get a lot of REM sleep,
+我知道这个是因为我测过
+and I know this because I've measured it.
+我之所以知道这一点 是因为我的梦往往非常强烈
+and I know this because my dreams tend to be very intense of the sort that 
+我们知道这是典型的快速眼动睡眠
+we know is typical of REM sleep.
+在这种情况下
+In this scenario.
+我在晚上早早地进入了慢波睡眠 快到早上的时候进入了快速眼动睡眠
+I've gotten my slow wave sleep early in the night and I've got my REM sleep toward morning.
+然而
+However,
+有时候我睡不着觉
+there are times when I don't go back to sleep,
+也许是因为要赶飞机
+maybe have a flight to catch that happens.
+有时我脑子里有很多事
+Sometimes I've got a lot on my mind,
+我也不会再睡了
+and I don't go back to sleep.
+我可以告诉你
+I can tell you,
+你可能已经经历过  缺少快速眼动睡眠  然后你情绪暴躁
+and you've probably experienced that the lack of REM sleep tends to make people emotionally irritable.
+它会让我们把小事放大
+It tends to make us feel as if the little things are the big things.
+实验研究表明  如果人们被选择性地剥夺了快速眼动睡眠
+So it's very clear from laboratory studies where people have been deprived selectively of REM sleep.
+我们的情绪就会变得有点精神错乱
+that our emotionality tends to get a little bit unhinged.
+我们往往会在小事上放大错误
+and we tend to catastrophes small things.
+我们往往会觉得这个世界让人害怕
+we tend to feel like the world is really daunting.
+我们永远不会按照我们想要的方式前进
+We're never going to move forward in the ways that we want.
+无论发生了什么 我们都无法忘却其中的情感成分
+We can't unlearn the emotional components of whatever it is that's been happening,
+即使不是创伤性的
+even if it's not traumatic.
+在快速眼动睡眠中发生的另一件事是某些类型的空间信息的重演
+The other thing that happens in REM sleep is a replay of certain types of spatial information,
+关于我们在哪里 为什么会在这些地方  这能匹配上一些漂亮的数据和研究结果
+about where we were and why we were in those places and this maps to some beautiful data and 
+这些研究是由麻省理工学院的马特·威尔逊多年前发起的
+studies that were initiated by a guy named Matt Wilson at MIT years ago,
+在啮齿类动物和其他非人类灵长类动物以及人类身上做的研究
+showing that in rodents and it turns out in other nonhuman primates and humans,
+在快速眼动睡眠期间  空间信息的重复几乎
+there's a replay of spatial information during REM sleep that almost precisely maps to 
+与我们白天经历的活动完全一致
+the activity that we experience during the day.
+当我们从一个地方移动到另一个地方
+As we move from one place to another,
+接下来说一个常见的场景
+so here's a common world scenario you go to a new place 
+你去一个新的地方  你穿过那个城市或环境
+you navigate through that city or that environment.
+这个地方不一定要有城市那么大
+This place doesn't have to be at the scale of a city,
+它可以是一个新的建筑  要寻找某一个房间
+it can be a new building to be finding particular rooms,
+新的人际互动
+new social interaction.
+你会有这样的经历 如果它非常重要
+you experience that and if it's important enough that becomes solidified 
+这个经历就会在几天后固化 你就不会忘记它
+a few days later and you won't forget it.
+如果是不重要的
+If it's unimportant,
+你可能会忘记
+you'll probably forget it.
+在快速眼动睡眠期间
+During REM sleep there,
+这就是你在这座城市 或建筑中漫步时 
+it is a literal replay of the exact firing of the neurons that occurred 
+神经元放电的真实再现
+while you are navigating in that same city or building earlier,
+因此 快速眼动睡眠似乎参与了这些空间细节信息的生成
+so REM sleep seems to be involved in the generation of this detailed spatial information.
+在快速眼动睡眠中到底发生了什么
+What is it that's actually happening in REM sleep,
+所以一个是有情感的分离
+so there's this uncoupling of emotion.
+但最重要的是
+But most of all,
+在快速眼动睡眠中 我们与特定的规则或算法形成了一种关系
+what's happening in REM sleep is that we're forming a relationship with particular rules,
+我们开始发现
+or algorithms were starting to figure out,
+根据我们白天的所有经验
+based on all the experience that we had during the day.
+不管我们是在避开某些人或接近某些人  这些事情是否重要
+Whether or not it's important that we avoid certain people or that we approach certain people,
+不管我们什么时候进入大楼  是否重要
+whether or not it's important that you know when we enter a building,
+我们进入电梯 然后在洗手间左转
+that we go into the elevator and turn left where the bathroom is,
+例如
+for instance,
+这些事物和地点的一般主题  以及它们是如何组合在一起的
+these general themes of things and locations and how they fit together,
+有一个我们一天里一直在反复的词
+and that has a word it's called meaning during our day.
+我们正在经历各种各样的事情
+We're experiencing all sorts of things,
+意味着  我们每个人如何将一件事与下一件事的相关性组合在一起
+meaning is how we each individually piece together the relevance of one thing to the next right.
+所以如果我突然告诉你 这支笔正在下载所有的信息到我的大脑
+So if I suddenly told you that you know this pen was downloading all the information to my brain 
+这对传递这些信息很重要
+that was important to deliver this information.
+你可能会觉得我很奇怪 因为一般来说
+You'd probably think I was a pretty strange character because typically,
+我们不认为笔能把信息下载到大脑里
+we don't think of pens as downloading information into brains.
+但如果我告诉你我从我的电脑上获取信息
+But if I told you that I was getting information from my computer,
+这让我看到了一些关于你的事情
+that was allowed me to see things to you.
+你会说
+You'd say,
+好吧
+well,
+这是完全合理的
+that's perfectly reasonable.
+这是因为我们与计算机 信息和记忆
+and that's because we have a clear and agreed upon association with computers 
+有着清晰且一致的联系
+and information and memory,
+你可能会说  我们和笔没有这种联系   很好
+and we don't have that same association with pens you might say well die,
+但我们大脑中的某些东西需要巩固这些关系
+but something in our brain needs to solidify those relationships 
+并确保某些关系不存在
+and make sure that there are certain relationships don't exist,
+REM睡眠似乎对此很重要
+and it appears that REM sleep is important for that,
+因为当你剥夺了自己的REM
+because when you deprive yourself where people of REM,
+他们开始看到奇怪的联系
+they start seeing odd associations,
+他们倾向于把东西堆在一起
+they tend to lump or batch things.
+我的经验告诉我 我曾经有过被剥夺了睡眠的经历
+I know this from my own experience that I've ever been sleep deprived,
+不幸的是 这种情况经常发生
+which unfortunately happens too often.
+因为我实在处理不好截止日期
+Because of I'm terrible with deadlines.
+经常会搞一个通宵
+stipple an all nighter,
+Var这个词开始看起来像是拼错了 建议你拼一个非常简单的词
+the word Var starts to look like it spelled incorrectly and advise a very simple word to spell.
+然后事情开始有点扭曲了
+But things start to look a little distorted.
+我们知道 如果人们长时间被剥夺快速眼动睡眠
+and we know that if people are deprived of REM sleep for very long periods of time,
+他们会开始产生幻觉
+they start hallucinating.
+他们真的开始看到没有发生的物体的关系和运动
+They literally start seeing relationships and movement of objects that isn't happening,
+所以快速眼动睡眠是我们建立情感负荷的阶段
+And so REM sleep is really where we establish the emotional load,
+但我们也开始抛弃所有不相关的意义
+but where we also start discarding of all the meanings that are irrelevant.
+如果你感性思考
+And if you think about emotionality,
+很多过度情绪化  或者灾难上升的现象  都是指看到无处不在的问题
+a lot of over emotionality or catastrophe rising is about seeing problems everywhere,
+你可以想象为什么会发生这种情况  如果你开始把你的经历和网络联系起来
+and you could imagine why that might occur if you start linking the web of your experience to extensively.
+为了拥有健康的情感和认知功能
+It's very important in order to have healthy emotional and cognitive functioning,
+个体事物之间的区分间隔相当狭窄
+that we have fairly narrow channels between individual things.
+如果我们在新闻上看到非常不安的事情
+If we see something on the news that's very troubling will,
+那你就有理由感到非常不安
+then it makes sense to be very troubled.
+但如果我们被这一切困扰 然后我们开始说
+But if were troubled by everything and we start just saying,
+一切都在困扰着我 我感到非常烦躁
+you know everything is bothering me and I'm feeling highly irritable.
+一切都在扭曲和困扰着我
+And everything is just distorting and troubling me,
+但很有可能
+chances are,
+我们并没有
+we are not.
+积极地消除这些意义
+Actively removing the meaning,
+生活与经历之间的联系
+the connectivity between life experiences,
+这几乎总是与快速眼动睡眠不足有关
+as well as we could and that almost always maps back to a deficit in REM sleep.
+所以快速眼动睡眠是很强大的 它有一种神奇的能力去消除那些不重要的意思
+so REM sleep is powerful and has this amazing capacity to eliminate the meanings that don't matter.
+并不是说它加重了真正重要的意义
+It's not that it exacerbates the meanings that do matter,
+但它排除了那些无关紧要的意义
+but it eliminates the meanings that don't matter and that
+ 而这些意义与发育早期的情况惊人地相似
+bears a striking resemblance to what happens early in development.
+这播客不是关于早期人体发展的讨论
+This isn't a discussion about early in development,
+但在那个时期
+but early in development.
+这就是为什么婴儿能做出协调的动作 以及为什么对于看似微不足道的事情
+the reason a baby can generate coordinated movements and the reason why 
+或着说成年人觉得微不足道的事情  孩子会对这些非常情绪化的原因
+children can get very emotional about what seems like trivial events or what adults know to be trivial.
+比如所有的冰淇淋店都关门了
+Events like all the ice cream shop is closed and they just cut,
+然后那孩子就哭成了一个泪人
+and then the kid just dissolves into a puddle of tears.
+而他的父母则会说   好的
+And the parents say OK.
+好吧
+Well,
+它会重新开门的
+it'll be open again.
+另一次 孩子们
+Another time the children,
+其中一个原因就是他们不能在一个更大的环境中协调
+one of the reasons that they can't generate coordinated movement or place 
+与冰激凌店关店这一事实
+that event of the ice cream shops.
+相关的行动和空间
+Being closed into a larger context,
+是因为他们有太多的连接 而大脑和神经系统的成熟
+is because they have too much connectivity and much of the maturation of the brain and nervous system.
+把我们带到了情绪稳定
+That brings us to the point of being emotionally stable.
+情绪合理
+Reasonable,
+成为一个理性的人  实际上大脑是在消除事物之间的联系
+rational human beings is about elimination of connections between things,
+因此 快速眼动睡眠似乎是我们解开各种经历之间潜在的情感联系的地方
+so REM sleep seems to be where we uncouple the potential for emotionality between various experiences.
+这就引出了REM睡眠和一些临床实践的基本关系和相似之处
+And that brings us to the absolutely fundamental relationship and similarity of REM sleep to 
+这些临床实践旨在消除情绪
+some of the clinical practices that have been designed to eliminate emotionality 
+帮助人们克服创伤和其他困扰
+and help people move through trauma and other troubling experiences,
+不管这些令人不安的经历  是家人去世还是至亲至爱的离世
+whether or not those troubling experiences are a death in the family or have a close loved one,
+发生在你或别人身上的可怕的事
+something terrible that happen to you or somebody else,
+或者你知道整个童年或者你脑海里的某个事件
+or you know an entire childhood or some event that in your mind,
+身体的感觉就像糟糕的
+and body is felt as an experienced as bad,
+可怕的或让人担心的经历
+terrible or concerning.
+你们很多人可能听说过创伤治疗 比如EMDR——
+Many of you perhaps have heard of trauma treatment such as E M D R,
+眼动心身重建法 或者氯胺酮治疗创伤
+our eye movement desensitization and reprocessing or ketamine treatment for trauma,
+这是一种最近才被合法化并被广泛应用于临床的技术
+something that recently became legal and is in fairly widespread clinical use.
+有趣的是
+Interestingly enough,
+EMDR和氯胺酮
+EMDR and ketamine,
+在核心思想上 与快速眼动睡眠有非常相似的特征
+at kind of a core level bear very similar features to REM sleep,
+我们来谈谈EMDR
+so let's talk about the EMDR first
+EMDR
+EMDR
+“眼动心身重建法”  是由一位心理学家发明的
+eye movement desensitization and reprocessing is something that was developed by a psychologist.
+弗朗辛·夏皮罗
+Francine Shapiro,
+弗朗辛在帕洛阿尔托 据说当时她在走路
+Francine was in Palo Alto and the story goes that she was walking.
+并非巧合
+Not coincidentally,
+她在斯坦福后面的树林里走
+in the trees and forest behind Stanford,
+她在回忆一件令人不安的事情
+and she was recalling a troubling event in her own mind,
+是她自己的生活
+so this would be from her own life,
+她意识到  在她走路的时候
+and she realised that as she was walking,
+那次经历的情感负担 就没有那么强烈
+the emotional load of that experience was not as intense,
+没有那么严重
+or severe.
+她从行走中没有感觉的经历中推断
+She extrapolated from that experience of walking and not feeling,
+作为对于压力事件的解脱
+as stressed about the stressful event to a practice that 
+她将其投入实践 用这种方法来治疗她的病人
+she put into work and with her clients with her patience.
+现在这方法已经变得相当普遍了
+And that now has become fairly widespread.
+这实际上是为数不多的
+It's actually one of the few behaviorally.
+由美国心理协会批准的
+The behavior treatments that are approved by the American Psychological Association 
+治疗创伤的行为疗法之一
+for the treatment of trauma.
+她让她病人做的是  在讲述一些创伤或麻烦的事情时
+What she had her clients and patients do was move their eyes from side to side 
+左右移动他们的眼睛
+while recounting some traumatic or troubling event.
+这是
+Now this was,
+当然是在诊所里
+of course in the clinic,
+她把行走那部分去掉了
+and I'm guessing that she removed the walking components 
+只把眼动部分带到了诊所
+and just took the eye movement component to the clinic.
+因为虽然和你的治疗师一起进行心理治疗和散步是件好事
+because while it would be nice to go on therapy sessions with your therapist and take walks it has,
+但有很大的限制
+there are certain boundaries to that,
+比如隐私性
+such as confidentiality.
+你知道的
+You know,
+如果周围有很多人
+if they're a lot of people around,
+一个人可能不愿意讨论情感经历  或者是否有障碍之类的事情
+a person might not feel as open to discussing things or whether barriers and things like that.
+你知道的
+you know,
+如果外面下雨或下雨
+if it's raining or hailing outside,
+那也很麻烦
+get stuff to do.
+为什么是眼动运动呢
+Why I movement well,
+她从没说过为什么是眼动运动
+she never really said why eye movements,
+但我会告诉你为什么
+but soon I'll tell you why.
+选择后者的决定  是因为在诊所工作中  这些眼球运动才是正确的
+The decision to select these latter realized eye movements for the work in the clinic was the right one.
+这些眼球运动
+So these eye movements,
+看起来很傻
+they look silly.
+我会做的 因为这就是我在这里的原因
+I'll do them because that's why I'm here.
+做起来很傻
+They looked silly,
+基本上就是  坐在椅子上 眼睛左右转动
+but they basically involves sitting in a chair and moving one's eyes from side to side,
+不说话
+not while talking.
+对我来说我没法讲话
+You know for me,
+然后叙述自己的情感事件
+you know and then recounting the events,
+有时是边说话边动眼睛
+so it's sometimes talking while moving the eyes,
+但通常是将眼睛左右移动30-60秒
+but usually was moving the eyes from side to side for thirty sixty seconds 
+然后去讲述那些具有情感挑战性的事情
+then describing this challenging procedure.
+好
+Now,
+我作为一名视觉科学家 我也研究压力
+as a vision scientist who also works on stress.
+当我第一次听到这个的时候
+When I first heard this,
+我觉得这太疯狂了
+I thought it was crazy.
+坦白说就是这样
+Frankly,
+人们会问我EMDR的事
+people would ask me about the EMDR,
+我觉得这太疯狂了
+and I just thought that's crazy.
+我去查阅了
+I went and looked up.
+一些关于EMDR为何有效的理论  有很多理论
+Some of the theories about why EMDR might work and there were a bunch of theories.
+虽然它模仿了快速眼动睡眠时的眼球运动
+Though it mimics the eye movements during REM sleep,
+但其实这种理论后来被证实
+that was one turns out,
+不是真的
+that's not true,
+我之后会解释它为什么错   另外一种理论是
+and I'll explain why the other one was.
+哦
+Oh,
+它使大脑两边的活动同步
+it synchronizes the activity on the two sides of the brain.
+好吧
+Well,
+可能吧
+sort of,
+我的意思是
+I mean,
+当你观察双眼视野观察两侧时
+when you look into both sides of the binocular visual field,
+你其实激活了视觉皮层
+you activate the visual cortex.
+但是我认为这种 大脑左右半球之间的同步性的理论
+But this whole idea of synchrony between the two sides of the brain is something that
+ 已经从现代神经科学开始
+I think modern neuroscience is starting to.
+慢慢地
+Let you say gently or not,
+慢慢地脱离研究正轨
+so gently move away from this whole right brain left brain business.
+事实证明
+It turns out,
+然而
+however,
+我刚才在做的那种眼部运动  是弗朗辛·夏皮罗从这次散步中得到的
+that eye movements of the sort that I just did in the Francine Shapiro took from this walk experience 
+并带给了她的客户  带到了临床学
+and brought to her clients and in the clinic.
+是你在空间中移动时产生的眼球运动
+Are the sorts of eye movements that you generate whenever you're moving through space 
+当你自己产生这种运动时
+when you are self generating that movement,
+所以当你开车的时候
+so not so much when you're driving a car,
+当然 如果你骑自行车或者走路或者跑步
+but certainly if you are riding a bicycle or you were walking or you are running,
+你可能意识不到
+you don't realize it.
+但是你开车的时候  你有这些反射性的潜意识眼球运动
+But you have these reflexive subconscious eye movements that
+ 从一边到另一边  它们与运动系统有关
+go from side to side and they are associated with the motor system.
+所以当你往前开的时候
+So when you move forward,
+你的眼睛是这样的
+your eyes go like this.
+有许多研究表明 偏侧的眼球运动
+There have been a number of studies showing that these lateralized eye movements 
+有助于人们摆脱或分离特定创伤的情感体验
+helped people move through or dissociate the emotional experience of particular traumas.
+这些他们可以发泄的经历
+With those experiences such that they could wreak,
+治疗后再回忆那些经历 不会再感到有压力
+recall those experiences after the treatment and not feel stressed about them,
+或者他们不再感觉到他们的创伤
+or they didn't report them as traumatic any longer.
+但是
+Now.
+这个成功率
+the success,
+不是百分之百
+it wasn't a hundred per cent,
+确实在一些研究中 它们在统计上具有显著意义
+but they were statistically significant in a number of studies.
+然而 仍然有一些人批评EMDR
+And yet there are still some critics of EMDR.
+坦白说
+and frankly,
+有很长的一段时间
+for a long time.
+我仍然认为
+I still thought well,
+我也不知道
+I don't know.
+这看起来像是一种黑客行为
+this just seems like kind of a hack.
+它的作用机制我们还不知道
+it just seems like kind of does something that for which we don't know the mechanism,
+我们无法解释
+and we can't explain.
+但在过去的五年里 至少有五份
+But in the last five years there have been no fewer than five,
+六份高质量的同行评议论文  发表神经科学杂志 上
+and there's a sixth on the way High quality peer reviewed manuscripts published in Journal of Neuroscience,
+《Neuron Cell》 一本杂志优秀期刊 《自然》 也是优秀的期刊
+Neuron Cell Press Journal Excellent Journal Nature Excellent Journal.
+这些非常严格的期刊和论文表明我刚才所做的那种
+These are very stringent journals and papers showing that latter realized eye movements 
+眼球运动的偏侧化
+of the sort that I just did.
+如果你只是在听这个播客  就是眼睛从一边转到另一边
+and if you're just listening to this is just sweep that moving the eyes from side to side  
+眼睛睁着 眼球在运动
+with eyes open that those eye movements.
+但不是上下的
+But not vertical.
+眼球运动会抑制了杏仁核的活动
+Eye movements suppressed the activity of the amygdala,
+这个大脑区域参与了威胁探测
+which is this brain region that is involved in threat detection,
+压力
+stress,
+焦虑和恐惧的探测
+anxiety and fear.
+有一些形式的恐惧不是依赖于杏仁核
+There are some forms of fear that are not amygdala dependent,
+杏仁核也不是恐惧的中心
+but the amygdala it's not a fear center.
+但它对恐惧反应和焦虑体验至关重要
+But it is critical for the fear response and for the experience of anxiety.
+有趣
+So that's interesting.
+我们有临床工具现在确实显示了很多很多人的成功
+We've got a clinical tool now that indeed shows a lot of success in a good number of people 
+用眼球的运动 从一边到另一边 会抑制杏仁核
+where I movements from side to side or suppressing the amygdala 
+用这些眼球运动抑制恐惧反应
+and the general theme is to use those eye movements to suppress the fear response and then 
+然后重新叙述或重复感受
+to recount or repeat the experience 
+随着时间的推移 解除沉重的情感负担
+and over time uncouple the heavy emotional load,
+和悲伤的情绪
+the sadness,
+抑郁
+the depression,
+焦虑
+the anxiety,
+不管发生了什么  产生了创伤
+the fear from whatever it was that happened that was traumatic.
+理解这一点很重要
+This is important to understand,
+因为
+because.
+你知道的
+You know,
+我很乐意告诉那些有过创伤经历的人  他们可以忘记那段经历
+I'd love to be able to tell somebody who had a traumatic experience that they would forget that experience,
+但事实是 你永远不会忘记痛苦的经历  你所做的只是消除情感负担
+but the truth is you never forget the traumatic experience what you do is you remove the emotional load.
+最终它真的会失去作用力
+Eventually it really does lose its potency.
+情绪的作用力得到了缓解
+The emotional potency is alleviated.
+我想说的是 EMDR疗法在单个事件中是最成功的
+Now EMDR I should just mention tends to be most successful for single event were 
+就是反复回想的特定类型的创伤
+very specific kinds of trauma that happened over and over,
+而不是说
+as opposed to say,
+一个完整的悲惨童年  或者一整段的离婚
+an entire childhood or an entire divorce.
+它们往往是
+They tend to be.
+对单一事件最有效
+It tends to be most effective for single event kinds of things,
+比如车祸
+car crashes,
+等等
+etc.
+人们可以回忆起事件的很多细节
+where people can really recall the events in quite a lot of detail.
+所以不是每个人都适合
+so it's not for everybody,
+或者应该这么做
+and it should be done.
+如果是为了创伤治疗
+If it's going to be done for trauma,
+应该在临床中进行 由有资质的人来做
+it should be done in a clinical setting with somebody who is certified to do this,
+但这和快速眼动睡眠有很多相似之处  在我们的睡眠中我们的眼睛
+but that bears a lot of resemblance to REM sleep right this experience in our sleep where our eyes,
+会动来动去
+our movement moving.
+不好意思
+Excuse me,
+尽管是以不同的方式
+although in a different way.
+但我们没有某些化学物质
+But we don't have the chemical.
+没有肾上腺素
+an epinephrine,
+产生恐惧反应的化学物质
+In order to generate the fear response,
+然而我们却记住了前一天或几天前的事件
+and yet we're remembering the event from the previous day or days,
+有时在快速眼动睡眠中
+sometimes in REM sleep,
+我们会想到很久很久以前发生的事情
+we think about things happen a long long time ago.
+这很有趣
+So that's interesting.
+现在有了一种新的治疗方法
+And then now there's this new treatment.
+氯胺酮的化学疗法
+this chemical treatment with the drug ketamine,
+这也和快速眼动睡眠中发生的事情有很多相似之处
+which also bears a lot of resemblance to the sorts of things that happen in REM sleep.
+氯胺酮现在受到了很多关注
+Ketamine is getting a lot of attention now,
+我想  很多人都不知道氯胺酮是什么
+and I think a lot of people just don't realize what ketamine is.
+氯胺酮是一种解离麻醉剂
+Ketamine is a dissociative anaesthetic.
+它与一种叫做Pcp的药物非常相似
+It is remarkably similar to the drug called Pcp,
+是
+which.
+对人们来说无疑是一种危险的药物
+It's certainly a hazardous drug for people to use ketamine and pcp 
+它们的作用都是破坏大脑中特定受体的活动
+both function to disrupt the activity of a particular receptor in the brain,
+称为NMDA受体   n-甲基d-天门冬氨酸受体
+called the N M D receptor and n-methyl d-aspartate receptor.
+这是一个位于神经元表面的受体
+This is a receptor that's in the surface of neurons are on the surface of neurons,
+大多数时候
+for which most of the time.
+它并不活跃
+it's not active.
+但当极端情况发生时
+but when something very extreme happens and there's a lot of activity  
+神经回路中有很多活动会影响受体
+in the neural pathway that impinges on that receptor,
+它会打开
+it opens,
+它允许分子和离子进入 从而触发一个我们称之为长期增强的细胞过程
+and it allows the entry of molecules ions that trigger a cellular process that we call long term potentiation.
+长期增强转化为连接上的变化  所以以后你不需要经历同样的强烈事件
+and longterm potential nation translates to a change in connectivity so that later you don't need that
+就能让神经元再次活跃起来
+intense event for the same for the neuron to become active again.
+我讲清楚一点
+Let me clarify a little bit of this.
+NMDA
+The nmda,
+受体
+a receptor,
+是由丰富的经验引导的
+is guided by intense experience.
+你可以这样想 通常我走在家里
+One way you can think about this is typically I walk in my home.
+我可能会做一些食物 坐在厨房的桌子旁
+I might make some food and sit down at my kitchen table,
+我不去想爆炸的事
+and I don't think anything about explosions.
+但如果有天晚上我回到家  坐下来喝鸡汤的时候
+but were I to come home one night sit down to a bowl of chicken soup,
+然后发生了巨大的爆炸
+And there was a massive explosion.
+与我餐桌上的鸡汤相关的神经元
+The neurons are associated with chicken soup in my kitchen table 
+会以一种不同于以前的方式活跃起来
+would be active in a way that was different than they were previously.
+我们将会和这种爆炸的体验联系在一起 比如下一次
+And we'll be coupled to this experience of explosions such that the next time 
+或者之后每一次 当我坐在厨房的餐桌旁时
+and perhaps every other time that I go to sit down at the kitchen table.
+不管我多么理智地了解爆炸的起因
+no matter how rational I am about the origins of that explosion,
+也许是路边的油罐车
+maybe it was a gas truck that was down the road.
+它也没有理由还在那里
+And there's no reason to think it's there today,
+但我也会有同样的经历
+but I would have the same experience.
+这些神经元会变得活跃 我的心率会再次增加
+Those neurons will become active and I'd get an increase in heart rate again
+开始出汗
+increase in sweating,
+等等
+etc.
+氯胺酮阻断了nmda受体
+Ketamine blocks this nmd a receptor 
+阻止这种对厨房餐桌汤的交叉的 额外的意义
+and prevents that cross over and the addition of meaning to the kitchen table kitchen soup.
+不好意思
+Excuse me.
+阻止对鸡汤和爆炸的交叉的 额外的意义
+chicken soup explosion experience.
+那么氯胺酮是如何使用的呢
+So how is ketamine being used?
+氯胺酮被用于在创伤后不久的情绪记忆的阻断
+Ketamine is being used to prevent learning of emotions very soon after trauma 
+所以氯胺酮在许多不同的急诊室被使用
+so ketamine is being stalked in a number of different emergency rooms,
+如果人们被带进来
+where if people are brought in quickly and you know,
+你知道的 这些甚至都很难描述
+these are hard to describe,
+一个可怕的经历  比如一个人看到他们身边的爱的人死于车祸
+even but you know a horrible experience of you know somebody seeing a loved one next to them 
+而他们开着那辆车
+killed in a car accident and they were driving that car.
+这并不适合所有人
+This isn't for everybody,
+当然
+certainly,
+你需要和你的医生谈谈
+and you need to talk to your physician.
+但是一般使用氯胺酮是因为  他们可能会给人注射氯胺酮
+But ketamine is being used so they might infuse somebody with ketamine 
+这样他们的情绪仍然会发生
+so that their emotion is it can still occur.
+但是因为这种可塑性
+but that the that the plasticity,
+他们大脑中回路的变化  大脑开始不让那种强烈的情感依附于这种经历
+the change in the wiring of their brain won't allow that intense emotion to be attached to the experience.
+现在
+Now immediately,
+你可以想象这种药物的伦理意义
+you can imagine the sort of ethical implications of this right,
+因为某些情感需要与经历相结合
+because certain emotions need to be coupled to experiences.
+我并不是建议人们应该或不应该使用氯胺酮
+I'm not saying that people should be using ketamine or shouldn't be using ketamine.
+当然不是取乐
+Certainly not recreationally,
+这是很危险的
+it's quite dangerous.
+它可能
+it does.
+它可能是致命的
+It can be lethal.
+和PCP一样
+And like PC P,
+它能导致认知和行为上的巨大变化
+it can cause pretty dramatic changes in perception and behavior.
+但在临床环境中
+But in the clinical setting,
+氯胺酮的基本作用
+the basis of ketamine,
+是辅助治疗  是为了消除情绪
+assisted therapies are is really to remove emotion.
+我觉得我已经听到过很多的公众讨论
+and I think the way I've been hearing about it talked about in the general public is 
+很多人认为这有点更像是一种愚蠢的裸头草碱试验或NMDA试验
+a lot of people think it's a little bit more like the kind of psilocybin trials or the mdm may trials 
+而是变得更加情感或获得一定经验
+where it's about becoming more emotional or getting in touch with a certain experience.
+氯胺酮是一种解离性的药物 也就是从体验的情感成分中分离出来
+Ketamine is about becoming dissociative or removed from the emotional component of the experience.
+现在我们有了氯胺酮
+So now we have ketamine,
+它在化学上阻碍了可塑性 阻止了情感和经历之间的联系
+which chemically blocks plasticity and prevents that the connection between an emotion and inexperience.
+这是一种药物干预
+That's a pharmacologic intervention 
+我们有EMDR
+we have EMDR,
+这个眼球运动是用来抑制杏仁核
+which is this eye movement thing that is designed to suppress the amygdala 
+并消除情感
+and is designed to remove emotionality.
+回忆过去时的情感  我们快速眼动睡眠中回忆一段经历时 化学物质肾上腺素
+while somebody recounts an experience and we have REM sleep where the chemical epinephrine,
+可以发出强烈的情绪信号
+allows for signaling of intense emotion too.
+大脑和身体的强烈情感体验是不允许的
+And the experience of intense emotion in the brain and body is not allowed.
+所以我们可以开始看到整体的组织逻辑了
+And so we're starting to see eight organizational logic,
+也就是说 我们睡眠生活的某些部分  就像治疗一样
+which is that a certain component of our sleeping life is acting like therapy,
+这就是快速眼动睡眠的意义所在
+and that's really what REM sleep is about,
+所以我们应该认为快速眼动睡眠和慢波睡眠都是至关重要的
+so we should really think about REM sleep and slow wave sleep as both critical,
+慢波睡眠
+slow wave,
+用于运动学习和细节学习
+sleep or motor learning,
+在快速眼动睡眠中学习
+a detailed learning REM sleep for attaching of emotions,
+特殊经历的情感依附
+to particular experiences,
+然后确保这些情绪不会依附于错误的经历 并
+and then for making sure that the emotions are not attached to the wrong experiences 
+在情绪反应过于强烈或严重时忘记它们
+and for unlearning emotional responses if they're too intense or severe.
+这些都说明了掌握睡眠的重要性
+And this all speaks to the great importance of mastering one sleep,
+这是我们在播客的第二集讨论过的 我们要确保
+something that we talked about in episode two of the podcast and making sure that 
+如果生活中出现了由于旅行 压力 学校安排的变化
+if life has disruptive events either due to travel or stress or changes in schoolers 
+或饮食安排等原因造成的干扰事件
+or food schedule something that we talked about,
+第三 四期  我们讨论了  人们仍然可以把握好 管理自己的睡眠生活
+an episode three and four that one can still grab a hold and manage one's sleep life.
+因为从根本上说
+Because fundamentally,
+忘却那些困扰我们的情绪  是让我们在生活中继续前进的原因
+the unlearning of emotions that are troubling to us is what allows us to move forward in life 
+而REM睡眠的缺乏
+and indeed the REM deprivation.
+研究表明 当人们变得过度情绪化的时候
+Studies show that people become hyper emotional,
+他们的生活会开始走向灾难
+they start to catastrophes,
+这并不奇怪
+and it's no surprise,
+因此
+therefore,
+睡眠障碍与许多情绪和心理障碍有关
+That sleep disturbances correlate with so many emotional and psychological disturbances.
+从现在开始
+It's just by now.
+你们应该可以明显地感觉到  其中的道理
+It should just be obvious why that would be the case.
+事实上
+In fact,
+前几天我和一个在澳大利亚的同事讨论
+the other day I was in a discussion with a colleague of mine who was down in Australia,
+莎拉·麦凯博士
+Dr Sarah Mckay.
+我已经认识她20年了 那时她还在牛津念书
+I've known her for two decades now from the time she was at Oxford and Sarah Studies,
+尤其是
+among other things,
+大脑的更年期
+menopause in the brain.
+她说很多更年期的情绪影响
+and she was saying that a lot of the emotional effects of menopause actually 
+实际上与荷尔蒙没有直接关系
+are not directly related to the hormones.
+有一些很好的研究表明在  更年期温度调节的中断
+There have been some really nice studies showing that the disruptions in temperature regulation 
+与睡眠调节的改变相对应
+in menopause map to changes in sleep regulation that 
+然后影响情绪  影响无法正确调节情绪相关的回路
+then impact emotionality and an inability to correctly adjust the circuits related to emotionality.
+我推荐你们看去她的研究  我之后可能会让她来播客当嘉宾
+and I encourage you to look at her work will probably have her as a guest on the podcast 
+在将来的某个时候 因为她太了解这些问题
+at some point in the future because she's so knowledgeable about those sorts of issues 
+以及睾丸激素相关的问题
+as well as issues related to testosterone and in people 
+结合各种不同的染色体的人的背景
+with all sorts of different chromosomes backgrounds.
+所以睡眠剥夺不仅仅是能量的剥夺
+So sleep deprivation isn't just deprivation of energy,
+不仅仅是免疫功能被剥夺
+it's not just deprivation of immune function,
+它还剥夺了我们每次睡觉时的自我诱导治疗
+It is deprivation of self induced therapy every time we go to sleep,
+那是像EMDR和氯胺酮疗法  这些临床疗法的过程
+so these things like EMDR and ketamine therapies are in clinic therapies,
+但快速眼动睡眠是每晚入睡时  你都能给自己的治疗过程
+but REM sleep is the one that you are giving yourself every night when you go to sleep,
+这就提出了
+which raises,
+我认为另一个很重要的问题
+I think the other important question,
+也就是如何知道自己是否有了
+which is how to get and how to know if you're getting
+ 相应的快速眼动睡眠和慢波睡眠
+the appropriate amount of REM sleep and slow wave sleep.
+这就是我们接下来要讨论的
+so that's what we'll talk about next.
+那么 我们应该如何获得适量的慢波睡眠和快速眼动睡眠
+So how should one go about getting the appropriate amount of slow wave sleep and REM sleep 
+如何知道自己获得的睡眠量是正确的
+and knowing that you're getting the right amount 
+不用脑电波的情况下  
+well short of hooking yourself up to an EEG.
+要精确测量每一晚的大脑状态是很困难的
+It's going to be tough to get exact measurements of brain states from night to night.
+现在有些人使用欧拉指环  低音带或其他设备
+Some people nowadays are using things like the oura ring or a whoop band or some other device 
+来测量睡眠质量 深度和持续时间
+to measure the quality and depth and duration of their sleep.
+对很多人来说
+And for many people of those,
+这些设备可能非常有用
+those devices can be quite useful.
+有些人只是通过他们感觉好不好  来衡量他们的睡眠
+Some people are only gauging their sleep by way of whether or not they feel rested,
+不管有没有觉得自己在学习
+whether or not they feel like they're learning,
+不管有没有变好
+and they're getting better or not.
+有一些事情  是大家可以真正做到的
+There are some things that one can really do,
+鉴于我说过的
+and the first one is might surprise you.
+还有你听到的  关于睡眠的一切  第一个可能会让你吃惊
+In light of everything I've said and probably everything you've heard about sleep.
+哈佛大学本科生做过一项研究
+There was a study done by a Harvard undergraduate.
+艾米丽·霍格兰
+I mean Emily Hoagland,
+她当时在罗伯特·斯特里格科尔德的实验室里
+who was in Robert Strict gold slab at the time.
+该研究探索了总睡眠时间的变化与学习的关系
+And that study explored how variations in total sleep time related to learning.
+与总睡眠时间相比
+As compared to total sleep time itself.
+总结一下这项研究
+And to summarize the study,
+他们发现 每晚有规律的睡眠更重要
+what they found was that it was more important to have a regular amount of sleep each night,
+而不是总持续时间
+as opposed to the total duration.
+换句话说
+In other words,
+他们所展示的是学习能力的提高 或者学习障碍
+and what they showed was that improvements in learning.
+你连续有6 6 5 6个小时的睡眠时间
+Or deficits in learning were more related to whether or not you've got 6 hours 6 hours 5 hours 6,
+比其他不规律的情况下要更好
+That was better than if somebody got,
+例如
+for instance,
+6个小时
+six hours,
+10个小时
+ten hours,
+7个小时 然后4-5个小时
+seven hours for four or five hours.
+你可能会说
+She might say.
+好吧
+Well,
+这太疯狂了 因为我还以为我们需要更多的睡眠
+that's crazy because I thought we're just also is to get more sleep,
+而且临近早晨会有更多的快速眼动睡眠
+and there's more REM towards morning.
+事实证明 为了学习新知识和在考试中的好的表现
+Turns out that forsake of learning new information and performance on exams.
+特别是
+In particular,
+这就是测量的结果
+that's what was measured.
+限制你的睡眠时间的变化
+Limiting the variation in the amount of your sleep is at least as important and perhaps 
+至少比获得总的睡眠时间一样重要  或者更重要
+more important than just getting more sleep overall,
+我认为这会给人们带来很大的安慰
+and I think this will bring people great relief.
+很多人
+Many people,
+对那些努力想要得到充足睡眠的人来说 这是莫大的安慰
+great relief who are struggling to quote unquote get enough sleep.
+还记得几集前
+Remember a few episodes ago,
+我讲过两者的区别
+I talked about the difference between?
+疲劳和失眠疲劳往往发生在我们累的时候
+Fatigue and insomnia fatigue is tends to be when we are tired.
+失眠往往会导致白天的困倦  而晚上却睡不着
+Insomnia tends to lead to a sleepiness during the day when we're falling asleep and you don't want that,
+这两样你都不想要
+you don't want either of those things really.
+我发现了一个令人震惊的事实 研究数据确实指出了这样一个事实
+I found it striking that the data from the study really point to the fact that 
+持续保持相同的睡眠时间  比仅仅获得更多的睡眠更好
+consistently getting about the same amount of sleep is better than just getting more sleep.
+我认为现在
+And I think nowadays,
+很多人只是想多睡会儿
+so many people are just aiming for more sleep,
+他们对只有5个小时
+and they're rather troubled about the fact that there are only getting five hours 
+或者在某些情况下只有6个小时的睡眠  感到非常担心
+or they're only getting six hours in some cases.
+可能是他们的确睡眠不足 需要更多的睡眠
+It may be the case that they are sleep deprived and they need more sleep,
+但有些人只是睡眠需求较低
+but some people just have a lower sleep need,
+我个人觉得很欣慰的是我持续的是六个小时  六个半小时的睡眠
+and I find great relief personally in the fact that consistently getting for me about six hours were six,
+要比一直努力睡八 九个小时更有益
+and a half hours is going to be more beneficial than constantly striving for eight or nine  
+有时我发现自己睡了五个小时
+and finding that some nights I'm getting five,
+有时我睡了9个小时 波动很大
+and sometimes I'm getting nine and varying around the mean as I recall,
+我想我要准确地叙述出来
+and I think I'm going to get this precisely right.
+但如果我没有按照
+But if not,
+在中间值前后不超过一小时的睡眠时间 睡觉
+I know that I'm at least close for every hour variation in sleep,
+不管我的睡眠时间是否比一般人多
+regardless of whether I was more sleep than one typically got.
+在某种特殊的考试类型上 我的成绩下降了17%
+There was a seventeen per cent reduction and performance on this particular exam type.
+这是很强大的
+And so this is powerful.
+这意味着我们应该争取有规律的睡眠
+This means that we should strive for a regular amount of sleep,
+对我们中的一些人来说 这意味着入睡 醒来 然后继续睡觉
+and for some of us that means falling asleep and waking up and going back to sleep 
+对一些人来说 这意味着入睡 醒来 然后不再继续睡觉
+for some people means falling asleep and waking up and not getting back to sleep now.
+理想情况下
+Ideally,
+你在晚上的早些时候  就能得到充分的慢波睡眠 然后快到早上的时候
+You're getting the full complement of slow wave sleep early in the night and sleep toward morning,
+就是快速眼动睡眠
+which is REM sleep,
+这就引出了我们如何获得更多的快速眼动睡眠
+which brings us to how to get more REM sleep.
+好吧
+Well,
+有几种不同的方法
+there are a couple of different ways,
+但这里有一些  阻止更多快速眼动睡眠的方法
+but here's how to not get more REM sleep.
+好
+Alright,
+首先
+first of all,
+睡觉前多喝水
+drink a lot of fluid right before going to sleep.
+我们在半夜醒来上厕所的原因之一
+One of the reasons why we wake up in the middle of the night to use the bathroom is 
+就是我们的膀胱满了
+because when our bladder is full,
+这是一种神经联系
+there is a neural connection,
+真的是神经回路中有一组神经元  它们进入脑干 把我们唤醒
+literally a set of neurons in a nerve circuit that goes to the brain stem that wakes us up 
+实际上有些人 我知道  我不会提到名字
+and actually some people that I know I won't be mentioned 
+当他们想要保持清醒的时候 用这个来调整她的时差
+as she used this to try to adjust their for their jet lag when they're trying to stay awake.
+上厕所小便是最让人焦虑的事情之一
+having to use the bathroom have any urinate is one of the most anxiety,
+唤起了任何人都有的体验
+evoking experiences anyone can have.
+如果你真的要上厕所
+If you really have to go to the bathroom,
+那就很难入睡  或保持睡眠状态
+it's very hard to fall asleep or stay asleep and bed.
+还有尿床
+wetting,
+这种情况发生在儿童很小的时候   是这些大脑回路的运作失败  直到成熟之后才不会
+Which happens in kids very early on is a failure of those circuits to maturation into mature.
+直到
+Until you know,
+我想我们都认为婴儿会在他们睡觉时尿尿
+I think we all assume that babies are going to you are going to pee in their sleep,
+但成年人不应该这样做 而且大脑回路需要一些时间来发展
+but adults aren't supposed to do that and the circuits take some time to develop it.
+有些孩子的发育要比其他人晚一些
+In some kids they develop a little bit later than others,
+所以膀胱太满  是扰乱睡眠的一个问题
+so having a full bladder is one way to disrupt your sleep.
+你又不想脱水睡觉
+You don't want to go to bed dehydrated,
+但这是一种方式
+but that's one way.
+另一方面
+On the other hand,
+有证据表明 如果你想更多地记住你的梦 或者更多地记住你的梦
+there is evidence that if you want to remember your dreams more or remember more of your dreams,
+你可以使用一个工具
+there is a tool that you can use.
+我并不推荐
+I don't necessarily recommend it,
+那就是睡觉前喝一大堆水
+which is to drink a bunch of water before you go to sleep.
+然后你就会频繁地进出快速眼动睡眠
+and then what happens is you tend to break in and out of REM sleep,
+这些梦容易断裂 而且可以通过睡眠日记
+it tends to be fractured and with a sleep journal.
+他们做了这些实验室研究
+then they've done these laboratory studies.
+信不信由你
+believe it or not,
+人们会回忆起更多的梦 因为他们处于这种半意识状态
+people will recall more of their dreams because they're in this kind of semiconscious state 
+因为他们整夜都在不停地醒来
+because they're constantly waking up throughout the night.
+我建议睡觉前不要憋尿
+I suggest not having a full bladder before you go to sleep,
+这个答案很明显
+that one's kind of an obvious one,
+但另一个是
+but nonetheless the other one is.
+如果你还记得  在快速眼动睡眠期间
+If you recall that during REM sleep,
+我们的神经递质发生了变化 我们的神经递质减少了
+we have a shift in neurotransmitters such that we have less.
+血清素 不好意思我只是想确认一下  就是血清素更少
+Serotonin or I just want to make sure I got their rights gives me less serotonin.
+有很多补剂都是为了改善睡眠
+There are a lot of supplements out they're geared toward improving sleep.
+我会服用一些
+I've taken some of them and adopting many of them,
+即使不是全部
+if not all of them at this point,
+这样我才能向你汇报
+so I could report back to you,
+我想我在上一集提到过  当我服用色氨酸
+and I think I mentioned in a previous episode that when I take tryptophan 
+以及包含5-htp的补剂
+or anything that contains five htp,
+也就是血清素或血清素的前体
+which is serotonin or a precursor to serotonin,
+血清素是由色氨酸合成的
+serotonin is made from tryptophan.
+我往往睡得很沉 然后几个小时后就醒了
+I tend to fall very deeply asleep and then wake up a few hours later.
+基于你不想在一开始就有大量快速眼动睡眠的事实 这样做是有道理的
+And that makes sense now based on the fact that you just don't want a lot of REM sleep early on.
+当我在早期进入大量快速眼动睡眠时  最可能发生的是什么呢
+What was probably happening as I was getting a lot of REM sleep early on.
+因为低水平的血清素通常与慢波睡眠有关
+because low levels of serotonin are typically associated with slow wave sleep,
+这种情况在晚上很早就出现了
+and that comes early in the night.
+所以对一些人来说
+So for some people,
+这些补品可能会起作用
+those supplements might work.
+但要注意 补充血清素可能会扰乱快速眼动睡眠和慢波睡眠的时间
+But beware serotonin supplements at could disrupt the timing of REM sleep and slow wave sleep,
+就我而言
+and in my case,
+会导致入睡后很快醒来 无法再入睡
+led to waking up very shortly after going to sleep and not being able to get back to sleep.
+那么
+Now,
+如果你想增加慢波睡眠
+if you want to increase your slow wave sleep,
+很有趣
+that's interesting.
+有很多方法可以做到这一点
+There are ways to do that.
+增加慢波睡眠  慢波睡眠的占比
+One of the most powerful ways to increase slow wave sleep,
+最有效的方法之一
+the percentage of slow wave sleep.
+显然 在不影响睡眠和学习的其他因素的情况下
+Apparently without any disruption to the other components of sleep and learning 
+就是进行抗阻负重运动
+is to engage in resistance exercise.
+很明显 抗阻负重运动触发了一系列新陈代谢和内分泌回路
+It's pretty clear that resistance exercise triggers a number of metabolic and endocrine pathways
+这些回路有助于释放生长激素
+that lend themselves to release of growth hormone,
+在晚上的早些时候进行抗阻运动
+which happens early in the night and resistance exercise,
+之后
+therefore,
+能诱发更大比例的慢波睡眠
+can induce a greater percentage of slow wave sleep.
+不是一定要在接近睡觉前完成
+It doesn't have to be done very close to going to bed time,
+事实上
+in fact,
+对于一些人来说 这种运动可能会造成睡不好 原因我在之前的章节中已经谈到过
+for some people that the exercise could be disruptive for reasons I've talked about in previous episodes.
+但抗阻负重运动
+But resistance exercise,
+不像有氧运动
+unlike aerobic exercise,
+确实增加了慢波睡眠的时间
+does seem to increase the amount of slow wave sleep which,
+正如我们所知
+as we know,
+参与了运动学习和细节信息的获取
+is involved in motor learning and the acquisition of fine detailed information,
+而不是一般规则或情感组成的经历
+not general rules or the emotional components of experiences.
+对于那些对清醒梦感兴趣
+For those of you that are interested in lucid dreaming 
+并想要增加清醒梦次数的人
+and would like to increase the amount of lucid dreaming that you're experiencing.
+我没能找到我在节目一开始所说的那个红灯设备
+I haven't been able to track down that device with the red light that I described at the beginning.
+但是原则上有很多简单的零技术工具可以使用
+But there are a number of just simple zero technology tools that one could use in principle.
+一种是设置提示
+One is to set a cue.
+它的工作原理是 你想出一个简单的叙述
+The way this works is you come up with a simple statement about something 
+关于你以后想在梦中看到或经历的事情
+that you'd like to see or experience later in dreams you can,
+比如
+for instance,
+写下来
+write down,
+我想记住红苹果
+you know something like I want to remember the red apple.
+我知道听起来可能有点愚蠢和单调
+I know sound silly and trivial,
+你看着这个
+and you look at that.
+你可能会想把它写在一张纸上 你甚至可能想画一个红苹果
+You would probably want to write it down on a piece of paper you might even want to draw a red apple,
+在你睡觉前
+and then before you go to sleep,
+看着它
+you would look at it,
+然后你再去睡觉
+and then you would just go to sleep.
+有报道称 连续几天这样做 会导致一种情况
+There are some reports that doing that for several days in a row can lead to a situation in which
+ 突然在你的梦中 你记得红苹果
+you are suddenly in your dream and you remember the red apple 
+这在现实中  给你一种与梦境之间的现实联系
+and that gives you a sort of tether to reality between the dream state and reality
+这可以让你在其中调整 调整你的梦想
+that allows you to navigate in shape and kind of adjust your dreams.
+清醒梦并不一定能够有改变梦境特征的能力
+Lucid dreaming does not have to be or include the ability to alter features of the dream you know 
+不能够控制梦中事物
+to be able to control things in the dream.
+有时只是你意识到自己在做梦
+Sometimes it's just the awareness that you are dreaming.
+但尽管如此
+But nonetheless,
+有些人喜欢清醒梦
+some people enjoy lucid,
+然后对那些做很多清醒梦的人来说 他们会觉得有些不知所措
+dreaming and then for people that have a lot of lucid dreams that feel kind of overwhelmed by those
+ 因为那些梦会涉及到尝试采用一些方法来设定正确的睡眠时间
+that's going to involve trying to embrace protocols that can set the right duration of sleep.
+有一些文献
+There's a little bit of literature,
+不是很多 表明  保持每晚的从开始到结束的连续六个小时睡眠
+Not a lot that that shows that keeping the total amount of sleep per night to the big two say six hours 
+比如开始睡觉  到一个昼夜周期的结束
+such that you begin sleeping end at the beginning and end of one of these ultradian cycles 
+可以比在半夜醒来一个昼夜周期 睡得更好
+can be better than waking up in the middle of one of these old trading in cycles.
+所以
+So.
+试着找到你所需要的睡眠时间
+Try and find the right amount of sleep that you need.
+这对你来说很好 然后今晚试着这样吧
+that's right for you and then try and get that consistently night tonight.
+如果你是一个清醒梦者 你不喜欢这样
+If you're a lucid dreamer and you don't like it,
+然后 你可能想要开始确保你在这些昼夜周期的结束时醒来
+then you may want to start to make sure that your waking up at the end of one of these altrurian cycle.
+所以在这种情况下 最好在6小时后醒来 而不是7小时后
+So in this case it would be better to wake up after six hours than after seven.
+如果你的睡眠时间超过6个小时
+And if you did sleep longer than six hours,
+那最好睡七个半小时
+maybe you'd want to get to seven and a half hours because 
+因为这将是九十分钟周期的一个结束
+that's going to reflect the end of one of these ninety minutes cycles,
+而不是中途醒来
+as opposed to waking up in the Middle.
+酒精
+Alcohol,
+众所周知 酒精和大麻会导致假性睡眠状态
+alcohol and marijuana are well known to induce states that are pseudo sleep,
+尤其是当人们在饮酒或吸食四氢大麻酚后睡着的时候
+like especially when people fall asleep while after having consumed alcohol or THC.
+其中的活性成分
+The active component.
+大麻中的一种活性成分
+One of the active components in marijuana.
+酒精THC  以及大多数
+Alcohol THC and most?
+这种东西
+Things like them,
+也就是增加血清素或Gaba的物质
+meaning things that increase serotonin or Gaba,
+会扰乱睡眠模式
+are going to disrupt the pattern of sleep they're going to disrupt.
+深度将会打乱整体的顺序
+The depth are going to disrupt the overall sequencing of 
+即早期的慢波睡眠  和晚期的快速眼动睡眠
+more slow wave sleep early in the night and more REM sleep later in the night.
+这就是现实
+That's just the reality.
+有些事情
+There are some things that,
+至少在我能找到的一些研究中
+at least in a few studies that I could find seem to just that
+ 你可以增加慢波睡眠的时间 使用精氨酸
+you could increase the amount of slow wave sleep using things like arginine,
+氨基酸精氨酸
+the amino acid arginine.
+但是你要提前去检查一下
+Although you really want check,
+精氨酸是否会导致影响心脏
+our gene can have effects on heart,
+等等
+etc.
+还有其他的影响 但是酒精对睡眠和睡眠深度没有好处
+has other effects but alcohol thc not going to be great for sleep and depth of sleep.
+你可能会觉得自己能更快入睡
+You might feel like you can fall asleep faster,
+但你进入的睡眠并不是那种深度的
+but the sleep that you're accessing really isn't the kind of deep,
+不是你真正需要的那种
+restorative sleep that you should be getting now.
+当然
+Of course,
+如果这是你睡觉所需要的
+if that's what you need in order to sleep,
+这在你们的方案中
+and that's within your protocol.
+就像我之前说的
+As I've said here before,
+我并不是建议大家都吃一个东西
+I'm not suggesting people take anything.
+我不是医生
+I'm not a medical doctor,
+我不是警察
+I'm not a cop,
+所以我不会去规范任何人的行为
+so I'm not turn to regulate anyone's behavior.
+我只是告诉你文献上所说的
+I'm just telling you what the literature says.
+你们中的一些人可能想要探索你的梦和梦的意义
+Some of you may want to explore your dreams and meaning of dreams,
+等等
+etc.
+你知道 关于如何做到这一点并没有很多确凿的数据
+You know there's not a lot of hard data about how to do this,
+但很多人都说自己写了睡眠日记   这些梦境日记非常有用
+but a lot of people report keeping a sleep journal where a dream journal can be very useful,
+所以他们自己前一天晚上睡前  会做标记
+so they mark when they think they fell asleep the night before when they woke up.
+如果他们在半夜或者清晨醒来
+And if they wake up in the middle of the night early in the morning,
+他们只会写下他们能回忆起的梦
+they'll just write down what they can recall of their dreams.
+即使他们什么都想不起来
+and even if they recall nothing,
+很多人都有过上午或下午晚些时候突然会想起来
+many people have the experience of midmorning or later afternoon that suddenly comes to them,
+他们做了一个和写下来的东西相关的梦
+that they had a dream about something in writing.
+我记了一篇梦境日记
+That down I kept a dream journal,
+虽然它给我的线索不多
+for while it didn't really afford me much,
+我什么都没学到  除了我的梦很奇怪
+I didn't really learn anything except to my dreams were very bizarre.
+与慢波睡眠相比
+There are some things that happen in dreams that are associated with REM sleep 
+REM睡眠中发生的一些事情
+as he compared to slow wave sleep,
+它可以告诉你你的梦是发生在快速眼动睡眠还是慢波睡眠中
+which can tell you whether or not your dream likely happened in REM sleep or slow wave sleep
+它的显著特征是
+and the distinguishing feature it turns out,
+是一种叫做心灵理论的东西它实
+is something called Theory of mind through your mind is actually 
+际上是为了研究和评估自闭症而发展出来的
+an idea that was developed for the study and assessment of autism.
+最初的短语理论是由西蒙·拜伦·科恩提出的
+and it was initially that phrase theory of mine was brought about by Simon Baron Cohen,
+他是萨沙·拜伦·科恩
+who is Sasha Baron Cohen.
+这位喜剧演员的哥哥  西蒙·拜伦·科恩是一位心理学家
+The comedians brother Simon Baron Cohen is a psychologist.
+在某种程度上
+and to some extent,
+他是牛津大学的神经学家 研究心理理论
+a neuroscientist at Oxford and theory of mind.
+测试对象是儿童和心理理论
+Tests are done on children and the theory of mind.
+一些
+Tesco is some.
+像下面这样
+What like the following.
+一个孩子
+A child,
+被带进实验室  让他们看
+is brought into a laboratory and watches,
+另一个孩子玩某种玩具的视频
+a video of a child playing with some sort of toy,
+然后在玩完那个玩具后
+and then at the end of playing with that toy.
+他们把玩具放在抽屉里 走开了 然后另一个孩子进来四处张望
+they put the toy in a drawer and they go away and then another child comes in and is looking around.
+然后实验者问参与实验的孩子
+And then the experimenter asks the child who's in the experiment.
+问看视频的孩子
+The real child says,
+恩
+You know,
+视频中后面进来的孩子在想什么
+What does the child think you know?
+他们有什么感觉
+What are they feeling?
+对于大多数特定年龄的孩子
+And most children of a particular age,
+五六岁或更大的人会说
+five or six or older will say,
+哦
+Oh,
+他或她在困惑
+you know he or she is confused.
+他们不知道玩具在哪里
+They don't know where the toy is,
+或者他们会说一些暗示  我们所说的心理理论的东西
+or they'll say something that implies what we call theory of mind that 
+他们可以把别人想法放进自己的脑子里
+they can put their ideas into in their mind into what 
+放到另一个孩子可能感觉到或经历到  心理理论的东西里
+the other child is likely to be feeling or experiencing that theory of mind.
+这被用作自闭症的评估之一
+And it turns out that this is used as one of the assessments for autism.
+因为有些孩子 不是所有的孩子
+because some children not all but some children
+ 而是一些患有自闭症或发展为自闭症的孩子  没有这种心智理论
+that have autism or that go on to develop autism don't have this theory of mind.
+他们总是盯着第一个孩子把玩具放进抽屉的事实不放
+They tend to fixate on the fact that the first child put the toy in the drawer.
+他们会说在抽屉里
+They'll say it's in the drawer,
+而不是回答这个问题
+as opposed to answering the question,
+第二个孩子是什么感觉
+which is how does the second child feel about it?
+或者他们在经历什么
+or what are they experiencing?
+因此 心智理论是在生命早期出现的东西
+So theory of mind is something that is emerges early in life 
+它是与情绪学习和社会互动相关的
+as a part of the maturation of the circuits in the brain associated 
+大脑回路成熟的一部分
+with emotional learning and social interactions,
+我们体验这种断片的梦
+and we experience this inserting dreams.
+所以如果你做了一个很困惑的梦
+So if you had a dream that you're puzzled about her,
+你一直在想它
+that you're fixated on and you're thinking about,
+你可以问问你自己  在那个梦里
+you might ask in that dream.
+我是在评估别人的情绪和感受吗
+Was I assessing somebody else's emotion and feeling,
+还是说 我基本上是在用第一人称  这种倾向就是
+or was I very much in my own first person experience and that the tendency is that 
+心理理论在REM的梦境中的反应
+theory of mind tends to show up most in these REM associated dreams.
+不是所有都这样
+Now this isn't a hard and fast rule,
+但是很有可能
+but chances are,
+如果你在梦里想着其他人想对你做什么
+if you are in a dream and you were thinking about other people who wanted to do something to you,
+你在想他们想要追逐你  或帮助你
+you are thinking about their desire to chase you or help you,
+或者是与他人的情感体验有关的东西
+or something that was really relate to someone else's emotional experience.
+那基本上就是在快速眼动睡眠中做梦
+It was probably a REM dream that dream occurred in rapid eye movement sleep 
+与慢波睡眠相反
+as opposed to slow wave sleep.
+而当你想到REM在情绪上有解除对特定生活事件的联想的作用时  这就说得通了
+And that makes sense when you think about the role of REM in emotional unlearning of 
+快速眼动中充满了各种各样的探索
+associations with particular life events that REM is rich with all sorts of exploration of 
+比如被追赶的情绪负荷  或者第二天考试的情绪负荷
+the emotional load of being chased or the emotional load of having to take an exam.
+有事迟到了等等
+The next day were being late for something.
+但是
+But again,
+如果你想着这个
+if you're fixated,
+或者你可以回忆起对别人动机的很多想法或感受
+Or you can recall thinking a lot about or feeling a lot about what somebody else's motivations were.
+那你很可能是在REM中
+then chances are it was in REM.
+如果没有
+and if not,
+很可能是在慢波睡眠中
+chances are it was in slow wave sleep.
+今天
+Today,
+我们深入讨论了睡眠和做梦
+we've been in a deep dive of sleep and dreaming,
+学习和遗忘
+learning and unlearning,
+我想重述一些重点和要点
+and I just want to recap a few of the highlights and important points.
+夜晚的早期  你的睡眠中更多的是慢波睡眠  REM更少
+A lot more slow wave sleep in less ram early in the night,
+夜晚的晚期 更多的是REM  慢波睡眠更少
+more ram and less slow wave sleep later in the night.
+快速眼动睡眠与没有化学物质肾上腺素的强烈体验有关
+REM sleep is associated with intense experiences without this chemical.
+让我们产生焦虑或恐惧的肾上腺素
+epinephrine that allows us the anxiety or fear,
+几乎可以肯定的是 它在 将情感与我们每晚经历的自我诱导疗法 分离方面
+and almost certainly has an important role in uncoupling of emotion from experiences 
+起着重要作用
+of self induced therapy that 
+自我诱导疗法与EMDR和氯胺酮疗法等
+we go into each night that bears a striking resemblance to things like EMDR 
+有着惊人的相似之处
+and ketamine therapies and so forth.
+慢波睡眠至关重要
+Slow wave sleep is critical,
+然而
+however.
+它对运动学习和特定细节的学习至关重要
+It's critical mostly for motor learning and the learning of specific details.
+REM是一种关于情绪 一般的经历和意义
+So REM is kind of emotions and general themes and meaning
+ 而慢波睡眠
+and slow wave sleep,
+重在运动学习和细节学习
+motor learning and details.
+我个人觉得持续的睡眠
+I personally find it fascinating that consistency of sleep,
+也就是说每晚睡6个小时比每晚睡10个小时要好
+meaning getting six hours every night is better than getting ten one night,
+接下来是八小时
+eight,
+接下来5小时
+the next five,
+以此类推
+the next for the next.
+我觉得这很有趣
+I find that fascinating,
+我喜欢它的另一个原因是我可以更好地控制它 而不是试图多睡觉
+and I think I also like it because it's something I can control better than just trying to sleep more,
+我想我并不是唯一一个同意这一点的人  只是很多人都很难做到
+which I think I'm not alone in agreeing that that's just hard for a lot of people to do.
+这一集也把我们带到了连续五集的结尾
+This episode also brings us to the conclusion of a five episodes streak 
+在这五集里我们一直在关注睡眠以及在睡眠和清醒的转换
+where we've been focusing on sleep and transitions in and out of sleep.
+NSDR
+non sleep deep rest.
+我们已经讨论了很多工具
+We've talked about a lot of tools.
+早晨的阳光
+morning light,
+晚上的光线
+evening light,
+避免灯光
+avoiding lights,
+防蓝光设备  补剂
+blue blockers supplements tools for measuring sleep,
+测量睡眠时间和质量的工具
+duration and quality.
+我们已经讨论了很多主题
+We've been covering a lot of themes.
+我希望 到目前为止 你已经拥有了许多工具和信息
+I like to think that by now you're armed with a number of tools and information.
+知道什么时候是你的最低体温就  知道你什么时候想看光线
+Things like knowing when your temperature minimum is knowing when you might want to view life or not
+ 什么时候能吃东西 什么时候想洗热水澡 什么时候想洗冷水澡
+when you might want to eat or take hot showers or God forbid a cold shower,
+包括我在内的大多数人或多或少都讨厌的东西
+something that most people including me more or less loathed,
+但也有一定的好处
+but can have certain benefits,
+这将帮助你塑造你的睡眠生活  并在规律的基础上
+and that will allow you to shape your sleep life and get this 
+获得或多或少一致的睡眠时间
+consistent or more or less consistent amount of sleep on a regular basis.
+没有人有完美的睡眠
+Nobody's perfect that day.
+我有讲小笑话 虽然我说的时候它一点都不好笑
+I have this little joke that I sometimes tell it's not funny,
+就像我讲的大多数笑话一样
+like most of the jokes I tell I'm told,
+不好笑
+are not funny,
+但你知道现在人们对间歇性禁食很感兴趣
+but you know there's so much excitement now about intermittent fasting.
+有时候我觉得  应该有人对间歇性睡眠剥夺感到警惕
+Sometimes I think that someone should startling on Iintermittent sleep deprivation,
+尽管我们已经时不时地经历睡眠不足
+although we're already doing that where we are all experiencing lack of sleep from time to time,
+但我不认为我们应该把小问题
+and I don't think we should catastrophe.
+放大太多
+Is that too much?
+我认为我们要做的  不是积累睡眠焦虑
+I think that what we want to do rather than accumulate a sleep anxiety is to,
+你知道的
+you know,
+如果我们一夜没睡好
+if we get a bad night's sleep,
+我们应该是想着去调整
+we want to adjust,
+去回到正轨 保持稳定的睡眠时间
+We want to get back on track and just get the consistent amount of sleep.
+当我们感到焦虑或半夜难以醒来时
+Use those non sleep deep rest protocols to help us relax 
+使用那些NSDR方法来帮助我们放松
+when we're feeling anxious were having trouble waking up in the middle of the night.
+有很多工具
+There are a lot of tools out there,
+大部分都是零成本的
+and most of them are zero cost,
+所以如果你在这一集一直听到科斯特洛的鼾声 我希望你没有什么问题
+and so I hope you'll find those beneficial if you've been hearing Costello snoring throughout this episode.
+我替他道歉
+I apologise in his behalf.
+正如我在欢迎视频中所说
+As I said in the welcome video out of this podcast,
+他是播客不可或缺的一部分
+he's an integral part of the podcast.
+有些人可能会说
+A few people have said,
+嘿
+Hey,
+这背景噪音真的太吵了
+that noise in the background is really disruptive.
+嘿
+Hey,
+我还能说什么呢
+what can I say?
+科斯特洛是一只10岁的斗牛犬
+Castella is a ten year old bulldog mastiff.
+而这些动物的寿命大约是10年
+The lifespan on those animals is about ten years,
+我不是想让你觉得内疚
+so I'm not trying to make you feel guilty,
+但你知道在他走后
+but you know after he's gone,
+就不会有鼾声了
+there won't be any snoring,
+不过我可能会换一只狗
+although I'll probably get a different dog.
+所以
+so sort of.
+就如同现在小孩说的那样
+what are the kids say?
+对不起
+Sorry,
+但也不是
+not sorry,
+不好意思
+Sorry,
+但不为鼾声感到抱歉
+not sorry about the snoring,
+如果这真的很吵 我很抱歉
+and I'm sorry if it's disruptive genuinely butt.
+嗯
+Ah,
+他要在这里待上很久
+he is here for for the haul.
+这就是它的意义所在
+So that's what that's about.
+当我们结束这一段关于睡眠的内容时
+As we close out this segment on sleep,
+我们会进入一个新的主题和话题
+we are moving into a new theme and topic.
+在接下来的四五集里
+For the next four or five episodes.
+我们将讨论与神经可塑性相关的科学和工具
+we are going to discuss the science and the tools related to neural plasticity.
+神经可塑性是神经系统的一个显著特征
+Neural plasticity is a remarkable feature of the nervous system.
+事实上
+In fact,
+这是神经系统的决定性特征
+it's the defining feature of the nervous system,
+这是它根据经验而改变自身的能力
+which is its ability to change itself in response to experience 
+这种能力不同于我们身体的其他组织和细胞和器官
+that is unlike every other tissue and collection of cells and organ in our body.
+这是我们作为一个人类物种的真正原因
+It's really what makes us us as a species in it.
+它使我们成为个体
+it's what makes us us as individuals,
+这就是我们的潜力所在
+and it's really where our potential lies,
+我们知道的一切  我们能做的一切
+everything that we know everything we can do,
+而我们真正的潜能 也就是我们在生活中所能了解和表达的东西
+and our true potential in terms of what we will ever be able to know do say in life 
+是受到神经可塑性的限制的
+is set by the limits of neural plasticity.
+所以我们将探索学习 童年和成年的学习
+so we're going to explore learning and childhood learning and adulthood.
+我们将讨论与感觉可塑性相关的详细方法
+We're going to discuss detailed protocols as they relate to sensory plasticity,
+学习新的感觉信息与运动可塑性  或把感觉和运动相结合
+learning new sensory information versus motor plasticity or sensory motor integration.
+我们会讲到语言学习
+We're going to talk about language acquisition.
+我们会从广义上讨论情感获得
+We're going to be talking about emotional acquisition in breadth 
+我想很多人会觉得这个话题
+as well as I think the topic a lot of people are going to find.
+很吸引人
+fascinating.
+比如童年时期的社会关系的可塑性
+Is the relationship between plasticity set during childhood,
+对父母或抚养者的依恋  以及这种依恋如何映射到成年人际关系中
+attachment to parent or other caregiver and how that maps onto adult relationships.
+你们很多人可能听说过安全的依恋类型  或者危险的依恋类型
+There are many of you have probably heard about secure attached or insecure.
+把AB和CD婴儿放在一起对比 这是Bowlby和其他人的经典研究
+Attach the A B and C d babies as they're called from the classic studies of Bowlby and others.
+但现在有神经科学可以告诉我们
+But now there's actual neuroscience that can say 
+哪些回路在孩童的生活依恋中是活跃的
+which circuits were active during those early life attachment,
+以及这些与成人依恋类型的关系
+and how those map to adult attachment styles,
+其中的挑战  以及是什么让我们更有可能选择特定的伴侣和依恋类型
+challenges and what makes us more likely to select certain partners and styles of attachment,
+以及如何改变这些
+as well as how to change those.
+真的很有意思
+It's really fascinating.
+我认为神经科学随着时间的推移对神经可塑性有一定的影响
+And I think neuroscience as time has calm for neural plasticity,
+我们还会讲到
+we're also going to talk,
+当然
+of course,
+关于补剂 化学物质 机器和设备
+about supplements and chemicals and machines and devices 
+这些都可以帮助加速可塑性过程 不管你信不信
+that can assist in speeding up the plasticity process or believe or not.
+在一些情况下 你可能想要延迟可塑性
+There are some cases where you might want to delay plasticity 
+以便获得更深入的学习 让学习持续更长时间
+in order to get more depth of learning and have that learning last longer,
+这是非常强大的
+something that is just absolutely spectacular.
+真的
+Literature,
+所以我很高兴很快就能进入这个话题
+so I'm very excited to move on to that topic soon.
+我希望你到目前为止所获得的工具和知识
+I hope that the tools that you've acquired so far in the knowledge you've acquired so far 
+能帮助你自我评价  在你认为合适的地方自我实验
+is helping you with your self evaluation and experimentation as you see fit and is allowing you to 
+让你不仅睡得更好 在清醒时感觉更好
+not just sleep better but feel better while you're awake 
+一旦我们开始讨论神经可塑性之后
+and hopefully has set the stage for you to learn better.
+更希望能为你更好地学习提供支持
+As we start to march into the month on neural plasticity,
+很多人都问过如何支持HubermanLab播客
+many of you have asked how you can help support the HubermanLab podcast,
+我们非常感谢你的问题 如果你还没有订阅Youtube频道
+and we greatly appreciate the question you can help support the podcast 
+你可以帮助我们支持播客
+by subscribing to the Youtube channel if you haven't already 
+并在评论部分留下评论和问题
+and leaving comments and questions in the comments section,
+如果你能订阅Apple和Spotify
+if you could subscribe on Apple and or Spotify,
+这也很有帮助 在苹果播客上有一个地方可以留下评分
+that's helpful and there's a place on Apple podcasts to leave a rating,
+还有关于你对播客的看法的评论
+as well as comments about how you feel about the podcast 
+如果你能把播客推荐给朋友  同事
+if you could suggest the podcast of friends and coworkers
+ 或者任何你认为能从信息中受益的人
+and anyone else that you think would benefit from the information that 
+也能帮助我们传播信息
+also really helps us get the word out and of course,
+也可以看一下我们的赞助商
+check out our sponsors,
+因为这是一种非常直接的方式 可以帮助我们继续将这些信息传达给公众
+Because that's a very direct way to help us continue to get this information out to the general public.
+很多人都问过补剂的问题  问我个人从哪里得到的补剂
+Many of you have asked about supplements and where I personally get my supplements,
+我和Thorn合作  我从Thorn那里得到补品  因为
+I've partnered with thorn and I get my supplements from thorn because,
+在我看来
+by my view,
+他们有最高水平的严格生产和精确的把控
+they have the highest level of stringency and precision in terms of what's in the bottle.
+他们也有很多
+and they also have very,
+非常高的质量标准
+very high quality standards.
+他们与梅奥诊所合作  和所有主要的体育组织合作
+They're partnered with the Mayo Clinic and all the major sports organizations.
+如果你想试试Thorn的补品
+If you want to try thorn supplements,
+你可以登陆thorn.com/huberman
+you can go to thorn dot com
+如果你这么做了
+and if you do that,
+你可以看到我使用的补给方案
+you can see the formulations that I take,
+还可以打八折
+and you'll also get twenty per cent off,
+不仅仅是那些补给方案
+not just those formulations,
+而是他们公司能给的所有东西
+but anything that thorn makes.
+thorn.com/huberman 得到20%的折扣 他们提供的任何东西
+thorn.com/huberman to get twenty per cent off anything that they provide.
+最后
+Last but not least,
+一些人给我发消息 对我在之前的播客中说过的话提出了一些问题
+a few people wrote to me with some questions slash corrections about things 
+或者进行了一些更正
+that I said in previous podcasts,
+所以为了保持我的目标 让信息准确和清晰
+So in keeping with my goal of making the information accurate and clear,
+我想纠正一下我之前说的话
+I just want to correct myself about a few things that I said.
+其中一个我猜可能是内分泌学家
+One of those and I'm guessing it probably came from an endocrinologist 
+或者其他对睾丸有研究的人说的
+or somebody else that knows a lot about testicles said.
+你提到睾丸素是由睾丸的睾丸细胞产生的
+Huberman you mentioned that testosterone is made by the search holy cells of the testes,
+它不是  它是由睾丸的莱氏细胞产生的
+and it's not it's made by the leydig cells of the testes.
+是的  你是对的
+And indeed you are correct.
+所以我想跟大家确认一下 睾丸素是由睾丸的莱氏细胞产生的
+And so I want to make sure that I clarify that testosterone is made by the lighting cells of the testes,
+这不是完全的细胞对性细胞
+not by this are totally cells to sexually cells.
+产生5α-还原酶
+Make five alpha reductase and aromatase 
+芳香化酶和其他一些酶参与睾酮转化为dhd
+and some other enzymes involved in conversion of testosterone into things like dhd,
+一种雌激素
+an estrogen.
+谢谢你的纠正
+So thank you for that correction.
+我真的很感激
+I genuinely appreciate it.
+我还说错了一件事 就是
+I misspoke the other thing I said was at one point,
+我说
+I said.
+典型温度为96.8华氏度
+Typical temperature is ninety,
+其实我想说的是98.6华氏度
+six point eight when I actually meant to say ninety eight point six,
+所以这是我说错了
+so it was a dyslexic slip on my part,
+我道歉
+and I apologize.
+我不知道我是否有诵读困难症
+I don't know that I'm dyslexic.
+我说的是临床诊断那种真的症状
+I know I mean clinically diagnosed with this,
+我有点害怕
+I scared,
+我替换了两个数字
+but I swapped them,
+当我读得很快的时候就会这样
+which sometimes happens when I'm going fast.
+所以我道歉
+so I apologize.
+我要用这个时间来说明昼夜体温变化很大
+I'll use this as a moment to just say temperature varies a lot across the day and night.
+这是上一期播客的主题
+That was a theme of previous podcast.
+所以我们不能讨论平均温度
+so we can't really talk about average temperature anyway.
+但我想澄清的是 大多数人认为的平均温度是98.6华氏度
+But I do want to be clear that most people think about average temperature as ninety eight point six,
+我说错了 我道歉
+I misspoke my error and I apologize.
+感谢大家和我一起踏上神经系统生物学之旅
+Thank you for joining me in this journey of the nervous system in biology 
+试图了解构造我们的机制
+and trying to understand the mechanisms that make us who we are 
+以及了解我们在睡眠和清醒时是分别如何运作的
+and how we function in sleep and wakefulness.
+这真是一段不可思议的旅程
+It's really an incredible landscape to consider,
+我希望你能从中得到很多信息
+and I hope that you are getting a lot out of the information.
+一如既往
+As always.
+谢谢你对科学的兴趣
+Thank you for your interest in science.
+如果喜欢 也别忘了一键三连up主哦:)

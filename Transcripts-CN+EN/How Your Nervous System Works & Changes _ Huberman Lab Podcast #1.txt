@@ -1,0 +1,3167 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到Huberman Lab
+Welcome to the Huberman Lab Podcast
+我们在这里讨论科学
+where we discuss science
+以及基于科学的日常工具
+and science-based tools for everyday life
+字幕翻译：Faye就是帆妹
+我是Andrew Hueberman
+I'm Andrew Hueberman and I'm a professor
+是一名斯坦福医学院的神经生物学和眼科学教授
+of Neurobiology and Ophthalmology at Stanford school of Medicine
+今天的播客 我们将讨论
+for today's podcast we're going to talk
+神经系统中的各个部分
+about the parts list
+这听起来看有点无聊
+of the nervous system now that might sound boring
+但这些微小的组织
+but these are the bits and pieces that
+一起组合成了
+together make up
+你人生中经历的一切
+everything about your experience of life
+从“你怎么想”到“你怎么感受”
+from what you think about to what you feel
+“你如何想象”  以及“你所成就的一切”
+what you imagine and what you accomplish
+从你出生的那一刻起
+from the day you're born
+直至你离开人世
+until the day you die that parts list
+这些零件组织真的很不可思议
+is really incredible because it has a
+因为它们有了一段很长的历史
+history associated with it
+为我们了解所有的事情
+that really provides a window into all
+提供了一个窗口
+sorts of things like
+比如  战争 宗教 哲学
+engineering warfare religion and philosophy
+所以我会与你们分享这些
+so I'm going to share with you the parts list
+塑造你们的神经组织
+that makes up who you
+带你们从生命的
+are through the lens of some of those
+各个角度
+other aspects of life
+从神经系统发展历史的
+and other aspects of the history
+各个方面  去了解你自己
+of the discovery of the nervous system
+在这个播客结束的时候
+by the end of this podcast
+我相信你会对
+i promise you're gonna
+自己的身体如何运作
+understand a lot more about how you work
+以及如何运用这些知识  有一定的了解
+and how to apply that knowledge
+我也会讲到一些故事
+there's gonna be a little bit of story
+会有很多的讨论
+there's gonna be a lot of discussion
+关于发现这些
+about the people who
+神奇现象的人
+made these particular discoveries
+会有一些专业术语
+there'll be a little bit of technical
+这没有办法避免
+language there's no way to avoid that
+但是最终  你学到的东西
+but at the end you're gonna have in hand
+相当于神经学和身体运作课程
+what would be the equivalent of an entire semester of learning about
+一整个学期的内容
+the nervous system and how you work
+所以在我们开始前  强调几个要点
+so a few important points before we get started
+首先  我不是医生
+I am not a medical doctor
+意味着  我不开任何处方
+that means I don't prescribe anything
+我是一名教授  所以有时候我会声明事实
+i'm a professor so sometimes i'll profess things
+我会声明很多事情
+in fact I profess a lot of things
+其次  我们会讲很多关于
+we are going to talk about some basic
+神经系统的基本功能  它的各部分等等
+functioning of the nervous system parts and etc
+之后我们也会讲到
+but we're also going to talk about
+如何去应用这些知识
+how to apply that knowledge
+话虽如此  你的身体
+that said your health care your
+你的健康  都是你自己的责任
+well-being is your responsibility
+所以在任何我们讨论工具的时候
+so anytime we talk about tools
+请记住你的责任
+please filter it through that
+并在使用前  与专业的医疗人员确认
+responsibility talk to a healthcare professional
+如果你想要尝试其他新的工具
+if you're going to explore any new tools
+或者新的练习
+or practices and
+请在使用前保持理智
+be smart in your pursuit of these new tools
+最后 我还想强调
+I also want to emphasize that this
+本播客  以及我在社交媒体上发布的其他内容
+podcast and the other things i do on social media
+都是我的个人目的
+are my personal goal of bringing zero
+为的是将零成本的消费信息
+cost to consumer information
+带给大众  这与本人
+to the general public it is separate
+在斯坦福大学所担任的职位无关
+from my role at Stanford University
+本着这种精神  非常感谢
+In that spirit I really want to thank the
+本次的赞助商
+sponsors of today's podcast
+（赞助商信息）
+the first one is athletic greens which
+（赞助商信息）
+is an all-in-one
+（赞助商信息）
+drink it's a green string that has
+vitamins minerals probiotics prebiotics
+i've been using athletic green since 2012
+so i'm really delighted that they're
+sponsoring the podcast the reason i like
+it is because
+i like vitamins and minerals i think
+they're important to my health
+and it can be kind of overwhelming to
+know what to take
+in that landscape so by taking one thing
+that
+also happens to taste really good i get
+all the vitamins minerals etc that i
+need
+there's also a lot of data out there now
+about the importance of the gut
+microbiome for immune health and for
+the gut brain access all these things
+and
+the probiotics and prebiotics are
+important to me for that reason
+if you want to try athletic greens you
+can go to athleticgreens.com
+huberman and put in the code word
+huberman
+at checkout if you do that they'll send
+you a year supply of vitamin d3 and k2
+there's a lot in the news lately about
+the importance of vitamin d3 we can all
+get vitamin d3 from sunlight but many of
+us aren't getting enough sunlight
+vitamin d3 has been shown to be relevant
+to the immune system
+and the hormone systems etc so once
+again that's
+athleticgreens.com huberman enter huber
+minute checkout and you get the year
+supply
+of d3 and k2 along with your athletic
+greens
+this podcast is also brought to us by
+inside tracker
+which is a health monitoring company it
+uses blood tests and saliva tests
+to look at things like dna and metabolic
+markers
+and monitors your hormones a huge number
+of different parameters of health
+that really can only be measured
+accurately through blood and saliva
+tests
+i use inside tracker because i'm a big
+believer in data there's a lot of
+aspects to our biology
+that can only be accurately measured by
+way of blood test and saliva test
+the thing that's really nice about
+inside tracker is that rather than just
+giving you a bunch of numbers back
+of the levels of these things in your in
+your body it gives you through a really
+simple platform
+information about what to do with all
+those
+levels of hormones and metabolic markers
+etc
+it also has a feature which is
+particularly interesting which it
+measures your inner age which is
+more a measure of your biological age as
+opposed to your chronological age
+and all that information is organized so
+that you can make changes in your
+nutritional regimes or your exercise
+regimes and watch how those markers
+change over time
+so if you want to try inside tracker you
+can go to insidetracker.com
+huberman and they'll give you 25 off at
+checkout
+那我们来谈一谈神经系统
+so let's talk about the nervous system
+我用了“神经系统”这个词  而不用“大脑”
+the reason i say your nervous system and not your brain
+是因为你的大脑
+is because your brain is actually just
+实际上只是这更大系统中的一个小部分
+one piece of this larger more important thing frankly
+这个更大的系统就被我们称为“神经系统”
+that we call the nervous system the
+神经系统包括了你的大脑
+nervous system includes your brain
+以及你的脊髓  还包括了
+and your spinal cord but also all the
+大脑和脊髓间的所有连接
+connections between your brain and your
+还有你身体里的器官
+spinal cord and the organs of your body
+很重要的是  它还包括了
+it also includes very importantly all
+器官到大脑和脊髓之间的
+the connections between
+所有连接
+your organs back to your spinal cord and brain
+所以  想要明白你从出生
+so the way to think about how you
+到死亡之间的每一刻  身体是如何运作的
+function at every level from the moment you're born
+所有这些  你是如何
+until the day you die everything you
+思考  记忆  感受  想象
+think and remember and feel and imagine
+就先要理解  是神经系统在持续地传递循环
+is that your nervous system is this continuous loop of communication
+大脑-->脊髓-->身体
+between the brain spinal cord and body
+身体-->脊髓-->大脑
+and body spinal cord and brain
+事实上我们完全不能分开它们
+in fact we really can't even separate
+它们是连续的循环
+them it's one continuous loop
+你可能听过一个东西叫“莫比乌斯带”
+you may have heard of something called a mobius strip
+莫比乌斯带就如同
+a mobius strip is almost
+神经系统一般
+like one of these impossible figures
+不管从哪个角度
+that no matter which
+你都不能分辨出
+angle you look at it from you can't tell
+哪里开头  哪里结束
+where it starts and where it ends
+你的神经系统就如此般构造
+and that's really how your nervous system is built
+这种结构得以让你
+that's the structure that allows you to
+部署免疫细胞  来释放细胞
+for instance deploy immune cells to release cells
+在你受感染的情况下
+that will go kill infection when
+遏制感染
+you're in the presence of infection
+很多人都把这当成
+most people just think about that
+免疫系统的功能
+as a function of the immune system
+但事实上
+but actually
+是你的神经系统
+it's your nervous system that tells
+告诉你的器官  比如脾脏
+organs like your spleen
+去释放杀伤细胞  让它去抓住那些
+to release killer cells that go and hunt down
+细菌和病毒入侵者
+those bacterial and viral invaders and
+然后消灭它们
+gobble them up
+如果你感到胃痛
+if you have a stomachache for instance
+当然了 你的胃部确实有感觉
+sure you feel that in your stomach
+但实际上是神经系统
+but it's really your nervous system
+导致了你的胃痛
+that's causing the stomach ache
+痛感  是神经系统的一方面
+the ache aspect of it is a nervous system feature
+当我们想要谈论经历
+so when we want to talk about experience
+或者想要去改变我们自己
+or we want to talk about how to change the self in any way
+我们真的需要的  是先去思考神经系统如何工作
+we really need to think about the nervous system first
+可以这么说  神经系统掌管了身体的其他生理系统
+it is fair to say that the nervous system governs all other biological systems of the body
+同时也被其他的生理系统所影响
+and it's also influenced by those other biological systems
+所以当我们谈论神经系统的时候
+so if we're talking about the nervous system
+我们需要弄清楚我们在说什么
+we need to get a little specific about what we mean
+这不仅仅是一个大的循环连接
+it's not just this big loop of wires
+其实有一个有趣的故事
+in fact there's a interesting story about that
+在19世纪到20世纪间
+because at the turn of the sort of 1800s to 1900s
+大家都以为神经系统仅仅只是个巨大的单个细胞
+it actually was believed that our nervous system was just one giant cell
+但是有两个人
+but two guys
+名字其实没有那么重要
+the names aren't super important but in
+但是平心而论他们值得被记住
+fairness to their important discovery
+Ramone Cahal 一个西班牙人
+Ramone Cahal a spaniard
+和Camilo Golgi 一个意大利人
+Camilo Golgi an italian guy figured out
+他们解决了如何对神经系统进行标记或染色  然后发现了
+how to label or stain the nervous system in a way that revealed
+天啊  我们人体是由千百亿个小细胞组成
+oh my goodness we're actually made up of trillions of these little cells
+这些小细胞都是神经元
+nerve cells that are called neurons and
+这就是神经元  一个神经细胞
+that's what a neuron is it's just a nerve cell
+他们还看到了这些神经细胞并没有贴在一起
+they also saw that those nerve cells weren't touching one another
+而是中间有一些小缝隙
+they're actually separated by little gaps and
+那些小缝隙你们可能也听说过
+those little gaps you may have heard of before
+它们叫 突触
+they're called synapses those synapses
+在这些突触里 化学物质被一个神经元
+are where the chemicals from one neuron
+释放或吐出来
+are kind of spit out or vomited into and
+然后下一个神经元
+then the next nerve cell
+检测到了这种化学物质
+detects those chemicals and then passes
+沿着神经细胞产生电流
+electricity down its length to the next
+继续向前传递
+nerve cell and so forth
+所以可以把你的身体
+so really the way to think about your
+你的想法  你的思维
+body and your thoughts and your mind
+想作一段电流
+is that you are a flow of electricity
+没错  没什么好奇怪的
+right there's nothing mystical about
+你就是在不同的神经细胞之间
+this you're a flow of electricity
+产生的一段电流
+between these different nerve cells
+某一个神经细胞被激活的时候
+and depending on which nerve cells are
+你可能会举起你的手臂
+active you might be lifting your arm or
+或者放下手臂
+lowering your arm
+你可能会看到或者感受到某样红色的东西
+you might be seeing something and perceiving that it's red
+也有可能看到或感受到某样绿色的东西
+or you might be seeing something and perceiving that it's green all depending
+这都取决于一个神经细胞
+on which nerve cells are electrically
+在某个特定的时刻进行了有电活动
+active at a given moment
+感受红色和绿色
+the example of perceiving red or
+这是一个非常好的例子
+perceiving green is a particularly good example
+就好像  我们在这个世界的经历
+because so often our experience of the world makes it seem as if
+那些在我们身体之外发生的事情
+these out these things that are happening outside us are actually
+实际上发生在我们人体里面
+happening inside us
+神经系统的语言
+but the language of the nervous system
+就是电流
+is just electricity
+就好像是摩斯电码
+it's just like a morse code of some sort
+有一些音节  和单词
+or the syllables or in words and
+辅音和元音
+consonants and vowels of language it
+这取决于它们是如何组合起来的
+just depends on how they're assembled
+以何种顺序组合  于是这就把我们带到了
+what order and so that brings us to the
+神经系统是如何工作的这个问题上
+the issue of how the nervous system
+神经系统的工作方式
+works the way to think about how the nervous system works
+就好比我们的经历和记忆
+is that our experiences our memories
+一切都好像是钢琴上的琴键
+everything is sort of like the keys on a piano
+以特定的顺序被按下
+being played in a particular order
+如果我在一架钢琴上
+right if i play the keys on a piano in a
+以特定的顺序  特定的力度弹奏
+particular order and with a particular intensity
+那就会呈现出一首我们想要的曲子
+that's a given song we could make that
+这与我们经历的形成  异曲同工
+analogous to a given experience
+并不是说那些调子
+it's not really that the key you know
+比如升A调  降E调
+A sharp or E-flat is
+是歌曲本身  它们只是曲子的组成
+the song it's just one component of the
+所以当你听到什么的时候
+song so when you hear
+你知道 比如说
+that you know for instance uh there's a
+有一个大脑区域叫做海马体
+brain area called the hippocampus which
+它参与了记忆
+there is that's involved in memory well it it's
+它的确参与了记忆
+involved in memory but it's not that
+但并不是说记忆(比如 听到的话)被储存在那里
+memories are stored there as you know sentences
+它们是以电流和神经元的模式被储存
+they're stored there as patterns of electricity and neurons
+当这个行为重复的时候
+that when repeated
+会给你一种
+give you the sense that you're
+再次经历一遍的感觉
+experiencing the thing again
+事实上  “似曾相识”这种感觉
+in fact deja vu the sense that what
+这种当你经历某件事时  感觉到是如此的熟悉
+you're experiencing is so familiar and like something that
+就好像曾经经历过一般
+you've experienced previously
+其实仅仅只是  在一种情况下活跃的神经元
+is merely that the neurons that were active in one circumstance are now
+现在又在同样的情况下变得活跃了
+becoming active in the same circumstance again and so
+就像听同一首歌
+it's really just like hearing the same song
+也许不是在弹钢琴 而是
+maybe uh not played on a piano but
+下次用古典吉他
+next time on a classical guitar
+那首歌有些相似
+there's something similar about that song
+即使在两种不同的乐器上演奏
+even though it's being played on two different instruments
+所以我认为很重要的是人们要
+so i think it's important that people
+了解他们神经系统的各个部分
+understand the parts of their nervous system
+而且它不仅包括大脑
+and that it includes so much more than just the brain
+而且有神经元和突触这些东西 但实际上
+and that there are these things neurons and synapses but really
+这些神经元的电活动决定了
+that it's the electrical activity of these neurons that dictates
+我们的经验 如果1900年代初
+our experience so if the early 1900s
+当这些神经元被发现时
+were when these neurons were discovered
+从那以后肯定发生了很多事
+certainly a lot has happened since then
+从1900年代初期到现在
+and in that time between the early 1900s and now
+历史上确实发生了一些重要的事件
+there's some important events that actually happened in history
+给我们洞察力 或使我们洞悉神经系统如何工作
+that give us insight or gave us insight into how the nervous system works
+真正令人惊讶的之一是战争
+one of the more surprising ones was actually warfare
+所以大多数人都知道  在战争中
+so as most everybody knows in warfare
+人们会被子弹打中  经常有人死亡 但是
+people get shot and people often die but
+很多人被打中  但是不会死
+many people get shot and they don't die
+在第一次世界大战中 子弹的火炮发生了一些变化 
+and in World War One there were some changes in artillery in bullets that
+改变了子弹  让它会
+made for a situation where bullets would
+在非常分散的位置进入身体和大脑
+enter the body and brain at very discrete locations
+会从另一边出来
+and would go out the other side of the
+身体或大脑 并在该出口位置开一个很小的孔
+body or brain and also make a very small hole at that exit location
+这样做
+and in doing so
+产生了许多自然发生的神经系统病变
+produced a lot of naturally occurring lesions of the nervous system
+现在你说很好 那与神经科学有什么关系
+now you say okay well how does that relate to neuroscience well
+不像之前那样  被子弹打中后
+unlike previous years where a lot of the artillery would create
+大脑或身体会出现一个大洞
+these big sort of holes as the bullets would would blow out of the brain or body
+我知道这很可怕
+i know this is rather gruesome
+当子弹击落点非常分散时
+when the holes were very discreet they
+在某一点进入而在另一点离开
+entered at one point and left at another point
+它们会带出或摧毁
+they would take out or destroy very
+不同的神经系统的神经组织
+discreet bits of neural tissue of the nervous system
+所以人们从战争中回来时脑袋上有枪口伤疤
+so people were coming back from war with holes in their brain
+或者在神经系统其他部位的特定位置
+and in other parts of their nervous system that were limited to very specific locations
+除此之外 还有一些
+in addition to that there was some
+清洁伤口的技术也有所发展
+advancement in the cleaning of wounds that happened so
+所以更多的人幸存了下来 这意味着
+many more people were surviving what this meant was that
+神经科医生会有一些士兵病人
+neurologists now had a collection of patients
+回来之后 他们大脑的特定位置
+that would come back and they'd have holes in very
+会有伤疤 他们会说类似
+specific locations of their brain and they'd say things like
+恩 我可以认出人脸
+well i can recognize faces
+但我不知道那些面孔是谁的
+but i can't recognize who those faces belong to
+我知道这是一张脸 但我不知道它属于谁
+I know it's a face but I don't know who it belongs to
+在那个人最终死后
+and after that person eventually died
+神经科医生会弄清楚
+the neurologist would figure out ah
+我已经有十位病人告诉我
+i've had 10 patients that all told me
+他们都无法认出人脸 
+that they couldn't recognize faces and
+他们都有这些弹孔
+they all had these bullet holes that
+穿过大脑的某个特定区域
+went through a particular region of the brain
+这就是我们如何很多的了解
+and that's how we know a lot about how
+特定大脑区域的功能 例如海马体
+particular brain regions like the hippocampus work
+实际上 一些更惊人的例子
+in fact some of the more amazing examples of this
+打完仗的士兵回来之后 他们
+where people would come back and they
+可能会完全胡言乱语
+for instance would speak in complete gibberish
+他们原本可以正常说话
+they'd whereas previously they could speak normally
+即使他们在完全的胡言乱语
+and even though they were speaking in
+他们能理解别人说的话
+complete gibberish they could understand
+就是我们所知道的
+language perfectly that's how we know
+说话和语言理解实际上是由
+that speech and language are actually controlled by separate
+不同的神经系统区域所控制
+portions of the nervous system and there
+有很多这样的例子
+are many examples like that
+无法认出名人面孔的人
+people that couldn't recognize the faces of famous people
+这给我们带来了很多
+or and that actually brings us to an
+现代的有趣的例子
+interesting example in modern times
+许多年后的21世纪初
+many many years later in the early 2000s
+实际上有一篇论文
+there was actually a paper
+在自然杂志上发表
+that was published in the journal nature
+很好的一本杂志 那篇论文指出 
+excellent journal showing that in
+一个完全健康的人
+a human being a perfectly healthy human being
+只有当该人查看了女演员詹妮弗·安妮斯顿的照片时
+there was a neuron that would become active electrically active
+有一个特定的神经元会产生电信号
+only when the person viewed the picture of Jennifer Aniston the actress
+所以真的 有一个代表詹妮弗·安妮斯顿（Jennifer Aniston）的神经元
+so literally a neuron that represented Jennifer Aniston so-called Jennifer Aniston cells
+神经科学家才知道这些珍妮弗·安妮斯顿细胞
+neuroscientists know about these jennifer aniston cells
+如果你能认出詹妮弗·安妮斯顿的脸
+if you can recognize Jennifer Aniston's face you have
+你就有珍妮弗·安妮斯顿神经元
+Jennifer Aniston neurons and presumably
+同时你也有可以识别
+you also have neurons that can recognize
+其他名人和非名人的面孔的神经元
+the faces of other famous and non-famous people so that
+表明我们的大脑确实是我们经验的映射
+indicates that our brain is really a map of our experience
+我们来到世界  我们的大脑
+our we come into the world and our brain
+对学习特定事物有一种偏见
+has a kind of bias towards learning particular kinds of things
+它准备接收信息并
+it's ready to receive information and
+了解该信息
+learn that information
+但是大脑真的是经验的映射
+but the brain is really a map of experience
+所以我们来谈谈什么是经验
+so let's talk about what experience
+你的大脑运作良好意味着什么
+really is what does it mean for your brain to work well
+我认为可以说神经系统
+I think it's fair to say that the nervous system
+会做五件事 也许六件事 第一件事就是感觉
+really does five things maybe six the first one is sensation
+因此 了解这一点很重要
+so this is important to understand for
+你们所有人都想改变
+any and all of you that want to change
+ 你的神经系统或将工具应用于
+your nervous system or to apply tools to
+使 你的神经系统更好地工作
+make your nervous system work better
+感觉是神经系统不可协商的要素
+sensation is a non-negotiable element of your nervous system
+你的眼睛里有神经元
+you have neurons in your eye that
+感知某些颜色的光
+perceive certain colors of light
+和某些运动方向
+and certain directions of movement
+你的皮肤里有神经元
+you have neurons in your skin
+感觉到特殊的触摸
+that perceive particular kinds of touch
+轻触 或重一些的触摸 或让人痛苦的触摸
+like light touch or firm touch or painful touch
+你的耳朵中有神经元 可以感知某些声音
+you have neurons in your ears that perceive certain sounds
+ 你的整个人生经历是
+your entire experience of life is
+被我们所谓的“受体”过滤
+filtered by these what we call sensory receptors
+就叫这个名字
+if you want to know what the name is
+所以这总是提出一个有趣的问题 人们经常问
+so this always raises an interesting question people ask well
+世界上有没有更多
+is there much more out there is there a lot more happening in the world
+我自己  甚至全人类都没有经历过的事情发生？
+that i'm not experiencing or that humans aren't experiencing
+当然答案是肯定的
+and the answer of course is yes there
+这个星球上有很多物种  它们感知世界的方式
+are many species on this planet that are perceiving things
+是除了科技 人类永远无法感知的到的
+that we will never perceive unless we apply technology
+我能想到的最好的例子
+the best example i could think of off
+第一个就是红外视线
+the top of my head would be something like infrared vision
+蛇 蝮蛇 等等
+there are snakes out there pit vipers and so forth
+可以感应到其他物体散发出来的热量
+that can sense heat emissions from other
+他们实际上看不见动物的形状
+animals they don't actually see their shape
+他们感觉到自己的热量形态和热量散发
+they sense their heat shape and their heat emissions
+人类当然不能那样做
+humans can't do that unless of course
+除非他们戴上红外线护目镜
+they put on infrared goggles or
+或者用一些
+something that would allow them to
+检测那些热量散发的技术
+detect those heat emissions
+再举一个例子  海龟和某些
+there are turtles and certain species of
+远距离迁徙的鸟类
+birds that migrate long distances
+可以检测到磁场 因为它们具有神经元
+that can detect magnetic fields because they have neurons
+是的 又是神经系统
+again it's the nervous system that
+让它们有这种能力
+allows them to do this
+所以它们的鼻子和头上都有神经元
+so they have neurons in their nose and in their head
+让它们能够沿着磁场迁移
+that allow them to migrate along magnetic fields in order to
+没错  听起来很神奇
+as amazing as this sounds go from one
+它们会找到海洋中的特定位置
+particular location in the ocean
+在千里之外
+thousands of miles away to all aggregate
+在一年中的特定时间在一个特定的海滩上 以便他们可以交配
+on one particular beach at a particular time of year so that they can mate
+产卵 然后游回海中死亡
+lay eggs and then wander back off into the sea to die
+然后年轻海龟会去
+and then their young will eventually
+孵出那些可爱的小海龟
+hatch those little cute little turtles will shuffle to the
+然后又游走 去做完全相同的事情
+ocean swim off and go do the exact same thing they
+它们不会凭肉眼视力去找迁徙路径
+don't do migrate that distance by vision
+也不会闻气味找路
+they don't do it by smell
+他们通过感应磁场来做到这一点
+they do it by sensing magnetic fields
+好吧 还有许多其他物种做这些我们无法做到的不可思议的事情
+okay and many other species do these incredible things we don't
+人类可没有感应磁性的器官
+humans are not magnetic sensing
+我们做不到 因为我们
+organisms we can't do that because we
+没有感应磁场的受体
+don't have receptors that sense magnetic fields
+有数据显示 也许有人可以感应到磁场
+there's some data that maybe some humans can sense magnetic fields
+但是当有人确切的说自己可以感应磁场
+but you should be very skeptical of
+不管以何种准确性和稳定性
+anyone that's convinced that they can do
+你都要保持怀疑的态度
+that with any degree of robustness or accuracy because even the
+因为真的能够感受到的人 他们自己都不一定知道
+people that can do this aren't necessarily aware that they can
+也许之后播客会讲到这个话题
+maybe a topic for a future podcast
+所以我们先有感觉 然后才有感知
+so we have sensation then we have perception
+感知 是我们接收感觉的能力
+perception is our ability to take what we're sensing
+并专注于此 并使其有意义 以进行探索 以记住它
+and focus on it and make sense of it to explore it to remember it
+因此 感知就是
+so really perceptions are just whichever
+我们碰巧注意到的感觉
+sensations we happen to be paying attention to
+在任何时候 你都可以做到
+at any moment and you can do this right
+即便现在 你可以体验感知
+now you can experience perception and
+也可以体验知觉和感觉之间的区别
+the difference between perception
+非常容易 例如 如果我告诉你
+and sensation very easily if for instance i tell you
+注意脚接触的东西
+to pay attention to the contact of your feet
+脚底碰到的任何表面
+the bottoms of your feet with whatever surface they happen to be in contact with
+也许是鞋子 也许是地板 也许是空气
+maybe it's shoes maybe it's the floor if your feet are up maybe it's air
+当 你放置 所谓的“关注焦点”
+the moment you place your what we call the spotlight of attention
+或“感知焦点”
+or the spotlight of perception
+在你的脚上的时候 你就能感知
+on your feet you are now perceiving what
+那里的情况
+was happening there what was being sensed there
+感觉一直在发生
+the sensation was happening all along however
+所以感觉是不可以被改变的
+so while sensation is not negotiable
+你不能改变你的受体 
+you can't change your receptors unless
+除非你采用了一些新技术 但感知由你控制
+you adopt some new technology perception is under the control of your attention
+对感知的描述就如同
+and the way to think about attention
+是聚光灯 但不仅仅只是一个聚光灯
+is it's like a spotlight except it's not one spotlight
+你实际上有两个关注的焦点
+you actually have two attentional spotlights 
+任何告诉你 
+anyone that tells you
+不能同时做多件事的人  告诉他们那是错的
+you can't multitask tell them they're wrong
+如果他们不同意 请告诉他们与我联系
+and if they disagree with you tell them to contact me
+因为在旧世界中人类是灵长类动物
+because in old world primates of which humans are
+我们能够做所谓的秘密注意
+we are able to do what's called covert attention
+我们可以把重点放在各种东西上
+we can place a spotlight of
+例如注意某事
+attention on something for instance
+正在阅读或看的东西
+something we're reading or looking at
+或我们正在听的人
+or someone that we're listening to and
+我们可以将第二个关注点放在
+we can place a second spotlight of attention on
+我们正在吃的东西以及它的味道
+something we're eating and how it tastes
+或在房间里跑来跑去的孩子  或我的狗
+or our child running around in the room or my dog
+ 你可以将注意力分为两部分
+you can split your attention into two
+但当然 你也可以把你的注意放一起
+locations but of course you can also bring your attention
+那就是你对一个特定事物的感知
+that is your perception to one particular location
+你可以扩大注意力
+you can dilate your attention kind of
+就像使聚光灯更加分散
+like making a spotlight more diffuse
+或者 你可以使其更加集中
+or you can make it more concentrated
+这对了解 你是否要去使用
+this is very important to understand if you're going
+改善神经系统的工具非常重要
+to think about tools to improve your nervous system
+不管这个工具是
+whether or not that tool is in the form of
+什么化学药品
+a chemical that you decide to take
+或者是什么补剂可以增加
+maybe a supplement to increase some chemical
+大脑中某种物质的分泌 只要你决定好了
+in your brain if that's your choice or
+或者是某种脑电设备 或者你要尝试
+a brain machine device or you're going to try 
+在某一段时间内 每天通过集中精力或积极性 
+and learn something better by engaging in some focus or motivated
+来更好地学习
+pursuit for some period of time each day 
+注意力绝对是
+attention is something that is
+在你控制之下的一个东西 尤其是当 你休息时
+absolutely under your control in particular when you're rested
+我们会回到这一点 当你休息时
+and we'll get back to this but when you are rested
+我们之后会很明确地定义休息
+and will define rest very clearly
+你可以通过非常有意识的方式来引导 你的注意力
+you are able to direct your attention in very deliberate ways
+那是因为我们神经系统中有某种东西
+and that's because we have something in our nervous system which is sort of
+就像一条双向路
+like a two-way street
+那条双向路是
+and that two-way street is a communication
+将我们神经系统中各个反射部分
+between the aspects of our nervous system that are reflexive and
+和有意识的部分 连接了起来
+the aspects of our nervous system that are deliberate
+我们都知道反射在生活中是什么感觉
+so we all know what it's like to be reflexive
+如果 你已经知道如何走路 
+you go through life you're walking if you already know how to walk ==
+那么你不会去想该怎么走路
+you don't think about your walking you just walk
+那是因为神经系统希望
+and that's because the nervous system wants to pass off
+尽可能多地通过反射运动
+as much as it can to reflexive action
+这就是所谓的“自下而上”的处理
+that's called bottom-up processing it
+这只是意味着信息正在通过 你的感官流入
+really just means that information is flowing in through your senses
+不管你在感知什么
+regardless of what you're perceiving
+信息在流动 它正在指导 你的活动
+that information is flowing up and it's directing your activity
+但是在任何时候
+but at any moment for instance let's say
+比如  拐角处一辆汽车在你面前疾驶 然后你突然间停下来
+a car screeches in front of you around the corner and you suddenly pause
+你现在正切换到刻意行为
+you are now moving into deliberate
+ 你将以非常刻意的方式环顾四周的动作
+action you would start looking around in a very deliberate way
+神经系统可以反射行为
+the nervous system can be reflexive in
+也可以是刻意行为
+its action or it can be deliberate
+如果反射行为倾向于“自下而上”的话
+if reflexive action tends to be what we call bottom up
+刻意的行动 刻意的看法和刻意的思想是
+deliberate action and deliberate perceptions and deliberate thoughts are
+属于 “自上而下” 他们需要一些努力和专注
+top-down they require some effort and some focus
+但这就是 你可以决定
+but that's the point you can decide to
+将注意力和精力集中在
+focus your attention and energy on
+ 你想要决定的任何事情
+anything you want you can decide to
+以 你想要的任何方式  集中你的行为
+focus your behavior in any way you want
+但总会感觉到它需要
+but it will always feel like it requires
+一些努力和压力
+some effort and some strain whereas when
+而当你在反射模式下的时候 走路
+you're in reflexive mode just walking
+聊天 吃饭 做自己的事情
+and talking and eating and doing your thing
+都会非常简单轻松
+it's going to feel very easy and that's
+因为你的神经系统基本上已经连接了
+because your nervous system basically wired up
+能够轻松完成大多数事情
+to be able to do most things easily
+没有太多的新陈代谢需求
+without much metabolic demand without consuming
+不消耗精力 但是当 你尝试
+much energy but the moment you try and
+做一些非常具体的事情
+do something very specific
+这会让你感到精神上的阻力
+it's going to you're going to feel a sort of mental friction
+这将是具有挑战性的 所以我们有感觉
+it's going to be challenging so we've got sensations perceptions
+然后我们得到了我们称之为“感受”
+and then we've got things that we call feelings slash
+或者叫“情绪”的东西  这变得有点复杂 因为
+emotions and these get a little complicated because
+几乎所有人 我希望我们所有人
+almost all of us i would hope all of us
+熟悉诸如幸福  悲伤 无聊或沮丧之类的情绪
+are familiar with things like happiness and sadness or boredom or frustration
+科学家疯狂的争论  神经科学家 心理学家 还有哲学家
+scientists argue like crazy neuroscientists and psychologists and
+都对此事争论不休  它们(情绪)到底是什么
+philosophers for that matter argue like crazy about what these are
+以及它们的机制 当然情绪和感受
+and how they work certainly emotions and
+是神经系统的产物
+feelings are the product of the nervous system
+它们涉及神经元的活动 但
+they involve the activity of neurons but
+正如我前面提到的 神经元具有电活性 
+as i mentioned earlier neurons are electrically active ==
+但他们也释放化学物质
+but they also release
+ 并且有一类化学物质
+chemicals and there's a certain category of chemicals
+对我们的情绪状态有非常深远的影响
+that has a very profound influence on our emotional states
+他们被称为神经调节剂
+they're called neuromodulators 
+这些神经调节剂的名称可能是 你以前听说过的
+and those neuromodulators have names that probably you've heard of before
+多巴胺 5-羟色胺和乙酰胆碱肾上腺素
+things like dopamine and serotonin and acetylcholine epinephrine 
+神经调节剂很有意思 因为它们偏爱
+neuromodulators are really interesting because they bias
+让某些神经元活跃起来
+which neurons are likely to be active
+以及让哪些不活跃
+and which ones are likely to be inactive
+想象神经调节剂的一种简单方法是
+a simple way to think about neuromodulators is
+它们就像是 你拥有的播放列表
+they are sort of like playlists that you would have
+在 你要播放的特定音乐类别
+on any kind of device where you're going to play particular categories of music
+例如多巴胺 经常被讨论为
+so for instance dopamine which is often discussed as
+奖励或喜悦的分子
+the molecule of reward or joy
+参与奖励 当它适量释放到大脑中时
+is involved in reward and it does tend to create a sort of
+它的确会创造一种乐观情绪
+upbeat mood in when released in appropriate amounts in the brain
+但这是因为
+but the reason it does that is because
+它使某些神经元和神经回路
+it makes certain neurons and neural circuits
+更活跃 而让另外的不那么活跃
+as we call them more active and others less active
+例如血清素是一种分子  它被释放时
+okay so serotonin for instance is a molecule that when released
+往往会使我们对自己拥有的东西  感到非常满足
+tends to make us feel really good with what we have
+对我们的内心世界和拥有的资源
+our sort of internal landscape and the resources that we have
+而多巴胺不仅仅是奖励分子
+whereas dopamine more than being a molecule of reward is really
+更多属于一种动力分子
+more a molecule of motivation toward
+产生于我们想要追求外部东西的时候
+things that are outside us and that we want to pursue
+我们可以看看健康的状况
+and we can look at healthy conditions or situations like
+或者追求目标的时候 每次我们完成某件事
+being in pursuit of a goal where every time we accomplish something
+在实现该目标的过程中
+in route to that goal a little bit of
+多巴胺释放 我们会感到更有动力
+dopamine is released and we feel more motivation
+我们也可以看一下躁狂症的极端例子
+that happens uh we can also look at the extreme example of something like mania
+你知道的  有人会
+where somebody is so you know
+不懈地追求诸如金钱之类的外部事物
+relentlessly in pursuit of external things like money
+和社交关系
+and relationships that they're sort of
+在这种妄想状态下
+in this delusional state of thinking
+他们认为自己拥有所需的资源 以便
+that they have the resources that they need in order to
+追求所有这些东西 而实际上他们并不拥有那些
+pursue all these things when in fact they don't
+所以这些神经调节剂可以正常水平存在
+so these neuromodulators can exist in normal levels
+低水平高水平 实际上
+low levels high levels and that actually
+这给了我们一个窗口
+gives us a window into a
+去了解神经科学历史的一个非常重要的方面 
+very important aspect of neuroscience history that 
+影响到了我们每一个人
+all of us are impacted by today which is the discovery of
+就是抗抑郁药和所谓的抗精神病药
+antidepressants and so-called antipsychotics
+在20世纪5、6、70年代被发现
+in the 1950s 60s and 70s it was discovered
+有化合物的化学物质
+that there are compounds chemicals that
+可以增加或减少血清素
+can increase or decrease serotonin
+可以增加或减少多巴胺
+that can increase or decrease dopamine
+这促成了大多数
+and that led to the development of most of
+我们所谓的抗抑郁药的发展
+what we call antidepressants
+现在的窍门或问题在于 其中大多数
+now the trick here or the problem is that most of these
+特别是50和60年代的药品
+drugs especially in the 1950s and 60s
+他们会减少血清素 但他们
+they would reduce serotonin but they
+也会减少
+would also reduce
+多巴胺 否则它们会增加
+dopamine or they would increase
+血清素 但它们也会增加
+serotonin but they would also increase
+其他一些神经调节剂或化学物质
+some other neuromodulator or chemical
+那是因为
+and that's because
+体内所有这些化学系统
+all these chemical systems in the body
+但尤其是神经调节剂
+but the neuromodulators in particular
+现在有很多受体
+have a lot of receptors now these are
+与我们之前讨论的受体不同
+different than the receptors we were talking about earlier
+我现在正在谈论的受体是
+the receptors i'm talking about now are
+有点像停车位
+sort of like parking spots where
+多巴胺被释放 如果它附着在心脏的受体上 
+dopamine is released and if it attaches to a receptor say on the heart
+可能会使心脏跳动更快
+ it might make the heart beat faster
+因为有某种
+because there's a certain kind of
+心脏上的受体 
+receptor on the heart whereas if
+如果多巴胺被释放并去附着肌肉
+dopamine is released and goes and attaches to
+可能会对肌肉有完全不同的影响
+muscle it might have a completely different effect on muscle 
+它的确如此  所以不同的受体在
+it does so different receptors on
+身体不同器官
+different organs of the body are the ways
+这些神经调节剂可以拥有所有
+that these neuromodulators can have all
+这些对我们生理不同方面的影响
+these different effects on different aspects of our biology
+在示例中这是最明显的
+this is um most salient in the example
+一些抗抑郁药会有
+of some of the antidepressants that have
+性方面的副作用
+sexual side effects or that blunt
+或抑制食欲 或抑制欲望
+appetite or that blunt motivation
+你知道如果你增加了5-羟色胺
+you know if you many of these which increase serotonin
+可以对人们非常有益
+can be very beneficial for people it can
+可以提升他们的心情 可以使他们感觉更好 
+elevate their mood it can make them feel better but they also
+但如果他们的剂量太高
+at if their the doses are too high or if
+或者那种特定药物不适合某人
+that particular drug isn't right for somebody
+那个人会有动力 食欲
+that person experiences challenges with motivation or appetite
+或性欲方面的问题 因为血清素可以
+or libido because serotonin is binding
+约束到大脑区域的受体
+to receptors in the areas of the brain
+也可以控制其他东西
+that control those other things as well 
+所以我们谈到了感觉 
+so we talked about sensation we
+谈论感知
+talked about perception
+当我们谈论感情时 我们必须
+when we talk about feelings we have to
+考虑这些神经调节剂 我们
+consider these neuromodulators and we
+还必须考虑到 在某些文化中 感觉和情感是与环境相关的
+have to consider also that feelings and emotions are contextual in some cultures
+一些文化中  表现出很多喜悦或悲伤是完全没问题的
+showing a lot of joy or a lot of sadness is entirely appropriate
+在其他文化中 这被认为是不合适的
+in other cultures it's considered inappropriate 
+所以我认为有一个不公平的说法是不公平的
+so i don't think it's fair to say that there's a
+悲伤回路或大脑区域或
+sadness circuit or area of the brain or
+大脑的快乐回路或区域
+a happiness circuit or area of the brain
+但是可以公平地说 某些化学物质
+however it is fair to say that certain chemicals
+某些大脑回路倾向于
+and certain brain circuits tend to be
+在充满动力的状态下保持活跃
+active when we are in motivated states
+在无动力的懒惰状态下倾向于活跃
+tend to be active when we are in non-motivated lazy states
+当我们专注时倾向于活跃
+tend to be active when we are focused
+当我们处于不集中时倾向于活跃
+and tend to be active when we are not focused
+我想强调的是
+ i want to emphasize
+情感是我们
+also that emotions are something that we
+通常感觉不受我们的控制的东西
+generally feel are not under our control
+我们觉得它们有点像
+we feel like they kind of guys are up
+在我们内部 它们就这么在我们身上发生了
+within us and they just kind of happen
+ 那是因为它们有些反射性
+to us and that's because they are somewhat reflexive
+我们并没有
+we don't really set out with a
+故意想要幸福或故意想要悲伤
+deliberate thought to be happy or deliberate thought to be sad
+我们倾向于以一种被动的反射方式来体验它们
+we tend to experience them in kind of a passive reflexive way
+这将我们带入下一个话题
+and that brings us to the next thing
+那就是“想法”  想法真的很有趣 因为
+which are thoughts thoughts are really interesting because
+在许多方面 它们就像感知
+in many ways they're like perceptions
+除了它们
+except that they draw
+不仅在当前发生的事情上 而且在
+on not just what's happening in the present but also
+发生在我们回想起过去的事情
+things we remember from the past and
+和我们对未来的预期之中
+things that we anticipate about the future
+关于想法的另一件事是
+the other thing about thoughts that's
+真正有趣的是
+really interesting is that thoughts
+想法既可以是反射 就好像
+can be both reflexive they can just be occurring all
+去广告功能很差的网络浏览器
+the time sort of like pop-up windows on
+一直在弹出窗口
+a poorly filtered web browser
+或者它可以是刻意行为 我们可以先考虑一下
+or they can be deliberate we can decide to have a thought
+实际上  你现在可以决定
+in fact right now you could decide to
+有一个想法  就好像你
+have a thought just like you would
+决定在纸上写点东西
+decide to write something out on a piece of paper
+你可以决定你在某个地点
+you could decide that you're listening
+要听某个播客
+to a podcast that you are in a particular location
+你不只是在注意正在发生的事情
+you're not just paying attention to
+ 你还在主导思维过程的形成
+what's happening you're directing your thought process
+很多人不了解或
+and a lot of people don't understand or
+不知道 
+at least appreciate that the thought
+思维模式和潜在的神经回路
+patterns and the neural circuits that underlie
+思想实际上可以通过刻意的方式来控制
+thoughts can actually be controlled in this deliberate way
+最后有动作
+and then finally there are actions
+动作或行为可能是我们神经系统最重要的方面
+actions or behaviors are perhaps the most important aspect to our nervous system
+因为首先 我们的行为是
+because first of all our behaviors are
+其实唯一会创造
+actually the only thing that are going to create
+我们存在过的记录的东西
+any fossil record of our existence you
+我们死后 神经系统会腐烂
+know after we die the nervous system
+我们的骨骼将被保留
+deteriorates our skeleton will remain
+但是在你在经历
+but it's you know in the moment of of
+非常快乐或非常悲伤的事情的时候
+something very joyful or something very sad
+它可以感觉到无所不包 以至于我们会认为它有一些
+it can feel so all-encompassing that we actually think that it has some
+超越那一刻的意义
+meaning beyond that moment
+但实际上对于人类 我认为对于所有物种
+but actually for humans and i think for all species
+感觉 知觉和思想
+the sensations the perceptions and the thoughts
+以及我们一生中的感受
+and the feelings that we have in our lifespan
+这些实际上都没有结转
+none of that is actually carried forward
+除了我们拿来的 然后转换成
+except the ones that we take and we convert into
+比如写作
+actions such as writing actions such as
+说话  设计新事物 的行为
+words actions such as engineering new things
+因此我们物种的化石记录
+and so the fossil record of our species
+都是通过动作记录每一个人
+and of each one of us is really through action
+这些分解成小部分 就是为什么我们如此多的神经系统
+and that in part is why so much of our nervous system is
+都致力于转换
+devoted to converting
+感觉 感知 思考
+sensation perceptions feelings and thoughts
+付诸行动 
+into actions in fact the great
+神经科学家和生理学家Sharington
+neuroscientist or physiologist
+他曾获得了诺贝尔奖
+sharington won a nobel prize for his
+研究的是绘制一些电流
+work in mapping some of the circuitry the
+引起运动的神经细胞之间的连接
+connections between nerve cells that give rise to movement
+他说运动是最后的共同途径
+and he said movement is the final common pathway
+另一种思考的方式是
+the other way to think about it is that one of the reasons that
+我们的中枢神经系统 大脑和脊髓  包括
+our central nervous system our brain and spinal cord include
+我们头骨里的东西 
+this stuff in our skull but also
+如此紧密地连接到身体
+connects so heavily to the body
+是因为  几乎所有我们的
+is because most everything that we
+体验 包括我们的想法和感受
+experience including our thoughts and feelings
+确实旨在影响我们的行为
+was really designed to either impact our behavior or not
+思想使我们能够
+and the fact that thoughts allow us to
+进入过去并期待
+reach into the past and anticipate the
+未来 而不仅仅是体验当下正在发生的事情
+future and not just experience what's happening in the moment
+给我们带来了不可思议的能力
+gave rise to an incredible capacity for us to
+产生不只是基于
+engage in behaviors that are not just
+目前他们的事物行为
+for the moment they're based on things
+我们从过去知道 并且我们在未来希望看到的
+that we know from the past and that we would like to see
+以及我们神经系统的这一方面
+in the future and this aspect to our nervous system
+通过一些非常简单的途径进行运动创造
+of creating movement occurs through some very simple pathways
+反射路径主要包括
+the reflexive pathway basically includes
+脑干区域我们称为中央模式生成器
+areas of the brainstem we call central pattern generators
+当你走路时 你已经知道如何走路
+when you walk provided you already know how to walk
+你能走路基本上 是因为你
+you are basically walking because you
+有这些中心模式产生
+have these central pattern generates
+运动的神经元群  左右 左右
+groups of neurons that generate right foot left foot kind of movement
+但是 当你决定使用
+however when you decide to move in a
+更多刻意控制的走路  你需要一些注意力
+particular deliberate way that requires a little more attention
+你开始动脑筋
+you start to engage areas of your brain
+在前脑工作的地方进行自上而下的处理
+for top-down processing where your forebrain works
+从上到下控制那些
+from the top down to control those
+中央模式发生器
+central pattern generators so that maybe
+比如  右 右 左
+it's right foot right foot left foot
+右 右 左 这么走 
+right foot right foot left foot if maybe
+可能你正在沿着岩石远足或什么
+you're hiking along some rocks or
+你必须这么走
+something and you have to engage in that kind of movement
+所以运动就像思想
+so movement is just like thoughts
+可以是反射或刻意的
+can be either reflexive or deliberate
+当我们谈论刻意的时候
+and when we talk about deliberate i want
+具体来说
+to be very specific about
+ 你的大脑改如何在刻意的情况下工作
+how your brain works in the deliberate
+因为随之产生的
+way because it give gives rise to
+是神经系统的一个非常重要的特征
+a very important feature of the nervous
+我们接下来会讨论的
+system that we're going to talk about
+就是是你有改变神经系统的能力
+next which is your ability to change your nervous system
+我想先谈一谈的是这个概念
+and what i'd like to center on for a second is this notion
+神经系统刻意做某事
+of what does it mean for the nervous
+意味着什么
+system to do something deliberately
+好 当你故意做某事时
+well when you do something deliberately
+你开始注意 你带来了你的感知
+you pay attention you are bringing your perception
+来分析三件事
+to an analysis of three things 
+持续时间  需要花费多长时间 或应该完成的时间
+duration how long something is going to take or should be done
+路径  你应该做什么
+path what you should be doing an 
+结果  你在给定的时间内做某事 将会发生什么
+outcome if you do something for a given length of time what's going to happen
+现在 当你走在街上
+now when you're walking down the street
+或正在吃东西或只是在说话
+or you're eating or you're just talking
+你不是在做我所说的
+reflexively you're not doing this what i
+DPO(持续时间/路径/结果)
+called DPO duration path outcome
+ 你的大脑和神经系统的刻意功能类型
+type of deliberate function in your brain and nervous system
+但是当你决定学习的那一刻
+but the moment you decide to learn
+或拒绝说话
+something or to resist speaking
+或在 你宁愿安静时大声说出来
+or to speak up when you would rather be quiet
+任何时候你故意强迫自己
+anytime you're deliberately forcing
+超过阈值
+yourself over a threshold
+你正在调动这些大脑循环
+you're engaging these brain circuits and
+调动这些神经系统回路
+these nervous system circuits
+你会突然觉得
+that suddenly make it feel as if
+有什么在挑战你
+something is challenging something has
+有东西变了
+changed
+好 那什么是改变 
+well what's changed 
+改变就是  当你在调动
+what's changed is that when you engage in this duration
+关于DPO的思考
+path and outcome type of
+行为 或存在方式
+thinking or behavior or way of being
+你开始利用那些
+you start to recruit these
+神经调节剂
+neuromodulators
+从大脑的特定区域释放
+that are released from particular areas
+也从你的身体释放你的身体
+of your brain and also it turns out from your body
+他们开始提示你的神经系统
+and they start cueing to your nervous
+有什么东西不一样了
+system something's different something's
+我在做的事情不一样了
+different now about what i'm doing
+我的感受不一样了
+something's different about what i'm
+让我们举个例子
+feeling let's let's give an example
+也许有人说了一些什么
+perhaps somebody says something that's
+戳了你的痛点 你不喜欢它
+triggering to you you don't like it
+而且你知道你不应该回应的
+and you know you shouldn't respond you
+“我不应该回应...
+feel like i shouldn't respond i
+我不应该回应 我不应该回应”
+shouldn't respond i shouldn't respond
+你正在积极压制你的行为
+you're actively suppressing your
+自上而下控制
+behavior through top-down
+实际上你的前脑在
+processing your forebrain is actually
+阻止你说这句话
+preventing you from saying the thing
+那句你
+that you
+知道你不应该说或者也许你
+know you shouldn't say or that maybe you
+应该等待以不同的方式说 或以不同的形式说
+should wait to say or say in a different form
+感觉就像是激动和压力
+this feels like agitation and stress
+因为你实际上是在压制
+because you're actually suppressing a
+回路
+circuit
+我们实际上可以看到一些例子
+we actually can see examples of what
+当 你做得不好时会发生
+happens when you're not doing this well
+这些例子来自
+some of the examples uh come from
+孩子 你看看孩子
+children if you look at young children
+他们没有前脑回路
+they don't have the forebrain circuitry
+来处理这种自上而下的控制
+to engage in this top-down processing
+直到他们达到大概 22甚至25
+until they reach age you know 22 even 25
+但在小孩身上 你会发现
+but in young children you see this in a
+一个很稳定的现象
+really robust way
+ 你会看到他们前后摇摆 
+you'll see they'll be rocking back and
+他们很难坐下来
+forth it's hard for them to sit still
+因为那些中央模式发生器
+because those central pattern generators
+一直在后台运作
+are constantly going in the background
+大人可以坐着
+whereas adults can sit still
+一个孩子看到一块糖果 
+a kid sees a piece of candy that it
+他会想要并且会伸出手来抓
+wants and will just reach out and grab it
+而成年人可能会问
+whereas an adult probably would ask if
+他们是否可以吃一块 或等到
+they could have a piece or wait until
+别人给他们
+they were offered a piece
+在大多数情况下 
+in most cases people that have damage to
+额叶缺少某些区域的人
+certain areas of the frontal lobes don't
+会有这种限制 他们会
+have this kind of restriction they'll
+直接脱口而出
+just blurt things out
+他们会直接说  我们都知道这样的人
+they'll just say things we all know
+冲动的人是缺乏
+people like this impulsivity is a lack
+自上而下控制的 缺乏自上而下的处理
+of top-down control a lack of top-down
+另一件事将关闭
+the other thing that will turn off the
+前脑并使其难以自上而下处理的
+forebrain and make it harder to top down
+是几杯含酒精的饮料
+is a couple of drinks containing alcohol
+好
+well
+消除抑制作用实际上是
+the removal of inhibition is actually a
+去除
+removal of
+神经细胞对其他神经细胞
+neural inhibition of nerve cells suppressing the activity of 
+的神经抑制 所以当你
+of other nerve cells and so when you
+看那些额叶有损伤的人
+look at people that have damage to their frontal lobes
+你看着看小狗 或者你看看小孩子
+or you look at puppies or you look at young children
+一切都是刺激 一切都是
+everything is a stimulus everything is a
+它们之间潜在的互动
+potential interaction for them and they
+很难限制他们的
+have a very hard time restricting their
+行为及其言语
+behavior and their speech
+所以很多动力系统都是
+so a lot of the motor system is designed
+以反射的工作方式设计的
+to just work in a reflexive way
+然后当我们决定要学习
+and then when we decide we want to learn
+或做某事
+something or do something or
+或者不做某事时  我们必须调动
+not do something we have to engage in
+这种自上而下的限制 感觉
+this top-down restriction and it feels
+之所以像不安的感觉 是因为它伴随着
+like agitation because it's accompanied
+释放
+by the release
+称为神经调节剂的
+of a neuromodulator called
+去甲肾上腺素
+norepinephrine
+在体内我们称之为肾上腺素和
+which in the body we call adrenaline and
+实际上让我们感到烦躁
+it actually makes us feel agitated
+所以对于那些想要
+so for those of you that are trying to
+学习新东西或学习
+learn something new or to learn to
+压抑你的回应  或更多地主动控制
+suppress your responses or be more deliberate
+并谨慎地回应
+and careful in your responses that is
+那就是去
+going to
+由于特定原因感到挑战
+feel challenging for a particular reason
+这会很有挑战 因为
+it's going to feel challenging because
+ 你体内的化学物质是
+the chemicals in your body that are
+与之相关的释放
+released in association with that
+努力让你感到
+effort are designed to make you feel
+那种低水平的震颤
+kind of agitated that low-level tremor
+有时人们在
+that sometimes people feel when they're
+真的很生气
+really really angry
+实际上是化学物质诱导的
+is actually a chemically induced
+低度震颤
+low-level tremor
+这就是我所说的大脑边缘系统阻力
+and it's the what i call limbic friction
+你的大脑有一个区域
+there's an area of your brain that's
+参与我们更原始的反射反应
+involved in our more primitive reflexive responses
+称为边缘系统和额叶皮层
+called the limbic system and the frontal cortex
+在摩擦中 在拔河中
+is in a friction it's in a tug of war
+在那个系统中
+with that system
+一直以来 除非你有
+all the time unless of course you have
+额叶受损或 你曾经
+damage to the frontal lobe or you've had
+喝太多或其他损伤
+too much to drink or something in which
+那样你就会倾向于
+case you tend to just say and do
+随心所欲的说和做事情
+whatever
+所以明白这个很重要
+and so this is really important to
+是因为
+understand because
+如果你想了解
+if you want to understand
+ 你想了解的神经可塑性
+neuroplasticity you want to understand
+如何塑造自己的行为
+how to shape your behavior how to shape
+塑造自己的想法
+your thinking how to
+改变 你在任何情况下的行为方式
+change how you're able to perform in any
+最重要的事情要理解
+the most important thing to understand
+是它需要
+is that it requires
+自上而下的处理 需要这样的
+top-down processing it requires this
+不安感  其实我倒偏向于说
+feeling of agitation in fact i would say
+躁动和压力是个入口
+that agitation and strain is the entry
+走向神经可塑性
+point to neural plasticity
+让我们看一下神经可塑性是什么
+so let's take a look at what neural
+我们去探索一下
+plasticity is let's explore it not
+不像通常所说的那样
+as the way it's normally talked about in
+什么 现代文化与神经可塑性
+modern cultures and neuroplasticity
+可塑性很好 之类的
+plasticity is great
+大家说的到底是什么意思
+what what exactly do people mean
+可塑性本身只是一个过程
+plasticity itself is just a process by
+神经元可以改变它们的连接
+neurons can change their connections in
+它们的工作方式
+the way they work so
+这样你就可以摆脱
+that you you can go from things being
+那些非常有挑战性和刻意的
+very challenging and deliberate
+需要很多努力和压力的行为
+requiring a lot of effort and strain
+使他们变成反射 通常
+to them being reflexive and typically
+当我们听到可塑性的时候
+when we hear about plasticity we're
+考虑积极或我所说的
+thinking about positive or what i call
+适应性可塑性
+adaptive
+很多可塑性
+plasticity a lot of plasticity can be
+例如由脑损伤引起 但
+induced for instance by brain damage but
+一般不是那种我们想要的可塑性
+generally not the kind of plasticity
+当我说可塑性时
+that we want so when i say plasticity
+除非我特别说明了  一般我的意思就是适应性可塑性
+unless i say otherwise i mean adaptive plasticity
+特别是大多数
+and in particular most of the
+人们想要的神经可塑性
+neuroplasticity that people
+都是自我导向的可塑性 因为
+want is self-directed plasticity because
+如果只说一个关于
+if there's one
+神经可塑性的众所周知的事实
+truism to neuroplasticity it's that from
+那就是从出生到25岁左右
+birth until about age 25 the brain
+人有令人难以置信的可塑性  孩子们学习
+is incredibly plastic kids are learning
+各种各样的事情
+all sorts of things
+他们也可以被动地学习
+but they can learn it passively they
+不必太努力或
+don't have to work too hard or
+非常努力集中精力  虽然这肯定效果更好
+focus too hard although focus helps to learn new things
+不管是掌握新语言 还是掌握新技能
+acquire new languages acquire new skills
+但是如果你是成年人 你想
+but if you're an adult and you want to
+改变你的神经回路
+change your neural circuitry
+在情绪或行为方面
+at the level of emotions or behavior or
+想法或任何东西
+thoughts or anything really
+你绝对需要问两个重要的问题
+you absolutely need to ask two important
+首先
+one what particular
+我正在尝试改变神经系统的哪个特定的方面
+aspect of my nervous system am i trying to change
+意思是是想改变我的
+meaning am i trying to change my
+情绪 还是我的看法  或者是我的感觉
+emotions or my perceptions my sensations
+还有哪些是我真的能够去
+and which ones are available for me to
+改变的 然后第二个问题是
+change and then the second question is
+你打算怎么做
+how are you going to go about that what
+结构是什么
+is the structure
+进行神经可塑性治疗的方法结构是什么
+of a regimen to engage neuroplasticity
+事实证明
+and it turns out that the answer to that
+第二个问题的答案
+second question
+取决于我们清醒或犯困的程度
+is governed by how awake or how sleepy we are
+所以接下来我们来谈谈
+so let's talk about that next
+神经可塑性是一种能力
+neuroplasticity is the ability for these
+它根据大脑和身体的连接
+connections in the brain and body to
+对变化的经历产生响应
+change in response to experience
+人类的不可思议之处
+and what's so incredible about the human
+特别是神经系统
+nervous system in particular
+是我们可以指导自己的神经
+is that we can direct our own neural
+变化
+changes
+我们可以决定是否要更改我们的大脑
+we can decide that we want to change our
+换句话说 我们的大脑可以自己改变
+in other words our brain can change
+我们的神经系统都会自己改变
+itself and our nervous system can change
+同样的 我们的其他器官
+and the same can't be said for other
+就不能这样改变
+organs of the body even though our
+即便身体其他器官会有一些
+other organs of the body have some
+改变能力
+ability to change
+它们无法指导身体 它们无法思考
+they can't direct it they can't think
+然后决定说  哦 你知道你的肠子不能说
+and decide oh you know your gut doesn't
+“哦 我想能够...
+say oh you know i want to be able to
+...更好地消化辛辣食物 所以我要去
+digest spicy foods better so i'm going
+重新安排连接以便...
+rearrange the connections to be able to
+更好消化” 而你的大脑可以决定
+do that whereas your brain can decide
+你想
+that you want to
+学一门语言 或者你想少一点
+learn a language or you want to be less
+情绪反应或
+emotionally reactive or
+更加投入情感  你可以
+more emotionally engaged and you can
+经历一系列步骤
+undergo a series of steps that will
+允许
+allow
+你的大脑做出这些改变 以便
+your brain to make those changes so that
+最终它成为你的反射
+eventually it becomes reflexive for you to do that
+这是非常不可思议的
+which is absolutely incredible for a
+很长时间以来 人们认为
+long time it was thought that
+神经可塑性是
+neuroplasticity was the unique gift of
+年轻动物和人类独有的天赋
+young animals and humans that it could only
+发生在我们年轻的时候
+occur when we're young and in fact the
+事实上  幼小的大脑非常容易塑造
+young brain is incredibly plastic
+孩子们可以学习三种语言
+children can learn three languages
+而没有口音
+without an accent reflexively
+而对于成年人  这是非常具有挑战性的
+whereas adults it's very challenging it
+需要更多的努力和压力
+takes a lot more effort and strain a lot
+更多的去想持续时间 路径 结果的办法
+more of that duration path outcome kind
+为了实现那些可塑变化
+of thinking in order to achieve those
+我们现在知道的
+plastic changes we now know however that
+成人的大脑可以改变对于经历的反应
+the adult brain can change in response to experience
+诺贝尔奖曾经颁给过
+nobel prizes were given for uh the
+一项研究年轻的大脑可以发生非常大变化的研究
+understanding that the young brain can change very dramatically
+我认为最
+ i think one of the most
+极端的一个例子是
+extreme examples would be
+对于那些天生瞎眼的人
+uh for people that are born blind from birth
+他们用他们的大脑区域
+they use the area of their brain that
+通常用于
+normally would be used for
+可视化对象和颜色 以及
+visualizing objects and colors and
+他们外面的东西
+things outside of them
+用于大脑成像中的盲文阅读
+for braille reading in brain imaging
+研究表明
+studies it's been shown that you know
+出生时失明的人
+people who are blind from birth when
+他们盲文阅读时
+they braille read
+大脑的区域
+the area of the brain that would
+通常会被点亮
+normally light up
+跟随意愿  视觉区域被
+if you will to for vision lights up for
+盲文阅读点亮
+braille reading so
+该块区域已重新分配给
+that real estate is reallocated for an
+完全不同的功能
+entirely different function
+如果某人成年后失明
+if someone is made blind in adulthood
+他们的整个视觉大脑不太可能
+it's unlikely that their entire visual
+被那些
+brain will be taken over
+负责接触的大脑区域
+by the areas of the brain they're
+所接管
+responsible for touch
+但是有一些证据表明
+however there's some evidence that areas
+涉及听觉和触觉的大脑
+of the brain that are involved in hearing and touch
+可以迁移到视觉区域 
+can kind of migrate into that area and
+现在有很多人感兴趣去尝试
+there's a lot of interest now in trying
+弄清楚如何
+to figure out how
+诱导更多的可塑性
+more plasticity can be induced in
+在成年后  诱导更积极的可塑性
+adulthood more positive plasticity
+为了了解那个过程
+and in order to understand that process
+我们真的必须了解
+we really have to understand
+一开始似乎有些东西
+something that might at first seem
+完全脱离了神经可塑性
+totally divorced from neuroplasticity
+但实际上位于
+but actually lies at the center of
+神经可塑性的中心 对于任何人
+neuroplasticity and for any of you that
+有兴趣改变你的神经系统
+are interested in changing your nervous system
+这样你想要的东西就可以
+so that something that you want can go
+从非常努力 或看起来
+from being very hard or seem
+几乎不可能且遥不可及
+almost impossible and out of reach to
+变成反射反应
+being very reflexive
+这对尤为重要
+this is especially important to pay
+要多多关注
+attention to
+成人神经系统的可塑性
+plasticity in the adult human nervous
+被限制了
+system is gated
+意味着它是由
+meaning it is controlled by
+神经调节剂所控制
+neuromodulators
+我们前面谈论的这些事情
+these things that we talked about
+多巴胺  5-羟色胺
+earlier dopamine serotonin
+特别是一个叫
+and one in particular called
+乙酰胆碱的东西
+acetylcholine
+是它们打开了成人的可塑性
+are what open up plasticity they
+从字面上看
+literally
+揭示可塑性并允许
+unveil plasticity and allow brief
+在短时间内
+periods of time in which whatever
+无论什么信息
+information
+无论我们正在感觉的 还是
+whatever thing we're sensing or
+感知或思考的东西
+perceiving or thinking
+或我们能感觉到的任何情绪
+or whatever emotions we feel can
+可以映射到大脑
+literally be mapped in the brain
+这样以后会变得
+such that later it will become much
+让我们更容易体验和感觉
+easier for us to experience and feel
+那个事物
+that thing
+那么 它就有阴暗面和积极的一面 
+now this has a dark side and a positive side
+黑暗的一面是  实际上
+the dark side is it's actually very easy
+成年后获得神经可塑性很简单
+to get neuroplasticity as an adult
+通过创伤 可怕的经历
+through traumatic or terrible or
+或者挑战性的经历
+challenging experiences
+但重要的问题是 为什么会是这样
+but the important question is to say why is that
+其中的原因是
+and the reason that's the case is
+因为当一些
+because when
+非常糟糕的事情发生的时候
+something very bad happens there's the release
+两组神经调节剂会在脑部被释放
+of two sets of neuromodulators in the brain
+肾上腺素 往往使我们感到
+epinephrine which tends to make us feel
+与之相关的紧张和不安
+alert and agitated which is associated
+发生在大多数
+with most
+不良情况  乙酰胆碱
+bad circumstances and acetylcholine
+这往往会创造一个
+which tends to create a
+更加强烈和集中的感性聚光灯
+even more intense and focused perceptual
+记得我们之前
+spotlight remember earlier we were
+谈论感知
+talking about perception
+以及它如何像聚光灯
+and how it's kind of like a spotlight
+乙酰胆碱使光
+acetylcholine makes that light
+特别明亮
+particularly bright and particularly
+极度局限于
+restricted
+我们经验的一个领域
+to one region of our experience and it
+通过使某些神经元进入
+does that by making certain neurons in
+我们的大脑
+our brain and
+和身体
+and body active
+比其他的要活跃得多
+much more than all the rest so
+乙酰胆碱有点像
+acetylcholine is sort of like a
+荧光笔
+highlighter marker
+画出神经可塑性出现的地方
+upon which neuroplasticity then comes in later
+然后说等等  哪些神经元活跃了？
+and says wait which neurons were active
+在这特别的
+in this particularly
+警惕阶段  无论在白天
+alerting phase of whatever you know day
+或晚上 只要这件事发生
+or night whenever this thing happened to
+它就会这样
+happen
+所以它的工作方式是
+so the way it works is this you can
+想想肾上腺素
+think of epinephrine as creating this
+它创造了这种警惕和令人难以置信的
+alertness and this kind of unbelievable
+注意力增加水平
+increased attention compared to what you
+比你平时更高
+were experiencing before
+你可以认为乙酰胆碱是
+and you can think of acetylcholine as
+是一种分子
+being the molecule
+它突出显示发生的一切
+that highlights whatever it happens
+在警惕感增高的那段时期
+during that period of heightened alert
+所以要清楚一点 是肾上腺素
+so just to be clear it's epinephrine
+创建警觉性
+creates the alertness
+如果感兴趣的话
+that's coming from a subset of neurons
+它(肾上腺素)来自神经元的子集
+in the brainstem if you're interested
+乙酰胆碱来自
+and acetylcholine coming from an area of
+前脑
+the forebrain
+标记那些
+is tagging or marking the neurons that
+在这期间特别活跃的神经元
+are particularly active during this
+提高了警觉性
+heightened level of alertness now that
+标记细胞的神经元和
+marks the cells the neurons and the
+突触
+synapses
+为了加强 为了在未来提高活跃的可能性
+for strengthening for becoming more likely to be
+即使没有我们没有考虑这个事
+active in the future even without us thinking about it
+好吧 所以在糟糕的情况下 这一切
+okay so in bad circumstances this all
+的发生
+happens
+不需要我们做很多事情
+without us having to do much when we
+但如果我们自己想要什么 我们想要
+want something to happen however we want
+学习我们想要的新语言
+to learn a new language we want to
+想要学习更多的新技能
+learn a new skill we want to become more
+想要有更多的动力  我们能确定的是
+motivated what do we know for certain we know that
+获得神经可塑性的过程
+that process of getting neuroplasticity
+以便于我们更加专注
+so that we have more focus more
+更有动力
+motivation
+绝对需要释放
+absolutely requires the release of
+肾上腺素  我们必须保持警惕
+epinephrine we have to have alertness in
+为的是专注
+order to have focus
+而且我们必须专注
+and we have to have focus in order to
+便于主导那些在神经系统的特定部位
+direct those plastic changes
+发生的可塑性变化
+to particular parts of our nervous
+这些对于
+system now this has
+思考神经系统有很大的作用
+immense implications in thinking about
+各种工具 无论是否
+the various tools whether or not those
+是化学物质或是机器
+are chemical tools or machine tools
+或只是自我诱导的方法
+or just self-induced regimens of how
+你要集中多久 多深
+long or how intensely you're going to
+以获得神经可塑性
+focus in order to get neuroplasticity
+但另一方面
+but there's another side to it the dirty
+神经可塑性的一个特征是
+secret of neuroplasticity is that no
+没有任何神经可塑性
+no neuroplasticity
+发生在 你尝试
+occurs during the thing you're trying to
+学习期间
+learn during
+或者在创伤事件期间
+the terrible event 
+亦或是美好的时候
+during the great event
+在你真的是
+during the thing that you're really
+试图塑造和学习的时候
+trying to shape and learn
+实际上 持续的神经元之间
+nothing is actually changing between the
+没有任何变化
+neurons that is going to last
+所有的神经可塑性
+all the neuroplasticity the
+突触的加强
+strengthening of the synapses
+这种增加新神经细胞
+the addition in some cases of new nerve cells
+或至少是增加神经之间的联系的情况
+or at least connections between nerve
+所有都发生在
+cells all of that occurs
+人生的截然不同的阶段
+at a very different phase of life which
+是当我们在
+is when we are in
+睡眠和非睡眠深度休息的时候
+sleep and non-sleep deep rest and so
+人类经历中的节点
+holy grail of human experience of
+比如说 这是新的一年 
+you know this is the new year and
+大家都在想新年计划
+everyone's thinking new year's resolution and
+现在也许一切都井然有序
+right now perhaps everything's organized
+人们很有上进心 但是
+and people are highly motivated but what
+到了三四月份 或者五月份 情况又不一样了
+happens in march or april or may
+ 这取决于
+well that all depends on how much
+当一个人正在尝试学习时
+attention and focus
+取决于他可以不断带给大脑的
+one can continually bring to whatever it
+注意和集中的多少
+is they're trying to learn
+如此之多 以至于需要一定的不安和压力
+so much so that agitation and a feeling of strain are actually required
+为了这个神经可塑性的过程
+for this process of neural plasticity to
+能够被触发
+get triggered
+但实际 发生在
+but the actual rewiring occurs during
+睡眠时间和
+periods of sleep and
+非睡眠深度休息的重新连接
+non-sleep deep rest there's a study
+去年发表有一项研究
+published last year that's particularly
+我特别想分享出来 这项研究
+relevant here that i want to share was
+不是我实验室做的
+not done by my laboratory
+研究表明20分钟的深度休息
+that showed that 20 minutes of deep rest
+这不是深度睡眠 而是
+this is not deep sleep but essentially
+在你做某件非常困难和非常
+doing something very hard and very
+高强度的事情之后 花费20分钟
+intense and then taking 20 minutes
+马上
+afterward immediately afterwards to
+刻意的
+deliberately
+去关闭刻意的集中思考
+turn off the deliberate focused thinking
+和想法
+and engagement
+这加速了神经可塑性
+actually accelerated neuroplasticity
+还有另一项研究
+there's another study that's just
+令人难以置信 我们将会讲到
+incredible and we're going to go into this
+在播客之后的一集中
+in a future episode of the podcast not
+不久之后就会讲到
+too long from now
+表明如果人们正在学习
+that showed that if people are learning
+一种特殊的技能 可能是
+a particular skill it could be a
+语言技能或运动技能
+language skill or a motor skill
+他们听到背景的声音
+and they hear a tone just playing in the background
+这个声音在循环播放
+the tone is playing periodically the
+是铃铛的响声
+background like just a bell
+就在深度睡眠中 如果那个铃声响起
+in deep sleep if that bell is played
+相比于他们清醒的时候
+learning is much faster for the thing
+他们的学习速度要快得多
+that they were learning
+不知怎么的它在睡眠中激发了神经系统
+it somehow cues the nervous system
+不一定是要在做梦
+in sleep doesn't even have to be in dreaming that
+在我们清醒阶段
+something that happened in our the
+发生的事情尤其重要
+waking phase was especially important
+到这样程度以致铃声变成了一种
+so much so that that bell is sort of a
+帕夫洛夫式的提示
+pavlovian cue
+这有点像在提示睡眠的大脑
+it's sort of a reminder to the sleeping
+哦 你需要记住那一天中的特定时间里
+brain oh you need to remember what it is that you were learning at that
+你在学的是什么
+particular time of day and the learning
+而学习速率
+rates
+知识的留存率意味着
+and the rates of retention meaning how
+在那种条件下
+much people can remember from the thing
+人们可以从中记住
+they learned
+他们所学到的  要更多
+are significantly higher under those condition
+所以我要说说如何应用
+so i'm going to talk about how to apply
+所有这些知识
+all this knowledge in
+在这集播客中会说一点
+a little bit more in this podcast
+但以后还会再讲
+episode but also in future episodes
+但这确实说明了真正的关键
+but it really speaks to the really key
+睡眠和注意力 这两个
+of sleep and focus these two
+在相反两端的注意状态
+opposite ends of our attentional state
+当我们在睡觉时
+when we're in sleep
+这些DPO(持续时间/路径/结果)分析
+these dpos duration path and outcome
+是不可能的
+analysis are impossible
+我们就是做不到
+we just can't do that we are only in
+我们只与身体里面发生的事情有联系
+relation to what's happening inside of us
+所以睡眠是关键 另一个关键是
+so sleep is key also key are periods of
+我们的非睡眠深度休息时间
+non-sleep deep rest where we're turning
+在我们对DPO分析中
+off our analysis of duration path and
+特别是对于我们曾经
+in particular for the thing that we were
+只是想学习的东西
+just trying to learn
+而我们处于这种极限状态
+and we're in this kind of liminal state
+我们的注意力有点分散了
+our attention is kind of drifting all
+事实证明 这对于巩固神经细胞之间的变化
+over it turns out that's very important
+非常重要
+for the consolidation for the changes
+这将使我们能够
+the nerve cells that will allow what we
+试图从
+were trying to learn to go from being
+刻意
+deliberate and
+艰难 压力 中脱身
+hard and stressful and a strain to
+转为简单且反射性 这也指出
+easy and reflexive this also points to how
+不同的人 包括许多现代
+different people including many modern
+临床医生正在考虑如何
+clinicians are thinking about how to
+避免
+prevent
+不好的情况下 由创伤带来的
+bad circumstances traumas from routing
+永久地进入我们的神经系统
+their way into our nervous system permanently
+你可能想干涉
+it says that you might want to interfere
+在某些方面
+with certain aspects
+将大脑远离不好的事情发生的状态
+of brain states that are away from the bad thing that happened that happen
+让大脑状态在下一天
+the brain states that happen the next
+或下个月或下一年都远离这些
+day or the next month or the next year
+我也想知道
+and also i want to be aware i want to
+我想确保我
+make sure that i
+有注意到  很多人
+pay attention to the fact that for many
+你在想
+of you you're thinking about
+不仅仅是神经可塑性
+neuroplasticity not just
+在改变你的神经系统以增加
+in changing your nervous system to add
+一些新东西 但也要摆脱
+something new but to also get rid of
+你不喜欢的东西
+things that you don't like
+是吗 你想忘记不好的
+right that you want to forget bad
+经历或至少不要
+experiences or at least remove the
+坏关系的情绪偶然性
+emotional contingency of a bad relationship
+或与某事物的不良关系或
+or a bad relationship to something or
+某人或某事
+some person or some event
+学习少怕某些事情
+learning to fear certain things less to
+消除恐惧症  消除创伤
+eliminate a phobia to erase a trauma
+记忆本身不会被抹去
+the memories themselves don't get erased
+我很遗憾地说 回忆不会
+i'm sorry to say that the memories don't
+自己被抹去 但情感
+themselves get erased but the emotional
+可以减少内存负荷
+load of memories can be reduced
+有很多不同的方式
+and there are a number of different ways
+可以让那发生 但他们都
+that that can happen but they all
+需要我们正在讨论的东西
+require this thing that we're calling
+就是神经可塑性
+calling neuroplasticity we're going to
+我们将会有一个
+have a
+关于神经可塑性的大量讨论
+large number of discussions about
+深度讨论
+neuroplasticity in depth but
+最重要的事情就是
+the most important thing to understand
+这确实是两个阶段的过程
+is that it is indeed a two-phase
+决定警惕和专注之间
+process what governs the transition between
+的转变  以及
+alert and focused and these
+深度休息和深度睡眠状态的转变
+deep rest and deep sleep states is a
+是我们大脑和身体中的系统
+system in our brain and body
+是神经系统的某个部分
+a certain aspect of the nervous system
+称为自主神经系统
+called the autonomic nervous system
+非常重要的是
+and it is immensely important to
+要了解这种自主神经系统
+understand how this autonomic nervous
+如何工作
+system works
+它的名字跟
+it has names like the sympathetic
+交感神经系统和副交感神经系统差不多
+nervous system and parasympathetic
+坦白说 神经系统
+nervous system which frankly
+是复杂的名称 因为它们
+are complicated names because they're a
+有点误导性  交感神经系统
+little bit misleading sympathetic is the
+和警惕性关系更大
+one that's associated with more
+副交感神经系统则
+alertness parasympathetic is the one
+会带来更多的平静
+that's associated with more calmness
+这确实引起误解 因为
+and it gets really misleading because
+交感神经系统
+the sympathetic nervous system
+听起来很有同情感 然后人们
+sounds like sympathy and then people
+认为这与我要平静下来有关
+think it's related to calm i'm going to
+我会称之为警觉系统
+call it the alertness system
+和平静系统 因为即使
+and the calmness system because even though
+交感和副交感是
+sympathetic and parasympathetic are
+有时候用过的人真的会
+sometimes used people really get
+感到困惑
+confused
+所以思考自主性的方式
+so the way to think about the autonomic
+神经系统及其原因
+nervous system and the reason it's
+重要的是
+important for
+生活的方方面面
+every aspect of your life but in
+特别是对于神经可塑性
+particular for neuroplasticity
+并参与这些集中的状态
+and engaging in these focused states and
+然后这些散焦状态
+then these defocus states
+就像跷跷板一样
+is that it works sort of like a seesaw
+每24小时
+every 24 hours
+我们都熟悉这样的事实
+we're all familiar with the fact that
+当我们早上醒来时 我们可能
+when we wake up in the morning we might
+有点昏昏沉沉 但是
+be a little bit groggy but then
+通常我们比较警惕
+generally we're more alert
+然后随着傍晚的来临 我们倾向于
+and then as evening comes around we tend
+变得更加放松
+to become a little more relaxed and
+和困乏 最终
+sleepy and eventually
+晚上某个时候我们要睡觉
+at some point at night we go to sleep so
+我们从警惕
+we go from alert
+到非常平静 然后为了达到这些
+to deeply calm and as we do that we go
+我们的能力从非常
+from an ability to engage in these very
+专注
+focused
+经过DPO分析
+duration path outcome types of analyses
+到了
+to states
+在睡眠中
+in sleep that are completely divorced
+那个状态完全脱离了DPO分析
+from duration path and outcome
+一切都是完全随机的
+in which everything is completely random
+并且不受我们的限制
+and untethered in terms of our
+感觉 感知 感受
+sensations perceptions and feelings and
+之类的
+so forth
+因此 每隔24小时 我们就会进入一个阶段
+so every 24 hours we have a phase of our day
+从最适合思考和
+that is optimal for thinking and
+集中注意力
+focusing
+适合学习  以及有神经可塑性
+and learning and neuroplasticity and
+有精力做各种事情
+doing all sorts of things we have energy
+在一天的另一阶段
+as well and at another phase of our day
+我们累了
+we're tired
+而且我们没有能力集中精力
+and we have no ability to focus we have
+无法参与DPO
+no ability to engage in duration path
+分析
+outcome types of analyses
+有趣的是 两个阶段
+and it's interesting that both phases
+对改变
+are important for
+神经系统到自己想要的状态
+shaping our nervous system in the ways
+都很重要 所以如果我们想调动
+that we want so if we want to engage
+神经可塑性 我们想要
+neuroplasticity and we want to get the most
+发挥神经系统的最大可能性
+out of our nervous system we each have
+我们需要掌握
+to master
+清醒和睡眠之间的过渡
+that both the transition between
+以及
+wakefulness and sleep
+睡眠和清醒之间的过渡
+and the transition between sleep and
+现在已经强调了很多
+wakefulness now so much has been made of
+睡眠的重要性
+the importance of sleep and it is
+对于伤口愈合至关重要
+critically important for wound healing
+对于我刚才提到的学习
+for learning as i just mentioned for
+巩固学习
+consolidating learning
+对于我们免疫系统的各个方面 都很重要
+for all aspects of our immune system
+这是一段
+it is the one period of time in which
+我们没有做DPO的时间
+we're not doing these duration path and outcomes
+这很关键
+types of analyses and it is critically
+对我们健康的各个方面都很重要
+important to all aspects of our health
+包括我们的寿命
+including our longevity
+然而 关于如何
+much less has been made however of how
+得到
+to get
+更好的睡眠  如何让入睡
+better at sleeping how to get better at
+以及熟睡的过程
+the process that involves
+变得更好
+falling asleep staying asleep and
+进入
+accessing
+这些身心状态
+these states of mind and body that
+涉及
+involve
+大多数人不知道的完全瘫痪
+total paralysis most people don't know
+在你大部分的睡眠中
+this but you're actually paralyzed
+你实际上瘫痪了
+during much of your sleep so that you
+你没办法把你的梦境付诸现实
+can't act out your dreams presumably
+但你的大脑总在那里
+but also where your brain is in a total
+处于不受控制的空闲状态
+idle state where it's not controlling
+脑中的剩下一切都是自由状态
+anything it's just left to kind of free run 
+有些事情我们可以做到
+and there are certain things that we can
+都是为了掌握
+all do in order to master that
+这种过渡
+transition
+为了更好地睡眠
+in order to get better at sleeping and
+它涉及的不只是
+it involves much more than just how much
+我们睡了多久  我们都知道
+we sleep we're all being told of course
+需要多睡觉
+that we need to sleep more
+还涉及到睡眠的质量
+but there's also the issue of sleep
+进入到那些深层的睡眠
+quality accessing those deep states of
+非DPO思维
+non-dpo thinking
+进入正确的睡眠时间
+accessing the right timing of sleep not
+到目前为止 已经有很多公开讨论
+a lot has been discussed publicly as far
+我知道什么时候该睡觉
+as i'm aware of when to time your sleep
+我认为我们所有人都知道
+i think we all can appreciate that
+在一天中
+sleeping for half an hour
+抽几个半小时睡觉 这样就有
+throughout the day um so that you get a
+总共八个小时的睡眠
+total of eight hours of sleep
+每24小时一周期  不过这很
+every 24 hour cycle is probably very
+不同
+different
+与实打实睡八个小时相比
+and not optimal compared to a solid
+并不是最佳的
+block of eight hours of sleep
+虽然有些人
+although there are people that have
+尝试这样做  这也被写进
+tried this i think um it's been written
+各种书里
+about in various books
+但没有多少人可以坚持
+not many people can stick to that
+那个时间表
+schedule incidentally i think it's
+那个是超级时间表
+called the ubermen schedule not to be
+不要和Huberman时间表相混淆
+confused with the huberman's schedule
+因为首先我的时间表并不是那样
+because first of all my schedule doesn't
+第二
+look anything like that and second of
+我永远不会尝试这样的
+all i would never attempt such a
+睡眠状态
+sleeping regime
+另一件很重要的事情是
+the other thing that is really important to understand
+我们还没有将其作为一种文化探索过
+is that we have not explored it as a culture
+我们醒来时的节奏状态
+the rhythms that occur in our waking state
+太多的精力集中在
+so much has been focused on the value of
+睡眠的质量和睡眠的重要性
+sleep and the importance of sleep which
+这当然很棒
+is great
+但我不认为大多数人
+but i don't think that most people are
+会注意到
+paying attention to what's happening in
+他们的清醒状态发生的事情
+their waking states and when
+以及他们的大脑何时针对焦点进行了优化
+their brain is optimized for focus when
+他们的大脑针对这些DPO进行了优化
+their brain is optimized for these dpos
+这些持续时间路径结果 的分析
+these duration path outcome types of
+分析学习和改变
+engagements for learning and for changing and when
+他们的大脑可能更适合
+their brain is probably better suited
+进行反射性的思考
+for more reflexive thinking and
+和行为
+behaviors
+事实证明 有一个巨大的
+and it turns out that there's a vast
+科学数据量
+amount of scientific data
+指出被称为“超昼夜节律”
+which points to the existence of what
+的存在
+are called ultradian rhythms
+ 你可能听说过昼夜节律
+you may have heard of circadian rhythms
+昼夜节律意思是
+circadian means
+大约一天 是24小时的节奏
+circa about a day so it's 24-hour rhythms because the
+因为地球每24小时旋转一周
+earth spins once every 24 hours
+超昼夜节律贯穿着一整天
+ultradian rhythms occur throughout the day
+并且需要的时间更少
+in and they require less time they're
+短一点
+shorter
+我们在这次讨论中
+the most important ultradian rhythms for
+最重要的超昼夜节律是90分钟
+sake of this discussion is the 90 minute
+我们正在经历的节奏
+rhythm that we're going through
+一直以来 我们都有能力
+all the time in our our ability to
+参与并专注  在睡眠中
+attend and focus and in sleep we are
+我们的睡眠被分解成90分钟一段
+our sleep is broken up into 90 minute segments
+在深夜 我们有更多的阶段
+early in the night we have more phase
+一阶段和二阶段是较轻的睡眠 然后
+one and phase two lighter sleep and then
+我们进入更深的第三阶段
+we go into our deeper phase three and
+第四阶段睡眠 然后
+phase four sleep and then
+我们回到第一 二 三 四阶段
+we return to phase one two three four so
+整夜你都在经历
+all night you're going through
+这些超昼夜节律
+these ultradian rhythms of stage one two
+一二三四
+three four
+一二三四重复  
+one two three four it's repeating most
+很多人也许知道 也许不知道
+people perhaps know that maybe they don't but
+当你早上醒来时
+when you wake up in the morning
+这些节律继续 着
+these altradian rhythms continue and it
+原来我们
+turns out that we are
+针对焦点和注意力进行了优化
+optimized for focus and attention
+在这90分钟的周期内
+within these 90-minute cycles so that at
+这90分钟之一的开始
+the beginning of one of these 90-minute
+周期也许你坐下来学习
+cycles maybe you sit down to learn
+一些新的东西 或者第一次去做一些
+something new or to engage in some
+具有挑战性的事情
+new challenging behavior for the first
+其中一开始的五到十分钟
+five or 10 minutes of one of those
+众所周知 大脑和
+it's well known that the brain and the
+神经回路和神经调节剂
+neural circuits and the neuromodulators
+不会被调整到最佳状态
+are not going to be optimally tuned to
+无论你要做什么 但是
+whatever it is you're trying to do but
+当你深入那90分钟周期时
+as you drop deeper into that 90 minute cycle
+ 你专注和参与
+your ability to focus and to engage in
+此dpo流程的能力
+this dpo process and to direct
+并主导神经可塑性与学习
+neuroplasticity and to learn
+实际上更好 然后你
+is actually much greater and then you
+最终会跳出这个
+eventually pop out of that at the end of
+90分钟的周期
+the 90-minute cycle
+所以这些周期发生在睡眠中
+so these cycles are occurring in sleep
+这些周期发生
+and these cycles are occurring
+在清醒中 所有这些都是
+in wakefulness and all of those are
+由警惕和冷静  两者如同跷跷板一般
+governed by this seesaw of alertness to
+支配着
+calmness
+我们称之为自主神经系统
+that we call the autonomic nervous
+所以如果你想
+system so if you want to
+掌握并控制 你的神经系统
+master and control your nervous system
+无论你使用什么工具
+regardless of what tool you reach to
+不管是药理学工具
+whether or not it's a pharmacologic tool
+或者一种行为工具
+or whether or not it's a behavioral tool
+又或者是一个脑电接口工具
+or whether or not  it's a brain machine interface tool it's
+至关重要的是要了解
+vitally important to understand
+你的整个存在  正在发生
+that your entire existence is occurring
+在这90分钟的周期内
+in these 90-minute cycles whether or not
+无论你是睡着了还是没有
+you're asleep or awake
+所以你真的需要学习
+and so you really need to learn
+如何
+how to
+进入这90分钟的周期 
+wedge into those 90-minute cycles and
+可以说 完全不明智
+for instance it would be completely
+和适得其反的尝试就是
+crazy and counterproductive to try and
+只是在深度睡眠的时候
+just learn information while in deep
+去直接听这些信息
+sleep by listening to that information
+因为 你无法访问它
+because you're not able to access it it
+但是
+would be
+非常好的是 
+perfectly good however to engage in a
+每天有一段集中的学习
+focused bout of learning each day and
+现在我们就知道学习时的专注的时间
+now we know how long that focused bout
+应该是多久
+of learning should be
+应该至少是90分钟的周期
+it should be at least one 90-minute
+你应该预料到
+cycle and the expectation
+那个的早期阶段
+should be that the early phase of that
+将充满挑战
+cycle is going to be challenging
+会感到难受
+it's going to hurt it's not going to
+不会感觉自然 不会像
+feel natural it's not going to feel like
+流水一般 但你可以学习着这么做
+flow but that you can learn and the
+你大脑中的回路  包括着
+circuits of your brain that are involved
+专注和动力  可以学会去
+in focus and motivation can learn to
+潜心进入集中更多注意力的模式
+drop into a mode of more focus get more
+得到更多  换句话说 神经可塑性
+neuroplasticity in other words
+通过参与这些超昼夜循环
+by engaging these ultradian cycles at
+在一天中的适当时间
+the appropriate times of day
+例如有些人在早上
+for instance some people are very good
+学习效率很高  但到了下午
+learners early in the day and not so
+却并非如此
+good in the afternoon
+所以你可以开始探索这个过程
+so you can start to explore this process
+即使没有
+even without
+任何有关神经化学物质
+any information about the underlying
+的基础信息 只需要集中更多的注意力
+neurochemicals by simply paying attention
+不只是去感受睡觉的时候
+not just to when you go to sleep and
+和每天早晨醒来时
+when you wake up each morning
+主观地感受到  你的睡眠有多深或多浅
+how deep or how shallow your sleep felt to you subjectively
+而且在一整天里
+but also throughout the day when your
+当你的大脑倾向于
+brain tends to be
+最焦虑的时候去集中注意力  因为事实证明
+most anxious because it turns out that
+这与知觉有关
+has a correlate related to perception
+我们将谈论这个  你可以问
+that we will talk about you can ask
+你自己  什么时候最专注
+yourself when are you most focused when
+你最不焦虑的是什么时候
+are you least anxious 
+什么时候最有动力
+when do you feel most motivated
+什么时候你感觉最
+when you feel most
+动力最小的
+at least motivated by understanding
+去理解你不同方面的
+how the different aspects of your
+感觉  感知  感受
+perception sensation feeling
+思想 行动 
+thought and actions tend to want to be
+是否想要调动自己
+engaged or not want to be engaged you
+开了一个很好的窗口  帮助你了解
+develop a very good window into what's
+如果你要
+going to be required
+转移能力来集中精力 需要什么
+to shift your ability to focus or shift
+转移能力来
+your ability
+从事创造性的思维
+to engage in creative type thinking at
+ 你应该在一天中的不同时间里  选择这些时段
+different times of day should you choose
+这就是我们要讨论的
+and so that's where we're heading going
+一切都从掌握
+forward it all starts with mastering
+自主神经系统的跷跷板
+this seesaw that is the autonomic nervous system that at
+课程水平是
+a course level is a transition between
+从觉醒过渡到
+wakefulness
+睡眠 但最后
+and sleep but at a finer level and just
+同样重要的是
+as important
+这些交替周期
+are the various cycles these all trading
+这些90分钟的周期控制着我们的生活
+90-minute cycles that govern our life
+控制着我们每天
+all the time 24 hours a day every day of
+24小时的生活
+our life
+所以我们要谈谈你如何
+and so we're going to talk about how you
+去控制自主神经系统
+can take control of the autonomic nervous system
+这样 你可以更好地利用
+so that you can better access
+神经可塑性  更好地进入睡眠
+neuroplasticity better access sleep
+甚至可以利用
+even take advantage of the phase that is
+睡觉和醒来
+the transition between
+之间的过渡 来接近比如说
+sleep and waking to access things like
+创造力的方法
+creativity
+这些等等 都是基于最近一百年来
+and so forth all based on studies that
+已经出版的研究
+have been published
+主要是
+over the last hundred years mainly
+在过去的十年中新出的研究
+within the last 10 years and some that
+有些是非常新的研究
+are very very new
+并指出使用特定
+and that point to the use of specific
+可以让你
+tools that will allow you to
+充分利用神经系统的工具
+get the most out of your nervous system
+所以今天我们涵盖了很多信息
+so today we covered a lot of information
+像一场旋风之旅
+it was sort of a whirlwind tour of
+从神经元到突触的一切
+everything from neurons and synapses
+自主神经系统中的神经可塑性
+to neuroplasticity in the autonomic
+我们将重温很多
+nervous system we will revisit a lot of
+这些主题 
+these themes going forward
+因此 如果所有这些都没有融合在一起
+so if all of that didn't sink in in one pass
+请不要担心 我们会一遍又一遍地
+please don't worry we will come back to
+回到这些主题
+these themes over and over again
+我想传授你一套通用的词汇
+i wanted to equip you with uh language
+我们
+that we're
+在建立一种通用的基础词汇
+all developing a kind of common base set
+为了之后的信息传递
+of information going forward
+我希望这些信息对你有价值
+and i hope the information is valuable
+你要想想
+to you and you're thinking about
+什么对你有效
+what is working well for you and is
+什么对你没那么有效  
+what's working less well and what's been
+以及极具挑战性的是什么
+exceedingly challenging what's been easy
+以及对你来说容易的是什么
+for you
+根据你对特定事物的追求
+in terms of your pursuit of particular
+行为或情绪状态
+behaviors or emotional states
+ 你的挑战或
+where your challenges or the challenges
+ 你身边的人的挑战
+of people that you know might reside
+正如我们的欢迎视频中所承诺的
+as promised in our welcome video the
+Huberman实验室播客的格式为
+format of the huberman lab podcast is to
+在这一整个月中
+dive deep into individual topics for an
+深入探讨各个主题
+entire month
+在整个一月份
+at a time so for the entire month of
+我们将探索
+january we're going to explore
+这种不可思议的状态  不论是睡眠
+this incredible state that is sleep and
+还是相应的非睡眠状态 
+a related state which is non-sleep deep
+和深度休息
+rest
+以及它们对
+and what they do for things like
+学习  重塑我们的情感能力
+learning resetting our emotional
+的作用
+capacity
+每个人都可能熟悉
+everyone's probably familiar with the
+事实上 当我们睡眠不足
+fact that when we're sleep deprived
+我们
+we're so much
+不太善于处理生活中的情况
+less good at dealing with life
+更多时候
+circumstances we're more
+我们情绪不稳定 为什么会这样
+emotionally labile why is that how is
+但最重要的是 我们要
+that but most importantly we're going to
+谈论如何改善睡眠
+talk about how to get better at sleeping
+以及如何获得更好的睡眠
+how to access better sleep even when
+即便你睡眠的时间或持续时间受到影响
+your sleep timing or duration is compromised
+我们还将讨论支持这个
+we're also going to talk about the data
+非常有趣的状态
+that support this
+的数据 称为非睡眠
+very interesting state called non-sleep
+深度休息
+deep rest
+既不睡觉也不醒的地方
+where one is neither asleep nor awake
+但事实证明 人可以恢复
+but it turns out one can recover
+通过一些神经调节剂等等
+some of the neuromodulators and more
+重要的是
+importantly the processes
+感觉 感知 感受 思维 行动的过程
+involved in sensation perception feeling
+肯定是一个非常丰富的讨论
+it's sure to be a very rich discussion
+来回间 我会回答你
+back and forth where i'm answering your
+问题并提供工具
+questions and providing tools
+我敢肯定 你也会
+and i'm certain you're also going to
+学到很多信息
+learn a lot of information
+关于神经科学及其组成
+about neuroscience and what makes up
+你生命中这个不可思议的阶段
+this incredible phase of your life where
+你以为你没有意识 但是
+you think you're not conscious but
+你实际上是
+you're actually
+重置和更新自己
+resetting and renewing yourself in order
+让自己表现更好
+to perform better
+在清醒状态下感觉更好等
+feel better etc in the waking state if
+如果你想支持播客
+you want to support the podcast please
+点击“赞”按钮并订阅油管
+click the like button and subscribe on
+对我们有任何反馈
+youtube leave us a comment if you have
+请给我们留言
+any feedback for us
+在苹果上  你也可以发表评论
+and on apple you can also leave a review
+和给我们的意见
+and comments for us
+来改善你的播客体验
+to improve the podcast experience for you
+请同时查看我们的赞助商和
+please also check out our sponsors and
+非常感谢 我们下一集
+thank you so much we'll see you on the
+再见
+next episode
+谢谢观看

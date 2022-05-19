@@ -1,0 +1,3806 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到HubermanLab播客
+Welcome to the HubermanLab Podcast,
+我们讨论日常生活中的科学和基于科学的工具
+we discuss science and science based tools for everyday life.
+我是Andrew Huberman 是斯坦福医学院神经生物学和眼科的教授
+I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色是分开的
+This podcast is separate from my teaching and research roles at Stanford.
+然而
+It is,
+这是
+however,
+我的愿望和努力的一部分
+part of my desire and effort
+目的是让大众获得  零成本的关于科学和科学相关工具的消费者信息
+to bring zero cost of consumer information about science and science related tools to the general public.
+为了与这个主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是ExpressVPN
+Our first sponsor is Express VPN 
+ExpressVPN是一个虚拟专用网络
+Express VPN is a virtual private network that keeps your data secure 
+通过路由您的数据和在线活动 通过他们的服务器 确保您的数据安全
+by routing your data and online activities through their servers and keeping your data safe and secure,
+但也防止把你的数据卖给第三方
+but also not selling your data to third parties.
+我开始使用ExpressVPN 因为之前不幸  我的银行账户被黑了
+I started using Express VPN because unfortunately I had my bank accounts hacked.
+我经常旅行 我通常会去酒店 航空公司或其他公共Wifi
+I was traveling a lot and I typically go on hotel or airline or other public Wifi from time to time,
+我不知道这是怎么发生的
+and I don't know how it happened.
+但不知怎么的 我的信息泄露出去了
+but somehow my information got out there.
+当我从我的朋友和在科技圈工作的人那里学到更多的东西之后
+and as I learn more from my friends and people that work in the tech community,
+发现 许多网络并不安全
+it turns out that many networks are not secure.
+有了expressVPN
+So with express VPN,
+它能保证你所有的信息安全
+it keeps all your information secure.
+它保存你的密码信息
+It keeps information about your password.
+安全保证了你所访问网站的信息的安全 正如我之前提到的
+security gives information about the websites that you visit secure and as I mentioned earlier,
+他们从不泄露或出售你的数据
+they never give away or sell your data.
+好处是你可以使用expressVPN
+The nice thing is you can use the express VPN,
+它在后台运行
+it runs in the background,
+你甚至没有意识到它在工作
+and you don't even really realize that it's on it.
+它可以在你的手机上工作
+works on your phone.
+它可以在你的笔记本电脑上工作
+It works on your laptop.
+它甚至可以在你的智能电视上工作
+it even works on your smart TV
+如果你想expressVPN
+If you'd like to try to express VPN,
+你可以去expressvpn.com/huberman  得到三个月的免费体验
+you can go to expressvpn.com/huberman to get three months free on their one year program.
+我喜欢ExpressVPN
+I Love Express VPN,
+我在家的时候也用它
+I use it even when I'm at home.
+如果你想尝试一下
+And so if you want to try it,
+你可以去expressvpn.com/huberman
+you can go to express VPN dot com,
+你将获得三个月的免费体验
+slash human and you'll get three months free on their one year programme.
+今天播客的第二个赞助商是athleticgreens
+The second sponsor of today's podcast is athletic greens.
+Athleticgreens是一种维生素矿物质益生菌饮料
+Athletic greens is a vitamin mineral probiotic drink.
+我在2012年开始喝Athleticgreens 因为我想涵盖我的维生素和矿物质基础
+I started taking athletic greens in two thousand and twelve because I wanted to cover my vitamin and mineral basis.
+我不知道该带什么东西
+I didn't know which things to take.
+我发现我真的很想知道该购买哪些维生素和矿物质
+I found it really desiring to know which vitamins and minerals to purchase and athletic greens allow me to 
+Athleticgreens可以让我得到所有我需要的东西 以覆盖我的基础
+get all the things I needed to cover my bases in one easy to
+ 在一个容易消化的配方 碰巧也很好喝
+consume formula that also happens to taste really good.
+我把它和水和一点柠檬汁混合
+I mix mine with water and a little bit of lemon juice.
+运动蔬菜中的益生菌对我来说也很重要
+The probiotics in athletic greens are also really important to me,
+因为现在有大量数据表明 肠道微生物组
+because now there's an abundance of data showing that the gut microbiome,
+由益生菌支持
+which is supported by probiotics,
+对肠脑通路
+is important for gut brain access,
+对心情
+mood,
+代谢功能
+metabolic function,
+激素功能很重要
+hormone function,
+大量的生物功能和健康参数都很重要
+just a huge number of biological functions and health parameters.
+如果你想尝试Athleticgreens
+If you want to try athletic greens,
+你可以去athleticgreens.com/huberman
+you can go to athleticgreens.com/huberman
+如果你这么做了
+and if you do that,
+他们会给你一年的维生素D3 和K2
+they'll give you a year's supply of vitamin D three K to vitamin D.
+也有很多科学文献的支持表明它对免疫功能很重要
+Three also has a lot of support from the scientific literature showing that it's important for immune function.
+所以如果你去athleticgreens.com/huberman
+So if you go to athleticgreens.com/huberman
+你会得到athleticgreens旅行装和全年所需的维生素D3k2
+you'll get athletic greens plus the year supply of vitamin D three K two,
+他们会给你五个免费旅行包
+and they'll give you five free travel packets.
+因为路上摇粉末总是很难
+Mixing up powders is a little bit messy.
+不管是在旅途中
+Sometimes when you're on the road,
+在车里
+if you're in the car,
+要么在飞机上 要么在路上
+you're on the plane or you are on the move.
+这些旅行包让一切都变得非常干净和方便
+These travel packets make everything really clean and really easy.
+再一次
+Once again,
+这是athleticgreens.com/huberman
+that's athleticgreens.com/huberman
+五个免费旅行包和一年的维生素D3k供应给
+the five free travel packets and the year supply of vitamin D three K 2
+你们中的许多人亲切地询问该如何帮助支持HubermanLab播客
+many of you have graciously asked how you can help support the HubermanLab podcast.
+有几种方法可以做到这一点 其中之一就是查看我们的赞助商
+There are several ways that you can do that one is to check out our sponsors.
+另一件事是我们设立了一个patreon账户
+The other is we've set up a patreon on account.
+你可以去找patreon.com/andrewhuberman
+You can go to a patreon.com/andrewhuberman
+这样你就可以在不同选项上向播客捐款
+and that allows you to donate to the podcast at a variety of different levels.
+此外
+In addition,
+如果你能订阅Youtube上的播客
+if you could subscribe to the podcast on Youtube,
+那就太棒了
+that's terrific.
+如果你还没订阅
+If you haven't done that already,
+可以订阅一下 并留下评论
+please do so and please leave a comment.
+如果你想对未来的节目提出建议
+If you want to make suggestions about future episodes,
+也请把它写在评论部分
+please also put that in the comments section.
+如果你在Apple或spotify上订阅
+If you subscribe on Apple or spotify
+或者全订阅  都能帮助我们
+or both that helps us and as well,
+如果你觉得我们应该得到五星评价 苹果会给你留下一个评价
+Apple gives you the opportunity to leave a review and give us a five star rating if you 
+并给我们五星评价的机会
+feel we deserve a five star rating.
+当然
+and of course,
+请把播客推荐给你的朋友和家人
+please recommend the podcast to your friends to your family members.
+任何你认为能从中受益的人
+Anyone that you think would benefit from the information,
+所以真的
+so really,
+关于如何支持播客这个问题的答案是  你不需要购买产品
+the answer to your question of how you can support the podcast is you don't have to buy products.
+虽然看一下赞助商确实有帮助
+Although checking out the sponsor's does help,
+你不必去patreon捐款
+you don't have to donate to patreon
+当然
+Of course,
+也不能要求你订阅和写评论之类的东西
+can't require you to subscribe and fill out reviews and things of that sort.
+但我们认为 我们提供了多种不同的方式来支持播客
+But we like to think that we're providing a number of different ways to support the podcast,
+有些是零成本的
+some of which are zero cost,
+如果你想
+some of which if you like you,
+可以让你有机会在经济上帮助一下我们
+it gives you the opportunity to contribute financially.
+这也很棒
+That's terrific as well.
+非常感谢大家
+So thank you so much.
+我们真的很感谢你有兴趣帮助我们继续这样做
+We really appreciate your interest in helping us keep this coming your way.
+谢谢你
+Thank you.
+那今天让我们继续讨论神经可塑性
+Let's continue our discussion about neuro plasticity,
+这是我们神经系统不可思议的特点 它可以根据经验改变自己
+this incredible feature of our nervous system that allows it to change itself in response to experience 
+甚至我们可以有意识地 有意识地决定改变它的方式
+and even in ways that we consciously and deliberately decide to change it.
+这是一个不可思议的功能
+That's an incredible feature.
+我们身体里没有其他器官有这种能力
+No other organ in our body has that capability,
+而我们的神经系统
+our nervous system,
+它决定着我们是谁
+which governs everything about who we are,
+我们在做一件事的时候感受如何
+how we feel in what we do does have that capability.
+问题是
+The issue is,
+大多数人不知道如何获得神经可塑性  儿童很容易获得神经可塑性
+most people don't know how to access neuroplasticity children readily access neuroplasticity,
+他们甚至没有意识到自己在做什么
+and they don't even realize that they're doing it.
+成年人很渴望神经可塑性
+Adults want neural plasticity,
+这就是整个月的 HubermanLab播客的内容
+and so that's what this entire month of the HubermanLab podcast has been about.
+我们已经从不同的角度探索了神经可塑性
+We've explored neuroplasticity from a variety of different perspectives.
+我谈到了表征  或者说可塑性
+I talked about representation or plasticity.
+我们谈到了专注和奖励的重要性
+We talked about the importance of focus and reward.
+我们谈到了前庭系统的这个令人惊奇  惊讶的部位
+We talked about this amazing and somewhat surprising aspect of the vestibular system 
+是如何改变我们与重力的关系的
+how altering our relationship to gravity,
+除此之外
+and in addition to that,
+在我们尝试学习的过程中犯错误
+making errors as we try and learn,
+可以打开可塑性之窗
+can open up windows to plasticity.
+但我们还没有真正谈太多  关于将可塑性引向特定方向的问题
+But we have not really talked so much about directing the plasticity towards particular outcomes.
+到目前为止 我们还没有讨论如何减少去除我们不想要的东西
+and thus far we really haven't talked yet about how to undo things that we don't want.
+我谈到了学习 我说你学习一门语言  学习罚球
+I've talked about learning and I say you learn a language learned free throws,
+学习一种特殊的运动技能
+learn a particular motor skill,
+
+但是 我们如何去遗忘
+But what about what we would call unlearning 
+或者去除一些我们不想要的经验呢
+or about removing some aspect of our experience that we don't want?
+所以今天我们将探索神经可塑性的这一方面
+And so today we are going to explore that aspect of neuroplasticity,
+我们将在一个非常重要 且有些敏感的话题背景下进行研究
+and we are going to do that in the context of a very important and somewhat sensitive topic,
+也就是疼痛重置 在某些情况下
+which is pain regeneration and in some cases,
+神经系统的损伤
+injury to the nervous system.
+
+对于那些有幸没有过脑震荡的人
+For those of you that are fortunate enough to not have or had a concussion
+ 或者不认识正在经历慢性或急性疼痛的人
+or not have or know someone who is experiencing chronic or acute pain.
+我鼓励你们听下去
+I encourage you to stay in here with us,
+因为我们要讲的很多信息
+because a lot of the information that we are going to cover
+ 都与神经可塑性有直接的关系
+has direct relevance to neural plasticity for other purposes.
+我们
+We,
+和往常一样
+as always here on this podcast,
+会讨论一些我们所了解的科学机制
+are going to discuss some of the science we get into mechanism,
+但我们也要
+but we also.
+真正理解原则
+Really get at principles.
+原则远比任何一个实验或机制的描述更重要
+Principles are far more important than any one experiment or one description of mechanism 
+当然也比任何一个方法重要得多
+and certainly far more important than any one protocol,
+因为有了原则  可以让你思考你的神经系统 并以最适合你的方式来处理它
+because principles allow you to think about your nervous system and work with it in ways that best serve you.
+它们是非常灵活的信息
+They are very flexible batches of information.
+我们会讲到神经可塑性的原理
+So we are going to talk about the principles of neuroplasticity for removing pain 
+来消除疼痛和促进伤口愈合  我们还会讲到针灸
+and wound healing an injury we're going to talk about acupuncture,
+所有这些
+of all things.
+我们会讲到现代医学正在研究的  如何让衰老的 受伤的 痴呆的大脑
+We are going to talk about modern medicines attempt to try and restore youth to the aging 
+恢复年轻
+or injured or demented brain,
+我们肯定会讲到工具  很多的方法
+and we are going to definitely talk about tools you got a lot of tools.
+我咨询了斯坦福大学很多我的优秀的同事
+I consulted a number of fantastic colleagues at Stanford,
+在哈佛医学院  组织康复领域
+at Harvard Medical School and in the greater community of tissue rehabilitation,
+以及损伤和疼痛管理领域的专家
+injury and pain management.
+为这期播客做好了准备
+in preparation for this podcast.
+我想非常明确地再次提醒大家 我不是医生
+I do want to be very clear and just remind you that I'm not a medical doctor.
+我是一个教授
+I'm a professor,
+所以我不会开任何药  我只说原理  讲道理
+so I don't prescribe anything I profess things.
+我有我的信仰
+I have my beliefs.
+但播客是为了让大众获取信息
+But the podcast is for information purposes.
+我真心希望我们讨论的工具能对你们有所帮助
+I do hope that the tools that we discuss will be a benefit to you,
+但一如既往地
+but as always,
+你应该向你的医生或医疗服务提供者咨询  如果你想计划添加或探索
+you should talk to your doctor or health care provider about any tools that you plan to add or 
+任何工具
+are looking to explore,
+你可能还希望从日常方法中去掉一些要  或者不做什么事情
+as well as anything that you might look to remove from your daily protocols.
+换句话说
+In other words,
+在咨询专家之前  不要做任何改变
+don't change anything without consulting an expert first
+你要对自己的健康负责
+you are responsible for your health,
+不是我
+not me,
+我这么说不只是为了保护我自己
+and I say this not just to protect me,
+也是为了保护你
+but also to protect you.
+所以在接下来的节目中  请记住这一点
+So please keep that in mind as we move forward,
+我很高兴能和你们分享这个信息
+and I'm very excited to share with you this information because I do feel that 
+因为我觉得它可以给很多人带来巨大的好处
+it can be of great benefit to a number of people.
+让我们从讨论疼痛感觉再生和伤口愈合开始
+So let's start our discussion about pain and sensation and regeneration and wound healing with a 
+讨论神经系统中一个非常重要的系统
+discussion about a very important system in the nervous system,
+也就是躯体感觉系统
+which is the somatosensory system.
+躯体感觉系统是
+The somatosensory system is,
+顾名思义
+As the name implies,
+参与理解我们身体上的感觉
+involved in understanding touch physical feeling on our body,
+对躯体感觉系统最简单的理解是  我们有一些传感器
+and the simplest way to think about the somatosensory system is that we have little sensors 
+这些传感器以神经元的形式出现
+and those sensors come in the form of neurons,
+这些神经细胞存在于我们的皮肤和皮肤下面的深层
+nerve cells that reside in our skin and in the deeper layers below the skin.
+我们确实有一些反应
+And indeed we do we have some that correspond to and we should say,
+会对机械触摸作出反应
+respond to mechanical touch.
+比如说在手上施加压力
+So pressure on the top of my hand,
+或者精确定位  其他传感器
+or a pinpoint or other sensors,
+例如
+for instance,
+对冷热有反应
+respond to heat to cold.
+一些人通过皮肤上大量不同的受体对振动做出反应
+Some respond to vibration with a huge number of different receptors in our skin,
+它们接收这些信息 然后把信息以电信号的形式传到我们称之为轴突的回路上
+and they take that information and send it down these wires that we call axons in the form of electrical 
+传到我们的脊髓 然后再传到大脑 到脊髓和大脑内部
+signals to our spinal cord and then up to the brain and within the spinal cord and brain.
+我们有解释信息的中心 这些中心可以理解这些电信号
+We have centers that interpret that information that actually makes sense of those electrical signals,
+这很神奇 因为所有这些传感器都用的
+and this is amazing because none of those sensors has a different,
+同一种传递信息形式
+unique form of information that it uses.
+它们就是把电势传到神经系统
+It just sends electrical potentials into the nervous system,
+所以神经系统
+so the nervous system you somehow decode.
+可以让你知道皮肤的刺激是什么
+What a given stimulus on your skin is,
+也可能是风吹得很轻 你手臂上的毛发稍微有摆动
+or maybe it's the wind blowing gently and deflecting some of the hairs on your on your arm,
+或者它可能是一个尖锐的刺痛 灼热的火炉或炽热的火
+or maybe it's a sharp pinprick where a hot stove or the warmth of a glowing fire that 
+都到达你的神经系统
+all arrives in your nervous system.
+以这些电的形式
+In the form of these electrical things,
+我们称之为动作电位
+we call action potentials,
+这真的太神奇了
+which is just amazing.
+然后到了大脑
+And then the brain.
+就可以计算并理解它们
+Computes them and makes sense of them,
+所以我们有周围感觉神经  在我们的大脑和脊髓中都有感觉神经元
+so we have peripheral sensors and we've got stations up in our brain and within our spinal cord.
+这让所有的感觉都有了意义
+That makes sense of all the stuff coming in.
+疼痛和疼痛的感觉是...不管你信不信
+Pain and the sensation of pain is believe it or not,
+是一个神经科学领域中有争议的词
+a controversial word in the neuroscience field.
+大家更喜欢用
+People prefer to use the word,
+伤害受体
+nociceptors
+伤害受体是皮肤上检测到特定类型刺激的受体
+nociceptors are the sensors in the skin that detect particular types of stimuli.
+它实际上来自于拉丁语
+It actually comes from the Latin word.
+nocirah,
+也就是伤害
+which means to harm.
+为什么神经科学家不想谈论痛苦呢
+and why would neuroscientist not want to talk about pain?
+
+因为这是非常主观的 既有心理因素也有生理因素
+it's very subjective has a mental component and a physical component.
+我们不能说痛苦的产生  只是为了避免对身体的伤害
+We cannot say that pain is simply an attempt to avoid physical harm to the body,
+因为生理上和心理上的痛苦  它们可以彼此分离
+and here's why they actually can be dissociated from one another.
+最好的例子是  (上帝保佑)
+The good example would be if God forbid,
+假设你暴露在高强度的辐射中
+you were exposed to high levels of radiation.
+比如使用某种放射性物质
+Such as working with some sort of material that was radioactive,
+或者  你在一个前放射性工厂附近
+or you know you were near a former radioactive plant or some,
+有一些辐射
+some radiation,
+过度的X射线
+excessive X rays,
+
+做X光检查时你不会感到疼痛
+You wouldn't feel any pain during the X rays.
+事实上 如果你跟我一样做过X光检查
+In fact you don't if you've ever had X rays as I have,
+你什么都感觉不到  他们会把你盖在铅毯下
+you don't feel anything they put you under that lead blanket,
+他们跑到一堵墙后面
+they run behind a wall,
+然后我经历的是  他们给我的牙齿拍x光照
+and then they in my kids and they take these pictures of your teeth.
+真的很可怕 因为你会想  这里一定发生了什么可怕的事情
+It's really scary because you go what something really terrible must be happening here,
+但你没有任何感觉
+but you don't feel anything.
+但可能会有很多组织损伤 可能是突变
+But there can be a lot of tissue damage that can be mutations,
+细胞会受到这些伤害
+introduced to cells,
+
+我做过X光检查
+I've had X rays.
+我不是说人不应该去做X光检查
+I'm not saying people should have X rays,
+但是过多的X光照射肯定对人类不好
+but Excessive X Ray certainly are not good for human beings.
+同样的
+Likewise,
+由于受到过多的辐射
+with excessive exposure to any radiation,
+所以在没有身体感知或精神感知疼痛的情况下  也会有组织损伤
+so there can be tissue damage without the physical perception or mental perception of pain at all as well.
+可以是对疼痛的相信  或者没有组织损伤的疼痛感
+There can be the belief of pain or the feeling of pain without there being tissue damage.
+英国医学期刊 上发表了一个著名的案例
+And there's a famous case that was published in the British Journal of Medicine,
+那里有建筑工人
+Where a construction worker.
+我记得他是摔下去了
+I think he fell is how the story went,
+一颗14英寸的钉子穿过了他的靴子
+and a fourteen inch nail went through his boot and up through the boot,
+他经历了前所未有的剧痛
+and he was in excruciating pain just beyond anything he had experienced,
+他说他甚至不能动弹
+he reported that he couldn't even move in any dimension,
+哪怕只有一点点 就会感到剧痛
+even a tiny bit without feeling excruciating pain.
+救护车把他从诊所带到了医院
+they brought him into the clinic into the hospital.
+他们剪下了靴子
+They were able to cut away the boot,
+他们发现指甲夹在两根脚趾之间
+and they realized that the nail had gone between two toes,
+实际上 它根本没有穿过皮肤
+and it had actually not input impelled the skin at all;
+钉子穿过靴子的这种视觉图像  给了他一种感觉  一种合理的感觉
+his visual image of the nail going through his boot gave him the feeling the legitimate feeling that 
+他正在经历一种疼痛 一个钉子穿过他的脚
+he was experiencing the pain of an ail going through his foot.
+这是不可思议的 因为它说明了在这种疼痛场景中  大脑的力量
+Which is incredible because it speaks to the power of the mind in this pain scenario,
+这也说明了这种力量的特殊
+and it also speaks to the power of the specificity.
+它不像
+It's not like.
+他以为自己的脚没救了
+He thought that his foot was on fire,
+他想的是
+he thought,
+因为他看到一个钉子穿过了他的脚
+because he saw a nail going through his foot.
+不对  是穿过了他的靴子
+What was going through his boot,
+但他认为
+but he thought,
+穿过了他的脚
+was going through his foot,
+然后产生了一种真的像钉子穿过一样的剧痛
+that it was sharp pain of the sort that a nail would produce.
+有成千上万的这样的案例报告
+And there are thousands of these kinds of case reports out there.
+
+这并不是说我们脑海中经历的所有痛苦都是这样
+that is not to say that all pain that we experiences in our head,
+但这确实说明了这些自上而下的高级认知功能  有惊人的能力
+but it really speaks to the incredible capacity that these top down these higher level cognitive functions 
+可以解释我们在周围神经上经历的事情
+have in interpreting what we're experiencing out in the periphery,
+即使仅仅基于我们所看到的和辐射的例子
+even just on the basis of what we see and the example radiation speaks to the fact 
+也说明了疼痛和组织损伤是相互分离的
+that pain and tissue damage are dissociated from one another.
+那为什么我们要在神经可塑性的一个月里讨论疼痛？
+So why are we talking about pain during a month on neural plasticity?
+
+事实证明 疼痛系统为我们提供了许多不同的原则
+it turns out that the pain system offers us a number of different principles that 
+我们可以利用这些原则来确保 如果我们受伤了
+we can leverage to a ensure that if we are ever injured,
+我们能够理解  感受到受伤和疼痛之间的区别
+we are able to understand the difference between injury and pain.
+因为这是有区别的 如果我们曾经感到疼痛
+because there is a difference that if we're ever in pain that
+ 我们可以理解受伤和疼痛的区别
+we can understand the difference between injury and pain,
+这样我们就能解释我们的痛苦
+that we will be able to interpret our pain.
+在今天的播客中
+And during the course of today's podcast,
+在这节课中 我要讲的是帮助消除疼痛的方法  从周围系统
+I'm going to cover protocols that help eliminate pain from both ends of the spectrum from the periphery at  
+到受伤的层面  以及通过这些自上而下的心理机制
+the level of the injury and through these top down mental mechanisms a lot of times on this podcast.
+事实上
+In fact,
+大多数情况下
+mostly,
+我倾向于把重点放在生理学上  那些你可以描述和谈论的客观事物
+I tend to center on the physiology on the really objective things that you can describe and talk about 
+膈肌运动或特定数量光子的阳光
+diaphragmatic movement or sunlight of a particular number of photons,
+
+但是今天是一个非常激动人心的时间   让我们来讨论一些更主观的事情
+But today is a really exciting opportunity for us to discuss some of the more subjective things.
+信不信由你
+Believe it or not.
+我们来谈谈爱
+We're going to talk about love.
+我在斯坦福大学的一个同事  经营着一家大型的疼痛诊所
+A colleague of mine at Stanford who runs a major pain clinic,
+在研究 并发表了关于爱在调节疼痛反应中的作用  高质量同行评审数据
+Working on and has published quality peer review data on the role of love in modulating the pain response,
+里面有一点点的改变
+only there's a twist to it,
+我现在还不打算透露
+and I'm not going to reveal it just yet.
+但事实证明 一个人与浪漫伴侣之间的特定联系类型
+But it turns out that the specific type of connection one has to a romantic partner actually
+ 实际上决定了他们的爱是否能够减轻身体疼痛 而且效果真的很强烈
+dictates whether or not their love for them will alleviate physical pain and the effects are really robust.
+这是一部令人惊叹的文献
+It's an amazing literature.
+所以我们今天要讲的是知觉的可塑性
+and so what we're talking about today is plasticity of perception,
+它直接影响着情感上的痛苦  也直接影响着创伤和其他一些
+which has direct bearing on emotional pain and has direct bearing on trauma and other things 
+我们在之前的几期播客中讨论过的事情
+that we've discussed in previous episodes a little bit,
+但是我们会在一个月的时间里对这些主题进行更多的探讨
+but that we are going to explore even more in an entire month about those topics.
+让我们开始想一下  疼痛会发生什么
+So let's get started in thinking about what happens with pain,
+我会描述一些极端情况的例子
+and I will describe some examples of some kind of extreme cases.
+例如
+For instance,
+我现在要告诉你们有一个突变
+I will tell you just now that there is a mutation,
+一种特定钠通道的基因突变
+a genetic mutation in a particular sodium channel,
+钠通道是神经元上的一种小孔 它可以让神经元发出动作电位
+a sodium channel is one of these little holes in neurons that allows them to fire action potentials.
+这对神经元的功能很重要
+It's important to the function of the neuron.
+它对某些神经元的发育也很重要
+It's also important for the development of certain neurons,
+有一种特殊的突变
+and there's a particular mutation.
+有些孩子天生就没有钠离子通道
+There are kids that are born without this sodium channel.
+如果你想查的话  是Nav1.7
+one point seven if you want to look it up.
+那些孩子感受不到疼痛
+Those kids experienced no pain,
+没有任何痛苦
+no pain whatsoever,
+这是一个可怕的情况
+and it is a terrible situation.
+他们
+They burn themselves,
+他们会在一个姿势下保持很久
+they tend to rest on their limbs too long.
+他们不会做微小的调整
+They don't make the micro adjustments 
+你可能会看到我在椅子上转来转去
+you might see me swivelling around in my chair moving around a lot.
+这些微小的调整其实是正常的
+Those micro adjustments are actually normal,
+健康的微小调整 防止我们陷入身体的疼痛
+healthy micro adjustments that prevent us from going into pain,
+但他们不会做这些调整
+they don't make those adjustments.
+他们不会得到反馈说  他们处在一个特定的位置太久了 要动动
+They don't get the feedback that they're in a particular position,
+他们从不做这些调整 然后关节就会被破坏
+and so they never make those adjustments and their joints get destroyed.
+从本质上讲
+Essentially,
+由于意外事故 他们往往活不了多久
+they don't tend to live very long due to accidents,
+这真是一个可怕且不幸的情况
+it's a really terrible an unfortunate circumstance.
+有些人在同一个通道中有突变 他们在这个通道中产生了过多的离子
+Some people have a mutation in the same channel where they make too much of this channel,
+然后他们会感到太多的痛苦
+so they feel too much pain.
+事实上
+In fact,
+这是合理的
+it's reasonable.
+人们对疼痛的敏感性之所以不同的原因之一 不是全部 而是其中一个原因
+To speculate that one of the reasons not all but one of the reasons why people might differ in their 
+是由于基因的差异 即他们所表达的这类受体的数量不同
+sensitivity to pain is by way of genetic variation in how many of these sorts of receptors that they express.
+那些过度依赖这种受体体验的人
+People who make too much of this receptor experience,
+即使是细微的刺激也会带来极度的痛苦
+extreme pain from even subtle stimuli.
+现在的好消息是 有很好的药物治疗可以专门阻断这种钠通道Nav1.7
+Now the good news is there are good drug treatments that can block specifically this sodium channel,
+所以这些人在服用这些药物后  可以得到很大的缓解
+one point seven and so those people get a lot of relief from taking such drugs so pain 
+所以 疼痛以及我们对疼痛的敏感程度或不敏感程度可能是有基因基础的
+and how much pain we are sensitive to or insensitive to probably has some genetic basis.
+然后
+and then,
+当然
+of course,
+我们可以做一些事情来确保我们经历的痛苦更少
+there are things that we can do to make sure that we experience less pain,
+虽然疼痛有这种适应性的作用
+although pain has this adaptive role.
+让我们来谈谈我们的身体是如何形成的
+so let's talk about some of the features of how we're built physically
+ 以及它与疼痛的关系以及我们如何从受伤中恢复
+and how that relates to pain and how we can recover from injury.
+首先
+So first of all.
+我们的大脑中有我们体表的地图
+We have maps of our body surface in our brain.
+它被称为生命体(侏儒)  在老鼠身上就叫鼠侏儒
+It's called a homunculus in a rat.
+真的
+Believe it or not,
+这不是我编的
+I'm not making this up.
+它叫鼠侏儒
+It's called a Rat Oculus,
+在科斯特洛身上
+in Costello,
+在我身后打呼噜的狗身上
+my dog or snoring behind me.
+就叫狗侏儒
+It's a dogunculus
+我可以讲一下命名法  以及它为什么叫这个
+I could get into the nomenclature and why it's called this,
+但它基本上是身体表面的一种表现
+but it's basically a representation of the body surface.
+这种表现  以一种匹配灵敏度的方式进行缩放
+That representation is scaled in a way that matches sensitivity,
+所以你身体最敏感的部位  大脑就有更多的空间给它们
+so the areas of your body that are most sensitive have a lot more brain real estate devoted to them.
+与你的指尖相比 你的背部是一块巨大的组织
+Your back is an enormous piece of tissue compared to your fingertip,
+但是你的背部受体较少
+but your back has fewer receptors devoted to it,
+你的背部在大脑中的表征实际上非常小
+and the representation of your back in your brain is actually pretty small,
+而你的手指的表征是巨大的
+whereas the representation of your finger is enormous.
+所以某个特定身体部位在大脑所占面积有多大
+so the how big a brain areas devoted to a given body part is 
+直接与该身体部位的受体密度有关
+directly related to the density of receptors in that body part,
+而不是身体部位的大小
+not the size of the body part.
+这就是为什么
+And that's why,
+如果我们画出你的侏儒  或者科斯特洛的狗侏儒
+if we were to draw your homeowners' Keyless or Costello's Dog Oculus,
+我们会发现 某些区域
+what we would find is that certain areas,
+比如嘴唇 指尖 生殖器 眼睛这些面部周围的区域
+like the lips like the finger tips like the genitalia like the eyes in the area around the face
+都有很大的一块表征
+would have a huge representation.
+而后背
+Whereas the back,
+较不敏感的躯干  就只有较小的一块表征
+the torso and areas of the body that are less sensitive are going to have smaller representation.
+所以它会是一个非常扭曲的对应
+So it'll be a very distorted map.
+你可以通过所谓的 点识别 来了解身体某个部位的敏感度
+You can actually know how sensitive a given body part is and how much brain area is
+ 以及大脑中有多少区域与之相关
+devoted to it through what's called to point discrimination,
+如果你愿意 你可以做这个实验
+you can do this experiment if you want.
+我想我之前已经描述过一两次了
+I think I've described this once or twice before.
+基本上就是
+But basically,
+如果有人
+if you have someone put,
+拿两支笔 把它们分开6英寸放在你的背上
+Maybe take two pens and put them maybe six inches apart on your back and touch 
+当你背对着他们的时候 他们会问你有多少个点 你可能会说  2个
+while you're facing away and they'll ask you how many points they're touching you and you say to.
+但如果它们靠得更近
+But if they move those closer together,
+比如3英寸
+say three inches,
+你可能会把它当做一个接触点来感受
+you're likely to experience it as one point of contact,
+而你的手指就可以做到一直区分感受两个点
+whereas on your finger you could do that.
+你可以整天玩这个游戏
+Play that game all day,
+只要有一毫米左右的距离
+and as long as there's a millimeter or so spacing,
+你的指尖就会知道它有两个点 而不是一个点
+you will know that its two points as opposed to one.
+那是因为有更多的小块面积
+And that's because there's more pixels,
+更多的受体密度
+more density of receptors.
+这与疼痛有直接关系 因为  身体的某些部位有更密集的受体
+This has direct bearing to pain because it says that areas of the body that have denser receptors 
+它们对疼痛比其他部位更敏感 有更多的受体
+that can be more sensitive to pain than to others and where we have more receptors,
+我们会有更多的血管和神经节
+we tend to have more blood vessels and ganglia which are these 
+是一些支持细胞和其他细胞  有助于炎症的产生
+support cells and other cells that lend to the inflammation response.
+这一点非常重要
+And that's really important.
+根据经验 你身体受伤的部位
+So just as a rule of thumb areas of your body that are injured,
+在受伤后  敏感性较低的大面积区域  可能会经历较少的疼痛
+That are large areas that have low sensitivity before injury likely are going to experience less pain,
+文献显示 它们的愈合速度会更慢
+and the literature shows will heal more slowly 
+因为周围没有足够多的细胞产生炎症
+because they don't have as many cells around to produce inflammation.
+你可能会说
+And you might say,
+什么  炎症不是坏事情吗
+Wait if that inflammation is bad.
+
+今天我想讲   炎症并不是坏事
+one of the things I really want to get across today is that inflammation is not bad.
+失控的炎症才是坏事
+Inflammation out of control is bad,
+但是炎症本身是很好的
+but inflammation is wonderful.
+炎症是组织修复反应
+Inflammation is the tissue repair response,
+我们将讨论组织损伤后调节炎症的主观和客观方法
+and we are going to talk about subjective and objective ways to modulate inflammation after tissue injury,
+即使只是在
+even after just exercise.
+激烈运动之后
+that's been too intense,
+好
+OK,
+这是你身体表面的地图
+so you have this map of your body surface,
+它不同部位有不同的敏感程度
+its sensitive in different ways.
+现在你知道原因了
+Now you know why.
+你已经掌握了一些神经生物学上的躯体感受
+so you've got your neurobiology of somatosensation one or one under your belt.
+我们并没有涵盖所有内容
+Now we didn't cover everything,
+但是我们会讲到一些其他的细节
+but we'll touch on some of the other details.
+在不久之后
+As we go forward,
+我认为现在正好可以来思考一下  中央地图上的周围神经之间的关系
+I thought it might be a nice time to just think about the relationship between the periphery in the central 
+很多人可能已经听说过
+maps in a way that many of you have probably heard about before,
+这样可以更好地展开讨论
+Which will frame the discussion a little bit better,
+也就是幻肢痛
+which is phantom limb pain.
+你们有些人可能对这个很熟悉
+Some of you are probably familiar with this,
+但对于那些胳膊 腿 手指或身体其他部位被截肢的人来说
+but for people that have an arm or a leg or a finger or some other portion of their body amputated,
+会觉得他们的肢体  或身体的某个部分仍然完好无损
+it's not uncommon for those people to feel as if they still have that limb or appendage or piece of their body 
+这种现象并不罕见
+intact and typically,
+不幸的是
+unfortunately,
+这个肢体的感觉并不是舒服和放松的
+the sensation of that limb is not one of the limb being nice and relaxed in it and you know,
+或者只是感觉到在那
+and just there,
+感觉到的是  肢体在经历疼痛  在受伤时
+the sensation is that the limb is experiencing pain whereas contorted in the specific orientation 
+我们的感觉向特定方向扭曲了
+that it was around the time of the injury.
+所以如果有人的手受到了钝器的冲击 最后他们的手被截肢了
+So if someone has a blunt force to the hand and they end up having their hand amputated,
+通常情况下
+typically,
+他们会继续感受到幻肢手的疼痛
+they will continue to feel pain in your phantom hand,
+这很疯狂
+which is pretty wild.
+这是因为那只手在大脑皮层的表征仍然是完整的
+And that's because the representation of that hand is still intact in the cortex in the brain,
+大脑试图平衡自己的活动水平
+and it's trying to balance its levels of activity.
+通常情况下
+Normally,
+这就是所谓的本体感觉反馈
+it's getting what's called proprioception Feedback.
+本体感觉是我们在空间中对四肢位置的认识
+Proprioception is just our knowledge of where our limbs are in space.
+这是我们身体感觉系统中非常重要的一个方面 没有本体感觉反馈
+It's an extremely important aspect of our somatosensory system and there's no proprioception feedback,
+所以很多回路的活动水平开始提高
+and so a lot of the circuit start to ramp up their levels of activity 
+他们开始有非常强的幻肢意识
+and they become very conscious of the phantom limb.
+
+在我的实验室搬去斯坦福大学之前
+before my lab was at Stanford,
+我在
+I was at U.
+加州圣地亚哥  我的一个男同事
+C San Diego and one of my colleagues was a guy.
+大家都直呼他的姓
+Everyone just calls him by his last name,
+Romanchandran,
+他以研究幻肢现象而闻名  并提出了一种非常简单但非常强大的解决方案
+who is famous for understanding this Phantom limb phenomenon and developing a very simple but 
+证明了自顶向下机制调节的惊人能力
+very powerful solution to it that speaks to the incredible capacity of top down modulation
+ 而自顶向下机制
+and top down modulation.
+使用大脑的能力
+The ability to use one's brain,
+控制身体疼痛的认知和感觉是每个人
+cognition and senses to control pain in the body is something that everyone,
+不只是缺肢的人可以在慢性疼痛中学习  从中受益
+not just people missing limbs are in chronic pain to learn to benefit from 
+因为这是一种利用我们的思维来控制对我们身体所发生的事情的
+because it is a way to tap into the our ability to use our mind to control perceptions of 
+感知的能力
+what's happening in our body.
+这不是一个神秘的理论
+and this is not a mystical statement.
+这与思想无关
+This is not about mind.
+不是大脑能控制我们对自己身体的感知
+I guess as much as his brain to control our perceptions of our body.
+Romachandran让那些失去肢体的人  把他们完整的肢体放进一个盒子
+So what did Romachandran and Do Romachandran had people who were missing a limb put their intact 
+里面有镜子  这样当他们往盒子里看的时候  他们就可以好像是在移动他们完整的肢体
+limb into a box that had mirrors in it such that when they looked in the box and they moved their intact limb,
+其实是相反的肢体
+the opposite limb,
+这是完整肢体的反射
+which was a reflection of the intact limb.
+因为他们失去了另一侧的肢体
+Because they're missing the opposite limb.
+当他们移动自己完整的肢体时  他们会认为它是完整的
+They would see it as if it was intact and as they would move their intact limb,
+他们会想象
+they would visualize,
+用他们的眼睛
+with their eyes.
+在缺失的位置上  有一个完整的肢体
+The limb that's in the place of the absent limb,
+这都是通过镜子的移动  他们会立即感觉到幻肢痛的缓解
+so this is all by mirrors moving around and they would feel immediate relief from the phantom pain.
+他会告诉他们
+and he would tell them,
+让他们把手指向他们觉得舒服的方向
+and they would direct their hand toward a orientation that felt comfortable to them.
+然后他们就会
+Then they would exit.
+从镜子盒子里出来  会把他们的手拿出来
+The mirrored box will take their their their hand out,
+他们会觉得那只手现在处于放松的正常位置
+and they would feel as if that hand was now in its relaxed normal position 
+这样你就可以马上观察到
+so you could get real time in moments.
+重新映射手的表征
+Re mapping of the representation of the hand.
+这非常神奇
+That's amazing.
+这是我们所有人在痛苦时都想做的事情
+This is the kind of thing that all of us would like to be able to do if we are in pain.
+如果你踢到脚趾头
+If you stub your toe,
+如果你摔断了脚踝
+if you break your ankle,
+如果你骑着自行车  摔了一跤
+if you take a hard fall on your bike,
+或者如果你患有慢性疼痛
+or if you're in chronic pain,
+如果能用到这种避免疼痛的技巧  岂不是很好
+wouldn't it be amazing to be able to use minding trick?
+但这不是一个骗人的把戏  因为这是真实的视觉图像来重新映射你的体表
+But it's not a trick right because it's real visual imagery to re map your representation of your body surface 
+你的身体在哪里 这是我们都可以受益的东西
+and where your body is that is something that we could all benefit from,
+因为如果你做一件事的时间够长
+because if you do anything for long enough,
+包括生活
+including live,
+你会经历某种疼痛
+You're going to experience pain of some sort,
+而且
+and this again.
+我只是想提醒你们  不仅仅是身体上的伤害和疼痛
+I just want to remind you isn't just about physical injuries and pain.
+这也与情感上的痛苦直接相关
+This has direct relevance to emotional pain as well,
+这个问题我们当然之后会讨论
+which of course we'll talk about.
+所以Romachandran的研究影响是非常大的  因为他们为之后的研究奠定了基础
+So the Roma Chandran studies were really profound because they set a couple of things.
+一是  可塑性可以非常快
+One plasticity can be very fast,
+它可以被一些东西的体验所驱动  仅仅是一种视觉体验就可以
+that it can be driven by the experience of something just a visual experience.
+他让
+He had.
+人们做这种镜子盒子的事情 但如果不看镜子  那么他们没有得到重新映射
+People do this mirror box thing but not look into the mailbox and they didn't get the re mapping.
+所以这可塑性需要视觉图像的介入
+so it required visual imagery coming in.
+我们也知道
+We also know,
+例如
+for instance,
+比如那些先天耳聋的人
+that in cases like where people are congenitally deaf.
+人工耳蜗植入
+The cochlear implant,
+简单地说 这并不简单
+which is simply a way of putting it's not simple,
+但这是一种将耳蜗替换掉的方法
+but it's a way of putting in a device that replaces the cochlea that the device that 
+有的人的耳蜗 天生就有这种小的
+were normally born with in the ear that has these little.
+所谓的毛细胞  会随着声波发生偏转
+What are called hair cells had deflect according the sound waves,
+用这种人工耳蜗助听器
+and allow us to hear by replacing the normal hearing apparatus that's deficient 
+可以让失聪者得到正常听力
+in deaf people with this cochlear implant,
+大脑可以理解这个人造耳朵
+the brain can make sense of this artificial ear.
+基本上
+Basically,
+不是外面
+it's not the outside.
+不是外部 而是内耳
+We are not the pinnacle but the inner ear,
+它们可以开始听到声音
+and they can start to hear sounds.
+
+有些人真的很喜欢人工耳蜗 他们确实从中受益
+Some people really like the artificial cochlea they really benefit from.
+它能帮助恢复他们的听力
+It restores their ability to hear,
+而且他们很喜欢
+and they like it.
+有些人不喜欢
+Other people don't.
+有些失聪的人宁愿听不见任何对他们来说非常有破坏性的东西
+Some deaf people would prefer not to hear anything can be very disruptive to them,
+其中一些可能需要
+and some of that might have to do with the need for further,
+更好的人工耳蜗被制造出来
+better engineering of these artificial cochlea.
+但所有这些都说明了一个事实 那就是大脑是一个自适应的装置
+But all this really speaks to the fact that the brain is an adaptive device.
+你给它什么 它就会做出反应
+It will respond to what you give it.
+它不是一个固定的装置
+It is not a device that is fixed.
+事实上
+In fact,
+大脑的本质
+the essence of the brain,
+尤其是人类的大脑  就是接受感官输入并理解它们
+Especially the human brain is to take sensory inputs and to make sense of those.
+也就是认知感觉 然后解释这些信号
+meaning cognitive sense and then to interpret those signals.
+这可能会让你们有些人感到震惊
+and so this may come as a shock to some of you.
+我绝不是想表现得麻木不仁
+and by no means am I trying to be insensitive.
+但是我想说  疼痛是一种感知
+But pain is a perceptual thing.
+它就像是一种物理现象一样
+As much as it's a physical thing.
+它是一种关于你身体所经历的事情的信念体系
+It's a belief system about what you're experiencing in your body,
+这对治疗有着重要意义
+and that has important relevance for healing.
+在人们追求神经可塑性的过程中  治疗不同类型的损伤  以及治疗与这种损伤相关的疼痛
+different types of injury and the pain associated with that injury in people's pursuit for neural plasticity,
+每隔一段时间就会出现的一个问题是
+a question that comes up every once in a while is people.
+有人问
+Say,
+
+如果我连续几个晚上用相反的手刷牙
+if I just brush my teeth with the opposite hand for a couple nights in a row.
+我会得到神经可塑性吗 答案可能是 大概会
+will I get neuroplasticity and the answer is probably yes,
+我的意思是  这确实是有意识的改变  你专注于它
+I mean to deliberate action you're focusing on it.
+有一个最终目标
+There's an end goal.
+你很可能会犯这样的错误 比如你一开始刷的时候会疯狂戳嘴唇和牙龈
+you're very likely to make errors like you're driving along and your lips and gums at first 
+然后变好了
+and then getting better out in,
+正如你在上一期中听到的
+as you heard in the last episode,
+犯错是非常重要的  因为这些错误的信号是可塑性需要的
+making errors is really important because those errors of the signal that plasticity needs to happen 
+然后当你得到正确的行为时  这些正确的行为就被植入你的大脑了
+and then when you get the actions correct than those correct actions are programmed in.
+但我不确定  用另一只手刷牙是不是  我们这种不可思议的可塑性的
+I'm not sure that brushing one's teeth with the opposite hand is the most effective use of this incredible 
+用武之地
+thing that we have,
+这可是可塑性啊
+which is plasticity.
+可塑性还挺有限的  不会随便出来
+It's not going to open up plasticity for many other things.
+如果这对你真的很重要
+So if that were really important to you,
+不管是什么原因
+for whatever reason,
+也许当厕所很拥挤的时候 用一边刷比另一边更容易
+maybe when crowded bathroom and it's easier to on one side or the other than fine.
+但很难想象为什么  这也不是一种高度适应的行为
+But it's kind of hard to imagine why this would be a highly adaptive behavior.
+除非你受伤了或者缺了一条手臂
+Unless of course you have an injured limb or you're missing a limb,
+这让我想到了一些非常激动人心和重要的研究
+and that gets me to some really exciting and important.
+大多是在90年代进行的
+Studies that were were performed mostly in the nineties,
+还有2000年 现在有一个坚实的数据基础
+as well as in the two thousand and that for now there is really a solid base of data 
+是一大堆的实验
+is really a center of mass around.
+都表明有特定的方法 可以来克服运动损伤
+A particular set of experiments that point to particular protocols for how to overcome motor injury 
+这可能会与你们中的一些人产生共鸣
+and this may resonate with some of you who've ever been injured to the point 
+曾经受伤  有一段时间不能正常的行走
+where you couldn't walk well temporarily.
+可能甚至更久
+I hope or even longer,
+想想脚踝扭伤  或者手臂骨折的情况
+so think about a sprained ankle scenario or a broken arm scenario.
+我们都熟悉这样的故事  人们戴上石膏
+We're all familiar with the stories of people having a cast on and then 
+然后  取下石膏  很长时间都没有用这个肢体了
+getting the cast off in the particular limb that wasn't being used that was cast.
+它缩小了很多
+It is much smaller,
+萎缩了
+an atrophied.
+大部分肌肉都萎缩了
+most of that atrophy,
+你可能会惊讶  因为不是因为肌肉没有被使用
+you might be surprised to learn is not because the muscles aren't being used.
+而是因为向这些肌肉发送信号的神经不活跃
+It's because the nerves sending signals to those muscles are not active and 
+因此肌肉在萎缩
+therefore the muscles are contracting.
+是一个叫蒂莫西的人
+Work done by a guy named Timothy Shallower.
+他的研究生和博士后在2000年向Jones和其他90年代的人
+And his graduate students and post docs to recent Jones and others in the nineties in two thousand 
+展示了一些非常棒的东西  我认为如果我们受伤了  我们都能从中受益
+showed something really wonderful that I think we can all benefit from should we have an injury 
+即使我们只是想让我们运动机能的不平衡好一点
+and even if we simply want to balance out imbalances in our motor activity,
+我认为我们所有人在某一边或另一方面都会更强壮
+and I think all of us tend to be stronger on one side or the other side.
+通常惯用右手的人  比左手更有力
+Usually a righthanded person will be stronger in their left arm.
+并不是为了补偿的原因
+Not always for compensatory reasons.
+改天我们再谈手写字这个事情
+Some other time we talk about handwriting,
+也有可能左撇子的右臂可能更强
+the lefties likely will be stronger in the right arm,
+虽然这取决于人们是不是经常用右手
+although it kind of depends on whether or not people are hook righties.
+比如习惯用左手去钩住别人 而不是右手
+That's when you kind of hook around him right from the top or hook lefties,
+关于这个有各种各样的理论 我们到时候可以谈论右脑和左脑
+they're all sorts of theories about this that we can talk about right brain left,
+大脑的数学能力等等
+brain math proficiency,
+
+任何事情
+Any event.
+shallower和他的同事们表明 如果我们的大脑受到了损伤
+What shallower and colleagues showed was that if we have damage to our brain.
+在感觉运动通路中
+In the sensory motor pathways,
+任何不同的感觉运动通路
+any number of different sensory motor pathways,
+或者肢体受损  可能是腿 也可能是手
+or we have damage to a limb could be a leg or an arm could be hand.
+限制好的那边的活动  会有更好的恢复效果
+There is great benefit to restricting the use of the opposite better performing uninjured,
+不管是肢体 手或身体的其他部分  好的那边
+limb or hand or other part of the body.
+他们有十几篇论文表明 如果大脑中央有损伤
+They had about a dozen papers showing that if there was damage centrally in the brain,
+或者是肢体收到了伤害  单边的上海
+or there was damage to limps a unilateral damages.
+一边受伤了
+We say one side.
+要做的事情  不是把受伤的一面投影给你
+The thing to do is not to cast up the damage side,
+尽管你需要这样做来保护受伤的肢体
+although you need to do that to protect the limb,
+当然
+of course,
+不要再受伤了
+from further damage.
+所以比如胳膊断了
+so it's a broken arm,
+你需要打石膏  或者怎么包扎一下
+you need to cast the arm or you can embrace the arm.
+关键是要限制没有受伤的对侧肢体的活动
+That the key thing was to restrict movement of the intact uninjured opposite limb,
+这么做的时候
+and when they did that,
+它迫使受伤的肢体开始活动
+it forced some movement in the injured limb.
+而且值得注意的是
+And remarkably,
+通过大脑两侧的连接
+through connections from the two sides of the brain,
+通过胼胝体  这条巨大的纤维通路  连接了大脑的两侧
+through the corpus callosum this huge fiber pathway that links the two sides of the brain.
+他们发现大脑两边都会产生可塑性
+They saw plasticity on both sides of the brain.
+所以这是有道理的
+So it this makes sense when you hear it.
+假设我的左脚踝受伤了 我一瘸一拐地走着 或者拄着拐杖
+let's say I injure my left ankle and I'm limping along or I'm using crutches.
+你会想得  嗯
+You would think well.
+你最不想的肯定就是让完好的腿受伤
+The last thing you want to do is start his injure your opposite limmer or not.
+或者不去用你好的那条腿  毕竟右脚踝完全没问题
+Use your opposite lend my right ankle is perfectly fine,
+但是如果太用力地靠在右腿上 我就失去了左腿  左脚踝的
+but if I lean too hard on my right limb and I take all the work out of the left limb,
+所有工作
+that left ankle.
+这实际上是建立了一种情境
+that's actually setting up a situation where there's going to be run away,
+中枢神经通路开始偏移  和我左边的神经到肌肉通路不对称
+asymmetry in the central pathways and the nerve to muscle pathways on my left side.
+因此 他们在各种实验中提出并表明
+And so what they suggested and what they showed in a variety of experiments was that 
+通过鼓励受伤肢体的活动
+by encouraging activity of the injured limb,
+只要能做到没有特别疼痛
+provided it could be done without pain.
+重要的是
+And importantly,
+不只是锻炼肢体或身体的某个部位  而是限制身体健康的另一边
+not just exercising that that limb or a part of the body but restricting the opposite healthy part of the body.
+这会让手上的那一边  恢复的速度要快得多
+That the speed of recovery was significantly faster.
+我想重复一遍
+Now I want to repeat,
+你不想
+you don't want to go,
+进一步受伤
+injuring something further.
+这可能是最糟糕的事了
+That's probably the worst thing you can do.
+但在某些大脑受损的情况下
+But in some cases where people have damage in their brain,
+四肢完好无损
+the limbs are perfectly fine,
+但是运动信号并没有到达四肢
+but the motor signals aren't getting down to the limbs.
+在这种情况下
+and in that case,
+四肢健全
+the limb is fine,
+所以你可以随心所欲地使用任意一条腿
+so you actually are free to use the either limb as much as you want,
+在这种情况下 你不能太依赖于健全的那一边
+and in that case you don't want to rely on the uninjured pathway too much.
+事实上
+In fact,
+你需要限制没有受伤那一侧的通路
+you want to restrict the uninjured pathway.
+所以我发现这些研究非常很了不起
+so I find these studies remarkable and they've been followed up on 
+这些实验都已经在分子水平和细胞水平上被多次跟踪
+at the molecular level at the cellular level many times,
+我想  那些物理治疗师和其他从事运动医学的人
+and I think the physical therapists out there and the rest of you who are involved in sports medicine
+ 还有一些内科医生会说
+and some of the physicians will say.
+好
+well.
+当然
+Of course,
+这很有道理
+that makes perfect sense,
+但通常情况下并不是这样
+but oftentimes this is not what happens.
+通常
+Oftentimes,
+基本上都是要休息和治疗炎症
+what happens is it's all about resting and limiting inflammation,
+
+受伤的肢体或与受伤的大脑部位相对应的肢体的炎症
+of the injured limb or the limbs corresponding to the injured part of the brain.
+这些实验和这些实验的集合表明
+And these experiments and the collection of them point to the fact that the balance between the right and left
+它的神经回路一直在更新
+It's always being updated at the level of neural circuitry,
+Romachandran的镜盒研究也支持这一观点
+the Roma chandran studies with the mirror box support that too,
+即使是身体两侧的轻微失衡也会被放大
+and that even slight imbalances in the two sides of the body can get amplified.
+所以当你处于一边受伤或大脑中
+And so when you're in a situation where one side is injured or the brain is injured,
+表示一边部位受伤的情况下
+representing one side of the body,
+关键是要多锻炼受伤的那一侧  并且限制健康的那一侧的活动
+the key thing to do is to really overwork the side that needs the work and to restrict the activity of the side  因为那是健康的
+that doesn't need the work because it's healthy.
+这与视觉主导可塑性很相似
+And this has great semblance to ocular dominance Plasticity,
+我在前几期讲过
+which I talked about a couple of episodes ago.
+我就不细说了
+I won't go into it in detail.
+诺贝尔奖得主神经生物学家  维厄瑟尔
+But where the Nobel Prize winning neurobiologists towards a weasel,
+和大卫·胡贝尔指出 如果在发育早期一只眼睛是闭着的
+David Hubel showed that if one eye is closed early in development that the representation of the opposite,
+大脑会完全被那只完好无损的眼睛占据了
+I in the brain is completely overtaken by the intact eye.
+所以
+so.
+这很重要
+This is important,
+这意味着我们所有的感觉和动作都在争夺大脑中的空间
+it means that all of our senses and our movements are competing for space in our brain,
+所以考虑这个原则的方式是  不管你在什么时候受伤了 你可能一瘸一拐 无法动弹
+and so the way to think about the principle is any time you're injured and you're hobbling along.
+你
+You.
+不想再加重伤害
+don't want to injure yourself further,
+但你要尝试并弥补这种竞争的方式  尊重神经空间
+but you want to try and compensate in the ways that respect this competition for neural real estate
+ 这通常意味着不要依赖于  仍然健康的那一侧
+and what that usually means is not relying on where you are still strong 
+因为那只会产生失控的可塑性
+because that's just going to create runaway plasticity.
+这会让你在某些情况下  很难恢复运动功能
+that's going to make it very hard for you to recover the motor function and in some cases,
+肢体的感觉功能受损
+the sensory function of the damaged limb.
+有些人可能想知道 在某些情况下 对完整或健康的肢体的活动
+Some of you may be wondering how long and how often one should restrict the activity of
+ 应该限制多长时间 多久进行一次
+the intact or healthy limb or limbs in some cases,
+答案是
+and the answer is,
+你没必要每天都这么做
+you don't have to do that all day every day.
+这些实验集中在一两个小时的专门一件事上
+These experiments centered on doing one or two hours of dedicated work,
+感觉运动上
+sensory motor work or so.
+例如
+for instance,
+如果你左边的脚踝扭伤了
+if you have a sprained ankle on the left,
+你可能会在一天中有一段时间
+you might spend part of the day where your left leg,
+前提是脚踝不是很疼
+provided it's not too painful,
+你可以锻炼左脚踝
+can be exercised.
+这种锻炼不会对伤口造成伤害  然后同时右脚踝不能参与活动
+Again in a way that's not damaging to the injury and the right limb can't contribute to that exercise.
+可以练一下用左脚  在一辆固定自行车上骑
+This might be peddling unilaterally on a on a stationary bike.
+你可以用这种方法治疗不同类型的肢体损伤 比如手臂损伤
+If you can do that for a different type of limb injury like an arm injury,
+如果肩膀是可以活动的
+this might be reaching provided the shoulder is mobile,
+举起来 甚至可以写字
+doing reaching it might be even writing with thee,
+用受伤那一侧
+the damage side,
+然后故意不使用健康的  没有受伤的那一面
+and then intentionally not writing with the preferred or undamaged side.
+这被证明可以加速中枢的可塑性和功能的恢复
+This has been shown to accelerate the central plasticity and the recovery of function,
+我想这才是大多数人想要的结果
+which I think is what most people want.
+当人们受伤时
+When people are injured,
+他们想要快点恢复原状
+they want to get back to doing what they were doing previously,
+他们希望能够做到这一点
+and they want to be able to do that without.
+这就引出了另一个话题
+Now this brings up another topic which.
+肯定与神经可塑性和损伤有关
+Definitely related to neural plasticity and injury,
+但有一个我经常听到的  更普遍的问题
+but is a more general one that I hear about a lot,
+就是创伤性脑损伤(TBI)
+which is traumatic brain injury.
+许多受伤不仅仅是由于肢体无法使用而造成的 还有脑震荡和头部受伤
+Many injuries are not just about the limb in the the lack of use of the limb but concussion and head injury.
+我想强调一下
+And I want to emphasize,
+我不是神经学家
+I'm not a neurologist.
+我有很多同事是神经学家
+I have many colleagues that are at some point.
+之后  我们将用一个月的时间来研究创伤性脑损伤TBI 因为这是一个非常严重的问题
+We will do a whole month on TBI because it's such a serious issue,
+在这个大的讨论中
+and at such a huge discussion.
+我想谈谈关于脑震荡康复的情况
+But I want to talk a little bit about what is known about recovery from concussion,
+这是非常重要的 因为它对正常的衰老也有影响
+and this is very important because it has implications for just normal aging as well,
+一个偏移量
+an offsetting,
+一些与正常衰老有关的认知能力下降和身体衰退
+some of the cognitive decline and physical decline that occurs with normal aging.
+所以我们应该认为创伤性脑损伤不只是出现在足球运动员 为受伤的孩子 身上
+So we should think of TBI is just for the football players are just for the kids that had an injury 
+或只是发生车祸的人身上
+or just for the person who is in the car accident.
+我们需要了解创伤性脑损伤
+We want to learn about TBI
+我知道  创伤性脑损伤对于大部分人来说很遥远
+I understand TBI I for those folks,
+但我们也会谈论创伤性脑损伤 因为它与大脑功能的普遍退化有关
+but we're also going to talk about TBI as it relates to general degradation of brain function,
+因为两种大脑的衰老与创伤性脑损伤有一定的相似性
+because there's a certain semblance there of TBI by two general brain aging,
+通常创伤性脑损伤后
+typically after TBI,
+有很多不同的事情会发生  也有很多不同的事情可以导致TBI
+there are a number of different things that happen and there's a huge range of things they can create TBI.
+神经科医生和急诊室医生会想去检查头骨
+Neurologists and the emergency room physicians are going to want to know was the skull was it?
+是头骨本身受伤了吗
+Was the skull itself injured,
+还是大脑在头骨里嘎嘎作响
+or did the brain rattle around in the skull?
+他们的头骨上有没有一个缺口
+Was there actually a breach through the skull as their physical object in there,
+这个人经历了多少次脑震荡
+how many concussions as the person had?
+我的意思是每个人
+I mean everyone
+患创伤性脑损伤的情况是非常不同的
+Situation with TBI eye is incredibly different,
+但是很多人都有一系列相似的症状
+but there is a constellation of symptoms that many people,
+创伤性脑损伤患者都报告称
+if not all people with TBI report,
+头痛  畏光  睡眠干扰
+which is headache photophobia that lights become kind of a verse of sleep disruption,
+无法集中注意力  有时也会有情绪问题
+trouble concentrating sometimes mood issues.
+很大的范围
+There's a huge range,
+当然 严重程度各不相同
+and of course the severity won't very,
+
+在上次的一期里
+In a previous episode,
+我提到了肯纳德原理
+I mentioned the Kennard Principle,
+肯纳德原则
+the Kennard Principle,
+以一位著名的神经学家命名 这位著名的人类学家
+named after the famous neurologist named by and after the famous anthropologist,
+叫 玛格丽特·肯纳德
+Margaret Kennard,
+她说 你的大脑在早期受到损伤 比在晚年受到损伤好
+said that if you're going to get a brain injury better to get an early in life than later in life,
+这是因为大脑在生命早期的自我修复能力
+and that's because the brain has a much greater a heightened capacity for repairing itself early
+早期比较好
+life than later
+但当然 我们都不想得TBI 即便你不幸患上了TBI
+But of course none of us want to be eye and you can't pick.
+你也没法挑
+when you get your TBI
+但你可以避免某些可能导致创伤性脑损伤的活动
+you can avoid certain activities that would give you TB.
+但实际上
+but really,
+说到创伤性脑损伤
+when it comes to TBI eye,
+有几件事是大家一致同意的
+there are a couple of things that are agreed upon across the board.
+第一个是尽可能多的
+The first one is as much as possible.
+要避免第二次脑外伤或脑震荡
+You want to avoid a second traumatic brain injury or concussion.
+对于一些运动员 甚至是休闲运动员来说 这将是一个很难接受的问题
+Now that's gonna be a tough one for some of the athletes and even recreational athletes to swallow  
+因为他们想要继续运动
+because they want to continue in their sport.
+我不是来告诉你  你应该  不应该做什么
+And I'm not here to tell you that you shouldn't you shouldn't.
+但这只是一种方式   对军人或从事特定职业的人来说
+But that's simply the way that it that it is for folks that are in military or that are in a certain professions.
+还有建筑业  是我们经常看到TBI的地方
+Construction is a place where we see a lot of TBI
+不仅仅是足球运动员
+It's not always just football.
+许多建筑工人会悬在半空中  摇摇晃晃
+A lot of construction workers are dealing with heavy objects swinging around in space.
+他们是戴着那些安全帽
+They were those hard hat helmets,
+但不幸的是 它们并不能抵抗什么  没有什么防撞能力
+which unfortunately don't protect much against a lot of those blunt forces,
+更不能防止摔倒之类的
+and certainly not against falls and things of that sort.
+但很多人
+So many people.
+为了生存和养家糊口 依然得去工作
+in order to survive and feed their families have to go back to work.
+很清楚
+Very clear that,
+不管有没有颅骨骨折  也不管TBI是什么时候发生的
+regardless of whether or not there was a skull break and regardless of when the TBII happened 
+也不管发生了多少次
+and how many times it's happened.
+修复大脑的系统
+The system that repairs the brain,
+成年人的大脑
+the adult brain.
+主要依靠着淋巴系统 我们称之为大脑的类淋巴系统
+is mainly centered around this lymphatic system that we call for the brain the glymphatic system.
+人们通常认为大脑没有淋巴系统  也没有循环免疫细胞
+Now the brain wasn't thought to have a lymphatic system it wasn't thought to have circulating immune cells,
+但大约十年前 它被重新发现了
+but about ten years ago it was sort of rediscovered.
+因为如果你去实验室看看
+Because if you look in the laboratory,
+意识到这东西存在的时间  比类淋巴系统还长
+realize the stuff was around longer that there's a glymphatic system.
+它有点像一个下水道系统 可以清除神经元周围的废物
+It's sort of like a sewer system that clears out the debris that surrounds neurons,
+特别是受伤神经元
+especially injured neurons,
+在睡眠期间 类淋巴系统非常活跃
+and the glymphatic system is very active during sleep.
+我做过功能性磁共振成像
+I've been imaged in functional magnetic resonance imaging,
+类淋巴系统是一个非常活跃的系统
+and the glymphatic system is something that you want very active 
+因为它会清除神经元和细胞之间的废物
+because it's going to clear away the debris that sits between the neurons
+在神经元之间连接周围的细胞  叫神经胶质
+ and the cells that surround the connections between the neurons called the glia. 
+当神经元受损时 这些细胞积极参与修复神经元之间的连接
+Those cells are actively involved in repairing the connections between neurons when damaged.
+类淋巴系统
+So the lymphatic system.
+非常重要 很多人
+is so important that many people,
+患TBI的人  都被告知
+if not all people who get tbr are told,
+要得到足够的休息
+get adequate rest
+你需要睡觉 这是双重作用建议
+You need to sleep and that's kind of twofold advice.
+一方面
+On the one hand,
+它告诉你去睡觉
+it's telling you to get sleep,
+因为所有这些好事都发生在睡觉中
+because all these good things happen and sleep.
+这也是为了让这些人  不再继续参与其他活动
+It's also about getting those people to not continue to engage in their activity.
+让大脑全天候都在努力修复
+Full time are really trying to hammer through it.
+你可能会说
+You might say,
+
+如果你睡眠有问题
+if you have trouble sleeping,
+你怎么才能睡得好呢
+how are you supposed to get deep sleep?
+类淋巴系统的大部分活动是在慢波睡眠期间发生的
+Most of the activity of the gloom phatik system this wash out of the debris is occurring during slow wave sleep.
+慢波睡眠
+Slow wave sleep,
+就像我在前一集里提到的  通常发生在晚上的早些时候
+as I mentioned in a previous episode is something that happens typically in the early part of the evening.
+所以即使对于那些在晚上很早就睡的人
+So even for those of you that are falling early part of the night,
+但是
+rather,
+如果你睡着了 然后在三四个小时后醒来
+if you're falling asleep and then waking up three four hours later,
+你要继续睡觉  这很重要 而且要知道
+it's important that you continue to get sleep but know that 
+慢波睡眠主要集中在夜晚的早些时候
+the slow wave sleep is mainly packed toward the early part of the night,
+希望这能减轻你在凌晨三四点醒来时的焦虑
+so that hopefully will alleviate some of the anxiety about of the three and four am wake up.
+尽管你真的应该按照我建议的方法  或者你的医生的治疗方案中建议
+Although you really should follow some of the protocols that I've suggested in your physician's protocols
+来尝试获得规律的
+in order to try and get regular,
+更长的睡眠  7-8小时
+longer sleep of seven eight hours later,
+之后  我们将讨论8小时标记作为大脑恢复的先决条件
+we're going to talk about the eight hour mark as a prerequisite for repair.
+类淋巴系统通过两种方式被进一步激活
+The lymphatic system has been shown to be activated further in two ways.
+一是侧着睡
+One is that sleeping on one side,
+背部或腹部  都没有什么压力
+not on back or stomach seems to increase the amount of wash out or wash through.
+我想说的是类淋巴系统这方面的数据并不多
+I should say of the lymphatic system There aren't a ton of data on this.
+但是已经存在的数据还是很可靠的
+but the data that existed are pretty solid again.
+侧睡
+Sleeping on one side or.
+或者脚稍微抬高  可以增加清理一些残骸的速度
+With feet slightly elevated as well has been shown to increase the rate of clearance of some of the debris.
+这是因为类淋巴系统的工作方式 因为它有物理压力
+And that's because the way that the glymphatic system works as it has a physical pressure,
+有流体动力  使它在侧卧或双脚微微抬高时
+fluid dynamics to it that allow it to work more efficiently when one is sleeping on their side or 
+工作得更有效率
+with feet slightly elevated.
+所以这意味着不要在看电视的时候在椅子上睡着
+So this means not falling asleep in a chair while watching TBI
+这意味着
+This means,
+如果可能的话
+if possible,
+不趴着睡  或者正躺着睡
+not falling asleep on one's back on one's stomach,
+侧着睡
+sleeping on one side,
+如果你做不到
+and if you can't do that,
+比如说我   真的不喜欢侧着睡
+I think I don't really like to sleep on my side.
+我就会在睡觉时把脚微微抬起来
+I sleep with my feet slightly elevated.
+我把一个薄薄的枕头放在我的脚踝下
+I put out the kind of thin pillow under my ankles.
+我没有创伤性脑损伤
+I don't have TBI eye,
+但我之前有过几次脑震荡
+but I have had a few concussions before,
+但现在我感觉很好
+but right now I feel fine,
+但是我发现把枕头放在我的脚踝下可以帮助我睡得更深
+but I find that putting the pillow under my ankles helps me sleep much more deeply 
+当我醒来时感觉更神清气爽
+and I wake up feeling much more refreshed.
+另一个被证明可以改善类淋巴系统的功能
+The other thing that has been shown to improve the function of the lymphatic system.
+也是对创伤性脑损伤的治疗
+And this is again as forsake of TB,
+对每个人来说
+as well as for everyone,
+即使没有脑损伤  这也是一种特定形式的锻炼
+even without brain injury is a certain form of exercise,
+我想说的
+and I want to be very,
+很清楚
+very clear.
+我永远都不会
+I will never.
+我不会建议人们会在任何加重他们受伤的可能情况下  去锻炼
+and I am not suggesting that people exercise in any way that aggravates their injury,
+或者有悖于他们医生的
+or that goes against their physicians.
+建议
+Advice.
+接受你的医生的建议 你是否应该运动 运动多少
+take your physician's advice as to whether or not you should be exercising at all and how much.
+多大的强度
+and into what intensity.
+然而
+However,
+这里有一些有趣的数据 我们可以提供一个关于这个的数据链接
+there are some interesting data and we can provide a link to the review on this.
+它表明 我猜现在人们称之为zone 2有氧运动的运动
+It shows that exercise of what I guess people nowadays call it zone 2 cardio,
+这是一种低水平的有氧运动 可以在和别人边聊天边做
+which is a low level cardio that one could do while talking to somebody else.
+他能保持聊天
+He could maintain a conversation.
+虽然你不一定要和别人聊天 但这能让你感受这种强度
+Although you don't have to talk to somebody else is just gives you a sense of the intensity of the exercise 
+大概30到45分钟的有氧运动
+that zone to cardio for thirty to forty five minutes,
+每周三次  似乎可以提高清理一些废物的速度
+three times a week seems to improve the rates of clearance of some of the debris.
+不管是受伤还是没有受伤
+After injury and in general injury or no,
+为了加速和改善类淋巴系统的流动速度
+to accelerate and improved the rates of flow for the lymphatic system,
+我觉得这很有趣 因为我认为现在人们都如此痴迷于高强度间歇训练
+I find this really interesting because I think nowadays are such an obsession with like high intensity,
+和人们试图在短时间的锻炼完毕
+interval training and people trying to pack in as much as they can into us a short workout,
+如果说这个能让大家都去运动   那也太好了
+which is great if it brings people to the table who haven't been exercising before.
+但我认为  了解运动与大脑健康关系的数字非常重要
+But I think it's really important that we know that the data on exercise in its relationship to brain health 
+大概是30到45分钟的低水平有氧运动
+speak to doing thirty to forty five minutes of this kind of what we are gonna call low level cardio.
+可能是快走
+It could be fast walking.
+可能是慢跑
+It could be jogging.
+只要在不受伤的安全情况下  也可以骑车
+If you can do that with your injury safely could be cycling.
+这不是一种旨在让你的心率上升到一定水平的锻炼
+This is not the kind of workout that's designed to get your heart rate up to the point 
+不是什么高速率跑  或者跳跃来提高你的健康水平的那种锻炼
+where you're improving your fitness levels at some sort of massive rate or taking huge jumps.
+或者要突破你的极限什么的
+in your view to Max or anything like that,
+这是
+this is exercise,
+我也做的锻炼 我也认识很多人
+I do this and I know a number of other people,
+特别是在创伤性脑损伤患者较多的群体中 人们现在开始采用这种方法
+Especially people in communities where there is a lot of TBI are now starting to adopt this.
+这三十到四十五分钟
+that the thirty to forty five minutes,
+一周三次或者更多次
+three times a week or so could be more.
+这zone 2 有氧运动可以非常有利于洗掉大脑的废物
+Of this zone to type cardio can be very beneficial for wash out of debris from the brain,
+这在TBI之外是非常有趣的  因为我们从衰老中知道
+and this is really interesting outside of TBI because what we know from aging is that 
+衰老是一个非线性的过程
+aging is a nonlinear process.
+并不是说每过一年 你的大脑就会变老一点
+It's not like with every year of life your brain gets a little older,
+有时它更像是一个阶梯函数
+it has sometimes it follows what's more like a step function 
+有几个很大的跨越  或者几个标记点
+and get these big jumps in eight in markers of ageing,
+我想我们可以把它们看作是跳下来的 因为这对于大多数人来说是一个不好的东西
+I guess that we could think of them as jumps down because it's a negative thing For most.
+每个人都想活得更长 在大脑和身体上更健康
+Everybody would like to live longer and be healthier in brain and body,
+所以我现在提到的运动类型
+and so the types of exercise I'm referring to now.
+我们更关心大脑寿命和保持大脑健康
+We're really more about brain longevity and about keeping the brain healthy 
+而不是身体的强壮和健康
+than they are about physical fitness.
+你没有理由不这么做 并且前提依然是
+There's no reason why you couldn't do this and also provided again.
+要安全
+It's safe for you,
+要看你自己大脑的
+given your brain,
+状态和损伤
+state and injury state,
+
+你完全能把举重训练  和其他形式的有氧运动结合起来
+There's no reason why you couldn't also combine it with weight training and other forms of cardio.
+所以我认为这真的很有趣 你们中的一些人想知道它的机制
+So I think this is really interesting and some of you would like to know the mechanism,
+或者至少是假设的机制
+or at least the hypothesized mechanisms.
+有一个
+There's a,
+哦
+uh,
+一种叫做水通道蛋白-4的分子
+a molecule called aquaporin forth,
+这听起来像是某部电影的第四部续集
+it almost sounds like a like A are the fourth in a sequel of movies or something like that.
+但是水通道蛋白-4是一个与全身系统相关的分子
+But aquaporin forth is a molecule that is related to the global system.
+所以它的意思是“胶水”在拉丁语里
+so it means glue and Latin.
+或者这些是大脑中的细胞大脑中  数量最多的细胞
+or these are these cells in the brain the most numerous cells in the brain,
+事实上
+in fact,
+主要的突触中
+that in chief synapses,
+它们是非常动态的细胞
+but they're very dynamic cells,
+它们就像小的移动细胞
+there are like little ambulant cells.
+它们是 小胶质细胞  会跑进来收集废物 吸收 然后跑出去
+They'll write the micro glia will run in and will gather up debris and soak it up and then run out.
+在受伤后
+After an injury.
+水通道蛋白-4 主要由一种胶质细胞叫  星形胶质细胞
+aquaporin four is mainly expressed by the glial cells called Astrocytes.
+星形胶质细胞看起来像一颗小星星
+Astro looks like a little star,
+非常有趣的细胞
+incredibly interesting cells,
+要记住的是  星形胶质细胞
+and the thing to remember is that the astrocytes bridge,
+连接了神经元
+the connection between the neurons.
+突触
+The synapse,
+建立了它们和脉管系统之间的联系
+the connections between them and the vasculature,
+血液系统和淋巴系统
+the blood system and the lymphatic system.
+所以想象它们就像是坐在界面上  在紧急情况现场
+so they kind of sit at the interface and they've got to imagine somebody on an emergency site.
+在车祸现场  指挥周围的人做什么
+car crash site who's directing everybody around as to what to do,
+把那个人抬上担架
+get that person on a stretcher,
+绑好绷带
+bandaged them up,
+打电话给他们的妈妈
+call their mother,
+
+
+把这些东西从路上弄开
+Get this out of the road.
+放一些照明
+Put down some flares.
+星形胶质细胞可以在这种能力下工作 也可以做一些更直接的事情
+The astrocytes can work in that capacity as well as doing some things more directly.
+所以胶质星形胶质细胞系统中的淋巴系统
+So this lymphatic system in the glial astrocytes system is the system 
+是我们希望在一天中尽可能长期活跃的系统
+that we want chronically active throughout the day as much as possible,
+低强度的Zone 2 有氧运动可以让它活跃
+so low level walking zone to cardio,
+到了晚上 在慢波睡眠期间  类淋巴系统开始发挥作用
+and then at night during slow wave sleep is when really when this lymphatic system kicks in,
+所以这应该是一个可行的解决方案
+so that should hopefully be an actionable Take away.
+只要你能安全地做  我认为大家都应该做的有氧运动
+Provided that you can do that kind of cardio safely that I believe everybody should be doing.
+只要你在乎大脑寿命
+Who cares about brain longevity,
+不只是那些想要克服TBI的人
+not just people who are trying to get over T Ba.
+现在我要回过来讲一点
+Now I'd like to return a little bit too.
+疼痛调节的一些主观方面的事情
+Some of the subjective aspects of pain modulation,
+因为我认为这很有趣 也很可行 每个人都应该知道
+because I think it's so interesting and so actionable that everyone should know about this.
+在这种情况下 我们也可以说
+and in this case we can also say that,
+不管你是否感到疼痛
+regardless of whether or not you're experiencing pain,
+急性或慢性
+acute or chronic,
+我要告诉你的是最接近证据的事
+what I'm about to tell you is as close as anything is to proof,
+
+在科研中
+In science,
+我们很少说“证明”
+we rarely talk about proof.
+我们一般都说“支持”或“反对”假设的证据
+We talk about evidence in favor or against the hypothesis,
+但这里可以尽可能地证明
+but as close as possible,
+我们对一个感官事件的解释或主观解释  在决定我们对该事件的经验方面
+to prove that our interpretation or subjective interpretation of a sensory event is immensely powerful 
+是非常强大的
+for dictating our experience of the event.
+这里有几个例子
+Here are a couple of examples.
+首先
+First of all,
+任何做过格斗运动或武术的人都知道这一点
+anyone who has ever done combat sports or martial arts knows that.
+让人无法相信
+Incredible,
+在一场搏斗中 一个重击是多么微不足道
+how little a punch hertz during a fight,
+而搏斗完之后 这会是难以相信的痛
+and it's incredible how much it hurts after a fight.
+当肾上腺素分子被释放到我们体内时
+The molecule adrenaline when its liberated into our body.
+真的能减轻我们对痛苦的感受
+truly blunts our experience of pain.
+我们都知道一些人的故事 他们的腿磕了一下
+We all know the stories of people walking your miles on stumped legs,
+有的人在做令人难以执行的动作
+people doing all sorts of things that were incredible feats.
+这让他们能够度过痛苦
+That allowed them to move through what would otherwise be pain,
+之后他们确实经历了极度的痛苦
+and afterward they do experience extreme pain,
+但在活动期间 他们通常没有感受到疼痛
+but during the event oftentimes they are not experiencing pain,
+那是因为肾上腺素对疼痛有钝化作用
+and that's because of the pain blunting effects of adrenaline.
+我来告诉你具体是怎么回事
+I'll tell you exactly how this works.
+几分钟后
+in a few minutes.
+我们会谈到针灸
+When we talk about acupuncture,
+去甲肾上腺素与特定受体的结合
+but nor up an aspirin binding to particular receptors,
+肾上腺素与特定受体的结合  实际上关闭了疼痛通路
+adrenalin binding in particular receptors actually shuts down pain pathways.
+预期注射吗啡的人会立即报告说
+People who anticipate an injection of morphine immediately report the feeling of.
+痛苦消失了
+Loss of pain,
+他们的疼痛开始减轻 因为他们知道他们的疼痛会得到缓解
+their pain starts to diminish because they know they are going to get pain relief,
+这是一种强大的影响
+and it's a powerful effect.
+现在你们可能都在说“安慰剂效应”
+Now all of you are probably saying placebo effect.
+“安慰剂效应”是真实存在的
+Placebo effects are very real.
+“安慰剂效应”和“信念效应”
+Placebo effects and belief effects,
+它们对我们对疼痛等有害刺激的体验  有很大的影响
+as they're called have a profound effect on our experience of noxious stimuli like pain,
+它们也能对积极的刺激和期待的事物  有很大的影响
+and they can also have a profound effect on positive stimuli and things that were looking forward to.
+我在斯坦福的同事做了一项特别有趣的研究
+One study that I think is particularly interesting here from my colleague at Stanford,
+肖恩·麦基
+Sean Mackey.
+他们做了一个神经成像研究
+They did a neuro imaging study.
+他们让人们承受痛苦
+They subjected people to pain.
+在这种情况下
+In this case,
+那是一种受热痛
+it was a heat pain.
+人们对热量有特定的阈值 达到这个阈值他们就不能再忍受热量了
+People have very specific thresholds to heat at which they cannot tolerate any more heat.
+但是他们试验了
+But they explored the extent to which,
+在这种情况下 看着某人的照片
+looking at an image of somebody in this case,
+一个人所爱的浪漫的伴侣
+a romantic partner that the person loved.
+可以让他们调整疼痛反应
+would allow them to adjust their pain response.
+事实证明 如果人们在看一幅图像或想到他们爱的人
+And it turns out it does if people are looking at an image or thinking about a person that they love 
+甚至是他们爱的一件事
+or even a thing that they love,
+他们喜欢的宠物
+a pet that they love.
+之前的研究表明 他们的疼痛体验减少了
+Studies previous to the one that Makeing colleagues did showed that their experience of pain was reduced,
+他们对疼痛的阈值变高了
+their threshold for pain was higher,
+他们可以忍受更多的疼痛
+they could tolerate more pain,
+他们的报告显示 疼痛感并没有那么强烈
+and they reported it as not as painful.
+但这里有一个转折
+But there's a twist there,
+就是 爱的程度
+which is it turns out that the extent to which love.
+意志调节痛苦的程度  与一个人对他们爱的对象的
+Will modulate pain has everything to do with how infatuated an obsessed somebody is 迷恋程度有关
+with the object of their love.
+有报告说  一天中会想一个人或者宠物好几次的人
+People that report thinking about somebody or a pet for
+一想就想好一会儿  跟着迷了一样
+Many hours of the day kind of having an obsessive nature,
+人们可能会说的
+like almost a kind of what people might call,
+“共同依赖”
+quote Unquote Co dependency.
+对于那些正在听的人
+For those of you that are listening.
+我给这个词打上了一个引号
+I'm just providing air quotes.
+因为共同依赖是一种临床疾病
+Because Co-dependency is a kind of a clinical thing.
+
+尽管它经常被人引用  被提起
+although it's thrown around a lot all the time,
+但这有点像煤气灯
+it's sort of like gas lighting.
+现在大家都在谈论煤气灯
+People talk about gas lighting all the time now.
+煤气灯确实是真实存在的
+Gasoline is a real thing,
+但后来人们出了临床描述之外  还将煤气灯引申到其他地方
+but then people talk about gas lighting for many things outside the clinical description.
+如果一个人对另一个人非常着迷
+If people are are very obsessed with somebody,
+他们对某人的脸有一种强迫症般的爱
+they have a kind of obsessive love of somebody's face,
+即使对方不认识他们
+even if the other person doesn't know them,
+虽然说出来有点奇怪
+which is a little weird.
+这种反应
+That response,
+这种内在的爱的感觉可以在很大程度上减弱疼痛体验
+that feeling of love internally can blunt the pain experience to a significant degree.
+这些影响并不小
+These are not small effects,
+所以不仅仅是爱能保护我们免受痛苦
+so it's not just that love can protect us from pain.
+是迷恋和痴迷  可以保护我们免受痛苦
+It's that infatuation and obsession can protect us from pain.
+这一点也不奇怪
+And not surprisingly,
+一段关系有多么早的形成
+how early a relationship is.
+一段新的关系  与人的能力直接相关
+how new a relationship is directly correlates with people's ability.
+他们用这种爱的内在表现  来钝化疼痛反应
+they showed to use this love this internal representation of love to blunt the pain response.
+所以对于那些和你的伴侣在一起很多年的人
+So for those of you that have been with your partners for many years 
+你非常爱他们 你迷恋他们
+and you love them very much and you're obsessed with them.
+太棒了
+Terrific,
+你有了这个“预设装置”
+you have any pre installed,
+不过我觉得
+I suppose,
+也不是预设装置吧
+is not pre installed.
+你必须得好好经营这些关系
+You had to do the work because relationships our work,
+但这表示  你已经装好了一套减轻疼痛的机制
+but you've got a installed mechanism for blunting pain.
+这些都不是轻微的影响
+and again these are not minor effects.
+这些都是很主要的影响
+These are major effects,
+这都是通过我们讲过的自上而下的调制的
+and it's all going to be through that top down modulation that we talked about,
+就像镜子盒子一样
+not unlike the Mirrored box.
+幻肢实验
+experiments with phantom limb,
+那种缓解
+that relief,
+幻肢痛  或者其他一些自上而下的调制和相反的例子
+phantom pain or some other top down modulation and the opposite examples.
+穿过靴子的钉子
+The nail through the boot,
+这是一种视觉图像 让人觉得很痛苦
+Which is a visual image that made the person think it was painful when in fact it was painful,
+即使没有组织损伤  他也实际上感到很痛苦
+even though there was no tissue damage,
+这一切都是感性的
+it was all perceptual.
+所以疼痛系统确实受这些知觉影响
+So the pain system is really subject to these perceptual influences,
+这很了不起  因为当我们想到这么多的感觉系统时
+which is remarkable because really when we think about this amount of sensory system,
+它有认知成分和周围神经成分
+it has this cognitive components got this peripheral component,
+但是还有另一个组成部分
+but there's another component,
+这就是我们的感觉  我们的躯体感觉系统
+which is the way in which our sensation our somatosensory system is woven in 
+与自主神经系统交织的方式
+with our autonomic nervous system.
+我们下期节目再讲
+And we're going to get to that next.
+但我想提出这样一个观点  这种迷恋和着迷的爱
+But I want to just raise the idea that the reason that this kind of infatuation and obsessive love 
+可以钝化疼痛反应 并增加一个人对疼痛的阈值  其中的原因可能是
+can blunt the pain response and increase one's threshold for pain may have to do,
+我想说的是
+I would say almost certainly has to do,
+虽然还没有被量化
+but it hasn't been measured yet.
+就是多巴胺的释放   因为多巴胺是我们大脑和身体释放的分子
+With dopamine release because dopamine is absolutely the molecule that's a liberated in our brain and body.
+当出现一个新的痴迷或迷恋时
+When there's a new kind of obsession or infatuation,
+它和爱情的化学物质截然不同
+it's very distinct from the kind of love chemicals.
+如果你愿意
+If you will,
+我甚至不喜欢叫它们爱的化学物质 感觉怪怪的
+I don't even like calling them love chemicals that just feels weird.
+如果这是文字
+If this were text,
+我会删掉这一行
+I would delete that line.
+但是
+But.
+从与温暖和联系相关的化学物质 如血清素和催产素
+From the chemicals associated with warmth and connection such as serotonin and oxytocin,
+它们更稳定
+which tend to be far more stable,
+长期
+long,
+持久的关系
+lasting relationships,
+多巴胺能让人兴奋不已
+dopamine is what dilates the pupils which gets people really excited.
+他们无法停止对某人的思念
+They can't stop thinking about somebody.
+甚至一则信息都令人兴奋
+The text messages are even exciting,
+他们发送消息给对方
+they write to them,
+他们等不及要看回复的信息
+and they can't wait for the text message to come back that 
+屏幕上的那些点 点 点  看着非常难熬
+dot dot dot on the screen that take measures is excruciating.
+对面两分钟都没反应 这边就快疯了
+They don't respond for two minutes and people are getting flipped out.
+我不是支持这种
+I'm not here to support that kind of.
+无论如何
+Whatever,
+我想说的是那种强迫性的爱
+what I'm saying is that that obsessive type of love,
+毫无疑问 这与多巴胺通路有关
+which without question is going to be associated with the dopamine pathway,
+在减少的背景下确实有效用
+does seem to have a utility in the context of reducing.
+身体疼痛的不愉快感  可能与很多生活中的不愉快感有很大关系
+Unpleasantness of physical pain and probably has a lot to do with reducing the unpleasantness of a lot of
+ 比如交通堵塞
+life like sitting in traffic,
+
+因为当我们谈论痛苦时
+Because when we talk about pain,
+情感的痛苦和身体的痛苦开始合而为一
+emotional pain and physical pain start to become one.
+相同的一体中
+In the same.
+它们是如此紧密地交织在一起 以至于它们之间的界限通常变得非常模糊
+they are so closely intertwined that the lines between them normally become very blurry.
+什么意思呢
+What do I mean by that?
+爱情和迷恋可以减少痛苦
+Love and infatuation can reduce pain,
+大概是通过释放多巴胺
+presumably through the release of dopamine.
+那么多巴胺是否会自行释放缓解钝痛感
+Will then does dopamine release itself blunt plaint pain 
+我们是否应该将多巴胺释放作为一种治疗慢性和急性疼痛的方法呢
+Should we be chasing dopamine release as a way to treat chronic and acute pain.
+这正是我们要讨论的
+And that's exactly what we're going to talk about.
+现在把爱放一边
+Now independent of love,
+我们将会讨论一些非常不同的东西
+we're going to talk about something quite different,
+就是把针和电放到身体的不同部位
+which is putting needles and electricity in different parts of the body.
+所谓针灸
+So called acupuncture,
+这种东西
+something that?
+对许多人来说
+For many people.
+它会被视为一种替代医学的治疗
+It would have been viewed as a kind of alternative medicine,
+但现在  很多优秀的实验室正在探索所谓的
+but now their excellent laboratories exploring what's called a lecturer,
+针灸讲师  针灸师  这些都是大的大学中心
+acupuncture and acupuncture These are big university centres.
+事实上
+In fact,
+我接下来要告诉你的一切的来源
+my source for everything I'm about to tell you.
+是哈佛医学院的马秋富教授和他的论文
+Next is Professor Qiufu Ma at Harvard Medical School and his papers.
+我自己来支持我今天要提供的信息
+I stand behind the information that I'm going to provide today.
+但主要是从马秋富教授实验室的文件中提取出来的
+But there it's extracted largely from the Mall Lab's papers,
+它使用了非常严格的
+which has used its very rigorous variable.
+控制变量实验来弄清楚  像针灸这样的东西是如何工作的
+isolating experiments to address just how does something like acupuncture work.
+我想你们感兴趣和惊讶的是  它确实有效
+and I think what you'll be interested in and surprised to learn is that it does work,
+但有时它会加剧疼痛
+but sometimes it can exacerbate pain,
+有时它能缓解疼痛
+and sometimes it can relieve pain.
+这一切都是通过非常谨慎的途径实现的  我们可以这样说
+and it all does that through very discreet pathways for which we can really say this.
+神经元与肾上腺相连
+Neuron connects to that neuron connects to the adrenals.
+我们可以把这一切与多巴胺联系起来
+and we can tie this all back to dopamine,
+因为最终是化学物质和神经回路产生了这些知觉或体验
+because in the end it's the chemicals and neural circuits that are giving rise to these perceptions or these 
+而不是我们所说的疼痛
+experiences rather have things that we call pain,
+或爱
+love,
+
+在之前的播客中
+In a previous podcast episode,
+我提到了我拜访针灸师的经历
+I mentioned my experience of visiting an acupuncturist.
+做了针灸
+Getting acupuncture,
+针灸本身对我并没有多大作用
+the acupuncture itself didn't really do that much for me,
+但我去那里并没有什么特别的原因
+but I wasn't there for any specific reason.
+是别人送给我的礼物 我想试试
+I was gifted to me by somebody and I wanted to try it.
+我不是在评判针灸
+I'm not passing judgment on acupuncture,
+我
+I.
+事实上
+In fact,
+我知道很多人从针灸中获得了巨大的好处
+I know a number of people that really drive tremendous benefit from acupuncture,
+缓解疼痛和肠胃问题
+for pain and for gastrointestinal issues.
+实际上有很多很好的同行评议研究  支持针灸的使用
+There are actually a lot of really good peer reviewed studies supporting the use of acupuncture,
+特别是
+for in particular,
+针对胃肠道问题
+GI tract issues.
+近年来
+In recent years,
+人们一直在强调试图理解针灸
+there's been an emphasis on trying to understand the mechanism of things like acupuncture 
+和假针灸本身的机制
+and sham acupuncture itself,
+不是在支持针灸
+not to support acupuncture,
+或者让每个人都去做针灸
+or to try to get everybody to do acupuncture,
+但是 作为一种尝试和理解这类练习如何对正在经历疼痛
+but as a way to try and understand how these sorts of practices might actually benefit people who are 
+或改变神经系统  或大脑和身体关系的人有益的方式
+experiencing pain or for changing the nervous system or brain body relationship in general,
+实际上 美国的国立卫生研究院现在有一个完整的分支
+and actually the national Institutes of Health in the United States now has a entire subdivision 
+在国立卫生研究院内部有一个研究所
+and an institute within the National Institutes of Health.
+叫补充健康
+Which is complimentary health.
+该研究所对针灸和其他各种疗法很感兴趣
+And that institute is interested in things like acupuncture and a variety of other practices that I think,
+十五年前
+ten fifteen years ago,
+那时候大家觉得这很另类的
+people probably thought were really alternative.
+也许是一种文化冲突
+And maybe you encounter culture,
+至少在美国是这样
+at least in the states,
+但这令人兴奋
+and it's exciting.
+我认为那时候  人们才开始真正关注某些非常有用的治疗方法
+I think people are starting to really take a look at what's going on under the hood for certain types of 
+以及之中的原理
+treatments that are very useful,
+我认为这引发产生了很多
+and I think it's very likely to lead to an expanded number of treatments for 
+针对不同病症的治疗方法
+a number of different conditions.
+关于针灸 我想说的是针灸所阐明的是令人难以置信的方式
+What I want to talk about in terms of acupuncture is the incredible way in which acupuncture illuminates.
+躯体感觉系统之间的交流
+The cross talk between the somatosensory system,
+我们感知外部事物的能力
+our ability to feel stuff externally,
+外部接收
+extra reception,
+内部拦截  以及这是如何发生的  感觉系统是如何与自主神经系统进行沟通的
+internally interception and how that's a matter sensory system is wired in within communicating 
+而自主神经系统控制着我们的警觉性和冷静度
+with our autonomic nervous system that regulates our levels of alertness or calmness.
+在那之后
+After that,
+我要讲的是
+I'm going to talk about how.
+现在正在进行的针灸也可以缓解所谓的牵涉性疼痛
+The acupuncture that's being done right now also points to relief for what's called referred pain.
+这又回到了“侏儒”的问题上
+so this takes us all back to the homunculus.
+让我们从那开始
+Let's start there.
+我们的大脑中有我们体表的表征（侏儒的功能）
+we have this representation of our body surface in our brain.
+这种表征就是我们所说的躯体特定区
+That representation is what we call some mad a topic and what somatotopic is.
+它指你身体相邻的部分
+it just means that areas of your body that are near one another?
+所以你的拇指和食指
+so your thumb and your forefingers,
+例如
+for instance,
+是由大脑中彼此相邻的神经元所代表的
+are represented by neurons that are nearby each other in the brain?
+你可能会说
+Now you might say well,
+害 当然啦
+duh,
+但其实不一定是这样的
+but actually didn't have to be that way.
+代表食指尖端的神经元和代表同一只手拇指的神经元
+The neurons that represent the tip of my forefinger and the neurons that represent my thumb on the 
+可以被相隔较远的神经元定位 因此我的体表地图
+same hand could have been distantly located and therefore the map of my body surface.
+侏儒上的表征可以随意分布
+homunculus would be really disorders,
+但事实并非如此
+but it's not that way.
+实际上它会分布的非常有序 非常光滑
+It's very ordered its very smooth,
+假设你要对我的大脑进行成像  如果你要刺激我的手指
+as let's say you were to image my brain if you were to stimulate my finger,
+我的食指 然后将这种刺激  路过手掌  刺激边上的拇指
+my forefinger and then march that stimulation across my finger across the palm into the nearby thumb.
+你会看到大脑中的神经元也会在它们的激活模式中形成一种J形
+You would see that neurons in the brain would also make a sort of J shape in their pattern of activation,
+这意味着他们所谓的  体感皮质定位
+so that means their so called somatotopy.
+但是这些大脑神经元的连接被发送到身体里
+But the connections from those brain neurons are sent into the body,
+它们是同步的 也就是说它们与一种突触交叉连接
+and they are synchronized with meaning they cross wire with an n form synapses with 
+与内脏的一些输入
+some of the input from the viscera from our guts,
+从我们的隔膜  到我们的胃
+from our diaphragm from our stomach,
+我们的脾脏
+from our spleen.
+我们的心脏
+from our hearts.
+我们的内脏将信息发送到我们大脑中的体表地图上
+Our internal organs are sending information up to this map in our brain of the body surface,
+这是内部信息的
+but it's about internal information.
+这就是我们所说的拦截或能力 去审视  或想象和去感受我们内心的感受
+What we call interception or ability to look inside or imagine inside and feel what we're feeling inside.
+所以准确地说 我们对自我的描述是对我们内部运作的描述
+So the way to think about this accurately is that our representation of our self is a representation of our 
+是内脏 是我们皮肤里的一切
+internal workings are viscera guts everything inside our skin and 
+皮肤表面和外部世界
+the surface of our skin and the external world.
+我们所看到的这三样东西总是结合在一起
+What were seeing those three things are always being combined in a very interesting,
+复杂但无缝衔接
+complex but very seamless way.
+针灸包括用针 有时也用电或热
+Acupuncture involves taking needles and sometimes electricity and or heat as well,
+刺激身体的特定部位
+and stimulating particular locations on the body.
+这些刺激大脑表征地图已经发展了几千年了
+And through these maps of stimulation that have been developed over thousands of years.
+主要在亚洲
+Mostly in Asia.
+但现在这在世界上很多地方
+But now this is a practice that's being done.
+都在开始实践
+many places throughout the world.
+他们的地图能传达
+They have these maps that speak to.
+哦
+Oh,
+
+如果你刺激身体的这个部位
+if you stimulate this part of the body,
+你会有这样的反应
+you get this response.
+如果有人有肠胃问题 比如他们的肠道移动得太快  会腹泻
+And if somebody has a gastrointestinal issues like their guts are moving too quickly of diarrhea,
+你刺激这个区域 就会减缓他们的肠道运动
+you stimulate this area and you'll slow their gut motility down,
+或者如果想要促进他们的肠道运动   为了减缓便秘
+or if their gut motility is to slow their constipated,
+你在刺激其他地方  听到这里
+you stimulate someplace else in the accelerator and hearing about this of 
+对一个没有考虑过潜在的神经回路的西方人来说  听起来有点
+it sounds kind of to a Westerner who's not thinking about the underlying neural circuitry.
+这听起来可能有点古怪
+it could sound kind of wacky.
+这听起来真的很另类 甚至有点你知道的
+It really sounds like alternative or even kind of you know really out there,
+超越知识范围的事情
+kind of stuff,
+但当你观察神经回路时
+but when you look at the neural circuitry,
+这种神经解剖学开始有意义了
+the neural anatomy it really starts to make sense and traumas.
+哈佛医学院的马教授的实验室  是一个优秀的实验室
+Lab at Harvard Medical School is an excellent laboratory has been 
+一直在探索不同类型的刺激
+exploring how stimulation of different types,
+在身体的不同部位加上热量  有强或弱
+intense or weak with heat or without he on different parts of the body,
+可以调节疼痛和炎症
+can modulate pain and inflammation.
+他们在一项特别棒的研究中显示了  对腹部的刺激
+and what they've shown in a particularly exciting study is that stimulation of the abdomen.
+在上腹部的任何地方每周做这个  那什么效果都没有  很有趣吧
+Anywhere on the in the midsection weekly does nothing then felt very interesting,
+而如果是腹部的集中刺激
+You might say intense stimulation of the abdomen.
+然而
+However,
+这样针灸之后
+with this electoral,
+会有很强的效果
+acupuncture has a very strong effect.
+体内的炎症在增加
+Have an increasing inflammation in the body.
+理解这一点很重要
+And this is important to understand,
+刺激肠道并不仅仅是因为激活了肠道区域
+because it's not just that stimulating the gut does this because you're activating the gut area?
+它激活了狂热者的一种特殊神经通路
+It activates a particular nerve pathway for the aficionados.
+这是脾脊髓交感神经轴
+It's the splenic spinal sympathetic axis.
+如果你真的想知道细节  它会引发炎症
+If you really want to know and its pro inflammatory.
+在大多数情况下
+Under most conditions,
+但是
+however,
+还有其他一些条件下
+there are other conditions where if,
+例如
+for instance,
+这个人正在细菌感染  这可能是好的
+the person is dealing with a particular bacterial infection that can be beneficial,
+这又回到了我们在上一期播客中讨论的话题
+and this goes back to a much earlier discussion that we had on a previous podcast,
+我们会反复回顾
+we'll revisit again and again,
+应激反应是用来对抗感染的
+which is that the stress response was designed to combat infection.
+事实证明 腹部有一些特定的刺激模式
+So it turns out that there are certain patterns of stimulation on the abdomen 
+可以从我们的免疫器官中释放免疫细胞
+that can actually liberate immune cells from our immune organs,
+比如我们的脾脏和抗感染
+like our spleen and counter infection.
+通过肾上腺素等物质的释放
+Through the release of things like adrenaline.
+马教授的实验室还表明 刺激脚和手可以减少炎症
+Chief was Lab also showed that stimulation of the feet and hands can reduce inflammation.
+这也是一种机制
+And again this was done mechanistically.
+这是通过通过适当的对照实验阻断某些通路来实现的
+This was done by blocking certain pathways with the appropriate control experiments.
+这不是一种主观的方法
+This was done not in any kind of subjective way.
+这也可以通过测量特定的分子来实现
+This was also done by measuring particular molecules.
+我将在所有与炎症反应相关的种类和事物中
+I'll six inside all kinds and things that are related to the inflammation response,
+他们展示的是
+and what they showed is that the stimulation of the,
+特别是后肢
+in particular the hind limbs.
+低强度的炎症导致
+At low intensity led to
+迷走通路的活动增加
+Increases in the activity that's Vigo pathway,
+迷走神经
+the vagus nerve.
+作为第十条脑神经 它负责休息和消化副交感神经
+Being this tenth cranial nerve that serves the kind of rest and digest parasympathetic,
+换句话说
+in other words,
+它负责镇静反应
+calming response.
+这意味着  我们现在处于这个研究领域的前沿
+So what this means is that we are now at the front edge of this research field.
+这还处于早期阶段
+That's it's early days still,
+但它的发现  取决于
+but its discovering that depending on whether or not the end,
+刺激的结束是强烈还是温和
+the stimulation is intense or mild,
+取决于刺激是在身体的哪个部位进行的
+and depending on where the stimulation is done on the body,
+你可以得到非常不同的效果
+you can get very different effects.
+这就指向了一个观点 你不能说针灸好
+So this points to the idea that you can't say acupuncture,
+或者针灸不好
+good or acupuncture bad.
+必须对你想要达到的效果有一个系统的理解
+There has to be a systematic understanding of what exactly the effect is that you're trying to achieve,
+这背后的基础和我之前说过的肾上腺素有关
+and the underlying basis for this is really relevant to the thing about adrenaline that I said before 
+它们在争夺
+that in a fight,
+你很少会在经历了那种经历之后  还会感到疼痛
+it's rare that you ever feel pain when you get hit of experience that but later it hurts a lot.
+事实证明 当你刺激这些通路 尤其是激活肾上腺时
+It turns out that when you stimulate these pathways that activate in particular the adrenals,
+肾上腺释放去甲肾上腺素和肾上腺素
+the adrenal gland liberates norepinephrine and epinephrine.
+大脑也一样
+And the brain does as well.
+它与β去甲肾上腺素结合
+it binds to what are called the beta noradrenergic receptors.
+现在开始有点复杂了
+This is really getting kind of down into the weeds.
+但β去甲肾上腺素
+But the beta,
+激活了脾脏
+noradrenergic receptors activate the spleen,
+它能释放出对抗感染和抗炎的细胞
+which liberates cells that combat infection and its anti inflammatory.
+这是短期的
+That's the short term.
+快速反应
+quick response.
+刺激腹部等部位越强烈
+The more intense stimulation of the abdomen and other areas can be pro-inflammatory
+这可能是促炎的  是因为它们触发回路的方式
+because of the ways that they trigger certain loops that 
+会回到大脑 并触发焦虑通路
+go back to the brain and trigger the sort of anxiety pathways,
+这会让人们陷入焦虑状态 加剧痛苦
+and that place people into a state of anxiety that exacerbates pain.
+所以一种途径会刺激去甲肾上腺素并钝化感受
+so one pathway stimulates norepinephrine and blunts plane
+另一个没有
+The other one doesn't.
+这一切意味着什么
+What does all this mean?
+我们要怎么把这一切联系起来呢
+How are we supposed to put all of this together?
+
+在2014年 自然医学 杂志上发表了一篇论文
+there's a paper that was published in Nature Medicine in two thousand and fourteen through the excellent 
+描述了多巴胺如何激活你的周围迷走神经
+journal that describes how dopamine can activate the vagus peripherally in thee.
+而不是大脑中的多巴胺
+not dopamine in the brain.
+周围和去甲肾上腺素可以激活周围迷走神经 减少炎症
+peripherally and norepinephrine can activate the vagus peripherally and reduce inflammation.
+我不是想扔给你一堆术语
+I'm not trying to throw a ton of facts,
+然后让你自己悟
+it use it.
+
+我该怎么处理这些信息呢
+What am I supposed to do with all this information?
+这意味着我们的体表是有地图的
+What this means is that there are real maps of our body surface that,
+当它被刺激
+when stimulated.
+与自主神经系统联系
+Communicate with our autonomic nervous system,
+与控制警觉或冷静的系统联系
+the system that controls alertness or calmness,
+从而释放去甲肾上腺素和多巴胺等分子
+and thereby releases either molecules like norepinephrine and dopamine,
+它们会使我们在战斗时更加警觉
+which make us more alert as we would be in a fight
+ 并减弱我们对疼痛的反应 减少炎症
+and blunt our response to pain and they reduce inflammation.
+但还有其他途径
+But there are yet other pathways that,
+当刺激
+when stimulated,
+促炎症的时候
+are pro-inflammatory.
+这就给我们带来了一个问题  你说的这些炎症是什么啊
+And that brings us to the question is what is all this an inflammation stuff that people are talking about?
+最近有一件事让我很困扰
+One of the things that bothers me so much these days,
+我不容易生气
+and I'm not easily irritated,
+但真正困扰我的是  当人们谈论炎症时
+but what really bothers me is when people are talking about inflammation,
+都说炎症是不好的
+what inflammation is bad.
+炎症是很棒的
+inflammation is terrific.
+炎症是细胞被召集到受伤部位  并清除感染
+Inflammation is the reason why cells are called to the site of injury to clear it out.
+炎症会让你从任何创伤中痊愈
+Inflammation is what's going to allow you to heal from any injury.
+慢性炎症是不好的
+Chronic inflammation is bad,
+但是急性炎症是绝对必要且很好的
+but acute inflammation is absolutely essential.
+还记得我们之前谈到的那些孩子吗
+Remember those kids that we talked about earlier that have 
+他们的疼痛受体发生了突变
+mutations in these receptors that for sensing pain,
+他们不会发炎
+they never get inflammation,
+这就是为什么他们的关节
+and that's why they're joints,
+会被逐渐瓦解
+literally disintegrate.
+这真的很可怕 因为他们实际上没有炎症反应
+It's really horrible because they don't actually have the inflammation response 
+因为验证从来都不会被疼痛反应触发
+because it was never triggered by the pain response.
+所以炎症是非常有益的
+So inflammation can be very beneficial.
+现在有很多人对和抑制炎症有关的东西很感兴趣
+There is a lot of interest nowadays in taking things and doing things to limit inflammation.
+其中一个经常出现的是姜黄
+One of the ones that comes up a lot is tumeric.
+我确定一旦有人开始谈论炎症
+I'm sure the moment anyone starts talking about inflammation.
+第一个问的就是  姜黄怎么样？
+The question is what about tumeric?
+我以前在别的地方谈到过姜黄
+I have talked before about tumeric elsewhere.
+我对姜黄非常怀疑 我可能会失去一些朋友
+I am very sceptical of turmeric and I might lose a few friends.
+虽然这么说有点奇怪
+Although they'd be weird.
+如果我的朋友
+If my friend,
+算了还是不说友谊这个吧
+I would say something about my friendships,
+万一因为今天这个讨论  结果到了明天失去了一部分朋友呢
+if I lost friends over a discussion about tomorrow.
+但无论如何
+But in any case.
+姜黄确实有抗炎作用
+Tumeric does have anti inflammatory properties.
+毫无疑问
+There's no question about that,
+但正如我们刚刚描述的
+but as we've just described,
+炎症可能是件好事
+inflammation can be a very good thing,
+至少短期的发炎是好事
+at least in the short term.
+关于姜黄的另一件事是  斯坦福大学发表的一项研究与其他大学的一些研究相联系表明
+The other thing about turmeric is There was a study published out of Stanford in connection with some work 
+很多姜黄都受到了铅的严重污染
+from other university showing that a lot of turmeric is heavily contaminated with lead.
+铅是用来让姜黄
+The lead is used to get that really rich,
+呈现
+dense,
+上那种黄色  大家都想要的那种颜色效果
+orange coloring to it that everyone wants to see,
+所以你得检查一下姜黄的来源
+so you have to check your sources of tumeric.
+另一件事  特别是对于男性
+The other thing is for men in particular,
+迄今为止 姜黄对双氢睾丸激素具有很强的拮抗作用
+turmeric can be very antagonistic to dihydrotestosterone
+双氢睾丸激素是人类男性体内更主要的雄性激素
+to dihydrotestosterone is the more dominant form of androgen in human males,
+它涉及到侵略性和性欲之类的东西
+and it's involved in things like aggression and libido and things of that sort.
+我和许多服用过姜黄的人交谈过 他们的情感和性欲会严重减弱
+Many people that I've talked to who've taken tumeric get a severe blunting of affect and libido.
+所以对一些人来说 这可能是一个严重的负面影响
+So for some people that might be a serious negative.
+当然我不用姜黄
+I certainly avoid tumeric.
+我不喜欢姜黄
+I don't like turmeric.
+出于铅这个原因
+For that reason,
+当然我也认为炎症反应是健康的反应
+I also think that the inflammation response is a healthy response.
+你需要炎症 等等我们马上会讲到伤口愈合的
+You have to keep it in check and we're going to talk about specific practices for wound healing 
+具体做法
+an injury in a moment.
+但大家都觉得炎症是不好的  要全面减少炎症
+But this idea that just inflammation is bad and you want to reduce inflammation across the board.
+没有什么比这更荒谬了
+Nothing could be further from the truth.
+我们的身体里有一些通路
+We have pathways that exist in our body,
+专门是为了增加炎症的
+specifically to increase inflammation.
+这是不受控制的炎症
+It's the inflammation that goes unchecked,
+就像压力
+just like stress,
+这对于大脑损伤的修复是有影响的
+which is problematic for repair for brain injury,
+这可能会加剧某些形式的痴呆症
+and that can exacerbate certain forms of dementia,
+
+但我想要说一些更细微的差别
+But I'd like to create a little bit more nuance or a lot more nuanced,
+如果可能的话 在关于炎症的讨论中
+if possible in the conversation around inflammation,
+因为人们在对于炎症  总认为炎症是有害的
+because people have just taken in this discussion around inflammation to be this idea that just inflammation 
+没有什么比这更偏离事实了
+is bad and nothing could be further from the truth.
+在我继续讲下去之前
+Before I continue,
+我只是想回答一个我经常被问到的问题
+I just thought I'd answer a question that I get a lot,
+这就是维姆·霍夫
+which is what about Wim Hoff.
+冰人呼吸法
+Breathing.
+有人问我这个问题
+I get asked about this.
+很多人
+A lot.
+维姆·霍夫呼吸法也称冰人呼吸法  有点像tummo呼吸法
+Wim Hof also called a K the Iceman has his breathing that similar to tummo breathing
+像它最初的名字那样
+as it was originally called,
+就是涉及到换气过度  然后做一些呼气和呼吸
+involves basically hyperventilating and then doing some exhales and breath holds a couple things about that.
+但千万不能在
+It should never be done.
+水里做这个
+Your water.
+不幸的是 一些人在水里做  结果淹死了
+People who have done it in your water unfortunately have drowned.
+当然也不是每个人都适合
+It's not certainly not for everybody,
+我现在这么说不是为了鼓励或阻止人们这样做
+and I'm not here to either promoted nor discouraged people from doing it,
+但我想我们应该问问自己 这样做的最终结果是什么
+but I think we should ask ourselves what is the net effect of that?
+因为很多人问过我关于疼痛管理的问题
+Because a number of people have asked me about it in relation to pain management,
+这种呼吸的效果
+the effect of doing that kind of breathing,
+这并不是一个神秘的效果
+it's not a mysterious effect.
+它把肾上腺素从肾上腺素中释放出来
+It liberates adrenaline from the adrenals.
+有一篇论文发表在 《美国国家科学院院刊》 上
+There is a paper published in the Proceedings of the National Academy of Sciences,
+这是一本非常好的杂志 它表明呼吸模式可以对抗内毒素感染
+which is a very fine journal showing that that breathing pattern can counter infection from endotoxin.
+这是因为当你体内有肾上腺素的时候  当脾脏非常活跃的时候
+And that's because when you have adrenalin in your system and when the spleen is very active.
+这种反应是用来对抗感染的 所以压力是用来对抗感染的
+That response is used to counter infection and stress counters infection.
+我们会进一步讨论这个问题
+We'll talk about what this more going forward.
+但是压力会导致感染这个观点是错误的
+But the idea that stress lends itself to infection is false.
+压力通过释放体内的杀伤细胞来对抗感染
+Stress counters infection by liberating killer cells in the body.
+你不希望压力反应无限期地持续下去
+You don't want the stress response to stay on indefinitely.
+然而
+However.
+比如维姆·霍夫呼吸法
+Things like Wim Hoff.
+冰浴  这种方法
+Breathing like ice baths,
+任何能释放肾上腺素的东西都能抵抗感染
+anything that releases adrenalin will counter the infection.
+但你需要调节肾上腺素反应的持续时间
+But you want to regulate the duration of that adrenaline response.
+这应该有助于大家理解
+This should make perfect sense.
+作为一个物种 我们必须在饥饿和寒冷的条件下进化
+We as a species have to evolve under conditions of famine and cold.
+实际上
+Actually,
+现在的德克萨斯州就是一个极端例子  寒冷  断电
+Texas right now is an extreme case of cold and power hours.
+我看过照片
+I've seen the pictures,
+还有很多人真的在受苦
+and there are a lot of people out there are really suffering.
+他么的系统在低温下会释放大量的肾上腺素
+Their systems are releasing a ton of adrenaline there cold,
+有些人可能还是饿的状态
+some of whom are likely to be hungry.
+他们可能很紧张
+They are probably stressed.
+他们会释放大量的肾上腺素
+They're releasing a lot of adrenalin,
+这使他们免受感染
+which is keeping them safe from infection.
+在他们恢复体温 放松下来之后 可以再次暖和起来
+After they get their heat back on and they relax and they can finally warm up again,
+希望他们能尽快得到恢复
+which we would like for them very soon,
+希望大家能在本期播客中找到答案
+hopefully went down in this podcast comes out.
+但这已经发生了
+That will have already happened.
+因为免疫反应迟钝 人们通常会生病
+That's typically when people get sick because the immune response is blunted.
+当压力反应开始消退
+As the stress response starts to subside.
+压力炎症
+So stress inflammation,
+对抗从末端到毒素的感染
+countering infection that comes from end to toxin that comes from 
+可能来自煤炭的东西或者过度通风
+any number of things can be from coal that can be from hyper ventilation.
+也可能是身体上的威胁
+It can be from a physical threat.
+它可能来自于即将面临的考试  或即将到来的手术的压力
+it can be from the stress of an exam or an upcoming surgery.
+这肾上腺素
+This adrenalin thing.
+与之相关的炎症是适应性的高度适应性的
+And the inflammation associated with it is adaptive highly adaptive.
+这是一种短期的可塑性 为的是使我们在所经历的和所面临的挑战中
+It is a short term plasticity that is designed to make us better for what we're experiencing 
+状态更好 而不是更糟
+and challenged with not worse.
+所以希望这能给大家在觉得炎症不好这点上  多一层理解和思考
+and so hopefully that will add an additional layer to this whole idea that stress is bad inflammation as bad,
+
+
+我并不是建议人们去做或者不要去做像维姆·霍夫呼吸法
+I'm not suggesting people do or don't do something like Wim Hoff.
+tummo呼吸
+tummo breathing,
+我只是想指出
+I just want to point to.
+这种方法的效果和
+The utility is very similar to the utility,
+洗冷水澡的效用非常相似
+from cold showers,
+冰浴和其他任何能增加肾上腺素的活动
+ice baths and other forms of anything that increase adrenaline.
+每一期中
+Every episode.
+我都想确保每一位听众在听完离开时都能获得尽可能多的知识
+I want to make sure that every listener comes away with as much knowledge as possible,
+获得尽可能多的可操作的工具
+but also actionable tools.
+今天我们讲了很多工具
+And today we talked about a variety of tools.
+但我想说其实这一系列可能是你不需要的工具
+But I want to send her in on a particular sequence of tools that hopefully you won't need,
+前提是
+But presumably,
+如果你是个有活力的人类
+if you're a human being in your active,
+在某些时候你会需要这种工具
+you will need at some point.
+这些工具方法是关于处理伤病 快速恢复和愈合的
+it's about managing injury and recovering and healing fast,
+越快越好的那种
+or at least as fast as possible.
+包括消除疼痛 恢复行动能力 恢复正常生活
+It includes removing the pain it includes getting mobility back and getting back to a normal life.
+不管这对你意味着什么
+Whatever that means for you,
+我要强调的是 我接下来要讲的内容是在与凯利·斯塔雷特 密切交谈后
+I would emphasize that what I'm about to talk about next was developed in close consultation with
+得出的结论
+Kelly Starrett
+你们很多人可能听说过
+who many of you probably have heard of before.
+可以在就绪状态找到凯利
+Kelly can be found at the ready state.
+他受过正规训练
+He's a formally trained,
+是有学位的运动生理学家
+so degreed and educated exercise physiologist,
+他是运动和组织康复方面的世界级专家
+he is a world expert in movement and tissue rehabilitation,
+
+他们不是播客的赞助商
+There are not sponsors of the podcast.
+凯利是我的朋友和同事
+Kelley is a friend and a colleague.
+他是我信任的人 他对组织康复和损伤的看法
+He's somebody that I personally trust and his views on tissue rehabilitation and injury.
+我认为在医学生理学和新事物的前沿
+I think are really grounded extremely well in both medicine physiology 
+都有非常坚实的基础
+and the real cutting edge of what's new.
+你可能从一般人那里得不到这种建议
+What you might not get in terms of advice from the typical person.
+但是 在采用或取消任何治疗方法之前
+All that said you always always always should consult with your physician before adopting 
+你总是应该咨询你的医生
+any protocols or removing any protocols.
+于是我问凯利
+So I asked Kelley,
+我很简单的问
+I made it really simple,
+我说
+I said.
+好吧
+OK,
+假设我扭伤了我的脚踝 或者摔断了我的胳膊 或者伤了我的膝盖
+let's say I were to sprained my ankle or break my arm or injure my knee or AC.
+我可能会撕裂或者肩膀受伤
+I'll tear or something like that or shoulder injury.
+这个时候
+What are the absolute
+无论在什么情况下都要做的必要的事情是什么？有什么科学基础？
+Necessary things to do regardless of situation and what science is this grounded in,
+然后我可以以此为目标
+and then I made it a point to go.
+去找出支持或反驳他的观点的研究
+find the studies that either supported or refuted what he was telling me,
+因为作为教授我就是要这么思考问题
+because that's why I'm here.
+第一个是非常基本的
+So the first one is a very basic one,
+现在你有了很多可以借鉴的信息
+that now you have a lot of information to act on,
+也就是
+which is.
+根据我们对组织康复的了解
+In terms of what we know about tissue rehabilitation,
+包括大脑和身体
+both brain and body,
+我们知道睡眠是必不可少的
+we know that sleep is essential,
+所以我们都同意  每晚至少8小时的睡眠时间是至关重要的
+and so we both agreed that eight hours minimum in bed per night is critical now.
+然而
+What was interesting,
+有趣的是
+however,
+就是
+is that.
+不一定非得是8小时的睡眠
+It doesn't have to be eight hours of sleep.
+我们承认有些时候很难入睡
+We acknowledge that some of that time might be challenging to get to sleep,
+尤其是当一个人感到疼痛或者行动受限的时候
+especially if one is in pain or mobility is limited.
+
+我们会忘记我们在床上翻身的频率  或者你知道的
+we forget how often we roll over in bed or how about the you know.
+我们的睡眠状况会影响这些伤口的愈合
+The conditions of our of our sleeping can impact those injuries to sew.
+凯利承认 我也同意8小时的睡眠是最理想的
+Kelly acknowledged and I agree that eight hours of sleep would be ideal.
+但如果不是至少8小时的移动时间 这就说明了这些NSDR方法的力量
+but if not at least eight hours in mobile and that speaks to the power of these non sleep,
+如果你睡不着
+deep breaths protocols to if you can't sleep,
+做非睡眠深度休息方法NSDR
+doing non sleep deep rest protocols,
+在我们之前放过链接 我们会继续提供一些链接
+we've provide links to them before we're going to continue to bride links to the previous ones,
+而且新的视频很快就会推荐给你们
+and new ones are coming soon.
+这是非常有益的
+That is extremely beneficial,
+所以这在淋巴清除和组织清除的基础方面
+so that's a non negotiable in terms of getting the foundation for allowing
+它的好处是没有商量余地的
+for lymphatic clearance and tissue clearance,
+
+另一个是 如果可能的话
+The other is if possible,
+除非你每天十分钟都不能走
+unless it's absolutely excruciating when you just can't do it a ten minute walk per day.
+当然 你不想让伤势恶化  那么每天至少走10分钟 或者走更长时间
+Of course you don't want to exacerbate the injury at least a ten minute walk per day and probably longer.
+这就是有趣的地方
+This is where it gets interesting.
+他教我这个
+I was taught.
+我知道  当受伤的时候
+I learned that when you injure yourself,
+应该用冰敷
+you're supposed to ice something you're supposed to put ice on it.
+但是我没有意识到背后的原理
+But I didn't realize this.
+直到当与运动生理学家和一些医生交谈时
+But when speaking to exercise physiologists and some physicians,
+他们说冰敷实际上更像是一种安慰剂
+they said that the ice is really more of a placebo.
+它使受伤的环境变得麻木
+It numbs the environment of the injury,
+这并不奇怪 而且会暂时消除疼痛
+Which is not surprising and will eliminate the pain for a short while.
+但它也有一些负面影响 可能会抵消了它的好处
+But it has some negative effects that perhaps offset its use.
+其负面影响之一是  会产生凝血块  粘在血液里和其他淋巴组织内
+one its sludge is it creates slugging within the blood and other lymphatic tissue so that 
+这样会形成一些凝血和凝结块  在一些组织  筋膜上
+she can create somewhat clotting and slugging of the of the tissue and fluids the fascial 
+与肌肉表面相连的筋膜  然后很多流经其中的物质  会减缓速度
+the fascial interface with muscle and a number of the stuff that must be flowing through their can 
+然后炎症以一种错误的方式增加  限制损伤部位之外的运动
+slow up an increase Inflammation in the wrong way can actually restrict movement out of the injury site,
+这不太妙   因为你需要巨噬细胞和其他类型的细胞
+which is bad because you want the macrophages and the other cell types fret.
+具有吞噬作用
+phagocytosing
+把伤口的废物消化掉 然后把它移出来 这样伤口才能修复
+eating up the debris in an injury and moving it out of there so that it can repair.
+这让我很惊讶
+So that was surprising to me,
+这让我不禁要问
+which made me ask.
+
+然后
+then,
+热呢
+what about heat?
+
+事实证明 受热其实很有好处
+it turns out he is actually quite beneficial.
+很多人都在说热休克蛋白  以及所有这些可以被热激活的基因途径
+A lot of people talk about heat shock proteins and all these genetic pathways and protein pathways 
+和受热激活的蛋白质通道
+that can be activated by heat.
+很少有数据支持热休克蛋白可以让伤口愈合的这一观点
+Very little data to support the idea that heat shock proteins are part of the wound healing process,
+至少在传统的热敷方面 人们都用一个热水瓶
+at least in terms of the sorts of conventional heat that one could use like a hot water bottle 
+热水澡或者热敷
+or a hot bath or a hot compress.
+主要的影响似乎可以用以下解释
+The major effect seemed to be explained by heat,
+受热可以改善组织的黏度  让液体血液
+improving the viscosity of the tissues and the clearance and the profusion of of fluid blood,
+淋巴液和其他远离受伤区域的体液变得干净和充盈
+lymph and other fluids out of the injury area.
+这很有趣
+So that's really interesting.
+我之前不知道这些
+I didn't know this,
+我以为
+I thought.
+
+应该冰敷
+you're supposed to ice something,
+只要我想到  一个孩子在足球比赛中受伤
+I said whenever I would like to see a kid Get injured in soccer.
+期望现实中永远不要有
+Never may,
+当然
+of course,
+
+当然
+of course,
+那么如果是我在足球比赛中受伤了
+I got injured in soccer in time.
+一般都会给你冰袋
+Did they give you an ice pack?
+冰袋可以减轻一些疼痛
+And the ice pack removes some of the pain.
+我认为现在的共识是
+I think the consensus now,
+这让我很惊讶
+which was surprising to me,
+冰袋实际上是自上而下的调节
+is that the ice pack is actually more of the top down modulation.
+你觉得你是在缓解痛苦
+You think you're doing something for the pain.
+有一些有趣的研究显示了冰袋具有安慰剂效应
+And there are some interesting studies that actually show the placebo effect of the ice pack.
+所以冰袋是安慰剂
+so ice packs are placebo.
+这很有趣
+Perhaps that's interesting.
+我强调一下这点
+I'll underline,
+也许  谁知道呢
+perhaps because who knows,
+也许有些人会说这太疯狂了
+maybe there are some people out there that are going to say this is totally crazy 
+冰实际上是非常有益的
+and the ice is actually very beneficial.
+但似乎是  热  运动
+It seems like heat mobility,
+睡眠
+sleep.
+保持运动 事实证明运动本身可以起到止痛的作用
+Keeping movement and it turns out that the movement itself can act as a bit of an analgesic.
+它实际上可以减轻疼痛
+It can actually reduce the pain,
+而冰确实可以减轻疼痛
+whereas the ice reduces the pain.
+但会产生瘀血 它阻止需要移除的细胞离开该区域
+But sludge is the tissue and keeps the cells that need to be removed from leaving the area.
+
+很有趣一点  神经科学中的一个共识
+what's also interesting is in neuroscience.
+我们都知道 如果我们想清除或麻痹神经元
+We know that if we want to kill neurons or silence neurons,
+我们会冷却神经元
+we cool them.
+这是实验室里众所周知的工具
+This is a well known tool in the laboratory.
+这是很早就发现的 也是最重要的
+Some of the early and most important.
+这是作为教科书基础的神经科学研究  是将一个冷却探测器降低到
+Studies in neuroscience that formed the basis for the textbooks were lowering a cooling probe into a 
+大脑的特定区域或周围神经
+particular area of the brain or a peripheral nerve in order to 
+来关闭该神经 这样冷却就会关闭神经
+shut down that nerve so the cooling will shut down the nerve.
+神经科学技术书籍中另一个众所周知的事实是
+Another very well known fact in neuroscience tech books is that 
+当神经通路或神经元的活动恢复时
+when the activity of the nerve pathway or neurons comes back,
+就是恢复所谓的自稳态可塑性  会伴随着更大的疼痛
+there's what's called homeostatic plasticity that it rebounds with greater pain 
+更高强度的疼痛会反弹在疼痛系统中  这就等同于更大的疼痛
+with a higher level of intensity which in the pain system would equate to greater pain.
+所以不管这些神经元在体内的哪个位置
+So regardless of where these neurons are in the body,
+如果你刺激一个神经元
+if you stimulate a neuron,
+被激活了
+it's active.
+如果你冷却它
+if you cool it,
+它变得不活跃
+it becomes inactive,
+当神经元在被冷却后重新升温时
+and when the neuron heats back up after being cooled,
+它变得活跃
+it becomes hyperactive.
+这就很好地解释了为什么热在不造成破坏的情况下
+And so this makes really good sense as to why heat provided it's not damaging.
+从短期和长期来看 受热更有利于伤口愈合和减少疼痛
+Levels of heat would be more beneficial for wound healing and for reducing pain in the short and long run,
+然后是冷和冰
+then would be cold or ice,
+我觉得这方面很有趣  而在慢性疼痛中
+which I find very interesting now in terms of chronic pain.
+关于这个的笔记
+The manuscripts on this,
+在我和凯利还有其他同事的讨论中
+my discussion with kelly and others.
+他们指出 慢性疼痛基本上是可塑性出了问题
+They point to the fact that chronic pain is basically plasticity gone wrong.
+这有点像创伤后应激障碍
+It's sort of like PTSD.
+因为压力系统中的情绪系统和慢性疼痛  会涉及到许多不同的方法
+For the emotional system in the stress system and chronic pain is going to involve a number of different 
+来重新连接大脑中心和与慢性疼痛相关的外周中心
+protocols to rewire both the brain centers and the peripheral centers associated with chronic pain.
+比如纤维肌痛
+Certain things like fibromyalgia,
+也就是全身疼痛感与大脑中的抑制几乎没有关系  你有激活和抑制
+which is whole body pain related to little inhibition in the brain you have excitation and inhibition.
+它们来自不同的神经元来源
+they come from different sources of neurons.
+抑制作用主要来自Gaba和甘氨酸
+The inhibition is mainly from Gaba and glycine,
+诸如此类
+and things like that.
+在纤维肌痛
+In fibromyalgia,
+大脑的中心的参与太少了
+there's too little central within the brain.
+调节疼痛反应 使人们体验全身疼痛
+Modulation of the pain responses so that people experience whole body pain.
+在这种情况下
+so in that case,
+新兴的治疗方法非常有趣
+the emerging therapies are really interesting.
+我有个朋友在国立卫生研究院工作
+I have a friend who works for the National Institutes of Health,
+不幸的是 他就有纤维肌痛
+who unfortunately suffers from fibromyalgia.
+他问了我很多关于这个的问题  他现在正在探索红光疗法
+Who asks me about this a lot and his question in what he's now actually exploring is red light therapy,
+我在一些Instagram帖子上都提到过
+something that I've talked about on various Instagram posts.
+红光疗法通常是从线粒体的角度来看  关于红光疗法的数据并不是很好
+Red light therapy typically is talked about in terms of mitochondria and the data on that
+ 并没有在蓝带杂志上发表很多文章
+are not so terrific that he's not really published in blue ribbon journals in most cases,
+除了一项研究  我知道
+except for one study that I'm aware of.
+伦敦大学学院格伦·杰弗瑞实验室
+from Glenn Jefferies lab at University College London,
+他们研究表明红光对眼睛
+showing that red light stimulation to the eyes and people,
+以及40岁或40岁以上人可以抵消黄斑变性的一些影响
+forty or older can offset some of the effects of macular degeneration.
+通过改善光受体的健康
+By improving the health of the photo receptors,
+改善纤维肌痛
+people with fibromyalgia,
+就是全身的疼痛
+which is this whole body pain,
+他们开始使用红光疗法
+are now starting to use red light therapies.
+我问了凯利和其他一些疼痛专家
+and I asked Kelley and others and some experts in pain.
+你对红光疗法对纤维肌痛和疼痛有什么看法
+What are your thoughts on this red light therapy for things like fibromyalgia and pain,
+特别是红光的
+especially red light,
+局部治疗
+Local therapy.
+他们和我都认为  这个领域目前还没有取得足够的进展
+Their idea and I don't think this is a field that's progressed far enough now to really
+无法得出任何确切的结论
+place any firm conclusions on.
+但其想法  局部红光疗法可能有一些效果
+But the idea is that red light therapy locally may have some effect.
+但是全身红光疗法
+but the systemic red light therapy.
+比如说  就给眼睛戴上护目镜  然后全身疗法
+This is like wearing protection to the eyes,
+在一些情况下  不是从治疗黄斑变性
+in some cases so not from the treatment of macular degeneration.
+但是我们的眼睛受到了保护 光线非常明亮
+But we're in protection of the eyes and getting very bright light.
+红光疗法在很多方面都有两种
+Red red light therapy in many ways may be in twos,
+凯利的话近似于自然的影响
+Kelly's words approximating the effects of nature.
+这些就像是户外晒太阳的替代技术
+These are like surrogate technologies for getting outside in the sunshine,
+
+当你在阳光下
+when you're in the sun,
+光看起来可能不是红色的
+it might not look red,
+但是有很多红色的波长向你袭来
+but there are a lot of red wavelengths coming towards you,
+因此 红光疗法可能有一些用处
+so the red light therapies may have some utility.
+但在阳光下可能会有同样或更多的效果
+But getting into sunlight may actually have as much or more effect.
+当然
+Of course,
+如果这些伤口是在你不能暴露的身体部位
+if these wounds are on a part of the body that you can't expose than 
+那么你就可以想象为什么红光疗法可能会好一点
+you could imagine why the red light therapy might be good out of 
+要看你所居住的社区
+depending on the neighborhood you live in.
+要是你全裸暴露在阳光下 也许不是件奇怪的事
+That mayor may not be a weird thing to go outside and expose your body to sunlight.
+可能有很多因素决定了这种行为是否怪异
+Probably a number of factors that dictate whether or not they will be weird or not.
+这取决于你的选择
+but that's up to you,
+别看我
+not me.
+似乎  运动  受热
+And it seems that so movement heat,
+不是冰  而是光
+not ice light,
+还有睡眠
+sleep.
+在某些情况下
+And in some cases,
+我一会儿会讲到一些情况下
+the use and I'll talk about this in a moment that some cases,
+在伤口上方和下方进行扎紧 然后释放
+the use of of restricting above and below the injury to then release and 
+然后增加伤口的浓度
+then increase profusion through the site,
+可能会加速伤口愈合
+so may actually accelerate the wound healing.
+所有这些听起来都像是常识
+So all of this might sound just like common sense knowledge.
+但对我来说 至少在我45岁的时候
+But to me at least as at forty five year old,
+我一直以为是冰
+I always just thought it's ice.
+非类固醇
+It's non steroids,
+抗炎药才是阻断前列腺素的东西 比如阿司匹林
+anti inflammatory drugs It's things that Brock block prostate gland and so things like aspirin,
+布洛芬
+ibuprofen,
+对乙酰氨基酚
+acetaminophen.
+这些东西通常通过阻断一些东西来起作用  比如它们被称为
+those things generally work by blocking things like they're called the cocks prostaglandin blockers 
+前列腺素阻滞剂之类的
+and things of that sort.
+神经通路上的东西
+things in that pathway.
+那些减轻炎症的治疗在一开始可能不是很好
+Those sorts of treatments which reduce inflammation may not be so great at the beginning.
+当你想发炎时
+When you want inflammation,
+它们可能对限制疼痛很重要
+they may be important for limiting pain,
+这样人们才能正常工作
+so people can be functional at all.
+但是我今天讲的内容是基于三个原则
+But the things I talked about today really are anchored in three principles.
+一是  炎症反应是良性的
+One is that the inflammation response is a good one.
+这就是我们了解到的
+This is what we're learning from.
+二  马秋富教授实验室对于针灸的研究
+Qiufu Ma lab's work on acupuncture.
+表明针灸对
+The immediate,
+急性炎症反应的治疗效果良好
+acute inflammation response is good.
+它会呼唤受伤的地方
+It calls to the site of injury,
+这些东西可以清除损伤和坏细胞
+things that are going to clean up the injury and bad cells.
+三  然后就会有一些物质来提高丰富性
+Then there are going to be things that are going to improve profusion.
+就像深度睡眠中  淋巴系统分泌会升高
+like the lymphatic system getting deep sleep fie elevated,
+特别是侧睡
+sleeping on one side.
+四  每周做三次低水平的有氧运动
+Low level zone to cardio three times a week.
+无  红灯
+Red light perhaps,
+可能会有用
+is going to be useful,
+虽然阳光会更好
+though sunlight might be just as good,
+这取决于你的情况
+depending on who you talk to.
+我们可能会在未来的一集里详细讨论这个问题
+And we talk about that probably more at length in a future episode,
+很多人会问我
+a number of people will ask me,
+干细胞的问题
+I'm sure about stem cells,
+我不想在这上面浪费你太多时间
+and I don't want to take more of your time by young.
+这真要讨论  可能得花一小时
+going into an hour long discussion about stem cells.
+干细胞存在于我们所有人体内
+Stem cells exist in all of us.
+在生长期间
+During development,
+我们是由干细胞创造出来的
+we were created from stem cells,
+所以干细胞  基本上可以变成任何东西
+which are cells that can become essentially anything later.
+细胞的谱系受到限制
+Cells get what's called restricted in their lineage,
+一个皮肤细胞
+so a skin cell.
+除非你对它做一些奇特的分子操作
+Unless you do some fancy molecular gymnastics to it,
+你不能把那个细胞变成神经元
+you can't actually turn that cell into a neuron.
+山中伸弥  因为发现这些山中因素而获得了诺贝尔奖
+Yamanaka won the Nobel Prize for finding these Yamanaka factors,
+就是可以让皮肤细胞变成神经元
+which you could give a skin cell to turn into a neuron.
+但目前还没有批准这种疗法
+But that's not an approved therapy at this time,
+但很多人问我关于富血小板血浆的问题
+but many people ask me about Platelet-Rich Plasma,
+所谓的PRP  就是抽
+so called prp they take blood,
+富集血小板的血
+they enrich for platelets,
+然后再把它注射回人体
+and they re inject it back into people.
+我说一下
+Here's the deal.
+这应该值得用一整期来讲
+This deserves an entire episode.
+目前还没有证据表明  注射血液是否是产生这种效果
+It has never been shown whether or not the injection itself is what's actually creating the effect.
+这也是针灸文献很长一段时间里都存在的问题的原因
+This is something that the acupuncture literature suffered from for a long time that the sham control 
+也就是所谓的假对照
+as it's called sham.
+我们不是说这是假的
+We don't mean it's a sham,
+但在科学上 说的是假的控制变量
+but in science you say a sham control,
+意思是你想怎么做就怎么做
+meaning you do everything exactly the same way you would like.
+所以对于针灸
+So for acupuncture,
+你要把针直接插到皮肤上
+you would bring the needle right up to the skin,
+但你不会真的把它戳进皮肤里
+but you wouldn't actually poke it into the skin.
+例如
+For instance,
+会有药物治疗的假对照
+there'll be a sham control with a drug treatment.
+你给一个人注射一种药物  在对照中  假对照是你把注射的东西拿过来
+you would inject a drug into a person and in the control the sham control would be that you would bring the 
+你可以注射或者不注射
+injection over you might do the injection or not do the injection.
+你能想象注射这个动作本身会有什么效果吗
+Can you imagine that the injection itself could have an effect?
+PRP是否具有与将一定量的流体注入组织  从而也会产生效果
+It's never really been shown whether or not Prp has effects that are separate from injecting 
+从未真正被证明
+a volume of fluid into a tissue.
+prp中含有干细胞的说法非常
+The claims that prp actually contain stem cells are very,
+非常不坚实
+very feeble,
+当你看文献的时候  或者你和干细胞领域的任何一位专家交谈
+and when you look at the literature and you talk to any one expert in the stem cell field,
+他们会告诉你PRP中的干细胞数量非常小
+They will tell you that it's the number of stem cells in Prp is infinitesimally small,
+事实上
+in fact,
+以至于这些注射prp治疗损伤的地方
+so much so that these places that inject prp for injuries are not allowed to 
+不允许使用 干细胞 这个词来宣传
+advertise through the use of the words stem cells.
+这是违法的
+It's actually illegal at this point,
+至少
+at least,
+据我所知 这是在去年年底是违法的 我猜现在仍然是
+as far as I know it was through the end of last year and I'm guessing it still is now.
+干细胞确实是一个令人兴奋的技术领域
+Stem cells are an exciting area of technology,
+然而
+however,
+佛罗里达有一家诊所几年前关闭了
+there's a clinic down in Florida that was shut down a couple of years ago 
+因为他们把从病人身上提取的干细胞注射到眼睛里  为了治疗黄斑变性
+for injecting stem cells harvested from patients into the eye for macular degeneration.
+这些人视力不好 但结果在将干细胞注入眼睛后不久
+These were people that were suffering from poor vision and very shortly after injecting these stem cells into the eyes,
+他们完全失明了
+they went completely blind.
+所以我是一个对干细胞治疗工作持怀疑态度的人
+So I'm somebody who is very skeptical of the stem cell treatment work that's out there.
+实际上在美国很难得到这种治疗
+It's actually very hard to get in the United States.
+就是出于这个原因
+For this reason,
+这是不被批准的
+it's not approved.
+prp治疗非常复杂
+The prp treatments are very complicated.
+它们的市场也不稳定
+The marketing around them is shaky at best.
+我相信很多人会说他们有prp的经历  并从中获益良多
+I'm sure a number of people will say that they had prp and benefited from it tremendously,
+我并不怀疑这真实性  不管是否是安慰剂效应
+and I don't doubt that whether or not it was placebo.
+今天
+Today,
+我们讲了很多关于自顶向下控制的内容
+we talked a lot about top down control.
+可能这只是安慰剂效应的变体
+That's just a variant on the word placebo,
+信仰效应的变体
+belief effects,
+不管它是不是安慰剂
+whether or not it was placebo or not.
+我不知道
+I don't know,
+你接受治疗的时候我不在
+I wasn't there.
+这得由你来决定
+That's for you to decide,
+我不是来告诉你该做什么或不该做什么
+and I'm not here to tell you that you should or shouldn't do something,
+但我认为任何涉及到干细胞的事情
+but I do think that anything involving stem cells,
+即使有人告诉你Prp就是注射了大量的干细胞
+One should be very cautious of you should also be very cautious of anyone that tells you
+ 你也应该对这种言论非常谨慎
+that Prp is injecting a lot of stem cells.
+这是一个不断发展的领域 确实需要更多的工作和关注
+This is an evolving area that really needs a lot more work and attention.
+我认为干细胞的主要问题是
+The major issue with stem cells that I think is concerning is that 
+干细胞可以变成很多不同的细胞
+stem cells are cells that want to become lots of different things,
+不仅仅是你感兴趣的组织
+not just the tissue that you're interested in,
+如果你的膝盖受伤了
+so if you damage your knee and you,
+你把干细胞注射到膝盖里
+you inject stem cells into your knee,
+你只需要从分子上限制这些干细胞 这样它们就不会变成肿瘤细胞
+you need to molecular only restrict those stem cells so that they don't become tumor cells.
+肿瘤是干细胞的集合
+A tumor is a collection of stem cells.
+所以当你患上像大脑里的胶质母细胞瘤  这样可怕的疾病时
+So when you get something horrible like glioblastoma and the brain,
+这是一件可怕的事情 胶质细胞会反而来阻止这种过度的刺激
+which is a terrible thing to have its glial cells that returned to stem this excessive stimulus,
+产生了太多的胶质细胞
+they observed produced too many of themselves.
+胶质母细胞瘤通常是致命的
+and glioblastoma is often deadly,
+虽然不是一定
+not always so.
+而注入干细胞
+injecting stem cells.
+听起来很棒
+it sounds great in it.
+听起来像是大家都想做的事情
+sounds like something that one would want to do,
+但我们要对此非常小心谨慎
+but one needs to approach us with extreme caution.
+即使是你自己的血液或
+even if it's your own blood or stem cells,
+你产生的干细胞
+that your reenacting.
+我认为这些技术正在朝着这个方向发展
+I think those technologies are coming there on the way.
+如果你们中有人是prp的信徒
+If any of you are devotees of prp,
+告诉我你的故事
+tell me your experiences with them.
+我很好奇
+I'm curious,
+我要看论文
+I want to see the papers,
+我要知道证据
+I want to know the evidence.
+当然 总会有人说
+and of course they're always folks out there that say,
+我不在乎科学家和FDA的医生怎么说
+I don't care what the scientists and the of physicians in the FDA.
+我就是想这么做
+I just want to do this,
+如果这是你的立场
+and if that's your stance,
+这是你的立场
+that's your stance.
+我不是来管你的
+I'm not here to govern that,
+但我确实认为  人们应该了解并考虑组织恢复和损伤
+but I do think that people should be informed and in thinking about tissue recovery and injury.
+这是我收集到的信息
+That's what I was able to glean again.
+凯利和他的同事已经准备好的资料
+Check out what Kelly and his coworkers are doing at the ready state.
+这是一种非凡的经历 他们几乎和生活中各个领域的所有顶尖人士都合作过
+It's phenomenal and they've worked with all the top people in just about every domain of life.
+他们都是很正直的人
+It seems very high integrity folks.
+你们有些人可能会说
+Some of you are probably saying,
+
+我没有受伤
+I'm not injured.
+我不是运动员
+I'm not an athlete.
+我不想要干细胞注射
+I don't want stem cell injections.
+我之后也不会
+I don't have again.
+我觉得  你现在不应该注射干细胞
+I think you shouldn't get stem cell injections for now.
+请等这个领域里的专家和医护人员了解更多安全操作方法后  再行动
+Please hold off until the field learns more about how to do that safely.
+但我想以一个非常有趣又有点奇怪的技术来结束这期
+But I want to talk about an end with a really interesting and somewhat weird technology,
+就是婴儿的血
+which is baby blood.
+我在斯坦福有个同事
+I have a colleague at Stanford.
+他的名字是托尼·韦斯·科里
+His name is Tony Weiss Corey.
+在2014年
+And in two thousand and fourteen,
+他的实验室发表了一项研究 表明年轻啮齿类动物的血液
+his laboratory published a study showing that the blood of young rodents,
+我指的是小老鼠和大鼠
+mice and rats.
+当注入到旧的
+When transfused into old,
+精神错乱的啮齿动物
+demented rodents,
+也就是老的小老鼠和大鼠
+mice and rats made those old,
+让痴呆的啮齿动物恢复了他们的大部分记忆 似乎更有活力和精力充沛
+demented rodents recover much of their memory and seem much more vital and energetic.
+更好地回忆不同的空间学习任务
+Better recall of different spatial learning tasks.
+他们已经证明 在这些年老的动物身上 组织和伤口的愈合可以得到改善
+Tissue and wound healing they've since shown can be improved in these older animals.
+难以置信
+It's pretty incredible.
+几年后 他们继续证明了这一点
+They went on to show several years later that.
+脐带血
+Blood from umbilical cords,
+这不是我编的啊
+I'm not making this up.
+脐带的血液也有同样的效果
+Blood from umbilical cords can do the same,
+这是一家生物技术公司的技术基础
+and this is the basis of a biotech company.
+实际上
+actually,
+我以前的一个博士后
+one of my former postdoc says,
+现在是那里的一名员工
+and now an employee there.
+他说  他们已经从年轻的血液中分离出似乎能使年老的大脑恢复活力的分子
+They have isolated the molecules from young blood that seems to vitalize or revitalize the old brain.
+这些分子中的一种叫做timp2
+and body and one of those molecules has it goes by the name timp2
+timp2
+timp2
+在说啥呢
+Where's all is going well?
+我不知道过多久之后
+I don't know how long it's going to be before.
+就会有基于输血的治疗方法
+There are treatments based on these blood transfusions.
+我怀疑他们会把年轻人的血液输到老年人身上
+I doubt that blood transfusions themselves from young people into old people is going to be used 
+用来治疗痴呆
+for the treatment of dementia,
+虽然这听起来很奇怪
+although it might as weird as it seems.
+我们知道各种各样的输送
+We know that transfusions of all sorts of stuff,
+例如
+for instance,
+肠道细菌
+fecal transplants,
+被用来治疗肥胖
+are being used to treat obesity.
+瘦人的肠道微生物群正在成为一种趋势
+The gut microbiome of thin people is being trend,
+不是输送
+not transfused,
+而是正在被移植到肥胖者的结肠和肠道中 来达到体重减轻的效果
+but is being transplanted into the colons and guts of obese people and leading to weight loss,
+这听起来很疯狂 也不是我特别喜欢谈论的话题
+which sounds really wild and is not a topic I particularly enjoy talking about.
+但尽管如此 它还是指出  肠道微生物组在调节血液
+But nonetheless it points to the importance of the gut microbiome in regulating things like blood,
+血糖和健康等方面的重要性
+sugar and health,
+因为它与肥胖 糖尿病和其他各种疾病有关
+as it relates to obesity and diabetes and all sorts of things.
+所以年轻成员的血液中确实存在一些物质
+So it does appear that there are things factors in the blood of young members,
+其物种的老成员 会随着时间的流逝而失去这种物质
+of a given species that are lost over time in the older members of the of that species.
+我今天不会根据这些发现  给你们方法
+I am not going to give you a tool on the basis of these findings today.
+我不会让你去汲取你们物种的任何液体
+I am not going to tell you to consume any fluid from any other member of your species,
+我们物种  不管怎么样都不会
+our species for any reason,
+但我认为有必要提一下 科学界正在提出这样的问题
+but I do think that it's important to mention that the science is asking questions such as 
+比如大脑中哪些因素能让年轻的大脑比年老的大脑恢复得更好
+what are the factors within the brain that allow the young brain to recover so much better than the older brain,
+从各种各样的伤害中恢复
+from injury from all sorts of things events,
+
+老年人的大脑中有哪些因素限制了他们的认知能力
+And what are the factors in the older brain that are limiting and thinking about identifying 
+科学家们正在思考哪些因素可以让他们恢复认知功能
+which factors are going to allow people to restore cognitive function,
+身体功能
+physical function,
+伤口愈合等等
+wound healing and so forth.
+这是一个非常令人兴奋的领域
+It's a really exciting area.
+我不是想哗众取宠
+I mention it not to be sensationalist,
+但因为它确实正在发生
+but because it's happening,
+因为有很多令人兴奋的事情
+and because there's a lot of excitement about it,
+因为我认为很明显 年轻的大脑 身体和血液与年老的大脑
+and because I think it's clear that the young brain and body and blood are very different from the old brain 
+身体和血液是非常不同的 科学家的目标是识别和分离那些因素
+body and blood and the goal of scientists to identify and isolate those factors that make that so such that.
+那些可能会得痴呆的人
+People who would otherwise get dementia,
+甚至有可能痴呆也能康复
+or perhaps even have dementia will be allowed to recover.
+再一次
+Again,
+现在还不适合作出什么治疗行动
+not an actionable item at this point,
+这是一个值得思考的问题  也许不会太久
+but one to think about perhaps not too long,
+但是一个值得思考的问题
+but one to think about.
+我要结束这一波讨论了
+So I'm going to close.
+今天我们谈论了很多工具
+There have talked about a lot of tools to day.
+我讲了很多关于可塑性的  关于针灸
+I've talked a lot about some at a sensation about plasticity about paying about acupuncture,
+针灸的一些细微差别
+some of the nuance of acupuncture,
+炎症
+inflammation,
+压力
+stress.
+我们还谈到了一点点高强度呼吸
+We haven't talked a little bit about high intensity breathing,
+谈到了限制肢体运动以获得神经通路的代偿性再生
+talked about restricting limb movement to get compensatory re growth of pathways,
+或者
+or,
+我应该说
+I should say,
+重新激活已经受伤或损坏的通路
+reactivation of pathways that have been injured or damaged.
+所以像往常一样
+So as always,
+我们会对一个特定的话题进行旋风式的讲解
+we take kind of a whirlwind tour through a given topic.
+讲一些工具方法
+Lay down some tools as we go,
+希望这期有关疼痛和伤害的原则
+hopefully the principles that relate to pain and injury,
+还有神经可塑性
+but also neural plasticity in general.
+今天
+Today,
+在这样的背景下 对你们所有人都有用
+in the context of this amount of sensory system will be of use to all of you.
+我不希望你们受到伤害
+I don't wish injury on any of you,
+但我真心希望你们能记住这些信息 然后好好想想
+but I do hope that you'll take this information to mind and that you will think about it.
+如果有一天你不得不问自己
+If ever you find yourself in a situation where you have to ask,
+我自己的感受  和实际组织的损伤分别是什么
+you know what's the difference between my perception in the actual tissue damage,
+受伤和疼痛也是一样
+his injury and pain is at the same.
+嗯
+Well know.
+知道自己能否控制自己的疼痛体验
+Do I have some control over my experience of pain?
+所有这些都涉及到某些治疗方法中的药物吗
+Absolutely does all of that involve taking drugs are doing in certain therapeutics.
+不是的
+No,
+并不一定  我们存在着令人难以置信的主观成分
+not necessarily there is incredible subjective component.
+有时也不需要在伤口部位的疼痛受体上治疗伤口
+There are also isn't need sometimes to treat the injury at the level of the pain receptors at the site of the wound,
+所以
+so.
+请记下这些信息
+Please take the information,
+无论何时都可以运用它
+do with it,
+与此同时
+what you will and in the meantime,
+在我们结束之前 非常感谢你们的时间和关注
+thank you so much for your time and attention before we go.
+我只是想提醒你 请订阅Youtube频道苹果 或者找到Spotify
+I just want to remind you to please subscribe to the Youtube Channel Apple and or Spotify 
+给我们留下评论和反馈
+leave us comments and feedback.
+如果你觉得我们质量不错
+Five star Review an Apple.
+可以再苹果播客上留下五星评价
+If you think we deserve that,
+也可以查看我们的赞助商
+please check out our sponsors,
+也可以到patreon上捐款
+check out our patreon and patreon.com/andrewhuberman
+如果你对我服用的补品感兴趣想尝试其中任何一种
+If you're interested in the supplements that I take and you want to try any of those,
+你可以去thorne.com/u/huberman
+you can go to Thorn thorne.com/u/huberman
+可以打八折
+and you'll get twenty per cent off.
+它们网站上列出的任何补品
+Any of the supplements listed there,
+还有thorne网站上的其他产品
+as well as any others on the thorn site.
+再一次
+Once again,
+感谢大家今天的时间和关注
+thanks so much for your time and attention today 
+一如既往
+and as always,
+谢谢你对科学的兴趣
+thank you for your interest in science.
+如果内容对你有用 也别忘了一键三连up主哦:)

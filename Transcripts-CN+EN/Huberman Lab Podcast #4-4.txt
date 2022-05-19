@@ -1,0 +1,4143 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到HubermanLab播客
+Welcome to the Huberman Lab Podcast
+在这里 我们讨论科学和日常生活中基于科学的工具
+where we discuss science and science based tools for everyday life.
+我叫安德鲁·休伯曼
+I'm Andrew Huberman,
+是斯坦福医学院的神经生物学和眼科教授
+and I'm a professor of neurobiology and opthomology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色无关
+This podcast is separate from my teaching and research roles at Stanford.
+然而 这是我的部分愿望
+It is, however, part of my desire to
+目的是让普通消费者接受零成本的科学信息和科学相关工具
+bring zero cost to consumer information about science and science related tools to the general public.
+在此 我要感谢今天播客的赞助商
+Along those lines, I want to thank today's sponsors of the podcast.
+第一个赞助商是AthleticGreens 运动绿色是我从2012年开始使用的产品
+The first sponsor is Athletic Greens. Athletic Greens is a product that I've been using since 2012.
+在我推出这个播客之前 我很高兴他们赞助了这个播客
+Long before I launch this podcast, so I'm delighted that their sponsoring the podcast.
+运动绿色蔬菜是一种维生素 矿物质 益生菌的补充物 这是绿色饮料
+Athletic greens is an all and one vitamin, mineral, probiotic supplement. It's a greens drink.
+和水混合 我喝了柠檬汁 因为我喜欢它的味道
+That you mix with water. I had lemon juice to mine because I like the way it tastes.
+它能提供你所需的所有维生素和矿物质
+And it gets you all the vitamins and minerals you need,
+以及益生菌益生菌对我来说很重要
+as well as probiotics and probiotics are important to me.
+因为现在有很多数据显示肠道健康对肠道大脑轴很重要
+Because there are a lot of data now showing that gut health is important for
+比如情绪免疫等
+the gut brain axis, things like mood immunity, etc.
+如果你想尝试运动绿地 你可以去运动绿地
+If you want to try athletic greens, you can go to athletic greens
+网址是 athletegreen.com/huberman 如果你这样做了
+athletegreen.com/huberman, and if you do that,
+他们会给你送来一年的液体维生素D 维生素3和维生素K
+They'll send you a year supply of liquid vitamin D, three and K.
+维生素D3 你们很多人可能已经知道
+Vitamin D three, as many of you probably already know,
+已经证明对免疫系统功能的各个方面都很重要
+has been shown to be important for various aspects of immune system function.
+以及其他生物途径 代谢功能等
+As well as other biological pathways, metabolic function, etc.
+如果你想尝试运动绿地 athletegreen.com/huberman
+So once again, if you want to try athletic greens, you're an athletic greens, dot com slash Huberman.
+他们会给你一年的D3 K2
+And they will send you a year supply of the D, three, K, two.
+本播客由Head space提供
+This podcast is also brought to us by Head, space,
+Headspace是一款冥想应用 让冥想变得简单
+head Space is a meditation app that makes meditation easy.
+我十几岁的时候就断断续续地冥想
+I've been meditating on and off since I was in my teens.
+关闭 比 开启 要多 主要是因为冥想很难坚持
+With more off than on, mainly because meditation can be hard to stick to.
+有些人很擅长冥想
+Some people are very good at maintaining a meditation practice.
+有的人 不太擅长 我属于后者
+Others, not so much, I'm in the latter category.
+然而 我发现当我有东西来指导我的冥想时
+However, I find that when I have something to guide my meditation.
+比如headspace 它让我更容易坚持我的冥想练习
+Such as head space, it makes it much easier for me to be consistent about my meditation practice.
+现在
+There is now.
+在高质量的同行评议期刊上有大量的数据 表明冥想状态可以促进
+Tons of data out there in quality peer review journals, showing that meditative states can facilitate.
+认知 心智功能恢复 体能恢复等
+Cognition, recovery of mental function, recovery of physical ability, etc.
+因此 有很多理由去从事冥想练习 headspace
+So there are a lot of reasons to take up a meditation practice, head space,
+headspace应用程序使学习和保持冥想练习很容易
+and a head space app makes it easy to learn and maintain a meditation practice.
+如果你想尝试headspace 你可以去headspace.com/specialoffer
+If you want to try head space, you can go to head space, dot com slash special offer.
+如果你这样做
+And if you do that.
+他们会让你免费试用一个月的headspace冥想应用
+They will let you try head space for an entire month for free,
+所以是零风险的 这就是headspace冥想应用的特别优惠
+so zero risk, there, that's head space, dot com slash special offer to try Head Space, the meditation app.
+免费试用一个月
+For one month for free.
+今天的播客是关于睡眠和觉醒的
+Today's podcast episode is about sleep and wakefulness.
+我们要讨论一下倒时差 轮班工作
+We are going to discuss jet lag shift work.
+还有婴儿 小孩  老人的相关问题
+Babies, kids and the elderly,
+我们将讨论有科学依据的方法
+and we are going to discuss protocols that are backed by science.
+这意味着它们都被发表在优秀期刊上 有高质量 同行评议的论文
+That means quality, peer reviewed papers published in excellent journals.
+这些论文显示有一些特定的工具 你可以用它来对付时差
+That can support particular tools that you can use to combat things like jet lag.
+抵消轮班工作的一些负面影响
+Offset some of the negative effects of shift Work.
+让新父母的生活更轻松 同时也让新生儿
+And make life easier for the new paren't as well as for the newborn child,
+让青少年 任何想睡得更好的人都更轻松
+the adolescent, anyone that wants to sleep better.
+让他们醒着的时候感觉更好 等等
+Feel better when they're awake. Etc.
+如果你已经听了之前三集的HumanonLab播客
+If you've listened to the previous three episodes of the Humanon Lab podcast,
+那你就知道我们一直在探索清醒和睡眠的主题
+We've been exploring these themes of wakefulness and sleepiness,
+如何入睡 如何保持睡眠
+how to fall asleep, how to stay asleep.
+我们已经讨论了光线 运动 温度等参数
+And we've been discussing parameters like light, exercise, temperature, etc.
+如果你有机会听这些章节 那很棒
+If you've had a chance to listen to those episodes, great, today's discussion will.
+今天的讨论将会更容易理解  如果你没有听之前几期 也没关系
+Be even more digestible for you if you haven't. That's OK.
+我会在这里或那里提供一些背景知识
+I will provide a little bit of background here or there,
+这样你们就不需要听之前的内容了
+so that it's not necessary that you have listened to those previous episodes,
+但是如果你们有机会听的话
+But if you get a chance to listen to them.
+还是听一下吧 我想这会帮助你更好地消化信息
+Please do it, I think it will help you digest the information better.
+我们先退一步说
+Let's just take a step back for a moment.
+提醒一下大家我们在讨论什么
+And remind everybody what we're talking about,
+我们说的是我们内在的意义 节奏
+we're talking about an indogenous meaning within us, rhythm.
+我们称之为昼夜节律
+That we call the circadian rhythm.
+昼夜节律是身体所有功能的24小时节律
+The circadian rhythm is a twenty four hour rhythm in all sorts of functions.
+最突出的是我们清醒和困倦时的这种节奏
+The most prominent one is a rhythm in our feelings of wakefulness and sleepiness.
+不管你信不信 这个实验在历史上一直都有人在做
+So believe or not, the experiment has been done throughout history,
+虽然不常做 但人们会时不时地到一个山洞里去
+not often, but it's been done where people will go down into a cave.
+并在持续的黑暗中存在一段时间
+And will exist in constant darkness for some period of time.
+也有一些情况是人们在恒定的光线下生活了一段时间
+There are also cases where people have been in constant light for some period of time.
+但因为人们可以闭上眼睛
+But because people can close their eyes, it's actually easier to
+所以在持续的黑暗中做实验更容易解决这个
+do the experiment where you're in constant darkness to address the question of, what is the indogenous meaning.
+我们所有人的内在节奏的问题
+The internal rhythm that we all have,
+结果是我们都有这种大约24小时的节奏
+and it turns out we all have this rhythm of about twenty four hours,
+虽然不一定是准确的24小时
+although it's not exactly twenty four hours, meaning.
+但也意味着每24小时
+Every twenty four hours.
+你的体温会从低到高再降到低
+Your body temperature goes from low to high and back down to low again,
+这个过程需要24小时 不是18小时 不是6小时 而是24小时
+and it takes twenty four hours for that to repeat, not eighteen, not six, twenty four.
+偏差大概几个小时
+Plus or minus a couple hours.
+你也有睡眠和清醒的节奏
+You also have a rhythm in.
+会伴随着体温的变化
+Sleepiness and wakefulness that correlates with that,
+因为我们的体温下降得越来越低  我们往往会感到困倦
+we tend to be sleepy as our temperature is falling getting lower,
+当体温升高时   我们往往会更加清醒
+and we tend to be more awake. We're waking when our temperature is increasing.
+这就是生物学上的事实
+This is a biological fact, it is.
+这就写在了我们的DNA里 实际上我们每个人身上都有基因
+Write down to our DNA, we actually have genes in every single one of ourselves
+确保每个细胞都有24小时的节奏 大约是24小时
+that ensure that every cell is on this twenty four hour ISH rhythm, close to twenty four hours.
+我们的上颚上方有一个时钟 这是一组被称为视交叉上的神经元
+We have a clock over the roof of our mouth, a group of neurons called the suprachiasmatic nucleus.
+这个时钟产生一个24小时的节奏 这个时钟是经过调整的
+That clock generates a twenty four hour rhythm, and that clock is in trained,
+这意味着它会
+meaning it is matched.
+匹配外部的光暗周期 这并不奇怪
+To the external light, dark cycle, which is no surprise.
+在地球上待24小时需要24小时
+Twenty four hours spending the earth takes twenty four hours, so.
+所以我们的细胞 我们的器官 我们的觉醒 我们的温度
+Our cells, our organs, our wakefulness, our temperature,
+还有我们的新陈代谢 我们的免疫系统
+but also our metabolism, our immune system.
+我们的情绪 所有的一切都被束缚在外部 光与暗的循环
+Our mood, all of that is tethered to the outside, light, dark cycle,
+如果我们以完美的方式生活 每天早上醒来
+And if we are living our life in a perfect way, where we wake up in the morning.
+看到阳光穿过地平线 到了晚上 几乎捕捉不到阳光
+And we view sunlight as it crosses the horizon, and then by evening, we catch a little sunlight.
+到了晚上 我们处于完全的黑暗中
+And then at night, we're in complete darkness,
+我们会或多或少地完全适应外部或环境的光与暗循环
+we will be more or less perfectly matched to the external or ambient light, dark cycle.
+很少有人会这么做 因为别忘了还有一个东西  叫人造光
+Very few of us do that because of these things that we call artificial lights,
+这是我们的生活需求
+and this other thing that we call life demands.
+所以今天我们要讨论的是 当我们脱离这种节奏时
+So today we're going to talk about, when we get pulled away from that rhythm,
+现在你可能马上就在想
+Now you may immediately be thinking.
+我听说世界上有夜猫子和百灵鸟
+Well, I've heard there are night owls and there are mourning larks,
+它们有时也被称为 它们是基因多态性
+they're sometimes called, and they're genetic polymorphisms.
+这只是个花哨的名字
+That's just a fancy name for.
+基因变异使一些人想早起
+Genetic variations that make some people want to wake up early,
+另一些人想熬夜 青少年想睡懒觉 这些都是真的
+and other people want to stay up late, and teens want to sleep in, more sure, that's all true.
+这都是真的 不管我们给它们取什么名字
+That's all true, regardless of what names we give those however,
+但是  不可逃避的事实是 人类是一种白天活动的物种
+There's no escaping the fact that human beings are a diurnal species.
+就是这样的
+We were designed literally.
+我们的细胞和我们身体的回路被构造成这样
+Our cells and the circuits of our body were constructed to be.
+白天醒着 晚上睡觉
+Awake during the daytime and asleep at night.
+我怎么知道的呢 我并没有参与这个理论的设计阶段
+How do I know that? Well, I wasn't consulted at the design phase.
+但我很确定 因为很多研究表明当我们
+But I'm certain of that, because many studies have shown that when we deviate too far from.
+偏离白天的时间安排 试着变成夜间活动的时候
+A diurnal schedule, and we try and become nocturnal,
+我们可以做到 但会严重的健康影响
+we can pull it off, but serious health effects,
+无论是精神上 还是身体上 都会开始出现问题
+both mental and physical, start to arise.
+今天我不会花太多时间谈论时差的负面影响
+I'm not going to spend much of today talking about all the negative effects of jet lag.
+我会稍微讲一下
+I'll talk a little bit about it.
+也不会多讲轮班工作的负面影响
+Or the negative effects of shift work
+也不会告诉你一些非常惊人的数据来吓唬你
+or trying to scare you by telling you about the quite valid data around.
+什么抑郁 健忘症 痴呆啊
+Depression, amnesia.
+所有那些当你睡不好的时候发生的可怕的事情 我都不讲
+Dementia, all the terrible things that happen when you're not sleeping well,
+我更想集中在你能做什么 以及用什么工具调节
+rather, I'd like to focus on what you can do, and army with tools.
+我们先来讨论一下这个完美的时间表 然后再来讨论一下时差
+So let's talk about that perfect schedule for a moment, and then let's talk about jet lag and what.
+以及时差反应真正代表着什么 以及如何克服时差反应
+Jet lag really represents and how to push back on jet lag,
+加快生物钟 避免一些严重的问题
+shift your clock faster and escape some of the severe.
+时差会导致的那些不好的事情
+Bad things that can happen with jet lag,
+包括在工作或度假旅行时感到痛苦
+including just feeling miserable when you're traveling for work or vacation.
+那么什么才是完美的白天时间安排呢
+So what is the perfect day,
+从昼夜节律睡眠和觉醒的角度来看 这是什么概念呢
+what What does that look like From a circadian sleep, wakefulness standpoint.
+我要总结一下我在前三集播客里说过的话
+I'm about to summarize what I've said in the three previous podcast episodes,
+以及我在Instagram上发过的很多帖子也都讲了这个事情
+as well as now countless Instagram posts.
+事情是这样的 你基本上需要得到尽可能多的光线 最好是阳光
+Here's the deal, you basically want to get as much light, ideally, sunlight.
+但是 在这每24小时的周期内 每当你想要清醒、变得警觉的时候
+But as much light into your eyes during the period of each twenty four hour cycle
+你要让光进入你的眼睛
+when you want to be awake. When you want to be alert
+而当你想要睡觉或者昏昏欲睡的时候
+and you want to get as little light into your eyes.
+你要让尽可能少的光线进入你的眼睛
+At the times of that twenty four hour cycle, when you want to be asleep or drowsy and falling asleep.
+那具体是多少光线呢 嗯...
+How much is enough? Well,
+你不希望太多的光线照射  那会伤害你的眼睛
+You don't want to go so high with the light exposure that you damage your eyes,
+因为你们很多人都是
+because as many of you are.
+眼睛的前面实际上是大脑的两部分
+Say before the eyes are actually two pieces of your brain,
+你的中枢神经系统从头骨中伸出来
+your central nervous system that were extruded out of your skull.
+作为中枢神经系统的一部分 也就是你的大脑
+And as pieces of the central nervous system, aka a your brain.
+它们不会再生 至少现在是这样
+They will not regenerate, least right now,
+在人类身上没有再生这些神经元的技术
+the technologies don't exist to regenerate those neurons in humans,
+你不会想要破坏它们的
+you do not want to damage them.
+那么什么时候过亮了呢 嗯 当你看光线看起来很痛苦的时候
+So what is too bright? Well, when it's painful to look at.
+当你必须眨眼或闭上眼睛才能承受的时候
+When you have to blink or close your eyes in order to bear it.
+所以感觉到疼痛的时候就请不要看太亮的灯了
+So please don't look at very bright lights so painful that there.
+这可能会伤害你的眼睛 然而
+Likely going to damage your eyes. However,
+如果你早上起床的时候
+If you get up in the morning.
+外面还很黑 你想保持清醒 你最好还是打开人造光
+And it's still dark out and you want to be awake. You would be wise to turn on.
+特别是头顶灯 原因我之前已经讨论过
+Artificial lights, in particular overhead lights, for reasons I've discussed previously,
+那些头顶灯将会很好地触发神经元 这些视网膜上的黑视蛋白细胞
+but those overhead lights will optimally trigger the neurons, these melanops and cells in the retina.
+会激活你的生物钟
+That will activate your circadian clock.
+当太阳出来的时候 即便有云遮住
+When the sun comes out, even if there's cloud cover,
+首先你要知道无论你住在哪里 太阳每天都会出来
+The sun does come out every day, regardless of where you live.
+除非你住在山洞里 曾经有人跟我说
+Unless you live in a cave, people have said to me,
+我住在一个看不到太阳的地方
+well, I live in an area where I can't really see the sun,
+太阳就在那里
+well the sun is there.
+太阳可能是躲在云层后面 除非你住的地方非常非常黑
+It might be hot hiding behind clouds, unless it's very, very dark, where you live,
+比如斯堪的纳维亚 或者是严冬
+like Scandinavia and the depths of winter.
+在这种情况下 你可能需要一些人造光 尽可能让阳光照进你的眼睛
+Which case you might want some artificial light, get some sunlight in your eyes when you can.
+这些是我之前没有讨论过的 关于阳光和人造光的处理
+Here's the deal with sunlight and artificial light that I have not discussed previously.
+大量的光子能量 大量的勒克斯 L-U-X 到你眼睛里
+A lot of photon energy, a high amount of lux, L-U-X comes through,
+即便被云层覆盖
+even cloud cover,
+一个比较好的数字
+a good number to shoot for.
+从经验来看   试着接触至少10万勒克斯的阳光吧
+As a rule of thumb, is to try and get exposure to at least 100000 lux.
+在9点之前
+Before nine am.
+再晚一点早上十点 但尽量在九点之前
+Ten a, M, maybe, but before nine am,
+假设你是在早上五点到八点之间醒来
+assuming you're waking up sometime between five and eight am.
+好 要吸收10万勒克斯  但是不要 我再说一遍
+OK, so get 100000 lux Now you do not, I want to repeat,
+尽量不要盯着20万勒克斯或者100万勒克斯
+you do not want to stare at a two hundred thousand LUX or a one hundred.
+因为那样就非常非常亮了
+Thousand lux light. It's very, very bright.
+生物钟设定的机制 这一点非常重要
+The mechanism of circadian clock setting. And this is very important.
+生物时钟设置的机制涉及到你眼睛里的这些神经元
+The mechanism of circating clock setting involves these neurons in your eye.
+将电子信号发送到你上颚上方的生物钟
+That send electrical signals to this clock above the roof of your mouth,
+这个系统累积 意思是它不断加上光子 这是一个很慢的系统
+and that system sums, meaning it adds photons. It's a very slow system.
+假设我醒来 我看了一下电脑屏幕 或者手机屏幕
+So let's say that I wake up and I look at my computer screen briefly, or my phone screen.
+这可能是500到1000勒克斯 如果我看它一分钟
+That's probably 500 to a thousand lux, if I were to look at that for a full minute,
+我会把光子能量转换成神经元的电能
+I would get that photon energy transferred into electrical energy of neurons,
+然后传到我的生物钟上
+and it would be communicated to my circadian clock.
+然而 这个在早晨的光信号
+However, the signal that its morning will.
+它不会调节生物钟 除非我盯着手机 电脑
+Not have registered with the circadian clock. Unless I looked at that for.
+看个一百多分钟 那可能还能达到10万勒克斯
+A hundred minutes or more, so 100000.
+现在的问题是 如果你8点醒来
+Now the problem is, if you wake up at eight o'clock.
+在你到达所谓的昼夜节律停滞区之前
+You're not going to get enough light from artificial light
+你将无法从人造光源中获得足够的光线
+before you reach what's called the circadian dead zones.
+你会有一个机会
+You have this opportunity.
+在9点之前 也可能10点之前 来捕捉足够的光子
+Before 9 am, maybe ten a M to capture enough photons,
+但你必须用你的眼睛来做
+and you have to do it with your eyes.
+我已经在之前的播客中讨论过为什么这很重要
+I've discussed why that's important. In previous episodes of the podcast,
+你必须用你的眼睛来做 因为除了眼睛意外  没有光受体了
+you have to do it with your eyes, there is no extraocular photo reception.
+这跟维生素D 皮肤没有关系
+This is not about vitamin D and your skin.
+这是生物钟  设置它  对你的身心健康至关重要
+This is about setting a circadian clock which is paramount for mental and physical health.
+所以这里我们讨论的是尝试得到 至少10万个光子
+So here we're talking about trying to get that, at least 100000 photons,
+不一定要一次性得到 但你必须在9点或10点之前 吸收那么多
+but not all at once, but you got to get them before am, ish, maybe ten am.
+那么怎么做呢 走出去
+So what do you do You go outside.
+如果你已经对这一量化研究感到厌烦 你可以下载一个免费的应用程序 比如Lightmeter
+If you want to get nerdy about this quantitative, you could download a free app like Light meter and.
+用测光表环顾一下你的房子
+Take a look around your house with light meter,
+你会注意到即使是头顶上最明亮的灯也只能发出
+and you'll notice that even bright overhead lights are only emitting about.
+4000或5000勒克斯 那么你就需要花很长时间睁开眼睛看着那些光
+4000 or 5000 lux, it's going to take a long while of looking at those lights with eyes open
+才能设置好你的循环时钟 告诉你的大脑和身体现在是早上
+in order to set your circating clock and tell your brain and body that's morning.
+即使在阴天也要出门
+Going outside even on a cloudy day.
+阴天也有7000-10000勒克斯 它的亮度非常惊人
+Could be 7000-10000 lux. It's really remarkable how bright it is,
+这意味着有多少能量通过 所以试试看吧 得到10万勒克斯
+meaning how much foot on energy is coming through, so try and get 100000 lux.
+在9点之前 如果你做不到
+Before 9am. Now if you can't do that,
+可能因为你生活在一个光线不够明亮的地方
+because you live in an area of the world where it's just not bright enough.
+有些人从英格兰北部给我发了照片
+Some people have sent me pictures from Northern England.
+确实在冬天 光线不够明亮 那么你可以使用人造光源
+As just not bright enough in winter, then sure, you can resort to using artificial lights.
+为了得到足够的光子
+In order to get enough photons,
+我把这个10万勒克斯作为目标  在每天早上九点之前要得到
+and I'm putting out this hundred thousand lux number as a target to get each day before nine am.
+理论上 你可以从人造光中得到这些
+You can, in theory get it all from artificial lights,
+但阳光有一些特殊的特性使它成为更好的刺激
+but there are some special qualities about sunlight that make sunlight the better stimulus.
+首先
+First of all,
+阳光是免费的  你一走出门就能得到
+It's free, if it's available outside.
+有很多不同的
+There is A-A number of different, there are,
+不好意思 有很多不同的技术
+excuse me, a number of different technologies,
+就像这个 就像这个光照板
+kind of like this one, like a light pad.
+比如说这边 它显示是930勒克斯 我不是在打广告
+That this one says it's 930, lux, I'm not.
+我把商标遮住是因为 我并没有在推销这款产品  这是我自己买的
+I'm covering this up because I'm not trying to promote any specific products actually bought this.
+我用自己的钱在亚马逊上买的 他们不是赞助商
+Just with my own money on Amazon, they're not a sponsor,
+它可以切换亮度 只要拿着这个
+and it lets you toggle the brightness, I think, by holding this on.
+按下这个按钮 你可以让光线变暗变亮 现在大概是一千勒克斯
+Holding down this button, you can make a dimmer brighter, there's about a thousand lux,
+看起来很亮 但在外面的时候  即便是阴天
+it seems really bright, but a cloudy day outside will have
+外面也会有比这高五倍的光子能量
+five times more photon energy coming through.
+所以有些人会把这些灯 或自拍用的环形灯
+So some people set these lights or ring lights that they use for selfies,
+放在他们的办公室 咖啡室或工作间等地方
+and that kind of thing near their ther, coffee or work station first thing in the morning,
+但其实还是阳光更好
+but you really want to get sunlight.
+好吧 这些东西很好 因为你可以带着它们
+OK, so those things are kind of nice because they'll travel,
+之后我们会谈到飞行时差
+and we're going to talk about jetlag.
+但我再怎么强调也不为过
+But I can't emphasize this enough that light has to be captured and sum
+在你进入昼夜节律死区 也就是一天的中午之前 你必须捕捉并累积到光线
+before you can enter the Circadian dead zone, which is the middle of the day.
+这也是为了达到完美的生物钟时间安排
+This is again trying to achieve kind of perfect schedule.
+根据科学文献 我之前建议了
+Then I've recommended, based on scientific literature, that.
+看阳光吧  有时候在太阳落山的时候去看一下阳光
+You look at sunlight some time around the time when the sun is setting,
+原因是因为
+and the reason for that, of course, is because it just.
+这会降低你眼睛的敏感度  而这就是一个残忍的事实
+Down the sensitivity of your eyes, because here's the diabolical thing.
+虽然我们在清晨需要大量的光子能量来唤醒我们的系统
+While we need a lot of photon energy early in the day to wake up our system
+设置我们的生物时钟 但14到16个小时之后  我们要为睡一夜好觉做准备
+and set our circading clock and prepare us for a good night sleep. Fourteen to sixteen hours later,
+而晚上8点之后 重置和改变我们的生物钟只需要很少的光子能量
+It takes very little photon energy to reset and shift our clock.
+这就是为什么你要这样做 尽可能避免强光 甚至
+After eight pm, and that's why you want to, as much as you safely can avoid bright light. And even.
+晚上10点或11点到早上4点之间  光线都不能太亮
+Not so bright light between the hours of ten or eleven PM and four am.
+很多人问过我一些关于这个的问题
+Number of people have asked me some questions about this,
+上一集我讲红光时 我会讨论防蓝光眼镜 诸如此类的东西
+and the last episode I went into red lights, I would discuss blue blockers, all that kind of stuff.
+所以在这边我就不重复了
+So I'm not going to repeat all that.
+但是
+But.
+事情是这样的 如果你在下午看到光线
+Here's the thing, if you see afternoon light,
+你要调整你眼睛的敏感度
+you are going to adjust down the sensitivity of your eyes
+这样你就有更多的回旋空间
+so that you have a little bit more wiggle room.
+给你更多的余地  在晚上去看屏幕上的灯光和头顶的灯
+Little bit more leeway to view lights from screens and overhead lights,
+这样就不会打乱你的生物钟
+even late at night without disrupting your circadian clock.
+但光是一把双刃剑 因为你在一天的早些时候需要大量的光线
+But it is a kind of a double edged sword where you need a lot of light early in the day.
+而且你需要避免晚上的强光
+And you need to avoid bright lights later in the day.
+我提到过这里的研究 很多人都问过具体文献链接在哪
+I've mentioned studies on here, a number of you have asked about getting the references.
+我们正在努力放上网页的完整的链接
+We are in the process of trying to get a webpage going with full links.
+现在还得处理一些版权问题
+There are some copyright issues that we have to deal with.
+但只要有可能 我就会尝试放上引用这些研究  大家问的时候
+But wherever possible, I'll try and reference these studies, and when people ask out,
+我通常会把它们放在Youtube或Instagram的评论回复中
+generally put them in the response to their comments on Youtube or in Instagram.
+科罗拉多大学做了两项研究
+There have been two studies done from University of Colorado,
+都发表在 《当代生物学》 上  大家可以去看
+both published in Current biology. You can use.
+我们也是在网上找到这些  大家可以搜索  “当代生物学” “露营”
+We find these online by just, you know, googling the words current biology, camping and.
+“重置生物钟”这样的关键字
+Reset circating clocks
+研究中显示  两天在阳光中醒来
+that have shown that two days of waking up with the sun.
+以及在晚上避光 他们让研究生露营
+And avoiding light at night, they actually took graduate students camping,
+这是个很酷的实验 让他们重置褪黑激素和皮质醇的节奏
+the cool experiment, to be a part of reset the melatonin and cortisol rhythms for these.
+那些原本远离自然节奏的人们
+People that had otherwise drifted quite far from their natural rhythms.
+你还可以做其他事情来改变你的生物钟 强化你的生物钟
+There are other things that you can do to shift your clock and to reinforce your clock,
+比如在同一时间多锻炼或少锻炼 在同一时间多吃东西或少吃 等等
+like exercising more or less the same time, eating more or less the same time, Etc.
+这不是今天这集的主题 所以我只描述完美的生物钟
+That's not what today's episode is about, so I just describe perfect schedule,
+至少要看10万勒克斯的光线 但不是一下子吸收完 而是早上累积过来
+get at least 100000 lux of light exposure to the eyes, not all at once, but summing Across the morning
+你的眼睛感觉到痛苦 不舒服的时候 那就是光线太多太强了 不要再看了
+you know when it's too much because it's painful to look at. So.
+要避免这种情况
+That's obviously something to avoid,
+但是一旦到了中午 比方说你在10点或11点醒来
+but then once the middle of the day, let's say you're waking up at ten or eleven,
+你走到外面 太阳已经在头顶了 那算了吧
+you go outside the sun's overhead, forget it,
+这不会再改变你的生物钟了 就是改变不了
+you're not going to shift your clock. You're just not.
+不是这样调整的
+It doesn't work that way.
+在晚上 你看到了傍晚的光
+In the evening, you see the evening light and.
+你想让光线降低你的视网膜敏感度 给你一点缓冲
+You want to get that light to adjust down your retinal sensitivity, to afford you a bit of a buffer.
+这样在深夜 如果你碰巧在半夜看屏幕或上厕所
+So that late at night, if you happen to look at screens or go to the bathroom
+那也不会改变你的生物钟
+in the middle of the night, it's not going to shift your clock.
+因为在半夜的时候  只需要大约
+Because it takes probably only about.
+一千到一千五勒克斯的光能量 就能改变你的时钟
+Thousand to 1500 lux of light energy to shift your clock in the middle of the night.
+让我们来谈谈调整生物钟
+So let's talk about shifting clocks,
+因为对于有时差反应的人来说
+because for the jet lag person.
+这种根据光照 体温 运动 饮食改变生物钟的能力
+This ability to shift the clock with light temperature,
+对于适应当地新的作息时间至关重要
+exercise in food is vitally important for getting onto the new local schedule.
+还有很多关于时差的东西
+And there's so much out there about jet lag.
+今天我要把它缩小到一个非常具体的参数
+Today I'm going to dial it down to one very specific parameter that
+你们不用任何技术或设备都能弄清楚
+all of you can figure out Without any technology or Devices.
+并且可以当你出差的时候运用
+And can apply for when. When you travel for work.
+或者愉悦 或者任何发生时差反应的时候 我要强调的是
+Or pleasure, or anytime your jet lag. And I want to absolutely emphasize.
+不是在旅行的时候才会有时差 你们很多人都有时差
+That you don't have to travel to get jet laged. Many of you are jet laged.
+你的时差可能是因为你在半夜看手机
+Your jet lag because you're looking your phone in the middle of the night,
+你的时差是因为你在一天的不同时间醒来 你的时差是因为
+your jet lag because you're waking up at different times a day. Your jet lag because.
+你的锻炼在最近这段时间很混乱 有时在这个时间点 有时候在那个时间点
+Your exercise is on a chaotic regime some days at this time, some days at that time,
+如果你能适应这种锻炼的安排 那太好了没问题
+and if that works for you, great.
+我想先说清楚的是 很多人总是说
+I want to be really clear that a number of people always say, well, I know so. And so that.
+你只需要睡四个小时就行了
+You only need four hours of sleep, and or they're just fine.
+或者他们跨越时区去欧洲旅行一切也都很好
+They travel to Europe and they're just fine.
+个体有很多差异
+There's a lot of individual variability,
+我们将讨论这些差异的起源
+and we're going to talk about the origins of some of that variability.
+我的意思是 你看 还有些人想吃什么吃什么
+I mean, I know people that can eat anything
+但同时也能保持着良好的血脂水平
+and somehow seem to maintain great lipid profiles, and um, you know, uh,
+良好的体重  以及良好的健身能力
+Body weight and and fitness ability, and I know some people that
+而有些人吃一块饼干就会因为怕胖而哭成一个泪人
+they eat one cracker and they sort of dissolve into a puddle of kind of tears.
+对 因为他们认为那样会让他们撒开了吃变胖
+Right Because they think that that's going to throw them off,
+也许确实如此 我不知道 你知道的 世界上的个体差异太多了 所以
+and maybe it does. I don't know, you know, there's a tremendous amount of variability out there, so.
+我们讲的是 什么是最佳的 有可能的选择 你必须不断寻找
+This is really about optimal, and what's possible, and you have to ask,
+我只能说 从我的个人经验来看 我饱受时差的折磨
+I can just say from personal experience, I suffer terribly from jet lag.
+只有当往一个方向飞的时候会这样  其他不会
+Traveling in certain directions, but not others.
+有些人没有时差的烦恼 但很多人  当他们去一个新的地方旅行的时候
+Some people don't have trouble with jet, like many people will travel to a new location.
+第一天和晚上的感觉都很好
+They feel great for the first day and night.
+然后接着他们就会崩溃 睡眠开始有问题
+And then they crash and they have trouble sleeping
+或者他们会回去之后 也很难回到正常的作息时间
+or they travel back, and they have a terrible time getting back onto a normal schedule.
+有些会因年龄而异 有些会因基因而异
+And some of this varies with age, and some of it varies with genetics and.
+没有简单的一片药或任何东西可以让你消除时差反应
+There is no simple pill or anything that you can take to just get rid of, jet lag,
+没有这种方法 如果真的有
+it doesn't work that way, if it worked that way.
+我会告诉你们的 但是你可以做一些简单的事情
+I would tell you, but there are some simple things that you can do.
+我会先告诉你时差反应是什么以及它是如何产生的
+An army with the knowledge of what jet lag is and how it works.
+可能与很多人现在所相信的概念相反
+And contrary to what many people out there say and believe,
+我知道 理解这个机制会给你更多的灵活性
+I know, that understanding mechanism affords you more flexibility.
+为什么理解机制相比较于我写个PDF文件
+Why understand mechanism is just opposed to me just writing up a PDF
+然后再给你一堆要做的事情 不一样呢
+and giving you a list of things to do well?
+当你理解了其中的机制后 你不会完全按照别人所写的方法去做
+What happens when you can't do those things in exactly the way they're written down when you understand mechanism.
+因为你知道如何控制你的生物系统 你的神经系统
+You understand how to control the machine that is your biological system, your nervous system.
+所以对机制有一点了解是很有帮助的
+So a little bit of understanding about mechanism goes a really long way.
+这就是我们要讲的 我们来谈谈什么是时差
+So that's where we're headed. Let's talk about what jet lag is.
+好吧 我之前确实保证过我不会讲关于时差反应的那些很坏的影响
+OK, well, I promised that I wouldn't get too dark with all the terrible things that can happen with jet lag,
+但我这里要讲它的坏影响
+but I'm about to get dark.
+有高质量的同行评议论文表明 时差会缩短你的寿命
+There are quality peer reviewed papers showing that jet lag will shorten your life.
+你会死得更早
+It will kill you earlier.
+我觉得这意味着你会死得更早
+I guess it means you'll die earlier.
+但它不一定是致命的
+It doesn't actually kill you, necessarily, although.
+但是发生过很多次  游客在公交前身亡
+There are many cases where tourists end up stepping in front of buses,
+特别是在一些国家
+especially in countries where
+汽车和公交车开在他们习惯的路道的对面
+the cars and buses drive on the opposite side of the street that they are used to.
+对于那些因时差而丧命的人来说 时差是一件很严重的事情
+Who are jet laged and lose their life that way, jet lag is a serious thing.
+在我成长的过程中 听到了我们家有一位亲人的故事
+She, we had a family story about this when I was growing up.
+她出国工作旅行
+At a family member travel overseas for work.
+到那之后吃了一片安眠药 我不会说出安眠药的名字
+And take a sleeping pill. I won't name the sleeping pill,
+不过最后我会讲一下安眠药的事
+though, at the end, I'm going to talk about sleeping pills
+结果她完全失忆了一个星期
+and had a case of total amnesia. For a week.
+这种情况并不少见 如果你真的经历过时差 睡着了
+That's not entirely uncommon, if you've ever been really jet laged and fallen asleep,
+在大白天醒来 你可能不知道自己身在何处
+doesn't even have to be in the middle of the day, woken up. You might not know where you are.
+这是因为时间和空间在大脑中是紧密相连的
+And that's because time and space are really linked in the brain
+而不是被设计成在4 5 6个小时内被送到一个新的时区 就是这样的
+wasn't designed to be transported four, five, six hours into a new time zone. It just wasn't.
+我们的大脑和生物机制
+Our brain and the biological mechanisms.
+控制昼夜节律的生物钟 被设计为几个小时的切换
+That govern circadian timing, were designed to be shifted by a couple hours,
+不一定是6个或9个或12个小时 所以你真的可能会把身体搞砸
+not necessarily six or nine or twelve hours, so you really mess yourself up.
+我有过这种经历 我通常经历的是情绪波动
+I've had that experience, I usually experience it as fluctuations in mood.
+我飞行到了与原来时区相差12个小时的地方
+I flew twelve hours out of phase.
+比如去纽约大学阿布扎比分校做演讲
+Tabugabi wants to give a talk at N-Y-U. Abu Dhabi.
+那真是一团糟 我真的有点头晕 我没有产生幻觉 但我真的非常晕
+It was a mess, I actually was getting vertigo, I wasn't hallucinating, but I was really out of it.
+然后我的情绪就变得一团糟 这很奇怪
+And my mood was just all over the place. It was very bizarre.
+时差 即使你没有经历情绪变化或失忆
+Jet lag, even if you don't experience it as mood shifts or amnesia,
+它也会缩短你的寿命 有一个很有趣的点
+it can shorten your life. Now here's what's interesting.
+在地球上向西旅行会让人更轻松舒适
+Traveling westward on the globe is always easier.
+相比于向东旅行
+Then traveling eastward.
+这很有趣 因为时差对寿命的影响表明
+OK, it's interesting because the effects of jet lag on longevity.
+往东旅行比往西旅行少活几年
+Have shown that traveling East takes more years off your life than traveling West.
+当然了 飞30分钟进入一个新的时区 或者3个小时
+Now, of course traveling thirty minutes into a new time zone or three hours,
+只有一两个时区的相差
+just one time zone over is or two time zone over, rather.
+肯定比八小时或九小时的时差  对你的生理和心理造成的伤害要小得多
+Is far less detrimental to your biology and psychology than a eight hour shift or a nine hour shift.
+有趣的是
+Now here's what's interesting.
+当我们想到时差对寿命的影响 或者时差会缩短我们的寿命
+When we think about the effects of jet lag on longevity, or this idea that it can shorten our lives,
+我们得问问自己 为什么
+We have to ask ourselves, why?
+为什么会这样呢 其实有一个很简单的解释
+Why is that And it turns out there's a pretty simple explanation for this.
+我们之前讲过自主神经系统
+We've talked before about the autonomic nervous system,
+这组位于我们脊髓中的神经元和大脑
+this set of neurons in our spinal cord embody and brain
+控制着我们的清醒状态和困倦状态
+that regulate our wakefulness, in our sleepiness.
+事实证明 人类 可能还有大多数物种 都能更好地激活它并保持警觉
+Turns out that human beings, and probably most species, are better able to activate and stay alert.
+这样他们就可以关闭自己的神经系统 睡觉了
+Than they are to shut down their nervous system and go to sleep on demand.
+所以如果你真的要逼迫你自己 要保持清醒 你可以做到 你可以熬夜
+So if you really have to push and you really have to stay awake, you can do it, you can stay up later.
+但早睡更难 这就是为什么向东旅行会有这种特征
+But falling asleep earlier is harder, and that's why traveling East has a number of different features associated with it that.
+因为你在向东旅行
+Because you're traveling east, you're trying to.
+如果你想早点睡觉 你知道 作为一个加州人 如果我去纽约
+Go to bed earlier, you know, as a Californian. If I go to New York City.
+我必须早睡3个小时 早起3个小时
+I've got to get to bed three hours early, and wake up three hours early,
+这比回到加州再多睡几个小时要困难得多
+and much harder than coming back to California and just staying up a few more hours.
+这个可能扎根在
+And this probably has roots in.
+适应进化中 就是在我们需要突然聚集起来的情况下
+Evolutionary adaptation, where under conditions where we need to suddenly gather up and go or.
+或者要捕食 斗争 或者做很多不同的事情的时候
+Forge for food or fight, or, um, do any number of different things that
+我们可以通过释放肾上腺素来让自己保持清醒
+we can just push ourselves through the release of adrenaline and epinephraine to stay awake.
+然而
+Whereas.
+想要放慢脚步 有意识地入睡实际上是很难做到的
+Being able to slow down and deliberately fall asleep is actually much harder to do.
+所以这是一个不对称的 自主神经系统 在不对称的时差反应中产生了影响
+So theres an asymmetry, to our autonomic nervous system that plays out in the asymmetry of jet lag.
+所以
+So.
+如果你想了解这个  因为有人问过我哪里可以看文献
+If you want to read up on this because people have asked me about.
+你可以去查  Davidson和他的同事
+Papers, you can look, there's a paper published by Davidson and colleagues,
+在2006年 在《当代生物学》上发表了一篇论文 讨论了
+2006 in current Biology that talks about the differences in lifespan for.
+向东  向西  不旅行的频率对寿命影响的差异等等
+Frequent, eastward versus westward versus no travel and longevity, etc.
+很多不同的关于寿命的生物学证明
+A number of different biological markers of longevity.
+因此 往东走更难受
+So going East is harder.
+因为如果你想按时早睡 那就更难了
+Because going to sleep earlier is harder If you're trying to do that on demand.
+许多人求助于褪黑激素来引导睡意
+Many people have turned to melatonin as a way to try to induce sleepiness.
+我在播客最后会谈谈褪黑激素
+I'm going to talk about melatonin. At the end,
+我在之前的播客中提到过 有观众询问
+I've mentioned on previous podcast, a number of you have asked for the evidence that melatonin.
+褪黑激素对某些激素系统有潜在的危害的证据 褪黑色素是一种激素
+Potentially detrimental to some hormone systems. melatonin is a hormone,
+我将在最后讨论它 特别是褪黑激素在抑制
+and I'll discuss that at the end, in particular the role of melatonin in suppressing.
+激素回路方面的作用 包括男性体内的黄体成长激素 睾酮
+A hormone pathway that involves ltinizing hormone, testosterone in men and estrogen in.
+以及女性体内的雌激素  还有一种非常有趣的肽叫做神经肽kisspeptins 这是个很酷的名字
+Females as well as a really interesting peptide called Kiss Pepton as a cool name,
+好吧 让我们想想旅行发生了什么
+all right, well, let's think about travel, and what happens Let's say you're not.
+假设你没有向东或向西 而你在向北或向南
+Going eastward or westward, but you're going north or south.
+比如你从华盛顿特区到智利的圣地亚哥
+So if you go from for instance Washington, D-C to Santiago, chile,
+或者你从以色列的特拉维夫到南非的开普敦
+Or you go from Tel Aviv, israel to Cape Town, south Africa. You're just going.
+你只是在南北朝向上移动 对不对 不管是朝南还是朝北
+North and south, right and not, you know, either direction.
+你并没有真正进入一个不同的时区 你没有切换时区
+You're not really moving into a different time zone. You're not shifting,
+但你还是会感到旅途疲劳
+so you will experience travel fatigue.
+事实证明 时差反应有两个因素 旅行疲劳和时区
+And turns out that jet lag has two elements, travel, fatigue and time zone. Jet lag.
+时区时差仅仅是因为当地的光照和黑暗时间无法匹配你的
+Time zone jet lag is simply the inability of local sunlight and local darkness to match your.
+内环境节奏 你所拥有的自身的节奏
+Internal rhythm, this indogenous rhythm that you have.
+所以在说得更复杂之前
+So before we get too complicated.
+关于这个还有两点需要澄清 我想说几件重要的事情
+And two down in the weeds about this, I want to just throw out a couple important things.
+首先 我之前提到过 有些人经常会有时差反应
+First of all, I mentioned this earlier, but some people suffer from jet lag, a lot.
+其他的人 可能就没那么多了 大多数人随着年龄的增长会经历越来越严重的时差反应
+Other people, not so much, most people experience worst jet lag as they get older.
+这是有原因的 因为在生命早期褪黑激素的释放模式
+There are reasons for that, because early in life patterns of melatonin release.
+非常稳定 平坦 非常高 实际上 在儿童中
+Are very stable and flat and very high, actually, in children,
+这也是他们没有经历青春期的原因之一
+it's one of the reasons why they don't undergo puberty.
+然后就会有时差反应 比如青春期的时候 真的
+Then it becomes sick, like during puberty, meaning it.
+每24小时启动一次 每24小时关闭一次 它周期循环
+Comes on once every twenty four hours and turns off once every twenty four hours. It cycles cyclic.
+然后随着我们年龄的增长 周期会被更频繁地打乱
+And then as we get older, the cycles get more disrupted and
+我们会变得更加脆弱 即使是时间安排上的微小变化 比如吃饭时间
+we become more vulnerable to even small changes in schedule, etc. Meal times right.
+所以
+So.
+时差反应随着年龄的增长而加重
+Jet lag gets worse as we age.
+此外 随着年龄的增长 人们还会开始减少锻炼
+In addition, there are other things that happen with age that people start doing less exercise.
+他们的消化能力会变差 等等
+Their digestion can get worse, etc.
+所以年龄对时差反应的一些影响可能不是直接因为身体的衰老
+So some of the effects of age might not be direct effects of getting older,
+而是还有一些伴随变老的习惯的变化
+but some of the things that are correlated with being older.
+就像那些喜欢定期有锻炼的人
+Like people who are willing to have a regular exercise machine
+可以使用这个锻炼制度来改变他们的生物钟
+can use that exercise regime to shift their circadian clock.
+我有一个好朋友 他的父亲已经80多岁了
+And I have a good friend his father's in his eighties.
+他还在 你知道的 做着 25 30个俯卧撑
+Uh, he's still, you know, pushing out, you know, twenty five thirty pushups,
+每天早上他都在做伸展式之类的
+uh, each morning he's on the pelaton or whatever it is.
+经常骑自行车 80多岁的人都在骑自行车 许多老人就不会这样
+Doing a lot of cycling, so some eighty year olds are doing that. Many are not.
+很多30岁的人都没有 但如果你有一个规律的锻炼计划 那么你调整生物钟
+Many thirty year olds are not, but if you have a regular exercise program, that's going to make it easier.
+来应对时差会更容易 这其实是一个旋钮
+To shift your circadian clock for sake of jet lag, and it's actually a knob you can turn
+你可以转动它来调整生物钟
+and you can leverage for shifting your clock.
+在继续讲下去之前 我想说
+Before you go any further, I want to make.
+改变你的内在节奏真的很容易
+Changing your internal rhythm really easy,
+至少你自己能够改变的  我相信当自己想要改变的时候
+or at least as easy and as simple as one could possibly make it. I believe when I wanted.
+就能成功
+We make it, I believe.
+我想说的是了解你的身体和大脑最重要的一点
+What I want to talk about is perhaps one of the most important things to know
+那就是你的最低体温
+about your body and brain, which is called your temperature minimum.
+大多数人都知道你的体重 有些人甚至知道你的血压
+Most of you know you're approximate weight, some of you might even know your blood pressure,
+有些人甚至知道你的体重指数
+some of you might even know your your body mass index.
+你们可能还知道自己生理上的其他东西 它们有一些很好听的名字
+Some of you might know other things about your biology that have fancy names,
+但是每个人都应该知道自己的最低体温
+but everyone should know their temperature minimum.
+你的最低体温不需要体温计来测量 尽管可以这么做
+Your temperature minimum doesn't require a thermometer to measure, although you could measure it.
+你的最低体温是每24小时循环中体温最低的时刻
+Your temperature minimum is the point in every twenty four hour cycle when your temperature is lowest.
+在没有温度计的情况下 你怎么测量它呢
+Now how do you measure that without a thermometer,
+它会在你起床时间前平均90分钟到2个小时下降
+it tends to fall ninety minutes to two hours before your average waking time.
+我想再重复一遍
+So I want to repeat that your temperature minimum
+你的最低体温是在你醒来前90分钟到2小时
+tends to fall ninety minutes to two hours before your average waking time.
+假设你没有旅行 如果你的起床时间通常是早上五点半
+So let's say you're not traveling, and your typical wake up time is five thirty a M.
+那你的最低体温很可能在
+Your temperature minimum is very likely.
+3点 30点或者4点那时候降到最低 如果你们愿意的话
+Three, thirty a M or four am if you want, if any of you.
+可以测量你的最低体温 你可以拿一个体温计
+Want to, you can measure your temperature minimum, you can get a thermometer,
+你可以在24小时内每隔几小时测量一次你的温度
+and you can measure your temperature every couple hours for twenty four hours.
+你可以找到你的最低体温 你会发现你有一个低点
+You can find your temperature minimum. What you're going to find is that you have a low point,
+温度的最低值 然后你的温度开始上升
+the temperature minimum, and then your temperature will start to rise.
+你会在两个小时后醒来
+You'll wake up about two hours later,
+然后你的体温会持续上升到下午 它会达到顶峰
+Then your temperature will continue to rise into the afternoon, it will peak,
+有时也会出现小小的低谷 然后
+maybe a little trough sometimes that happens, and then.
+当你接近夜晚的时候 它会开始慢慢下降
+It'll start declining slowly as you approach night time.
+有些东西会破坏这种温度变化 比如桑拿浴 冷水浴 剧烈运动
+There are things that will disrupt that temperature pattern. Sauna's cold bath, intense exercise.
+等等 膳食往往有一个生热效应 使温度升高
+ETC, meals tend to have a thermogenic effect that increases temperature,
+产生轻微的 小的波动 但整体循环 是24小时的温度循环
+slightly, little blips, but the overall cycle, twenty four hour cycle of temperature.
+这种模式
+Has this pattern.
+上次我讲了Jotakahahi和其他人的开创性工作
+And last time I talked about the seminal work of Jotakahahi and others
+他们已经证明了温度实际上是一个信号
+who have shown that temperature actually is the signal by which
+通过这个信号你的上颚上方的时钟
+this clock above the roof of your mouth.
+指导或集体推动我们身体的所有细胞和组织在同一时间表
+In trains or collectively pushes all the cells and tissues of our body to be on the same schedule.
+温度是效应器
+Temperature is the effector.
+一旦你听到这句话 你就能立刻反应过来
+And once you hear that, there should be an immediate,
+哦 当然 因为不然你怎么把
+oh, of course, because how else would you get.
+所有这些不同的 多样的细胞类型
+All these different, diverse cell types.
+按照同一种模式运作
+To follow one pattern, write a pancreatic cell does something very different than a.
+一个胰脏细胞与脾细胞或者神经元工作模式是不同的 对吧
+You know, A-A spleen cell or A-A neuron, right?
+它们都以不同的节奏做着不同的事情
+They're all doing different things at different rates.
+这样温度信号就可以发出去 然后每一个都可以把温度信号
+So the temperature signal can go out, and then each one of those can interpret
+解读为一个统一的 一致的环境基调
+the temperature signal as one unified and consistent theme of their environment.
+所以
+So.
+体温
+Temperatures.
+因人而异 有些人的体温是98.6华氏度 有些人的体温更低 等等
+Vary from person to person, some people are 98.6, some people run a little colder, etc,
+但你有一个低点 你有一个高点  你有最低体温
+but you have a low point, you have a high point, no, your temperature minimum.
+你怎么找出这个温度呢？ 这个最小值
+How are you going to figure out this temperature, minimum?
+最低体温可以通过三到五次测量来确定
+The temperature minimum can be determined by taking the last three to five.
+根据起床时间 假设你早上7点 8点 3点起床 对有人会在3点起床
+Wake up times, so let's say You wake up seven am, eight am, three am. Right happens.
+得到所有数据  把它们相加
+Take those, add them together, average them by adding them up
+然后除以天数求平均值 这就得到了平均值
+and dividing by the number of days. That'll give you the average.
+如果你是那种凌晨三点就起床的人
+If you're one of these people that wakes up at three am.
+然后继续睡觉 一直睡到十点 你在早上十点醒来
+And then goes back to sleep and sleep till ten, you wake up time with ten a M.
+如果你用闹钟 你起床的时间就是你被闹钟叫醒的时间 好吗
+If you use an alarm clock, your wake up, time is still when you get up, OK?
+我知道闹钟被妖魔化了 但在我的世界里
+I know alarm clocks have been kind of demonized, but in my world,
+迟到和错过约定时间也被妖魔化了 所以我会用闹钟
+being late and missing appointments is also demonized, so I use an alarm clock.
+许多人每天都会在同一时间醒来
+Many people will wake up at exactly the same time each day.
+每个人都会有一些变化
+There tends to be some variation for people, some people,
+有些人的变化 取决于生活环境 但平均是3到7天就能测量准确
+it's going to vary, depending on life circumstances, but average that for three to seven days or so.
+就拿起床时间来说 然后你可以得到一个平均值
+Take that wake up time. You can then get an average.
+或者是典型的最低体温 好了 现在你知道如何得到最低体温了
+Or sort of typical temperature minimum. OK, so now you know how to get your temperature minimum.
+你的最低体温是一个数
+Your temperature minimum is.
+最低体温是改变你的生物钟的绝对参考点
+Your absolute reference point for shifting your circadian clock,
+无论是否为时差或轮班工作或其他目的 一定要看最低体温的时间
+whether or not, for jet lag or shift work or some other for purpose.
+接下来我讲一下怎么做
+Here's the deal.
+把眼睛暴露在强光下
+If you expose your eyes to bright light,
+暴露大概四小时 五到六小时也勉强可以 在体温降到最低之后 暴露四小时
+In the four hours, maybe five or six, but in the four hours after your temperature minimum,
+那么你的生物钟
+Your circadian clock.
+就会进行调整  在随后的日子里  让你更早起床 更早睡觉
+Will shift so that you will tend to get up earlier and go to sleep earlier. In the subsequent days.
+好的 如果你想进一步了解这是什么 这就是所谓的相位提前
+OK, so what's called a phase advance, if you'd like to read up on this further,
+你可以提前你的生物钟
+you advance your clock.
+不过 如果看强光的时间  是在你达到最低体温之前的4到6个小时
+OK, however, if you view bright light in the four to six hours before your temperature minimum,
+那你的生物钟就会延迟 你会倾向于晚起床
+You will tend to phase delay your clock, you will tend to wake up later.
+然后入睡时间也会变晚 好吧
+And go to sleep later? Okay?
+我要重复一遍 因为大家都很困惑
+I'm going to repeat this because there's so much confusion out there,
+在谈论昼夜节律时间之类的时候 找到你的最低体温
+and people talk about circadian time and all this, find your temperature minimum.
+我往往在早上6点左右醒来
+I tend to wake up at about six am.
+有时6点半 有时7点 这很大程度上取决于我前一晚做了什么
+Sometimes six thirty, sometimes seven, it depends a lot on what I was doing the night before is,
+我猜对你来说也是这样的 这意味着我的体温的最低点
+I'm guessing it does for you, but that means that my temperature, minimum.
+大概是在早上四点半左右 也就是说
+Is probably somewhere right around four thirty a M, which means that if I wake up at.
+如果我在凌晨4:30起床 那马上在凌晨4:35去看明亮的灯光
+At 4:30 am and I were to view bright light at 4:35 am.
+就能提前我的生物时钟 我会在接下来的晚上更早睡觉
+I'm going to advance my clock, I'm going to want to go to bed earlier the subsequent night
+在接下来的早晨更早起床
+and wake up earlier the subsequent morning.
+当我调整起床时间的时候
+And as I shift my wake up time.
+我的最低体温也会变化 对吧 因为每次我们改变醒来时间
+My temperature minimum shifts, too, right? Because each time we shift our wake up time,
+我们的最低体温的时间就会改变
+our temperature minimum shifts.
+这边前提是醒来时间的调整要超过 三十分钟 一个小时
+Assuming that wake up time shifts more than an, you know, thirty minutes or an hour, okay?
+如果我在凌晨4:30之前的4到6个小时看到亮光
+If I were to view bright light in the four to six hours before thirty a, M,
+下一个晚上我就会想要熬夜
+guess what The next night I'm going to want to stay up later.
+我想在随后的早晨  晚一点再醒来
+And I'm gonna want to wake up later. The subsequent morning.
+你的最低体温是一个参考时间点 重点不在温度度数上
+Your temperature minimum is a reference point, not a temperature reading.
+如果你想测量最低体温  量出它是多少
+Again, if you want to measure your temperature minimum and figure out what it is,
+98华氏度 或者96华氏度 没关系量吧
+98 point, whatever, ninety six point, whatever, that's fine,
+你可以这样做 但是这个信息没什么用
+you can do that, but that information won't help You.
+你真正要知道的是  体温降到最低的时间点
+What you need to know is what time your body temperature is lowest,
+并且要明白在那之后的四个小时左右
+and understand that in the four hours or so just after that time,
+看一看灯光会使你的生物钟提前 让你想早起
+Viewing light will advance your clock to make you want to get up earlier.
+在你最低体温前的4个小时  看灯光
+And the four hours before your temperature, minimum, viewing light will
+会让你想晚睡
+make you want to stay up later.
+有些人可能会说 我起得早 而且还晚睡
+Now some people might be saying, well, I wake up early and I want to stay up late,
+我整天都很困 感觉很糟 或者我感觉没什么问题
+and I'm sleepy all day and I'm a mess, or I feel fine. Look,
+好  让我们谈谈“感觉没问题”这种情况
+Let's talk about feeling fine.
+事实证明 失眠的定义是
+Turns out the definition of insomnia is
+当你在白天经历过度的困倦时
+when you're experiencing excessive sleepiness during the day,
+这里要注意困倦和疲劳是不同的
+sleepiness and fatigue are different.
+在睡眠医学领域 疲劳是身体上的疲惫
+OK, so in the world of sleep medicine, fatigue is a physical exhaustion,
+困倦是想要入睡
+sleepiness is falling asleep.
+比如在课桌上睡着或者在上课时睡着
+Like falling asleep at your desk or falling asleep during lectures,
+或者我的课有一些特别 让同学们想要睡觉
+or there seems to be something special about my lectures that makes people want to
+如果这能治好你的失眠 那还真的挺好的
+fall asleep. So if this cures your insomnia, fantastic.
+但是 正经一点说
+However, in all seriousness,
+白天嗜睡是失眠的一种表现 除非是在体温达到峰值哪个时间段
+Sleepiness during the daytime, unless it's around your temperature peak,
+而那个时间段只持续90分钟左右
+and only lasts about ninety minutes or so, is a sign of insomnia.
+白天嗜睡就是睡眠不足的标志
+It's a sign of lack of sleep.
+我想非常非常明确地说
+I want to be very, very clear that.
+如果你知道你的最低体温的时间 你久可以用光来改变你的生物钟
+If you know your temperature minimum, you can shift your clock using light.
+你也可以用其他方法改变
+You can also shift your clock.
+比如在达到最低体温的4个小时后  进行运动
+By engaging in exercise in the four hours after your temperature minimum,
+你在之后就能早起 或者在之前运动来推迟你的生物钟
+to wake up earlier on subsequent nights or exercise before then to delay your clock.
+好了 现在你可以开始看到并理解这个系统的逻辑了
+OK, so now you can start to see and understand the logic of this system,
+我们之后会讨论为什么这些会起作用  以及它背后的生物学原理
+and we'll talk about why this works and the underlying biology. But.
+你要了解温度是影响因素 了解你有这个体温低点
+Understanding that temperature is the effector and understanding that you have this low point,
+它反映了你最困的时刻 基本上 就在你醒来之前
+and that reflects your most sleepy point, essentially, right before waking up.
+然后体温上升 你之后就可以开始根据你的旅行需要
+And then temperature rises, you can now start to shift that temperature,
+调整温度
+according to your travel needs.
+举个例子来说明怎么做 假设我要去欧洲旅行
+Here's one way in which you might do that, let's say I am going to travel to Europe,
+时区就是提前9个小时 我通常是从加州出发
+which is nine hours ahead, typically from California.
+我想确定我的最低体温时间 对我来说大概是早上4点半 或者5点
+I would want to determine my temperature minimum, which for me is about four thirty a M,
+然后我就会在那个时候开始起床
+maybe five am. And I would want to start getting up.
+大概在
+At about.
+早上5点30分的时候 接受一些强光照射 基本上是人工光源
+Five thirty a M and getting some bright light exposure, presumably from artificial sources,
+因为阳光在那个时候还没出来
+because the light, the sunlight isn't going to be out at that time.
+甚至可以锻炼 甚至可以吃一顿早饭 如果这是你的习惯的话
+Maybe even exercising as well, maybe even eating a meal at that time, if that's in your practice.
+你应该在旅行前两三天开始就这么做
+You would want to start doing that two or three days before travel.
+因为一旦你降落在目的地  比如说我降落在欧洲
+Because once you land in where I land in Europe.
+在欧洲看日出或日落
+Chances are just viewing the sunrise or sunset in Europe is not going to
+并不能让我改变我的生物钟
+allow me to shift my circuiting clock.
+有人说会 刚落地的时候就要让阳光照进眼睛 但是
+Some people say, get sunlight in your eyes when you land. But.
+这行不通 因为
+That's not going to work because.
+像这样的九小时倒时差只可能会发生两种情况
+One of two things is likely to happen with a nine hour shift like that,
+要么我会在昼夜节律死区的时间
+either I'm going to view sunlight.
+看到阳光  那个时间段
+At a time that corresponds to the circadian dead zone,
+我的昼夜节律时钟没有办法被调整
+the time in which my circadian clock can't be shifted.
+或者我看到的阳光
+Or I'm going to end up viewing sunlight at a time that corresponds to
+是在最低体温的4到6小时之前的那个时间段
+the four to six hour window before.
+所以它只会让生物钟
+My temperature minimum, so it's going to shift me in exactly
+朝着相反的方向调整
+the opposite direction that I want to go.
+所以调整时差对人们来说是非常非常具有挑战性的
+So it can be very, very challenging for people to adjust a jet lag.
+所以你得问问自己 我是在向东边旅行
+So you need to ask, in my traveling East.
+还是向西旅行  我是想让我的生物钟提前还是延迟
+Or am I traveling west Am I trying to advance my clock or delay my clock
+记住
+Remember.
+在你的最低体温之前的4到6个小时内  看光线  运动和进食
+Viewing light exercise and eating in the four to six hours before your temperature minimum
+会延迟你的生物钟
+will delay your clock eating.
+看光线  运动和进食  你不必同时做这三件事
+Viewing sunlight and exercising, you don't have to do all three,
+但在你的体温达到最低后的四到六个小时之后 把这三件事结合起来做
+but combination of those in the four to six hours after your temperature, minimum.
+这会让你的生物钟提前 这是一种强大的机制
+Will advance your clock, and this is a powerful mechanism by which 
+通过这种机制  你可以将你的生物钟一天调整1-3小时
+you can shift your clock anywhere from one to three hours per day.
+这真的很厉害 这意味着你的最低体温
+Which is remarkable, that means your temperature minimum is going to
+将会调整三个小时
+shift out as much as three hours, which can make it such that
+这样如果你要去欧洲
+you can travel all the way to Europe.
+只要你在家准备一天左右   就像我描述的那样
+And in as long as you've prepared for a day or so, by doing what I described back home,
+当你到达目的地的时候
+And then doing it when you arrive, you can potentially accomplish the entire shift
+你就可以在24到36小时内完成整个生物钟调整
+within, anywhere from twenty four to thirty six hours, and.
+强调这一点非常重要
+This is really important to emphasize.
+一旦你到达你的新地点 这里我说的是向东旅行
+That once you arrive in your new location, and here I'm talking about traveling eastward,
+从加利福尼亚到欧洲  一旦你到达你的新地点
+california to Europe once you arrive in your new location.
+你必须记录你在家里的最低体温是多少
+You have to keep track of what your temperature minimum was back home
+以及在旅途中温度是如何变化的 这比你想象的要容易得多
+and how it's being shifted during your trip. Now it's much easier to do than you think.
+智能手机有一个不好
+One of the unfortunate consequences of.
+就是
+The smartphone is that.
+你不能做一些 呃 死板的事情 比如戴两块手表
+You can't do, uh, you know, something goofy, like wearing two watches,
+一块手表对应的是家里的时间
+one watch that corresponds to the time back home,
+另一块手表对应的是当地时间
+and another one that corresponds to the local time.
+通常手机时间会根据Wi-fi等自动更新
+Typically it updates automatically based on Wi fi, etc.
+但如果你能跟着家那边的时间
+But if you can keep track of the time back home.
+然后你就可以很容易地把你的时钟往前拨 我希望你们能听懂
+Then you can easily shift your clock going forward. I'm hoping this makes sense.
+我想强调的是 你不必精确到一分钟
+I really want to emphasize that you don't have to be precise down to the minute.
+有些人可能会问
+Some of you may be asking well.
+要是我知道温度最低值在哪
+What about, you know, you've got this temperature minimum,
+如果我在那个点前一分钟  看光线
+and if I view light one minute before it,
+那么我将延迟生物钟一分钟
+then I'm going to delay my clock, and one minute after it,
+我要提前我就... 不是这样的
+I'm going to advance my clock. It doesn't quite work like that, OK?
+但是要理解  光是我们改变生物钟的主要方式  知道这点是非常重要的
+But it's very important to understand that light is the primary way in which we can shift our clock.
+现在你们应该也能理解一些东西
+And now you should also be able to understand things
+比如昼夜节律死区 大概是从上午9点到30点10点
+like the circadian dead zone from about nine, thirty ten a M.
+一直到你体温降到最低前六个小时
+All the way until six hours before your temperature, minimum.
+在那段时间里  什么都不会改变你的生物钟的
+You're not going to shift your clock. Nothing that you do in that time
+你在光线 行为 进食等方面所做的任何事情都不会改变你的生物钟
+in terms of light, viewing, behavior, feeding, etc, is going to shift your clock.
+所以很多人来到欧洲 把阳光照到眼睛里
+And so a lot of people are landing in Europe getting sunlight in their eyes
+把他们的生物钟弄得一团糟 或者根本不调整生物钟
+and throwing their clock out a whack or not shifting their clock at all.
+这让我想到另一件强烈推荐的方法
+This brings me to the other thing that's highly recommended.
+我之前提到过 如果你想按照当地的进食时间吃饭
+And I've mentioned this before, but you want to eat on the local meal schedule,
+如果你的习惯是断食 那你没关系
+if it's in your practice to fast fast, that's fine.
+但是当你要吃东西的时候 你想要在当地的进食时间内吃东西以保持清醒 对吧
+But when you eat, you want to eat within the local schedule for alertness. OK?
+这意味着 如果你到了那边 大家都在吃早餐
+That means if you arrive and everyone's eating breakfast and
+而你一点都不想吃
+you can't stomach the idea of breakfast.
+你在全新的地方 因为你的胃口还没有
+Your new location, because your appetite isn't there,
+这意味着生物钟和你的肝脏 你的肝脏里有一个生物钟
+that means the clock and your liver, you have a clock in your liver,
+那个生物钟还没有跟上新的时区
+biological clock has not caught up to the new time Zone.
+如果你想 你可以强迫自己吃
+You can force yourself to eat if you like.
+或者你可以跳过那顿饭 但你不能按照你的在家用餐时间表
+Or you can skip that meal, but what you don't want to do is stay on your home meal schedule.
+你可能要半夜醒来吃东西
+Waking up in the middle of the night and eating.
+那真的会把事情搞砸 因为
+That is really going to throw things off, because.
+很多末梢周围的生物钟 比如肝脏
+A lot of the clocks in the periphery, like from the the liver,
+末梢会把信息传回大脑
+the peripheral body will send information back to the brain,
+然后大脑就会接收到非常矛盾的信号
+and then the brain is getting really conflicted. Signals.
+所以最低体温是你调整生物钟的最佳定位点
+So the temperature minimum is really your anchor point for shifting your clock best.
+我不知道为什么这个信息还没被大众所接收到
+I don't know why this information really hasn't made it into.
+倒是有很多关于服用褪黑激素
+the popular sphere, quite so much, there's all sorts of stuff about taking things like melatonin
+“双耳节拍” 这种类似东西的信息
+using binaural beats, a lot of kind of like.
+这些都是更微妙 更复杂 还存在潜在的隐患
+Uh, more sophisticated, complicated and potentially problematic, uh,
+来改变生物钟的方法
+ways of trying to shift the clock.
+我们来谈谈褪黑激素
+Let's talk about melatonin.
+但首先我想暂停一下
+But first I just want to pause and.
+稍微改变一下顺序 因为我刚才讲的是向东旅行
+Shift gears a little bit because I talked about traveling eastward.
+但我们还没有谈到向西旅行 所以我想先说一下向西旅行
+But we haven't talked about traveling westward, so I want to do that.
+现在  假设你从纽约旅行到加利福尼亚  或者从欧洲旅行到加利福尼亚
+Now let's say you're traveling from New York to California or from Europe to California.
+这边大家会觉得困难的地方在于
+The challenge there tends to be.
+怎么能熬到那么晚才睡觉 现在 有些人能够做到这一点
+How can you stay up late enough? Now, some people are able to do this
+是因为我之前提到过的 自主神经系统是不对称的
+because as I mentioned earlier, the autonomy nervous system is asymmetrically wired.
+因此 晚睡比早睡更容易
+Such that it's easier to stay up late later than we would naturally want to
+假设你在目的地着陆了
+than it is to go to sleep earlier. So let's say you land.
+下午4点  你感觉很不好 你从欧洲来到加州
+And it's 4 PM, and you're just dying, you're in California, you came from Europe, and you.
+你真的真的很想睡觉 这个时候就可以用到咖啡因 运动
+You really really want to go to sleep. That's where the use of things like caffeine exercise.
+还有阳光  这些都可以让你改变生物钟 如果你的温度已经达到峰值
+And sunlight can shift you right, if it's after your temperature peak.
+然后在下午6点或8点左右看阳光 或者 嗯 如果没有阳光的话 看人造光
+Then viewing sunlight around six PM or eight PM, or, um, artificial light, if there's in sunlight,
+都会帮助你调整 延迟
+will help shift you.
+它将会延迟你的时钟
+Later, right? It's going to be, it's going to delay your clock
+然后你就能晚睡
+and you're going to be able to stay up later.
+你最不应该做的事就是睡午觉
+The worst thing you can do is take a nap that was intended to last.
+通常持续20分钟到1个小时 我平时经常这样做 然后4个小时后醒来
+Twenty minutes or an hour, I do this routinely, and then wake up four hours later,
+或者在大半夜醒来 就无法再睡着
+or you wake up at, and it's midnight and you can't fall back asleep.
+所以一定不要午睡
+You really want to avoid doing that.
+所以只要不是过量服用一些刺激物
+So provided it's not excessive amounts, stimulants like.
+比如 咖啡或茶中的咖啡因
+Caffeine in coffee or tea can really help you
+那么它真的可以帮助你克服下午的障碍 让你入睡
+push past that afternoon barrier and get you to sleep.
+更加能够跟着当地时间走  跟着当地时间安排进食
+More like on the local schedule and eating on the local schedule as well.
+很多人询问过褪黑激素的作用
+Number of people have asked about the use of melatonin to induce sleepiness.
+好吧 我们来讲讲
+All right, well, let's.
+想想褪黑激素是什么 褪黑激素是松果体释放的一种激素
+Think about what melatonin is, melatonin is this hormone that's released from the pineo gland,
+而松果体就是个腺体
+which is this gland.
+讲一些关于松果体的知识点 因为我收到了很多关于松果体的问题
+A couple notes about the pineal, because I've been getting a lot of questions about this.
+我可能会招来一些批评
+I'm probably going to draw some fire for this, but um, I'd,
+但我很乐意跟我们之前的同行评议论文
+I'd be happy to have a thoughtful, considerate debate with some
+进行一场深思熟虑的辩论
+peer reviewed papers in front of us.
+松果体制造了一种叫DMT的致幻分子
+The pineo does make this hallucingenic molecule they call DMT.
+但它的量不大 并不会导致你在睡眠和做梦时
+But in such maniscular amounts that it is not responsible
+看到的幻觉
+for the hallucinations you see in sleep and dreaming.
+抱歉 朋友们 它也没有大到 像你用的其他致幻剂那样 看到幻想
+Sorry, folks, it's also not responsible for the hallucinations You might see through other.
+它不是 它不是DMT的来源
+Approaches to DMT, it's just not that's not where the DMT comes from.
+它是微乎其微的量
+It's infinitesimally small amounts.
+有很多古怪的说法 关于钙化的松果和氟化物
+There are a lot of kind of wacky claims out there about calsification of the pineo and fluoride,
+以及类似的事情
+and this kind of thing.
+听着 松果体位于大脑第四脑室附近
+Look, the pineal sits in an area of the brain near the fourth ventricle where.
+离颅骨并不是很远 虽然上面有一些神经组织
+The skull is not terribly far away, although there's some overlying neural tissue, and.
+但是随着年龄的增长
+With age, there are some.
+一些脑膜和周围的其他东西聚集在一起粘在头骨上
+Aggregation of some of the meninges and other things around there that stick to the skull.
+所以年轻的大脑不像年老的大脑 没有钙化的松果体
+Young brains don't look like old brains, but there's no calcification of the pioneal.
+好了 不要再想着钙化的事情了 松果体是个问题
+All right, so you can forget about callification. The pineal is a problem.
+我不知道这一切是从哪里开始的 但是这不是问题
+I don't know where that whole thing got started, but um that's not an issue.
+你的松果体会给人的一生带来大量的褪黑激素
+Your pineal will churn out melatonin my whole life.
+褪黑激素诱发嗜睡 褪黑激素在成长过程中也有作用
+Melatonin induces sleepiness. Melatonin during development, is also responsible.
+对青春期至关重要的荷尔蒙分泌 有重要作用
+For timing the secretion of certain hormones that are vitally important for puberty.
+那褪黑激素是否非直接 而是间接地控制着青春期的开始呢？
+Does melatonin control the onset of puberty, not directly but indirectly?
+褪黑激素会抑制一种叫做“促黄体生成激素释放激素”的物质
+Melatonin inhibits something called cannatatropin releasing hormone,
+这种激素是从下丘脑释放出来的
+which is a hormone that's released from your hypothalamus,
+大概也就是在你上颚上方  大脑那边
+also roughly above the roof of your mouth in your brain.
+促黄体生成激素释放激素  非常有趣因为它刺激了另一种荷尔蒙的释放
+Ginatropin releasing hormone is really interesting because it stimulant stimulates the release
+这种荷尔蒙叫做促黄体激素 它在女性体内
+of another hormone called ltinizing hormone, which in females causes.
+促进雌激素在卵巢内释放
+Estrogen to be released within the ovaries.
+它参与了生殖周期 在男性刺激中
+It's involved in reproductive cycles, and in male stimulates,
+睾丸的塞尔托利氏细胞分泌的睾酮
+testosterone from the sartolly cells of the of the testes.
+褪黑激素抑制GNRH 促黄体生成激素释放激素
+Melatonin is inhibitory to GNRH, Ginatropin releasing hormone,
+从而抑制LH 促黄体激素
+and therefore is inhibitory to LH, ltinizing hormone,
+从而抑制睾酮和雌激素
+and therefore is inhibitory to testosterone and estrogen.
+没有其他方法可以生成这些激素
+Just no two ways about it.
+有
+There is.
+它有大量的数据表明高水平的褪黑激素在季节性繁殖的动物身上
+It immense amount of data on the fact that high levels of melatonin in seasonally breathing and.
+褪黑激素把漂亮而健壮的卵巢
+Breeding animals takes the ovaries for nice and robust ovaries that
+原本那些卵巢能够排卵 诸如此类
+are capable of deploying eggs. And this kind of thing.
+确实是缩小了它们 让这些动物无法受孕
+Literally shrinking them and making these animals infertile.
+这些褪黑激素在季节性繁殖的动物中含量很高 在冬天
+These are very high levels of melatonin in seasonal breeders, in winter.
+季节性繁殖的雄性体内的褪黑激素会使其睾丸萎缩
+Melatonin, in males of seasonal breeders, takes the testes and shrinks them.
+很久以前 当我在加州大学伯克利分校读硕士的时候
+Long ago, when I was at UC Berkeley as a master student,
+当时我在学神经生态学 我们在研究
+I was working on neuronecronology, and we were working on.
+这种季节性繁殖的仓鼠
+Um, this hamster species of seasonal breeders,
+白天很长时 会抑制褪黑激素
+and basically when days are long, which inhibits melatonin.
+这些被称为西伯利亚仓鼠的小仓鼠
+These little Siberian hamsters, as they're called,
+睾丸大小和普通的食用葡萄差不多 虽然这么说出来有点奇奇怪怪的
+have testes about the size of sort of typical table grapes, although that's a weird way to put it.
+但随着白天变短 褪黑激素信号变长
+When days get shorter and the melatonin signal gets longer,
+因为光抑制褪黑激素 白天变短 褪黑激素变长
+because light inhibits melatonin, days get shorter, melaton gets longer, those same.
+相同仓鼠的睾丸大概有一粒米那么大
+Hamsters would have testes that would involute to the size of about a grain of rice.
+但这么短时间内 人类身上不会发生这些
+Now this does not happen in humans.
+尽管如此 褪黑激素信号确实
+In short days, but nonetheless, the melatonin signal really does
+对激素系统有很大的影响
+have a ton of effects on the hormone system. Now.
+这是否意味着如果你一直服用褪黑激素
+Does that mean that if you've been taking melatonin,
+那就真的会破坏你的荷尔蒙 不一定
+you've really screwed up your hormones, not necessarily,
+这是否意味着如果一个孩子一直服用褪黑激素 那会破坏他们的青春期发育
+does it mean if a kid has been taking melatonin, that's really screwing up their puberty,
+不一定 我来说一下为什么
+not necessarily. And here's why.
+褪黑激素要在一定浓度水平上才能起作用
+Melotonin operates on a concentration level.
+所以对于一个孩子来说 要有非常非常高的
+So in a child, that's very, very.
+高水平的褪黑激素 才会实际上抑制GNRH LH 睾丸激素或雌激素
+That has high levels of melatonin, it actually can inhibit Gnrhlh, testosterone or estrogen,
+具体哪个激素取决于孩子的性别
+depending on it. The sex of the child.
+但随着孩子的成长  其他机制如成长 骨骼释放 等等
+But as that child grows through other mechanisms like growth, hone release, etc.
+松果体释放的同样数量的褪黑激素
+That same amount of melatonin released from the pioneal
+就被稀释到一个更大的身体上 所以浓度实际上下降了很多
+is now diluted over a bunch larger body, so the concentration actually goes way way down.
+好的 但是补充褪黑素有个问题 我在之前的节目中提到过
+OK, but here's the problem with supplementing melatonin, as I mentioned in the previous episode.
+许多商业补品中褪黑激素的浓度
+Concentrations of melatonin in many commercial supplements have been shown to be
+都是瓶上所列的85%到400%之间
+anywhere from 85% to 400% of what's listed on the bottle.
+所以当你服用褪黑激素时 儿童服用褪黑激素时
+So when you take melatonin, where a child takes melatonin, oftentimes,
+通常是超生理水平的褪黑激素
+they are taking super physiological levels of melatonin, which.
+至少从我阅读过的文献中反映出
+At least by my read and the literature.
+它会对青春期这样的事情  对它时间和进程产生巨大影响
+Says that it could have dramatic effects on timing and course of things like puberty.
+所以
+So.
+没有什么期刊显示说
+It's not so much that the journals have come out saying, oh, taking.
+服用褪黑激素会抑制青春期
+That melatonin inhibits puberty is that
+那是因为没有一项单独的研究  会在正在发育的儿童身上
+no single study has been done with the superphysiological levels of melatonin
+用含有超剂量褪黑激素的补品做实验
+that are present in a lot of these supplements in developing children,
+当你想在你到达的新地方  想要入睡时
+so melatonin is used widely for inducing sleepiness
+褪黑激素被广泛用于诱导睡意
+when you want to fall asleep in the new location that you've arrived.
+你睡不着 你吃了褪黑激素 帮助你入睡
+You can't fall asleep. You take melatonin helps you fall asleep.
+它不会帮助你保持睡眠
+It does not help you stay asleep.
+除此之外
+In addition to that.
+褪黑激素一直被吹捧为改变生物钟的最佳方式
+Melatonin has been kind of touted as the best way to shift your circadian clock.
+我很乐意公开告诉你
+I'm happy to go on record saying,
+听着 如果你真的需要褪黑激素
+look, if you need melatonin,
+你可以找医生或者真正了解昼夜节律和睡眠生物学的人
+you can work with a doctor or somebody who really understands circadian and sleep biology,
+去吃吧 如果这就是你的方式
+go for it, if that's your thing. But.
+但是  我和往常一样 不管是在这个播客 还是其他地方
+I as always, on this podcast and elsewhere, I.
+我倾向于用那些可以模式化和控制的行为
+I have a biased toward behavioral things that you can typerate and control,
+比如暴露在光线下 运动 温度等等
+like exposure to light, exercise, temperature, etc, that have much bigger.
+这些都有更高的安全系数 当然也不会对我们一直在讨论和担心的
+Margins for safety and certainly don't have these other endocrine effects that
+对内分泌产生影响 所以
+we've been thinking about and talking about. So.
+如果你想在下午或晚上服用褪黑激素来入睡
+If you want to take melatonin in the afternoon in order to fall asleep or in the evening,
+没关系 这取决于你 但我再次强调 是你要对自己的健康负责 不是我
+be my guest, that's up to you, again, you're responsible for your health, not Me.
+但对很多人来说 褪黑激素并不是最好的解决方案
+But for many people, melatonin is not going to be the best solution.
+最好的解决办法是利用光线 温度和锻炼
+The best solution is going to be to use light and temperature and exercise.
+在最低体温的两侧调整你的生物钟
+On either side of the temperature minimum to shift your clock,
+包括旅行前和降落到新地点时 开始调整你的生物钟
+both before your trip and when you land in your new location and your clock starts to shift.
+好了 现在你知道了我对褪黑素的看法 请通过你自己对褪黑素的看法和经历来过滤它们
+OK, so now you know my opinions about melatonin, feel free to filter them through your own opinions and experiences with melatonin.
+现在你也知道你的最低体温在什么时候
+And now you also understand what your temperature minimum is
+以及它代表了一个重要的参考标准
+and how it represents an important landmark.
+任何一边你都可以利用光线 温度和运动来改变你的生物钟
+Either side of which you can use light, temperature and exercise to shift your clock.
+提醒大家一下温度 如果你想改变生物钟的话
+Just remind you a little bit about temperature, if you want to shift your clock.
+一般来说 你可以先洗个热水澡
+Typically, you would do that by you take a hot shower,
+然后洗完热水澡会起到降温的作用
+and then that will have a cooling effect after the hot shower.
+如果你要洗冷水澡或冰水浴 如果你能接受
+And if you were to get into a cold shower or an ice bath, if you have access to one,
+那么洗完之后 你的身体会产生生热效应 使体温升高
+afterward, there's going to be a thermogenic effect of your body increasing Temperature.
+想想你在家的时候 你的内在节奏 一切都稳定的时候
+And if you just think about your natural rhythm back home, when everything's stable,
+是的 但是
+Yeah, but.
+最低点是 你的最低体温的低点 然后你会有一个峰值
+A nadir, a low point in which is your temperature minimum, and then you have a peak,
+当你在洗热水澡或冷水澡的时候
+and you think about when you're doing this hot or cold shower.
+在这个节奏中 现在你应该能理解你是如何改变节奏的
+In that rhythm, now you should be able to understand how you're shifting your rhythm,
+温度节奏会改变 给你们一个例子
+that temperature rhythm is the one that's going to move, give you an example.
+如果我早上醒来
+If I were to wake up in the morning,
+假设 我早上6点醒来 我的体温 我知道它在上升
+And let's say, I wake up six, I am, my temperature, I know is rising,
+我已经过了最低体温那个时间点  如果我要洗热水澡的话
+I've passed my temperature minimum if I were to get into a hot shower.
+这样我出来的时候体温就会降低
+That would then lower my body temperature when I got out.
+而通常早上醒来的体温是不会下降的
+That is not normally what's happening first thing in the morning.
+因此 我的生物钟很可能会延迟
+And therefore, my clock would very likely get phase delayed.
+它会延迟温度的升高 而如果我要洗冷水澡
+It's going to delay the increase in temperature, whereas if I got to a cold shower,
+我其实有时候也不太喜欢早上洗冷水澡 但是
+something I don't personally like to do, but.
+时不时地做一个冰浴 它会让我的体温反弹 上升
+Have done from time to time where an ice bath that's going to then have a rebound
+并让我的生物钟提前
+increase in body temperature, and is going to phase advance my clock.
+让我下午的体温高峰提前到来
+That peak in the afternoon is going to come.
+大约提前一个小时 然后晚上会想早点上床睡觉
+About an hour earlier, I'm going to want to go to bed earlier later that night.
+所以你可以开始尝试这种时间的调整 热和冷的调整
+So you can start to play these games with timing and hot and cold.
+吃饭时间 看你吃不吃饭
+With meals, whether or not you eat or you don't eat,
+或者接受光 看你看不看光
+and with light exposure, whether or not you view light or you don't.
+按你自己的来 那么现在你可以开始了解为什么理解系统的核心机制
+If you like, so now you can start to see why understanding the core mechanics of a system
+能够给你最大的灵活性 选择余地 因为
+can really give you the most flexibility because.
+接下来我就可以用这部分知识
+I could spend the next.
+在之后的25年时间里  解决每一个关于旅行模式的细微差别的问题
+Twenty five years of my life answering every question about every nuanced pattern of travel,
+我们先去悉尼 然后再去那里 我该怎么办
+well, we're going to Sydney, then we're going there. What should I do,
+你可以自己操作了
+but that's on you.
+你需要计算出你的温度 最低体温和最高温度 只要你自己愿意
+You need to figure out your temperature, minimum and your temperature peak, if you like.
+然后使用这些参数 它给了你灵活性
+And then use these parameters to, it gives you flexibility.
+这强调的是 最重要的是
+And that really underscores, the most important thing,
+当你理解了机制之后
+is that when you understand mechanism, it's not.
+它就不再是刻板遵守某种方法
+About being neurotically attached to a specific protocol.
+恰恰相反
+It's the opposite.
+它赋予你能力 让你不再紧张地执着于某个特定的方法
+It gives you power to not be neurotically attached to a specific protocol.
+它能给你极大的自信和灵活性 让你能够随心所欲地调整你的身体节奏
+It can give you great confidence and flexibility in being able to shift your body rhythms
+当你的身体出现什么问题的时候   你就能把它们调整回原来的地方
+however you want, and when things get out, whack, you can tuck them right back into Place.
+有一件事很常见 那就是人们会有短暂的旅行
+One thing that's common is that people need to do a quick trip.
+你并不总是要去 去度假两周或者
+It's not always that you're going to go to, you know, on vacation for two weeks or.
+在别的地方连续工作几周
+Work someplace else for weeks on End.
+如果你的旅程是48小时或更少 请按照你的原有时间表生活
+If your trip is forty eight hours or less, stay on your home schedule.
+这可能很困难 可能需要根据你的原来的日程  来安排会议
+This can be tough, and it may require scheduling meetings according to your home schedule.
+但如果你能做到
+But if you can.
+无论如何能做到按照原来的那样 最好的办法就是按照你的家庭时间表来做
+Somehow manage that, the best thing to do would be to stay on your home schedule.
+你的生物钟不会变动几个小时 而且还能正常工作
+Your clock is not going to shift more than a couple hours, even if you do everything correctly.
+在一天里
+In one day,
+如果我要去旅行 比如说去欧洲 我就做过这样的事
+OK, so if I were to travel, say to Europe, I've actually done this,
+我有去瑞士的博斯勒 只待了24小时 做了一个演讲 然后回来
+I did a twenty four hour trip to Bosle, switzerland, gave a talk and came back.
+大家都觉得这太疯狂了 但是
+People thought it was crazy. But.
+我只有点旅行疲劳 因为会产生实际旅行带来的疲劳
+I-A little bit of travel fatigue, because remember there's fatigue from the actual travel experience.
+这种新的环境 飞机上的空气从来都不是很好
+The novelty of it, the air and is never great on the planes.
+一直都这样 飞机上有很多很多的要求之类的
+This was even true before, there were mass requirements and things like that.
+你会感觉到旅途疲劳 但你的生物钟不会失去控制 如果你待上48个小时 那么
+There's the travel fatigue, but you don't throw your clock off. If you stay forty eight hours, then.
+生物钟会有一点改变了
+You start to shift a little bit.
+如果是72小时 那开始有麻烦了 飞行时间也很重要
+Seventy two that's when you start running into trouble, the transit time is also important,
+但我要说的是 如果旅行只有三天或更短 那么保持你原来的时间表
+but I would say, if it's three days or less, stay on your home schedule.
+尽你所能 因为阳光不是你能控制的
+As much as you can, and because sunlight isn't under your control,
+一定会对你身体造成一点影响 我不知道
+must have something about you, I don't know.
+那么带着一些亮光旅行 就比如我的灯光板
+That's when traveling with some sort of bright light, like the light pad that I have.
+我之前展示的那个
+Down there that I showed earlier.
+对于没有听过之前节目的听众们 可能不知道  就是一个大概8.5*11寸的pad
+For those of you listening just on audio, it's just, it lux like an eight and a half by eleven pad.
+其实它不是为环行人而设计的 它实际上是设计作为 它是一个画板
+It's actually not designed for a wake up. It's actually designed, it's a drawing pad.
+可以发出一千勒克斯
+And you can emits about a thousand lux.
+的光
+Of of light.
+如果你想带着这样的设备旅行
+And so if you want to travel with something like that,
+你可以在酒店房间里用它来唤醒自己
+you can use that in your hotel room to wake up when you like.
+有些人会用 呃 眼罩 你知道的 呃
+Some people will use, uh night shades, you know, the, um,
+不是吃的那种  有些人还说不应该吃的什么的
+not the night shades that you eat or that some people say you're not supposed to eat,
+对那个我一无所知 但是呃
+I don't know anything about that, But the uh.
+那种可以遮挡光线眼罩
+The the eye covers that, uh, to keep light out, those
+在飞机上 酒店里等等都很有用
+those can be very useful on planes and in hotels and so on.
+所以你可以利用光明和黑暗的交替 你可以带着一个灯
+So you can use light and dark, and you can travel with your light and.
+以及保持黑暗的辅助工具 这样你就可以按照你的家庭时间表
+Dark devices so that you can stay on your home schedule and get most of your light
+你在家里正常起床的时间  获得大部分光线
+when it would be your normal wake up time back home.
+如果你知道在家的时候你的昼夜节律死区大概是几点
+And what's kind nice is if you know when your circadian dead zone is back home,
+对大多数人来说
+which is generally, for most people around.
+大概是上午十点到下午三点左右 基本上就是体温上升的阶段
+Ten a M to about three pm. So basically the rising phase of your temperature.
+那个时候你就可以在户外自由活动而不用戴太阳镜
+Then you can also feel free to be outside without having to wear sunglasses,
+或者你也不用担心暴露在光线下 但如果你知道
+or you don't have to worry about light exposure, but if you know.
+在你的体温之前的这段时间 也就是前4到6个小时的时间
+That window before your temperature, minimum, that four to six hour window,
+如果你在新的环境下看到了很多光线
+that's the time when if you're viewing a lot of light in your new location.
+那么将会大幅调整你的生物钟
+You are going to shift your clock pretty considerably,
+等你回去的时候 就会很难受
+and then you can come back home and have a terrible time.
+研究生毕业后 我去了澳大利亚 那是一个很棒的国家 澳洲人都很好
+At the end of graduate school, I went to Australia, a remarkable country, incredible people,
+还有令人惊叹的野生动物 那是一段美妙的时光 我回来了 那是我人生中第一次
+incredible wildlife, an amazing time. I came back, and it was the first time in my life.
+我不能规律地睡觉
+Where I couldn't sleep on a regular schedule,
+我每天白天都要睡上几个小时 那是一场噩梦
+I was sleeping in like hour long increments throughout the day. It was a nightmare.
+我花了好几周才调整回来
+And it took me weeks to get back.
+我能做到的就是每24小时在同一时间
+On target, and the way I was able to do that was exercising consistently
+坚持锻炼
+at the same time every twenty four hours.
+然后把我的家变成了夜晚的洞穴
+Turning my home into essentially a cave at night.
+甚至把窗户盖上 然后白天尽可能多地让明亮的光线照进我的眼睛
+Even covering up the windows and then getting as much bright light in my eyes
+不戴太阳镜 等等
+as I possibly could during the day, no sunglasses, etc.
+所以这需要一些真正的准备 如果你 如果你的生物钟紊乱了
+So it can take some real work, if you, if your clock gets thrown out of whack.
+有一种现象叫做重症监护室精神病
+There's a phenomenon called ICU psychosis,
+在医院的重症监护室里的人
+where people that are in the intensive care unit in hospitals actually.
+他们会失去理智 变成精神错乱产生幻觉 等等
+Lose their mind, they, they become psychotic hallucinations, etcetera.
+这是因为昼夜节律的改变 我们知道
+And it's because of altered circadian cycles. We know this.
+因为他们暴露在这些光和这些声音下
+Because they're exposed to these lights and these sounds,
+不断有人进来检查他们 最后他们离开医院
+people coming in and checking on them, they leave the hospital.
+有一个实验  实验中病人们被安排在靠近窗户的地方
+Or in some cases, there have been experiments where people are placed near a window
+这样他们可以得到一些自然光
+where they get some natural light.
+假设他们本身没有精神病症状 过一段时间 ICU这些精神病症状就会消失
+And these psychotic symptoms disappear, presuming there weren't psychotic symptoms beforehand.
+恢复到进医院之前的那样 所以这是非常戏剧化的
+Before they entered the hospital, so it's pretty dramatic,
+就好像光能把灵魂带到身体里 所以
+what light can do to the psyche into the body. So.
+让我们来谈谈另一种不同形式的时差反应
+Let's talk a little bit about a different form of jet lag that requires
+没有乘飞机 火车 汽车 那就是轮班
+no planes, no trains, no automobiles, and that's shift work.
+轮班工作变得越来越普遍
+Shift work is becoming increasingly common.
+我们很多人都是颠倒的工作时间表 即使没有这么规定
+Many of us are shift working even though we don't have to,
+我们有时候也会在半夜工作
+we're doing work in the middle of the night.
+嗯 你知道的 在不固定的时间在电脑上工作
+Um, you know working on computers at odd hours,
+白天睡觉
+sleeping during the day.
+还有很多住在收容所的人们经常会这样
+A lot of people who are under, um, shelter and place type stuff.
+孩子们的课程表总是变化不定
+Um, are doing more of this, kids with the drifting school schedules.
+下面是讲轮班工作怎么办  如果轮班工作有一条经验法则的话
+Here's a deal with shift work, if there's one rule of thumb for shift work.
+如果可以做到 就是
+It's that, if at all possible.
+你要至少14天保持相同的时间表 包括周末
+You want to stay on the same schedule for at least fourteen days, including weekends.
+这应该提醒了 那些不轮班工作的人
+Now that should immediately cue, the non shift workers.
+重要的是周末不要偏离日常轨道太远 即使你不是轮班工作者
+To the importance of not getting too far off track on the weekend, even if you're not a shift worker,
+周末睡懒觉也不是一个好主意
+so sleeping in on Sunday is not a good idea.
+轮班工作最重要的一点是要与你的时间表保持一致
+The most important thing about shift work is to stay consistent with your schedule.
+我之前和萨穆尔·哈塔尔在一个IG上进行了对话
+Now I had a conversation on an inscram Live with Samur Hatar.
+他是
+Who's a.
+国家心理健康研究所的神经科学家
+Neuroscientists at the National Institutes of Mental Health,
+他实际上是那里生物钟学部门的负责人 他也非常强调这一点
+he's actually the head of the chronobiology unit there, and he was really emphasizing this point.
+因为轮班工作 人们在做所谓的轮班
+Because shift work, where people are doing the so called swing shift,
+他们在一个时间点的班次上工作四天 在另一个班次上工作四天
+where they're working four days on one shift, in four days on another.
+这对一些健康参数极为有害
+Is extremely detrimental to a number of health parameters.
+它会让肾上腺素释放的皮质醇紊乱 还有
+It gets the cortisol release from the adrinals really out of whack, and there are these.
+皮质醇会在一天中不同的时间上出现峰值 这会扰乱学习
+cortisol spikes at various hours of the day, it messes up learning,
+会扰乱多巴胺系统 这是一个非常非常严重的问题
+it really disrupts the dopamine system, and well being, it is a serious, serious problem.
+所以如果你能和你的雇主协商留下的话
+Problem so if you can negotiate with your employer to stay on
+同一班次  每次两周
+the same shift for 2 weeks at a time.
+这将是非常有益的
+That's going to be immensely beneficial,
+会帮助你抵消倒班工作带来的很多负面影响
+will help you offset a lot of the negative effects of shift work.
+我觉得不可能所有人都能这么去谈
+Now, I don't presume that all of you are gonna be able to do that.
+有的时候就是无法控制这种事情
+Some of you just don't have that level of control.
+当然
+Of course,
+我想承认轮班工作者们对整个社会来说是必不可少的
+I want to acknowledge that shift workers are essential.
+对吧?
+Right?
+他们第一时间作出反应  比如消防员
+First respond as firefighters,
+警察
+police officers,
+护理人员等等
+paramedic et cetera,
+还有飞行员,
+but also pilots,
+晚上看护别人的工作者
+people nerd night,
+护士,
+nurses,
+在医院病房工作的人
+people working on the hospital wards,
+值夜班捡垃圾的人
+people picking up trash this night shifts
+对我们整个社会正常运作来说
+are critical to our functioning as a
+至关重要
+society,
+我相信大家都非常感谢你们
+as i'm sure all of you can appreciate.
+如果你要轮班
+If you're going to work a shift where,
+比如说你从下午4点开始到凌晨2点结束
+let's say you start at 4:00 pm and you end at 2:00 p 2:00 am excuse me.
+然后就会出现一些重要的问题
+Then there's some important questions that arise,
+例如
+for instance.
+当班时你会看到光吗?
+Should you see light during your shift?
+好吧,
+Well,
+这是个人选择的问题
+this is a matter of personal choice,
+但理想情况下,
+but ideally,
+你想看到尽可能多且安全的光
+you want to view as much light as possible,
+当你需要保持警惕时
+and as is safely possible when you need to be alert.
+也就是说  从下午4点到凌晨2点看光  然后你会想睡觉
+So that would mean from 4:00 pm to 2:00 am then you would want to sleep.
+所以用光线来衡量警觉性
+So using light as a correlate of alertness,
+将黑暗作为困倦的必然结果
+and using darkness as a corollary of sleepiness,
+这意味着在你想要清醒的时候
+what this means is see as much light as you safely can
+你要尽可能安全地看到更多的光
+during the phase of your day when you want to be awake.
+这和我刚才
+It's the same thing I said way back the
+这一集的开始时候说的一样
+beginning of the of this pod cast episode.
+尽可能少看光线
+See as little light as safely possible,
+让你在想睡觉的时候继续工作
+and allows you to function during the time when you want to be asleep.
+如果你要上完凌晨两点的班
+So if you're finishing out that two am shift,
+这时你就会想要避免强光照射
+that's when you would want to avoid bright light exposure,
+你要马上回家
+you'd want to go home.
+如果可能的话  需要避免看电视
+You'd really want to avoid watching tv if possible
+这样才能入睡
+if you need that in order to fall asleep,
+这是一种类似于
+that would be a case where something like
+调暗屏幕  加上防蓝光
+dimming the screen plus blue blockers,
+如果这是你的习惯 那就继续
+if that's in your practice,
+或者你这样做会对睡眠很有帮助  然后就去睡觉
+or you wanna do that would be helpful and then going to sleep.
+然后你可能会在下午晚些时候或下午早些时候醒来
+And then you'll probably wake up late in the afternoon or early afternoon.
+有些人可能会说  等等
+Some of you might say, wait,
+教授
+Huberman
+我以为你不喜欢防蓝光的东西
+I thought you don't like blue blockers.
+我从没说过我不喜欢防蓝光眼镜
+I never said I don't like blue blockers.
+我不喜欢有人在
+I don't like people wearing blue blockers at
+一天中他们想要保持警觉的时间里戴防蓝光眼镜
+the time of day when they want to be alert.
+我不喜欢
+I don't like.
+有人声称防蓝光眼镜可以阻止昼夜节律变化
+People asserting that blue blockers can prevent circadian shifts,
+因为人们都戴着它们
+because people are wearing them.
+光的亮度才是最重要的
+The brightness of light is what's important.
+这和蓝色无关
+It's not about the blue.
+如果你想戴就戴吧
+If you want to wear them,
+或者在微弱的灯光下  或者把灯关掉
+or just in the lights or turn the lights off,
+假设你睡觉是在
+let's say you go to sleep at.
+你在下午4点到凌晨2点的班之后回家
+You get home after this 4:00 pm to 2:00 am shift.
+你可能会吃点东西
+You maybe eat something,
+你去睡觉
+you go to sleep.
+当你醒来的时候
+You wake up and it's,
+已经是中午或下午1点
+noon or 1:00 pm.
+这时候眼睛要看光吗?
+Should you get light in your eyes?
+你的第一个假设基于我之前所说的
+Your first assumption based on what i've said previously,
+就是你处于昼夜节律死区  你不能吸收光了
+might be that you're in the circadian dead zone that you can't,
+因为现在是中午或者下午一点  但你并没有处于昼夜节律死亡区
+because it's noon or 1:00 pm but you're not in the circadian dead zone,
+因为你是那个凌晨2点睡觉的人
+because you're somebody who goes to sleep early in the morning at 2:00 am.
+昼夜节律死区并不是一天中的自然时间
+It's not like the circadian dead zone is a strict time of day.
+它是体内的生物钟
+It's an internal biological clock.
+你想知道什么?
+What do you need to know?
+你猜对了
+You guessed it.
+你需要知道你的最低体温
+You need to know your temperature minimum.
+你需要知道
+You need to know whether or,
+你的体温有没有在上升或下降
+Your temperature is increasing or decreasing.
+现在  我们可以让整个事情变得更简单
+Now, we can make this whole thing even simpler and just say,
+如果你的体温在下降
+if your temperature is decreasing,
+避免光
+avoid light.
+如果你的体温在升高
+If your temperature is increasing,
+得到光
+get light.
+就是这么简单
+It's that simple.
+如果你的体温在下降
+If your temperature is decreasing,
+避免光
+avoid light.
+如果你的体温在升高
+If your temperature is increasing,
+得到光
+get light.
+从下午4点工作到凌晨2点的轮班工作者有
+The shift worker who works from 4:00 pm until 2:00 am has a
+非常不同的温度节律
+temperature rhythm that's very different
+跟我早上5、6点左右醒来相比
+than mine where I wake up around 6:00 am
+非常的不同
+5:00 am
+我晚上11点左右睡觉
+I go to sleep around 11:00 pm.
+我们的生理周期都是24小时
+We both have a 24 hour each circadian cycle,
+只是我的与日出日落更同步一些
+except mine is more aligned to the rise and setting of the sun.
+而有的人与日出日落不同步
+And there is not.
+对吧
+Right.
+你必须知道你体内的温度节奏
+You have to know your internal temperature rhythm and no,
+当然也不需要
+you don't have to walk around with a
+去哪里都带着体温计
+thermometer wherever taking your
+测体温
+temperature.
+虽然我觉得挺好的
+Although be great,
+如果你在外面的时候有一些设备
+if some of the devices that are out there,
+比如人们会数他们的步数
+people are counting their steps.
+我觉得很好
+Ii think it'd be great.
+如果人们有昼夜节律体温测量系统
+If people had a circadian body temperature measurement,
+我没有参与任何设备的开发
+i'm not involved in any of this device development,
+但我觉得最后是有那么一个手环 你一点
+but i think it's a real call the arms to have a wristband that would
+就能测量温度  然后告诉你你的
+measure temperature and would tell you your
+旅行时的最低温度之类的
+temperature minimum when you travel or what not.
+我不知道  也许有些设备已经做到了
+I don't know,  maybe some of these devices already do that.
+但如果还没有  应该有人开发一个
+But if they don't they should,
+在我看来  我们可以采用这种简单的测量方法
+it's absolutely absurd to me why we wouldn't have this simple measurement,
+很容易就能得到这种信息
+very easy to get that kind of information.
+你甚至不需要精确的温度读数
+You don't even need the exact temperature read,
+你只需要知道高点和低点就可以
+all you need to know is the high and low..
+假设你是夜间活动的轮班工作者
+Let's say you're a shift worker who really is nocturnal,
+对你来说情况就是相反的
+you're flipped.
+你要坚持晚上的作息时间
+You wanna stay on that nocturnal schedule.
+这对家庭和各种社会生活都是非常困难的
+Now that can be very hard on families and social life of all kinds.
+但是对于从晚上8点  从日落工作到日出的人
+But the person who is working say from8:00 pm like sundown to sunrise.
+这就提出了一个问题
+This raises a question,
+他们应该看日出吗?
+should they be looking at the sunrise?
+他们应该去看日落吗?
+And should they be watching the sunset?
+在日落中醒来
+Waking up with the sunset,
+要和日出一起睡觉吗?
+going to sleep with the sunrise?
+你觉得  这会不会把他们生物钟搞乱?
+You think,  is that like gonna throw them off?
+应该是不会的
+Probably not.
+这个人会反转日出  然后
+It's just actually gonna invert what sunrise and
+日落就是他们早上醒来的时候
+sunset are when they're waking up in the morning.
+如果他们看这个
+If they look at this,
+他们的眼睛会受到阳光的照射
+they get some sunlight in their eyes.
+它们看着太阳  从那里得到一些明亮的光
+They look at the sun and get some bright light from
+从公寓或家里的设备或顶灯
+devices or overhead lights in their apartment or home.
+那么在晚上  他们就会被唤醒
+That's gonna tend to wake them up if it's in the evening,
+对吧?
+right?
+我不知道我看得是否说得清楚
+So it's I don't know if I see that clearly,
+但如果到了晚上
+but if in the evening,
+太阳下山了  他们看着落日
+the sun is setting and they're looking at that setting sun,
+那就是那个人的“早晨”
+that is the morning son for that person.
+这会唤醒他们  去上夜班
+It will wake them up for their night shift.
+体温上升
+Temperature rising,
+然后到了早晨
+then toward morning,
+会发生什么?
+what's happening?
+他们的轮班就要结束了
+They're closing out their work shift.
+要回家了
+You're going home.
+太阳升起来了
+The sun is rising.
+那要看初升的太阳吗?
+Do you look at the rising sun?
+根据你现在知道的
+Based on what you now know,
+你的眼睛对生物钟的衰退很敏感吗?
+your eyes are very sensitive to receding of circadian clocks?
+那时它将做什么?
+What will it do at that time?
+如果现在是在上课
+If this were a classroom?
+我会点名让一个同学回答
+I would either cold call on somebody or
+或者让那些迫不及待想要说出答案的同学
+i'd wait in the audience inevitably
+回答
+exists.
+对他们来说  他们已经起床很久了
+Temperature is for that person they've been up for a while.
+体温正在下降
+Temperature is falling,
+不在上升  在你身上可能是升起
+not rising from you will be rising.
+因为他不是
+But because i'm.
+白天活动者
+Not diurnal.
+而我白天醒着  因为那个人的体温下降了
+I i'm awake during the day for that person temperatures falling.
+因此  当体温下降时  他们可以观察光线
+And so they view light while temperature is falling.
+那它会产生什么影响？
+What's it gonna do?
+它会延迟他们的生物钟
+It's gonna phase delay them.
+这会让他们第二天晚上更难入睡
+It's gonna make it harder for them to get to sleep the following night.
+你会说人们应该看日落来帮助他们醒来
+You would say that person should watch the setting sun to help them wake up,
+因为他们要上夜班
+because they're gonna work the night shift.
+而他们在他们回去睡觉的时候
+You probably have sunglasses on or avoid
+需要戴着太阳镜
+viewing bright light before they go to
+或者避免亮光
+sleep.
+这是一回事
+It's the same thing.
+他们只是和典型的白天活动者相反过来
+They're just on inverted as a typical person who's diurnal.
+他们的时间表颠倒了
+They're on inverted schedule.
+我真的很努力想把这一切说清楚
+I'm really trying hard here to make this all really clear.
+我发现世界上的两种求知模式
+They're kind of two patterns of requests in the world.
+我注意到  当我冒险进入
+I'm noticing as i've kind of ventured into the
+社交媒体和电视直播的时候  我看到两种景象
+this landscape of social media and pod cast,
+有些人想知道每一个细节  想量化每件事
+there are people who want to know every detail want to quantify everything,
+因为他们想要完全正确
+because they want to get exactly right.
+这些是研究生和
+These are like the graduate students and
+不想犯错的学生
+students that don't wanna make a mistake.
+引用我的研究生导师的话
+And to quote my graduate adviser,
+只要错误不是危险的
+provided the mistakes are not dangerous,
+当然不是致命的
+certainly not lethal.
+你最好犯点小错误  这样你就能适应了
+You you kind of want to make a few little mistakes so that you can adjust.
+对吧?
+Right?
+你不想让自己陷入危险
+You don't want to endanger yourself,
+但实际上,
+but it's actually,
+你不可能把事情做得完美
+you're not gonna get things perfect.
+这就叫做学习  当你意识到
+That's called learning is when you realize some this time,
+然后我熬夜了  这真的把我搞砸了
+and then I stayed up and it really messed me up.
+我再也不会那样做了
+I'll never do that again.
+另一类人似乎想要
+The other category of people seem to want.
+一种适用于所有人的方法  就像给我这个药片或者给我这个方案
+The one size fits all kind of like give me this pill or give me this protocol.
+这些东西通常都是有效的
+And those things generally work,
+但是他们不给人们灵活性
+but they don't afford people flexibility.
+如果有这样的事情
+If there's anything like that,
+那就是我一直以来强调的最低温度
+it's this temperature minimum thing that i've been
+一遍又一遍  一遍又一遍
+just hammering on again and again and again today,
+因为这是
+because it's something that.
+你拥有的知识  你真的可以把它作为一个关键的参照点来改变你的生物钟
+You own and that you can really use as a key landmark for shifting your clock.
+我想还有第三种
+I suppose there's a third category,
+还有一部分人认为
+which is people who are except that
+生物系统实际上
+biological systems are actually much more
+很宽容
+forgiving
+而不是它们经常被描述的那样
+than the way they're sometimes described.
+我要利用这次机会
+I'm gonna use this as an opportunity,
+稍微评论一下
+editorialize a little bit.
+很多人都在说睡眠债
+There's so much made of sleep debt.
+睡眠方面  可没有什么国税局
+There isn't an irs equivalent for sleep.
+他们不会过来找你
+They're not gonna come around and try and
+然后搜查所有你没睡的觉
+collect all the sleep that you didn't get.
+没有人真正知道
+No one really knows.
+你和我以及另一个人
+The consequences are going to be for you and
+没有得到的那些睡眠  最后会有什么结果
+for me and for the next person for the sleep you didn't get,
+你无法真正恢复睡眠
+you can't really recover the sleep.
+你错过了就是错过了
+You missed out on.
+但你也不想因为死板的遵守时间而变得神经质
+But you also don't wanna get neurotic attached to a schedule,
+因为有一种叫做睡眠焦虑的东西  然后
+because there's a thing called sleep anxiety and then
+人们很难入睡和保持睡眠状态
+people have trouble falling asleep and staying asleep.
+我想花点时间在这上面  然后回到之前的话题
+I want to spend a moment on that and go back
+我之前已经说过很多次了
+to a theme that i've said many times before.
+因为这些工具有用
+Because these tools work,
+我称之为NSDR非睡眠深度休息
+what I called nsdr non sleep depressed.
+有催眠
+This would be hypnosis.
+我给过你们链接
+I give you the link,
+但我再说一遍
+but i'll say it again,
+reverihealth.com  这是用于临床测试研究的
+reverihealth.com  for clinically tested research
+免费测试
+tested free.
+用于治疗焦虑
+Hypnosis for anxiety,
+还有睡眠的催眠音频
+but also for sleep.
+这些都是非常好的
+Those are very beneficial people,
+NADR
+nsdr protocols,
+非睡眠深度休息  还有比如瑜伽休息术
+non sleep depress protocols for things like uganda.
+我在第二集的标题中提供了一些链接
+I provide some links to those in the caption for episode two.
+这些东西昨晚真的很管用
+These things really work last night.
+我醒来
+I woke up through,
+我大约十点半上床睡觉
+I went to bed about 10:30.
+我凌晨三点就醒了
+I woke up at 3:00 in the morning.
+我知道我没有休息好
+I knew I wasn't feeling rested.
+我做了一下NSDR
+I did ansdr protocol.
+然后我又睡着了
+I fell back asleep.
+然后六点半起床
+I woke up at 6:30.
+好吧  你得教教你的大脑和你的神经系统
+Okay, you need to teach your brain and your nervous
+如何关掉你的思绪入睡
+system how to turn off your thoughts and go to sleep.
+理想情况下是这样  除非真的有需要  不要用药物
+Ideally, you do that without medication unless there's a real need.
+你可以通过这些行为方法来实现
+You do that through these behavioral protocols.
+它们起作用  因为它们涉及到用身体来转移思想
+They work, because they are involved using the body to shift the mind,
+而不是试图在半夜关掉你的思绪
+not trying to just turn off your thoughts in the middle of the night.
+现在  生活中也有压力很大的时期
+Now, there are periods of life where things are stressful
+人们会担心
+and people are concerned and you will have some struggle,
+在保持睡眠状态上挣扎
+getting and staying asleep.
+这和焦虑有更多的关系
+And there's that really has to do more with anxiety.
+NSDR方法也可以帮助
+Nsdr protocols also can help with,
+就像我常说的  在半夜醒来的时候做NSDR
+as I always say, do them in the middle of the night.
+再继续睡觉
+If you wake up and you want to go back to sleep during
+白天练习NSDR 让你的神经系统清醒
+the middle of the day to teach your nervous system out
+冷静下来   如果你觉得睡眠不足
+of calm down and do them first thing in the morning.
+早上起来就去练习
+If you didn't feel you get enough sleep.
+换句话说  只要你有机会就去做
+In other words, do them whenever you have an opportunity to do them,
+因为它们真的可以帮助你学习如何激活副交感神经
+because they really can help you learn how to turn on the parasympathetic slash
+镇定你的自主神经系统
+calming arm of your autonomic nervous system.
+据我所知  没有其他方法来教你的系统
+There's no other way that i'm aware of to teach your system
+放慢脚步  关掉你的思绪  然后继续睡觉
+to slow down and turn off your thoughts and go back to sleep.
+但这些都是很强大的方法
+But these are powerful protocols and.
+现在有很多研究
+There's a lot of research now.
+都能支持这个事实
+To support the fact that,
+NSDR真的有帮助作用
+they can really help.
+冥想是另一个例子
+Meditation would be another example.
+某些类型的冥想包括专注和警觉
+Meditation of certain kinds of meditation involve focus an alertness.
+这些和另一种冥想稍微有些不同
+Those are slightly different than meditations that involve
+另一种需要内部状态缺乏专注和注意力
+lack of focus and attention to say internal states.
+稍作停顿之后我想谈谈孩子和老人
+When a pause there and then I wanna talk about kids and the elderly.
+换句话说  我们如何控制睡眠
+In other words, how do we control sleep
+和昼夜节律
+and circadian rhythms and wake in babies,
+在婴儿 青春期 青少年
+adolescence, teens,
+和年纪大的人身上
+and age strokes,
+好吧  在我们讨论孩子的睡眠问题之前
+all right before we talk about sleep in kids.
+我想讲个小故事
+I wanna tell a little story,
+这不是玩笑
+it's not a joke.
+你们很多人应该会因为
+Many of you will be relieved that i'm not
+我不讲笑话而松一口气吧
+gonna try and tell another joke this episode.
+也就是光 与
+Which is the relationship between light,
+皮肤  外表肤色
+skin, and pillage, color,
+多巴胺
+dopamine,
+和繁殖的关系
+and reproduction,
+交配
+mating,
+许多季节性繁殖的动物
+many seasonally breeding animals,
+西伯利亚仓鼠  我之前提到过  兔子  狐狸
+siberian hamsters, which I mentioned earlier, rabbits.
+还有其他动物会改变它们皮毛的颜色
+Other animals change their color of their coat.
+在冬天  它们的颜色往往较浅
+In the winter, they tend to be a lighter color,
+有时是纯白色
+sometimes pure white,
+有时带有光泽感的黑色或棕色
+sometimes with flex of black or brown.
+在夏天
+And in the summer.
+外表的颜色变为棕色或红色
+Pillage changes to a color of brown or red,
+其他一些完全不同  这种颜色的变化是由光控制的
+some other vastly different color that shift is controlled by light.
+还有褪黑激素
+And by melatonin.
+这在人类身上有一种有趣的关联
+This has an interesting correlate in humans.
+人类显然有不同的肤色
+Humans obviously have different skin tones just,
+从基因上讲  由于一层皮肤的黑色素含量
+genetically, because of the amount of melanin in one skin,
+这取决于遗传背景
+depending on genetic background.
+当然  阳光会增加
+But of course, sunlight will increase the
+皮肤中黑色素的含量  对吧
+amount of melanin in the skin, regardless.
+晒黑  晒伤  等等
+This is suntan, sunburn, et cetera,
+美黑  等等
+bronzing, whatever.
+整个系统都是相连的
+The whole system is wired,
+这样就改变皮肤颜色  眼睛里的细胞也会改变
+so that shifts in skin color and shifts in these cells within the eye.
+和褪黑激素实际上是紧密相连的
+And melatonin are actually very closely linked.
+故事是这样的
+So here's the story.
+许多年前
+Many years ago,
+大概是十年前  十五年前
+meaning about 10 years ago, 15 years ago.
+我想想
+Let's see it was.
+20年前
+20 years ago.
+对不起
+Forgive me.
+一个叫伊基·普罗文西奥的人
+A guy named iggy provencio,
+他在军警部门经营自己的实验室
+who was running his own lab at uniformed armed services.
+这是一个标准的生物实验室  发现了
+This is a standard biological laboratory discovered that there was
+眼睛里有一种视蛋白
+and opsin in the eye,
+是眼睛种的细胞
+in the cells of the eye that connect to
+连接着大脑的其他部分  它叫做  黑视蛋白
+the rest of the brain called melanopsin.
+黑视蛋白  你们很多人应该知道  就是一种视蛋白
+Melon option as you many of now is the option.
+它就像一种颜料
+It's like a pigment.
+它可以吸收光线
+It absorbs light.
+它可以将光转换成电信号
+It is the option that converts light into electrical signals,
+然后设置生物钟
+then set the circadian clock.
+他发现了黑视蛋白
+Iggy discovered melancholy,
+因为它的形态和青蛙皮肤中的一种激素相似
+because it was similar in form to what was in frog?
+黑素细胞刺激素 实际上是青蛙皮肤中
+melanophorins was actually in the skin of frogs
+这让那些青蛙从苍白的颜色
+that allowed those frogs to go from pale white.
+在天黑的时候
+When it was dark,
+在24小时周期的大部分时间里  青蛙会被这个染成绿色或棕色
+for most of the of the 24 hour cycle to pigmented green or brown for a frog.
+在我们的眼睛细胞
+There's this relationship between the cells
+和皮肤的色素细胞  之间有这种关系
+in our eye and the pigment cells of our skin.
+我们还知道  在日长较长的日子里  有更多的繁殖
+We also know that in long days there's more breeding.
+这是怎么工作的?
+How's that work?
+这实际上是由于多巴胺触发睾丸素的增加
+That's actually from dopamine triggering increases in testosterone,
+主要在男性  以及雌激素
+mainly and males and estrogen,
+主要在女性
+mainly and females other.
+当然了男女都有睾丸激素和雌激素
+There's testosterone, estrogen in both sexes.
+我们有这种途径  一方面 光线会增加黑色素
+We have this kind of pathway where it's light increases in melanin,
+多巴胺和繁殖
+dopamine and reproduction, on the one hand,
+而另一方面 缺少光线
+and lack of light.
+褪黑素会减少皮肤的深色
+Melatonin decreases in the darkness of skin,
+皮肤上少了黑色素
+less melancholy in the skin,
+或者对于有皮毛的动物来说
+or in the case of an animal with fur,
+它们变成白色  减少繁育
+white for and no reproduction, on the other hand.
+而人类  实际上并没有
+And humans, don't actually,
+根据日长的长短  很大地改变它们的繁殖模式
+shift their breeding patterns tremendously from long days and short days.
+尽管有一些数据显示有一些变化
+Although there are some data that there's some shifts,
+我们也不会从根本上改变我们的肤色
+we also don't radically change our skin color,
+这取决于我们暴露在阳光下的时间
+depending on how much sun light exposure we have.
+但简单地说  当白天很长时
+But the simple way to put this is when days are long,
+有更多的多巴胺
+there's a lot more dopamine.
+我们感觉很好  还有很多
+We feel really good and there's a lot
+更多的繁殖和繁殖行为
+more breeding and breeding like behavior.
+当白天变短
+When days are short,
+多巴胺减少  繁殖行为减少
+there's a lot less dopamine and a lot less breeding behavior.
+因为这些途径是高度保守的
+Because these pathways are very highly conserved.
+有趣的是我们已经进入了现代社会
+Now, what's interesting is that as we've moved into a modern society
+在我们清醒的日子里
+where much of our waking days,
+我们大多数时候是在看屏幕  这也没关系
+we are looking at screens, which is fine,
+因为我们通过这种方式得到了很多光线 虽然 没有阳光那么多
+because we're getting a lot of light that way,  not as much as sunlight,
+而且在晚上
+but also at night,
+我们从屏幕上得到了很多光线
+we're getting a lot of light from screens.
+发生的什么呢  所有这些回路
+What's happened is all these pathways,
+皮肤中的黑色素  皮肤细胞的新陈代谢  多巴胺
+melanin in the skin turnover of skin cells, dopamine.
+所有这些东西都被完全打乱了
+All of this stuff has become completely disrupted.
+这并不是说我们应该回到
+Now, that's not to say that we should go back to
+那是一个我们不使用人造光源的时代
+a time in which we didn't use artificial lights.
+但我认为重要的是要意识到
+But I think the important thing to realize is
+光线充足的感觉很好
+that feeling good with getting a lot of light,
+多巴胺和皮肤黑色素的关系
+the relationship to dopamine and melanin in the skin
+阳光照射到皮肤上的感觉也很好
+and the feel good feelings of getting light also on our skin
+只要你不会被晒伤或者
+provided you're not getting burned or you're not getting
+过度暴露于紫外线辐射
+excessive uv exposure.
+这些不仅仅是巧合
+Those are not just coincidences.
+这些都是固定的
+Those are hard wired,
+存在于每个人体内的生物机制
+biological mechanisms that exist in everybody,
+无论你的肤色是深是浅
+regardless of how light or dark your skin is to begin with.
+还有一点很重要
+There's another point which is important,
+多巴胺系统
+which is that the dopamine system,
+也就是这个让人感觉良好的分子
+which is this feel good molecule,
+和睾丸激素有密切关系
+is very closely related to the testosterone
+以及雌激素和生殖周期
+and estrogen and reproductive cycles.
+记住  褪黑激素的抑制会促黄体生成激素释放激素
+Remember, melatonin inhibits gonadotropin
+抑制释放荷尔蒙  掠夺荷尔蒙
+and releasing hormone, looting hormone.
+以及这些激素的产生
+And the production of these of these hormones
+褪黑激素是黑暗的荷尔蒙
+and melatonin is it is the hormone of darkness.
+我刚给你灌输了很多生物学知识
+I just threw a lot of biology at you.
+我没说你就像西伯利亚仓鼠那样
+And i'm not saying you're like a siberian hamster at least,
+至少在我的认知里不是这样的
+not in ways that i'm aware of.
+我不是说你的外表颜色会改变
+I'm not saying that your pillage color is going to change.
+事实上  人们头发变白的原因是
+Actually, the reason people go gray is because
+当你压力很大的时候  你知道吗?
+when you're really stressed, did you know this?
+当你感到压力很大的时候
+Then when you're really stressed,
+神经纤维增加了
+there's an increase in the nerve fibers that
+向头发毛囊释放肾上腺素
+release adrenalin to the hair follicle.
+这就激活了毛囊中的过氧化基团  导致
+And that activates peroxide groups in the hair follicle that cause
+让头发变成灰白或白色
+the hair to actually go grey or white.
+所以压力确实会让你的头发变白
+So actually stress does make your hair grey or white.
+也会让你衰老
+Aging, does it too?
+这是一个简短的题外话
+That was a brief aside,
+但对于那些对这段关系感兴趣的人
+but for those of you are interested in the relationship
+比如光线和肤色之类的
+between light and skin tone and all that kind of stuff,
+我想你可能会觉得有趣
+I thought you might find it interesting that the
+你眼睛里的细胞很像这些
+cells in your eye are a lot like these skin cells in
+青蛙和其他动物的皮肤细胞  会改变整个的颜色  有时
+frogs or in animals that shift their entire color and sometimes
+还会变形
+metamorphosis.
+有些物种会改变形状和生殖器官
+There's some species that literally change shape and the reproductive organs.
+事实上  如果这还不够奇怪的话
+In fact, if that wasn't weird enough,
+当我在伯克利读研究生的时候
+when I was in graduate school at berkeley,
+还有一个研究生在研究一种雌雄同体的鼴鼠
+there was another graduate student studying a species of her maphrodic mole.
+是的
+Right?
+那种挖洞的小鼹鼠
+There's all things that dig
+雌雄同体鼹鼠可以把卵巢 转变为
+hermaphrodic mole that would change from having ovaries
+睾丸  然后再变回去
+to test these and back again,
+根据日照长度而变化
+depending on day life.
+超级酷  超级与众不同
+Super cool super different
+野生生物机制
+wild biological mechanism.
+如果你想知道这些动物是如何繁殖的
+If you're wondering how those animals reproduce,
+它们会调整雄性和雌性的数量
+they actually adjust the numbers of males and females,
+取决于雄性和雌性的密度  如果
+depending on the density of males and females so if,
+雄性太多了
+there are too many males,
+那么一些雄性把他们的睾丸变成卵巢
+the may, some of the males turn their test is into overease.
+如果雌性太多
+And if there too many females,
+那么她们把卵巢切换为睾丸
+they turn their overreasoned to test these.
+这是真的
+They actually are true.
+雌雄同体的动物  而不是假雌雄同体的动物
+Hermaphrotic animals, as opposed to pseudo hermaphrotic animals.
+让我们回到正题上来
+Let's get back on track.
+让我们来谈谈你们大多数人关心的动物
+Let's talk about the animal that most of you care about,
+也就是人类动物
+which is the human animal,
+新父母和婴儿
+new parents and babies.
+正如我之前提到的
+As I mentioned earlier,
+褪黑激素不是周期性的
+melatonin is not cyclic.
+在婴儿身上不是循环的
+It's not cycling in babies.
+更像是一个基本的周期
+It's more basic.
+它以一个恒定的水平被释放
+It's being released at a kind of a constant level.
+而且婴儿往往比成年人小
+And babies tend to be smaller than adults.
+他们是
+They are.
+这些褪黑激素的浓度非常高
+Those concentrations of melatonin are very high.
+随着婴儿的成长  单位体积的浓度会下降
+As baby grows, those concentrations per unit volume are gonna go down.
+婴儿出生时并没有典型的睡眠觉醒周期
+Babies are not born with a typical sleep wake cycle and now,
+所有的父母都说
+all the parents saying,
+这些我都知道啊
+tell me something I didn't know.
+还有就是  我想强调这一点
+Also have and I really want to emphasize this.
+他们的眼睛也有更灵敏的光学系统
+They also have much more sensitive optics of the eye.
+很多人问我
+A number of people have asked me,
+我应该让我的孩子暴露在阳光下吗?
+should I be exposing my baby to sunlight?
+你不需要躲避阳光
+You don't wanna avoid sunlight,
+但是他们的眼睛非常敏感
+but their eyes are very sensitive.
+他们眼睛的光学功能还不太发达
+The optics of their eyes aren't quite developed.
+以至于当你看到一个新生的婴儿  他们看起来就像
+So much so that when you look at a newborn baby and they look a
+有一双玻璃般透明的眼睛  有点
+little glassy on and they're kind of
+透过你甚至小孩子的眼睛
+looking through you or even a young child.
+很多人认为他们看待你的方式和你看待他们的方式一样
+A lot of people think that they're seeing you the way that you're seeing them,
+我也不想告诉你
+hate to break it to you.
+但是只要你稍微搜一下
+But if you um ever can just google.
+一个月大的小孩的视觉图像
+Visual image of a like a.
+他们的视力很差  看出来很模糊
+1 month old, the optics of their eyes are so poor that you're a cloudy image.
+他们没有看到你的你的精细的细节  随着光学功能变得更好
+They're not seeing your your fine detail as the optics get better.
+然后他们会越来越清楚地看到你
+Then they will see you with more and more clarity,
+但很多都是眼睛越来越清晰
+but a lot of that is clearing of the lens and some
+还有新生儿的其他特点
+of the other aqueous features of the newborn I
+他们看不太清楚
+they don't see very well.
+他们也没有很好的方式来适应明亮的光线
+They also don't have such great ways of adjusting to bright light.
+所以婴儿对明亮的光线有一种天生的厌恶
+And so babies have a natural aversion to bright light.
+所以你一定要避免使用阳光
+So you really want to avoid trying to use sunlight a really
+使用明亮的光  不能像大人一样对他们
+bright light in the same way that you would for an
+在婴儿或小孩身上
+adult on a young baby or child.
+然而  孩子长大后
+Children get older, however,
+褪黑激素确实开始变得循环的更规律
+melatonin does start to become slightly more cyclic slightly, more cycled.
+他们的体温节律也开始变得更有规律
+And their body temperature rhythms also start to fall into a more regular,
+不是24小时的节奏  更多的是
+not quite 24 hour rhythm, they're more of,
+这些都是昼夜节律
+these all trading rhythm.
+在某一集里
+So in a episode,
+我记得是第一期还是第二期
+I think it was one or two of the pod cast or
+也许我们都谈过这90分钟
+maybe both we talked about these 90 minutes.
+所谓的昼夜节律  每90分钟就有婴儿出生
+So called australian rhythms where every 90 minutes babies
+正在经历一个身体的循环
+are going through a cycle of body
+温度和其他一些荷尔蒙特征
+temperature and some other hormonal features.
+他们的系统发生了很大的变化
+I that so much is changing in their system.
+要做什么吗?
+What to do?
+如果孩子在睡觉
+If a child is in sleeping,
+你可以分黑暗阶段和光明阶段
+you can use phases of darkness and phases of light,
+但为了鼓励睡眠  它们必须被缩短
+but they're gonna have to be shortened in order to try and encourage sleep.
+当你想让孩子睡觉的时候
+When you want the child to sleep.
+这并不是说他们不会接受成人的教育
+It's not that they're just not gonna fall into an adult light
+最低体温和最高温度的范围
+regime of a temperature, minimum, and a, temperature, maximum.
+它们的最低体温波动得更快
+Their temperature minimums are fluctuating much more quickly.
+个体差异很大
+It varies tremendously.
+实际上  有一篇很有趣的文献
+It actually, so there's an interesting
+关于小孩子是否有兄弟姐妹
+literature of whether or not they have siblings,
+无论他们的双胞胎
+whether or not their twins,
+不管他们是不是在育婴室
+whether or not they're in a nursery environment,
+不管他们是不是一个人
+whether or not they're alone,
+当然了希望宝宝不是一个人
+but hopefully maybe not alone.
+但你知道我的意思  他们在睡觉
+But you know what I mean that they're sleeping
+一个人在一个房间  而父母在另一个房间
+alone in a room while you're in the other room.
+有几件事似乎有帮助
+There are a couple things that seem to help,
+将整个环境纳入24小时时间表
+which is getting the overall environment into a 24 hour schedule.
+所以如果房间稍微冷一点
+So having the room slightly colder,
+很明显  他们想让宝宝舒服舒适
+obviously want babies to be nice and cozy,
+当你想让他们睡着时  稍微冷一点
+slightly colder when you would like them to be asleep.
+他们醒着的时候  稍微暖和一点
+Slightly warmer for the times you would like them to be awake.
+反正宝宝身体都很热
+Babies tend to be run pretty hot anyway.
+很明显
+And obviously,
+你要非常小心避免所有极端的温度
+you want to be very careful about avoiding all extremes of temperature,
+冷或热
+cold or or hot.
+如果他们经历90分钟的周期
+If they're going through these 90 minute cycles,
+你也必须调整90分钟的周期
+you're going to have to adjust those 90 minute cycles as well.
+然后有人说这对我一点帮助都没有
+So then people say that's not gonna help me at all,
+因为我该如何面对我需要的事实
+because how do I deal with the fact that I need
+晚上每隔90分钟就要起床吗?
+to be up every 90 minutes at night there are?
+一些有用的工具
+A couple tools that can be helpful.
+第一个是尝试
+The first one is going to be to try and.
+理解平静和深度睡眠之间的关系
+Understand the relationship between calm and deep sleep.
+所以自主神经系统会让我们陷入恐慌
+So the autonomic nervous system had can put us in the states of panic,
+这就像跷跷板一样  从自动警觉性一下子倒向恐慌
+where that's kind of seesaw of autonomic alertness goes all the way to panic,
+也可以是警觉  也可以是警觉和冷静
+or it can be alertness or it can be alert and calm.
+对吧?
+Right?
+这里有一个范围
+So there's a range there.
+这是一个连续体  也可以是你处于深度睡眠状态
+It'sa continuum Can also be that the that you're in deep sleep.
+跷跷板的另一端在上面
+So the other end of the seesaw is way up,
+或者你处于轻度睡眠状态
+or you're in light sleep,
+或者你有点困
+or you're kind of sleepy,
+或者你只是觉得有点放松
+or you're just feeling kind of relaxed.
+也许最重要的是
+Perhaps the most important thing,
+如果你不得不按照宝宝的时间表来
+if you're having to map to a baby schedule in order to
+确保他们得到改变和护理
+make sure that they're getting changes and nursing,
+等等  在适当的时候
+et cetera at the appropriate times.
+如果你睡不着觉  或者你不能持续睡着
+To try and maintain as if you can't sleep or you can't sleep continuously,
+试图维持你的自主神经系统
+to try and maintain a your autonomic nervous system in a place where you're
+保持在没有进入理想的睡眠状态下
+not going into heightened states of alertness when you would ideally be
+不要进入高度警觉状态
+sleeping.
+我意识到这可以被翻译成
+Now, I realized that this could be translated to
+当你睡眠不足时  试着保持冷静
+try and stay calm while you're sleep deprived,
+这对人们来说是很难做到的
+which is very hard for people to do.
+但这就是非睡眠深度休息方法
+But this is where the non sleep deep breath
+起作用的地方  可能会非常
+protocol surface again and can potentially be very
+有利于人们恢复
+beneficial for people to be able to recover,
+不一定是睡眠
+not necessarily sleep,
+而是让他们保持一定的自主调节
+but for them to maintain a certain amount of autonomic regulation.
+这是什么样子的呢?
+So what would this look like?
+就比如说
+This would look like?
+宝宝睡着了
+The baby goes down,
+也许只会持续45分钟
+maybe it's only gonna go down for 45 minutes.
+如果你能捕捉睡眠
+If you can capture sleep,
+赶紧睡
+capture sleep,
+有一些数据显示了所谓的多物理睡眠
+there are some data showing what's called polyphysics sleep
+如果你能一次睡45分钟或者一次睡45分钟
+if you can sleep in 45 minute increments or batches.
+即使它在一天中分散  一会醒一会睡着
+Even if it spread throughout the day with periods of weight fullness
+在这两者之间  虽然听起来很痛苦
+in between as miserable as that sound there are, actually,
+一些成年人故意雇佣那些没有孩子的人
+some adults that have deliberately employed that who don't have children,
+来提高自己的工作效率
+for sake of work productivity.
+它确实会减少你所需的总睡眠时间
+It does tend to reduce the total overall amount of sleep that you need.
+对大多数人来说这是一个很难维持的时间表  但如果你有孩子
+It is a very hard schedule for most people to maintain, but if you have a baby,
+估计孩子的事也要安排在你的日程里
+the baby maybe throwing into that kind of schedule anyway.
+所以如果你能在宝宝睡着的时候
+So if you can get 45 minutes sleep,
+睡45分钟  很好
+while they sleep great,
+如果你醒来后  他们再次入睡
+if you get another 45 minutes after waking
+还有45分钟能睡  很好
+and then they go back down to sleep great.
+所以尽可能多的睡眠阶段
+So as many phases of sleep as you can get,
+但如果你睡不着
+but if you can't sleep,
+非睡眠深度休息方法的数据显示
+the data on non sleep deep rest type protocols
+至少从神经化学物质上可以看出
+does show that at least from a neurochemical
+我说一下这意味着什么
+level want to be clear what that means.
+比如重置基底神经节中的多巴胺水平
+Reset of things like dopamine levels in the basal ganglia,
+通过正电子发射断层扫描等手段来测量？？？？
+measured by things like positron emission tomography et cetera.
+这些东西可以很好地自我调整
+Those things tend to reset themselves pretty well.
+如果你能访问这些深度休息状态
+If you can access these deep rest state.
+这就意味着不能始终保持警觉
+So that means not being alert throughout
+在宝宝睡觉的整个过程中
+the entire time that the baby is sleeping,
+试着契合婴儿的睡眠周期
+trying to sort of mirror the baby sleep cycle,
+这对某些人来说很残酷
+which can be brutal for certain people.
+尤其是当你还要准备饭菜  以及做所有这些事情的时候
+And especially if you're trying to prepare meals and do all these things.
+所以我承认在为人父母方面有很多限制
+So I do recognize that there are a lot of constraints on parenting,
+不仅仅是在孩子到来的时候制定你的睡眠时间表
+not just mapping on your baby sleep schedule as children approach.
+1-4岁
+Ages 1234.
+也就是在这个时候  宝宝眼睛的视力得到了改善
+That's when certainly the optics of the eyes of improved,
+但你可不想让太亮的光线伤到眼睛
+but you don't wanna damage the eyes with very bright light.
+他们甚至在10 11岁之前都很敏感
+They are much more sensitive even until they're kind of 10,
+我们一会儿会谈到视觉和儿童
+We'll talk about vision and children in a moment.
+但是试着睡得越来越久
+But trying to get longer and longer batches of sleep through
+希望不是通过给孩子们使用褪黑激素
+hopefully not through the use of administrative melatonin to the kids,
+因为这是我之前说过的
+because that's what I talked about before
+为什么这可能是有害的
+why that could potentially be detrimental.
+如果要用  和你的医生谈谈
+Talk about that with your doctor.
+但更重要的是想要获得更长的睡眠时间
+But more so trying to get longer blocks of sleep,
+对应到各个昼夜周期
+that map onto these all trading cycles, so if,
+所以我们最好每3小时2个90分钟一个周期
+we better off to get a 3 hour like 290 minute cycles,
+然后连续睡4个小时
+then a 4 hour batch of sleep,
+因为如果在昼夜节律周期中间醒过来
+because waking up in the middle of those all
+对父母和孩子来说
+trading cycles can just be brutal for parent and.
+都有些残忍
+And kid.
+如果一个人连6-10小时都睡不到
+If one can't get a full 6 or ten,
+或者有些孩子在快速成长的时候应该睡12个小时
+or some kid should even be sleeping 12 hours when they're growing quickly,
+试着多睡一会儿
+trying to get batches of sleep,
+即使它们在24小时的周期内有间隔
+even if they're fractured throughout the 24 hour cycle
+更符合90分钟的周期
+that are matched more to these 90 minutes cycles,
+也就是说  一个90分钟的昼夜周期起来  或者两个连续的周期
+meaning maybe one australian cycle of 90 minutes or two back to back,
+或者三个90分钟起来一下
+or three to back.
+这都比在昼夜周期中间醒来要好
+That's going to be better than waking up in the middle of an australian cycle.
+它会对身体其他部分更好
+It's just gonna set any number of other things in
+比你们所想的那种方法
+a better direction than were you to try to say,
+比强迫他睡8-10个小时更好
+just in force or force a full 8 or 10 hours of sleep?
+至少文献上是这么说的
+That's at least what the literature shows.
+有些孩子整晚睡得很好
+Some kids sleep great through the night,
+在很小的时候就睡得很好
+starting at a very young age, others don't.
+我经常听到人们非常难地度过这个时期
+I typically hear from people who are struggling tremendously.
+他们快崩溃了
+They're losing their mind,
+可以理解  因为他们没有睡觉
+understandably because they're not sleeping,
+他们的孩子睡不着
+their kids not sleeping.
+或者他们的孩子只是睡了很短的一段时间
+And or their kid is sleeping for such brief period.
+换句话说  试着保持冷静  如果你
+So in other words, trying to access deep calm, if you
+睡不着  试着进入睡眠  如果你能睡
+can't sleep, try and access sleep, if you can sleep,
+即使是零散的睡眠
+even if it's fractured,
+你会问  那些看阳光  运动这些事情呢?
+you say,  what about all the sunlight viewing in the exercise stuff?
+当你的睡眠真的真的特别零碎的时候
+When sleep is really really. Dismantled.
+也就是说  它发生在白天或晚上的不同时间
+In meaning it's happening in various times of day or night.
+如果真是这样
+That's especially it.
+那么重要的是 最好
+At those times, it's gonna be especially important
+父母要早晚都能得到阳光
+for the parent to get morning and evening sunlight,
+因为你的生物钟开始混乱了
+because your circadian clock is going into a tailspin.
+你需要把它校准到一个位置
+It basically wants to anchor to something,
+所以你要给它一个校准点  那就是早晚的阳光
+so you wanna give it to anchors morning and evening light.
+这与我所描述的轮班工作截然不同
+This is rather different than what I described for shift work.
+这种情况下  日常安排非常混乱  你无法入睡
+This is when things are really chaotic and you're just not able to sleep.
+类似的情况可能会也会发生在
+Similar circumstances can rise.
+如果你在照顾一个病得很重的人的时候  你会整晚都不睡
+If you're taking care of a very sick, loved one, you're up all night,
+尽量保持冷静  只用NSDR方法
+try and stay calm using nsdr protocols.
+我知道说永远比做简单
+I know it's harder to do than to say.
+但这些方法不用花钱
+But those protocols are there, they're free.
+也有研究支持
+There's research to support them,
+那努力睡个好觉吧
+try and get sleep whenever you can,
+但也要让早晨和晚上的阳光照进你的眼睛
+but also try to get morning sunlight and evening sunlight in your eyes.
+如果你没法照到太阳
+If you and if you can't get that,
+用人造光吧
+use artificial light.
+那在那之后呢?
+What about later life?
+小孩长大
+Kids.
+变成青少年
+Now adolescence, teens,
+青少年确实有晚起晚睡的倾向
+it is true that teens have a tendency to wake up later and go to sleep later.
+在某种程度上  只是因为他们睡得更多
+In part, just because they're sleeping a lot more,
+他们的身体在大量产生GNRH(促黄体生成激素释放激素) 和 LH(促黄体激素)
+they're churning out can add a trope in releasing hormone and looting hormone.
+他们的整个身体都在变化
+Their whole bodies are changing.
+我不知道人们是否意识到这一点
+I don't know whether or not people realize this,
+但我们经历青春期的时候  我们有着最快的成长速度
+but the fastest rate of aging that any of us will ever undergo this puberty.
+这是最快的成长速度
+That is the fastest rate of aging.
+所以有大量的生物过程
+So there's a huge number of biological
+发生在青春期
+process that are happening during puberty.
+之后可能会用一整集来讲青春期
+Probably devote a whole episode to puberty,
+这是生命历程中非常迷人的一段时间
+this fascinating aspect to the life course.
+但这是一个加速成熟的时期
+But it is an accelerated period of aging.
+这个时候 生物钟机制有时很完整
+The circadian clock mechanism sometimes are are are very intact,
+有时它们会被拆解  进行一些改变
+and sometimes they're a little dismantled and going through some change.
+但要优先考虑青少年的睡眠长度
+But prioritize the duration of sleep for adolescents and teens.
+如果这意味着  如果他们睡到下午两点 然后醒来
+Now, if that means they're sleeping until 2:00 pm and then waking
+虽然他们整夜不睡会成为问题
+up and then they're up all night part can become a problem,
+特别是有时候在房间里玩电子设备
+especially with all the devices testing
+玩电子游戏什么的
+in in the rooms are playing video games.
+早上和晚上的阳光是最理想的
+Morning and evening, sunlight would be ideal,
+但有些孩子会在清晨的阳光下睡过去 错过那个阳光
+but some kids are just gonna sleep through the morning sunlight.
+然而  如果你能测量他们的体温
+However, if you were to measure their temperature,
+你会发现他们的最低体温
+what you would find is that there temperature
+会在上午晚些时候来
+minimum would come later in the morning.
+不一定是早上8点  可能甚至是
+It's not going to be8:00 am it's gonna be maybe even
+早上10点  如果他们睡到11点或12点
+10:00 am if they're sleeping until 11:00 or 12.
+如果他们睡到10点  那最低体温也可能是早上8点
+Or it might be 8:00 am if they're sleeping until ten.
+记住  最低体温是在你起床时间平均前2小时
+Remember, temperature minimum is 2 hours before your average waking time.
+通常情况
+Typically,
+让青少年的睡眠总时间最大化
+in teens and maximize the total amount of sleep,
+尽量在早上或者晚上
+try and get regular sunlight either in the morning or in,
+经常晒晒太阳
+the evening or both.
+但如果他们在清晨日出时还在睡觉
+But if they're sleeping through the morning sunrise,
+这可能不是什么大问题
+that's probably not as much of an issue,
+如果唤醒他们  剥夺他们的睡眠
+waking them up and depriving them.
+后果可能更糟
+Asleep is probably worse,
+因为他们还处于平衡最低体温的时候
+because they're teaming their temperature minimum,
+实际上还会继续下降
+is actually falling later.
+它们是昼夜节律死区  等等
+They're circadian dead zone as later, et cetera.
+我认为对于青少年来说
+I think with adolescents and teens,
+在他们调整日程的空间方面
+it makes sense to kind of give them a little
+给他们一点约束
+bit more rope in terms of allowing them
+是有道理的
+some leeway to adjust their own schedule.
+一些学校甚至推迟了上课时间
+Some schools are even starting classes later on
+因为有很好的生物学基础
+the basis of some very good biology to support
+支持这种在延长的睡眠阶段中调整昼夜节律的现象
+this late shifted rhythm in this extended sleep phase.
+根据杰米·西泽博士提供的数据
+There are data from doctor jamie sizer,
+精神病学  行为科学
+permanent psychiatry, behavioral sciences,
+斯坦福大学的其他研究表明
+and others at stanford showing that turning on the
+在一组人醒来前  把他们房间里的灯点亮
+lights in the room of a team before they wake up,
+可以帮助他们获得更多的睡眠
+helps them get more sleep.
+在接下来的晚上也会让他们提前一点入睡
+The subsequent night also tricks them into going to sleep a little bit earlier,
+和能让他们多深度睡眠45分钟
+but it gives them about 45 minutes more of deep sleep.
+数据显示
+That's been shown statistically,
+总的睡眠时间也会增加
+total sleep time increases as well.
+如果他们躲在被子下面那就没用了
+If they're hiding under the covers that's not gonna work,
+但他们不必睁着眼睛
+but their eyes don't have to be open.
+我知道现在有一些家长  在孩子醒来之前
+I know a few parents now that are coming in with a
+会用手电筒照一照
+flashlight and flashing their kids on over their eyelids.
+他们的眼皮
+Before they wake up.
+希望这有效果
+In hopes again this to work,
+有人告诉我这有用
+someone told me this is working.
+没有什么研究表明过这有效
+That's not part of a standard study.
+但它似乎确实有效  现在你应该知道为什么了
+But it does seem to work because now you should know why.
+因为如果光线穿过眼睑
+Because if lights getting through the eyelids,
+比如现在是早上八点  孩子还没醒
+it's say 8:00 am and the kid is still
+他们在10点醒来
+sleep and they're gonna wake up at 10:00,
+在他们达到或接近最低体温时给他们光照
+you're giving them light just after or around their temperature minimum,
+这会让他们想早点睡觉
+which is going to make them wanna go to sleep earlier.
+对于青少年来说  出于某种原因
+In the case of teens, for some reason,
+具体原因我们还不知道
+we don't quite understand sleep.
+会多睡大约45分钟
+Longer about 45 minutes,
+深度睡眠的时间更长
+longer spend more time in deep sleep.
+成年人也可以这样做
+Adults can do this too,
+如果你能说服别人  或者把你的灯设置一下
+if you can persuade someone or put your lights
+在你醒来前  打开灯
+on timer for lights to go on before you wake up.
+这能帮你早点醒来
+That's really gonna help you wake up earlier.
+所以  如果你发现自己在反复地
+So, if you're starting to hear some themes
+听到这几个方法
+are really resounding over and over again,
+你应该能确保这些没问题了
+that should be reassuring to you right there.
+这些是核心机制
+These are core mechanisms.
+幸运的是
+There, fortunately,
+这里也没有上千种不同的机制
+there aren't 1,000 different mechanisms.
+那么  对于老年人来说
+Now, in the elderly,
+他们倾向于早睡早起
+there's a real tendency to wanna go to sleep very early and wake up very early.
+老人们应该和他们的医生谈谈
+People should talk to their physician.
+有证据表明褪黑激素水平和
+There is some evidence that melatonin levels and
+褪黑激素的分泌模式
+patterns of melatonin secretion can become a
+在老年人中有些紊乱
+little chaotic in elderly folks.
+我说的老年是什么意思?
+What do I mean by elderly?
+不同人的衰老程度不同 对吧
+It's gonna differ of aging, differ, right?
+有一些人在65岁就开始出现问题
+You see some 65 year olds that are struggling
+而另一些65岁的人
+to move and seeing much older than six,
+仍在忙碌  依然精力充沛
+some 65 year olds that are still hustling around have tons of energy.
+个体差异真的很大  因为一些基因
+There's a lot of variation, some of its genetics,
+大家的生活方式也是不同的
+some of its lifestyle factors that it really varies.
+当然了  生活方式因素在衰老速度中扮演着重要角色
+Certainly lifestyle factors can play an important role in rates of aging.
+我认为对于老年人的睡眠和昼夜节律来说
+I think that the the most prominent results from sleep and
+最有用的一个研究结果是
+circadian rhythms in the elderly are.
+老年人需要尽可能多的接受自然光
+They need to get as much natural light.
+即使是透过窗户
+Even if it's through windows,
+我直到有些老年人外出不那么容易
+I realized that some elderly folks can't get outside as easily.
+他们出去也有安全隐患
+It's not safe for them to do it.
+不能轻易地四处走动
+They can't move around as easily.
+对于不能出门的人来说  锻炼可以有多种形式
+Exercise can come in various forms for people that can't get
+不能到户外慢跑或骑自行车  或者晒太阳
+outside and get a ton of sunlight by jogging or cycling.
+在这种情况下  穿过窗户的光线可以
+They're not able to do that light through window.
+最好打开窗户
+In that case, open window ideally,
+但如果由于温度等原因
+but for temperature reasons, et cetera,
+有时这扇窗必须关闭
+sometimes the window has to be closed,
+那么靠近窗口  然后不要照人造光
+getting people near that window and away
+在清晨的时候
+from artificial light early in the day.
+在夜间睡眠时远离人工灯光
+And away from artificial lights cheering.
+这对老年人有很大的影响
+The night phase can have a tremendous effect in the elderly.
+这时褪黑素才是一个可行的选择
+That's when melatonin might be a viable option.
+但当然应该和医生讨论
+And they should be discussed with a physician,
+但青春期已经过去了  在大多数情况下
+but your way past the puberty time. in most cases.
+70多岁、80多岁、90多岁的人就不会
+People who are in their 70s and 80s and 90s are not
+产生大量GNRH和LH
+churning out a lot of gnrh and nausehormone to begin with.
+入睡和保持睡眠的困难
+That's where struggles with falling asleep and staying asleep.
+所有我们之前讲过的参数和事情
+All the same parameters and things we described before
+仍然适用  比如光线  运动  体温等等
+still apply light, exercise, temperature, et cetera.
+但这正是褪黑素发挥最大作用的地方
+But that's where melatonin might be of greatest benefit.
+再说一遍  我不是说一定要用褪黑激素
+Again, i'm not pushing melatonin here,
+但我认为对于那些年长的人来说
+but I think for elderly folks who are
+难以入睡并保持睡眠
+having trouble falling and staying asleep,
+可能褪黑激素值得一试
+that might be worthwhile.
+我还应该提一下  要有规律的时间表
+There are I should just also mention that regular schedule for
+那些上了年纪的人自然也一样
+folks that are elderly and natural as much natural
+光线要尽可能的弱
+light as safely possible that those are gonna be
+这是调节睡眠和昼夜节律的关键点
+the key levers for adjusting sleep and circadian schedules.
+我在之前的节目中提到过除  褪黑素外的其他补品
+I've mentioned before in previous pod cast other supplements besides melatonin.
+有些补品对睡眠很有好处
+Some of those supplements are quite good for sleep.
+我不是补剂的拥护者
+I i'm not a supplement pusher.
+但我自己确实有在吃补剂
+I am somebody who take supplements.
+我相信其中的一些
+I believe in them.
+有些对我有效  有些则不太有效
+Some have worked for me, some have not worked as well.
+但我还是相信首先日常行为要到位
+But I certainly believe in getting the behaviors right
+无论是NSDR  观看自然光  锻炼
+Whether or not nsdr protocols viewing natural light, exercise.
+热水澡还是冷水澡 还是其他的行为规范
+It's hot baths or cold showers or what have you behavioral protocols
+这才是首要
+First
+我之前提到过一些补充剂
+There are some supplements that i've mentioned previous pod cast,
+然后收到了很多问题
+but i've seemed to get a lot of questions about.
+所以我想花几分钟时间谈谈这些
+So I just wanna take a couple of minutes and just talk about some of the
+补充剂可以帮助大脑停止思考
+supplements that can be beneficial for helping turn it off thinking,
+进入深度睡眠
+accessing deeper sleep.
+甚至能够压缩你的睡眠
+And even being able to compact your sleep
+把睡眠时间变成更短的几个小时
+schedule into a shorter period of hours,
+意思就是  睡得少也能过得很好
+meaning getting by well with less sleep.
+人们会吃很多安眠药
+People take a lot of sleeping pills.
+我也不会劝大家不要吃安眠药的
+I'm not gonna tell people not to take sleeping pills.
+但它们可能会影响习惯的形成
+They can be very problematic habit forming.
+也有很大的副作用
+High side effect.
+很多情况下都是这样
+Incidents in many cases,
+当然有些人可以应付得很好
+some people can handle them just fine.
+再说一下
+Again,
+我不是医生
+I'm not physician.
+什么处方都不开
+Don't prescribe anything.
+我是教授  我讲解很多原理
+Professor, so I profess a lot of things,
+其中一些是我的观点
+some of which are my opinion.
+如果你看科学文献
+Although if you look at the scientific literature,
+会看到一些令人印象深刻的数据
+there's some impressive data around some
+你可能会想到  一些非处方药类型的补充剂
+non prescription drug type supplements that have fairly
+有很高的安全系数
+high safety margins that you might consider,
+但是你应该在吃这些之前和你的医生谈谈
+but you should talk to your doctor always before adding
+不管是多吃什么还是少吃什么  好吗?
+or taking anything out of your health regimes, right?
+你的健康不是我的责任
+Your health is not my responsibility.
+是你自己的责任  所以你要严格过滤信息
+Your responsibilities would be a stringent filter.
+沿着这条主线  我们来讲讲最好用的
+Along those lines, one of the most powerful and
+查询工具  我在这里提到过很多次了
+useful tools i've mentioned here on many times,
+我打算多说几次的  就是 examine.com
+and I planned to mention many more times is the website examined dot com,
+我们没有利益关系
+which I have no affiliation with.
+但它真的是一个很棒的网站  可以把高质量的同行研究
+But it's a wonderful site that links you to quality peer
+关于补充剂的 全部整理好给你
+reviewed studies on relate to just about any supplement,
+包括一些安全警告
+including some safety warnings,
+也会告诉你实验对象是什么  是老鼠  猫  是老人
+will also tell you what subjects, whether or not it was rats, cats, elderly,
+还是孩子
+folks or kids.
+一个给定的研究是很重要的
+A given study was done on which is important can be kind of hard to
+因为一般在打广告的网站上很难看到这种信息 对吧?
+pull from sites where people are just advertising supplements, right?
+他们通常不会告诉你研究对象是什么
+They usually don't tell you what the study was.
+哪些老鼠?
+Who were these rats?
+这些孩子是谁?
+Who were these kids?
+等等
+Et cetera.
+至少对我来说  有三种补品
+There are three supplements that, at least for me,
+对我的睡眠有非常积极的影响
+have had a tremendously positive effect on my sleep.
+因为有人想知道  所以我说一下
+That um, some of you might consider I would say,
+但是前提是  我前面说的调整行为习惯  你都做得很好了
+if you're doing everything properly behaving,
+但还是有问题的时候
+you're still having issues,
+那么补充剂可能对你有好处
+then supplements might be a good thing for you.
+或者如果你正在旅行  想要额外的辅助
+Or if you are traveling and you want a little bit of extra
+帮助你缓冲睡眠痛苦  那这种方法可以
+help in buffering your sleep waffle on, this protocols.
+有些人就想要  直接问补剂
+Some people like to go just to the supplements that like,
+我身边有的人就会  “你就跟我说吃什么吧”
+what should I take of people in my life that you just tell me what to take.
+我更倾向于告诉你  你该做什么 不该做什么
+I'm more of years what you might want to do or not do.
+然后想一下你想要服用什么  不想要服用什么
+And then think about what you might want to take or not take,
+但是这都是个人取向
+but personal preference and um.
+我们在一个自由的国家
+It's Free country.
+所以你想做什么就做什么把
+So you can do what you like
+首先  镁
+Magnesium.
+镁被证明可以增加睡眠深度
+Magnesium has been shown to increase the depth of sleep and has been shown to
+减少入睡所需的时间
+decrease the amount of time that takes to access.
+睡着
+Sleep, to fall asleep.
+有多种镁
+Comes in various forms.
+我已经讲过镁很多次了
+I've talked a bunch of times about magnesium
+苏糖酸镁
+threonate
+是一种适用度更高的一种镁
+which seems to be the more viable form of
+苏糖酸镁它似乎
+magnesium and magnesium threonate.
+它似乎优先穿梭进入大脑
+It seems is shuttled preferentially to the brain,
+而你大脑正是需要它的地方
+which is where you want it.
+有一些运输递质
+There are certain transporters.
+它实际上参与了伽马氨基丁酸回路
+It's actually engages the GABA pathway which tends
+趋向于关闭前脑的某些区域
+to turn off certain areas of the forebrain allows
+让你能够睡着
+you to you know fall asleep.
+有一项研究  如果你想探索研究一下
+There is a study if you would like to explore it since people
+认真考虑补剂的人  可能会想要好好看看这项研究
+serious about supplementation might want to explore the study,
+是叫
+which is ates ,
+“不同镁化合物的剂量依赖性吸收概况”
+ATES Dose-dependent Absorption Profile Different Magnesium Compounds
+在我看来像是一篇高质量的同行评议论文
+looks to me like a quality peer reviewed paper.
+我可以把链接放在评论区里
+I can put the link in the caption.
+它探索了各种不同形式的镁
+It explores all the different forms of magnesium.
+看起来甘酸镁和苏糖酸镁很相似
+It does seem like magnesium glycate can be similar to magnesium threonate
+取决于它进入哪部分组织
+in terms of which tissues it shuttle to magnesium,
+苹果酸镁优先进入肌肉上
+malate malate is preferentially shuttle to the muscle.
+它看起来与大脑相反
+It appears as opposed to the brain.
+所以这更像是有利于肌肉修复或恢复
+So it's gonna be more of a muscle repair type thing or restoring
+镁储存在外围  而不是大脑
+magnesium stores in the periphery as opposed to the brain.
+柠檬酸镁还有一个名字我就不提了
+Magnesium citrate has another name that I won't mention.
+正因为柠檬酸镁的主要作用
+In just because magnesium citrate main effect,
+至少对我和我认识的人来说
+at least on me, and the people I know,
+似乎有泻药的作用
+seems to be a laxative effect.
+而不是认知作用
+As opposed to a cognitive effect.
+也有一些证据表明
+There's also some evidence that magnesium
+苏糖酸镁可以保护神经
+threonate  can be narrow, protective.
+这些数据来自高质量的实验室
+Those data are come from quality labs,
+主要是研究啮齿动物  不是研究人类
+mostly rodent studies, not human studies.
+这还挺有趣的
+What's kind of interesting?
+再说一次  这些东西的安全系数往往比较高
+Again, the safety margins for these things tend to be pretty high.
+但如果每次你要尝试新东西的时候
+But any time you're gonna take something new,
+你应该小心地尝试
+you should approach it with caution,
+尤其是考虑到服用镁元素可能会有一些
+especially since magnesium could be involved
+心跳加快之类的副作用
+in a heart rhythm and things of that sort.
+另一种对我来说比较好用的补剂是 茶氨酸
+The other supplement that has been very beneficial for me as theanine.
+茶氨酸
+THEANINE
+茶氨酸会激活
+theanine feeling activates
+某些伽马氨基丁酸的回路
+certain GABA pathways which
+可能涉及关闭自顶向下的大脑处理功能
+Are involved in turning off top down processing
+能够让你更容易入睡
+and thinking making it easier to fall asleep
+100到300毫克的茶氨酸就能有镇静作用
+and theanine hundred milligrams to 300 milligrams has a calming effect.
+茶氨酸已经开始出现在很多能量饮料中
+theanine is now showing up in a number of different energy,
+甚至放入一些咖啡中
+drinks and even some coffees as a way to try and
+为了让人们喝更多的咖啡
+get people in just more of a given type of coffee,
+因为这种物质可以消除焦虑和不安
+because it the ideas they would take away the jitters and the anxiety,
+能让人们喝更多的咖啡
+allowing people to drink more coffee.
+我说的是  在睡前30到60分钟  服用镁和茶氨酸来平息焦虑
+I'm talking about taking magnesium and theanine 30 to 60 minutes before bedtime,
+而不是在白天
+not during the day to quelling anxiety,
+而是在睡前30或60分钟  随餐或不随餐吃
+but rather 30 or 60 minutes before bedtime with or without food for me,
+对我来说都可以
+isn't made any difference.
+这两种物质的结合确实有些帮助
+And the combination of those two things has really
+但茶氨酸对于梦游者可能是个问题
+helped theanine for sleepwalkers can be a problem.
+它会增加你梦的强度
+It does increase the intensity of your dreams,
+给你非常生动的梦
+gives you very vivid dreams.
+对梦游者来说  他们有夜惊现象
+So for sleepwalkers are people that get night
+我的建议是远离茶氨酸
+terror stay away from the theanine is my advice.
+镁 和 茶氨酸  可能确实是值得探索的东西
+Magnesium feeding might be something to explore
+但是 是对于那些没有这些问题的人来说 值得探索
+for those of you that don't have those issues.
+强调一下“可能”这个词
+With the emphasis on might.
+然后我讲了一种化合物
+Then i've talked about a compound,
+上次我讲了芹菜素的机制
+and last time I talked about the mechanisms of apigenin ,
+是甘菊的提取物 它会有一点
+which is derivative of chamomile which acts as a little bit of a
+通过激活氯离子通道来催眠的作用
+hypnotic by activating chloride channels.
+催眠神经元  增加大脑中的gaba
+Hyperpolarize neurons increases gaba in the brain.
+让你更想睡觉
+Busy makes you feel more sleepy.
+甘菊  如果你们读过
+And chamomile for those of you that read your.
+彼得兔闯进麦格雷戈先生的花园 那段
+What was the other peter rabbits knocking to mister mcgregor garden?
+吃了点甘菊  然后睡着了
+chamomile fell asleep.
+格雷戈里先生回来了
+Mister gregory came back.
+是不是有回到小学时代的感觉?
+Anyone flashing back to elementary school?
+这个故事就在说甘菊有镇定作用
+There's a story about camomile having these kind of sedative,
+芹菜素  就是从甘菊中高度萃取
+like a fax apogen is highly concentrated chamomial.
+也有抗雌激素作用
+Also, has anti-estrogenic effects if you want to,
+如果你想保持你的雌激素水平
+keep your estrogen up,
+你可能要小心服用芹菜素
+you might want to be cautious about epidemic.
+这就是像examine.com这样的网站  真正有用的地方
+That's where things like dot com become really useful,
+因为你可以去看  输入芹菜素  他们会告诉你
+because you can go to examine you put in up apigenin and they'll tell
+芹菜素所有的功效
+you all the things that it does and all the things that does can
+有时包括你根本想不到的作用
+sometimes include things that you had no
+比如这边 它就会减少
+idea like reducing conversion of certain
+雄激素雌激素的分泌
+androgen to estrogen,
+你可能想要这种功效
+which you might like,
+或者你可能想要避免这种作用
+or you might want to avoid.
+这取决于你  以及你想要的雌激素水平是多少
+That's up to you and where you want estrogen levels,
+这取决于你的情况 你的生活环境和目标是什么
+depending on who you are and what your life circumstances and goals are.
+还有其他一些物质可以帮助你入睡
+Few other things that can help the transition to sleep.
+5-羟基色氨酸  L-色氨酸
+5-htp  l-tryptophan
+我已经说过为什么我不喜欢这些
+I've talked about why i'm not a fan of those for me.
+它们会让我陷入沉睡
+They tend to throw me into deep sleep and
+然后醒来之后  就再也睡不着了
+then I wake up and I can't fall back asleep.
+所以我不喜欢去干预我的血清素系统
+So I don't like to tinker with my serotonin system.
+我不喜欢去干预我的多巴胺系统  因为其他一些原因
+I don't like to tinker with my dopamine system for entirely other reasons,
+不是说这些很危险
+but none of which are particularly concerning.
+只是我发现如果我增加
+It's just that I find that if I increase my
+服用多巴胺药丸
+dopamine by taking the entire scene in pill form,
+第二天我就睡得很沉
+then I crash really hard the next day.
+或者如果我吃了5-羟基色氨酸  L-色氨酸
+Or if I take  5-htp  l-tryptophan
+我会很沉地睡过去  然后就醒了
+I fall deeply asleep and then I wake up.
+我没有提到什么可能的办法让睡眠更紧凑
+I didn't mention that there might be ways to make sleep more compact.
+所以这实际上是对你的一个请求
+And so this is actually a request to you.
+我有一个非常有趣的经历
+I had, a really interesting experience.
+当我还是个博士后的时候
+When I was a postdoc,
+我第一次去针灸
+I went for the first time to an acupuncture.
+我知道大家对针灸有不同的想法和看法
+I know they're varying um thoughts and opinions out there about acupuncture.
+我不能说针灸对我有什么好处
+I can't say that i benefit so much from the acupuncture.
+现在有了高质量的同行评议研究
+There are now quality peer reviewed studies
+该研究发表在《Neuron: Cell Press》上
+showing it published in neuron cell press journal,
+一本很好的期刊  研究表明针灸
+excellent journal that acupuncture can
+刺激一些抗炎化合物
+stimulate some anti inflammatory compounds,
+这取决于针灸的部位
+depending on where the acupuncture has done.
+这是个很好的研究
+This is really good.
+是去年发布的
+Studies came out last year.
+我在instagram上说过这个
+I talked about this on instagram.
+我再说一遍
+I talk about it again,
+以及还有一些会增加炎症的针灸部位
+as well as certain acupuncture sites that increase inflammation.
+你可以得到不同类型的效果
+you can get different types of effects.
+但不能说针灸完美无缺
+You can't just say acupuncture is great across the board.
+我猜针灸疗法不能够
+I'm assuming that the acupuncture is no,
+扎某个地方 然后有利于增强信息
+which sites are good for increasing information,
+哪个地方 是有利于减少信息的
+which ones are good for decreasing information.
+然而
+However,
+这针灸师
+this acupuncture,
+给了我一些红色药丸
+I went to gave me these red pills.
+他说这些都是有助于睡眠的矿物质  很厉害
+He said these are minerals for sleep, and it was remarkable.
+我吃了红色的药丸
+I took the red pills.
+现在这似乎还是个流行语？
+Isn't that a thing now?
+吃红色药丸
+Take the red pill?
+我也不知道那是什么意思
+I don't know what that means,
+我不经常上网冲浪
+because i'm not tuned in,
+这些红色的药丸看起来像小小的m&s巧克力豆
+but these red pills look like a little m and ms.
+我听了他的建议吃了几颗
+I took a couple of them on his suggestion.
+我进入了梦乡 睡了4个小时
+I felt deeply asleep in 4 hours later,
+醒来时感觉休息得很好
+woke up feeling incredibly rested,
+这是我一生中从未有过的休息
+more rested than I had ever felt in my entire life.
+我从来没有一下子睡超过4个小时
+And I never required more than 4 hours sleep.
+不幸的是
+Unfortunately.
+针灸师搬走了
+Acupuncture has moved away.
+我一直不知道红色药丸里面装的是什么
+I never figured out what was in those.
+没机会做质谱分析
+Red pills didn't get a chance to do the mass spectroscopy.
+但我依然很想知道  他说那是矿物质
+I still wonder he said they were minerals.
+如果有人知道这些红色药丸是什么  以及这种化合物是什么
+Somebody out there knows what these red pills are and what this compound is.
+这些药丸太厉害了
+And it was incredible,
+请告诉我  我很想知道那是什么
+and I would love to know what those are so if.
+但请不要随意服用这种红色药丸
+Please don't go taking red pills at random to try
+去创造这种非实验性的思维体验
+and recreate this non experiment experience of mind,
+但如果你知道那是什么  或者你是针灸师  请联系我
+but please do contact me if you find out or if you're an acupuncturist,
+告诉我这些神秘的红色药丸是什么
+what these mysterious red pills were.
+真的很神奇
+They were pretty awesome.
+再说一下  我给了你大量的信息
+Once again, i've thrown a tremendous amount of information at you.
+我希望你能测量出
+I hope you will figure out your
+最低体温的时间 并开始应用它
+temperature minimum and start working with that to
+进入你想要的睡眠  或者等待周期的到来
+access the sleep and wait for cycles that you want to access.
+我希望你们去试一试NSDR  你们可能会想探索补剂
+I hope that you'll explore nsdr you might want to explore supplementation.
+如果这是你想要做的  你现在就可以开始尝试
+If that's your thing, you have now access to a
+很多睡眠和觉醒的机制
+lot of mechanism about sleep and wakefulness.
+但是为了和今天节目的主题保持一致  我们
+But in keeping with the theme of this pod cast where we
+在这一个月甚至更长的时间里
+stay on topic for an entire month or even slightly more,
+还会讲睡眠与觉醒的话题  还没有结束
+we are not done with sleep and wait fullness.
+我知道这与一般的播客很不一样
+I know this is very different than the typical pod cast format where 1 week it's
+一般播客可能会说 如何在下周变得非凡
+how to become super human in the next week.
+而是如何发展成长的思维模式
+It's how to develop growth.
+不同的播客中都会有出现
+Mindset is kind of all over the place with episode episode.
+但我们会跟着进度  因为我真的相信
+We are staying on track because I really believe that
+随着我们深入研究这些机制
+as we drill deeper and deeper into these mechanisms,
+你一遍又一遍地听到一些相同的主题
+you start hearing some of the same themes again and again,
+你将会开始形成一种直觉和理解
+you're going to start to develop an intuition and understanding of
+了解这些系统如何在你特定的生活环境中运作
+how these systems work in you in your particular life circumstances.
+我的最终目标是  你们不需要我再讲了
+And my goal is really to eventually become obsolete.
+我的研究生导师以前就把这叫做“公交撞车”原则
+It's what my graduate adviser used to call the hit by a bus Principle.
+有点黑色幽默的感觉
+Should somewhat morbid sense of humor and used to be if
+他说 “我明天被车撞了 你怎么办?”
+I get hit by a bus tomorrow, what are you going to do?
+之后就没有我
+Without me
+在你边上唠叨了
+Blabbing at you here.
+我当然不想被车撞
+So I don't wanna get hit by a bus.
+如果非要说的话  我还打算活很久
+I plan on living a very long time if I have anything to say about it.
+但如果  万一我明天在哪里被车撞了
+But where i to get hit by a bus tomorrow.
+在睡眠和觉醒方面你该怎么做?
+What would you do for your sleep and wait fulness?
+对吧?
+Right?
+你可以在youtube上发表评论
+You could put a comment on youtube,
+我也希望你会这么做
+which I hope you'll do.
+但如果我被车撞死了
+But if I were hit by a bus and killed,
+那我就无法回答你的问题了
+then you I wouldn't be able to answer your question.
+找到你的最低温度
+Know your temperature minimum,
+要明白在一天的早些时候  阳光是很有价值的
+understand light in the early part of the day is valuable.
+当你想清醒的时候  接受光照
+Light when you wanna be awake, provide.
+只要不是特别强烈  不会对你造成伤害
+It's not so bright, it's damaging.
+它对你很好  不管它是来自
+It's great for you whether or not it comes from
+电子屏还是太阳  但阳光更好
+screens or sunlight, but sunlight is better.
+在体温达到最低体温前的4 - 6小时内避免光照
+Avoid light in the 4 to 6 hours before your temperature minimum, or else,
+除非你要旅行  否则你的生物钟会延迟的
+you're gonna delay your clock unless you're traveling.
+这就是你需要做的
+And that's what you want to do.
+使用体温  提高体温  来提前你的生物钟
+Use temperature, increase temperature, to shift your clock,
+降低体温  来延迟你的生物钟
+decrease temperature to delay your clock.
+画出你的体温变化  并理解它
+Map out your temperature and understand it.
+你不需要一天到晚每个温度都去记录  但得知道你的最低体温
+You don't have to know degree by degree across the day, know your minimum,
+知道你24小时内的最高体温
+know your maximum temperature in your 24 hour cycle.
+你会从中感受到强大的力量
+And you feel great power through that.
+因为你也会了解这些昼夜周期
+Because then you'll know also about these all trading cycles,
+在这90分钟的周期内  你可以集中精力工作
+these 90 minute cycles within which you can do focused work,
+不要期待注意力会很快就到来
+don't expect the focus to come early.
+注意力通常在90分钟中间集中出现  然后逐渐减少
+Expected books come in the middle and then kind of taper off.
+我谈到了一些关于孩子的问题
+Talked a little bit about kids,
+讲了关于老人的  关于育儿的事
+a little bit about elderly, about parenting.
+我们将会继续
+We are going to continue.
+还会有更多
+There's going to be more.
+但现在轮班工作者  旅行者
+But now shift workers, travelers,
+在家里有飞行时差的人
+people that are jet lacking themselves at home.
+你应该知道怎么调整了
+you know how levers in place?
+信息可以是强有力的
+Information can be powerful,
+但你必须以某种方式来实现它
+but you have to implement it in ways, obviously,
+用安全且合理的方法
+safe ways and reasonable ways.
+调用你有的知识
+But implementing this knowledge in the ways that you
+用你信任或安全合理的方法  对你来
+trust or safe and reasonable for you is going to be
+你可以给自己形成一个实验室  不断尝试
+the way that you can develop a bit of a laboratory about yourself.
+我讨厌生物黑客这个词
+I loathe the term bio hacking.
+对不起  生物黑客
+Sorry, bio hackers.
+我不相信入侵任何系统
+I don't believe in hacking anything,
+我相信理解机制和应用
+I believe in understanding mechanism and applying the
+有大量高质量的同行评审数据支持的
+principles of mechanism for which there are large bodies
+机制的原理
+of quality peer reviewed data.
+某些生物学原理的重心
+And even a whole center of mass around certain biological principles,
+比如光的影响和最低体温会让你
+like the effects of light and temperature minimum that will allow
+按照你想要的方式改变你的生理机制
+you to shift your biology in the ways that you want to go.
+这会让你的心理朝着你想要的方向转变
+That will allow you to shift your psychology in the ways you want to go.
+下一集
+Next pod cast episode,
+我们会讲到更多的东西
+we are going to talk more about a few things.
+首先  我会回答你们其他更多的问题
+First of all, we're gonna answer more of your questions,
+因为在答疑时间里
+because during office hours,
+我没有回答上一期的所有问题
+I didn't get to all your questions from the previous episode.
+我读了所有的评论  我们重点关注在了
+So I do read the comments and we're paying attention and,
+找出最常见的问题上
+figuring out the most common questions.
+我们要讨论一些有人问我的更难的话题
+We are gonna get to some of the harder topics someone came at me.
+真的很有趣  因为总会有人问更大的问题
+It's always fun when somebody does this.
+他们说  我讲的都是低级别的问题
+They say these are just the kind of basil low level questions.
+那么更大的问题呢?
+What about the big stuff?
+比如做梦和清醒的做梦意识呢?
+What about dreaming and lucid dreaming consciousness?
+我会讲到这些的  而且我已经计划好了
+I'll talk about that stuff and i'm planning to do that.
+其中一些会在下一期  甚至之后都会提到
+Some of which in the next episode, in the following episode, maybe even.
+我想给你们一些数据
+But I wanna give you data.
+我想给你们一些有数据支持的东西
+I want to give you things that are supported by data.
+我会尽量减少推测
+I will try to speculate as little as possible,
+因为这是一档基于科学
+because this is a pod cast about science
+以及基于科学的日常生活工具的节目
+and science based tools for everyday life.
+这不是让我
+This is not about me.
+发表推测的地方
+Speculating.
+很多人会推测睡眠
+Many people are speculated about the role of sleep,
+做梦和意识 所扮演的角色
+dreaming and consciousness,
+确实是个吸引人的话题,
+fascinating topics,
+坦率地说  这是一个相当循环的论点
+and a rather circular argument, frankly.
+这种情况已经持续了几个世纪
+It's been going on for centuries.
+总有一天我们会研究出来
+Someday we'll get there right now.
+但现在  我们专注于这些深层的生物机制
+We're concentrating on these deep biological mechanisms that make
+让你做好你自己  让你有好的或坏的感觉
+you who you are and allow you to feel certain ways good or bad,
+让你的身体在某些方面发挥出好的
+allow you to function physically in certain ways good
+或者是坏的作用  给你更多的控制感
+or bad and give you more of a sense of control.
+这就是我的目标
+That's my goal here.
+许多人都很有礼貌地问他们如何才能帮助支持播客
+Many people have quite graciously asked how they can help support the pod cast.
+首先  谢谢你们
+First of all, thank you.
+我们很感谢大家这么问
+We appreciate the question.
+大家可以通过在youtube上订阅来支持我们播客
+You can support the pod cast by subscribing to the pod cast on youtube,
+还可以订阅Apple或Spotify上的节目
+as well as subscribing on apple or spot if i.
+你也可以在youtube和Apple上给我们留下评论和反馈
+You can also leave us comments and feedback on youtube and at apple.
+真的对我们有很大的帮助
+That really helps.
+希望反馈都是积极的
+We would hope the feedback would be positive.
+除了给我们反馈  请多问问题
+But nonetheless leave us feedback, ask questions.
+我们将用这些问题来作为之后节目的基础  来创造之后的内容
+We will use those questions to create future content for the pod cast.
+还有  如果你可以向朋友或家人
+As well if you can recommend the pod cast to friends and family
+以及其他 你认为可能会对他们有用的人 推荐这个播客
+and other people that you think might find the information of use.
+那真的很感谢
+That's terrific.
+可以去看看我们一开始提到的赞助商
+And check out our sponsors that we mentioned at the beginning.
+这是一个很好的支持我们的方式
+That's a really great way to help support us.
+以及支持我们为你带来这些信息的能力
+And our ability to bring you this information.
+根据这些原则
+Along those lines,
+很多人问过我关于补剂和补剂品牌的问题
+a lot of people have asked me about supplements and supplement companies.
+直到现在
+Up until now,
+我一直不愿意推荐特定的补剂品牌
+i've been the reluctant to recommend specific supplement brands.
+补剂行业有点像西部大开发
+The supplement industry is kind of a wild west of different brands,
+质量和品质把控都层次不齐
+different levels of quality and stringency.
+非常复杂
+It can be very complicated.
+而且瓶子上的信息和实际含量总是不一致
+And what's on the bottle is not always what you're getting.
+你所获得的补剂质量因公司而异
+The quality of what you're getting is varies from company
+甚至从一批到另一批的质量都不一致
+company and even from substance to substance batch to batch.
+我很高兴地宣布我和THORNE合作
+I'm pleased to say that i'm partnering with thorne
+THORNE是一家与梅奥诊所合作的补品公司
+THORNE is a supplement company that works with the mayo clinic,
+几乎所有主要的运动队组织都会用
+with pretty much all the major sports team organizations.
+我知道他们用最高标准
+And that I know to have the highest levels
+严格把关了品质
+of stringency in terms of what's in the
+药品的含量和瓶子上写的相符
+bottle matches what's listed on the bottle
+他们所生产的补剂
+in terms of the quality of what they put in
+都是这样
+those supplements.
+我之前提到过  补剂并不适合所有人
+While I mentioned earlier that supplements aren't for everybody.
+如果你有兴趣尝试这些补剂
+If you're interested in trying some of these supplements,
+你可以去看看THORNE
+you might want to check out thorn.
+如果你想这么做  你可以去thorne.com/u/huberman
+If you want to do that, you can go to thorne.com/u/huberman
+thorne.com/u/huberman
+So it's thorne.com/u/huberman.
+如果你这么做  他们会给你在那买的补品
+If you do that, they'll give you 20% off any of the
+给你打八折
+supplements that you happen to purchase from thorn.
+非常感谢你的时间和关注
+Thanks so much for your time and attention.
+我真的很感激
+I really appreciate it.
+我们下期节目再见
+See you next time on the human lab pod cast.
+一如既往  感谢你对科学的兴趣
+As always, thanks for the interesting science.
