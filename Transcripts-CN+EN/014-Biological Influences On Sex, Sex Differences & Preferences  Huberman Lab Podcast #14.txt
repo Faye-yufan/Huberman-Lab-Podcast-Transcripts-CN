@@ -1,0 +1,4841 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到Huberman Lab播客
+Welcome to The Huberman Lab Podcast,
+我们在这里讨论科学和基于科学的日常生活工具
+where we discuss science and science-based tools for everyday life.
+-我是Andrew Huberman
+- I'm Andrew Huberman
+我是神经生物学和眼科教授
+and I'm a professor of Neurobiology and Ophthalmology
+在斯坦福医学院
+at Stanford School of Medicine.
+此播客与
+This podcast is separate from
+我在斯坦福大学的教学和研究职位是分离的
+my teaching and research roles at Stanford.
+但是  这是我渴望和努力的一部分
+It is however part of my desire and effort,
+为消费者信息带来零成本
+to bring zero cost to consumer information
+关于科学和与科学相关的工具
+about science and science related tools.
+为了与该主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是Inside Tracker
+Our first sponsor is Inside Tracker.
+Inside Tracker是一个个性化的营养平台
+Inside Tracker is a personalized nutrition platform
+分析你的血液和DNA的数据
+that analyzes data from your blood and DNA
+帮助你更好地了解自己的身体
+to help you better understand your body
+并帮助你实现健康目标
+and help you reach your health goals.
+我是血液检验和DNA检验的忠实信徒
+I'm a big believer in blood tests and DNA tests
+出于简单的原因
+for the simple reason
+许多重要的因素
+that many of the factors that are important for
+你的短期和长期健康状况以及整体健康状况
+your short-term and long-term health and overall wellbeing
+只能从血液和DNA测试中进行分析
+can only be analyzed from blood and DNA tests.
+诸如代谢因子和激素水平之类的东西
+Things like metabolic factors and hormone levels,
+真的只能通过血液和DNA进行准确评估
+really can only be assessed accurately from blood and DNA.
+我喜欢Inside Tracker的一件事是
+The thing I like about Inside Tracker is
+你不只是恢复不同激素的水平
+you don't just get back levels of different hormones
+和新陈代谢因素等等
+and metabolic factors and so forth,
+你还将获得指令
+you also get directives.
+它具有易于使用的仪表板
+It has a dashboard that's very easy to use
+根据你的数据告诉你
+that tells you based on your data,
+你可能想吃什么食物
+what sorts of foods you might want to eat
+或多或少
+more of or less of.
+什么形式的运动
+What forms of exercise
+你可能想要做更多或更少的事情
+you might want to do more of or less of.
+这确实是一种很棒的评估方式
+It's really a wonderful way to assess
+你的行为和生活方式选择如何
+how your behaviors and lifestyle choices
+正在与正在发生的事情进行交互
+are interacting with what's going on
+深入你的生物学
+deep within your biology.
+Inside Tracker使所有这些超级易于理解
+Inside Tracker makes all of that super easy to understand.
+这真的很容易
+It's also really easy to
+进行血液测试和DNA测试
+get the blood tests and DNA tests taken.
+你可以去本地位置或
+You can go to a local location or
+如果你愿意  他们可以派人到你家
+they can send somebody to your home if you prefer that.
+如果你想尝试使用Inside Tracker  可以访问
+If you'd like to try Inside Tracker you can visit
+insidetracker.com/huberman可获得25％的折扣
+insidetracker.com/huberman to get 25% off
+Inside Trackers的任何计划
+any of Inside Trackers plans.
+结帐时使用代码Huberman
+Use the code Huberman at checkout.
+那是insidetracker.com/huberman
+That's insidetracker.com/huberman
+从“ Inside Tracker”的任何计划中获得25％的折扣
+to get 25% off any off any of Inside Tracker's plans
+并在结帐时使用代码Huberman
+and use the code Huberman at checkout.
+Helix Sleep也为今天的一集提供赞助
+Today's episode is also brought to you by Helix Sleep.
+Helix Sleep生产床垫和枕头
+Helix Sleep makes mattresses and pillows
+旨在满足你的睡眠需求
+that are designed to meet your sleep needs,
+为了优化你的睡眠
+in order to optimize your sleep.
+我已经完成了该播客的几集
+I've done several episodes of this podcast
+而且那里有很多信息
+and there's a ton of information out there
+指出一个事实
+pointing to the fact that
+每天晚上真正沉睡
+getting really deep restful sleep each night
+对身心健康至关重要
+is vital for mental and physical health.
+还有你睡的床垫
+And the mattress that you sleep on
+而且你用的枕头很重要
+and the pillow that you use is very important
+以获得最佳睡眠
+for getting optimal sleep.
+Helix Sleep有一个简短的两分钟测验  你可以测一下
+Helix Sleep has a brief two minute quiz that you can take.
+它会问你一些问题  例如：“你睡在一边吗？
+It asks you questions like, "Do you sleep on your side,
+或你的背部或胃部  或者你可能不知道？
+or your back or your stomach or maybe you don't know?
+睡觉时你会热还是冷？
+Do you tend to run hot or cold as you sleep
+也许你不知道”
+or maybe you don't know?"
+那两分钟的测验适合你
+That two minute quiz matches you
+放在床垫和枕头上
+to a mattress and pillow
+非常适合你的睡眠需求
+that's ideal for your sleep needs.
+我参加了这个测验
+I took this quiz,
+我把他们称为“黄昏”的床垫与“黄昏”相匹配
+I matched to the mattress they call "The Dusk," D-U-S-K.
+我一直在“黄昏”床垫上睡觉
+And I've been sleeping on "The Dusk" mattress
+现在好几个月了
+for many months now
+而且我的睡眠比以往任何时候都要好
+and I've been sleeping better than I ever have before.
+真的很棒
+It's really wonderful
+始终保持良好的睡眠
+to have a really good night's sleep on a consistent basis.
+这是一个彻底改变游戏规则的人
+It's a total game changer.
+因此  如果你有兴趣升级床垫
+So if you're interested in upgrading your mattress,
+你可以访问helixsleep.com/huberman
+you can go to helixsleep.com/huberman.
+参加两分钟的睡眠测验
+Take their two minutes sleep quiz
+他们会为你搭配定制的床垫
+and they'll match you to a customized mattress.
+最高立减$ 200
+And you'll get up to $200 off
+他们订购的任何床垫和两个免费枕头
+any of their mattress orders and two free pillows.
+这就是helixsleep.com/huberman
+So that's helixsleep.com/huberman.
+参加两分钟的睡眠测验
+Take the two minutes sleep quiz
+他们会为你配上床垫
+they'll match you to a mattress.
+如果你订购他们的床垫之一
+And if you order one of their mattresses,
+你将获得最高$ 200的折扣
+you'll get up to $200 off
+他们的任何床垫和两个免费枕头
+any of their mattresses and two free pillows.
+他们有10年保修
+They have a 10 year warranty
+然后你可以尝试一下床垫
+and you get to try out the mattress
+100天无风险
+for 100 nights risk-free
+如果你不喜欢
+and if you don't like it
+他们会捡起来拿走
+they'll pick it up and take it away.
+如果你喜欢它  则保留它
+If you love it, then you keep it.
+而且我认为这是一个很好的机会
+And I think there's a very good chance
+你会爱上它
+that you're going to love it,
+我当然爱我的床垫
+I certainly loved mine.
+今天的播客
+And today's episode
+也由Athletic Greens带给你
+is also brought to you by Athletic Greens.
+Athletic Greens是多合一的
+Athletic Greens is an all-in-one
+维生素矿物质益生菌饮料
+vitamin mineral probiotic drink.
+我从2012年开始使用Athletic Greens
+I started using Athletic Greens way back in 2012.
+因此  我很高兴他们赞助播客
+And so I'm delighted that they're sponsoring the podcast.
+我开始使用Athletic Greens  因为我发现了它
+I started using Athletic Greens because I found it
+有点困惑弄清楚
+rather confusing to figure out
+服用什么维生素和矿物质
+what vitamins and minerals to take.
+在Athletic Greens上
+And in Athletic Greens,
+我得到所有的维生素和矿物质
+I get all the vitamins and minerals
+我所有日常所需的维生素
+I need to cover my bases.
+益生菌也很重要
+As well probiotics are really important.
+益生菌已在众多研究中显示
+Probiotics have been shown now in numerous studies
+对肠道微生物组很重要
+to be important for the gut microbiome,
+会影响肠脑轴
+which impacts the gut brain axis,
+以及身体健康的各个方面
+as well as various aspects of bodily health.
+所以在Athletic Greens
+So in Athletic Greens
+我得到维生素  矿物质和益生菌
+I get vitamins, minerals and probiotics.
+我也很喜欢它的味道
+I also really like the way it tastes.
+这是绿色饮料
+It's a greens drink,
+所以你把它和一些水混合
+so you mix it with some water.
+你可以把它和别的东西混在一起
+You could mix it with something else
+喜欢的话喜欢果汁
+like juice if you like.
+我把我的水和柠檬汁混合
+I mix mine with water and lemon juice
+我每天喝一两次
+and I drink it once or twice a day.
+如果你想尝试Athletic Greens  可以到
+If you want to try Athletic Greens you can go to
+athleticgreens.com/huberman.
+如果你去看
+And if you do that,
+你会获得他们的特别优惠
+you'll claim their special offer,
+这将获得一年的维生素D3 K2的供应
+which is to get a years supply of vitamin D3 K2.
+现在也有大量数据
+There's now also a wealth of data
+表明维生素D3很重要
+showing that Vitamin D3 is important
+用于大脑和身体健康的各个方面
+for various aspects of brain and body health.
+所以那是athleticgreens.com/huberman
+So that's athleticgreens.com/huberman
+为运动绿色和维生素D3 K2的多年供应
+for Athletic Greens and a years supply of Vitamin D3 K2.
+你还将获得五个免费旅行小包
+You'll also get five free travel packets.
+旅行包只是一种非常便捷的方式
+The travel packets are just a really convenient way
+在旅途中选择Athletic Greens
+to take Athletic Greens when you're on the road,
+在汽车  飞机上或只是四处走动
+in the car or on a plane or just moving around.
+你只要倒出其中一包
+You just empty one of the packets
+放入水瓶或玻璃杯中
+into a water bottle or a glass
+并迅速将其混合
+and mix it up really quickly.
+它可以节省任何混乱或此类麻烦
+It saves any kind of mess or anything of that sort.
+因此  再次再次是athleticgreens.com/huberman
+So once again athleticgreens.com/huberman
+得到维生素D3 K2
+to get Vitamin D3 K2.
+那是一年的供应和五个免费旅行包
+That's a year supply and the five free travel packs.
+这是新的一个月
+It's a new month,
+这意味着这是一个新话题
+which means it's a new topic
+在Huberman Lab播客上
+here at the Huberman Lab Podcast.
+对于接下来的大约四集
+For the next four or so episodes,
+我们将要谈论
+we're going to be talking all about
+激素会影响大脑和身体的一切
+hormone affects on the brain and body.
+因此  这是许多不同的主题
+So that's a huge number of different topics.
+我们将谈论性
+We're going to talk about sex.
+我们将谈论繁殖
+We're going to talk about reproduction.
+我们将谈论青春期
+We're going to talk about puberty a little bit more.
+我们在上一集中谈到了这一点
+We talked about that in a previous episode.
+我们将谈论更年期
+We're going to talk about menopause.
+我们将谈论节育
+We're going to talk about birth control.
+我们将要谈论
+We are going to talk about
+侵略  竞争  胜利  失败
+aggression, competition, winning, losing.
+基本上  我们将涵盖有关激素的更多信息
+Basically, we're going to cover as much about hormones
+尽我们所能
+as we possibly can in this month
+并且这样做
+and in doing so
+我们将深入研究工具和协议
+we are going to go deep into tools and protocols.
+我们还将讨论很多
+We are also going to talk about a lot of
+与事物相关的工具
+tools that relate to things
+你可能需要避免去做的事情
+that you might not want to do in order to
+从而来优化荷尔蒙的健康状况
+optimize hormone health,
+不论你的人生阶段或你的目标等等
+regardless of stage of life or your goals et cetera.
+因此  肯定会有一个月的讨论时间
+So it's sure to be a month rich with discussion,
+拥有丰富的工具  你将学到很多
+rich with tools and you're going to learn a lot of
+神经科学和内分泌学
+neuroscience and endocrinology.
+实际上有一个神经内分泌学领域
+There's actually a field of neuro-endocrinology.
+实际上  这是我开始我的研究生工作的地方
+It's actually where I started my graduate work.
+我在这方面拿了一个研究生学位
+I did a masters in it.
+只能说我喜欢这个话题
+Which has only to say that I love the topic.
+我有很多在这个主题上工作的朋友
+I have a lot of friends that work on this topic,
+为了这些播客  我咨询过许多人
+many of whom I've consulted for these episodes.
+所以我很高兴与你们分享这些信息
+And I'm really excited to share the information with you.
+在我们深入探讨今天的内容之前
+Before we dive into today's episode,
+“关于情绪和性的一切”
+"All About Emotions and Sex."
+我只想发布一些公告
+I want to just to have a few announcements
+旨在为你提供一些有用的资源
+that are designed to point you to some useful resources.
+最后一集  “谈论
+Last episode, "Talking About The Science of
+情感和人际关系的科学”
+Emotions and Relationships."
+我提到了Mood Meter应用程序
+I mentioned the Mood Meter app.
+情绪计测器应用程式是由
+The Mood Meter App was developed by
+在耶鲁大学的人
+people out at Yale University who study
+他们研究情绪的生物学和心理学
+the biology and psychology of emotions.
+这是一个非常棒的应用程序
+It's a really wonderful app.
+但是  你们中许多人很快告诉我
+However, many of you quickly told me
+在你所在的地区没有情绪计测器应用程序
+that the Mood Meter App isn't available in your area.
+你转到了我们发布的链接
+You went to the link we posted
+只是说你所在的地区不可用
+and it just was saying not available in your area.
+情况实际上比那糟得多
+The situation was actually a lot worse than that.
+情况是
+The situation was that,
+当我们录制播客时
+when we recorded the episode
+情绪计测器应用程序是在运作的
+the Mood Meter App was working.
+我是知道的  因为我下载到了手机中
+I know 'cause I downloaded a fresh copy of it to my phone.
+然后在随后的周末
+And then in the ensuing weekend,
+他们关闭了Mood Meter App  进行了一些维修
+they took the Mood Meter App down for some repairs.
+情绪仪应用程序现在已启动
+The Mood Meter app is now up.
+它是可用的
+It is available.
+我想说的很清楚
+I want to be really clear.
+这不是跟我有商业关系的应用
+It's not an app I'm affiliated with.
+我只是在给你们推荐
+I'm just mentioning it to you.
+他们不认识我
+They don't know me.
+我认识他们  但他们不认识我
+I know them, but they don't know me.
+因此  我们没有任何业务关系
+So we don't have any kind of business relationship.
+他们确实为该应用收费99美分
+They do charge 99 cents for the app.
+我认为免费版本已经消失了
+I think the free version has disappeared
+在过去的一年左右
+in the last year or so.
+这就是Mood Meter应用程序
+So that's Mood Meter app.
+我们将再次提供链接
+We'll provide the link again
+并且链接应该正常工作
+and the link should be working.
+希望他们在此公告之间
+Hopefully they won't take it down again,
+这一期播出的时候
+in between this announcement
+不会再下架了
+and the release of this episode.
+也只想退一步
+Also just want to take a step back for a moment
+谈一点逻辑
+and talk a little bit about the logic
+如何充分利用信息
+of how to make the most of the information
+Huberman Lab播客的信息
+on the Huberman Lab Podcast.
+我倾向于抛出很多信息
+I tend to throw out a lot of information
+关于给定主题
+about a given topic.
+但是  许多人指出
+Many of you have pointed out however,
+我没有涵盖某些事情
+that I don't cover certain things.
+再说一次
+And once again I'll just say
+目标始终是准确
+the goal is always to be accurate,
+但我无法穷尽所有
+but there's no way I can be exhaustive.
+我无法覆盖所有内容
+There's no way I can cover everything
+针对特定主题
+for a particular topic.
+好消息是我们有时间
+The good news is we have time.
+我的目标  至少在第一年
+My goal, at least in the first year
+Huberman Lab播客
+of the Huberman Lab Podcast,
+是给你一个基础
+is to give you a basis,
+这些不同主题的基础
+a foundation in these different topics
+神经可塑性  注意力  睡眠  激素等
+of neuro-plasticity, focus, sleep, hormones et cetera.
+当然  也要一路提供工具
+And of course, to provide tools along the way.
+我们将邀请嘉宾
+We are going to host guests,
+我实际上已经开始录制
+I've actually started recording
+已经有一些嘉宾在录制中
+with some of these guests already.
+甚至那些内容将包括
+And even those episodes will include
+我们称之为底漆的一些东西
+a little what we call primer.
+一点描述
+A little description of
+给定主题的基础
+the basics of a given topic
+这样你就可以从这些主题中获取更多信息
+so that you can get more information from those topics.
+我的目标确实是在这些主题上教你
+My goal really is to educate you in these topics,
+为你提供这些主题的基础
+give you a foundation in these topics
+并允许你开始探索它们
+and allow you to start exploring them
+在这集中  我们未来的嘉宾
+here in the episodes with our future guests,
+以及其他播客和书籍中
+but also in other podcasts and books
+和其他信息来源
+and other sources of information.
+所以对于你们当中那些说
+So for those of you that are saying,
+“信息太多了”
+"It's too much information."
+我只是鼓励你提醒自己
+I just encourage you to remind yourself that
+你有一个暂停按钮  可以返回它
+you have a pause button you can return to it.
+一切都带有时间戳
+Everything's timestamped.
+对于那些感觉到的人
+For those of you that feel,
+没有足够的信息  我没有涵盖足够的信息
+it's not enough information I'm not covering enough.
+只知道这仅仅是个开始
+Just know that this is just the beginning.
+我们打算很长时间都会做这个播客
+We didn't intend to do this for a very long time
+随着时间的流逝  我们将变得更加彻底
+and we will be thorough over time.
+非常感谢你的耐心配合
+So thanks for your patience
+并请耐心等待
+and please be patient with yourselves.
+不需要一口气
+There's no reason why you have to digest
+消化所有信息
+all the information in one swoop.
+另一件事是  我都被告知
+The other thing is that I've been told both that
+我说话太快  说话太慢
+I speak too fast and speak too slow.
+因此  有一个很好的解决方案
+So there's a wonderful solution to this.
+如果我说得太快或太慢
+If I speak too fast or too slow
+你可以在YouTube中调整速度
+you can adjust the speed in YouTube.
+如果你以其他格式收听
+If you're listening in a different format,
+我认为你也可以调整播放速度
+I think you also can adjust the speed of playback.
+所以那是
+So that's something that
+在教室里不可能实现的功能
+wouldn't be possible in the classroom,
+你会觉得很有用
+but you may find useful.
+最后一点
+And then last but not least,
+我想再次指出人们这个NSDR
+I want to point people again to this NSDR,
+非睡眠深度休息协议
+non-sleep deep rest protocol,
+Madefor的开发者
+that the folks over at Madefor
+提供了免费资源 并投入使用
+have put out as a free resource.
+正如你们许多人指出的那样
+It does, as many of you pointed out,
+与类似的东西
+bear resemblance to things like
+瑜伽nidra和其他形式的冥想相似
+yoga nidra and other forms of meditation.
+但是我们要做的是剥离
+But what we've done is we've stripped out
+意图或与之有关的任何形式的言语
+intentions or any kind of the verbiage related to
+有些人可能会认为
+what some people might perceive as
+与瑜伽社区有关或
+kind of related to the yoga community or
+特定于一种新的年龄型技术
+specific to kind of new age-y type techniques.
+不是因为我们不喜欢瑜伽nidra
+Not because we don't like yoga nidra.
+实际上  我几乎每天都做瑜伽nidra
+In fact, I've done yoga nidra daily for almost the last
+天哪  我一生八年
+goodness, eight years of my life.
+我爱瑜伽nidra
+I love yoga nidra,
+但是有时候语言很复杂
+but sometimes the complicated language
+可以成为分隔符  并可以劝阻人们
+can be a separator and can discourage people
+采取这些非常有用的协议
+from taking on these protocols that are extremely useful.
+因此  NSDR是意识通用的
+So NSDR is intentionally generic.
+它旨在使你进入
+It's designed to bring you into a state of
+通过结合深层放松
+deep relaxation through a combination of
+呼吸和身体扫描
+breathing and body scan.
+Madefor也有油管的脚本
+There's the you too script over at Madefor
+在评论区中有链接
+which is linked in the caption.
+许多人发现他们更喜欢
+And many people find that they prefer that
+像瑜伽nidra这样的脚本
+to scripts like yoga nidra.
+是有意图的脚本
+Scripts where they're doing intentions
+听众们听到很多
+and they're hearing a lot of
+不寻常的语言
+kind of unusual language around the process.
+这只是非常基本的
+This is just very basic and
+希望你会喜欢
+I hope you'll enjoy it.
+如果你更喜欢典型的瑜伽nidra脚本
+And if you prefer the more typical yoga nidra scripts
+那你喜欢就好
+then go with those.
+有很多可用的
+There are many of them available
+在网上和其他地方都能找到
+on the internet and elsewhere.
+最后是  我想指出
+And last but not least I want to point out that,
+现在我们所有的剧集都带有字幕
+all our episodes now are subtitled
+既有英文也有西班牙文
+both in English and in Spanish.
+所以对于那些喜欢的人
+So for those of you that prefer
+以西班牙语消化这些信息
+to digest this information in Spanish,
+现在可以在字幕中使用了
+that's now available to you in the subtitles.
+今天我们要谈的是
+Today we're going to talk about
+性科学
+The Science of Sex.
+尤其是性别分化
+In particular, sexual differentiation.
+这是一个复杂的话题  因为
+Now that's a complicated topic because
+性既是形容词  名词又是动词
+sex is both a adjective, a noun and a verb,
+取决于上下文
+depending on the context.
+今天我们要谈的是
+Today we're going to talk about
+荷尔蒙效应
+the hormonal effects
+和神经作用
+and the neural effects
+在成长过程中发生的特定事件
+of particular events that happen during development
+以及这些如何引导青少年和成人的行为
+and how those guide adolescent and adult behavior,
+包括性偏爱
+including sexual preference.
+这是一个引人入胜的领域
+It's an area that's fascinating and for which,
+实际上有非常扎实的教科书调查结果
+there are actually very solid textbook findings.
+所以教科书的发现意味着
+So textbook findings means,
+有很多研究
+that there are many studies
+几十年来一直在聚合
+that have been aggregated over decades.
+这就是我们现在所知道的
+That point to what we now know to be
+绝对真理
+absolute truths in terms of
+激素如何影响大脑发育
+how hormones affect brain development,
+大脑如何影响荷尔蒙发育
+how the brain impacts hormonal development
+以及它们如何相互作用以控制行为
+and how those interact to control behavior for instance.
+我们还将讨论生殖
+We are also going to talk about reproduction,
+动词性
+the verb sex.
+当然  对动词性
+And of course, sex the verb,
+也可以独立于繁殖而进行
+can also be carried out independent of reproduction.
+并非总是如此
+It's not always,
+特别是在人类中
+in particular in humans,
+不只是为了产生后代
+just to produce offspring.
+因此  下集将对此进行介绍
+So that's going to be covered in the next episode,
+但是你绝对需要了解
+but you absolutely need to understand
+本集中的信息
+the information in this episode,
+为了使信息有意义
+in order to make sense of the information
+在下一集
+in the next episode.
+因此  今天我们将探索激素
+So, today we're going to explore hormones.
+它们是什么  它们如何工作
+What they are, how they work,
+导致男性化或女性化的原因
+what leads to masculinization or feminization
+大脑和身体？
+of the brain and body?
+我将抛出一个非常有趣的事实
+I'll just throw out one really interesting fact
+也许你们大多数人没有意识到
+that perhaps most of you didn't realize that
+激素对身体有直接影响
+hormones have direct effects on the body.
+大多数人都知道  因为
+Most people know that because there are
+体内的激素差异和性别差异
+hormone differences and sex differences in bodies
+在生殖器和体毛方面
+in terms of genitalia and body hair,
+体毛分布等等
+distribution of body hair et cetera.
+但是激素也直接对大脑产生影响
+But there are also effects of hormones on the brain directly
+信不信由你
+and believe it or not there're also effects
+在脊髓上也有影响
+on the spinal cord.
+在脊髓内的神经元和结构上
+On the neurons and structures within the spinal cord
+以非常直接的方式产生影响
+that impact in a very direct way,
+什么样的行为是可能的
+what sorts of behaviors are possible.
+所以这是一个迷人的地方
+So it's a fascinating area,
+你可能会注意到
+you might notice I'm going to go
+我在这个话题上会讲的慢一点
+a little bit more slowly through this topic
+比我平时的速度要慢
+than I normally do.
+我要特别小心我的语言
+I want to be extremely careful with my language.
+其中一些主题
+Some of these topics,
+你们中有些人可能认为非常敏感  对吧？
+some of you may be thinking are extremely sensitive, right?
+而且当然
+And of course,
+关于性与生殖的任何讨论
+any discussion about sex and reproduction
+是一个敏感的话题
+is a sensitive one.
+但是今天我们只是在谈论生物学
+But today we're just talking about the biology.
+我们没有陷入文化限制
+We're not getting into the cultural constraints
+或文化对话
+or the cultural dialogue.
+我们今天要做的是真正做到
+What we're trying to do today is really get to
+生物学  生理学  内分泌学
+the biology, the physiology, the endocrinology
+和行为
+and the behavior.
+因此  让我们从谈论
+So let's start by talking about
+什么是激素开始
+what hormones are just to remind you
+以及它们的作用
+and what they do.
+根据定义  激素
+Hormones by definition,
+是一种物质  一种化学物质
+are a substance, a chemical that's
+在身体的一个区域释放
+released in one area of the body.
+通常从我们称为腺体的东西
+Typically from something we call a gland,
+尽管它们也可以从神经元中释放出来
+although they can also be released from neurons.
+但它们经常从腺体中释放出来
+But they're released often from glands,
+传输并对该腺有影响
+that travel and have effects both on that gland
+而且还可以作用于人体的其他器官和组织
+but also on other organs and tissues in the body.
+那可以区分荷尔蒙
+And that differentiates hormones
+来自神经递质
+from things like neurotransmitters,
+往往会在器官本身上采取更多行动
+which tend to act more locally.
+这很重要
+So that's important.
+激素是一种分泌的物质
+A hormone is a substance secreted
+在身体的一个位置传输
+at one location in the body, travels,
+并影响身体其他部位的事物
+and has impact on things elsewhere in the body.
+产生激素的组织的例子是
+Examples of tissues that produce hormones would be
+甲状腺  睾丸  卵巢等
+the thyroid, the testes, the ovaries et cetera.
+然后当然是大脑的某些区域
+And then of course there are areas of the brain
+如下丘脑和垂体
+like the hypothalamus and the pituitary,
+彼此密切相关
+which are closely related to one another
+并释放引起释放的激素
+and release hormones that cause the release
+体内的其他激素
+of yet other hormones out in the body.
+因此  我们将介绍所有这些内容
+So we're going to cover all this.
+如果你对内分泌学一无所知
+If you don't know anything about endocrinology,
+你仍然能够
+you're still going to be able to
+了解今天的讨论
+understand today's discussion.
+我们将从讨论开始
+And we're going to start with a discussion about,
+荷尔蒙到底在做什么
+what hormones actually do,
+创造我们称之为的东西
+to create this thing that we call
+男性化或女性化
+masculinization or feminization.
+因此  让我们从开发开始
+So let's start with development.
+精子遇卵
+Sperm meets egg.
+在此之前发生的一切
+Everything that happens before that
+是下一集的主题
+is a topic of the next episode.
+但是  精子遇卵
+But, sperm meets egg.
+这是哺乳动物的繁殖
+This is mammalian reproduction.
+那个卵子开始复制
+And that egg starts to duplicate,
+它开始变得更多
+it starts to make more of itself.
+它产生更多的细胞
+It makes more cells.
+最终这些细胞中的一些变成了皮肤
+And eventually some of those cells become skin.
+这些细胞中有一些变成了大脑
+Some of those cells become brain.
+这些细胞中有些会变成肌肉
+Some of those cells become muscle.
+这些细胞中有些变成手指
+Some of those cells become fingers.
+构成大脑和身体计划的所有东西
+All the stuff that makes up the brain and body plan.
+此外  还有激素
+In addition, there are hormones
+都来自母亲
+that come both from the mother
+和成长中的婴儿
+and from the developing baby,
+发育中的胎儿
+the developing fetus.
+那影响大脑是否会
+That impact. whether or not the brain will be
+他们称之为有组织的男性化或有组织的女性化
+what they call organized masculine or organized feminine.
+正如我所说的
+And as I say this,
+我要你尝试抛弃
+I want you to try and discard
+文化内涵
+with the cultural connotations
+或你的心理含义
+or your psychological connotations,
+什么是男性化和女性化
+of what masculinization and feminization are.
+因为我们只关注生物学
+Because we're only centering on the biology.
+因此  通常情况下  人们有两个X染色体
+So typically, people have either two X chromosomes,
+以及传统语言中
+and the traditional language around that
+那个人称之为女性
+is that person is female, right?
+或者X染色体和Y染色体
+Or an X chromosome and a Y chromosome
+那个人传统定义为男性
+and that person will become male.
+并非总是如此
+Now it's not always the case.
+在某些情况下是XXY
+There are cases where it's XXY,
+那里有两个X染色体和一个Y染色体
+where there two X chromosomes plus a Y chromosome.
+在某些情况下  它是XYY
+There are also cases where it's XYY.
+有两个Y染色体
+Where they're two Y chromosomes.
+这些具有重要的生物学意义
+and these have important biological
+和心理影响
+and psychological impacts.
+所以我们需要建立的第一件事是
+So the first thing we need to establish is that
+有一种叫做染色体性的东西
+there is something called chromosomal sex.
+不管它们是两个X染色体
+Whether or not they're two X chromosomes,
+或X和Y染色体
+or an X and Y chromosome,
+这就是我们所说的染色体性
+is what we call chromosomal sex.
+但是  分离性别的下一阶段
+But the next stage of separating out the sexes,
+这就是我们所说的生殖腺性别
+is what we call gonadal sex.
+通常  并非总是如此  但通常
+Typically not always, but typically
+如果有人的性腺有睾丸
+if somebody has testes for their gonads,
+我们认为他们是男性
+we think of them as male.
+如果有人有卵巢  我们会将其视为女性
+And if somebody has ovaries, we think of them as female.
+尽管也不总是这样
+Although that's not always the case either.
+但是让我们来探索
+But let's just explore
+从染色体性向生殖腺性别的过渡
+the transition from chromosomal sex to gonadal sex,
+因为这是一个令人着迷的
+because it's a fascinating one
+我们所有人都以某种形式经历过
+that we all went through in some form or another.
+所以我们通常认为的XY
+So this XY that we typically think of as
+促进胎儿的男性化
+promoting masculinization of the fetus.
+我们说  因为在Y染色体上有基因
+We say that because on the Y chromosome there are genes
+这些基因具有特定的功能  可以抑制
+and those genes have particular functions that suppress
+女性生殖器官
+female reproductive organs.
+所以在Y染色体上有一个基因
+So on the Y chromosome there's a gene,
+生物编码叫做
+which encodes for something called
+所谓的苗勒抑制激素
+Mullerian Inhibiting Hormone.
+所以实际上有一种激素
+So there's actually a hormone
+由Y染色体编码
+that's programmed by the Y chromosome
+阻止了副中肾管的形成
+that inhibits the formation of Mullerian Ducts,
+这是女性的生殖器的重要组成部分
+which are an important part of the female reproductive apparatus.
+这很关键  因为
+That's critical because,
+我们已经看到了
+already we're seeing the transition between
+Y染色体和性腺之间的演变
+chromosome Y chromosome and gonad.
+Y染色体上的其他基因
+And other genes on the Y chromosome
+促进睾丸的形成
+promote the formation of testes.
+所以有些基因像SRY基因
+So there are genes like the SRY gene
+和其他促进睾丸形成的基因
+and other genes that promote the formation of testes,
+同时它们也抑制了副中肾管
+while they also inhibit the formation
+的形成
+of the Mullerian Ducts.
+所以从染色体性向生殖腺性别的过渡
+So the transition from chromosomal sex to gonadal sex
+是一个非常重要的区别
+is a very important distinction.
+有点像叉路
+It's kind of a fork in the road
+在成长的早期就发生了
+that happens very early in development
+当胎儿仍在胚胎中
+while fetuses are still in the embryo.
+有趣的是
+Now what's interesting as well,
+就是因为有一条Y染色体
+is that just because there's a Y chromosome
+可以抑制副中肾管的形成
+that can suppress Mullerian Duct formation
+而且Y染色体上还有其他基因
+and there are other genes on the Y chromosome that
+促进睾丸的发育
+promote testes development.
+胎盘本身是内分泌器官
+The placenta itself is an endocrine organ.
+我想大多数人都不知道
+I think most people don't know this
+但是胎盘也是内分泌器官
+but the placenta is an endocrine organ as well.
+母亲  当然是在怀着胎儿
+The mother, which of course is carrying the fetus
+有可以产生睾丸激素的肾上腺
+has an adrenal gland which can produce testosterone.
+举例来说
+There are instances for example,
+母亲患有肿瘤的地方
+where a mother has either a tumor
+或其他原因
+or for some other reason is
+分泌大量睾丸激素
+secreting large levels of testosterone
+而携带的胎儿是XX
+while carrying a fetus that is XX.
+这导致了
+And that leads to what
+我们称之为男性化
+we would call masculinization
+在胎儿的某些方面
+of certain aspects of the fetus.
+通常情况下  阴蒂会增大
+Typically, that will be enlarged clitoris.
+还有一些例子
+There also some examples
+在身体上产生的其他表型
+of other phenotypes on the body that are created
+即使是纯粹的XX染色体婴儿
+even though it's a purely XX chromosomal baby.
+所以我们必须区分
+So we have to distinguish between
+染色体性  生殖腺性别
+chromosomal sex, gonadal sex.
+然后就是所谓的荷尔蒙性爱
+And then there's what we call hormonal sex.
+就是类固醇激素的作用
+Which is the effects of the steroid hormones,
+雌激素和睾丸激素及其衍生物
+estrogen and testosterone and their derivatives,
+关于我们所谓的形态性
+on what we call morphological sex
+或婴儿和人的形状
+or the shape of the baby and the human
+生殖器和下巴
+and the genitalia and the jaw
+以及所有其他这些东西
+and all these other things.
+因此  这实际上非常复杂
+And so it actually is quite complicated.
+所以  距离
+So you know, it's a long distance from
+性别认同的染色体
+chromosomes to gender identity
+性别认同有很多
+and gender identity has a lot of
+社会影响力和角色
+social influences and roles.
+这是一个非常活跃的领域
+This is an area that right now is very dynamic
+在你所知道的讨论中
+and in the discussion out there as you know.
+但是只是从染色体性中来讨论
+But just getting from chromosomal sex
+所谓的生殖腺性别
+to what we would call gonadal sex
+荷尔蒙性别和形态性别
+and hormonal sex and morphological sex,
+涉及许多步骤
+involves a number of steps.
+因此  今天我们将讨论这些步骤
+So today we're going to talk about those steps.
+还有一些令人着迷的事情
+And there's some fascinating things that
+确实与工具有关
+do indeed relate to tools.
+确实有关于
+Do indeed relate
+一些重要的行为选择
+to some important behavioral choices.
+关于怀孕期间应避免的重要事情
+Important choices about things to avoid while pregnant.
+对于你们中那些没有怀孕的人
+And for those of you that are not pregnant,
+如果要考虑要避免的事情
+things to avoid if you're thinking about
+如果最终想要有孩子
+eventually having children.
+那不是在推动发育
+And that is not to drive development
+在一个方向或另一个方向上
+in one direction or another,
+但是有些例子
+but there are examples where
+我们的环境中有些有害的东西
+there are some deleterious things in our environment
+实际上可能会产生负面影响
+that can actually negatively impact
+我们所谓的性发育
+what we call sexual development overall,
+不论染色体背景如何
+regardless of chromosomal background.
+那么  让我们开始吧
+So let's get started with that.
+让我们再谈一些荷尔蒙的作用
+Let's talk a little bit more about what hormones do.
+激素通常具有两类作用
+Hormones generally have two categories of effects.
+它们可以非常快  也可以非常慢
+They can either be very fast or they can be very slow.
+有一些激素  例如皮质醇和肾上腺素
+There are hormones like cortisol and adrenaline,
+发挥作用得非常快
+which act very fast.
+肾上腺素会增加你的心率
+Adrenaline can increase your heart rate
+分泌到体内时非常快
+very fast when secreted into the body.
+皮质醇可能会慢一点
+Cortisol can be a little bit slower,
+但它也会产生一些非常快速的效果
+but it also can have some very fast effects.
+然后有的激素
+And then there are hormones like.
+像睾丸激素和雌激素一样
+Like testosterone and estrogen,
+我们将其称为性类固醇激素
+which we refer to as the sex steroid hormones.
+性类固醇激素可以有
+The sex steroid hormones can have
+通过发送信号产生快速效果
+quick effects through signaling.
+意味着它们可以附着在细胞上
+Meaning they can attach to cells
+并使这些细胞做不同的事情
+and make those cells do different things.
+它们实际上可以对大脑产生非常快速的影响
+They can have a actually quite quick effects on the brain.
+很多人不知道这一点
+A lot of people don't know this,
+但有一些非常快速的效果
+but there are some very fast effects of
+雌激素和睾丸激素以及长期作用
+estrogen and testosterone as well as long-term effects.
+这些分子  对于你们中那些感兴趣的人
+These molecules, for those of you that are interested,
+是所谓的亲脂性的
+are what it called lipophilic.
+只是意味着他们喜欢脂肪类的东西
+Which just means that they like fatty stuff,
+它们实际上可以穿过脂肪膜
+they can actually pass through fatty membranes.
+而且由于细胞的外部
+And because the outside of cells,
+以及所谓的核被膜
+as well as the what's called the nuclear envelope.
+所有的DNA内容物都被包裹在里面
+Where all the DNA contents and stuff are stuffed inside,
+由脂质  脂肪制成
+are made of lipid, of fat.
+这些类固醇激素实际上可以进入细胞
+These steroid hormones can actually travel into cells
+然后进入DNA
+and then get into the DNA.
+基本上与细胞的DNA相互作用
+Basically interact with the DNA of cells
+然后来控制基因表达
+in order to control gene expression.
+所以他们可以改变
+So they can change
+细胞之后会变成的样子
+the sorts of things that cells will become
+他们可以改变细胞功能
+and they can change the way that cells function
+是长期的作用
+in a long-term way.
+实际上就是这样
+And that's actually how
+这些基因如SRY的存在
+the presence of these genes like SRY
+和苗勒氏管激素
+and Mullerian inhibiting hormone,
+导致它们减少或消除
+lead to reductions or elimination I should say,
+副中肾管之类的东西
+of things like the Mullerian Ducts
+并促进男性体内所谓的
+and promote instead what's called in males
+伍尔夫管
+the Wolffian Ducts.
+或促进睾丸而不是卵巢的发育
+Or promote the development of testes rather than ovaries.
+所以你只需要知道
+So all you need to know is that
+激素具有短期和长期作用
+hormones have short-term and long-term effects.
+长期的影响实际上是
+And the long-term effects are actually
+与它们对基因的影响有关
+related to their effects on genes
+以及这些基因是如何表达或被抑制的
+and how those genes are expressed or repressed,
+或者为了防止它们
+in order to prevent them from having
+制成特殊蛋白质
+particular proteins made.
+这些激素
+So these hormones,
+这些类固醇激素极为强大
+these steroid hormones are exceedingly powerful.
+如果我们要讨论
+And if we're going to have a discussion about
+男性化或女性化等等
+masculinization or feminization et cetera,
+你还需要考虑反面的
+you also need to think about the counterpart.
+不仅要男性化
+It's not just about masculinizing the body
+或者女性化身体和大脑
+or feminizing the body and brain,
+在许多情况下  这还涉及大脑的去男性化
+it's also about demasculinize the brain in many cases,
+作为正常的生物学功能
+as a normal biological function
+通常是XX染色体的女性  都会去男性化
+of typically of XX females.
+还有去女性化
+And de feminization,
+抑制某些相关通路
+the suppression of certain pathways that are related
+使身体和大脑女性化
+to feminization of the body and brain.
+但是这个故事确实有一些令人着迷的转折
+But there are some really fascinating twists in this story.
+所以我向你介绍了很多生物学知识  但是
+So I've just thrown a lot of biology at you, but
+这就是一切开始变得令人惊讶的地方
+this is where it all starts to get incredibly surprising.
+你会认为这很简单直接  对吧？
+You would think that it's straightforward, right?
+你有一条Y染色体
+You have a Y chromosome
+你压制女性生殖通路
+you suppress the female reproductive pathway
+像副中肾管
+like the Mullerian Ducts.
+你促进睾丸的发育
+You promote the development of testes
+然后睾丸制造睾丸激素
+and then testes make testosterone.
+然后组织大脑倾向男性
+And then it organizes the brain male
+它想做“男性喜欢”的事情
+and it wants to do male like things.
+然后在女性体内  雌激素
+And then in females you get estrogen
+它想做“女性喜欢”的事情
+and it wants to do female like things.
+这些性别喜好都要加引号
+And air quotes here for all of this.
+事实证明  这根本不是它的工作原理
+It turns out that isn't how it works at all.
+这是有趣的地方
+Here's where it's interesting.
+我们必须了解
+We have to understand
+这些激素
+that there are effects of these hormones,
+睾丸激素和雌激素
+testosterone and estrogen.
+影响所谓的主要性特征
+on what are called primary sexual characteristics.
+是天生的
+Which are the ones that you're born with.
+而次要性特征
+Secondary sexual characteristics,
+就是青春期出现的那些
+which are the ones that show up in puberty.
+这些发生在大脑中
+And these are happening in the brain
+还有身体和脊髓中
+and body and spinal cord.
+因此  我将为你解开所有这些问题
+And so I'm going to disentangle all this for you
+通过给你一些例子
+by giving you some examples.
+首先  让我们谈谈
+First, let's talk about the development of
+主要的性特征 第一性征
+primary sexual characteristics.
+出生时出现的那些
+The ones that show up at birth.
+更具戏剧性的例子之一
+And one of the more dramatic examples of this
+来自睾丸激素的作用
+comes from the role of testosterone
+在创造外部生殖器
+in creating the external genitalia.
+你可能会认为这很简单
+Now you might think it's just straight forward.
+如果有睾丸  那是因为有Y染色体
+If there's a testes, 'cause there's a Y chromosome.
+你知道  你有一个基因编码
+You know, you've got a gene that codes for
+睾丸的发育  你会得到睾丸激素
+the development of testes, you get testosterone
+阴茎长大
+and the penis grows
+婴儿天生有阴茎
+and the baby is born with a penis.
+你知道的  发生的第一件事
+You know, one of the first things that happens
+婴儿出来的时候
+when the baby comes out
+他们会看生殖器
+is they look at the genitalia,
+他们尝试评估
+and they try and make an assessment on whether or not
+这是一个“男孩”还是一个“女孩”  对不对？
+it's a quote boy or it's a quote girl, right?
+这么做已经很长时间了
+That's been done for a very very long time
+在整个人类历史中一直这样
+throughout human history.
+事实证明  这不是由睾丸激素引起的
+It turns out that it's not testosterone that's responsible
+阴茎的发育
+for the development of the penis
+有X染色体和Y染色体的婴儿中
+in a baby that has an X chromosome and a Y chromosome.
+而是一种不同的雄激素
+It's a different androgen.
+雄激素只是激素的一类
+Androgen is just a category of hormones
+包括睾丸激素
+that includes testosterone,
+但是睾丸激素会在胎儿体内转化
+but testosterone is converted in the fetus
+称为二氢睾丸激素
+to something called dihydrotestosterone.
+这是通过
+And that's accomplished through
+一种称为5-α-还原酶完成的
+an enzyme called 5-alpha-reductase.
+现在二氢睾丸激素有重要作用
+Now dihydrotestosterone has important effects
+长大以后也一样
+later in life too.
+我们将讨论这些
+We will talk about those.
+实际上  如果你只想知道
+In fact, if you just want to know,
+二氢睾丸激素就是我们所说的
+dihydrotestosterone is what we would call
+男性中占主导地位的雄激素
+the dominant androgen in males.
+这是男性有侵略性的原因
+It's responsible for aggression.
+它负责大量的肌肉力量
+It's responsible for a lot of muscular strength.
+它与胡须生长和男性型秃发有关
+It's involved in beard growth and male pattern baldness.
+我们将讨论所有这些
+We're going to talk about all of that.
+但是二氢睾丸激素有强大的作用
+But dihydrotestosterone has powerful effects
+确定了生殖器
+in determining the genitalia,
+婴儿仍在胚胎中就确定了
+while the baby is still in the embryo.
+所以
+So this ends.
+有睾丸激素产生
+There's testosterone that's made.
+那睾丸激素被转化了
+And that testosterone gets converted
+通过这种酶5-α-还原酶
+by this enzyme 5-alpha-reductase
+在一个称为结节的小结构中
+in a little structure called the tubercle.
+那块结节最终会变成阴茎
+That tubercle will eventually become the penis.
+所以你说：“好吧  直截了当”
+So you say, "Okay, straight forward."
+该睾丸激素被转化为二氢睾丸激素
+This testosterone is converted to dihydrotestosterone.
+然后如果有二氢睾丸激素
+And then if there's dihydrotestosterone
+它控制了阴茎的生长
+it controls penis growth.
+的确是这样
+And indeed that's the case.
+这是主要的性特征  第一性征
+So that's a primary sexual characteristic.
+该婴儿随后将长大  并在青春期以后
+That baby will then grow up and later during puberty
+会有一个分子释放出来
+there will be the release of a molecule.
+我上一集谈到了  称为Kisspeptin
+I talked about this last episode called Kisspeptin.
+KISSPEPTIN 亲吻素
+K-I-S-S-P-E-P-T-I-N kisspeptin,
+这会导致一些其他激素的释放
+which will cause the release of some other hormones
+天然释放激素  促黄体激素
+Connatural releasing hormone, Luteinizing hormone
+会刺激睾丸产生睾丸激素
+will stimulate the testes to make testosterone.
+所以在青春期  睾丸激素会导致进一步
+So in puberty, testosterone leads to further
+阴茎的增长和发育
+growth and development of the penis,
+以及阴毛的积累或生长
+as well as the accumulation of or growth of pubic hair,
+声音的加深
+a deepening of the voice,
+所有次要的性特征  第二性征  好吗？
+all the secondary sexual characteristics, okay?
+所以二氢睾丸激素创造了我们所谓的
+So dihydrotestosterone creates what we would call
+典型的男性表型
+the typical masculine phenotype for
+主要的性特征和产生
+primary sexual characteristics and produces.
+不好意思 是睾丸激素  产生
+Testosterone excuse me, produces
+青春期的第二性征
+secondary sexual characteristics during puberty.
+有一个非常有趣的现象
+There's a very interesting phenomenon
+在1970年代发表在《科学杂志》上
+that was published in The Journal of Science in the 1970s,
+而这方面  现在有大量的科学数据
+for which now there's a wealth of scientific data.
+这与基因突变有关
+And this relates to a genetic mutation,
+5-α-还原酶  也就是是转化
+where 5-alpha-reductase the enzyme that converts
+睾丸激素到二氢睾丸激素的酶  会消失
+testosterone to dihydrotestosterone doesn't exist.
+它以某种方式突变为不存在的基因组
+It's mutated in a way into a genome that it doesn't exist.
+这实际上是最先确定的
+And this actually was first identified
+在多米尼加共和国
+in the Dominican Republic.
+它已经出现在其他地方
+It has shown up elsewhere.
+它很少见  但在显示出来的地方这个现象非常稳定
+It's quite rare, but where it shows up it's robust.
+发生的事情是婴儿出生
+What happens is baby is born.
+通常在婴儿出生时
+Typically when a baby is born
+他们不测量染色体
+they don't measure chromosomes.
+他们不看染色体性别XX或XY
+They don't look at chromosomal sex XX or XY.
+如今通常不这样做
+That's not typically done nowadays.
+婴儿出生
+Baby is born.
+如果你要看那个婴儿
+If you were to look at that baby,
+它看起来像女性
+it would look female.
+几乎没有外阴茎或没有外阴茎
+There would be very little or no external penis.
+因此人们会说：“这是一个女孩”
+And so people would say, "It's a girl."
+他们可能会  你知道
+And they might, you know,
+庆祝这是一个女孩
+have the celebration it's a girl.
+我想现在他们称他们为“宝宝性别派对”
+And I guess now they call them "Gender Reveal Parties"
+或类似的东西
+or something like that.
+我对此一无所知  但无论如何
+I don't know about this, but anyway.
+他们会透露
+They would reveal.
+婴儿会露出其外生殖器
+The baby would reveal its external genitalia
+只需在出生时就在那里裸体即可
+simply by being there and being naked when it's born.
+与心理性别无关
+It has nothing to do with gender,
+它与生殖器和生理性别有关
+it has to do with genitalia and sex.
+那孩子出生了
+That baby would be born.
+观察到的是
+And what was observed is that,
+时不时的
+from time to time,
+那个小时候长大的作为女孩的婴儿
+that baby after being raised as a girl,
+作为一个女孩完全快乐
+perfectly happy as a girl
+大约11岁  12岁或13岁
+would around the age of 11 or 12 or 13,
+会突然开始萌生长出阴茎
+would suddenly start to sprout a penis.
+其实有个名字
+There's actually a name for this,
+它叫做Guevedoces
+it's called Guevedoces.
+翻译过来  大概就是 12岁的阴茎
+Which the translation is more or less, penis at 12.
+听起来可能很奇怪
+And as strange as this might sound,
+如果你了解潜在的突变  这是有道理的
+it makes sense if you understand the underlying mutation.
+这些孩子  这些Guevedoces  到底发生了什么？
+What happens in these children, these Guevedoces,
+孩子出生了
+is that the child is born.
+她的睾丸没有往下长
+It has testes which are not descended,
+这样在体内
+so up in the body.
+她们并没有在早期制造大量的睾丸激素
+They're not making a lot of testosterone early on.
+她们无法
+They weren't able to
+将睾丸激素转化为二氢睾丸激素
+convert testosterone to dihydrotestosterone
+因为她们缺乏这种酶5-α-还原酶
+because they lack this enzyme 5-alpha-reductase.
+作为结果
+As a consequence,
+主要的性特征  第一性征
+the primary sexual characteristic
+男性生殖器  阴茎
+of external male genitalia, penis,
+没有生长
+doesn't develop.
+然后发生的是
+And then what happens is
+婴儿从小就长大
+the baby grows up as a young child essentially
+被当作​​一个女孩
+is treated as a girl.
+通常  他们报告说当女孩子也很舒服
+Generally they report being pretty comfortable as girls,
+尽管并非总是如此
+although not always.
+然后睾丸激素开始被分泌
+And then testosterone starts getting secreted
+来自睾丸的原因是大脑中的亲吻肽
+from the testes 'cause kisspeptin in the brain
+促性腺激素和促黄体生成素的信号
+signals through gonadotropin and luteinizing hormone
+一直到睾丸
+and travels down to the testes,
+睾丸开始搅动睾丸激素
+the testes start churning out testosterone
+阴茎有二次生长
+and there's a secondary growth of the penis.
+突然之间出现了阴茎
+And all of a sudden there's a penis.
+这导致了一些非常复杂的情况
+And this leads to some very complicated situations
+在家庭和文化上造成了冲击
+in families and culturally.
+实际上  无论是否
+And actually the outcomes in terms of whether or not
+这些孩子决定自认是男性还是女性
+these children decide to self identify as males or females
+以及人们如何对待他们
+and how people treat them
+实际上变化很大
+actually varies quite a lot.
+实际上有一种
+There's actually been kind of an
+采用第三种性别
+adopting of a third category of sex and gender
+在这些Guevedoces中
+in these Guevedoces for
+为了给他们提供机会
+in order to just offer them the opportunity to
+探索不仅是一种典型的
+explore not just what would be a typical kind of
+女孩或女人或男孩或男人的表型
+girl or woman or boy or man phenotype,
+但是介于两者之间
+but something in between.
+虽然有些人称其为双性
+Something that some people call intersex although
+双性和假性雌雄同体
+intersex and pseudo hermaphroditism
+实际上完全是一回事
+is actually a separate thing altogether.
+所以很有趣  这里的重点
+So it's fascinating and the point here
+是二氢睾丸激素而不是睾丸激素
+is that dihydrotestosterone not testosterone
+负责阴茎的这种主要生长
+is responsible for this primary growth of the penis.
+后来那个睾丸激素参与了
+And that testosterone later is involved in
+次要性特征
+the secondary sexual characteristics
+声音加深等等
+deepening in the voice, et cetera.
+现在这是信息
+Now this is where the information
+变得更加有趣
+gets even more interesting
+基本上适用于所有人
+and applies to essentially everybody.
+你可能认为
+You might think
+那个睾丸激素  因为它使身体男性化
+that testosterone because it masculinizes the body
+以次要的性特征  第二性征方式
+in the secondary sexual characteristic way.
+因为二氢睾丸激素是另一种雄激素
+And because dihydrotestosterone another androgen,
+男性化了主要的性特征  第一性征
+masculinizes the primary sexual characteristics.
+早期阴茎的生长
+The growth of the penis early on,
+睾丸激素肯定会使大脑男性化
+that testosterone must masculinize the brain.
+实际上
+And there are in fact aspects of
+大脑和身体的男性化
+masculinization of the brain and body,
+与生殖器无关
+that are independent of genitalia.
+现在对某些人来说很明显
+Now it might be obvious to some of you,
+但是有些人可能没有意识到
+but some people probably don't realize that.
+是的  的确  大脑具有睾丸激素的受体
+Yes indeed the brain has receptors for testosterone.
+它还具有雌激素受体
+It also has receptors for estrogen.
+但有趣的是
+But the fascinating thing is that
+如果你看一下
+if you look at the brains of
+有Y染色体且有睾丸的人
+people that have Y chromosomes and that have testes
+然后产生睾丸激素
+and that make testosterone,
+你看着人的大脑
+and you look at the brains of people
+没有Y染色体或睾丸的
+that don't have Y chromosomes or testes
+因此  一般来说  睾丸激素的含量要少得多
+and therefore make far less testosterone in general,
+你意识到的是大脑中的细胞
+what you realize is that the cells in the brain
+在我所说的男性和女性之间不同的
+that differ between what I'll call males and females,
+也就是XY和XX之间
+but between XY, and XX
+有睾丸激素的受体
+have receptors for testosterone,
+但是大脑的男性化
+but the masculinization of the brain
+不能由睾丸激素完成
+is not accomplished by testosterone.
+我想重复一遍
+I want to repeat this.
+大脑的男性化
+The masculinization of the brain
+不能由睾丸激素完成
+is not accomplished by testosterone.
+它是由雌激素完成的
+It is accomplished by estrogen.
+睾丸激素可以转化为雌激素
+Testosterone can be converted into estrogen
+被称为芳香酶的酶
+by an enzyme called aromatase.
+要理解这一点至关重要
+This is vitally important to understand.
+睾丸激素可以转化为雌激素
+Testosterone can be converted into estrogen
+被称为芳香化酶的东西
+by something called aromatase.
+我将举一个例子说明发生这种情况的地方
+I'll give an example of where this happens
+以后的生活
+later in life,
+只是说明原理
+to just illustrate the principle
+并将其真正嵌入你的脑海
+and really embed it in your mind.
+在男孩的青春期  XY染色体的男孩
+During puberty in boys, XY chromosome individuals.
+有一种情况并不少见
+It's not uncommon for there to be
+就是短暂或有时长久的乳房芽发育
+transient or sometimes long lasting breast bud development.
+青春期睾丸激素升高
+Testosterone goes up during puberty,
+由于我们之前讨论的原因
+for the reasons we talked about before.
+一些睾丸激素转化为雌激素
+And some of that testosterone gets converted into estrogen
+被称为芳香酶的酶
+by an enzyme called aromatase.
+芳香酶是由体内几种来源产生的
+Aromatase is made by several sources in the body.
+主要来源之一是体内脂肪
+One of the main sources is body fat.
+因此  它可以产生大量的芳香化酶
+So it can make a lot of aromatase.
+有时候你甚至会看到
+Sometimes you'll even see
+青春期男性的乳房发育相当剧烈
+fairly dramatic breast development in males during puberty.
+有时是暂时的  有时不是
+Sometimes it's transient, sometimes it's not.
+你看到这个的另一个地方
+The other place where you see this
+在运动员和健美运动员中
+is in athletes and bodybuilders
+需要大量的合成代谢类固醇
+that take a lot of anabolic steroids.
+那需要高水平的雄激素
+That take high levels of androgens.
+所以他们会服用睾丸激素
+So they'll be taking testosterone
+服用的超过了生理剂量
+at super physiological doses.
+有时并非总是如此
+Sometimes not always.
+他们会将一些睾丸激素转化为雌激素
+They will convert some of that testosterone into estrogen
+他们会得到所谓的男性乳房发育症
+and they'll get what's called gynecomastia.
+就是男性乳房组织的发育
+Which is the development of male breast tissue.
+有时他们会通过外科手术将其切除
+Sometimes they'll get it cut out surgically.
+其他时候他们会开始尝试
+Other times they'll start trying to take
+雌激素阻滞剂以试图抑制它
+estrogen blockers in order to try and suppress it
+否则他们会尝试催乳素阻滞剂
+or they'll try and block prolactin.
+我们将更详细地讨论这个主题
+It's a topic that we're going to get into in more detail.
+但是这里重要的是要了解
+But what's important here is to understand that
+睾丸激素可以通过芳香化酶转化为雌激素
+testosterone can be converted to estrogen by aromatase.
+芳香酶不仅仅是在体内脂肪中产生的
+Aromatase is not just made in body fat.
+大脑中有神经元产生芳香化酶
+There are neurons in the brain that make aromatase
+并将睾丸激素转化为雌激素
+and convert testosterone into estrogen.
+它是睾丸激素转化为雌激素
+And it is testosterone converted into estrogen.
+换句话说
+In other words,
+是雌激素让XY个体男性化
+it's estrogen that masculinizes XY individual.
+让他的大脑男性化
+That masculinizes the brain.
+这对各种事物都有深远的影响
+And this has profound effects on all sorts of things.
+关于行为  关于世界观等等
+On behavior, on outlook in the world et cetera.
+但我认为大多数人都没有意识到
+But I think most people don't realize
+那是来自睾丸激素的雌激素
+that it's estrogen that comes from testosterone
+男性化男性的大脑  XY的大脑
+that masculinizes the male brain, the XY brain.
+不是睾丸激素  也不是二氢睾丸激素
+Not testosterone nor dihydrotestosterone.
+因此  我只想提及一些工具
+So I just want to mention some tools.
+你可能会问自己
+You might be asking yourself,
+“怎么可能会有一些办法和工具呢
+"How could tools possibly come up
+在对话的这个阶段
+at this stage of the conversation
+我们明明是在谈论生理性的发育
+where we're talking about sexual development
+我们正在谈论
+and we're talking about
+人体组织的分化”
+the differentiation of tissues in the body."
+好吧  这对孩子
+Well, this is true both for children
+以及父母和成年人都适用
+and parents and adults.
+我想强调一点
+I want to emphasize that
+有些事情是环境的
+there are things that are environmental
+人们还会用一些东西
+and there are things that people use
+在他们的家中用的  有时实际上可能会影响
+in their homes sometimes that actually can impact
+激素水平  并可能影响
+hormone levels and can impact
+性发育的方式  相当深刻的影响
+sexual development in fairly profound ways.
+我想说的很清楚
+And I want to be very clear,
+这不是我从
+this is not me pulling from
+一些从未听说过的稀有杂志 里面找出来的
+some rare journal have never heard of it.
+这是从教科书中提取的
+This is pulling from textbooks.
+特别是如今  我很多信息都是从
+In particular, today I'm guiding a lot of the conversation
+“行为内分泌学”中提取
+on work that on "Behavioral Endocrinology,"
+是兰迪·尼尔森（Randy Nelson）和兰斯·克里格斯菲尔德（Lance Kriegsfeld）的书
+is a book by Randy Nelson and Lance Kriegsfeld.
+该领域的真正专家
+True experts in the field.
+我将谈论泰隆·海斯（Tyrone Hayes）的一些作品
+I'm going to talk about some of the work from Tyrone Hayes
+来自加州大学伯克利分校
+from UC Berkeley
+关于环境毒素及  环境的影响
+about environmental toxins and their impacts on
+对其中一些诸如睾丸激素和雌激素的影响
+some of these things like testosterone and estrogen.
+我将接触它们
+I'm going to touch into them.
+我将提供一些轶事证据
+I'm going to give some anecdotal evidence
+以研究为基础
+that's grounded in studies,
+我们将在标题中提供
+which we will provide in the caption
+或我将在这里引用
+or that I'll reference here.
+那些真的很有趣的东西之一
+One of those that's actually really interesting
+但有助于说明原理
+but helps illustrate the principle
+我们一直在谈论的是
+that we've been talking about is.
+几年前  有阵风很大
+A few years ago, there was a lot of excitement
+关于月见草油
+about Evening Primrose Oil.
+月见草油有很多产品
+Evening Primrose Oil is in a lot of products
+通常是关联着
+that typically are associated
+皮肤美容和皮肤健康的功效
+with skin beauty and skin health.
+所以我在这里概括
+And so I'm generalizing here.
+但通常是母亲或姐妹在使用它
+But typically it was mothers or sisters that were using it.
+实际上有一些例子开始出现
+And there were actually examples starting to crop up
+年轻男孩越来越
+of young boys getting
+被促进乳芽发育
+accelerated breast bud development
+从与使用月见草油的女性皮肤接触中被促进
+from skin contact with women were using Evening Primrose Oil.
+所以月见草油是
+So Evening Primrose Oil is
+化学上很像雌激素
+chemically a lot like estrogen
+而且它有很多雌激素化合物
+and it has a lot of estrogenic compounds.
+有很多这样的物质
+There are a number of things out there like this.
+因此  信不信由你  像松花粉
+So believe it or not things like pine pollen
+在结构上看起来非常像睾丸激素
+look very much like testosterone structurally.
+它们或多或少就是睾丸激素
+They are more or less are testosterone.
+它们在人体中的生物利用度还不清楚
+Their bioavailability in humans isn't as clear.
+月见草油有很多雌激素的组成结构
+Evening Primrose Oil has a lot of estrogenic elements to it
+只是从组成结构上来看
+Just structurally how it's built.
+因此  在某些情况下  男孩是
+And so there were cases where boys were
+可以理解
+understandably you know,
+被他们妈妈拥抱
+being hugged by their mom
+甚至喜欢洗澡和服用
+or maybe even like showering and taking.
+使用月见草油
+you know using the Evening Primrose Oil solution.
+这些东西实际上会改变雌激素的水平
+Those things will actually change levels of estrogens
+男孩和女孩身上都会这样
+in boys and girls.
+因此  这不仅是年轻男孩的问题
+And so this wasn't just an issue for young boys.
+对于年轻女孩来说  这也是一个问题
+This is also an issue for young girls.
+所以不是说月见草油不好
+So it's not that Evening Primrose Oil is bad,
+只是你们中的许多人可能听说过
+it's just that many of you have probably heard
+关于大豆异黄酮的危害
+about the dangers of Soy Isoflavones
+诸如此类的事情
+and things like that.
+大豆对雌激素水平的影响是
+The impact of soy on estrogen levels is,
+有一些体面的证据可以证明这一点
+there are some decent evidence to support that.
+但是  还有很多其他因素
+However, there's a lot of other factors
+那更严重
+that are more severe.
+其中之一就是月见草油
+And one of those is this Evening Primrose Oil.
+所以不管年龄
+So regardless of age,
+让我们这样说吧
+let's just put it this way
+因为人们可能想让自己的激素
+because people might be wanting to drive their
+有更多雌激素或更多的雄激素
+hormones more estrogenic or more androgenic.
+我也不知道你的偏好是什么
+How could I know which what your preference is?
+我不知道
+I don't know.
+但是无论如何
+But in any case,
+像月见草油这样的东西实际上可以
+things like pre Evening Primrose Oil can actually
+促进体内的雌激素通路
+promote estrogenic pathways in the body
+其中一些可以透过皮肤
+and some of it can go transdermal.
+同样  因为睾丸激素替代疗法
+Likewise, because testosterone replacement therapy
+如今相当普遍
+is fairly widespread nowadays.
+有些人通过涂抹面霜来达到目的
+And some people accomplish that through cream.
+众所周知
+It's pretty well understood that,
+如果有人正在尝试睾丸激素替代疗法  他们会避免
+if someone's taking that they want to avoid contact
+和任何人
+with anyone.
+避免皮肤接触
+Skin contact with anyone that is trying to promote
+避免与那些体内雌激素活性更高的人的接触
+more estrogenic activity in their body.
+尤其是在儿童中
+And especially in children.
+那是一个
+So that's one.
+另一个是这个环境因素问题
+The other is this issue of environmental factors.
+现在  你知道
+Now this, you know,
+我再次强调
+again I'm just going to highlight,
+当人们开始谈论环境因素时
+when one starts talking about environmental factors
+以及他们如何毒害我们或破坏增长
+and how they're poisoning us or disrupting growth
+或生育率
+or fertility rates
+它可能开始听起来有点疯狂
+it can start to sound a little bit crazy.
+除非你真正开始看
+Except when you start to actually look at
+一些真实的数据
+some of the real data,
+来自高质量研究实验室的数据
+Data from quality research labs funded by
+由联邦政府资助
+Federal government funded,
+并非来自私人公司或其他来源
+not from companies or other sources,
+真正旨在理解
+that are really aimed at understanding
+潜在的生物学是什么
+what the underlying biology is.
+为此  我真的
+And for that I really,
+我们都应该感谢加州大学伯克利分校的Tyrone Hayes
+we should all be grateful to Tyrone Hayes at UC Berkeley.
+我记得当我研究生的时候
+I remember way back when I was a graduate student
+在九十年代后期  天哪  在加州大学伯克利分校
+in the late nineties, goodness. at UC Berkeley.
+我记得他  他在研究青蛙
+And I remember him, he was studying frogs.
+他在谈论这些青蛙的发育缺陷
+He was talking about developmental defects in these frogs
+住在周围的不同水域
+that live in different waters around
+在加利福尼亚  在其他地方也有
+it was California, but also elsewhere.
+他发现了一种物质
+And he identified a substance,
+在很多水道中都存在
+which is present in a lot of waterways
+遍及这个国家和其他国家
+throughout this country and other countries.
+因此  美国及其他地区
+So US and beyond.
+当然不仅限于加利福尼亚
+Certainly not just restricted to California,
+是阿特拉津
+which is atrazine.
+ATRAZINE
+This is A-T-R-A-Z-I-N-E.
+同样  这是教科书的内容
+Again, this is the stuff of textbooks.
+它会导致严重的睾丸畸形
+And it causes severe testicular malformations.
+同样  接触阿特拉津的后果是严重的
+So again, atrazine exposure is serious.
+有趣的是  如果你查看数据
+And what's interesting is if you look at the data,
+你发现的是
+what you find is that
+在西部和中西部地区的地点
+at sites in Western and Midwestern sections
+美国有10％到92％的雄性青蛙
+of the United States 10 to 92% of male frogs.
+这些是青蛙
+These were frogs mind you,
+有睾丸异常
+had testicular abnormalities.
+和最严重的睾丸畸形
+And the most severe testicular malformations
+是在睾丸而不是在精子中
+were in the testes rather than in the sperm.
+所以实际上是器官本身  性腺本身
+So it's actually the organ itself, the gonad itself.
+现在大家都知道
+Now it's very well known now
+阿特拉津存在于许多除草剂中
+that atrazine is in many herbicides.
+所以你知道  而我会说
+And so you know, whereas I would say in
+80年代和90年代的讨论
+the 80's and 90's the discussion around
+除草剂及其负面影响
+herbicides and their negative effects
+被认为有点像嬉皮士的东西
+was considered kind of like hippy-dippy stuff
+或你在以下地方听到的东西
+or the stuff you hear about at
+你知道  你当地的社区市场
+you know, your local community markets
+以及这些新时代的社区
+and these kind of new age communities.
+现在有非常可靠的数据
+Now there's very solid data,
+来自主要大学的联邦资助实验室
+from Federally funded labs at major universities
+经过同行评审和发布的
+that have been peer reviewed and published
+在优秀的期刊中
+in excellent journals,
+表明确实有许多除草剂
+showing that indeed many of these herbicides
+会产生负面影响
+can have negative effects,
+主要是通过影响这些激素的比例
+primarily by impacting the ratios of these hormones
+在母亲或睾丸中
+in either the mothers or in the testes,
+改变父亲的睾丸
+altering the testes of the fathers
+或对发育中的小动物有直接影响
+or direct effects on developing young animals
+甚至可能是人类
+and potentially humans.
+然后你问：“好吧  人类呢？
+And so you ask, "Well, what about humans?
+青蛙可以  但人类呢？”
+Frogs are wonderful, but what about humans?"
+所以这是正在发生的事情的数据
+So here are the data on what's happening
+而且这还不是全部令人恐惧的东西
+and this isn't all going to be scary stuff.
+我们还将谈论
+We're also going to talk about
+改善和抵消其中一些影响的工具
+tools to ameliorate and offset some of these effects.
+一个会是
+One would be,
+对月见草要谨慎
+be cautious with Evening Primrose
+以及睾丸激素面霜
+as well as testosterone creams,
+取决于你是否想更多
+depending on whether or not you want to be more
+雄激素或雌激素
+androgenic or estrogenic
+根据你的需求
+depending on your needs.
+但是在整个人口中
+But across human populations,
+精子数量确实在下降  好吗？
+sperm counts are indeed declining, okay?
+因此  在1940年
+So in 1940, the average,
+人类精子的平均密度为
+the average density of human sperm was
+每毫升精液1.13亿个
+113 million per milliliter of semen.
+这就是它的测量方式
+That's how it's measured.
+每毫升精液多少精子
+How many sperm per milliliter of semen.
+在1990年  这一数字下降到6600万
+In 1990 this figure has dropped to 66.
+所以是从每毫升1.13亿减少到
+So it went from 113 million per milliliter
+到每毫升6600万
+to 66 million per milliliter
+在美国和西欧
+in the United States and Western Europe.
+因此  这不仅仅是美国的事情
+So this is not just a US thing.
+研究人员还估计
+Researchers also estimated that
+男人产生的精液量
+the volume of semen produced by men
+在那段时间下降了20％
+has dropped 20% in that time,
+减少了每一代的精子数量
+reduced sperm count per generation even further.
+因此  在1981年和1991年之间
+So between 1981 and 1991,
+正常精子发生率
+the ratio of normal spermatogenesis
+从56.4％降至26.9％
+has decreased from 56.4% to 26.9%.
+所以发生了很多事
+So there's a lot that's happening
+主要是因为这些被广泛使用的除草剂
+primarily because of these herbicides
+减少精子数量
+that are in widespread use to reduce sperm counts.
+这些将产生深远的影响
+And these are going to have profound effects
+不只是在精子方面
+not just on sperm counts,
+还有在成长中
+but on development,
+生理性方面的成长
+sexual development at the level of
+性腺和大脑
+the gonads and the brain.
+因为你需要睾丸激素才能
+Because you need testosterone to get
+通过二氢睾丸激素得到主要性特征
+dihydrotestosterone for primary sexual characteristics.
+你需要来自睾丸激素的雌激素
+You need estrogen that's come from testosterone
+来男性化大脑
+to masculinize the brain.
+而且当然
+And of course,
+我们不仅专注于精子和睾丸激素
+we're not just focusing on sperm and testosterone.
+你当然也知道
+You of course also know
+这些除草剂中的许多正在破坏
+that many of these herbicides are disrupting
+雌激素以类似的方式
+estrogens in a similar way.
+或者导致雌激素过多  不好意思
+Or are leading to hyper estrogenic, excuse me,
+可以解释的原因是
+states which might explain why
+现在  青春期发生得越来越糟早
+puberty is happening so much earlier
+在年轻女孩中
+in young girls these days.
+因此  发生了很多事情
+So there are a lot of things that are happening.
+现在这是否意味着你必须四处奔波
+Now does this mean that you have to run around
+并且从神经学上避免任何包括
+and neurotically avoid anything that includes
+像阿特拉津这样的东西  你应该避免吗
+things like atrazine and should you be avoiding
+各种除草剂？
+all kinds of herbicides?
+我不知道这取决于你
+I don't know that's up to you.
+但是看来这些确实具有明显的不良效果
+But it does seem that these have pretty marked effects,
+在动物研究和人类研究中都一样
+in both the animal studies and in the human studies.
+你知道  你可以像这样打开一本教科书
+You know, you can open up a textbook like
+内分泌学教科书
+the endocrinology textbook
+并找到Vinclozolin之类的东西
+and find things like Vinclozolin.
+温氯唑林
+V-I-N-C-L-O-Z-O-L-I-N,
+这是一种杀菌剂  它是一种抗雄激素药
+which is a fungicide and it's an anti-androgen.
+你把它给动物  给老鼠
+You give it to animals, to rats.
+它们不会形成阴茎
+And instead of forming a penis, they don't form a penis.
+不是说会形成阴蒂
+They basically, it's not that they form a clitoris,
+他们只是不形成阴茎
+they just don't form a penis.
+然后  让我们谈谈女性的性发育成长
+So let's talk about female sexual development.
+和往常一样  我们要做的是
+And as always what we'll do is,
+我们将讨论正常的生物学
+we'll talk about the normal biology.
+然后我们再谈一点
+Then we'll talk a little bit about
+一组非同寻常或不寻常的情况
+a kind of extraordinary or unusual set of cases,
+但是我们将谈论它们  因为
+but we'll talk about them because
+他们说明了一个重要的原则
+they illustrate an important principle
+关于在典型情况下的物质作用方式
+about how things work under typical circumstances.
+所以有一个突变叫做
+So there is a mutation called
+雄激素不敏感综合征
+androgen insensitivity syndrome.
+并了解雄激素不敏感综合征的工作原理
+And understanding how androgen insensitivity syndrome works
+可以帮助你真正了解
+can help you really understand how hormones
+激素影响性发育
+impact sexual development.
+这就是它的工作原理
+So here's how it works.
+有些XY的人
+There are individuals who are XY,
+他们有一个Y染色体
+so they have a Y chromosome,
+他们会产生睾丸激素
+that are born that make testosterone.
+他们有睾丸  没有副中肾管
+They have testes and they don't have Mullerian Ducts
+因为在Y染色体上是这个
+because on the Y chromosome is this
+有苗勒抑制激素
+Mullerian inhibiting hormone.
+但是  这些人看起来完全是女性
+However, these individuals look completely female.
+总体而言  他们表示感觉
+And in general, they report feeling
+年轻时  就是女孩
+like girls when they're young,
+当他们长大后  就是女人
+women when they're older.
+但是有一些不寻常的东西
+But there's something unusual
+在这些人身体里正在发生
+that's happening in these individuals
+因为他们具有XY染色体类型而不是XX
+because they have an XY chromosomal type and not XX.
+那是怎么回事？
+So what's happening?
+好吧  事情是
+Well what's happening is
+睾丸在制造睾丸激素
+the testes are making testosterone,
+但睾丸激素的受体发生了突变
+but the receptor for testosterone is mutated.
+因此  睾丸永不下降
+And therefore the testes never descend.
+他们没有卵巢  他们有睾丸
+They don't have ovaries, they have testes
+但是睾丸是在身体内部的
+but the testes are internal.
+因此  通常这些人会发现
+And so typically these individuals find out
+他们实际上是XY染色体
+that they are actually XY chromosomes.
+众所周知  他们的染色体性别是男性
+so that you know, their chromosomal sex is male.
+如果你想这么定义的话
+If you will.
+他们的生殖腺性别是男性
+And their gonadal sex is male,
+但是性腺  睾丸在体内
+but the gonads, the testes are inside the body.
+他们实际上并没有发育出阴囊
+They don't actually develop a scrotum.
+他们没有卵巢
+They don't make ovaries.
+当他们在青春期前后不来月经时
+And when they don't menstruate around the time of puberty
+这标志着有些不同
+that's a sign that something is different.
+因此  他们绝不会在青春期来月经
+And so they never menstruate around puberty.
+如果他们对此进行足够深入的研究
+And if they look into this deeply enough,
+你会发现他们实际上是XY
+what you find is that they are actually XY.
+他们制造睾丸激素
+They make testosterone
+但是他们的身体不能利用睾丸激素
+but their body can't make use of the testosterone
+因为他们没有受体
+because they don't have the receptors.
+受体对于某些人来说至关重要
+And the receptors are vitally important for some,
+对于大多数的第二性征
+for most all of the secondary sexual characteristics
+我们谈论过的
+that we talked about.
+青春期等期间的体毛  阴茎生长
+Body hair, penis growth during puberty et cetera.
+他们作为女性过着幸福的生活
+They live fairly happy lives as females.
+尽管他们当然不能受孕  对吗？
+Although of course they can't conceive, right?
+他们没有子宫  他们没有卵巢
+They don't have a uterus, they don't have ovaries.
+他们一般也不会产生精子
+They also in general, don't produce sperm
+数量不足以使他们
+in quantities enough that they could actually
+与其他人一起繁殖
+reproduce with somebody else,
+尽管有时他们可以
+although sometimes they can.
+信不信由你
+And believe it or not,
+而且我不会说名字
+and I'm not going to name names
+但实际上有记录表明有几个人
+but there are actually reports of several people,
+整个历史上相当杰出的人
+fairly prominent people throughout history
+患有这种雄激素不敏感综合征的人
+who have had this androgen insensitivity syndrome
+或人们怀疑他们有
+or people suspected they did.
+不说名字的原因是
+And the reason to not name names is that,
+它会直接关系到一个关键问题
+it gets right to the heart of whether or not
+他们是男性还是女性
+they are male or female.
+你怎么说呢？
+How could you say right?
+他们有XY染色体
+They have XY chromosomes
+但性腺中有睾丸
+but gonadally they have testes that are inside.
+但是  如果你看着他们的身体
+And yet, if you looked at their bodies
+如果你看着他们的脸
+if you looked at their faces,
+你几乎可以肯定地说
+you would say almost with certainty
+他们外貌就是女性
+that they appeared female.
+那自然发生的实验
+And that naturally occurring experiment,
+指出一个事实
+points to the fact that
+出现在体内的睾丸激素
+testosterone that shows up in the body
+并影响事物的受体水平
+and impacts the things that the levels of the receptor
+对表型有深远的影响
+has a profound effect on phenotype.
+在外部或身体上
+On the external or body plan.
+再说一次  我们正在谈论这个
+So again, we're talking about this
+为了说明原理
+in order to illustrate the principle that
+为了产生效果
+in order to have its effects,
+激素并不仅需要存在
+a hormone doesn't just have to be present.
+该激素实际上必须能够结合其受体
+That hormone actually has to be able to bind its receptor
+对目标细胞采取行动
+and take action on the target cells.
+再一次  我将仅列举以下示例
+And once again, I'll just throw out the example of
+人们在使用运动表现增强药物
+where people are using performance enhancing drugs.
+尽管这是一个相当广泛的声明
+Although that's a pretty broad statement,
+如今  有阵风很大
+nowadays there's a lot of excitement about
+所谓的SARM
+the so-called SARMs.
+就是有更多的受体
+Who are more on the receptor side.
+因此  我们将在以后的内容中讨论这一点
+And so we'll talk about this in a future episode.
+我只是说这是一个预告片  因为
+And I just say that as a teaser because
+SARM和现在正在发生的事情
+the SARMs and what's happening right now
+在提高运动表现方面
+in augmenting sports performance,
+两者都直接与睾丸激素
+both with testosterone directly
+还有睾丸激素衍生物有关
+but also testosterone derivatives
+然后也改变了
+and then also altering things at
+受体的水平  非常有趣
+the level of the receptor is exceedingly interesting
+并向我们​​揭示了许多方式
+and is revealing to us the many ways in which
+激素会影响大脑和身体
+hormones can impact brain and body.
+以我们不怀疑的方式
+In ways that we didn't suspect.
+也许是最简单的理解方式
+Perhaps the simplest way to understand
+雌激素和睾丸激素如何影响
+how estrogen and testosterone impact
+大脑和行为的男性化或女性化
+masculinization or feminization of the brain and behavior
+来自声明
+is from a statement.
+它实际上是摘要的结束语
+It's actually the closing sentence of an abstract
+我的同事Neuronal Shaw
+that my colleague Neuronal Shaw
+在斯坦福医学院出版
+at Stanford school of medicine published.
+“雌激素...”
+Which is that estrogen,
+再次说明  是从睾丸激素芳香化的雌激素
+again it's estrogen that is aromatized from testosterone
+通过芳香化酶
+by aromatase,
+“设定男性化的性能力
+sets up the masculine repertoire of sexual,
+以及动物和人类的领土行为”
+and in animals and in humans, territorial behaviors.
+因此  它建立了大脑中的通路
+So it sets up the circuitry in the brain.
+雌激素做到的这一点
+Estrogen does that.
+雌激素在大脑中建立男性化通路
+Estrogen sets up the masculine circuitry in the brain
+然后“睾丸激素是控制
+and testosterone is then what controls
+在成人的生活中去展示这些行为”
+the display of those behaviors later in life.
+我发现这非常有趣
+And I find that incredibly interesting.
+你会以为那只是睾丸激素
+You would think it was just testosterone
+做了一件事而雌激素做了另一件事
+did one thing and estrogen did another,
+但事实证明  大自然是
+but it turns out that nature is
+比这有趣得多
+far more interesting than that.
+好吧  那么哪些因素会影响性发育
+Okay, so what are some things that impact sexual development
+生命的早期和生命的晚期
+early in life and later in life.
+让我们谈谈大麻
+Let's talk about cannabis.
+让我们谈谈酒
+Let's talk about alcohol
+我还挺敢说  我们会谈谈手机
+and dare I say let's talk about cell phones.
+我从没想过会做的事
+Something that I never thought I would ever do,
+在这个播客中或在教室中
+either in this podcast or in the classroom.
+但是  这些天确实有有趣的数据
+But, these days there are really interesting data.
+而且我认为你应该意识到它们
+And I think you should be aware of them.
+首先  大麻  大麻  THC
+First of all, cannabis, marijuana, THC.
+我意识到现在有很多不同的
+I realize that there are now a lot of different
+差异在此
+variance it's on this.
+有很多不同种类的大麻
+There are a lot of different strains of cannabis.
+我个人不是抽烟的人
+I personally am not a pot smoker.
+只是不适合我
+It's just not for me.
+我说的不是道德或法律上的准则
+I'm not talking about the moral or legal implications,
+在某些国家  它已被取消了刑事定罪
+in some States it's decriminalized,
+在其他地方  这是非法的
+in other places it's really illegal
+在其他地方  这基本上是合法的
+and other places it's basically legal.
+你要检查一下
+You have to check,
+自己住的地方  并了解法律
+you know where you live and understand the laws.
+但这里先不提了
+That's not what this is about.
+但是我们知道的是
+What we do know however,
+除了一项研究
+is that with the exception of one study
+有很多研究指出了这一事实
+there are many studies that point to the fact
+大麻中的四氢大麻酚和其他物质
+that THC and other things in cannabis
+促进芳香化酶活性的显着提高
+promote significant increases in aromatase activity.
+抽烟的人应该不会喜欢这样的结论
+Now pot smokers aren't going to like this,
+尤其是男性抽烟的人不会喜欢这样的结论
+especially male pot smokers aren't going to like this
+但这是现实
+but it's the reality.
+记住  你现在听到的背景声音
+Remember, what you're hearing in the background
+是Costello在打呼噜
+is Costello snoring really loud?
+要让他入镜吗？
+Should we put them on screen?
+他不是吸大麻的人  但是你可以想象为什么
+He's not a cannabis smoker, but you can imagine why.
+过来这里
+Come here Costello.
+来这里哥们  来这里
+Come here buddy, come here.
+他睡着了
+He's asleep.
+过来
+Come here.
+走你
+there you go.
+这只狗绝对不需要大麻
+This dog definitely does not need cannabis.
+这是他在大多数情况下的状态
+This is his state for most of the time.
+他经常……
+He is highly...
+哦  他还在睡觉
+Oh he's asleep still.
+有些观众要求看一下Costello
+So some of you have asked to see Costello
+如果你只是在听音频
+if you're just listening on audio,
+哦  好吧
+Oh, okay.
+让他重新回去睡觉
+We're going to let him get back to sleep.
+他一直在这里
+He's always here,
+有些人想要见他
+some of you have asked to see him.
+Costello也不是抽烟的狗狗
+Costello's not a pot smoker either.
+他确实有一个狗保姆
+He did have a dog sitter that
+多年前是抽烟的人
+was a pot smoker years ago.
+那是他最喜欢的狗保姆  但是
+It was his favorite dog sitter but,
+我不是抽烟的人
+I'm not a pot smoker.
+同样  没有任何评判
+Again, no judgment.
+但是  是这样的
+But here's the deal.
+大麻
+That cannabis,
+目前尚不清楚是否是THC本身
+and it's not clear if it's THC itself
+或大麻植物中的其他元素
+or other elements in the marijuana plant,
+会促进芳香化酶活性
+promote aromatase activity.
+现在  这已经被有趣地观察到了
+Now, this has been observed anecdotally
+抽烟的人的身上发生
+where pot smokers have a higher incidence of developing
+男性乳房发育症几率更高  之前提到过的
+something I mentioned before gynecomastia,
+乳房芽发育
+breast bud development.
+或男性成熟的乳房发育
+Or full-blown breast development in males.
+可能有些女性想要增加
+There may be some women who want to increase
+她们的雌激素活性
+their estrogenic activity.
+记住女性会制造睾丸激素
+Remember females make testosterone.
+它来自肾上腺  对吗？
+It comes from the adrenals, right?
+她们没有睾丸
+They don't have testes.
+所以它来自肾上腺
+So it comes from the adrenals
+而且睾丸激素也可以被芳香化
+and that testosterone can also be aromatized.
+虽然通常
+Although typically
+我们所指的大多数芳香化酶活性
+most of the aromatase activity that we're referring to
+在这些例子中是男性
+in these examples is in males.
+因此  睾丸激素可以增加雌激素活性
+So testosterone can increase estrogenic activity.
+所以你可能会说：“哦  你知道  因此
+So you might say, "Oh you know, therefore
+睾丸激素会减少性行为吗？
+does testosterone reduce sexual behavior?
+它会创造各种各样
+Does it create all sorts of things
+与睾丸激素水平低有关的症状吗？”
+that are related to low testosterone?"
+不一定  不一定
+Not necessarily, not necessarily.
+我讲一下为什么
+And here's why,
+(Costello呼噜声)
+雌激素本身在男性和女性中
+estrogen itself in males and females
+对于性欲和性行为之类的东西很重要
+is important for things like libido and sexual behavior.
+我将重复一遍
+I'm going to repeat that.
+如果男性的雌激素过低
+If estrogen is too low in males,
+它实际上可以抑制性欲和性行为
+it can actually inhibit libido and sexual behavior.
+因此  你不希望雌激素过高或过低
+So you don't want estrogen too high or too low.
+无论你是男性还是女性
+Whether or not you're male or female.
+现在当然是女性
+Now of course in females,
+雌激素水平往往高于男性
+estrogen levels tend to be higher than in males.
+我在这里说的很笼统
+I'm speaking very generally here.
+你只要回想一下染色体性别即可
+You just think back to the chromosomal sex.
+那就是我指的是XX  和XY
+That's what I'm referring to
+是我说的男女
+when I say male or female,
+虽然那里当然有细微差别
+although there's nuance there of course.
+在女性中  来自肾上腺的睾丸激素
+In females, the testosterone that comes from the adrenals
+对性欲和繁殖欲望有强大的影响
+has a powerful effect on libido and desire to reproduce.
+在下一集中
+And in the next episode,
+我们将讨论它是如何工作的
+we're going to talk about how that works
+及其与节育的关系
+and its relationship to birth control,
+它与更年期的关系
+its relationship to menopause.
+我们还将讨论如何
+We're also going to talk about how that
+整个事情也适用于男性
+whole thing works in males as well.
+但是大麻和大麻植物的其他方面
+But cannabis and other aspects of the marijuana plant
+会影响睾丸激素和雌激素的水平
+can impact levels of testosterone and estrogen
+通过增加芳香化酶
+by increasing aromatase.
+因此  人们应该意识到这一点
+And so people should be aware of that.
+同样  有很好的数据
+As well, there are good data.
+我可以在PubMed上找到几项研究
+I was able to find several studies on PubMed,
+指出一个事实
+pointing to the fact that
+怀孕期间抽大麻可以
+smoking marijuana during pregnancy can
+改变发育中胎儿的激素模式
+shift the pattern of hormones in the developing fetus,
+这样可以促进胎儿体内更多的雌激素
+such that it promotes more estrogenic outcomes.
+刚才我说
+Now earlier I said that
+男性体内的雌激素是导致男性化大脑的原因
+estrogen is what masculinized is the male brain,
+在子宫内  也是这样
+in utero that's true,
+但是大麻似乎起作用的方式
+but the way that cannabis seems to work,
+至少从研究中我能够确定的是
+at least from the studies I was able to identify is that
+它促进体内循环雌激素
+it promotes circulating estrogen in the body
+因此可以抵消
+and therefore can counteract
+一些男性化物质
+some of the masculinizing effects of
+像睾丸激素和二氢睾丸激素
+things like testosterone and dihydrotestosterone,
+在主要和次要性特征上
+on primary and secondary sexual characteristics.
+所以我提到这个是因为
+So I mention this because,
+你知道我认为当今大麻的使用
+you know I think nowadays marijuana use
+更为广泛
+is far more widespread
+当然在青春期
+and certainly during puberty
+它会对这些荷尔蒙系统产生深远的影响
+it can have profound effects on these hormonal systems.
+因此  我们将进行另一集
+And so we'll do another episode,
+会很深入地探究
+that goes really deep into this.
+但是  是的  大麻促进了雌激素活性
+But yes, cannabis promotes estrogenic activity
+通过增加芳香化酶
+by increasing aromatase.
+几乎每个人都可以体会到
+Almost everyone can appreciate that
+在怀孕期间喝酒
+drinking during pregnancy,
+对发育中的胎儿不利
+is not good for the developing fetus.
+胎儿酒精综合症是公认的
+Fetal alcohol syndrome is a well-established
+怀孕的负面影响
+negative outcome of pregnancy.
+这是
+And it's something that
+有些胎儿有很糟糕的认知能力
+there are cognitive effects that are really bad.
+有身体畸形  等等
+There's actually physical malformation, et cetera.
+所以怀孕期间喝酒  不好
+So drinking during pregnancy, not good.
+青春期饮酒  可能也不好
+Probably drinking during puberty, not good either.
+因为酒精  尤其是啤酒
+Because alcohol, in particular certain things like beer
+其他谷物醇可以增加雌激素活性
+but other grain alcohols can increase estrogenic activity.
+这不只是保护年轻男孩
+Now, this isn't just about protecting
+ 不受雌激素活动影响
+young boys from estrogenic activity.
+它也保护女孩免受
+It's also protecting girls from
+酒精摄入导致雌激素过多或过少的危险
+excessive or even hypo estrogenic effects of alcohol
+在青春期
+in puberty.
+现在  许多青少年喝酒
+Now, many teenagers drink.
+大学生喝酒
+College students drink
+重要的是要指出
+and it's important to point out that
+青春期不是某一天开始的  然后某一天结束的
+puberty doesn't start on one day and end on another day,
+青春期有开始  中期  结束
+puberty has a beginning a middle and an end,
+但是发育确实是跨越我们的整个生命
+but development is really our entire lifespan.
+这个想法
+This idea that you know,
+青春期就是这样开启和关闭的
+puberty you know has this open and close.
+那是错误的
+That's just false.
+好吧  所以我们谈到了大麻
+Okay, so we talked about cannabis.
+我们谈到了酒精
+We talked about alcohol.
+让我们谈谈手机
+Let's talk about cell phones.
+首先  我用手机
+First of all, I use a cell phone.
+我经常使用它
+I use it very often.
+而且我不认为它们是邪恶的设备
+And I do not think they are evil devices.
+我认为使用它们需要一些纪律
+I think that they require some discipline
+为了确保
+in order to make sure that
+它不会成为一个人生活中的消极力量
+it does not become a negative force in one's life.
+所以我个人限制时间
+So I personally restrict the number of hours
+使用手机的时间  特别是在社交媒体上
+that I'm on the phone and in particular on social media.
+我只在一天的特定时间回复电子邮件
+I only answer email at particular times of day.
+但是手机本身呢？
+But what about the cell phone itself?
+你知道  当我还是一名初级教授时
+You know, when I was a junior professor.
+任职初期的教授
+I was a pre-tenure early professor.
+我教过
+I taught this class on
+“健康和疾病中的神经回路” 在这堂课
+neural circuits in health and disease.
+一位学生问我
+And one of the students asked me,
+手机对大脑安全吗？
+you know are cell phones safe for the brain?
+而且  所有数据
+And you know, all the data
+指出了事实  它们是安全的
+point to the fact that they were.
+或至少没有数据表明它们不安全
+Or at least there were no data showing that it wasn't.
+坦白说  我仍然没有答案
+I still don't have the answer on that, frankly.
+我对此没有很多研究
+I don't see a lot of studies about it.
+我个人不知道任何证据
+I'm not personally aware of any evidence
+在高质量的同行评审研究中
+in quality peer reviewed studies
+表明手机对大脑有害
+showing that cell phones are bad for the brain
+或将手机放在耳朵上不好
+or that holding the phone to the ear is bad
+或蓝牙对大脑不好或任何有害影响
+or that Bluetooth is bad or any of that.
+我只是不知道任何质量研究
+I'm just not aware of any quality studies.
+如果你知道什么高质量研究  同行评审研究
+If you are aware of quality studies, peer reviewed study
+请给我们一个链接  并在评论部分中加上它们
+please reference them, put them in the comment section.
+将它们发送给我  用你喜欢的方式
+Send them to me, however you like.
+我很想看到他们
+I'd love to see them.
+我不知道他们
+I'm not aware of them.
+但是  我很感兴趣
+However, I was very interested
+在特定的研究中
+in a particular study
+于2013年发表  在老鼠身上研究
+that was published back in 2013 on rats.
+基本上是拿手机
+It was basically took a cell phone
+放在老鼠笼子里
+and put it under a cage of rats
+基本上看了大鼠的
+and looked at basically testicular
+睾丸和卵巢发育
+and ovarian development in rats and saw
+轻微但仍具有统计意义
+minor but still statistically significant defects
+卵巢和睾丸发育有缺陷
+in ovarian and testicular development.
+既然这样  回到文献上
+Since then and now returning to the literature,
+我已经看到了这方面文献数量的大爆发
+I've seen a absolute explosion of studies.
+其中一些是优质期刊
+Some of which are in quality journals,
+其中一些是我所说的
+some of which are in what I would call
+非蓝丝带期刊
+not to blue ribbon journals.
+都声称  仅暴露于手机发出的电波
+Identifying defects in testicular and or ovarian development
+睾丸和/或卵巢发育中会造成缺陷
+by mere exposure to cell phone emitted waves.
+我们这样称呼
+Let's just call that,
+我们不知道这电波到底是什么
+we don't know what they are.
+这听起来简直太疯狂了  对吧？
+And this sounds almost crazy, right?
+每当有人开始谈论
+Anytime somebody starts talking about
+EMS之类的东西
+EMS and things like that,
+你有点担心  这个人还好吗？
+you kind of worry like, is this person okay?
+但请看  文献指向的方向是
+But look, the literature are pointing in a direction where
+性腺长期暴露在手机下
+chronic exposure of the gonads
+可能会造成严重的问题
+to cell phones could be creating serious issues
+在细胞水平上的健康方面
+in terms of the health at the cellular level
+然后在输出方面
+and then in terms of the output.
+因此  睾丸的输出将是精子的生产
+So the output for the testes would be sperm production.
+精子游动速度
+Swimming speed in sperm
+是精子健康的重要特征
+is an important feature of sperm health.
+在卵巢中  这将是雌激素输出
+In the ovaries it would be estrogenic output.
+周期有多规律
+How regular the cycles are.
+所以在动物中
+So in animals,
+周期与人类略有不同
+the cycles are a little bit different than in humans.
+它们没有月经周期
+They don't have a menstrual cycle.
+它们有发情周期
+They have an estrous cycle,
+一般是四天左右
+which is a generally around four days.
+我认为这是根据文献说的
+I think that it's to say based on the literature,
+手机发出的电波
+that there are effects of cell phone emitted waves
+确实对性腺发育有影响
+on gonadal development.
+问题是
+The question is,
+手机到性腺的距离是多少？
+what is the proximity of the cell phone to the gonads?
+现在  当我观察文献时  阅读过的文献
+Now, I've taken the literature as I observe it.
+当然  我们会放在评论
+And that of course we'll point you to in the captions.
+而且我不喜欢把手机放在口袋里
+And I don't like to have my cell phone on and in my pocket,
+我已经过了青春期  但是
+I'm well past puberty, but nonetheless
+其中一些影响在成年动物中可见
+some of these effects were seen in adult animals.
+现在已经在人类中证明了某些作用
+There are effects now that have been demonstrated in humans.
+因此  让我们仅谈谈其中的几个影响
+So let's just talk about a couple of those effects.
+因此  一篇论文发表在《临床生物化学》杂志上
+So a paper published in the journal, "Clinical Biochemistry"
+来自S.Gander等
+from S. Gander et al.
+根据以下信息查看了人体内的激素谱
+Looked at hormone profiles in people based on
+与手机的距离和使用频率
+proximity to their phone and frequency of phone use,
+他们将手机存放在身体上的位置
+where they stored their phone on their body.
+以及他们住的地方附近
+Aa well as proximity of where they lived to,
+我猜他们被称为这些射频塔
+I guess they're called these radio-frequency towers.
+也就是基站
+So the base stations.
+他们观察了
+And they were looking at
+射频辐射RFR的影响
+effects of radio frequency radiation RFR
+在人类荷尔蒙方面的影响
+on human hormone profiles.
+结果显示出皮质醇显着降低
+And they show significant decreases in cortisol.
+你可能会说：“嗯  那可能很好”
+You might say, "Well, that might be good."
+因为你早上都会需要皮质醇的上升
+But you need that morning cortisol bump
+为了醒来
+in order to wake up.
+早上皮质醇很好
+Morning cortisol is good.
+而且甲状腺激素也明显减少
+But also thyroid hormones were significantly reduced.
+年轻女性的催乳素
+Prolactin in young females,
+那绝对很重要
+that's definitely concerning
+以及男性女性的睾丸激素水平
+and testosterone levels in males and females.
+因此  现在有很好的数据表明
+And so, there are now quite good data showing that
+如果一天太多时间都靠近手机
+being close to the phone too much of the day
+虽然“多近”也是一个有趣的问题
+and how close is an interesting question
+或住在这些基站附近
+or living near one of these base stations
+显然会对激素状况产生影响
+apparently can have effects on hormone profiles.
+当你看到这样的研究
+And when you see a study like this
+一个人应该总是问
+one should always ask,
+“嗯  还有什么其他事情
+"Well, what are the other things
+也会对这些激素产生影响吗？”
+that could also have effects on these hormone profiles?"
+对吧？因为你可以想象
+Right? Cause you could imagine that
+如果你进行相同的研究
+if you ran the same study
+生活在河道/水域附近的人
+of people that live close to a waterway,
+或靠近高速公路  那里有很多
+or close to a highway where there's a lot of
+公共汽车和汽车的废气
+exhaust from buses and cars,
+你可能会看到类似的效果
+you might see similar effects.
+所以你必须对这类研究
+So you have to take these sorts of studies
+要持怀疑态度
+with a grain of salt.
+但是我觉得这很有趣
+But I think it's very interesting.
+考虑到我上次调查这些数据
+And given that the last time I looked into these data
+当我还是初级教授的时候
+were way back when I was a junior professor
+我可以找到一两个研究
+and there was like one or two studies that I could find.
+其中一项研究指出
+One of the studies pointed to
+大鼠睾丸激素增加
+increases in testosterone in rats,
+大鼠们离这些
+where they were had close proximity to these
+射频辐射波很近
+radio-frequency radiation waves.
+然后在另一种情况下
+And then in the other case,
+又显示睾丸激素减少
+it showed decreases in testosterone.
+因此  确实没有任何结论可以借鉴
+So there really wasn't any conclusion to takeaway from that.
+但现在  有了大量数据
+Now, there's pretty impressive amount of data
+指出一个事实
+pointing to the fact that
+这些东西对激素有影响
+there are effects of these things on hormones.
+我不知道该怎么办
+I don't know what to do with that information.
+我不会停止使用手机  但是
+I'm not going to stop using my phone but,
+根据泰隆·海斯（Tyrone Hayes）等人的研究
+in light of the work from Tyrone Hayes and others looking at
+精子计数并观察精子数量的减少
+sperm counts and looking at the decrease in
+睾丸激素水平  精子数量和生育力
+testosterone levels and sperm counts and fertility
+在过去的20、30年中都有所下降
+over the last 20, 30 years,
+也许这是你知道的  不足为奇
+perhaps it's you know, not surprising.
+虽然
+Although there again,
+手机和智能手机的确
+cell phones and smartphones have really been
+主要在最近10或11年内使用量显著增多
+in prominent use mostly within the last 10 or 11 years.
+因此很难解释  所有这些下降
+And so it's hard to explain all of those declines
+是否完全是因为手机的使用
+simply on the basis of cell phone use.
+激素有一些有趣的作用
+There's some interesting effects of hormones
+实际上你可以在人的外部观察到
+that actually you can observe on the outside of people,
+告诉你一些有关
+that tell you something about
+不只是荷尔蒙水平
+not just their level of hormones,
+而且还涉及他们的潜在遗传学
+but also about their underlying genetics.
+这些都与胡须的生长和秃发有关
+And these relate to beard growth and baldness.
+而且令人着迷
+And it's fascinating.
+这个分子  二氢睾丸激素
+The molecule, the hormone dihydrotestosterone,
+由睾丸激素制成
+made from testosterone,
+是主要负责面部毛发的激素
+is the hormone primarily responsible for facial hair,
+留胡须
+for beard growth.
+这个分子
+As well, it's the molecule,
+也主要负责
+the hormone primarily responsible for
+头部缺少头发  是让人脱发的激素
+lack of hair on the head, for hair loss.
+那怎么运作的呢？
+So how does that work?
+好吧  DHT在体内循环
+Well, DHT circulates in the body
+它结合在脸上的DHT受体上
+and it binds to DHT receptors in the face
+促进毛发生长
+to promote hair growth.
+但它与头皮上的DHT受体结合
+But it binds to DHD receptors on the scalp
+促进脱发
+to promote hair loss.
+并非偶然
+Not incidentally,
+旨在防止脱发的药物
+the drugs that are designed to prevent hair loss
+是5-α-还原酶抑制剂
+are 5-alpha-reductase inhibitors.
+还记得Guevedoces的5-α-还原酶吗？
+So remember 5-alpha-reductase from the Guevedoces?
+好吧  发现Güevedoces的人
+Well, the people that discovered the Güevedoces,
+继续做了很多研究
+went on to do a lot of research
+在潜在的生物化学上
+on the underlying biochemistry
+研究这个真正有趣的分子  二氢睾丸激素
+of this really interesting molecule dihydrotestosterone.
+他们鉴定出5-α-还原酶
+They identified 5-alpha-reductase.
+和5-α-还原酶抑制剂
+and 5-alpha-reductase inhibitors
+是大多数
+are the basis of most of the
+防脱发治疗中含有的物质
+anti-hair loss treatments that are out there.
+因此  这里有一些有趣的事情
+And so there's some interesting things here.
+首先  副作用概况
+First of all, the side effect profiles
+这些脱发疗法中
+of those treatments for hair loss
+在许多人中都非常严重
+are quite severe in many individuals.
+记住DHT是主要的雄激素
+Remember DHT is the primary androgen
+用于性欲  用于加强结缔组织修复
+for libido, for strengthened connective tissue repair,
+侵略性
+for aggression.
+即使这种侵略固然可以制止
+Even if that aggression of course is held in check,
+但只是一种野心和侵略性
+but just sort of ambition and aggression
+与多巴胺有关
+is related to dopamine,
+但在睾丸激素通路中
+but within the testosterone pathway,
+虽然比睾丸激素少
+less so pure testosterone,
+虽然纯睾丸激素也有作用
+although pure testosterone has its effects.
+但是DHT存在于包括人类在内的灵长类动物中
+But DHT is, at least in primate species including humans,
+是大多数这类作用中占主导地位的雄激素
+is the dominant androgen for most of those sorts of effects.
+如果你看着某人
+And if you look at somebody,
+每个人都可以预测是否
+everyone can predict whether or not
+之后会秃顶
+they're going to go bald based on looking at their,
+我们总是说  看一下母亲的父亲
+we're always taught our mother's father.
+因此  如果你母亲的父亲是秃头
+So if your mother's father was bald,
+更有可能
+there's a higher probability that
+你要秃头了
+you're going to go bald.
+头皮上DHT受体的模式
+The pattern of DHT receptors on the scalp,
+会决定你是否会到处秃头
+will dictate whether or not you're going to go bald everywhere
+或者只是在前面或所谓的冠型脱发
+or just in the front or the so called crown type baldness.
+胡须的密度告诉你有关
+And the density of the beard tells you about
+DHT受体的密度
+the density of DHT receptors.
+现在  这随 遗传背景而变化
+Now this varies by background, by genetic background.
+实际上  在当今世界范围内
+And actually around the world nowadays,
+因为人们旅行和人们
+because people travel and people
+结成夫妻并有孩子
+form couples and have kids with
+许多不同文化背景的人
+so many different people of different mixed cultures.
+你正在看到这种现象开始消失
+You're seeing this starting to disappear.
+但是世界上有些地区
+But there are areas areas of the world
+在那里的所有男人
+where all the men seem to
+似乎都具有相同的脱发模式
+have the same pattern of baldness,
+就像中央的秃头一样
+like a strip of baldness down the center,
+头发仍然留在侧面  留着胡须
+with hair still on the sides and and full beards.
+这是因为DHT受体的这些模式
+That's because these patterns of DHT receptors
+是由基因决定的
+are genetically determined.
+在其他地方  睾丸激素水平仍然可能很高
+Elsewhere, testosterone levels can still be very high,
+血液中的DHT水平可能很高
+DHT levels in the blood can be very high
+但是人们的胡须会很稀或没有胡须
+and yet people will have very light beards or no beards.
+那是因为
+And that's because
+他们的脸上没有很多DHT受体
+they don't have a lot of DHT receptors in the face.
+在其他文化中
+And in still other cultures
+你会看到留着大胡子的人
+you'll see people with huge beard,
+超多胡须
+tons of beard.
+他们的胡须一直长到眼睛
+Their beards are growing all the way up to their eyes
+他们有一头巨大的头发
+and they have huge heads of hair.
+那是因为他们有很多
+And that's because they have a lot of
+DHT受体在脸上  头皮上就没有什么
+DHT receptors on the faceand not on the scalp.
+所以DHT有很多作用
+So there are a lot of effects of DHT
+你可以在男性表型中看到
+that you can just see in male phenotypes.
+有趣的是  这些脱发药
+And it's interesting that these hair loss drugs
+就是
+that are,
+或预防脱发的药物
+or to prevent hair loss drugs,
+直接旨在预防
+are directly aimed at preventing
+睾丸激素向二氢睾丸激素的转化
+the conversion of testosterone into dihydrotestosterone.
+这就是为什么他们在某种程度上可以防止脱发的原因
+And that's why they to some extent prevent hair loss,
+但在某种程度上也有
+but also to some extent have,
+与低DHT相关的一堆副作用
+a bunch of side effects that are associated with low DHT.
+沿着这些思路  有一个特殊的
+Along these lines there's a particular
+许多人使用的运动补充剂称为肌酸
+sports supplement that a lot of people use called Creatine.
+肌酸  现在有很多研究表明
+Creatine, now there's a lot of research showing that
+肌酸可以将更多的水带入肌肉
+Creatine can bring more more water into the muscle.
+它可以支撑力量
+It can support strength.
+它可以做很多其他事情
+It does a number of other things.
+甚至可能有一些重要的认知促进作用
+Might even have some important cognitive promoting.
+认知增强作用虽然轻微
+Cognitive enhancement effects, although mild.
+那里的研究表明它可能是有意义的
+The studies there show that it can be significant.
+有些人  并非都是轶事
+Some people, not all it's more anecdotal,
+报告肌酸促进脱发
+report that creatine promotes hair loss.
+它因人而异
+It differs by individual.
+对于某些人来说是的  对于其他人则不是
+For some people that's true, for others no.
+但是  确实出现了
+But yes it does appear,
+根据我在PubMed上找到的研究
+based on the studies I was able to find on PubMed,
+肌酸确实促进5-α-还原酶活性
+that creatine does promote 5-alpha-reductase activity
+因此  睾丸激素的转化
+and therefore the conversion of testosterone
+变成二氢睾丸激素
+into dihydrotestosterone.
+因此  它有可能促进
+And so it makes sense that it might promote
+一定程度的脱发  以及胡须的生长
+some degree of hair loss, as well as beard growth,
+以及DHT的其他效果
+as well as the other effects of DHT.
+我记得在初中和初中
+I recall in junior high school and middle school,
+一个夏天回家  那是七年级
+going home one Summer it was seventh grade,
+到八年级的暑假
+coming back in the eighth grade
+和一个小时候的朋友
+and a kid that I knew that I was friends with,
+上一次见他还是很小的小孩
+went from being like a young kid to,
+然后这次他就像个成年男子  留着胡须
+he was like a grown man, he had a full beard.
+这是惊人的
+It was amazing.
+他好像彻底改变了一样
+It was like he would completely transformed.
+正如我之前所说的  在青春期
+And in puberty as I've said before,
+无疑是我们将经历的
+is without a doubt the most accelerated
+最快速的发育速度
+rate of development that we will go through
+在我们生命中的任何时候
+at any point in our lives.
+就婴儿而言  甚至比婴儿期还快
+Even faster than infancy just in terms of the
+大量不同的认知变化
+huge number of different cognitive changes
+和身体的变化
+and physical changes.
+毫不奇怪  同一个人
+Not surprisingly that same individual
+他二十多岁时就已经快全秃完了
+was mostly or bald by his early twenties.
+那是因为他
+And that's because he must have had
+DHT的含量一定非常高
+just exceedingly high levels of DHT.
+我也跟这个孩子踢足球
+I also played soccer with this kid
+他基本上就特别轻松地绕过所有人
+and he was basically like dribbling past everybody.
+像个大男人
+It who was like a grown man,
+和一群小孩踢足球
+playing soccer with a bunch of little kids.
+20岁大胡须子  秃头
+Full beard you know, bald at 20.
+如此成熟的速度  衰老的速度
+And so the rate of maturation, the rate of aging
+非常有趣
+is very interesting.
+很难知道衰老的速度
+It's hard to know rate of aging.
+现在有一些基因测试
+There's some genetic tests that now
+可以让你做到这一点
+can allow you to do that.
+诸如Horvath Clocks之类的东西
+Things like Horvath Clocks and things of that sort.
+大卫·辛克莱尔（David Sinclair）在哈佛大学和其他学校的很棒的作品
+Beautiful work of David Sinclair at Harvard and others
+指出了这一点
+has pointed to this.
+进入和退出青春期的速度可能是
+The speed of entry and exit from puberty might be,
+这边只是个可能  假设
+I'm putting it out there as a hypothesis.
+可能是一个有趣的窗口
+Might be an interesting window,
+经历一个人有多快
+into how fast one is going through
+他们的衰老或发育弧线
+their aging or developmental arc.
+因为发育当然
+Because development of course,
+不只是从出生开始到青春期结束
+doesn't just start at birth and end after puberty.
+它延续了你的一生
+It continues your entire life.
+所以我认为这很有趣
+So I think it's interesting.
+你会经常看到人们  男孩和女孩
+You will often see that people, boys and girls.
+我应该说男孩或女孩
+I should say boys or girls,
+会发育出第二性征
+will develop secondary sexual characteristics
+以不同的速度
+at different rates.
+有时是顺序的
+And sometimes it's sequential.
+你知道你可能会看到一个孩子会
+You know you might see a kid will,
+她会长得很高
+she'll grow very tall
+或者突然长高
+or she'll have a big growth spurt,
+但随后乳房发育会稍晚一些
+but then breast development will come a little bit later.
+然后其他功能在之后发育出来
+And then other features will come a little bit later.
+你也可以在男孩中看到这一点
+You can also see this in boys.
+我之前提到的那个人
+The person that I referred to earlier,
+我的一个留满胡须的朋友  秃了头
+my friend that developed a full beard, you know, went bald.
+他也很有肌肉  他是一位很好的运动员
+He was also quite muscular, he was a great athlete.
+因此  他的青春期过得很快
+So he went through puberty exceedingly fast.
+其他人更慢地度过青春期
+Other people go through it more slowly.
+有些人会在14岁时进入青春期
+Some people will go through puberty at age 14,
+但是他们不会开始马上长胡须
+but they won't start to accumulate facial hair
+直到很多很多以后
+until much, much later.
+或者他们的声音会很早就改变
+Or their voice will change first, very early.
+然后他们却没有
+And then they won't get
+其他第二性征
+the other secondary sexual characteristics
+直到再过很久以后
+until much later.
+因此  我们真的不知道这将如何影响或联系
+And so, we don't really know how that impacts
+整体轨迹或衰老速率
+or relates to overall trajectory or rate of aging.
+但这是一件有趣的事情
+But it's an interesting thing to think about
+为我们每个人
+for each and every one of us.
+我跟大家说一个
+I'm going to offer you the opportunity
+你们可以做的实验
+to do an experiment today,
+在收听播客时
+while listening to the podcast.
+但是首先我想告诉你一个故事
+But first I want to tell you a story about
+鬣狗  职业棒球
+hyenas, professional baseball
+阴蒂是阴茎的大小
+and clitoris's the size of penises.
+当我在加州大学伯克利分校读研究生时
+So when I was a graduate student at UC Berkeley,
+我们系有一位教授
+we had a professor in our department,
+杰出的科学家史蒂夫·格里克曼（Steve Glickman）
+phenomenal scientist named Steve Glickman.
+史蒂夫·格里克曼（Steve Glickman）有鬣狗群落  斑点鬣狗
+Steve Glickman, had a colony of hyenas, spotted hyenas
+住在笼子里的笼子里
+that lived, within caged enclosures of course,
+在加州大学伯克利分校校园后面的蒂尔登公园
+in Tilden Park behind the UC Berkeley campus.
+机箱实际上仍然在那儿
+The enclosures are actually still there.
+我经常跑过去
+I run past there fairly often.
+鬣狗不再存在
+The hyenas are no longer there.
+这是一个联邦资助的实地调研站
+This was a Federally Funded field station.
+这些动物是从非洲带过来的
+These animals were brought over from Africa
+或在那里繁殖
+or were bred there.
+以及为什么是鬣狗在蒂尔登公园（Tilden Park）
+And the reason why they were hyenas in Tilden Park,
+封闭在蒂尔登公园
+enclosed in Tilden Park.
+是因为鬣狗表现出令人难以置信的身体功能
+Was because hyenas exhibit an incredible feature
+荷尔蒙和社会结构
+to their body, their hormones and their social structure.
+鬣狗与许多物种不同
+Hyenas, unlike many species,
+有生殖器的情况
+have a situation with their genitalia where
+雄性阴茎实际上
+the male penis is actually smaller
+比雌性的阴蒂更小
+than the female clitoris.
+我应该说  男性阴茎本身
+And I should say that the male penis itself,
+看过很多鬣狗的阴茎
+having seen a fair number of hyena penises,
+不是特别小
+is not particularly small.
+这意味着鬣狗的阴蒂非常大
+Which means that the hyena clitoris's are extremely large.
+这件事情在一段时间里很出名
+This was well known for some time.
+原来  在这些斑点鬣狗中
+It turns out that in these spotted hyenas
+女性占主导地位
+the females are dominant.
+所以在捕猎之后
+So after a kill
+雌性会先吃东西  然后是小孩
+the females will eat, then they're young will eat.
+最后  才是雄性鬣狗
+And then the male hyenas will eat.
+还有
+As well,
+当雌鬣狗生下时
+when the female hyena gives birth,
+她分娩不是通过阴道道
+she gives birth, not through the vaginal canal
+我们习以为常的分娩方法
+that we're accustomed to seeing,
+而是通过一个非常大的阴蒂状的阴茎
+but through a very enlarged clitoris's like phallus.
+尽管不是阴茎  但它是阴蒂
+Although it's not a phallus, it's a clitoris.
+它就直接分裂开
+And it literally splits open.
+如此众多的胎儿在分娩过程中死亡
+So many fetuses die during the course of hyena development and birth.
+这些动物都有这个
+These animals have this,
+只能形容为
+what could only be described as
+非常大或巨大的阴蒂
+a very large or giant clitoris.
+尽管对于鬣狗来说  它并不巨大  但这是正常的
+Although for a hyena it's not giant, it's normal.
+它裂开了  婴儿实际上就通过了
+And it splits open and the baby actually comes through.
+婴儿鬣狗实际上是通过组织进入的
+The baby hyena actually comes through the tissue
+这是一个非常痛苦的诞生
+and it's it's a very traumatic birth.
+许多组织被撕裂  等等
+A lot of tissue is torn away, et cetera.
+正如我提到的  很多胎儿鬣狗死了
+And as I mentioned, a lot of baby hyenas die.
+关于母鬣狗如何拥有这是一个谜
+It was a mystery as to how the female hyenas have this
+我们称之为雄性化
+we'll call it masculinization,
+但这确实是雄激素喷射器
+but it's really a androgen jet.
+请问  外围的雄激素化了
+Excuse me, androgenization of the periphery.
+生殖器的
+Of the genitalia.
+事实证明  经过大量仔细的研究
+And it turns out, through a lot of careful research
+由史蒂夫·格里克曼（Steve Glickman）  克里斯汀·德雷（Christine Drey）等人完成
+done by Steve Glickman, Christine Drey and others.
+那是雄烯二酮
+That it's androstenedione.
+什么是睾丸激素的促激素？
+What is essentially a pro hormone to testosterone?
+雄烯二酮含量很高
+It's androstenedione at very high levels
+那是在雌性鬣狗中产生的
+that's produced in female hyenas
+导致生殖器增大
+that creates this enlargement of their genitalia.
+因此  如果你想阅读androstenedione
+So if you want to read up on androstenedione.
+雄烯二酮制成睾丸激素
+Androstenedione is made into testosterone
+通过这种酶17-β-羟基类固醇脱氢酶
+through this enzyme 17-beta-hydroxy steroid dehydrogenase
+这是一个复杂的发音通路
+it's a complicated pathway to pronounce.
+从生化角度来看  这是一个相当简单的通路
+It's a fairly straightforward pathway biochemically.
+你可能还记得90年代和2000年代
+You may recall during the 90's and 2000's
+有很多提高绩效的毒品丑闻
+there were a lot of performance enhancing drug scandals,
+特别是在美国职棒大联盟
+in particular in Major League Baseball.
+据称
+And it was purported,
+尽管我不知道它曾经被验证过
+although I don't know that it was ever verified.
+但是据称
+But it was purported that the major
+当时提高性能的滥用药物
+performance enhancing drug of abuse at that time,
+特别是那些名字我们不会提及的球员
+in particular players whose names we won't mention
+但是如果你想查找  可以用Google进行搜索
+but you can Google it if you want to find out.
+是雄烯二酮
+Was androstenedione.
+我实际上回想起很久以前
+And I actually recall long ago,
+那个时候可以买到雄烯二酮
+when you could buy androstenedione
+在保健食品商店
+in the health food stores.
+当时 它在柜台上出售
+And so it was sold over the counter.
+从那时起  发生了很多变化
+So a lot's changed since then.
+但是有趣的是  这些鬣狗
+But it's interesting that these hyenas,
+这些高度雄激素的生殖器
+with these highly androgenized genitalia
+通过完成
+accomplish that through
+女性中雄烯二酮含量高
+high levels of androstenedione in the females.
+现在  如果这很不寻常
+Now if that's unusual,
+可能更不寻常的是
+what might be even more unusual is that
+当时与我一起工作的一名研究生
+a graduate student that I was working with at the time.
+不是我带的  我们没有一起做过研究
+Alongside we didn't share research.
+她的名字叫尼古拉·锡特卡（Nicola Sitka）
+Her name was Nicola Sitka.
+她实际上是受过训练的
+She is actually a trained behavioral,
+动物行为专家
+animal behavioral expert.
+她曾为该节目的“ BeastMaster”训练过雪貂
+She had trained ferrets for that show the "BeastMaster."
+她为电视节目训练了狼群
+And she had trained wolves for television shows
+并曾是训犬师
+and was a dog trainer.
+她有两条大狗
+She had these two large dogs that,
+我的狗都会听她的
+unlike my dog would actually listen to her
+她会给他们下命令
+when she would give them commands.
+一位了不起的科学家
+A remarkable scientist.
+她正在研究一种鼹鼠
+She was studying a species of mole
+也住在提尔登公园
+that also lived in Tilden Park.
+大家可能会开始对蒂尔登公园感到好奇
+People are going to start to wonder about Tilden Park,
+蒂尔登公园到底有啥啊？
+what's in Tilden Park?
+但是住在那儿的那种特别的鼹鼠
+But this particular mole that lived there
+一年中有一段时间有睾丸
+had testes for part of the year
+并具有跨性别分化的能力
+and had the capacity to trans differentiate
+睾丸进入卵巢
+its testes into ovaries
+为了平衡比例
+in order to balance out the ratio
+人口中男性和女性的比例
+of males and females in the population
+使繁殖保持在适当的水平
+to keep reproduction at appropriate levels
+对于特定的群体
+for that certain population.
+所以有些动物实际上能够
+So some animals are actually able
+调整他们是否已雄​​激素化
+to adjust whether or not they have androgenized
+或雌激素性腺
+or estrogenized gonads,
+为了调整后代的比例
+in order to adjust the ratios of offspring
+或那里的雄性和雌性促进后代
+or the males and females in therefor promote offspring.
+还有关于这件事的最后一点轶事
+And the last little anecdote about this,
+在科学文献中也有发表
+which is also published in the scientific literature,
+这很奇怪  但我确实觉得很有趣
+which is weird but I do find interesting.
+激素是如此迷人
+Hormones are so fascinating,
+他们对我来说真是不可思议
+they're just incredible to me is
+回到大麻这个植物
+going back to the marijuana plant.
+你知道  大麻植物
+You know, the marijuana plant
+具有这些雌激素特性
+has these estrogenic properties.
+我问过植物生物学家
+And I asked a plant biologist
+这是不是不太正常
+whether or not this was unusual.
+我问是因为
+And I asked because
+那里有所有这些东西
+there's all this stuff out there about,
+“哦  你知道的  大豆富含雌激素
+"Oh, you know, Soy does this.
+这些植物是高度雌激素的  等等”
+And these plants are highly estrogenic, et cetera."
+虽然我们可能应该指出
+Although we should probably point out that
+许多工厂生产的肉类也具有雌激素性
+a lot of factory meats are also estrogenic.
+所以这不是肉对植物的事
+So this isn't a meat versus plants thing.
+但是这位植物生物学家告诉我
+But this plant biologist told me,
+“哦  是的  有一些植物可以
+"Oh yeah, there are plants that make
+基本上等于睾丸激素
+what is essentially the equivalent of testosterone
+就像松花粉  因为它看起来很像睾丸激素
+like pine pollen as it looks a lot like testosterone.
+还有其他植物
+And there are other plants that make
+会制造雌激素
+what is essentially estrogen.
+我说：“好吧  它们为什么要这么做？”
+And I said, "Well, why would they do that?"
+嗯  你知道植物
+Well and you know plants,
+至少据我所知
+at least as far as I know,
+没有意识
+don't have a consciousness.
+它们没有大脑
+They don't have a brain.
+它们甚至没有神经元
+They don't have neurons even but,
+他的回答令人着迷
+his answer was fascinating.
+他说  有些植物发育了这种能力
+He said that, one of the reasons why some plants
+其中一个原因是因为
+have evolved this capacity
+为了增加雌激素水平
+to increase estrogen levels
+在抽烟的动物中增加雌激素  不是
+in animals that smoke, not smoke it
+我是说会消耗它们的动物
+but then animals that consume them.
+我猜想动物不抽大麻
+I'm guessing that animals aren't smoking marijuana.
+虽然我不知道  但请发给我
+Although I don't know, send me the paper
+如果你听说过这一点
+if you've heard of this.
+就是植物找到了方法
+Is that plants have figured out ways.
+它们采用了各种方法来减少群体数量
+They've adapted ways to push back on populations
+啮齿动物和其他食用它们的动物
+of rodents and other species of animals that eat them.
+所以植物从事一种
+So plants are engaged in a kind of
+植物对动物的战争
+plant to animal warfare
+它们增加雌激素
+where they increase the estrogen
+该群体密度中男性的比例
+of the males in that population
+减少精子数量
+to lower the sperm counts,
+使这些人口保持在一定水平
+to keep those populations clamped at certain levels
+使这些植物可以继续繁衍
+so that those plants can continue to flourish.
+即使那些动物繁殖非常强劲
+Even if those animals are reproducing very robustly.
+我觉得这很有趣
+And I find this just fascinating.
+因此荷尔蒙
+And hormones therefore,
+不只是影响组织的生长和发育
+aren't just impacting tissue growth and development
+在个人内部和母亲之间
+within the individual and between the mother.
+请记住  胎盘是内分泌器官
+Remember the placenta is an endocrine organ,
+还有后代
+and the offspring,
+但是动植物正在交流中
+but plants and animals are in this communication.
+今天  我们正在交流中
+And today we're in this communication,
+我告诉你
+I'm telling you that
+人类正在使用某些除草剂
+there are certain herbicides that humans are using
+有很好的数据
+for which there's very good data,
+正在破坏内分泌通路
+are disrupting the endocrine pathways.
+因此  令人着迷的是
+And so it's fascinating that
+人类和其他动物
+humans and other animals,
+我们总是在这种相互作用中
+we're always in this interplay
+与植物和环境中的其他事物
+with plants and the other things in our environment.
+和激素并调节激素水平
+And hormones and adjusting the hormone levels
+动物和植物是其中一种方式
+of animals and plants is one way in which
+环境又开始后退
+the environment kind of pushes back
+或向前推  
+or pushes forward if you will,
+为了促进它们的福祉和长寿
+in terms of promoting their well-being and longevity,
+以及你 人类尝试提升
+as well as you trying to promote
+人类的健康和长寿
+your wellbeing and longevity.
+如果有人想看这篇令人难以置信的论文
+If anyone wants to see the incredible paper
+史蒂夫·格里克曼（Steve Glickman）和同事
+by Steve Glickman and colleagues.
+它发表在国家科学院的议事录中
+It was published in the proceedings of the national Academy.
+首先是1987年  即格里克曼（Glickman）等人
+First in 1987, that's Glickman et al.
+那是假说是雄烯二酮
+That was the hypothesis that it was androstenedione .
+然后  如果你只是Google
+And then if you just Google
+Glickman鬣狗科学杂志
+Glickman hyenas science magazine,
+有一个漂亮的封面文章和功能
+there's a beautiful cover article and feature
+关于这一重要发现的一切
+all about that important discovery,
+这是一个令人着迷的
+it's a fascinating one.
+我还要提到的是  这些发现
+And I should mention also that those discoveries,
+鼹鼠和鬣狗不只是
+both the moles and the hyenas weren't just
+对动物行为世界有影响
+impactful for the world of animal behavior
+和内分泌学
+and endocrinology,
+他们也极大地影响了理解
+they've also strongly impacted understanding
+诊所出现的情况
+of conditions that show up in the clinic,
+我们今天没有谈论过
+which we haven't talked about today.
+这实际上是假性雌雄同体
+Which is actually pseudo hermaphroditism.
+有时婴儿出生的时候会性别不明
+Occasionally babies will be born where it is unclear,
+前提是基于生殖器来判断的男孩或女孩
+if they are boys or girls based on the genitalia.
+这具有非常重要的道德和其他问题
+And this has a very important ethical and other issues.
+你是把他/她当男孩还是女孩抚养？
+Do you raise them as a boy or a girl?
+发生这种情况并不少见
+It's not super uncommon for this to happen.
+在一些可怕的情况下  人们
+And there have been terrible cases where people have
+违背了染色体性
+gone against the chromosomal sex.
+这个人对于
+And the person was very unhappy
+他们的父母为他们做出的选择非常不满
+with the the choice that their parents had made for them.
+在某些情况下
+There were also cases where
+他们按照染色体性别抚养
+they've gone with a chromosomal sex
+这个人对结果感到非常高兴
+and the person was very happy about the outcome.
+在某些情况下
+There've been cases where
+他们会用激素治疗了
+they've been treated with hormones
+在某些情况下  他们没有
+and there been cases where they have not
+用激素治疗
+been treated with hormones.
+这是一本复杂的文学作品
+It's a complicated literature and
+必须根据具体情况进行分类
+it has to be sorted out on kind of a case by case basis,
+但这确实会发生
+but it is something that does happen.
+以及鬣狗中雄烯二酮的研究
+And the studies on androstenedione in hyenas
+在这些非常有趣的鼹鼠中
+and in these very interesting moles,
+住在蒂尔登公园（Tilden Park）的假雌雄同体鼹鼠
+pseudo-hermaphroditic moles that live in Tilden Park,
+不仅影响了科学
+have impacted not just the science
+但是围绕这些重要问题的疗法
+but the therapeutics around those important issues.
+所以最后
+So now last but not least,
+我想讨论激素的作用
+I want to discuss the effects of hormones
+当你和我分别在子宫里的时候
+while you and I were separately in utero
+以及对我们是谁的影响
+and the effects that that had on who we are,
+我们选为伴侣的人
+who we select as mates.
+所以选择伴侣  性偏爱
+So mate choice, sexual preference.
+以及你所说的所有其他方面
+And all other aspects of what you would call
+性发育
+sexual development.
+现在  这是很多流行媒体所关注的
+Now this is something that's gotten a lot of popular press
+它与
+and it has to do with
+特别是如何接触雄激素
+how exposure to androgens in particular
+当我们在子宫内时
+while we were in utero,
+影响人们是否表明
+impacted whether or not people report
+自己是同性恋  异性恋
+as homosexual, heterosexual,
+自我认定为男性还是女性
+identify as male or female.
+我对这项工作非常熟悉
+I'm very familiar with this work
+因为我是研究生
+because I was a graduate student
+在最初发表这项工作的部门
+in the department that first published this work
+我是这篇论文的作者
+and I'm an author on the paper.
+我不是这项工作的主要推动力
+I was not the main driver of the work,
+但我参与了这项工作
+but I was involved in the work.
+我当然认识从事这项工作的人
+And I certainly know the people that did this work.
+首先  它是从一个故事开始的
+First it starts with a story.
+现在有一个研究人员还在继续
+There was a researcher who's still going now.
+他的名字叫丹尼斯·麦克法登
+His name is Dennis McFadden.
+我相信他当时在UT奥斯汀分校
+I believe he was at UT Austin back then.
+他正在研究听觉系统
+And he was studying the auditory system.
+人们会进入他的诊所  他会
+And people would come into his clinic and he would,
+或他的实验室
+or his laboratory.
+他会检查他们的听力
+And he would look at hearing
+他会探索不同的方面
+and he would explore different aspects
+他们所谓的听觉心理物理学
+of what they call the psychophysics of hearing
+并了解听力阈值
+and understanding hearing thresholds
+和频率阈值
+and frequency thresholds.
+然后他做了几点观察
+And he made several observations.
+这些观察是
+And those observations were that
+年轻男性倾向于
+young males tended to have
+所谓的自动声发出
+what are called auto acoustic emissions,
+比年轻女性更多
+more often than young females did.
+顾名思义  自动声音发出
+Auto acoustic emissions, as the name suggests,
+实际发出声音的是耳朵
+are the ears actually making sounds.
+现在这些声音必须被
+Now these sounds have to be picked up
+特殊的仪器检测到
+by a special apparatus,
+仪器可以听到那个频率
+because they can hear into that frequency.
+但是事实证明  你的耳朵不只是
+But it turns out that your ears don't just
+接收声波并将其转换为
+take sound waves and convert them into
+我们称此为听觉
+this thing we call hearing.
+但是在某些情况下它们也会发出声音
+But they also in some cases make sound.
+因此  你的耳朵正在发出声音
+So your ears are making sounds.
+奇怪吧？
+Strange right?
+事实证明  有一个
+So it turns out that there's a
+汽车声发射的性别差异
+sex difference in auto acoustic emissions.
+事实证明  那些自称是女同性恋者的人
+It turns out also that people that self-report as lesbians,
+她们也有自动声发射
+they also have auto acoustic emissions
+明显多于
+significantly more than females
+不会自我报告为女同性恋的女性
+that don't self-report as lesbian.
+丹尼斯注意到了这一点  并发表了这篇文章
+And Dennis noticed this and published this.
+这是一个重要的发现  因为
+And it was an important discovery because
+这是最早的发现之一
+it was one of the first discoveries
+指出有一个事实
+that pointed to the fact that there are
+与性别无关的生物学性别差异
+sex differences in biology that are independent of sex.
+我的意思是  这是听觉发射
+I mean, this is hearing and auto acoustic emissions.
+只是为了真正说明一下
+And just to really illustrate what that.
+前一个问题是什么
+What the former problem was
+为什么这项研究如此重要？
+and why this study was so important?
+你知道  很多人都在探索
+You know, a lot of people had explored
+例如是否
+for instance whether or not,
+同性恋者例如在男性中具有较低的睾丸激素
+homosexuals had lower testosterone for instance in males.
+实际上  结果往往恰恰相反
+And actually the result often was the opposite.
+那些同性恋者或自我报告是同性恋的男人
+That gay men or men that self-report is gay,
+经常有更高的睾丸激素
+often had much higher testosterone.
+然后这些研究引起了争议
+And those studies then became controversial
+因为人们说
+because people said,
+“好吧  性行为可能与睾丸激素有关  ”
+"Well, sexual behavior can relate to testosterone,"
+等等
+et cetera.
+因此  它变得非常有争议
+And so it became very controversial.
+然后有一些研究
+And then there were some studies
+试图看一看中的等效现象
+that attempted to look at the equivalent phenomenon in
+自称是女同性恋的人
+people that self report as lesbian.
+或自我报告为异性恋
+Or self-report as heterosexual.
+因此  它变得非常复杂
+And so it became very complicated.
+但这是对现象的识别
+But this was an identification of a phenomenon,
+自动声发射
+auto acoustic emissions,
+它独立于与性行为相关的事情  
+that was independent of anything that had to do with
+甚至和社交行为没任何关系
+sexual or even social behavior.
+1998年
+1998 rolls around.
+我是加州大学伯克利分校的研究生
+And I'm a graduate student at UC Berkeley
+还有一个名叫马克·布雷德洛夫（Mark Breedlove）的家伙
+and a guy by the name of Mark Breedlove.
+考虑到他的工作  这有点讽刺意味
+Kind of an ironic name, given that he worked on.
+他曾从事过性二元性工作  现在仍在工作
+He worked and still works on sexual dimorphism
+在大脑  脊髓和神经系统中
+in the brain and in the spinal cord and nervous system.
+还有马克  他是一位杰出的科学家
+And Mark, who's a phenomenal scientist
+顺着大厅走来
+comes running down the hall.
+我永远不会忘记这一点
+I'll never forget this.
+他说：“把你的手给我”
+And he said, "Give me your hands."
+我当时想 “干嘛呢”
+I was like, [indistinct].
+他就像  “给我你的手”
+He's like, "Give me your hands."
+然后他拔出尺子
+And he pulls out a ruler
+然后他开始测量我的手指
+and he starts measuring my fingers.
+然后他进行了几次测量
+And he takes down a couple of measurements
+然后他走了
+and then he goes away.
+我当时想：“干嘛呢他？”
+And I was like, "What was that?"
+好吧  我在Mark教授的课程中
+Well, I was in a course that Mark was teaching
+在那时候
+at that point.
+不久之后  我们进行了马克指导的研究
+And soon after, we did a study that Mark directed
+探索手指的长度比例
+exploring the finger length ratios.
+我将解释这些是什么
+And I'll explain what those are.
+在男性和女性中
+Of males and females,
+以及自称是同性恋或异性恋的人
+and people that self-reported as homosexual or heterosexual.
+因此  让我们开始了解基本内容
+So let's just get to the basic,
+我们首先将其称为性别差异
+what we'll call sex differences first.
+这些是平均值
+These are averages.
+我想指出
+I want to point out.
+每当你进入此类话题时
+Anytime you get into this kind of topic,
+人们认为这是因果关系  但不是因果关系
+people assume it's causal, but it's not causal.
+这些是我要报告的平均值
+These are averages that I'm about to report.
+比率的情况
+It is the case that the ratio
+D2到D4的手指
+of what's called the D2 to D4 digits.
+因此  D2是你的食指
+So the D2 is your index finger.
+所以你的拇指是D1
+So your thumb is D1.
+那D2就是你的食指
+Then D2 would be your index finger
+你用来指人的这个
+that you would point with.
+中指是D3  随便你怎么用
+Middle finger is D3, which you whatever with.
+然后D4是所谓的无名指
+And then D4 is the so-called ring finger.
+好的  D5是小指
+Okay and D5 is the pinky.
+是这样的
+It is the case that
+D2与D4的比例更大
+ the D2 to D4 ratio is greater
+自我报告的女性比男性更容易
+in self-reported females than it is in males.
+这意味着什么？
+What does that mean?
+这意味着数字D4和D4的长度更相似
+It means that digit D4 and D4 are more similar in length
+女性比男性多
+in females than in men males.
+对不起  这种效果尤其明显
+And that effect is particularly, excuse me,
+发音在右边
+pronounced on the right hand.
+虽然不总是这样  好吗？
+Although not always, okay?
+而且它与惯用性无关
+And it does not have to do with handedness.
+此D2与D4的差异必须正确测量
+This D2 to D4 difference has to be measured correctly.
+你不能只是看着一个人的手说
+You can't just look at somebody who's hands and say,
+“哦  他们的无名指和食指差不多长
+"Oh, their ring finger and index finger are very similar.
+因此  她们是女性
+And therefore they are female you know.
+或者她们在子宫内暴露于很少的睾丸激素”
+Or they were exposed to very little testosterone in utero."
+你不能看着别人看到
+You can't look at somebody and see that
+他们的食指比无名指短
+their index finger is much shorter than their ring finger
+说  “哦  他们一定是接触了
+and say, "Oh, they must've been exposed
+大量雄激素”
+to a lot of androgen."
+你必须实际测量
+You have to actually measure it
+并且你必须正确地测量它
+and you have to measure it correctly.
+你必须从
+You have to measure it from
+第一个折痕的手指根部
+the base of the finger where there's that first crease,
+一路上去到尖端
+all the way to the tip past the.
+你不能包括指甲
+You can't include the fingernails.
+如果你长指甲
+If you're growing fingernails,
+伙计们  这在这里是合乎逻辑的
+it'd be logical here folks.
+因此  你通常无法从手背看到它
+So you can't normally see it from the back of the hand.
+虽然  我不知道这是否会出现在这里  但是
+Although, I don't know if this'll show up here but
+如果你看着手背
+if you look at the back of the hand
+有时你可以看到它
+sometimes you can see it.
+你知道  以我为例
+You know, in my case for instance.
+让我看看我是否可以做到这一点
+Let me see if I can do this.
+所以我的D4比我的D2长一点
+So my D4 is a little bit longer than my D2.
+在某些人中  它更明显
+In some people it's more pronounced
+那在我的右手边
+and that's on my right hand.
+另一方面
+On the other hand,
+实际上  差异远不那么明显
+the difference actually is far less pronounced.
+是一点吗？
+Is it's a little bit.
+那里有一点点差异  但是不怎么明显
+it's a little bit pronounced there, but not so much okay?
+因此  这就是你会看到的典型比率
+So that's sort of the typical ratio that you would see.
+事实证明  在小鼠和人类中
+It turns out that in mice and in humans,
+你在子宫内接触到的雄激素越多
+the more androgen that you were exposed to in utero,
+D4 D2比越小
+the smaller the D4 D2 ratio.
+意味着无名指倾向于
+Meaning that the ring finger tends to be
+比食指稍长
+slightly longer than the pointer finger.
+而在女性中  因为她们暴露于
+And in females because they're exposed to
+子宫中的雄激素通常较少
+less androgen in utero typically.
+然后  这些手指的长度往往会更相等
+Then those fingers tend to be more equal in length.
+这些是细微的差异
+And these are subtle differences
+这些是平均值
+and these are averages.
+我推荐你去看论文
+I invite you to look up the paper.
+它于2000年发表在《自然》杂志上
+This was published in Nature in 2000
+并且已经被重复验证了六次
+and it's been replicated six times.
+现在  这里变得更加有趣
+Now, here's where it gets even more interesting.
+而且可能会冒犯到别人
+And potentially precarious,
+所以我们要在这里谨慎地讲话
+so we're going to step cautiously here.
+如果看一下手指的长度比例
+If you look at the finger length ratios
+自称是同性恋的男人
+of men that self-report as homosexual,
+他们有D2与D4比率的典型男性模式
+they have either the typical male pattern of D2 to D4 ratio
+或男性化程度较高的D4与D2之比
+or a hyper masculinized D4 to D2 ratio.
+现在这不可能
+Now this can't be something
+由行为建立或修改
+that's established or modified by behavior.
+这必须是在子宫内就建立的
+This has to be something that was established in utero.
+实际上  它在出生时就存在了
+And in fact, it's present at birth okay?
+所以就完全分离了
+So it completely divorces
+激素与行为之间的相互作用
+the interactions between hormones and behavior.
+这是我们一直在谈论的重要主题
+And that's an important theme that we've been talking about.
+我们将讨论更多
+And we're going to talk about even more.
+下一集是激素会影响行为
+Next episode is that hormones impact behavior
+但是行为也会影响荷尔蒙
+but behavior also impact hormones.
+但这是激素影响的情况
+But this is a case of hormones impacting
+真正应该考虑什么
+what really should be considered
+主要的性特征  第一性征
+a primary sexual characteristic.
+因为它没有出现在青春期
+Because it doesn't show up in puberty,
+它出现在青春期之前
+it shows up before puberty.
+它实际上是在子宫内建立的
+It's actually established in utero.
+在那些自称是女同性恋者的人中
+And in people that self-reported lesbians.
+我记得去那里
+And I remember going out there
+并收集这些数据
+and collecting these data with,
+与合作者一起完成这项工作
+with the collaborators on this work.
+同样  我不是工作的主要推动力
+Again, I wasn't the main driver on the work.
+但是我参加了一些分析
+But I participated in some of the analysis.
+自称是女同性恋者的人
+People that self-report as lesbians
+也倾向于具有较小的D2与D4之比
+also tend to have a smaller D2 to D4 ratio.
+因此  这与自动声发射研究一致
+So this is consistent with the auto acoustic emission study
+丹尼斯·麦克法登（Dennis McFadden）出版的作品
+that Dennis McFadden had published.
+它指出了一个事实  即早期接触雄激素
+And it points to the fact that early exposure to androgens
+可能会产生影响
+may have an impact,
+不只是人体发育计划的雄激素化
+not just on androgenization of the body plan,
+但也会分别作用到性取向
+but also separately on sexual preference.
+现在  这引发了各种各样有趣的问题
+Now, this raises all sorts of interesting questions
+关于性偏好的生物学基础
+about biological basis of sexual preference.
+我会告诉你另一项研究
+I'll tell you about another study.
+UCLA的一个叫Simon LeVay的人
+A guy named Simon LeVay who was at UCLA.
+休伯尔和 维厄瑟尔带过他
+Who trained under Hubel and Wiesel.
+如果你还记得“可塑性”的前几集
+If any of you remember early episodes on "Plasticy,"
+大卫·休伯尔和托斯坦·维厄瑟尔
+David Hubel and Torsten Wiesel
+我的科学曾祖父们  获得了诺贝尔奖
+my scientific great-grandparents won the Nobel Prize
+用于发现大脑可塑性的关键时期
+for discovery of critical periods for brain plasticity.
+他们定义了一些最重要的方面
+They defined some of the most important aspects
+我们如何看待和大脑可塑性
+of how we see and brain plasticity.
+西蒙·利维（Simon LeVay）跟着他们一起学习
+Simon LeVay trained with them.
+然后西蒙继续发现
+And then Simon went on to discover that
+在自我报告同性恋者的大脑中
+in the brains of people that self-report homosexual
+有大脑的差异
+there is a brain difference.
+大脑的差异在于
+And the brain difference is in an area called
+下丘脑的间质核
+the Interstitial Nucleus of the Anterior Hypothalamus.
+这就是INAH
+So it's the INAH.
+因此  有已发布的报告
+And so there are published reports.
+那是在《科学》杂志上发表的
+That was published in Science.
+我指的是《自然》杂志上发表的其他作品
+The other work I refer to as published in Nature,
+而且反复证明不少于六次
+and then replicated no fewer than six times.
+麦克法登（McFadden）结果表明
+And the McFadden results that point to
+强大的生物学联系
+strong biological correlates
+选择伴侣  性取向
+of mate choice, of sexual preference.
+这些直接与
+And these tie directly to
+诸如雄激素或雌激素之类的东西
+things like androgenization or estrogenization.
+意思是我们可以称其为男性或女性
+Meaning we could call it maleness or femaleness,
+但这是一个棘手的领域
+but that's sort of tricky territory.
+由于我们描述的方式
+Because of the way that we described
+可以更早定义性别的巨大范围
+the huge range in which sex can be defined earlier.
+因此  如果你要测量D2 D4比率
+So, if you want to measure your D2 D4 ratio
+去吧 别客气
+you're welcome to,
+但是你也要明白
+but you also have to understand that
+它不能预测任何事情  对不对？
+it's not predictive of anything, right?
+这只是通往可能的窗口
+It's just a window into the possible
+你一生中曾经接触过的雄激素
+androgen exposure that you had early in life.
+有很多男人报告自己
+There are plenty of men who report themselves
+作为异性恋者
+as heterosexual who are out there
+与女性具有相似或具有D2 D4比率的女性
+who have similar or have D2 D4 ratios to females.
+而且有很多女性的食指
+And there are plenty of females whose index fingers
+比他们的无名指短
+are shorter than their ring fingers.
+他们很高兴
+And they're perfectly happy
+他们说他们很高兴的地方
+where they say they're perfectly happy.
+我们倾向于相信他们是异性恋
+And we are inclined to believe them being heterosexual.
+所以有很多不同情况
+So there's variation.
+实际上  马克讲了一个很好的笑话
+In fact, Mark tells a really good joke.
+如果你想知道是否
+If you want to know whether or not
+某人是同性恋或异性恋
+somebody is homosexual or heterosexual,
+只是看着他们的手
+simply look at their hands,
+看看他们的D2 D4比率  然后猜测是异性恋
+look at their D2 D4 ratio and guess heterosexual.
+而且你会在96％的时间内正确
+And you'll be right 96% of the time.
+因为96％的时间
+Because 96% of the time
+人们会称自己为异性恋  平均数据
+people report themselves as heterosexual on average.
+这些数字可能正在改变
+Those numbers might be changing.
+所以这个笑话真的是关于科学的笑话  因为
+So the joke really is a joke on science because,
+这是属于具有统计意义的领域
+that falls within the realm of statistical significance.
+然而  这确实说明了一个事实
+And yet it really illustrates the fact that
+这些都不是因果关系
+none of this is causal.
+但这仍然很有趣
+But it's nonetheless very interesting
+因为这意味着激素正在组织
+because it means that hormones are organizing
+大脑在早期发育中的方式
+the brain early in development in ways that
+可能会影响
+can potentially impact
+在以后的生活中选择同性或异性伴侣
+same or opposite sex partner choice later in life.
+当然  现在还有其他一些因素可能会影响
+Now of course, there are other things that can impact
+在以后的生活中选择异性或同性伴侣
+opposite sex or same-sex partner choice later in life.
+该研究没有研究报告双性恋的人
+The study did not look at people who reported bisexual.
+对此还没有很多研究
+There hasn't been a lot of studies on that yet.
+一件事很有趣
+One thing that's very interesting,
+有一些好的科学数据
+for which there are some good scientific data
+但也有一些争议是
+but there's also some controversy is that,
+看来是男性
+it appears that the probability of a male human
+自我报告为同性恋
+self-reporting as homosexual,
+随着他拥有的哥哥数量的增加而增加
+increases with the number of older brothers that he has.
+现在  这并不意味着如果你有一个哥哥
+Now, that doesn't mean if you have an older brother
+甚至你有10个哥哥
+or even if you have 10 older brothers,
+你一定会自我报告为同性恋
+that you are sure to self-report as homosexual.
+但从统计学上讲  某人将更有可能
+But statistically it becomes more likely that somebody will
+与他们每一个相继的哥哥在一起
+with each successive older brother that they have.
+想法开始浮现
+And the idea that starting to emerge,
+在发育神经内分泌学领域
+in the developmental neuroendocrinology landscape
+母亲身体里面有“记录”
+is that there's a record within the mother
+她曾携带过多少个男性胎儿
+of how many male fetuses she's carried,
+因为男性胎儿正在分泌某些东西
+because male fetuses are secreting certain things,
+二氢睾丸激素  其他的东西
+dihydrotestosterone, other things,
+可以反馈到基因组
+that can feed back on to the genome.
+所以这些可能是表观遗传学的影响
+So these could be epigenomic effects
+或胎盘本身
+or onto the placenta itself,
+这样有更高的可能性
+so that there's a higher probability
+在随后的怀孕中
+in subsequent pregnancies
+该后代会自我报告为同性恋
+that offspring will self-report as homosexual.
+因此  这是一个令人着迷的生物学领域
+So it's a fascinating area of biology.
+正如你今天所注意到的
+And as you've noticed today,
+这些都没有处理
+none of this deals with
+当前有关性别的争论
+the current controversies around gender
+以及有多少性别
+and how many genders and sex, et cetera
+那是一个单独的对话
+That's a separate conversation that is
+根据定义基于概念
+by definition grounded in the kind of concepts
+我们今天一直在谈论
+we've been talking about today
+并且需要发生
+and needs to take place,
+考虑到
+taking into consideration
+性的所有方面以及荷尔蒙的影响
+all of the aspects of sex and the effects of hormones,
+既在身体上  在大脑上
+both on the body, on the brain.
+我们没有谈论太多关于脊髓的事情
+We didn't talk a lot about spinal cord,
+但我们将在下一集中
+but we will in the next episode.
+但是我们只能说在大脑和周围
+But we can just say on the brain and the periphery,
+早期效果  后期效果
+early effects, late effects,
+急性影响  意味着非常快的影响
+acute effects, meaning effects that are very fast
+激素水平上升或下降
+of levels of hormones going up or down.
+这在月经周期间
+Something that absolutely happens during
+是一件绝对会发生的事情
+and across the menstrual cycle.
+以及长期影响
+As well as long-term effects
+就像这些激素对基因表达的影响一样
+like the effects of these hormones on gene expression.
+所以今天像往常一样
+So today, as always,
+我们无法涵盖
+we weren't able to cover
+与性和荷尔蒙有关的所有事物
+all things related to sex and hormones
+以及性别分化或发育
+and sexual differentiation or development.
+我们不可能
+There's no way we could.
+但是我们涵盖了很多内容
+But we have covered a lot of material.
+我们讨论了环境毒素的一些影响
+We talked about some effects of environmental toxins.
+我们讨论了手机辐射的潜在影响
+We talked about potential effects of cell phone radiation.
+我从没想过要谈论的东西
+Something I never thought that I would be talking about,
+特别是不在播客中
+especially not in a podcast.
+但是  有一些有趣的新兴数据
+But for which there are interesting emerging data.
+我们讨论了有关
+We talked about considerations about
+月见草油及其雌激素作用
+Evening Primrose Oil and its estrogenic effects.
+关于肌酸及其亲DHT效应
+About Creatine and its pro DHT effects.
+关于大麻  酒精
+About cannabis, alcohol.
+关于对动物施加战争的植物
+About plants exerting warfare on animals
+通过增加芳香化酶
+by increasing aromatase.
+睾丸激素向雌激素的转化
+The conversion of testosterone to estrogen.
+我们谈论了与巨大的阴蒂的鬣狗
+We talked about hyenas with giant clitoris's.
+我们谈到了可以
+And we talked about moles that can revert
+从卵巢到睾丸还原的鼹鼠
+from having ovaries to testicles.
+在整个过程中  科斯特洛一直在不停地打呼
+And throughout this Costello has been snoring nonstop.
+他错过了这一切
+He missed all of it.
+虽然他可能在睡眠中学习
+Although he might be learning it in his sleep
+就我所知
+for all I know.
+而且我确实了解这期里有很多信息
+And I do understand it's a lot of information,
+很多细节
+a lot of detail as always.
+我只想提醒你
+I just want to remind you,
+你不必一次吸收所有信息
+you don't have to absorb all the information at once.
+下集  我们将要谈论
+Next episode, we are going to be talking about
+性科学  动词  实际的繁殖
+the science of sex, the verb, actual reproduction.
+我们还将谈论
+We're also going to be talking about
+激素对行为各个方面的影响
+effects of hormones on various aspects of behavior
+以及调节激素的方法
+and ways to modulate hormones,
+通过使用行为  进行补充
+through the use of behavior, supplementation.
+另外  我们将稍微讨论一下饮食和营养
+Also we'll touch on diet and nutrition a bit.
+我们将要谈论
+And we're going to talk about
+这些事物和行为之间的相互作用
+interactions between those things and behavior,
+与重要主题有关
+as they relate to important themes
+像性和生殖
+like sex and reproduction.
+喜欢工作场所的表现
+Like workplace performance.
+喜欢动力和动力  甚至焦虑
+Like motivation and drive and even anxiety.
+两者之间有一个非常有趣的关系
+There's a very interesting relationship between
+激素和焦虑症以及探索新奇事物的渴望
+hormones and anxiety and the desire to explore novelty.
+因此  请记住  在我们前进的过程中
+So just to remember as we go forward that,
+激素会影响行为  而行为也会影响激素
+hormones affect behavior and behavior affects hormones.
+但这并不意味着
+But that doesn't mean that
+切掉一点食指
+cutting off your index finger
+会增加你的睾丸激素
+will increase your testosterone.
+你们中的许多人都问过如何可以帮助支持播客
+Many of you have asked how you can help support the podcast.
+我们感谢你提出的问题
+And we thank you for the question.
+有几种方法可以做到这一点
+There are several ways to do that.
+第一个是在YouTube上订阅
+The first one is to subscribe on YouTube.
+如果你尚未订阅YouTube频道
+If you haven't subscribed to the YouTube channel already,
+请订阅吧
+please do so.
+同样  请点击订阅按钮
+As well, please hit the subscribe button.
+因此  你一定不会错过任何内容
+So you're sure not to miss any of the episodes.
+我们每个星期一都会发行一集
+We do release episodes every Monday,
+但是我们有时也会发布介于两者之间的短片
+but we also occasionally release short clips in between.
+同样  如果你可以订阅
+As well, if you could subscribe
+在Apple和/或Spotify上
+on Apple and or Spotify,
+这非常有帮助
+that's very helpful.
+在Apple  你有机会
+And on Apple you have the opportunity
+让我们得到五星级的评价
+to leave us up to a five star review
+并发表评论
+and to leave a comment.
+在YouTube上  请留下你的评论和建议
+On YouTube, please do leave us comments and suggestions
+对于未来的内容
+for future episodes.
+我们非常感谢你的反馈
+We really appreciate the feedback
+我们感谢这些建议
+and we appreciate those suggestions.
+也可以向我们询问你对材料的任何疑问
+Also ask us any questions you have about the material.
+这些问题有助于指导我们的办公时间
+Those questions help guide our office hours,
+关于你的问题的讨论
+this discussion about your questions
+我们不时举行
+that we hold from time to time,
+并告知将来的内容
+as well as inform future content.
+另外  如果你可以向人们介绍播客
+Also, if you could tell people about the podcast.
+请告诉你的家人  朋友  同事
+Please tell your family, your friends, your coworkers
+你认为可以从该材料中受益的任何人
+anyone that you think might benefit from the material.
+这确实有助于我们说出话来
+That really helps us get the word out.
+同样  如果你对补品感兴趣
+As well, if you're interested in supplements.
+我们已经与索恩（Thorne）合作
+We've partnered with Thorne.
+索恩
+T-H-O-R-N-E.
+我们已经与索恩（Thorne）合作  因为
+And we've partnered with Thorne because,
+索恩的严格程度最高
+Thorne has the highest level of stringency
+关于成分
+with respect to the ingredients
+他们把他们的产品
+that they put in their products.
+以及这些内容的精确数量
+As well as the precise amounts of those contents.
+你知道吗  很多补品品牌
+You know, a lot of supplement brands out there
+声称有X量的一些补充剂
+claim to have X amount of some supplement,
+但是当人们已经测量
+but then when people have measured
+胶囊和片剂的量
+the amount in capsules and tablets,
+事实证明这是非常不同的
+it's turned out to be very different.
+索恩对此非常精确
+Thorne is very precise about this.
+他们与重要而严格的机构合作
+They partnered with important and stringent institutions
+像梅奥诊所（Mayo Clinic）一样  所有主要运动队
+like the Mayo Clinic, all the major sports teams.
+这就是我们与索恩（Thorne）合作的原因
+So that's why we partnered with Thorne.
+如果你想试用Thorne的任何产品
+If you want to try any of Thorne's products,
+如果你想看看我拿什么
+if you want to see what I take
+你可以去索恩
+you can go to Thorne that's
+thorne.com/u/huberman 
+如果这样做  你可以看到
+And if you do that you can see
+我带的任何产品
+any of the products that I take.
+你可以从中获得20％的折扣
+You can get 20% off any of those.
+以及其他任何产品的20％折扣
+As well as 20% off any of the other products
+索恩制造的
+that Thorne makes.
+这就是thorne.com/u/huberman
+So that's thorne.com/u/huberman.
+还请查看我们的赞助商
+Please also check out our sponsors.
+查看赞助商链接
+Check out the sponsor links.
+那也许是支持我们的最好方法
+That's perhaps the best way to support us.
+当然  我想指出的是
+And of course, I want to point out,
+任何支持我们的方式
+that any of the ways that support us,
+是否免费
+whether or not they are cost-free
+喜欢订阅并发表评论
+like subscribing and leaving comments
+或你是否对产品感兴趣
+or whether or not you're interested in the products
+我所提到的  这些都对我们有所帮助
+that I've referred to, those all help us.
+因此  我们非常感谢
+And so we really appreciate it.
+再次感谢你
+So once again, I want to thank you
+踏上了神经科学之旅
+for embarking on this journey through neuroscience
+今天是我的神经内分泌学
+and today neuroendocrinology with me.
+和往常一样  感谢你对科学的关注
+And as always, thank you for your interest in science.
+如果喜欢 也别忘了一键三连up主哦:)

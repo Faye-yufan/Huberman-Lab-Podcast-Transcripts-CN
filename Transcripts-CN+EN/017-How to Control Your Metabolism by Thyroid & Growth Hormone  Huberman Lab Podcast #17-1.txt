@@ -1,0 +1,5013 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+-欢迎来到Huberman Lab播客
+- Welcome to the Huberman Lab Podcast
+我们在这里讨论科学和日常生活中基于科学的工具
+where we discuss science and science-based tools for everyday life.
+[吉他音乐]
+[guitar music]
+我是Andrew Huberman  我是神经生物学和眼科教授
+I'm Andrew Huberman, and I'm a professor of neurobiology
+在斯坦福医学院
+and ophthalmology at Stanford School of Medicine.
+此播客是单独的
+This podcast is separate
+与我在斯坦福大学的教学和研究职位无关
+from my teaching and research roles at Stanford.
+但是  这是我渴望和努力的一部分
+It is, however, part of my desire and effort
+为消费者提供有关科学的零成本信息
+to bring zero cost to consumer information about science
+以及面向大众的与科学相关的工具
+and science-related tools to the general public.
+为了与该主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是四西格玛
+Our first sponsor is Four Sigmatic.
+四西格玛是一家保健公司
+Four Sigmatic is a wellness company
+制作蘑菇咖啡
+that makes mushroom coffee.
+如果你问自己
+And if you're asking yourself,
+你为什么要在咖啡里放蘑菇？
+why would you want to put mushrooms in coffee?
+首先  我告诉你
+First of all, let me tell you
+这些不是迷幻蘑菇  不
+these are not psychedelic mushrooms and no,
+咖啡的味道不像蘑菇
+the coffee doesn't taste like mushrooms.
+咖啡很好吃
+The coffee is delicious
+而且你根本不会尝蘑菇
+and you don't taste mushrooms at all.
+我知道这是因为我一直在使用四西格玛咖啡
+I know this because I've been using Four Sigmatic coffee
+并已经在我的实验室中存放了几年了
+and been stocking it in my laboratory for several years now
+很久以前我没有播客
+long before I ever had the podcast
+或四西格米奇（Four Sigmatic）是赞助商
+or Four Sigmatic was a sponsor.
+四种西格玛咖啡中的两种蘑菇
+The two kinds of mushrooms that are in Four Sigmatic coffee
+我们的狮子的鬃毛和chaga蘑菇
+our lion's mane and chaga mushrooms,
+这两个都已经显示
+both of which have been shown
+具有轻微的抗焦虑作用  以减轻焦虑
+to have a slight anxiolytic effect to reduce anxiety.
+还有狮子的鬃毛
+And lion's mane has also been shown
+在几项研究中以减轻症状
+in several studies to lower the symptoms
+情绪低落
+of depression just slightly.
+尽管我不会将其视为抑郁症的治疗方法
+Although I wouldn't consider it a treatment for depression,
+这是一个诱人的好处
+that's an attractive benefit,
+并对抵消认知能力下降有一定作用
+as well as have some effect at offsetting cognitive decline.
+尽管有一点点  但效果是真实的
+Albeit slightly, the effects were real
+在我发现的研究中
+in the studies that I've found.
+因此  如果你想尝试四西格玛
+So if you'd like to try Four Sigmatic,
+你可以访问foursigmatic.com/huberman
+you can go to foursigmatic.com/huberman.
+那是FOURSIG MATIC点号斜线Huberman
+That's F-O-U-R-S-I-G M-A-T-I-C dot com slash Huberman.
+如果这样做  你将获得40％的订单折扣
+And if you do that, you'll get 40% off your order
+加上蘑菇咖啡套装的免费送货
+plus free shipping on mushroom coffee bundles.
+那是foursigmatic.com/huberman
+That's foursigmatic.com/huberman
+最多可享受40％的折扣和免费送货
+for up to 40% off and free shipping.
+今天的一集也由Blinkist带给我们
+Today's episode is also brought to us by Blinkist.
+Blinkist是一款拥有数千个应用程序
+Blinkist is an app that has thousands
+非小说类书籍的压缩时间仅为15分钟
+of nonfiction books condensed down to just 15 minutes
+你可以阅读或聆听的关键小菜一碟
+of key takeaways that you can read or listen to.
+我是一个大读者  也是一个非小说类读者
+I'm a big reader and I'm a big consumer of nonfiction.
+而且大部分时间我都在读书
+And most of the time I consume books
+像书一样以传统形式
+in their traditional form like a book
+在这里翻转页面等等
+where you flip the pages and so forth.
+我也听全长有声读物
+I also listen to full length audio books.
+但是  随着时间的流逝  我们知道我们会忘记很多事情
+However, over time we know that we forget lots of things.
+即使有时我想
+And even though sometimes I think
+我从一本书中获得了所有关键信息
+I got all the critical information from a book,
+当我听Blinkist的音乐时  我得到了15分钟的播放时间
+when I listen to Blinkist and I get the 15-minute rundown,
+音频或书面形式
+either an audio or in written form,
+我发现有很多我经常错过的要点
+what I find is there key points that oftentimes I missed.
+因此  这是我俩一起慢跑记忆的好方法
+And so it's a great way for me to both jog my memory
+并提出想法
+and to bring forward ideas
+我以前没有考虑过
+that I hadn't considered previously.
+他们有成千上万的非小说类书籍
+They have thousands of nonfiction titles
+还有一些在科学类别中非常出色的
+and some really terrific ones in the science category.
+例如  大卫·伊格曼（David Eagleman）的书“ Livewired”
+For example, David Eagleman's book "Livewired"
+最近以我阅读的全书形式问世
+which came out recently as a book I read in full length form
+而且我也听过它的Blinkist版本
+and I've listened to the Blinkist version of it as well.
+“ Livewired”是一本关于神经可塑性的书
+"Livewired" is a book
+about neuroplasticity.
+大脑响应经验而改变的能力
+The brain's ability to change in response to experience.
+我有很多问题和要求
+I get so many questions and requests
+有关神经可塑性的书籍
+for books about neuroplasticity.
+我认为“ Livewired”是最新的
+In my opinion, "Livewired" is the most recent
+和最新的  最好的一个
+and up-to-date and the best one to date.
+在那里
+So that's there.
+大卫·辛克莱（David Sinclair）的著作《寿命》
+David Sinclair's book "Lifespan."
+大卫  你们中很多人都知道
+David, as many of you know,
+是哈佛医学院遗传学教授
+is a professor of genetics at Harvard Medical School.
+“寿命”是一本关于衰老作为一种疾病的绝妙书
+"Lifespan" is this terrific
+book about aging as a disease
+以及长寿疗法的未来和现在
+and the future and present of longevity treatments.
+非常有趣的书
+Very interesting book.
+以及马特·沃克（Mat Walker）的书“我们为什么要睡觉”
+As well as Matt Walker's book, "Why We Sleep."
+马特（Matt）当然是加州大学伯克利分校（UC Berkeley）的教授
+Matt, of course, is a professor at UC Berkeley
+《为什么睡觉》是一本很棒的书
+and "Why We Sleep" is a terrific book
+关于我们为什么睡觉  关于睡眠的科学
+about why we sleep, the science of sleeping,
+以及你可以做的改善睡眠的事情
+and things you can do to improve your sleep.
+所有这些都在Blinkist上
+All of those are on Blinkist.
+但是通过Blinkist  你可以无限制地访问
+But with Blinkist you get unlimited access
+到他们庞大的非小说图书馆
+to their massive library of nonfiction.
+如果你想尝试Blinkist
+If you'd like to try Blinkist,
+那么  他们为我们的观众提供了特别优惠
+right now they have a special offer just for our audience,
+仅适用于Huberman Lab播客听众
+just for Huberman Lab Podcast listeners.
+你可以访问blinkist.com/huberman
+You can go to blinkist.com/huberman
+你可以免费试用Blinkist 7天
+and you can try Blinkist free for seven days,
+所以这是零成本
+so that's zero cost,
+你将获得25％的新订阅折扣
+and you'll get 25% off your new subscription.
+那是Blinkist  BLINKIST点号斜杠Huberman
+That's Blinkist, B-L-I-N-K-I-S-T dot com slash Huberman
+获得免费的7天试用
+to get a free seven day trial
+并在注册时获得25％的折扣
+and get saved 25% off when you sign up
+但只有当你访问blinkist.com/huberman时
+but only if you go to blinkist.com/huberman.
+这集也由Munk Pack带给我们
+This episode is also brought to us by Munk Pack.
+Munk Pack是一家生产可食用酮类小吃的公司
+Munk Pack is a company that makes keto-friendly snacks
+味道令人难以置信
+that taste incredible
+但只有一克或更少的糖
+but have just one gram of sugar or less.
+就像我之前在这个播客上说的  我不是酮症患者
+As I've said before on this podcast, I am not in ketosis.
+我不是生酮的
+I'm not ketogenic.
+我不提倡或遵循任何一种特定的饮食习惯
+I don't advocate or follow any one particular diet.
+对我来说  有效的方法是在一天的早期禁食
+For me, what works is to fast in the early part of the day
+并全天吃低碳水化合物和酮类食品
+and to eat low carb and keto-ish throughout the day.
+这是为了保持警觉和注意
+That's for alertness and attention.
+这样我就可以集中精力
+So I can work and focus
+而且我不会感到呆滞或头脑迷雾
+and I don't feel sluggish or brain fog.
+然后在晚上和晚上
+And then at night and in the evening
+当我倾向于吃碳水化合物时
+is when I tend to eat my carbohydrates
+帮助过渡到睡眠
+to aid the transition to sleep.
+那对我有用
+That's what works for me.
+蒙克派酒吧是很棒的小吃
+Munk Pack bars are a terrific snack
+不管你是否一直都是酮
+whether or not you're keto all the time,
+不管你是否低碳水化合物
+whether or not you're low carb,
+甚至即使你不是  它们也绝对好吃
+or even if you're not, they are absolutely delicious.
+我也不会轻易地说出来
+And I don't say that lightly.
+总的来说  我不是酒吧的忠实拥护者
+I'm not a big fan of bars in general.
+对我来说  大多数酒吧的味道都像是
+Most bars to me tastes like a combination of, you know,
+装有一些硬纸板的金属保险杠
+a metal bumper mixed with some cardboard
+还有一些草坪饰物和一些人造糖
+and some lawn trimmings and some artificial sugar.
+Munk Pack酒吧  当它们寄给我时
+Munk Pack bars, when they were sent to me,
+我当时想  好的  我会尝试的
+I was like, all right, I'll try them.
+我尝试过这个
+I tried it.
+就像  嗯  这是一个问题
+Like, uh-oh, this is a problem
+因为我非常非常喜欢他们
+'cause I liked them very, very much.
+当我说这是一个问题时  确实是一个问题
+And when I say it's a problem, it really is a problem.
+我实际上将Munk Pack盒子放在地下室
+I actually keep the Munk Pack boxes in my basement
+这样我就不会一次全部撕毁它们
+so that I don't tear through them all at once.
+我是焦糖海盐口味的忠实粉丝
+I'm a huge fan of the caramel sea salt flavor.
+这很美味
+It's delicious.
+只是谈论它就让我很饿
+Just talking about it makes me hungry for one.
+但是他们也有海盐
+But they also have sea salt,
+黑巧克力  花生酱  黑巧克力
+dark chocolate, peanut butter dark chocolate.
+他们太棒了
+They're terrific.
+除了对keto友好之外
+In addition to being keto-friendly,
+它们也是无麸质  植物性的
+they're also gluten-free, plant-based,
+非转基因  无大豆  反式脂肪
+non-GMO, no soy, trans fat,
+糖醇或人造色素
+sugar alcohols or artificial colors.
+因此  所有你不想要的坏东西
+So all the bad stuff that you don't want.
+正如我之前提到的  它们是酮
+And as I mentioned before, they're keto,
+少于一克糖
+less than one gram of sugar.
+如果你想尝试Munk Pack  可以访问munkpack.com
+If you want to try Munk Pack, you can go to munkpack.com.
+那是MUNK Pack dot com
+That's M-U-N-K Pack dot com.
+并在结帐时输入代码Huberman
+And enter the code Huberman at checkout
+首次购买即可享受20％的折扣
+and you'll get 20% off your first purchase
+任何Munk Pack产品
+of any Munk Pack product.
+那是MUNKPACK点com并输入代码Huberman
+That's M-U-N-K-P-A-C-K dot com and enter the code Huberman
+结帐时可获得20％的折扣
+at checkout to get 20% off your purchase.
+这个月  我们一直在谈论激素
+This month, we've been talking all about hormones,
+这些绝对不可思议的化学物质
+which are these absolutely incredible chemicals
+在我们的大脑和身体中
+in our brain and body.
+它们影响了我们的整个寿命
+They impact our entire lifespan.
+所以从我们进入子宫的那一刻起
+So from the time that we are in the womb,
+它们控制着发育
+they're controlling the development
+我们的大脑和身体
+of our brain and our bodies.
+我们出生后  他们仍然在控制
+After we are born, they're still controlling
+我们的大脑和身体的发育
+the development of our brain and bodies.
+我确实说的是发育
+And I did say development,
+这是因为  与大多数人的想法相反
+and that's because, contrary to what most people think,
+发育持续整个生命周期
+development lasts the entire lifespan.
+从受孕到死亡
+From the time you're conceived until the time you die,
+你一直在发育  你正在改变
+you are developing, you are changing.
+荷尔蒙不断更新和变化
+And hormones are constantly updating and changing
+你身体的不同功能
+the different functions of your body.
+它们有两种主要的影响
+They have two major kinds of effects.
+一种是立竿见影的效果  因此它们实际上可以绑定到
+One are immediate effects, so they can actually bind to
+或在牢房的停车位上停放某种公园
+or kind of park in parking spots on cells
+并影响各种各样的事情
+and impact all sorts of things
+像细胞的生长等等
+like the growth of cells, et cetera.
+它们还可以控制基因表达
+They also can control gene expression.
+这是青春期荷尔蒙分泌的方式
+This is the way that hormones during puberty
+控制身体的头发生长和乳房发育
+control body hair growth and breast development
+和四肢的肌肉生长和身高
+and growth of muscles and limbs and height
+还有各种各样的事情
+and all sorts of things.
+他们太不可思议了
+They are incredible.
+我们已经讨论过睾丸激素和雌激素
+We've talked about testosterone and estrogen.
+我们谈到了胰岛素和胰高血糖素
+We talked about insulin and glucagon
+还有其他一些东西
+and some of the other things.
+今天  我们将谈论新陈代谢
+Today, we are going to talk about metabolism.
+主要要说说甲状腺激素
+Mainly going to talk about thyroid hormone
+以及生长激素和其他一些相关通路
+and growth hormone and some other related pathways.
+我将向你解释逻辑
+I'm going to explain to you the logic
+甲状腺激素和生长激素如何工作
+of how thyroid hormone and growth hormone work.
+我为什么把甲状腺和生长激素放在同一期里讲
+It will become obvious why I've paired thyroid
+之后你们就会知道为什么了  显而易见
+and growth hormone together in the same episode.
+我当然会谈谈工具方法
+And I will of course talk about tools
+可以用来提升或减少甲状腺激素
+that you can use to elevate or reduce thyroid hormone.
+在某些情况下  人们希望减少甲状腺激素
+There are cases where people want to reduce thyroid hormone.
+我将讨论你可以使用的工具
+I will talk about tools that you can use
+来提升生长激素
+to elevate growth hormone.
+在少数情况下  人们
+There are rare cases where people
+要减少生长激素
+want to reduce growth hormone.
+大多数人都对增加生长激素感兴趣
+Most people are interested in increasing growth hormone.
+因此  今天将充满干货
+So today is going to be rich with information,
+丰富的可行工具
+rich with actionable tools.
+和往常一样  这个想法是阐明
+And as always, the idea is to spell out
+组织逻辑  这样你就可以离开
+an organizational logic so you can come away
+从这个播客  事实上
+from this episode and in fact
+整个月服用激素
+the entire month on hormones,
+在一定程度上真正理解
+really understanding at some level
+这些所谓的荷尔蒙是什么以及它们如何发挥作用
+what these things we call hormones are and how they work.
+这真的可以让你充满知识   当遇到不确定信息的时候
+And that's really to arm you to encounter information
+不管它是否来自我
+going forward, whether or not it comes from me
+或其他人的书或课程
+or from somebody else, a book or a course,
+在网上其他地方了解如何工作
+someplace else online to make sense of how to work
+这些不可思议的化学物质被称为激素
+with these incredible chemicals we call hormones.
+在我们开始谈论甲状腺和生长激素之前
+Before we begin to talk about thyroid and growth hormone
+以及我们的新陈代谢如何运作以及如何控制新陈代谢
+and how our metabolism works and how to control metabolism,
+我想回答我收到的一些问题
+I want to answer a few questions that I received
+从观众那里
+from you from the audience.
+每过一段时间
+Every once in a while,
+有人会给我一个很认真的问题
+someone will send me a quite earnest question
+关于他们在互联网上看到的内容
+about something they saw on the internet.
+我听说过的一件事
+And one of the things I've heard about quite a bit
+在过去的几周里  我们一直在谈论
+in the last couple of weeks as we've been talking
+关于激素和食物的摄入量以及它们如何相互作用
+about hormones and food intake and how those interact
+这个问题是  某些食物
+is this question of are certain foods
+是不是对身体的某些器官特别有益？
+particularly good for certain organs of the body?
+并且可以
+And can that be predicted
+根据那些食物的形状来预测判断？
+on the basis of the shape of those foods?
+所以首先  我想说的是这个问题
+So first of all, I want to acknowledge the question
+是一个正经问题
+as a valid one, because I see this
+因为我每隔一段时间就会看到
+every once in a while out there.
+人们会说  嗯
+People will say, well, you know,
+核桃是大脑的形状
+walnuts are in the shape of the brain
+因此它们对你的大脑有益  或者
+and therefore they are good for your brain or, you know,
+像甜菜这样的特殊水果通常看起来像一颗心
+a particular fruit like the beet often looks like a heart
+对你的心脏有好处
+and it's good for your heart.
+我当然高兴看到大家提出各种问题
+And I certainly invite questions of all kinds,
+只要是真诚的问题
+provided they're sincere questions.
+但是  我现在不知道有任何科学表明
+However, I am not aware of any science whatsoever
+对于某种食物形状的想法
+supporting the idea that the shape of a given food
+或与此相关的对象
+or object for that matter is relevant
+它在生物学中对人体的功能作用
+to its functional role in the body in reference to biology.
+那么  甜菜含有一种物质
+Now, beets contain something
+今天我们等等要谈论的
+that we're going to talk about today.
+它们含有一种叫做精氨酸的物质
+They contain a substance called arginine,
+实际上可以控制扩张
+which actually can control the dilation
+血管和动脉
+of blood vessels and arteries.
+因此  它与心脏和心脏健康有一定关系
+So it has some relationship to heart and heart health.
+核桃含有各种脂肪酸
+Walnuts contain various fatty acids
+也许  我想强调一下
+that maybe, I want to underscore maybe,
+对大脑健康的某些方面有益
+beneficial for certain aspects of brain health
+但没有任何证据说明
+but there's no evidence whatsoever
+食物营养与本身的形状是相关的
+that the shape of the food itself is relevant.
+而且  我认为实际上
+And, you know, I think what's happened is,
+大家在网上
+is that people have gone out there
+发现含有某些物质的食物
+and found foods that contain certain substances
+像胡萝卜和维生素A
+like carrots and vitamin A
+或核桃以及特定的脂肪酸
+or walnuts and particular fatty acids
+或甜菜和精氨酸
+or beets and arginine.
+他们选择了这些食物
+And they've selected the foods
+碰巧是器官的形状
+that happen to be in the shape of the thing,
+特定物质如维生素A的器官
+the organ that the particular substance like vitamin A
+或脂肪酸等可能有益或支持
+or fatty acids and so forth might benefit or support.
+但是当然  还有许多其他来源
+But of course, there are many, many other sources
+这些不是来自核桃的营养素
+of these nutrients that don't come from walnuts
+或甜菜或胡萝卜
+or from beets or from carrots.
+所以我想简单来说
+And so I guess the short way to put it
+就是一些食物的形状
+is that the idea that the shape of some food
+与表明该食物是否能帮助
+is an indication of whether or not that food
+身体中的特定器官的健康
+would be healthy for a particular organ in the body
+这是完全没有根据的
+is absolutely unfounded.
+我不知道有任何的证据
+I don't know of any evidence for it
+我并不想打消任何人对某种食物的喜爱
+and I'm not out to quash anybody's great love of these foods.
+我喜欢我刚才描述的所有食物
+I enjoy all the foods I just described,
+但是物质在宇宙中的形状
+but the shape of things in the physical universe
+与其中包含的营养
+bears very little, if any, relevance
+其对某种器官的有益  这两者几乎没有任何相关性
+to the nutrients that it contains and therefore the organs that it supports.
+所以谢谢你的问题
+So thank you for your question
+但是如果你看到网上这么说
+but if you see that out there,
+我甚至不认为你需要告诉那个人
+I don't even think you need to tell the person
+那些将这些信息释出给世界的人
+who's putting that information out into the world.
+不如选择战术性后退
+I would just, you know, back away slowly.
+另一方面  在我们探讨今天的材料之前
+One other thing, before we move into today's material,
+上一集  我谈到了问题
+last episode, I talked about the problems
+在高度加工的食品中使用乳化剂
+with emulsifiers in highly processed foods
+以及他们剥离的方式
+and the way that they can strip
+肠粘膜衬里
+the mucosal lining of the gut.
+它们可以限制CCK等激素的信号传导
+And they can limit the signaling of hormones like CCK
+可以预示着大脑的饱腹感
+that can signal to the brain satiety,
+停止进食的信号
+the signal to stop eating.
+然后我们进行了讨论
+And then we got into a discussion
+关于人造甜味剂
+about artificial sweeteners
+我把甜叶菊当作人造甜味剂讲了
+and I threw out Stevia as an artificial sweetener.
+有几个人提出异议来纠正我
+And several people reached out to correct me
+甜叶菊不是人造甜味剂
+that Stevia is not an artificial sweetener,
+它是一种无热量的甜味剂  是的你们是正确的
+it is a noncaloric sweetener, and you are correct.
+我将人造甜味剂和非热量甜味剂混在一起了
+I lumped artificial and noncaloric sweeteners together.
+感谢你们中的许多人  也给我提供了一些参考
+And thanks to many of you that also sent me some references.
+甜菊似乎对肠道微生物组没有负面影响
+It does not appear that Stevia can negatively impact the gut microbiome.
+在无热量甜味剂中  它似乎确实是独一无二的
+It does seem unique among noncaloric sweeteners.
+可能还有其他物质  我们还不知道
+There are probably others out there.
+我们讨论的另一件事是甜叶菊
+The other thing that we discussed is how Stevia
+会导致血糖轻度升高
+can lead to slight increases in blood glucose
+但也可以稍微改善胰岛素管理
+but can also improve insulin management just slightly,
+就其对血糖的影响而言  可能会抵消为零
+probably cancels to zero in terms of its impact on blood glucose,
+因为它没有特别的甜
+provided it's not at concentrations that are super, super sweet.
+摄入任何非常甜的东西
+Ingestion of anything that's very sweet,
+不论是否含有卡路里  人造的与否
+whether or not contains calories or not, artificial or not,
+都将产生胰岛素反应
+will create an insulin response.
+实际上  只是走过一家面包店
+In fact, just walking past a bakery
+闻到美味的烘焙食品
+and smelling delicious baked goods
+都可以增加你的胰岛素分泌
+can increase your insulin secretion.
+因此  我们只想指出这一点
+And so we just want to point that out.
+感谢你的信息
+Thank you for the information
+以及你找到的参考
+and the references that you found.
+如果找到其他邮件  请发送其他邮件
+Please send additional ones if you do find them.
+我感谢你允许我进行更正
+And I appreciate that you allow me to make corrections
+每隔一段时间我必须在这里讲话
+every once in a while I must speak here
+并有机会进行更正
+and the opportunity to make corrections
+让我们所有人都在同一页面上
+keeps us all on the same page.
+并且请保留你的任何反馈意见
+And please do keep any feedback that you have
+关于我将在这里介绍的特定内容
+about particular things I cover here coming my way.
+大家对新陈代谢的兴趣很大
+There is so much interest in metabolism.
+我们听说过新陈代谢过高或过低
+We hear about having a high or a low metabolism.
+网上经常有人
+There are some people out there
+喊着想要减少他们的新陈代谢
+who would like to reduce their metabolism.
+他们根本无法吃足够的食物来维持体重
+They simply can't eat enough to maintain their weight.
+但是  大多数人都在与相反的问题作斗争
+Most people, however, struggle with the opposite issue.
+他们努力保持健康的体重
+They struggle to maintain a healthy weight
+他们的新陈代谢过低
+and/or their metabolism is too low.
+那么  有多种原因
+Now, there are a variety of reasons
+为什么新陈代谢会很低
+why metabolism can be low.
+今天  我们要讨论两种激素
+Today, we are going to talk about two hormones,
+甲状腺激素及其相关通路
+thyroid hormone and its related pathways
+以及生长激素及其相关通路
+and growth hormone and it's related pathways,
+可以说是两种激素
+which arguably are the two hormones
+身体中最重要的两个系统
+and two systems in the body that are most significant
+用于设置新陈代谢的整体水平
+for setting your overall level of metabolism.
+在我们深入探讨这些之前
+Before we dive into those,
+我只想介绍一下什么是新陈代谢
+I just want to cover a little bit of what metabolism is.
+我想谈谈你体内的哪些器官
+And I want to talk about which organs in your body
+消耗最大的能量
+use the most energy.
+所以新陈代谢就是能量的消耗
+So metabolism is the consumption of energy,
+不一定吃
+not necessarily eating,
+但这是利用人体细胞中能量
+but it's the use of energy in the cells of the body
+用于组织生长  用于组织修复
+for growth of tissues, for repair of tissues,
+并且也仅用于日常维护功能
+and also just for day-to-day maintenance of function.
+维护功能的好例子
+A good example of maintenance of function
+将是你的大脑
+would be your brain.
+你大部分的新陈代谢需求
+Most of your metabolic needs,
+你所谓的基础代谢或静息代谢需求
+your so-called basal or resting metabolic needs
+是为了你的大脑  为了思维
+are for your brain, for thinking.
+如果你整天坐在床上
+If you were to just sit in a bed all day
+除了思考  什么都不做
+and do nothing but think,
+消耗大约75％的新陈代谢需求
+that consumes about 75% of your metabolic needs.
+那么  也正在四处走动
+Now, there's also moving around.
+如果你的工作需要繁重的工作
+If you have a job that requires a lot of heavy labor
+或举重或你是新父母
+or lifting things or you're a new parent
+而且你带着孩子们到处走
+and you're carrying kids around
+而你正在上下楼梯
+and you're going up and down the stairs
+或来来回回走到冰箱
+or back and forth to the refrigerator for formula, et cetera,
+好了  那么你就在燃烧更多的能量  燃烧更多的卡路里
+well then you're burning more energy, burning more calories.
+但是  即使你身体非常活跃
+But even if you are very physically active,
+除非你是超级马拉松运动员或马拉松运动员
+unless you're an ultra marathoner or a marathoner,
+可能你的新陈代谢需求的75％
+chances are that 75% of your metabolic needs
+都是来自你的大脑
+are coming just from your brain.
+那是因为神经元消耗大量能量
+And that's because neurons consume a lot of energy.
+当然  神经元只是大脑的神经细胞
+Neurons, of course, are just the nerve cells of your brain.
+所以这两种激素  甲状腺激素和生长激素
+So these two hormones, thyroid hormone and growth hormone,
+我们认为这与体内事物的新陈代谢有关
+we think of as related to metabolism of things in the body,
+保持体内低脂肪  保持肌肉强壮
+keeping body fat low, and keeping muscles strong,
+和肌腱强壮并自我修复  等等
+and tendons strong and repairing themselves, et cetera,
+但它们也是大脑功能的关键
+but they are also key for brain function,
+保持认知功能的能力
+for the ability to maintain cognitive function
+在整个生命周期中
+throughout the lifespan.
+所以我想介绍一个大主题
+So the big theme I'd like to introduce
+是新陈代谢不只是减肥
+is that metabolism isn't just about losing weight
+但是新陈代谢很高
+but having a high metabolism,
+只要它不太高  那就好
+provided it's not too high, is great.
+这意味着你将拥有更多的瘦组织
+It means that you will have more lean tissue,
+骨骼和肌肉更多  而脂肪组织  脂肪更少
+more bone and muscle and less adipose tissue, fat.
+而且我们知道那是健康的
+And we know that that's healthy.
+多少脂肪和多少肌肉？
+How much fat and how much muscle?
+嗯  这有所不同
+Well, that varies,
+而且这个数字总是在变化
+and the numbers on this are always shifting.
+但一般来说  肌肉及其相关组织
+But in general, muscle and its related tissues
+比脂肪组织或脂肪消耗更多的能量
+burns more energy than does adipose tissue or fat.
+而且你体内的水不会消耗任何能量
+And the water in your body doesn't consume any energy.
+所以可以增加新陈代谢
+So metabolism can be increased
+简单地通过增加肌肉到你的身体
+simply by adding muscle to your body
+并减少脂肪或调整两者的比例
+and reducing fat or adjusting the ratio of the two.
+但是不管  即使你不感兴趣
+But regardless, even if you're not interested
+在改变身体成分时  这两种激素
+in changing body composition, these two hormones,
+甲状腺激素和生长激素
+thyroid hormone and growth hormone,
+对各种新陈代谢都非常重要
+are super important for metabolism of all kinds,
+包括受伤后的组织修复
+including tissue repair after injury,
+包括维持认知功能
+including maintaining cognitive function
+和幸福感以及随着年龄增长而清晰思考的能力
+and well-being and the ability to think clearly as you age,
+抵消痴呆症等等
+offsetting dementia and so forth.
+因此  这里的大主题确实包括以前的播客
+So the big theme here really includes the previous episodes.
+你不必看过这些播客
+You don't have to have seen those episodes
+但对于最后三集以及今天
+but for the last three episodes and today as well,
+我们一直在谈论激素
+we've been talking about hormones,
+从一个位置释放的这些物质
+these substances that are released from one location
+在身体中扮演其他角色
+in the body that go and act other locations in the body.
+我要告诉你它是如何工作的
+I'm going to tell you how that works
+用于甲状腺和生长激素
+for thyroid and growth hormone.
+但是现在你已经听说过睾丸激素和雌激素
+But now that you've heard about testosterone and estrogen
+然后你将听到有关甲状腺和生长激素的信息
+and you're going to hear about thyroid and growth hormone,
+我希望你认识到有一些重复的大逻辑
+I want you to realize that there's a repeating logic.
+首先  你的大脑中有神经元
+First of all, there are neurons in your brain
+在下丘脑区域
+in an area called the hypothalamus,
+这只是意味着它在丘脑下方  下垂
+which just means it's below the thalamus, hypo.
+它位于你的大脑底部
+It sits at the base of your brain,
+在前面  它是前脑的一部分
+in the front, it's part of the forebrain.
+因此  它或多或少在你的嘴顶上方
+So it's more or less above the roof of your mouth,
+大概一公分左右
+maybe about a centimeter or so,
+然后在大多数人中向前大约一厘米
+and then about a centimeter forward in most people.
+下丘脑中的神经元释放激素
+And neurons in the hypothalamus release hormones
+被称为释放激素
+that are called releasing hormones.
+所以我们在前几集中谈到了
+So we've talked in previous episodes
+关于例如促性腺激素释放激素
+about, for instance, gonadotropin-releasing hormone.
+所以那是一些神经元  然后发出信号
+So those are a little neurons that then signal
+呼叫另一个大脑区域  叫做“垂体”
+another brain area called the pituitary
+让它释放其他激素
+to release other hormones.
+今天  我们将再次看到这一点
+Today, we're going to see this again.
+在大脑中  你的神经元释放促甲状腺激素
+In the brain, you have neurons that release thyrotropin
+或甲状腺释放激素
+or thyroid-releasing hormone.
+你也有生长激素释放激素
+You also have growth hormone-releasing hormone.
+因此  每当你听到“释放”时
+So anytime you hear releasing,
+基本上就是那些在大脑中的神经元
+chances are those are neurons that are in your brain
+它们会延伸一些小丝  我们称之为轴突
+and they extend little wires we call axons
+进入你的垂体
+into your pituitary and the pituitary
+然后垂体将一堆激素释放到血液中
+releases a bunch of hormones into the bloodstream.
+垂体 “释放”的东西
+And the pituitary releases things
+名称中经常带有“刺激性...荷尔蒙”
+that most often have the name of stimulating hormone
+因为它们直接刺激器官
+because they stimulate organs.
+因此  为了符合甲状腺激素的主题
+So in keeping with the theme of thyroid hormone,
+你的大脑中有“甲状腺释放激素  ”
+you have thyroid-releasing hormone in the brain,
+告诉垂体释放“促甲状腺激素”
+tells the pituitary to release thyroid-stimulating hormone
+然后是我们稍后要说到的  甲状腺
+and then the thyroid, which we'll talk about in a moment,
+甲状腺释放甲状腺激素
+releases thyroid hormones.
+在睾丸激素和雌激素事件中
+In the testosterone and estrogen episode,
+我们谈到了你如何释放促性腺激素
+we talked about how you have gonadotropin-releasing hormone,
+在大脑中又有释放
+there's the releasing again, up in the brain.
+记住  释放激素来自大脑
+Remember, releasing hormone comes from the brain.
+然后你有黄体生成激素之类的东西
+Then you had things like luteinizing hormone
+和促卵泡激素
+and follicle-stimulating hormone,
+垂体分泌 然后被运输到
+which were in the pituitary and those traveled
+卵巢或睾丸
+to the ovaries or the testes
+并作用在那些组织上  好吧
+and acted on those tissues, okay?
+因此  请尝试深深地记住此逻辑
+So please try and embed this logic.
+如果你听到“释放激素”一词
+If you hear the word releasing hormone,
+它基本上是来自大脑  这使它具有可行性
+it's coming from the brain, and that makes it actionable
+以某些方式  我们稍后会回过来讲
+in certain ways that we'll return to later.
+另外  垂体让所有这些激素
+In addition, the pituitary is letting go
+进入血液
+of all these hormones into the bloodstream
+刺激不同的组织
+that are stimulating different tissues.
+因此  对于甲状腺来说  它是促甲状腺激素
+So for thyroid, it's thyroid-stimulating hormone.
+然后它进入甲状腺
+And then it goes to the thyroid.
+甲状腺是一个小蝴蝶状的腺体
+And the thyroid is a little butterfly-shaped gland
+就在亚当的苹果（喉结）周围
+that's right around the Adam's apple.
+如果你想看自己的  直接看不到
+If you want to see yours, not directly
+因为它上面有皮肤
+'cause it's got skin over it,
+你可以喝一口水
+what you would do is you'd take a sip of water,
+你会照镜子  然后会吞咽
+you'd look in the mirror and you'd swallow.
+上下移动的是甲状腺
+And the thing that moves up and down, that is your thyroid.
+那么  有人称它为你的亚当的苹果（喉结）
+Now, some people call it your Adam's apple
+因为它正好位于气管突出处附近
+because it sits right near this protrusion in the trachea,
+这是亚当的苹果（喉结）
+which is the Adam's apple.
+不管你是男是女
+No matter, whether or not you're male, female,
+或不管你的染色体背景是什么
+or regardless of what your chromosomal background is,
+每个人都有一个亚当的苹果
+everyone has an Adam's apple.
+它在在发育的早期睾丸激素上升快的人身上
+It tends to be more pronounced in people
+往往更明显
+that got a surge of testosterone early in development
+因为它对睾丸激素敏感
+because it has a testosterone sensitivity to it.
+这实际上控制了音色
+And that actually controls the timbre,
+所谓的声音深沉
+the so-called deepness of the voice.
+所以甲状腺就在那里
+So the thyroid gland sits right there
+它后面有四个小凸起
+and it's got four little bumps behind it
+叫做甲状旁腺
+called the parathyroid gland.
+并释放两种激素到血液中
+And it releases two hormones into the blood
+刺激不同的组织及其新陈代谢
+to stimulate different tissues and their metabolism.
+这些激素称为T4和T3
+And those hormones are called T4 and T3.
+如果这听起来已经有点难了  别担心
+So if this is already sounding
+我保证  就像很多之前讲的内容一样  这真的很容易
+like a lot of information, it's really easy, I promise.
+释放激素来自大脑
+Releasing hormone comes from the brain.
+刺激性激素来自垂体
+Stimulating hormone comes from the pituitary.
+在这种情况下  我们谈论的是甲状腺
+And in this case, we're talking about the thyroid,
+捆绑刺激性激素并说  哦
+binding up that stimulating hormone and saying, oh,
+我要释放点东西
+I need to release something.
+并释放T4和T3
+And it releases T4 and T3.
+你猜怎么着？
+And guess what?
+你基本上可以忘记T4
+You can basically forget about T4.
+T4  它虽然不是完全不活动  它有一些作用
+T4, it's not completely inactive, it has some roles,
+但是T3或多或少更加活跃
+but T3 is the one that's more or less active.
+那么  甲状腺激素有什么作用？
+Now, what does thyroid hormone do?
+很多人认为  哦  甲状腺
+A lot of people think, oh, thyroid,
+就像是新陈代谢和甲状腺功能亢进的人
+it's like metabolism and people who are hyperthyroidal
+眼睛鼓鼓  很瘦
+have bulging eyes and are real thin
+甲状腺功能减退的人超重
+and people who have hypothyroid are overweight
+他们的眼睛就像
+and their eyes are like are, you know,
+半封闭或什么
+half closed or something.
+确实是甲状腺激素的控制
+And indeed thyroid hormone controls
+面部和眼睛的许多特征
+a lot of the features of the face and the eyes.
+而且它可以控制脂肪组织等的数量
+And it can control amounts of adipose tissue and so forth.
+但是  甲状腺激素的主要作用是T3
+But the main role of thyroid hormone, of T3,
+是促进新陈代谢
+is to promote metabolism.
+这不仅仅意味着能源的消耗
+And that doesn't just mean the consumption of energy,
+这意味着能源的利用
+it means the utilization of energy,
+包括组织堆积
+including the buildup of tissues.
+因此  它作用于体内的各种目标组织
+So it acts on all sorts of target tissues in the body.
+它作用于肌肉  作用于肝脏
+It acts on muscle, it acts on the liver,
+它作用于软骨  作用于骨骼
+it acts on the cartilage, it acts on the bone.
+它不仅涉及能源消耗
+And it's not just involved in using energy,
+它也在转换能量
+it's also converting energy.
+我的确意识到我说了两次
+I do realize I said that twice.
+它与脂肪有关
+It's involved in taking fats
+然后将它们分解成脂肪酸
+and breaking them down into fatty acids
+并将其转换为ATP
+and converting those into ATP,
+对于细胞利用能量而言  这很重要
+which is an important thing for cells to use energy.
+它也参与糖的摄取
+It's also involved in taking sugars
+并将它们转化为能量
+and turning those into energy.
+是的  它可以使脂肪组织变胖
+And yes, it goes to adipose tissue to fat.
+今天我们要谈论的脂肪种类繁多
+We have different kinds of fat that we'll talk about today
+但它会变成白色脂肪
+but it goes to white fat
+它会释放或帮助释放一些脂肪
+and it liberates or helps liberate some of the fats
+从这些脂肪细胞中获取能量
+from those fat cells and use them for energy.
+这就是为什么甲状腺素高
+And this is why higher thyroid
+与瘦身相关
+is associated with leaner bodies.
+更低的甲状腺激素水平  往往人不会那么瘦
+Lower thyroid is associated with less lean bodies.
+因此  一件事绝对是关键并且是可行的
+So one thing that's absolutely key and is actionable,
+我们已经在讨论工具了  是碘
+we're right there already in discussing tools is iodine.
+碘来自海洋中的东西  对不对？
+Iodine comes from things in the ocean, right?
+以下是有关碘的一些有趣的事实
+And here are a couple of interesting facts about iodine.
+然后我们将讨论是否
+And then we'll talk about whether or not
+你应该补充碘还是不补充碘
+you should be supplementing iodine or not.
+首先  碘是最常见的
+First of all, iodine is most common
+海盐  海带和海藻中
+in sea salt, in kelp and in seaweed.
+而且大多数人都能得到足够的碘
+And most people can get enough iodine
+从他们吃的食物和/或食用的食盐中获取
+from the food they eat and/or the table salt they consume.
+几乎所有来自世界各地的食盐
+Almost all table salt from all over the world,
+无论你身在何处  都含有碘
+regardless of where you are, contains iodine.
+甲状腺需要碘
+The thyroid needs iodine
+为了产生甲状腺激素
+in order to produce thyroid hormone.
+而且你需要足够水平的甲状腺激素
+And you need sufficient levels of thyroid hormone,
+不用太多  但是你需要它
+not too much, but you need it.
+因此  你有可能摄入足够的碘
+So chances are you are getting enough iodine.
+虽然你可能不会
+Although, you might not,
+特别是你们中那些特别想吃
+especially those of you following a particularly,
+“干净饮食”的人
+quote, unquote, clean diet,
+可能摄入的碘不足
+might not be getting enough iodine.
+这是碘的问题
+Here's the deal with iodine.
+碘与氨基酸结合
+Iodine combines with an amino acid
+我们之前所说的L-酪氨酸
+that we've talked about before called L-tyrosine.
+L-酪氨酸来自肉  来自坚果
+L-tyrosine comes from meat, from nuts.
+也有一些基于植物的资源
+There are some plant-based sources as well.
+它是多巴胺的前体
+It is the precursor to dopamine.
+但是在甲状腺中  碘会结合或起作用
+But in the thyroid, iodine combines or works
+与L-酪氨酸一起产生甲状腺激素T3和T4
+with L-tyrosine to produce T3 and T4, the thyroid hormone.
+因此  你绝对需要足够的碘
+So you absolutely need sufficient iodine,
+你需要足够的L-酪氨酸
+you need sufficient L-tyrosine,
+然后你还需要其他东西
+and then you also need something else,
+这就是所谓的硒
+which is called selenium.
+稍后我们将讨论硒
+And we'll talk about selenium in a moment.
+所以有一个情况出现了
+So there's a condition that shows up
+在世界上的部分地区
+in little pockets in the world.
+这不是超级常见  这意味着它不是很普及
+It's not super common, meaning it's not very widespread,
+但在远离海洋的某些地区
+but in certain areas that are far away from the ocean,
+在某一个时间段  也就是历史上
+at one point, this was historically
+在美国中西部各州
+in the Midwestern states of the United States,
+在其他国家的一些山区
+in some mountain regions of other countries,
+在非洲一些远离海洋的地区
+in some areas of Africa that were far from the ocean,
+人们的脖子会出现极度肿胀的凸起
+people would get extremely swollen bulges in their necks.
+这就是所谓的甲状腺肿大
+And this was called goiter.
+以及他们得到那些肿胀的原因
+And the reason they were getting those swollen bulges
+是因为甲状腺本身肥大
+is because the thyroid itself was hypertrophying.
+它正在努力增加甲状腺的分泌
+It was growing in an attempt to churn out more thyroid.
+而且因为它变得越来越多
+And because it was getting a lot
+垂体刺激激素
+of stimulating hormone from the pituitary.
+我不想在这里说的太多
+And I don't want to go too far off track here
+但是正如你回想的那样
+but as you recall,
+大脑和垂体正在关注
+the brain and the pituitary are paying attention
+在细胞意义上讲  是血液中激素的水平
+in a cellular sense to the levels of hormones in the blood.
+当这些激素过高时
+And when those hormones get too high,
+他们关闭了刺激性激素
+they shut off the stimulating hormone,
+他们关闭信号以分泌更多
+they shut down the signal to make more,
+有点像恒温器
+kind of like a thermostat.
+当水平太低时
+When the levels are too low,
+也就是血液中的睾丸激素不足
+like there's not enough testosterone in the bloodstream
+或雌激素不足
+or there's not enough estrogen,
+大脑将继续发出信号以产生更多的信号
+the brain will continue to push out the signal to make more.
+同样  如果没有足够的甲状腺循环
+Similarly, if there's not enough thyroid circulating
+或碘不足以制造甲状腺
+or there's not enough iodine to make thyroid,
+因此甲状腺激素循环不足
+therefore not enough thyroid hormone circulating,
+甲状腺本身并未关闭
+the thyroid gland itself is not getting shut down.
+有大量的刺激性激素
+There's tons of stimulating hormone
+并释放来自大脑的荷尔蒙
+and releasing hormone coming from the brain,
+如释放  释放  释放
+like release, release, release,
+他们不可能制造甲状腺激素
+and there's no way they can make thyroid hormone
+所以腺体越来越大
+and so the gland just gets bigger and bigger and bigger.
+这样人们就变得甲状腺肿了
+And so people get goiter.
+这就是食盐中含碘的原因之一
+This is one of the reasons why table salt has iodine in it.
+虽然还有其他食物
+Although there are other foods
+里面也有碘
+that have iodine in it as well.
+那么  你需要多少碘？
+So how much iodine do you need?
+好吧  你不需要很多
+Well, you don't need a whole lot.
+有些甲状腺功能减退的人可能会
+Some people who are hypothyroidal might,
+我想强调一下
+and I want to emphasize might,
+你绝对要与你的医生讨论
+you absolutely should talk to your doctor.
+这是一个严重的问题
+This is a serious matter.
+每当你在谈论激素
+Anytime you're talking about hormones
+或控制甲状腺水平
+or manipulating levels of thyroid,
+你绝对想与你的医生讨论
+you absolutely want to talk to your doctor.
+有些人可以从补充碘中受益
+Some people benefit from supplementing iodine.
+它包含在大多数盐中
+It is contained in most salts.
+并非总是  但经常在喜马拉雅盐中
+It's in Himalayan salt, not always, but often.
+我知道这些天粉红盐和海盐的风很大
+I know these days, there's a lot of excitement
+以及什么其他的盐
+about pink salts and sea salts and what,
+它们是一种工匠制盐的东西
+you know, they're kind of artisan salt thing
+在美食界刮起了一阵大风  这很棒
+has kind of taken off in the foodie land, which is great.
+其中一些实际上非常好吃
+Some of them are actually quite tasty.
+如果你喜欢盐的味道  可以直接服用
+You can just take it directly if you like the taste of salt.
+但是补充碘
+But iodine can be supplemented
+可以通过海带  紫菜和海带片
+through things like kelp and seaweed and kelp tablets.
+那么  如果你患有甲状腺功能亢进症  那么你的甲状腺激素过多
+Now, if you are hyperthyroidal, you make too much thyroid,
+这就是一个问题了
+that actually can be a problem.
+所以说真的  弄清楚这一点的最好方法
+So really, the best way to figure this out
+是为了让你的血液中的甲状腺激素水平得到测试
+is to get your blood levels tested of thyroid hormone.
+但是海洋里有太多碘
+But there's so much iodine in the ocean
+信不信由你  住在海岸附近的人
+that believe it or not people that live near the coast
+实际上可以通过空气吸收它
+can actually just absorb it through the air,
+只是通过呼吸海洋空气
+just by breathing ocean air.
+这样就可以让你了解碘的含量
+So that gives you a sense of just how little iodine
+你实际上需要食用食物或盐
+you actually need to consume in food or in salt.
+因此  如果你在海洋的几英里范围内
+So if you're within a few miles of the ocean
+或者你不时地去海边玩
+or you visit the ocean from time to time,
+你可能会变得富含碘
+you're probably getting plenty.
+正如我所提到的  它必须与L-酪氨酸
+It does have to come together, as I mentioned,
+结合在一起
+with L-tyrosine,
+这就是为什么含有L-酪氨酸的食物
+and this is why foods that contain L-tyrosine,
+并且只要你的饮食中有足够的碘
+and provided that you have sufficient iodine in your diet,
+如果你的饮食中有足够的硒
+and if you have sufficient selenium in your diet,
+确实有助于增加新陈代谢
+does serve to increase your metabolism.
+这又是为了组织的生长和修复
+And that again is for the growth and repair of tissues.
+这真的很重要
+And that's really important.
+不仅仅是保持新陈代谢
+It's not just about keeping your metabolism high
+这样你就可以更瘦一点
+so that you can be on the leaner side of things
+或调整体重  对不起
+or adjust your body weight, excuse me,
+你的体脂比率可以按照你的喜好来
+your body composition ratios the way you like.
+修复受伤  脑组织修复
+Repair of injuries, repair of brain tissue,
+清除神经元的任何损伤
+clearance of any damage from neurons,
+清除身体上的任何损坏
+clearance of any damage to the body
+也将依赖甲状腺
+is also going to depend on thyroid.
+同样  新陈代谢就是这种
+Again, metabolism being this kind of rate
+体内的燃料消耗和使用情况的速度
+of fuel consumption and use in the body, generally,
+不只是体重指数和类似的东西
+not just about body mass indexes and things of that sort.
+因此  我们来谈谈硒  因为硒确实很重要
+So let's talk about selenium because it's really important.
+即使大多数人都吃够了
+And even though most people are getting a lot
+足够的碘
+of sufficient iodine,
+而且大多数人可能正在摄取足够的L-酪氨酸
+and most people are probably getting enough L-tyrosine.
+我猜大多数人可能没有得到足够的硒
+I'm guessing most people may not be getting enough selenium
+如果他们的目标是增加甲状腺激素
+if their goal is to increase thyroid hormone,
+至少那是文献中所说的
+at least that's what the literature says.
+不谈一些生化方面的东西
+Without going into the biochemistry,
+硒很重要
+selenium is important in order
+对于制作甲状腺激素
+for thyroid hormone to be made
+因为它允许L-酪氨酸
+because of the way that it allows L-tyrosine
+和碘相互作用
+and iodine to interact.
+问题是大多数人硒摄入不足
+And the thing is most people aren't getting enough selenium
+因为他们不吃硒含量高的食物
+because they don't eat foods that are high in selenium.
+那么  你需要多少硒
+Now, how much selenium you need
+将取决于你生活在哪
+will depend on where you live.
+实际上  每个国家/地区都不同
+It actually varies country by country.
+我发现的一些国家
+Some countries I found
+说你应该得到100微克
+say that you should get 100 micrograms,
+有人说200  有人说155
+some say 200, some say 155.
+平均约为155微克
+The average was about 155 micrograms,
+我看过的国家
+the countries I looked at.
+试图增加甲状腺水平的人
+People who are trying to increase thyroid levels
+可能要消耗更多的硒
+might want to consume more selenium.
+当然  如果你摄取维生素
+And if you consume a vitamin, of course,
+你想确定它是否含有硒
+you want to make sure if it has selenium
+你不会因为消耗而过度使用
+that you're not overdoing it by consuming
+也有很多富含硒的食物
+a lot of selenium rich foods either.
+但是  尽管如此  我认为这很公平
+But nonetheless, I think it's fair to say
+大多数人可能会做得很好
+that most people probably could do well
+通过摄入比目前略多的硒
+by ingesting slightly more selenium than they currently are.
+虽然  当然  请务必与你的医生讨论
+Although, of course, always talk to your doctor.
+巴西坚果是重量级冠军
+Brazil nuts are the heavyweight champion
+从硒中提取的食物
+of foods to get selenium from.
+它具有很高的硒含量
+It has very high concentrations of selenium.
+仅用六八颗巴西坚果
+In just six or eight Brazil nuts
+含有约550微克的硒
+contain something like 550 micrograms of selenium.
+它也存在于鱼中
+It's also present in fish.
+所以某些鱼  例如黄鳍金枪鱼
+So certain fish like yellowfin tuna,
+尽管如今我提起金枪鱼或贝类
+although nowadays whenever I mention tuna or shellfish,
+这是硒的另一丰富来源
+which is the other rich source of selenium,
+人们会立即告诉我
+people will tell me immediately
+农场  养殖地有各种各样的问题
+there are all sorts of issues around farm,
+有汞等等
+not farm, mercury, et cetera.
+所以我从来没有特别喜欢吃鱼
+So I've never particularly liked eating fish
+因为口味的原因
+'cause of the way it tastes.
+所以这就是为什么我避免它
+So that's why I avoid it.
+但是对于那些喜欢它的人
+But for those of you that like it,
+我敢肯定你会更熟练地知晓
+I'm sure you're much more skilled
+要买哪种鱼  不能买哪种鱼
+in knowing which fish to buy and which fish not to buy.
+火腿总的来说含有很多硒
+Ham, of all things, contains a lot of selenium,
+不管出于什么原因
+for whatever reason pork does.
+我不是常吃猪肉
+I'm not a big consumer of pork.
+牛肉有一些硒  但是有趣的是
+Beef has some selenium, but what's interesting
+如果你看一下来源  就知道猪肉  牛肉
+if you look at the sources, you know, pork, beef,
+火鸡  鸡肉  干酪  鸡蛋  糙米
+turkey, chicken, cottage cheese, eggs, brown rice,
+你要知道的是巴西坚果
+what you want to understand is that Brazil nuts,
+六到八颗巴西坚果含550微克硒
+six to eight Brazil nuts has 550 micrograms of selenium.
+还有我提到的所有其他食物
+And all the other foods I mentioned
+食物体积更大
+at much greater portion size
+比六到八颗巴西坚果  大得多
+than equivalent to six to eight Brazil nuts,
+无论是体积还是卡路里
+either by volume or by calories,
+他们有大约30至50微克的硒
+they have something like 30 to 50 micrograms of selenium.
+因此  如果你不吃巴西坚果
+So if you're not eating Brazil nuts,
+我猜大多数人不吃
+I'm guessing most people aren't,
+而且你没有吃很多动物肉类
+and you're not eating a lot of animal based foods,
+我知道你们当中很多人不吃动物肉
+which I know many of you aren't,
+那么你可能没有得到足够的硒
+then you're probably not getting enough selenium.
+同样  你可以测量这些水平
+And again, you can have these levels measured
+或者你可以只检查自己正在消耗的东西并弄清楚
+or you can just check what you're consuming and figure out
+你是否正在满足所需的口粮
+whether or not you're meeting the ration that you need
+为了获得健康的甲状腺水平
+in order to get healthy levels of thyroid.
+它存在于蘑菇之类的东西中  但同样
+It is present in things like mushrooms, but again,
+一碗蘑菇  相当于多少呢
+in a bowl of mushrooms, you know, what is the equivalent
+一碗蘑菇要含12微克的硒
+to a bowl of mushroom is 12 micrograms of selenium.
+如果日均摄入量要在100到200之间
+And if the daily ration is something in 100 to 200 range,
+再次  根据你生活地方的标准来定
+again, look it up for the area you are.
+你很快就能看到为什么
+You can see really quickly why even though things
+像蘑菇  菠菜  牛奶和酸奶
+like mushrooms and spinach and milk and yogurt
+还有小扁豆和腰果
+and lentils and cashews,
+在我构建的列表中
+and now we're into the vegetarian segment
+有很多都是素食
+of the list that I constructed,
+你可能没有得到足够的硒
+you're probably not getting enough selenium.
+因此  这是一件有趣的事情
+So it's kind of an interesting thing.
+如果你是一个实验者
+If you're an experimenter
+你得到医生的许可
+and you get the clearance from your doctor,
+你可以尝试增加硒水平
+you could try increasing your selenium levels
+看看这如何影响你的新陈代谢
+and see how that impacts your metabolism.
+同样  巴西坚果可能将是获得足够的硒水平
+Again, Brazil nuts are probably going to be the most direct way
+最直接的方法
+to get sufficient selenium levels
+但是由于巴西坚果的硒含量很高
+but because levels are so high in Brazil nuts,
+这也意味着你可能不能过度使用它
+it also means that you could overdo it as well.
+我真的不知道后果是什么
+I'm not really aware of what the consequences are
+硒过多的后果
+of getting too much selenium, although you can get too much
+我想  过度使用任何东西  后果都不好
+of anything and I'm guessing those consequences aren't good.
+我也想提一提  对于孩子们
+I also want to mention that for children,
+他们每天的硒需求量要低得多
+their daily requirements of selenium are much lower,
+对于14岁以下的孩子  低至30或40微克
+as low as 30 or 40 micrograms for kids 14 years or younger.
+在某些方面  我真的很想强调这一点
+And in some areas, I really want to underscore this,
+每天推荐的硒含量
+the amount of selenium that's recommended daily
+低至55微克
+is as low as 55 micrograms.
+所以不是你应该摄入
+So it's not that you should be shooting
+成千微克的硒甚至数百毫克的硒
+for thousands or even high levels of hundreds of micrograms of selenium.
+再次  这是微克  而不是毫克
+And again, that's micrograms, not milligrams.
+再说一遍  看看你需要什么
+So again, look into what you need
+但是如果你对
+but if you're somebody who's interested
+在保持甲状腺功能健康和高产的过程感兴趣
+in keeping thyroid function healthy and productive,
+那你当然要确保
+then you certainly want to make sure
+你摄取了足够的碘
+you're getting enough iodine,
+你摄取了足够的硒
+you're getting enough selenium
+并且你得到足够的L-酪氨酸
+and you're getting enough L-tyrosine.
+当你开始寻找时  这很有趣
+And it's interesting when you start looking
+在各种食物  特别是高度加工的食物上
+at the various foods, especially highly processed foods,
+然后你开始意识到
+then you start to realize
+也许很多人  也许不是
+that perhaps many people, maybe you, are not.
+硒并非偶然  还有其他一些作用
+Not incidentally, selenium has some other effects
+在健康方面可能是非常积极的
+on health that can be quite positive.
+即使这些与甲状腺无关
+And even though these don't relate to thyroid
+或特定的生长激素功能
+or growth hormone function specifically,
+我想你可能想了解他们
+I think you might want to know about them,
+鉴于我们的主题是硒
+given that we're on the topic of selenium.
+首先是有三项研究
+The first is that there are three studies,
+所有这些都显示出非常高的功效
+all of which showed very high efficacy
+为了减少 先兆子痫的风险
+for reducing the risk of something called preeclampsia,
+对不起  先兆子痫
+excuse me, preeclampsia.
+先兆子痫是一种癫痫发作
+Preeclampsia is seizures that are related
+与在分娩时的
+to blood pressure issues during
+血压问题有关
+or around the delivery of a new baby.
+实际上  这是一种罕见的情况
+And actually, it's a rare-ish condition
+但这实际上可能是致命的
+but it actually can be quite deadly.
+因此硒很重要
+And so the fact that selenium is important
+抵消先兆子痫的风险
+for offsetting preeclampsia risk is interesting.
+我不知道确切的机制
+I don't know the exact mechanism
+我猜只有少数人
+and I'm guessing there are only a few of you out there
+已经怀孕或打算怀孕的人
+that are either pregnant or thinking of conceiving soon,
+但这值得注意
+but that's worth noting.
+显然  任何与怀孕或哺乳有关的事情
+Obviously, anything related to pregnancy or lactation,
+都特别要和你的医生谈谈
+especially talk to your doctor.
+我猜硒可能
+I'm guessing that selenium is probably
+涵盖在很多产前配方中
+in a lot of prenatal formulas
+但这是拥有足够硒的明显好处
+but that's one clear benefit of having sufficient selenium.
+另一个是降低了前列腺癌的风险
+The other is a reduced prostate cancer risk.
+有研究表明  有足够的硒
+There's a study showing that having sufficient selenium
+可以降低前列腺癌的风险
+can reduce prostate cancer risk.
+并且有一些证据
+And there is some evidence
+如果你食用土壤硒含量低的地区的食物
+that if you consume foods from areas with soil
+可能会有问题
+that's low in selenium, that can be a problem.
+上一集  我们谈到了所有与这些土壤质量相关的问题
+And last episode, we talked about all these issues related
+土壤中的物质会进入食物
+to soil quality, things that are making their way into food
+会破坏荷尔蒙等
+that are disrupting hormones and so forth.
+但是食物中有足够的硒
+But having sufficient selenium from food
+可以抵消任何土壤中的低含量
+could offset the low content in any soil.
+这样显然可以降低前列腺癌的风险
+And so that apparently can reduce prostate cancer risk.
+这是次要的影响
+It's a minor effect
+但这是具有统计意义的
+but it's a statistically significant one.
+另一个是减少痤疮
+And the other one is a reduction in acne,
+这很有趣
+which is interesting.
+我猜想这可能与
+I'm guessing that that probably has to do
+甲状腺激素通路有关
+with the thyroid hormone pathway
+因为甲状腺激素可以影响肝脏
+because of the way thyroid hormone can impact the liver.
+事实证明  肝脏
+And it turns out that the liver
+和在肝脏中的各种生化反应
+and various biochemical reactions
+会影响痤疮
+in the liver can impact acne.
+可能可以单独拿出来做一期播客
+And that's probably an episode all into itself
+但这只是一些额外的好处
+but those are just some additional benefits
+获得足够的硒
+of getting a sufficient selenium.
+好的  我们已经深入到了工具
+Okay, so we're already deep into tools
+与确保你有足够的硒有关
+related to making sure that you have sufficient selenium,
+碘和左旋酪氨酸  以使足够
+iodine, and L-tyrosine in order to make enough
+可以支持你的新陈代谢过程的甲状腺激素
+thyroid hormones that can support your metabolic processes
+在你的肝脏  你的肌肉  你的肌腱
+in your liver, your muscles, your tendons,
+无论出于什么目的  保持新陈代谢高
+for whatever purpose, keeping your metabolism high,
+出于身体成分的原因或为了康复
+for body composition reasons or for healing,
+使你的大脑保持良好状态
+for keeping your brain working well.
+我之前提到过  有人
+Earlier I mentioned, there are people
+遵循非常清洁的饮食习惯
+who are following very clean diets.
+因此  这些人不食用加工食品
+So these are people that consume no processed foods.
+他们不吃的任何淀粉
+You know, any starch they might eat
+米饭或谷物
+is going to be maybe a rice or a grain
+或他们不食用任何蛋白质
+or any protein they might consume
+要么来自  要么希望
+is going to be either from, let's hope,
+来自人道饲养的动物
+from humanely raised animal sources
+也许它们是纯植物性的
+or maybe they're pure plant-based.
+那些人信不信由你
+Believe it or not, those folks
+实际上很容易受到低碘的影响
+are actually very susceptible to low iodine
+因为事实证明  饮食中如果富含肉类
+because it turns out that diets that are very meat rich
+而且没有很多蔬菜
+and don't have many vegetables,
+或者说富含蔬菜的饮食
+as well as diets that are very vegetable rich
+但没有太多的肉或盐
+but don't have many meats or salts
+有降低甲状腺激素水平的风险
+are at risk of lowering thyroid hormone
+通过碘通路和其他通路
+by way of the iodine pathway and other pathways.
+因此  让我尝试为你简化此过程
+And so let me try and simplify this for you.
+如果你正在做全肉饮食的话
+Chances are if people are doing the all-meat diet,
+一点都不放水  也不会拿海藻包裹着牛排吃
+they're not sprinkling, they're not wrapping those steaks
+他们很可能
+in seaweed and they may
+缺碘
+or may not be supplementing with iodine.
+他们可能正在食用碘盐
+Chances are they're probably consuming iodine salt
+但是他们所需要的量也上升了
+but their requirements go up
+如果他们不吃蔬菜
+if they're not consuming vegetables.
+食用蔬菜的人很有意思
+People who are consuming vegetables is kind of interesting.
+我们总是听到
+We always hear
+我们应该吃十字花科蔬菜
+that we should have our cruciferous vegetables
+这些非常重要
+and those are so important
+但实际上
+but there are actually substances,
+优质十字花科蔬菜中的有些化合物
+compounds within high quality cruciferous vegetables
+会干扰甲状腺激素的功能
+that can interfere with thyroid hormone function.
+因此  如果你正在吃很多这种蔬菜
+So if you're eating a lot of that stuff,
+很多白菜  然后看看你的其他
+a lot of cabbages and just look up your other,
+西兰花是一种十字花科蔬菜
+I think broccoli is a cruciferous vegetable,
+而且我不会报出整个科的名字
+and I won't read off the whole list,
+你可以上网自己查
+you could just put into the internet.
+但是我们总是被告知要吃很多
+But we're always told to eat a lot
+暗绿  多叶的绿色蔬菜
+of the dark, leafy green stuff.
+好吧  除非那是深色的  绿叶的东西
+Well, unless that dark, leafy green stuff
+是海带或紫菜
+is kelp or seaweed,
+但很大概率是  我们没有得到足够的碘
+chances are that we're not getting enough iodine
+除非我们在食物中加盐
+unless we're adding salt to our food.
+而且有可能我们会降低
+And chances are that we may be lowering
+我们正在制造的甲状腺总量
+the total amount of thyroid that we're making,
+以及在富含植物的饮食中
+as well as the fact that in plant-rich diets,
+很难得到足够的L-酪氨酸
+it's hard to get enough L-tyrosine
+而且我不想  我不是在这里指责那些
+and I don't want, you know, I'm not here to inflame
+素食主义者或食肉动物的任何人
+any of the vegans or the carnivore folks.
+我在这两个方面都不采取任何立场
+I don't take a stance either way on any of that.
+我只是在学习  试图报告科学所告诉我们的
+I'm just learning, trying to report the science.
+我想指出的一点是  你的健康很重要
+The point I want to make is your health is important.
+因此  如果你纯粹基于植物
+So if you are purely plant-based
+而且你正在吃很多十字花科蔬菜
+and you're eating a lot of cruciferous vegetables,
+确保你要摄入足够的碘好吗
+make sure you're getting enough iodine.
+好像是十字花科蔬菜
+It does seem like the cruciferous vegetables
+可能会增加对碘的需求
+can increase the need for further iodine.
+如果你只吃这种全肉饮食  那也是同样的
+And same thing if you're purely on this all-meat diet
+或你是生酮饮食  你不会摄取很多蔬菜
+or your keto, and you're not ingesting many vegetables.
+其实我一直以为饮食越干净越好
+So I always thought that the cleaner the diet, the better,
+但这可能只是
+but it turns and probably that's true
+从激素调节的角度来看是对的
+from the standpoint of, you know, hormone regulation,
+比如说调节雌激素和睾丸激素等激素
+you know, estrogen and testosterone and other hormones.
+高度加工的食物确实很糟糕
+The highly processed foods really are terrible.
+有很多证据可以证明这一点
+There's so much evidence for that.
+塑料和加工食品中的邻苯二甲酸盐
+The phthalates in plastics and the processed foods
+和乳化剂
+and the emulsifiers,
+我们在上一集中谈到的所有这些东西
+all this stuff we talked about previous episode,
+但这似乎也是有些人
+but it does seem to be that people
+不管出于什么原因都没有得到足够的碘的原因
+that are not getting enough iodine for whatever reason,
+真的需要检查他们的碘水平
+really need to check out whether or not their iodine levels
+由于事实需要增加
+need to be increased because of the fact
+他们正在消耗那么多植物或那么多肉
+that they're consuming so many plants or so many meats
+在某些情况下
+and in some cases,
+实际上降低甲状腺激素的植物
+plants that actually lower thyroid hormone.
+我不再白费口舌了
+And not to beat a dead horse or cabbage,
+但是碘真的可以做很多事情
+but there are a number of things that iodine can do
+肯定的是
+that are positive that are sort of,
+它们与甲状腺有关  而不是直接相关
+they're related to thyroid, not directly,
+他们是甲状腺通路的分支
+they're kind of offshoots of the thyroid pathway
+在他们的下游  我们会说
+on their downstream of it, we would say,
+在它们如何影响代谢功能方面
+in terms of how they impact metabolic function.
+其中之一是减少某些东西
+One of those is to reduce something
+称为c反应蛋白
+called c-reactive protein.
+你们中有些人可能听说过CRP或c反应蛋白
+Some of you may have heard of CRP or c-reactive protein.
+C反应蛋白是你想要让它保持低水平的物质
+C-reactive protein is something that you want to keep at modestly low levels.
+它与炎症和各种形式有关
+It's associated with inflammation and various forms
+心脏病  甚至眼疾  黄斑变性
+of heart disease and even eye disease, macular degeneration.
+所以看来补碘
+So it does appear that iodine supplementation
+或从食物中获取足够的碘
+or getting sufficient iodine from food, either works,
+与C反应蛋白水平降低有关
+is associated with reduced levels of c-reactive protein
+对血液具有抗炎作用
+in the blood and an anti-inflammatory effect.
+抗炎作用带回我们
+And the anti-inflammatory effect brings us back
+给我们的老朋友白介素6
+to our old friend, interleukin 6.
+记住  它们是炎性细胞因子
+Remember, they're these inflammatory cytokines.
+它们有很多名字
+They have many, many names
+因为有很多很多
+because there are many, many of them.
+白细胞介素10是一种抗炎药
+Interleukin 10 is the one that's anti-inflammatory.
+白细胞介素6是一种具有炎症性的物质
+Interleukin 6 is the one that's inflammatory.
+每当你看到IL-6时
+Anytime you see IL-6,
+通常意味着有炎症反应
+that usually means that there's an inflammatory response,
+有伤口  有大脑发炎
+there's a wound, there's inflammation of the brain,
+有人要么睡眠不足  要么脑部受伤
+somebody is either sleep deprived or had a brain injury
+或他们正在处理某种感染
+or they're dealing with some sort of infection.
+IL-6是炎症的提醒器
+IL-6 is kind of a catch-all for inflammation.
+而且确实研究表明  补充了碘
+And it does appear that iodine supplementation
+可以减少与炎症相关的循环IL-6
+can reduce circulating IL-6 associated with inflammation.
+所以从这个意义上讲
+So in that sense,
+碘可以具有抗炎作用
+iodine can have an anti-inflammatory effect.
+因此  到现在为止  它应该已经很清楚了
+So by now, it should be abundantly clear.
+如果你在乎甲状腺激素
+If you care about thyroid hormone,
+如果你关心它会影响的通路
+if you care about the pathways that it impacts
+像是新陈代谢很高
+like having a high level of metabolism,
+我想如果没有其他原因会很吸引人
+which I guess if for no other reason is attractive
+因为那样你就可以吃得更多
+'cause then you can eat more
+并仍然保持健康的身体成分
+and still maintain a healthy body composition,
+而且还可以改善大脑健康  认知功能
+but also for brain health, cognitive function,
+组织修复  所有这些东西
+tissue repair, all that stuff,
+降低c反应蛋白  降低IL-6
+keeping c-reactive protein low, keeping IL-6 low,
+确保你摄取了足够的碘
+make sure you're getting enough iodine,
+硒和L-酪氨酸
+selenium and L-tyrosine.
+如果你好奇甲状腺实际上如何增加新陈代谢
+If you're curious how thyroid actually increases
+让你多吃等等
+the metabolism, allows you to eat more, et cetera.
+这与我们上一期介绍的内容有关
+It relates to something we covered last issue,
+这是葡萄糖
+which is glucose.
+请记住  当你吃东西时  血糖会上升
+Remember when you eat something, blood sugar goes up,
+胰岛素是从胰腺分泌的
+insulin is secreted from the pancreas
+并确保血糖不会过高
+and it makes sure that blood glucose doesn't go too high,
+可能会损坏组织或太低
+which can damage tissues or too low,
+这可以使你降血糖
+which can make you hypoglycemic.
+甲状腺增加葡萄糖摄取
+Thyroid increases glucose uptake
+通过各种组织  特别是肌肉和骨骼
+by various tissues, in particular muscle and bone.
+它实际上可以增加骨骼矿物质的密度
+It actually can increase bone mineral density,
+这真的是一件好事
+which is a really good thing.
+随着年龄的增长  受伤
+As you get older, injuries,
+当我说年龄较大时  我的意思是基本上30岁以上
+when I say older, I mean basically 30 and older,
+你可以更快地从受伤中恢复的原因
+the reason you can recover more quickly from injuries
+如果你有健康的甲状腺和健康的甲状腺通路
+if you have a healthy thyroid and healthy thyroid pathways
+是因为你可以消耗能量
+is because you can consume energy.
+能量被转移到骨骼修复上
+That energy is diverted toward bone repair
+以及肌肉修复和软骨修复
+and muscle repair and cartilage repair.
+因此  再次执行此操作的方法是增加ATP
+And so the way it does this again is by increasing ATP.
+但是这里的全部想法是碘
+But the whole idea here is that iodine,
+硒  L-酪氨酸  可使甲状腺处于健康水平
+selenium, L-tyrosine, allow thyroid to be at healthy levels
+这样甲状腺才能吸收血液中的葡萄糖
+so that thyroid then can take glucose in the blood
+并将其转移到组织中以便使用
+and divert it to tissues for it to be used,
+特别是你的大脑
+in particular your brain.
+这就是为什么我们在谈论这些事情
+And that's why these things that we're talking about,
+补充食物或从中获取食物
+supplementing or getting from food,
+可以真正改善或支持大脑功能
+can actually improve or support brain function.
+人们总是问我
+People are always asking me,
+我应该为我的大脑吃什么食物？
+what is the food that I should eat for my brain?
+像蓝莓对你的大脑有益吗？
+Like, are blueberries good for your brain?
+否则他们会问我  核桃对你的大脑有益吗
+Or they do ask me, are walnuts good for your brain
+因为看起来像大脑
+'cause it looks like a brain?
+我们之前已经讨论过了
+We talked about that earlier.
+事实是你需要的
+The fact of the matter is what you need
+是支持激素的营养素
+are nutrients that support hormones
+以及支持大脑的生物通路
+and biological pathways that support the brain.
+这就是考虑的方式
+That's the way to think about it.
+当人们问到时  我意识到
+And I realized when people ask,
+我应该吃些什么来支撑我的大脑？
+what should I eat to support my brain?
+这基本上就是他们要的简短形式
+That's basically what they're asking in short form.
+因此  保持甲状腺激素健康
+So keeping your thyroid hormone healthy
+在健康的水平上  那将是非常了不起的
+at healthy levels that is, is going to be terrific
+对于你的大脑  因为你的新陈代谢的75％
+for your brain because 75% of your metabolism
+来自你的大脑
+is from your brain.
+你的大脑使用葡萄糖的能力
+The ability of your brain to use glucose
+或酮将得到帮助
+or ketones for that matter is going to be aided
+拥有健康的甲状腺
+by having healthy thyroid.
+这样做  吃这个  吃那个
+So do the things, take the things, eat the things
+那将让你
+that are going to allow you
+保持健康的甲状腺激素水平
+to have healthy levels of thyroid hormone.
+我敢肯定你们当中有很多人在想
+I'm sure a number of you are out there wondering,
+我的甲状腺激素水平健康吗？
+do I have healthy levels of thyroid hormone?
+那些可以从血液中测出
+Those can be measured from the blood.
+有一些甲状腺机能亢进的迹象
+There are some telltale signs of having really high thyroid
+或甲状腺真的很低  我可以开始列出这些
+or really low thyroid, and I could start listing those off.
+他们也很容易在网上找到
+They're easy to find online as well.
+眼睛鼓胀之类的东西
+Things like bulging eyes,
+无法保持体重  摇晃  焦虑
+inability to maintain weight, shaky, anxiety,
+甲亢  头发稀疏
+that's kind of hyperthyroidal, thinning of hair,
+这种事情
+this kind of thing.
+我不可能给你们诊断甲状腺功能是否减退
+I don't want to get into diagnosing hypothyroidism
+或者有甲状腺功能亢进症
+and hyperthyroidism.
+根本不可能  因为你在屏幕那头
+It's just impossible 'cause you're there
+我在这里  我们只能看评论 视频
+and I'm here and we're kind of shouting back and forth
+只是网络一线牵
+through a tunnel of video and comments.
+如果你担心过高
+If you're concerned about having excessively high
+或甲状腺激素水平过低
+or excessively low levels of thyroid hormone,
+绝对查找症状是什么
+absolutely look up what the symptoms are.
+与你的医师讨论
+Talk to your physician.
+并且有很多好的治疗方法
+And there are a number of good treatments.
+我没有谈论处方药
+I didn't talk about prescription drugs
+可以改善与甲状腺功能减退或甲状腺功能亢进有关的症状
+that can improve symptoms related to hypo or hyperthyroid.
+当然  他们合成了甲状腺
+Of course, they have synthesized thyroid.
+所以  如果你没有做足够的甲状腺
+So if you don't make enough thyroid,
+你可以服用甲状腺  这是根据处方
+you can take thyroid, it's by prescription.
+如果你甲状腺过多
+If you have too much thyroid,
+有时他们会取出甲状腺
+sometimes they'll take out the thyroid gland
+或者他们可以管理药品
+or they can administer drugs
+会阻塞受体或会干扰
+that will either block receptors or will interfere
+通过大脑的一些通路
+with some of the pathways from the brain
+到垂体或从垂体到甲状腺
+to the pituitary or from the pituitary to the thyroid
+以这种方式调节甲状腺激素
+in order to adjust the thyroid hormone that way.
+因此  在治疗方面有大手笔
+So there are the big guns in terms of the treatments
+对于不同的甲状腺疾病
+for different thyroid disorders
+但是我们不是在谈论甲状腺疾病
+but we're not talking about thyroid disorders,
+我们正在谈论如何获取和维持甲状腺水平
+we're talking about how to get and maintain thyroid levels
+在健康范围内以及一些简单的方法来做到这一点
+in healthy ranges and some straightforward ways to do that
+通过饮食和补充
+through diet and supplementation.
+也有很多证据
+There's also a lot of evidence
+对于那些月经来潮的人
+that for people who menstruate,
+甲状腺激素水平会急剧波动
+levels of thyroid hormone can fluctuate dramatically
+在整个月经周期
+across the menstrual cycle.
+因此  这实际上将是一个实验过程
+So that's really going to be a process of experimentation.
+我不知道你可以
+I don't know that you could,
+从理论上讲  你可以在不同阶段采血
+you could, in theory, take blood at different phases
+你的周期  并找出是否
+of your cycle and figure out whether or not
+你的甲状腺激素过高或过低
+your thyroid hormone was excessively high or low
+在周期的不同阶段
+at different phases of the cycle.
+这将很难做到
+That's going to be pretty tough to do.
+如果你有内分泌学家
+If you have an endocrinologist
+愿意与你做到这一点  好极了
+that's willing to do that with you, terrific.
+我认为大多数人都必须弄清楚
+I think most people are going to have to figure out
+如何补充各种东西
+how supplementing the sorts of things
+我们之前讨论过的
+that we talked about before,
+或从食物中获取它们与
+or getting them from foods relates
+他们的周期的不同方面
+to different aspects of their cycle.
+一般来说  排卵前的周期的前半段
+In general, the first half of the cycle before ovulation,
+人们更渴望碳水化合物和糖果
+people crave carbohydrates and sweets more
+根据生物学原理  这是完全有意义的
+and that makes total sense based on the biology
+月经周期
+of the menstrual cycle.
+甲状腺激素会随着你而上升
+Thyroid hormone is going to go up as you,
+不论男女  无论月经与否
+as anyone, male or female, menstruating or not,
+增加更多的淀粉状碳水化合物
+increases more starchy carbohydrates.
+这很有趣  因为已经显示出生酮饮食
+This is interesting because ketogenic diets have been shown
+降低甲状腺水平
+to slightly lower thyroid levels.
+这是有道理的  因为在生酮饮食中
+And that makes sense because in ketogenic diets,
+血糖水平很低
+blood glucose levels are very low.
+甲状腺激素大量分泌
+And thyroid hormone is secreted in large part
+与血液中葡萄糖的含量成正比
+in proportion to how much glucose is in the bloodstream
+请问需要调节多少葡萄糖
+and how much that glucose, excuse me, needs to be regulated.
+因此  我并不是要妖魔化生酮饮食
+So I'm not trying to demonize the ketogenic diet.
+我认为它肯定有它的位置
+I think it definitely has its place.
+现在有22个研究
+There are 22 studies now
+表明它可以显着降低血糖
+showing that it can dramatically reduce blood glucose.
+其中约有三分之一表明甲状腺激素水平
+And about a third of those show that thyroid hormone levels
+略有减少  有时会大大减少
+are slightly reduced, sometimes significantly,
+如果不是更多  则在生酮饮食中
+if not more, in the ketogenic diet
+可能会解释  我想强调可能会解释
+that may explain, I want to highlight may explain
+人们回到传统饮食的事实
+the fact that when people go back to a more traditional diet
+如果他们长期服用生酮饮食
+if they've been on a ketogenic diet for a long time,
+通常他们会很快增重
+that oftentimes they will gain weight very quickly
+因为它们将碳水化合物带回饮食中
+as they bring carbohydrates back into their diet.
+有些人在用循环饮食
+Some people are cycling
+每三  四天在生酮和非生酮之间发生一次
+between ketogenic and non-ketogenic every three, four days.
+所谓的周期性生酮饮食
+So-called cyclical ketogenic diet.
+有些人会长时间生酮
+Some people are staying ketogenic for long periods of time.
+有些人一天休息六天
+Some people six days on, one day off.
+所以那里有很大的变化
+So there's a huge variation there.
+关键是碳水化合物
+The point is that carbohydrates,
+特别是淀粉状碳水化合物
+starchy carbohydrates in particular,
+支持T3和T4的健康生产
+support the healthy production of T3 and T4.
+因此  如果你的碳水化合物含量很低
+And so if you're very low carbohydrate,
+你将减少T3和T4
+you're going to have a reduction in T3 and T4.
+因此  如果你要携带碳水化合物
+And so if you're going to bring carbohydrates
+回到你的饮食中
+back into your diet,
+那么你可能需要逐步进行
+then you might want to do it more gradually.
+对于你们那些月经来潮的人
+And for those of you that menstruate,
+并且渴望碳水化合物
+and are craving carbohydrates
+在周期的早期
+in the early part of the cycle,
+这实际上与健康的周期有关
+that is actually associated with having a healthy cycle.
+如果你中的任何一个生酮饮食的周期很健康
+If any of you have had a healthy cycle on a ketogenic diet,
+那会很有趣
+that would be interesting.
+也许让我通过评论知道
+Maybe let me know through the comments
+或指出我的研究方向
+or point me in the direction of some research
+如果你知道的话
+if you're aware of it.
+因此  你可以开始看到
+So as you can start to see,
+在不同的激素之间
+there's this really beautiful interplay
+有一个非常美妙的互动
+between the different hormones,
+在胰岛素和葡萄糖之间  在雌激素和甲状腺之间
+between insulin and glucose, between estrogen and thyroid,
+甲状腺和血糖与生酮饮食之间的关系
+between thyroid and blood glucose and the ketogenic diet.
+一切开始融合在一起
+It all starts to fit together
+以很有意义的方式
+in ways that make a lot of sense
+一旦你了解了其中的核心要素
+once you understand just kind of the core elements
+什么是荷尔蒙
+of what the hormones are
+以及他们工作的各种组织
+and the variety of tissues that they work on.
+这个简单的版本
+The simple version of this
+如果你已经一年没有碳水化合物了
+is if you haven't had a carbohydrate for a year,
+那么你的T3  T4水平将非常低
+then your T3, T4 levels are going to be pretty low.
+而且我敢肯定那里有一些ketonistas
+And I'm sure there's some ketonistas out there.
+他们会说  等等  不
+They're going to say, wait, no,
+甲状腺激素水平与酮一起上升
+thyroid hormone levels go up with keto.
+出于其他原因  这可能是正确的
+That might be true for other reasons,
+与激素通路有关的间接原因
+indirect reasons related to hormone pathways
+因患酮症而级联
+that are cascade from being in ketosis
+很长一段时间
+for long periods of time.
+很好
+Great.
+但是对于大多数不消耗碳水化合物的人来说
+But for most people that don't consume any carbohydrate,
+T3  T4将会下降
+T3, T4 are going to go down.
+当他们开始食用食物时
+And when they start to consume foods
+需要甲状腺代谢
+that require thyroid metabolism
+为了与之代谢
+in order to work with, to metabolize,
+那么有时体重增加会更快
+then weight gain can sometimes happen more quickly.
+因此  这只是要考虑的事情
+So it's just something to consider.
+这是需要谨慎处理的事情
+And it's something to work with carefully
+如果你将要循环生酮  长期生酮
+if you're going to be cyclic ketogenic, long-term ketogenic.
+如果你不是生酮的
+And if you're not ketogenic,
+并且你消耗碳水化合物
+and you're consuming carbohydrates.
+还有我们之前谈到的三件事
+And the three things that we talked about earlier,
+硒  酪氨酸和碘
+selenium, tyrosine and iodine,
+除非那里有潜在的条件  否则机会是
+chances are unless there's an underlying condition there
+你的甲状腺水平将是
+that your levels of thyroid are going to be
+在健康范围内的
+in healthy range.
+接下来  我们将讨论生长激素
+Next, we're going to talk about growth hormone.
+生长激素备受关注
+Growth hormone has received a ton of attention
+在过去的20年中
+in the last 20 years.
+我实际上还记得整个时间线
+I actually remember when it was for sequenced.
+这是一笔大买卖
+This was a huge deal.
+有一段巨大的专​​利戏
+There was a huge patent drama.
+我不会提及参与人员的大学
+I won't mention the universities of the people involved.
+有公司  各种奇奇怪怪的专利和支出
+There were companies and monster patents and payouts
+这真的很有趣
+and it was really interesting.
+你可以上网查一下
+You can look that up online
+如果你对某些科学历史感兴趣
+if you're interested in some of the scientific history.
+生长激素是非常简单的一种
+Growth hormone is a pretty straightforward one
+因为它遵循
+for you to understand now because it follows
+与甲状腺激素完全相同的逻辑
+the exact same logic as thyroid hormone.
+实际上  它们的功能是如此紧密地重叠
+In fact, their functions are so closely overlapping
+当我们第一次看它的整体逻辑时
+on the, you know, when we first look at the face of it
+你可能会想
+that you're probably going to think,
+为什么会有这两个系统？明明当成一个来看就行了
+why do you have these two systems?
+因此  非常简短地说  就是生长激素释放激素
+So just very briefly, growth hormone-releasing hormone.
+所以请记住释放是指它来自大脑
+So remember releasing means it comes from the brain,
+来自大脑并告诉垂体
+comes from the brain and tells the pituitary
+你要释放生长激素了
+to release growth hormone,
+然后释放生长激素
+and then growth hormone is released
+进入血液
+into the bloodstream where it goes and acts
+在大量的组织  肌肉  韧带上起作用
+on a ton of tissues, muscle, ligaments,
+骨骼  脂肪等  以增加新陈代谢
+bone, fat, et cetera, to increase metabolism.
+听起来就像甲状腺激素
+It sounds just like thyroid hormone.
+而且它们确实并行工作
+And they do work in parallel.
+这就是为什么我们将它们集中在一起
+And that's why we've lumped them together
+在同一集中讲
+in the same episode.
+它们增加新陈代谢和修复
+They increase metabolism and repair
+和组织的生长
+and growth of tissues.
+关于生长激素的对话将是不完整的
+A conversation about growth hormone would be incomplete
+如果我们不谈论那种极端的情况
+if we didn't talk about the kind of extremes.
+有些人是天生的
+There are certain people who are born
+不能产生足够的生长激素
+that don't make enough growth hormone,
+他们的身材很矮
+and they end up very short in stature.
+有些人会制造大量的生长激素
+There are certain people who make a ton of growth hormone
+他们最终变得非常非常大
+and they end up very, very large.
+他们往往有很大的四肢
+They tend to have very large appendages.
+他们患有肢端肥大症
+They have something called acromegaly.
+有点像额头上的皱纹
+It's kind of like a ridging of the forehead.
+它实际上是一个骨
+It's actually a bone ridge.
+他们是巨人
+They are giant.
+它曾经被称为巨人症
+And it used to be called giantism.
+当然  大多数人的身高都在一定范围内
+And most people of course are in a range of height
+和四肢的长度
+and appendage length.
+那并不意味着
+That doesn't imply
+那里有生长激素破坏
+that there's a growth hormone disruption there.
+生长激素在消费着市场上备受关注
+Growth hormone received a lot of attention
+因为这意味着有很多产业
+after it was sequenced because that meant the opportunity
+可以让人注入生长激素
+to inject growth hormone
+并更换丢失的生长激素
+and replace growth hormone that was lost.
+实际上有很多情况
+And there was actually a lot of cases
+想让孩子变得更高的人
+of people taking their kids and trying to get them
+无论出于什么原因
+to be taller for whatever reason
+他们会通过注射生长激素
+by injecting growth hormone.
+今天  我们要谈论的事情
+Today, we're going to talk about the things
+任何人都可以做的  来增加生长激素
+that anyone can do to increase growth hormone.
+而且某些人就是有一定的原因
+And there are reasons why certain people
+想要做到这一点
+would want to do that.
+过度分泌生长激素的人
+People who overproduce growth hormone
+当然不愿意这样做
+certainly would not want to do that.
+产量不足的人可能想这样做
+People who underproduce it would probably want to do that.
+来获得“正常”的生长激素水平
+People that make normal, quote, unquote,
+可能想要做到这一点
+levels of growth hormone might want to do that
+随着年龄的增长  因为在青春期和发育过程中
+as they age because during puberty and development,
+垂体会分泌大量的生长激素
+the pituitary is churning out tons of growth hormone.
+它负责身高生长  以及身体及其所有特征的生长
+It's responsible for the growth, not surprising,
+不足为奇
+of the body and all its features.
+身高  只是其中之一
+Height, just being one of those.
+因此  随着年龄的增长  我们会减少生长激素的含量
+And so as we age, we make less growth hormone.
+这就是我们受伤康复比较慢的原因之一
+And that is one of the reasons why we recover more slowly from injuries.
+这是我们堆积体内脂肪的原因之一
+It's one of the reasons why we accumulate body fat.
+这也是我们的新陈代谢减慢的原因之一
+And it's one of the reasons why our metabolism slows.
+生长激素替代疗法
+And so growth hormone replacement therapy
+在过去的20年中非常受欢迎
+has been tremendously popular in the last 20 years,
+这并不是说它不会带来问题  它会有相应的问题狐仙
+which is not to say it doesn't carry its problems, it does.
+注射生长激素
+Here's one of the major problems
+主要问题之一就是
+with injecting growth hormone.
+并不是说人们不应该这样做
+Not saying people shouldn't do this
+如果医生批准或保留
+if the doctor has approved it or it's in keeping
+有他们特定的人生目标
+with their particular life goals,
+但是生长激素  如果水平太高
+but growth hormone, if it's in levels that are too high,
+会引起所有组织的生长
+will cause growth of all tissues.
+因此  不仅是肌肉  不仅仅是
+So not just muscle, not just reduction
+通过体内脂肪的代谢减少
+in body fat by metabolizing, you know,
+通过允许脂肪酸被淘汰出库
+by allowing fatty acids to be pulled out of storage
+并用于ATP  但这也会引起
+and used for ATP, but it will also cause increase
+在心脏和肺部的生长
+in growth of the heart and the lungs
+以及肝脏和脾脏
+and the liver and the spleen.
+因此  这是生长激素滥用的问题
+And so this is the concern with abuse of growth hormone.
+所以我们不会说一些
+So we're not going to be talking
+关于滥用生长激素的话题
+about abuse of growth hormone.
+但是  我们将讨论任何人都可以使用的工具
+We will, however, talk about tools that anyone can use
+增加生长激素的水平
+to increase levels of growth hormone.
+其中有些是行为举止
+Some of them are behavioral,
+其中一些是基于补充的
+some of them are supplement-based
+其中一些与行为和补品互动
+and some of them interact with behaviors and supplements.
+讨论中最酷的
+And what's cool about the discussion
+关于生长激素的工具的是
+about growth hormone is that the tools
+用来增加生长激素的
+that exist out there to increase growth hormone
+非常可行的方法
+are very actionable.
+大多数人都能做到
+Most people can do these without the need
+不需要任何设备甚至任何补充剂
+for any equipment or even any supplement.
+尽管有一些与补充有关的主题
+Although there are some supplement related themes
+可以用于增加生长激素的工具
+for tools for growth hormone increase.
+还有一个人可以得到的增加
+And also the increases that one can get
+生长激素的含量很高
+in growth hormone are substantial.
+所以通常  当你谈论差异时
+So normally, when you talk about the difference
+之间的东西作为外在物质
+between taking something as an exogenous substance
+如睾丸激素或雌激素与使用补充剂
+like testosterone or estrogen versus using supplements
+或增加他们的行为
+or behaviors to increase them,
+你说的是十倍的差异
+you're talking about tenfold differences from, you know,
+管理处方化合物
+administering the prescription compound.
+就生长激素而言
+In terms of growth hormone,
+有些东西可以增加生长激素3
+there are things that can increase growth hormone three,
+4、  500％或更多
+four, 500% or more.
+即使那是短暂的增长
+And even though that's a short-lived increase,
+他们可以产生非常强大的效果
+they can have very powerful effects
+在新陈代谢和组织修复上
+on metabolism and on repair of tissues.
+因此  让我们谈谈这些
+So let's talk about those.
+好吧  让我们一步一步来
+Okay, let's go step by step in terms of the things
+任何人  也许每个人
+that anyone, perhaps everyone,
+为了维护
+should be doing in order to maintain
+健康生长激素水平而应该做的
+healthy growth hormone levels
+或生长激素水平升高
+or increased growth hormone levels.
+除非你有过量的生长激素
+Unless you have overproduction of growth hormone,
+这些事情很有可能使你受益
+chances are these things are going to benefit to you.
+但是  我想一如既往地强调
+However, as always, I want to emphasize,
+在你做任何事情之前先咨询医生
+talk to a doctor before you do anything,
+包括删除任何治疗方法
+including remove any treatments.
+所以你要添加或删除的任何内容
+So anything you would add or take away,
+那是你和你的医疗服务提供者
+that's the responsibility of you
+的责任  好吧
+and your healthcare provider, okay?
+这么说不只是为了保护我
+I don't just say that to protect me,
+这么说是为了保护你
+I say that to protect you.
+首先  生长激素
+First of all, growth hormone is released
+在每天晚上睡觉的时候被释放
+every night when you go to sleep
+它在睡眠的早期被释放
+and it's released in the early part of sleep,
+在所谓的慢波睡眠中
+during so-called slow-wave sleep.
+所以必须要满足的两个条件
+So the two conditions that have to be met
+为了定期分泌生长激素
+in order for growth hormone to be secreted regularly
+用于组织修复等
+for tissue repair, et cetera,
+你需要进入慢波睡眠  所谓的深度睡眠
+are you need to get into slow-wave sleep
+有两个条件  你需要血液胰岛素
+that so-called deep sleep and you need blood insulin
+和葡萄糖相对较低
+and glucose to be relatively low.
+所以不要睡眠前两个小时内进食
+So eating within two hours of sleep,
+不要睡眠前两个小时内进食
+excuse me, eating within two hours of going to sleep
+不然将抑制生长激素的释放
+is going to suppress growth hormone release.
+很清楚
+That's very clear.
+但是  有些人会遇到问题
+However, some people are going to have problems
+如果他们太饿了会睡不着
+falling asleep if they are too hungry.
+所以你必须要努力
+So you have to work with that
+并决定要吃什么
+and decide what you're going to eat.
+你是要吃那东西
+And when you're going to eat that thing
+这样你就不会那么饿了
+so that you're not so hungry
+然后再入睡
+that you're having trouble falling asleep.
+涵盖的睡眠的内容
+The episodes on sleep that were covered
+在Huberman Lab播客的第二  三和四集中
+in episodes two, three, and four of the Huberman Lab Podcast
+我相信那里拥有的工具比你想要的要多
+has, I believe, more tools there than you could ever want
+如何优化睡眠 等等
+or make use of in terms of how to optimize sleep.
+因此  你可以根据需要参考这些内容
+So you can refer to those, if you like.
+所以不要再临近睡觉的时候吃东西
+So don't eat too close to sleep
+然后进入慢波睡眠
+and then get into slow-wave sleep.
+正如我在较早的几集中所谈到的那样
+And as I talked about in one of those earlier episodes,
+上半夜
+the first half of the night,
+慢波睡眠和深度睡眠占主导
+slow-wave sleep and deep sleep predominate.
+下半夜
+The second half of the night,
+这是另一种睡眠  我们称之为REM睡眠
+it's another kind of sleep, we call it REM sleep.
+那么  这种早期睡眠有什么特别之处呢？
+So what is special about this early phase of sleep?
+你应该这么想
+This is how you should be thinking
+如果你收听此播客
+if you listen to this podcast.
+你应该在想  好吧
+You should be thinking, okay,
+我听说有些重要的事情
+I hear that something is important,
+它是相关的  它在通路中
+it's related, it's in the pathway,
+但是从机制角度说  当我们进入慢波睡眠时
+but mechanistically when we say get into slow-wave sleep,
+也就是进入深度睡眠
+get into deep sleep,
+那就是生长激素被分泌出来的时候
+that's when growth hormone is secreted.
+这时候  你应该问自己
+The question you should be asking yourselves
+作为你自己身体的科学家   为什么要慢波入睡呢？
+as scientists of yourselves is wait, why slow-wave sleep?
+特别是慢波深度睡眠
+What in particular about slow-wave deep sleep
+才能允许垂体释放生长激素？
+allows the pituitary to release growth hormone?
+到底为什么？
+Like, what is it?
+因为如果你能理解
+Because if you can understand that,
+如果你能了解一些机制
+if you can understand a little bit of mechanism,
+实际上  你可以自己增加一些方法
+there are actually ways that you can increase
+去释放的生长激素的量
+the amount of growth hormone that you release
+无论是在睡眠中还是睡眠外
+both in sleep and out of sleep.
+因此  答案是  大脑中的三角波活动
+So the answer is it's delta wave activity in the brain.
+三角波活动是这些巨大的活动浪潮
+Delta waves are these big giant waves of activity
+与慢波睡眠相关的大脑中
+in the brain that correlate with slow-wave sleep
+与更快的活动浪潮相反
+as opposed to faster waves of activity
+与快速眼动睡眠有关
+that is associated with rapid eye movement sleep.
+所以慢波睡眠和三角波活动
+So slow-wave sleep and the delta activity
+实际上触发了大脑中的神经元
+actually triggers the neurons in the brain,
+释放激素
+the releasing hormone, right?
+生长激素释放激素神经元
+Growth hormone-releasing hormone neurons
+向垂体发信号
+to signal to the pituitary.
+那么  我怎么知道这是真的？
+Now, how do I know this is true?
+那你该怎么办？
+And what can you do with this?
+好吧  我们知道这是真的
+Well, we know this is true
+因为研究人员带走了人们
+because researchers have taken people
+睡眠剥夺了他们  他们只是问
+and sleep deprived them, and they just asked, well,
+每24小时只有一个时间段吗
+is it just one period of time every 24 hours
+然后垂体释放生长激素
+and then the pituitary releases growth hormone?
+如果是这样  那会说
+If that were the case, that would say
+生长激素刚刚被释放
+that growth hormone is just released
+以所谓的昼夜节律依赖的方式
+in a so-called circadian dependent way.
+每24小时就是一次脉搏  但没有
+Every 24 hours is the pulse of it, but no,
+它总是和慢波有关
+it's always relating to slow-wave
+深度睡眠和三角波
+deep sleep and delta waves.
+这很酷  因为这意味着什么
+And this is cool because what it means
+即使你没有测量脑波
+is that even if you're not measuring your brainwaves
+在睡眠中  你们大多数人可能不是
+during sleep, which most of you probably are not,
+你可能正在测量
+you might be measuring slow-wave sleep
+使用Whoop或Oura等设备测量慢波睡眠 深度睡眠
+or deep sleep using a device like a Whoop or Oura.
+即使你不是
+And even if you're not,
+这意味着在白天
+what this means is that during the day,
+也有可能
+there's the potential
+也可以增加生长激素的释放
+to also increase growth hormone release
+如果你可以使大脑陷入所谓的三角波
+if you can get the brain into the so-called delta waves.
+事实证明  你可以做一些事情
+And it turns out there are things you can do
+在醒着的同时也增加生长激素的释放
+in waking as well to increase growth hormone release.
+因此  我们接下来将讨论这些内容
+So we're going to talk about those next.
+但是作为一种工具  只是要确保
+But as a tool and to just really make sure
+我们用括号括起来
+that we put brackets around this,
+尝试使血糖不要太高
+try and have blood glucose not too high.
+因此  如果你确实需要在床边吃饭
+So if you do need to eat close to bed,
+你不想吃任何东西
+you wouldn't want to eat anything
+那会增加血糖过多
+that would increase blood glucose too much.
+尽量不要在就寝时间吃得太近
+Try not to eat too close to bedtime.
+深夜入睡
+Get into deep sleep early in the night.
+获取生长激素释放
+Get the growth hormone release.
+并了解这是活动的三角波
+And understand that it's the delta waves of activity,
+神经元活动波涛汹涌
+the sweeping big waves of activity in the neurons
+刺激大脑刺激垂体
+that stimulate the brain to stimulate the pituitary.
+因为一旦你明白了
+Because once you understand that,
+那么你有东西要锚定
+then you have something to anchor to
+在思考我能做些什么
+in terms of thinking what are the things I can do
+在醒来时  这将使我释放更多的生长激素
+in waking that will allow me to release more growth hormone
+对于大多数人来说  这将是一件好事
+which for most people is going to be a good thing.
+在此播客上
+Several times before on this podcast,
+我说过我不是一个褪黑素的忠实粉丝
+I've talked about the fact that I'm not a big fan
+用于大多数目的的褪黑激素补充剂
+of melatonin supplementation for most purposes.
+在时差的条件下可能会有所帮助
+It might be helpful under conditions of jet lag.
+但是  有很多原因
+However, there are a lot of reasons
+为什么我个人不喜欢褪黑激素
+why I personally don't like melatonin.
+它与生殖激素相互作用
+It interacts with the reproductive hormones,
+睾丸激素和雌激素
+testosterone and estrogen,
+而且整个刺激的方式都没有吸引力
+and that whole access in ways that are unattractive,
+至少对我来说
+at least to me.
+它抑制发育中的青春期
+It suppresses puberty during development.
+在大多数补品中  它的剂量要高得多
+It's present in much, much higher doses in most supplements
+比通常的一百倍  三百倍要高
+than one would normally make like a hundred fold, 300 fold.
+但是  今天我要谈一个实例
+However, today I'm going to talk about an instance
+褪黑激素补充水平很低的地方
+where very low levels of melatonin supplementation
+可能实际上是有利的
+might actually be advantageous.
+这有助于过渡
+And that is aiding the transition
+我刚刚描述的三角波  慢波睡眠
+to the delta wave, slow-wave sleep I just described
+因为那是睡眠的方式
+because that's the pattern of sleep
+和触发生长激素释放的脑电波活动
+and brainwave activity that triggers growth hormone release.
+因此  尽管大多数褪黑激素补充剂是1毫克
+So whereas most melatonin supplements are one milligram,
+三毫克  十二毫克
+three milligrams, 12 milligrams, this kind of thing,
+那是超过生理需求的剂量
+that is super physiological.
+有一些数据显示微克
+There are some data showing that microgram,
+也许是500微克的褪黑素  所以是半毫克
+maybe 500 micrograms of melatonin, so half a milligram,
+可以改变睡眠模式
+can be beneficial in shifting the pattern
+让晚上的睡眠更多地朝慢波方向发展
+of early night's sleep toward more of the slow-wave
+深度睡眠三角洲活动
+deep sleep delta activity
+并改善生长激素的释放
+and improving growth hormone release.
+研究不是很多  但我看到的是高质量研究
+Not a lot of studies but the ones that I saw are quality.
+它们是在很大的群体中实验得出的
+They were done in subjects that, you know,
+不同的性别  足够的人数等等
+both sexes, sufficient numbers, et cetera.
+所以这很有趣
+So this is interesting.
+因此  如果你对补充褪黑激素感兴趣
+So if you're interested in melatonin supplementation,
+你可能会在非常低的水平上考虑服用它
+you might think about it just at very low levels.
+几百微克
+You know, hundreds of micrograms
+而不是多少毫克的剂量
+as opposed to the milligram dosages.
+大多数人
+Most of the ones out there
+都以毫克为剂量单位
+are going to be in milligram dosages.
+所以这是一些研究表明的一种方式
+So that's one way that some studies have shown
+你可以增加生长激素的量
+that you can increase the amount of growth hormone
+那是在睡眠的早期阶段所分泌的
+that's secreted in early phases of sleep.
+那么  三角波活动和慢波活动
+Now, the delta wave activity and the slow-wave activity
+在大脑中非常重要
+in the brain being very important
+用于生长激素释放和生长激素释放
+for growth hormone release and growth hormone release
+对代谢功能如此重要
+being so important for metabolic functions
+剥去多余的身体脂肪
+and peeling away unwanted body fat
+和修复组织等等
+and repairing tissues, et cetera,
+迫使我们问  我们还能做些什么
+forces us to ask, well, what other things can we do
+在醒来以增加生长激素的释放？
+in waking in order to increase growth hormone release?
+所以我们开始吧
+So let's start
+与那些可能产生重大影响的
+with the ones that have a potentially big effect
+但访问起来有点困难
+but are a little bit harder to access.
+为此  我想推荐一本书
+And for that, I want to point toward a book,
+这真的很有趣
+which is really kind of interesting.
+它不专注于讲生长激素
+It's not focused on growth hormone
+但是这本书叫《改变的特质》
+but the book is called "Altered Traits."
+这是本书
+This is the book.
+这是一本很棒的书
+It's an excellent book,
+戈尔曼和戴维森的《改变的特质》
+"Altered Traits" by Goleman and Davidson.
+“科学揭示了冥想的方式
+"Science Reveals How Meditation
+改变你的思想  大脑和身体”
+Changes Your Mind, Brain, and Body."
+非常有趣的书
+Very interesting book.
+对于你们中那些对冥想感兴趣的人
+For those of you that are interested in meditation,
+也许你们当中对冥想不感兴趣
+and perhaps those of you who are not,
+但是正在考虑要不要进行冥想
+but are considering it,
+他们在这本书中谈论说
+what they talk about in this book is the fact
+冥想有两条不同的效果线
+that meditation has two separate lines of effects.
+两条线之一是
+One of those lines of effects are things
+改变你的状态的效果
+that change your state.
+比如说  你很紧张
+So you're stressed.
+你坐下  冥想
+You sit down, you meditate
+然后你就会放松  并进入一种特定的状态
+and you relax and you go into a particular state.
+另一个是随着时间的推移发生的变化
+The other are the changes that occur over time
+这些就是特质的改变
+and those are changes in trait.
+所以性格实际上可以改变
+So personality can actually change
+通过长时间进行TM冥想或反复冥想
+with long bouts of TM meditation or repeated meditation.
+无论如何  我们谈论
+In any case, the reason we're talking
+《改变的特征》的原因  是因为
+about "Altered Traits" today is because certain types
+某些类型的冥想可以吸引人的大脑
+of meditation can get people's brains
+进入非常类似于慢波睡眠的状态
+into states that very closely mimic slow-wave sleep.
+如果你在后台听到打呼的声音  那么是Costello
+If you hear snoring in the background, Costello is,
+听起来好像他正在慢波睡眠中
+sounds like he's in slow-wave sleep.
+这些巨大的打呼声
+These big oscillatory snores
+他每天睡眠23.6个小时
+that he's in 23.6 hours per day.
+所以这对有兴趣的人来说意味着
+So what this means is for people that are interested
+在增加生长激素  冥想练习
+in increasing growth hormone, a meditation practice
+可以让你进入这些慢波三角波类型
+that allows you to get into these slow-wave delta type
+大脑中的频率活动可能非常有益
+frequency activity in the brain may be very beneficial
+因为就像我之前提到的
+because as I mentioned before,
+这就是控制生长激素释放的原因
+that's what's gating growth hormone release.
+这不仅是昼夜节律现象
+It's not just a circadian phenomenon,
+它实际上是由这些脑电波控制的
+it's actually controlled by these brainwaves.
+我确实查过双耳节拍
+I did look up binaural beats.
+我对双耳节拍有很多疑问
+I get so many questions about binaural beats
+这是一个非常吸引人的主意  是吧
+and it's a really attractive idea, right?
+如果你本来不知道什么是双耳节拍
+Binaural beats, for those of you don't know,
+就是你一只耳朵听一种频率的声音
+you listen to one frequency of tone in one ear
+而另一种频率的音调在另一只耳朵
+and another frequency of tone and the other ear,
+然后大脑实质上取两者的平均值
+and then the brain essentially takes the average of the two
+或脑干中还有其他连线
+or there's some other wiring in the brainstem
+这使得它不是很平均
+that makes it not quite the average
+但是为了讨论起见  它采用了两者的平均值
+but it takes the average of the two for sake of discussion.
+而这种频率正是大脑所夹带的
+And that frequency is what the brain entrains
+或实际映射到的
+or maps onto.
+有很多应用声称
+There are a lot of apps that are claiming
+可以使用双耳节拍
+that you can get the brain into delta waves
+使大脑陷入三角波
+using binaural beats.
+我找不到高质量的同行评审研究
+I could not find quality peer review studies
+来支持这一点  但我知道有很多人
+supporting that, but I know there are a lot of fans
+喜欢用双耳节拍
+out there of binaural beats.
+如果你知道任何文献
+If you know of any literature
+独立于公司
+that's independent of the company
+产生了双耳节拍技术
+that makes the binaural beat technology,
+如此公正的研究  请发送给我
+so unbiased research, please send it my way.
+但是在《改变的特质》中  戈尔曼和戴维森
+But in "Altered Traits," Goleman and Davidson
+说说每天做20分钟冥想的人
+talk about the fact that people who do 20 minutes of sitting meditation per day
+可以像大脑状态一样进入这些慢波睡眠状态
+can access these slow-wave sleep like brain states.
+那么  我在这里聊了很多
+Now, I've talked a lot on here
+关于非睡眠深度休息
+about non-sleep deep rest,
+瑜伽nidra和催眠之类的东西
+things like yoga nidra and hypnosis.
+我不知道那些会把人
+I'm not aware that those will put people
+带到慢波睡眠  或者本身就是三角波睡眠
+into slow-wave sleep per se, or delta waves per se.
+所以我们实际上是在谈论20分钟
+So we're really talking about 20 minutes
+更传统的类型冥想
+of more traditional type meditation.
+好吧  所以我们谈论了非常低剂量的褪黑激素
+Okay, so we've talked about very low doses of melatonin
+作为触发三角波的一种方式
+as a way to trigger delta waves
+并在睡眠中释放更多的生长激素
+and more growth hormone release in sleep.
+有科学支持这一点
+There's science to support that.
+那么  我们讨论了20分钟的唤醒行为
+We've now talked about a waking behavior of 20 minutes
+我称之为标准冥想的那种
+of sort of what I would call standard meditation
+或只是坐在那里  专注于呼吸
+or just sitting there, concentrating on one's breathing
+尝试进入三角波
+to try and access delta waves.
+双耳节拍  尚无科学证明
+Binaural beats, no science yet.
+不过我也不知道
+Who knows?
+也许有科学支持它
+Maybe there's science to support it.
+如果有   请告诉我
+If you're aware of it, let me know.
+那么  让我们转到一个人可以做的事情
+Now, let's move to the things that one can do
+被证明具有什么意义  说实话
+that have been shown to have what's, let's just be honest,
+在醒着时对生长激素释放的影响很大
+pretty enormous effects on growth hormone release in waking.
+这些都是非常可行的事情
+And these are things that are very actionable.
+可能会产生巨大影响的事情之一
+One of the things that can have a dramatic effect
+清醒时生长激素释放的水平
+on levels of growth hormone release in waking
+以及第二天晚上入睡
+as well as in sleep the following night is exercise.
+但是关键是运动的类型和持续时间
+But the key is the type of exercise and the duration.
+那么  有一个逻辑
+Now, there's a logic to this.
+有数百个（如果不是数千个）研究
+There are hundreds, if not thousands of studies
+测量生长激素
+measuring growth hormone,
+在运动中或运动后
+both during or sometimes after exercise
+或第二天晚上
+or the following night.
+从所有之中结论出来的
+And the conclusion that one takes away
+就是这些锻炼
+from all of these is that exercise
+必须具有特定的持续时间和强度
+has to be of particular duration and intensity
+才能获得生长激素的释放
+in order to get growth hormone release.
+所以首先我要告诉你
+So first I'm just going to tell you
+我发现是
+what I found to be the maximum amount
+生长激素最大程度的释放
+of growth hormone release
+与特定形式的锻炼有关
+as it relates to a particular form of exercise.
+锻炼的特定形式是重量训练
+The particular form of exercise is either weight training
+也可以是耐力训练
+or it can be endurance training,
+但是耐力训练和重量训练
+but the endurance training and the weight training
+实际上必须限制在60分钟左右
+actually have to be limited to about 60 minutes,
+不能更多了
+not much longer.
+那么  这很重要
+Now, this is important
+因为它被一遍又一遍地显示
+because it's been shown over and over again
+如果一个人进行过长时间的负重运动
+that if one exercises too long with weights
+或耐力运动  使皮质醇水平足够高
+or endurance exercise, that cortisol levels go high enough
+会开始抑制睾丸激素
+that it starts to inhibit the testosterone
+甚至雌激素通路
+and even the estrogen pathways.
+这就是为什么我相信过度运动的人
+This is why I believe people who overexercise
+或大量运动可能会丢掉月经
+or exercise a lot can lose their menstrual cycles.
+她们停止月经
+They stop menstruating.
+这就是为什么你会抑制睾丸激素
+It's why you get suppressions in testosterone
+如果人们训练时间太长  太努力
+if people train too long and too hard.
+太长意味着
+The cutoff has always been, you know,
+60至75分钟的努力训练
+60 to 75 minutes of the hard work part.
+不同的人会有很大的不同
+It's going to vary a lot from person to person,
+但是就生长激素而言
+but in terms of growth hormone,
+似乎导致的情况
+the conditions that seem to lead
+以最大的生长激素释放量是一种  要保暖  热身
+to the greatest growth hormone releases are one, get warm.
+这很有趣  我们将讨论温度
+This is interesting, we're going to talk about temperature.
+因此适当的预热似乎会加速
+So a proper warmup seems to accelerate
+生长激素的释放
+the release of growth hormone
+一旦艰苦的工作阶段开始
+once the hard work phase starts.
+因此  预备热身10分钟左右
+So 10 minutes of warmup or so was the number
+我从所有这些研究中提取出来的
+that I extracted from all these studies.
+顺便说一下  对此有一个很好的评论
+There's a beautiful review on this, by the way.
+生长激素的反应各不相同
+Growth hormone responses of varying, excuse me,
+“生长激素  精氨酸和运动”
+"Growth hormone, arginine and exercise."
+几分钟后  我们将讨论精氨酸
+We'll talk about arginine in a few minutes.
+那是KANALEY  KANALEY的作品
+That's by Kanaley, K-A-N-A-L-E-Y.
+它发表在《当前意见》上
+It was published in Current Opinion
+在“临床营养和代谢护理领域”
+in Clinical Nutrition and Metabolic Care.
+一般而言  “当前意见”期刊是
+The Current Opinion journals are generally
+在期刊领域有着相当高的质量
+of pretty high quality in terms of the reviews
+只是因为它们往往是最近的研究
+just because they tend to be pretty recent.
+然后其中的参考文献也相当不错
+And then the references therein are also quite good.
+那么这是什么意思？
+So what does this mean?
+这意味着要热身
+This means warm up.
+当你说热身时
+And when you say warm up,
+这并不意味着只是热身你将要使用的四肢和组织
+it doesn't mean just warm up the limbs and tissues
+以免受伤
+that you're going to use so you don't get injured,
+实际上要温暖整个身体
+actually warm the body.
+所以实际上有一些讨论
+So there was actually some discussion
+关于是否在寒冷的冬季
+about whether or not in cold winter months,
+人们应该戴长袜帽
+people should wear like a stocking cap,
+或者说进入一个温暖的房间
+bringing the conditions, making the room warm.
+因此  让身体变暖似乎很重要
+So getting the body warm as a warmup seems to be important
+因为身体的温度
+because temperature of the body
+似乎是一个重要条件
+seems to be an important condition
+或某些运动方式的前提
+or prerequisite for certain patterns of exercise
+使生长激素释放最大化
+to maximize growth hormone release.
+所以对我来说真的很有趣
+So it's really interesting to me.
+我痴迷于体温
+I have an obsession with how body temperature,
+光照  运动  食物这些因素之间的关联
+light exercise and food interact.
+事实是  如果你感到温暖
+We're going right there with the fact that if you get warm,
+你提高体温
+you bring up the body temperature
+一度或两、三度  然后开始锻炼
+a degree or two or maybe three, and then start exercise.
+似乎是高强度运动
+It does appear that high-intensity exercise,
+但是还是上一集所讨论的那样
+but again as discussed in a previous episode,
+不是那种直接使肌肉竭力的运动
+not exercise that brings muscles to failure
+但接近竭力
+but close to it.
+所以如果是负重运动
+So if it's weight-bearing exercise,
+就是接近你最大重量的那一组
+it would be getting close to that final repetitions
+但不是最大重量
+where you can't complete them
+不要超过这个限度  不要做不起来
+but not pushing through those or even going to failure
+但是非常接近最大重量（举不起来那个重量）
+but getting close leads to anywhere
+静息生长激素水平从300％提高到500％
+from 300 to 500% increases in resting growth hormone levels
+300至500％的生长激素增加
+and 300 to 500% increases in growth hormone
+一直到第二天晚上睡觉
+the following night when you go to sleep,
+这太不可思议了
+which is incredible.
+那么  我要对此进行正确剖析
+Now, I want to dissect this properly.
+好吧  那么其他条件之一
+Okay, so one of the other conditions
+再次重要的是
+that seem to be important, again,
+血糖要相对较低
+was to have relatively low blood glucose.
+所以看起来很像你需要的条件
+So it's looking a lot like the conditions you need
+为了获得最大的睡眠
+for sleep in order to get maximum
+睡眠中释放生长激素
+growth hormone release in sleep.
+所以不要让血糖过高或过低
+So not having blood glucose too high or too low,
+这本身就是一个讨论
+that's a discussion unto itself.
+你想有足够的精力去做运动
+You want to have sufficient energy to do the exercise
+身体热起来了
+but getting warm,
+血糖不要太高或太低
+not having blood glucose too high or too low.
+所以可能不能运动前  不宜进食
+So probably not eating too close to exercise
+在运动期间不摄取大量糖分
+or not in ingesting a lot of sugars during the exercise.
+事实支持了这一点
+That was supported by the fact that ingestion
+含热量糖的运动饮料
+of a sports drink that contains caloric sugar
+立即使生长激素水平保持一致
+immediately flat-line the growth hormone levels.
+真的很有趣
+So really interesting relationship
+在胰岛素  葡萄糖和生长激素之间
+between insulin, glucose and growth hormone.
+然后在任何地方进行训练
+So then doing the training for anywhere
+60至75分钟可最大限度地释放生长激素
+from 60 to 75 minutes to maximize growth hormone release.
+然后另一个有趣的事情
+And then the other interesting thing
+是即使运动后
+was that even after the exercise,
+降低体温
+taking body temperature back down
+似乎很快就恢复到正常水平
+to normal levels relatively quickly seemed to be associated
+这些生长激素的峰值
+with these big spikes in growth hormone.
+否则  生长激素中会出现巨大的下降
+Otherwise, what would happen is you get these big spikes
+但是如果运动时间太长
+in growth hormone, but if the exercise went too long
+或者如果体温持续太高的时间太长
+or if body temperature remained too high for too long,
+然后你不会有第二次升高增加
+then you didn't get the second increase
+第二天晚上体内生长激素不会升高了  好吧
+in growth hormone the following night, okay?
+因此  我希望我能说得很清楚
+So I hope I made that abundantly clear.
+好好热身  提高体温
+Warm up well, get body temperature up,
+运动60至75分钟
+exercise 60 to 75 minutes.
+不要冲会失败的重量
+Don't go to absolute failure
+如果你对生长激素释放感兴趣
+if your interest is in growth hormone release
+无论是在锻炼期间还是当晚
+both during the exercise and later that night.
+如果可以降低体温
+And if you can bring body temperature back down
+冷却至正常水平
+to normal levels by cooling off,
+也许是凉水淋浴或冰袋之类的东西
+maybe cool shower or maybe ice pack or something,
+或者只是关掉房间的暖气
+or maybe just turning off the heat in the room
+或走出去  不管是什么
+or going outside, whatever it is,
+那么你将增加
+then you increase the probability
+延长生长激素释放直至
+that you're going to increase growth hormone
+第二天晚上的概率
+the following night as well.
+同样  这些都是巨大的增长  可以达到300％到500％
+And again, these are big increases, 300 to 500%.
+几乎就像你在白天
+It's almost like you're getting
+进行了第二次睡觉
+a second sleep during the day.
+但是如果运动太辛苦  如果体温升高
+But if the exercise is too hard, if body temperature
+保持太兴奋时间太久  会破坏整个过程
+stays too high for too long, you disrupt the whole process
+而且你没有得到增加生长激素的效果
+and you don't get the effect of increased growth hormone.
+生长激素真的很强大
+Growth hormone is really powerful
+但这并不单独作用
+but it doesn't work alone.
+实际上  许多生长激素的作用是
+In fact, a lot of the effects of growth hormone are mediated
+通过其对肝脏的影响介导的
+by its effects on the liver.
+因此  生长激素被释放  进入肝脏
+So growth hormone is released, goes to the liver,
+然后肝脏释放出一种叫做IGF-1的物质
+and then the liver releases something called IGF-1,
+胰岛素生长因子1
+insulin growth factor 1.
+胰岛素生长因子1很受欢迎
+Insulin growth factor 1 was popular
+在神经科学领域是重点领域
+in the neuroscience community as an area of focus
+因为它具有触发改进记忆力的能力
+because of its ability to trigger improvements
+和运动后的学习能力
+in memory and learning after exercise.
+确实是锻炼的触发因素
+And indeed exercise triggers
+生长激素和IGF-1的释放
+both the release of growth hormone and IGF-1.
+IGF-1似乎是造成许多影响的原因
+IGF-1 seems responsible for a lot of the effects
+记忆力的提升
+of improved memory.
+有人报告说这是应有的
+Some people report that that is due
+增加神经元或神经发生的数量
+to increased number of neurons or neurogenesis,
+新神经元的诞生
+birth of new neurons.
+很明显  在人类中
+It's pretty clear that in humans,
+那不是正在发生的事情
+that's not what's happening.
+是的  在动物中会这样  而不是在人类中
+Yes in animals, not in humans.
+尽管如此  IGF-1仍具有
+IGF-1 nonetheless has positive effects
+在记忆和认知上的积极作用
+on memory and cognition.
+触发IGF-1释放的好方法
+And a great way to trigger IGF-1 release
+生长激素的释放是通过运动来实现的
+and growth hormone release is through exercise.
+那么  有趣的是
+Now, the interesting thing,
+以及我在这里提出IGF-1的原因
+and the reason I'm bringing up IGF-1 here
+是某些运动方式
+is that certain patterns of exercise,
+实际上  运动时间会产生不同的影响
+actually duration of exercise have different effects
+关于IGF-1和生长激素
+on IGF-1 and growth hormone,
+取决于运动是否
+depending on whether or not the exercise
+由男人或女人完成
+is done by men or women.
+我们称之为性别依赖性效应
+There's what we call sex-dependent effect.
+并且  性别依赖性的效果如下
+And the sex-dependent effect is as follows.
+在这项特殊研究和其他一些研究中
+In this particular study and several others,
+他们所做的是让人们锻炼身体
+what they did is they had people exercise.
+他们测量了生长激素和IGF-1的水平
+They measured growth hormone and IGF-1 levels
+从运动前  运动中和运动后的血液中摄取
+from the blood before, during and after exercise.
+他们可以看到最大的增长发生的时间
+And they could see when the greatest increases occurred.
+这是抗阻运动的标准类型
+This was standard sorts of resistance exercise.
+所以比如说深蹲
+So some squats.
+有一个像冲刺动作的运动
+There was a sprint like activity.
+具体的练习是什么并不重要
+It doesn't really matter what the specific exercises were.
+但是不能失败
+None of them were to failure.
+是要能做10次重复的那种
+These were in kind of the 10 repetition
+或更少一点  6次
+or less range, six sets.
+所以标准重量训练的东西
+So kind of standard weight training stuff
+任何人都可以做
+that anyone might do.
+但是有趣的是  女性能够在运动的早期
+But what was interesting is that women were able to access
+达到生长激素和IGF-1的最大峰值
+the biggest peak in growth hormone and IGF-1 early in the exercise.
+因此  在前30分钟内
+So in the first 30 minutes.
+因此  这意味着即使你只有30分钟
+So what this means is even if you just have 30 minutes,
+至少对于女性而言
+at least for women, there's going to be a big increase
+在开始的30分钟内检测生长激素和IGF-1  将会发现有很大的增长
+in growth hormone and IGF-1 in the first 30 minutes.
+对于男性而言  最大的增长发生在运动中的后面
+For men, the biggest increase occurred later
+大约60分钟左右
+in the exercise, which was at 60 minutes or so total.
+因此  性别依赖性效应很有趣
+And so the sex-dependent effects are interesting.
+他们指出了事实
+They point to the fact
+皮质醇  睾丸激素和雌激素
+that things like cortisol, testosterone, and estrogen,
+当然在不同水平上有所不同
+which of course vary in different levels
+对男人和女人都会产生影响
+in men and women are going to impact
+IGF-1和生长激素等物质的释放
+the release of things like IGF-1 and growth hormone.
+是的  他们确实控制了各种事情
+And yes, they did control for all sorts of things
+比如说饮食  控制体重
+like diet and they controlled for weight
+和以前的经验
+and prior experience.
+这实际上是一个很好的研究
+It's actually a quite nice study.
+如果你想查看一下  那是Pierce等人的作品
+If you'd like to check it out, it's by a Pierce et al,
+“生长激素和胰岛素生长因子-I
+"Growth Hormone and Insulin Growth Factor-I
+分子量同工型反应
+Molecular Weight Isoform Response
+抗阻运动取决于性别”
+to Resistance Exercise Are Sex-Dependent"
+于2020年在《内分泌学前沿》杂志上发表
+in Frontiers in Endocrinology, fine journal in 2020.
+所以这是最近的研究
+So it's quite recent.
+那么这是什么意思？
+So what does this mean?
+这意味着如果你正在锻炼
+This means if you're exercising
+而你想要释放生长激素  热身
+and you want growth hormone release, warm up,
+做我们一直在讨论的运动类型
+do the type of exercise that we've been discussing.
+女性  在开始的30分钟内
+Women, in the first 30 minutes,
+是你将获得最大利益的时候
+is when you're going to get the maximum benefit
+就生长激素和IGF-1而言
+in terms of growth hormone and IGF-1.
+男性  你必须坚持整个60分钟
+Men, you have to keep going for the entire 60 minutes.
+因此  如果你有兴趣  请不要过早用完力气
+So don't tap out early if you're interested
+获得生长激素和IGF-1释放在后面
+in getting the growth hormone and IGF-1 release.
+同样的条件适用于冷却身体
+And the same conditions apply
+而不是
+about then cooling down and not making
+锻炼持续了很长时间  以至于你没有得到
+the exercise last so long that you don't get
+第二天晚上生长激素的增加
+the increase in growth hormone the following night.
+到目前为止  我在做此播客方面的经验
+My experience thus far in doing this podcast
+观众有两类
+is that people fall into one of two categories.
+一类是  “你就告诉我该吃什么吧”
+There are the just tell me what to take people,
+真正渴望尝试补品的人
+the people that are really eager to try supplements
+可能还有处方药
+and maybe in prescription compounds.
+然后有些人更害羞
+And then there are people who are a little bit more shy
+不想补充补给
+about supplementation.
+他们更加专注于自己能做什么
+They are more focused on what they can do
+饮食  行为和类似的东西
+with diet and behaviors and things of that sort.
+我对两种方式没有任何偏见
+I don't have a bias either way.
+我尝试提供由科学文献支持的工具方法
+I try and offer tools that are supported by the scientific literature.
+而且我总是指出安全用量
+And I always point to safety margins.
+有可以增加生长激素的补品
+There are supplements that can increase growth hormone
+在相当大的程度上  不
+to a considerable degree and no,
+这些不是生长激素本身
+these aren't growth hormone itself.
+虽然  那当然会增加生长激素
+Although, that of course will increase growth hormone
+在相当大的程度上
+to a considerable degree.
+我们将在最后讨论处方药
+We will talk about prescription drugs at the end,
+不只是生长激素
+not just growth hormone,
+但是其他一些很突出的事情
+but some other things that are quite prominently
+现在正在使用中
+in use right now,
+特别是在娱乐行业
+in particular in the entertainment industry.
+有很多有趣的化合物
+There are pretty interesting compounds.
+但是首先让我们谈谈补品
+But first let's talk about supplements.
+所以这已经知道了一段时间了
+So this has been known about for some time
+但是精氨酸  氨基酸精氨酸
+but arginine, the amino acid arginine,
+以及氨基酸鸟氨酸
+as well as the amino acid ornithine
+可以大大增加生长激素的水平
+can increase growth hormone levels substantially.
+那么  精氨酸具有多种作用
+Now, arginine has a number of effects.
+你可以从食物中获取它  也可以从补品中获取它
+You can get it from food, you can get it from supplements.
+有些人以药丸形式或胶囊形式服用
+Some people take it in pill form or capsule form.
+实际上  有些人会通过静脉注射静脉注射
+Some people will actually take it by IV, intravenously.
+精氨酸的水平和数量
+The levels and the amounts of arginine required
+获得大量的生长激素释放增加
+to get big growth hormone release increases
+非常充实
+is pretty substantial.
+因此  有些人会在睡前服用精氨酸
+So some people will take arginine before bedtime,
+有些人会在运动前服用它
+some people will take it before exercise.
+前提又是低血糖
+The prerequisite again is low blood glucose.
+血糖如果很高  它会消除这种作用
+Blood glucose is high, it's going to quash the effect.
+人们服用的精氨酸量
+The amounts of arginine that people take
+从三克到十克不等
+are anywhere from three grams to 10 grams,
+甚至更多
+or sometimes even more.
+虽然  这绝对是一个更好的案例
+Although, this is definitely a case of more is not better.
+生长激素释放有一个阈值
+There's a threshold at which growth hormone release
+实际上由于服用
+is actually blunted by taking
+超过九克的精氨酸 而会变得钝了
+more than nine grams of arginine.
+那么  口服9克精氨酸估计得有很多药了
+Now, nine grams of arginine orally is a lot of pills.
+至少要吃九颗药
+It's at minimum nine pills.
+会引起一些胃肠道不适
+And it can cause some GI disturbance, right?
+人们会感到恶心
+People can feel nauseous.
+有人会吐出来
+Some people will throw it up.
+有些人便秘或腹泻等
+Some people get some constipation or diarrhea, et cetera,
+或只是胃痛
+or just stomachaches.
+我当然不建议人们这样做
+I'm certainly not suggesting people do this
+他们服用精氨酸
+that they take arginine
+但这就是为什么大多数研究看起来
+but that's the reason why most of the studies that looked
+精氨酸对生长激素水平的作用
+at the role of arginine on growth hormone levels
+是通过静脉输液进行静脉注射的
+did it by IV, intravenous infusion.
+所以有趣的是
+So what's interesting, however,
+是无论是通过嘴巴还是通过静脉
+is that whether or not it's by mouth or by vein,
+服用精氨酸可以大大增加
+taking arginine can dramatically increase
+生长激素的释放和水平
+growth hormone release and the levels
+或增加量是可变的
+or the amount of increase was anywhere
+从低的100开始  但基本上从400%开始
+from 100 on the low-end but anywhere basically from 400
+高于基线的600％
+to 600% above baseline.
+因此  这些都是生长激素的巨大增加
+So these are huge increases in growth hormone.
+那么  我从未尝试过精氨酸
+Now, I've never tried arginine.
+精氨酸在那里存在许多不同的目的
+Arginine is out there for a number of different purposes.
+其中之一是增加生长激素
+One of them is to increase growth hormone.
+一些补充品
+Some of the supplements out there
+增加生长激素包括精氨酸和鸟氨酸
+to increase growth hormone include arginine and ornithine.
+精氨酸确实具有扩张动脉的作用
+Arginine does have the effect of dilating arterials.
+并且它基本上增加了血液供应
+And it basically increases blood supply.
+精氨酸通路参与血管舒张
+The arginine pathway is involved in vasodilation.
+这实际上是通路
+It's actually the pathway
+那是很多药物的下游
+that's downstream of a lot of drugs
+用于治疗勃起功能障碍之类的东西
+that are used to treat things like erectile dysfunction.
+任何时候人们遇到问题
+And anytime people have problems
+有任何类型的外周血流
+with peripheral blood flow of any kind,
+他们专注于会破坏酶的化合物
+they focus on compounds that will either disrupt the enzymes
+或将调整氨基酸水平
+or will adjust the levels of amino acids
+以获得更多的血管舒张作用
+to get more vasodilation.
+所以以精氨酸为目的
+So taking arginine for the purpose
+增加生长激素也会有效果
+of increasing growth hormone will also have the effect
+扩张血管
+of dilating blood vessels
+对那些有  对不起
+and for people with blood, excuse me,
+患有心脏病的人  这实际上可能是一个严重的问题
+with heart conditions, that actually can be a serious issue.
+那么  这确实很重要
+Now, here is something really important
+有趣的是
+and interesting to note,
+这就是精氨酸水平的提高
+which is that increasing arginine levels
+以增加生长激素的释放为特定目标
+with the specific goal of increasing growth hormone release
+实际上可以短路运动的影响
+can actually short circuit the effects of exercise
+对生长激素
+on growth hormone.
+我看过的几项研究
+Several studies that I looked at,
+看了服用精氨酸的相互作用
+looked at the interaction of taking arginine
+和运动或只是精氨酸
+and the exercise or just the arginine
+或仅是运动
+or just the exercise alone.
+因此  不幸的是
+And so you don't, unfortunately,
+如果增加生长激素不是你的目标
+if growth hormone increase is your goal,
+不幸的是你不会增加生长激素800％
+you don't unfortunately get to increase growth hormone 800%
+通过服用精氨酸和锻炼
+by taking arginine and exercising.
+它似乎总是被夹在
+It always seems to be clamped
+大约增加300％到500％之间
+at about 300 to 500% increases.
+不过仍是一个大幅增加了
+Still large increases.
+我之所以提出这一点  有几个原因
+So I make that point for several reasons.
+首先  要注意精氨酸
+First of all, be aware that arginine
+对血管扩张有其他作用
+has these other effects on vasodilation.
+如果你患有心脏病  请认真对待
+Take those seriously if you have a heart condition
+或在任何情况下都应认真对待它们
+or take them seriously in any case.
+其次  你可以补充精氨酸
+Second of all, you can supplement with arginine,
+不运动  并获得这些大的增加
+not exercise and get these big increases
+通过在睡觉前服用它们来补充生长激素
+in growth hormone by taking them before sleep.
+但是  如果你在运动前服用精氨酸
+But if you're taking the arginine before exercise,
+你要短路
+you're going to short circuit
+或限制运动对生长激素的影响  好吧
+or clamp the effects of exercise on growth hormone, okay?
+所以这是一个可以使用的东西
+So it's something that one could use
+但它与运动没有协同作用
+but it doesn't have a synergistic effect with exercise.
+两个或多或少互相抵消  不为零
+The two more or less cancel each other out, not to zero,
+但最终会产生与你相同的效果
+but you end up with the same effect you would
+你做过一个还是另一个
+had you done one or the other.
+希望这很清楚
+So hopefully that's clear.
+另一件事是如果一个人的目标
+The other thing is if one's goal
+真的是增加血液中的精氨酸
+is really to increase arginine in the blood
+不管出于什么原因
+for whatever reason,
+精氨酸实际上可能不是做到这一点的最佳方法
+arginine may not actually be the best way to do that.
+由于它在肠道中的代谢方式
+Because of the way it's metabolized in the gut,
+它没有渠道  没有通路
+it doesn't have access or get access
+运输到你想要增加生长激素的组织上
+to the tissues that you're most interested in in terms of increasing growth hormone
+或血管舒张
+or vasodilation for that matter.
+在这种情况下
+And in that case,
+还有一种叫做L-瓜氨酸的东西
+there's something else called L-citrulline
+对血管扩张有很强的作用
+which has powerful effects on vasodilation,
+可能对生长激素水平产生强大影响
+powerful effects potentially on growth hormone levels
+通过精氨酸通路
+via the arginine pathway.
+但基本上是瓜氨酸
+But basically L-citrulline,
+它就像一个捐助者
+it acts as sort of a donor,
+或者是精氨酸的生物学先决条件
+or it's kind of a biological prerequisite for arginine
+并可能导致更大的精氨酸增加
+and can lead to even bigger arginine increases
+比你服用精氨酸本身会得到的更多
+than you would get if you took arginine itself.
+因此  L-瓜氨酸在那里
+And so L-citrulline is out there.
+请记住  任何会膨胀
+Keep in mind that anything that dilates
+血管的东西  会降低血压
+the blood vessels will lower blood pressure.
+所以L-瓜氨酸是的  会导致血流量增加
+So L-citrulline, yes, will lead to increase blood flow
+出于任何目的  你想要使用它
+for whatever purpose you want to use it for,
+无论是在健身房里还是其他地方
+whether or not that's pumps in the gym or whatever.
+这也可能导致
+It also can lead to big increases
+精氨酸和生长激素的大幅增长
+in arginine and growth hormone,
+但它会降低血压
+but it will lower blood pressure.
+因此  请注意这一点
+So be aware of that.
+并了解  生物学并不是那么简单
+And understand that the biology isn't so straightforward.
+L-瓜氨酸实际上可能是更好得到精氨酸的方法
+L-citrulline may actually be the better way
+比起精氨酸本身增加
+to get arginine increases than arginine itself.
+鸟氨酸也可以增加生长激素
+And ornithine can also increase growth hormone,
+尽管这也是通过间接通路进行的
+although that's also through an indirect pathway.
+如今  没有太多的关注点
+And nowadays, there isn't a lot of focus
+在鸟氨酸上  作为增加生长激素的一种方式
+on ornithine as a way to increase growth hormone.
+那在90年代风靡一时
+That was kind of all the rage in the 90s,
+不再那么多了
+not so much anymore.
+如今  人们真的对这种东西了如指掌
+Nowadays, the people are really in the know for this stuff
+倾向于专注于L-瓜氨酸
+tend to focus on L-citrulline.
+如果你对L-瓜氨酸或精氨酸感兴趣
+And if you're interested in L-citrulline or arginine,
+我强烈建议你去找我们的老朋友
+I highly recommend you go to our old friend,
+好朋友  examine.com
+good friends, examine.com,
+因为在那里你可以将其放入他们的搜索框
+because there you can put it into their list.
+你可以放上搜索  它是完全免费的
+You can just put search and it's totally free.
+它会告诉你
+And it will tell you that blood pressure
+血压将略有下降
+will be slightly decreased.
+健身房的输出将增加
+Power output in the gym will increase.
+对血糖有很强的作用
+There's very strong effects on blood glucose.
+疲劳度显着降低
+Fatigue is reduced notably.
+一氧化氮的大幅增加
+Big increases in nitric oxide.
+这也与血管扩张的增加有关
+That's also related to the increase in vasodilation.
+血浆精氨酸含量很高  对不起
+Plasma arginine, very high, excuse me,
+效果显着  研究也高度支持
+notable effects, very high support for studies,
+让人们能够做更多的训练量  有氧运动
+which allow people more training volume, aerobic exercise,
+降低动脉僵硬度
+arterial stiffness is brought down.
+有很多东西
+There's a huge list of things.
+生长激素增加
+Increase in growth hormone.
+因此  两项研究表明  这是双盲的
+So two studies showing, this was done double-blind.
+太好了  你总是想看到双盲
+Great, you always want to see double-blind,
+安慰剂对照
+placebo controlled.
+这仅在男性中完成  而在女性中没有完成
+This was only done in males, not in females.
+不幸的是  只有男性的数据
+Unfortunately, just have data from males
+但生长激素增加
+but increases in growth hormone,
+这虽然很小  但确实很显着
+it's a small, but a real significant effect.
+再一次  来自高质量研究
+And again, from quality studies.
+因此  那里有大量的效果
+So there's a huge number of effects there.
+还有一些其他更有趣的
+And some of the other kind of more interesting ones
+关于你可能没有想到的瓜氨酸
+about L-citrulline that you might not have thought about
+像是肌肉的氧合作用
+are things like muscle oxygenation
+当我们向下滚动时  c反应蛋白减少
+as we scroll down, decreases in c-reactive protein.
+因此  你可能会影响很多相同的事情
+So a lot of the same things that you might affect,
+我是从同样的化合物中
+expect, excuse me, from the same sorts of compounds
+我们以前见过的
+we saw before.
+这里的要点是  如果你想增加生长激素
+The takeaway here is if you want to increase growth hormone,
+想一想精氨酸通路
+think about the arginine pathway,
+但精氨酸本身可能不是最佳的直接通路
+but arginine itself might not be the best direct route to get there.
+L-瓜氨酸可能是一个更好的选择
+L-citrulline might be a better option.
+但请务必认真对待
+But please do consider take very seriously
+对血压的影响
+the effects on blood pressure.
+所以我们一直在谈论重大影响
+So we've been talking about big effects
+通过补充或锻炼生长激素
+from supplementation or exercise on growth hormone,
+这种极其强大的激素
+this extremely powerful hormone.
+要注意的一件事是  生长激素的概况
+And one thing to note is that the profile of growth hormone
+随着年龄的增长  变化  我之前提到过
+as we age, changes, I mentioned that earlier,
+但是了解它如何变化很重要
+but it's important to understand how it changes.
+一件事对我来说特别有趣
+One thing that's particularly interesting to me
+已经四十多岁的人
+as somebody who's in his 40s
+实际上是在30到40岁之间
+is that it's actually between ages 30 and 40
+那个生长激素的量
+that the amount of growth hormone
+你每晚释放的东西减少了
+that you release each night is reduced
+扩大两倍至三倍
+by two to threefold.
+真是不可思议
+That's really incredible.
+你知道吗  我们听到了很多有关睾丸激素水平的信息
+You know, we hear so much about testosterone levels
+随着年龄的增长而下降或雌激素水平下降
+going down as we age or estrogen levels going down.
+但是如果你还记得
+But if you recall
+从睾丸激素和雌激素的发作
+from the testosterone and estrogen episode,
+我们谈到了一个事实  如果你真的看数据
+we talked about the fact that if you really look
+例如睾丸激素
+at the data, just for instance, on testosterone,
+有90多岁的男人  而且并不罕见
+there are men in their 90s and they are not rare,
+事实证明   他们的睾丸激素
+it turns out, that are making as much testosterone
+DHT  二氢睾丸激素 依然很多地生成
+and DHT, dihydrotestosterone,
+就像他们20多岁一样  好吧
+as they were in their 20s, okay?
+所以我们今天听到很多关于睾丸激素水平的信息
+So we hear so much nowadays about how testosterone levels
+下降  精子水平下降  等等
+are dropping, sperm levels are dropping, et cetera.
+我对此没有异议
+And I don't dispute that.
+我在那集中谈到了这一点
+I talked about that in that episode.
+但很明显  睾丸激素水平的个体差异很大
+But it's clear that testosterone levels vary tremendously from person to person.
+而且变老不一定意味着
+And just getting older does not necessarily mean
+睾丸激素水平正在下降
+that testosterone levels are dropping.
+看来生长激素水平
+Growth hormone levels, it seems,
+人们在30多岁和40多岁时正在下降
+are dropping when people are in their 30s and 40s
+而且它们正在大幅下降
+and they're dropping substantially.
+似乎情况就是如此
+And that seems to be the case across the board.
+你不会找到40多岁  50多岁和60多岁的人
+You're just not going to find people in their 40s, 50s and 60s
+依然在产生很多的生长激素
+that are making as much growth hormone
+就像他们十几岁和二十多岁的时候一样
+as they were in their teens and 20s.
+作为一个我真的感觉很好的人
+And as somebody who, I feel really good,
+但作为一个肯定会注意到的人
+but as somebody who definitely noticed
+当我四十多岁时
+that as I got into my 40s
+即使我睡了相同的时间
+that even if I slept the same amount,
+我依然没有像之前那样
+I wasn't feeling quite
+就像我说的  能够从运动中恢复过来
+as I would say able to recover from exercise
+或即使睡眠量相同  感觉伤口愈合更慢了
+or wound healing even with the same amount of sleep.
+而且我正在尝试优化很多东西
+And I was trying to optimize a great number of things.
+这项生长激素业务
+This business of growth hormone
+变得对我特别感兴趣
+became a particular interest to me.
+而且由于操纵生长激素的方式
+And since the ways to manipulate growth hormone
+在男人和女人中  是如此简单明了
+in men and women are so straightforward.
+而且既然每个人都在经历
+And since everybody goes
+在与年龄相关的功能下降中
+through this age-related decline very dramatically,
+在我看来  这些东西
+it seems to me that the things
+我们应该做的事情  例如运动
+that we're supposed to be doing anyway, like exercising,
+就像之前所说的  尽量不要在睡前吃
+like trying not to eat too close to bedtime,
+试图优化睡眠
+trying to optimize sleep.
+所有这些都是很棒的工具
+All of these are wonderful tools
+我们应该追求并且也许正在使用
+that we should be pursuing and perhaps using.
+他们实际上可以抵消
+And they can actually offset
+减少的两到三倍  对不对？
+the two to three fold decrease, right?
+如果我们谈论的是减少两到三倍
+If we're talking about a two to threefold decrease
+适用于30多岁和40多岁的人们
+for people that are in their 30s and 40s.
+然后我们在谈论增加
+And then we're talking about increases
+运动或吃补剂
+from exercise or maybe from supplementation
+最好是运动  提高300％至500％
+but certainly from exercise of 300 to 500%.
+好吧  突然之间  我们处于一个位置
+Well, then, all of a sudden we're in a position
+实际抵消了与年龄有关的生长激素下降
+to actually offset the age-related decline
+完全是通过行为
+in growth hormone completely just through behaviors.
+我认为这非常有趣且功能强大
+And I think that's quite interesting and quite powerful.
+那么  我想讨论一种方法  任何人
+Now, I'd like to discuss a way that anyone
+可以大大增加他们的生长激素水平
+can increase their levels of growth hormone dramatically.
+当我大胆地说时  我的意思是大胆
+And when I say dramatically, I mean dramatically.
+我待会儿再讲一些数字
+I'll get to the numbers in a couple minutes.
+但是我们必须记住生长激素是如何释放的
+But we have to remember how growth hormone is released
+首先
+in the first place.
+记住  这一切都始于大脑的下丘脑
+Remember, it all starts in the brain, in the hypothalamus.
+下丘脑是控制大脑的区域
+The hypothalamus is a brain area that controls
+性行为  体温调节
+things like sexual behavior, temperature regulation,
+昼夜节律行为  意味着你想清醒时
+circadian behavior, meaning when you want to be awake
+当你想入睡  侵略时  所有这些
+and when you want to be asleep, aggression, all of that.
+也有其他大脑区域参与其中
+There are other brain areas involved too
+但它拥有丰富的不同神经元集合
+but it has a rich collection of different neurons
+涉及所有这些非常基本的功能
+involved in all these very basic functions.
+那么  当我们谈论释放激素时
+Now, as we talked about the releasing hormones,
+生长激素释放激素
+the growth hormone-releasing hormone,
+它来自下丘脑的神经元
+it comes from neurons in the hypothalamus.
+那些然后与垂体沟通
+Those then communicate with the pituitary
+垂体释放生长激素
+and the pituitary releases growth hormone
+然后是生长激素
+and then the growth hormone
+作用于所有这些不同的组织  肌肉
+acts on all these different tissues, muscle,
+肝脏  软骨等  体内脂肪
+liver, cartilage, et cetera, body fat.
+使他们消耗能量
+Makes them use energy.
+这就是为什么当生长激素水平很高时
+That's why you lose body fat
+你会丢失体脂肪
+when growth hormone levels are high.
+它可以使你生长肌肉  增强骨骼等
+It makes you grow muscle, strengthens bones, et cetera.
+那么  具有深远影响的事情之一
+Now, one of the things that has a profound effect
+在生长激素水平  生长激素释放
+on growth hormone levels, growth hormone release,
+是温度
+is temperature.
+那么  关于此的数据非常强大
+Now, the data on this are very strong
+数据来自两个动物研究
+and the data come from both animal studies
+和人类研究
+and human studies.
+所以有很多研究
+So there are a number of studies
+探索了如何使动物变冷或变热
+that have explored how making animals cold or hot
+可以增加生长激素
+can increase growth hormone.
+而且  如果你正在猜测该方向
+And if you're guessing which direction this is going to go,
+你可能可以想象  让动物
+you can probably imagine that making animals
+或者人  变得暖
+or people warmer is the way to go
+如果你想增加生长激素
+if you want to increase growth hormone.
+那么  无论何时你要提高温度
+Now, anytime you're going to increase temperature
+对你自己  任何其他人或动物而言  这是有风险的
+of yourself or anyone else or an animal, it is risky.
+我想对此非常清楚
+I want to be really clear about this.
+不是每个人都应该参与
+Not everyone should engage
+在我将要描述的行为中
+in the behaviors I'm about to describe.
+我应该说它有风险的原因
+And I should just say the reason it's risky
+不需要太多的温度升高
+is it doesn't take much of a temperature increase
+在大脑里   把神经元给煮熟了
+in the brain to cook the brain, to cook neurons.
+在那之后  神经元再也回不来了
+And after that point, neurons can't come back.
+人们可能会因体温过高而死亡
+And people can die from hyperthermia.
+就寒冷而言  我们的范围更大
+We have a much greater range in terms of cold.
+你还可能因体温过低而死亡
+You can also die of hypothermia.
+你可能会冻死
+You can freeze to death.
+但是你感冒的范围更大
+But you have a much greater range of getting cold
+比你的大脑热身
+than you do warming up the brain.
+但是  确实有大量数据指出了这一事实
+However, there are really strong data pointing to the fact
+那个桑拿  也就是故意的提高室内温度
+that sauna, AKA deliberate hyperthermia,
+不太高  但是  桑拿可以增加
+not too high, however, that sauna can increase
+释放生长激素和其他激素
+the release of growth hormone and other hormones.
+这部文献有何戏剧性
+And what's so dramatic about this literature
+是所报告的效果的大小
+is the size of the effects that are reported.
+所以首先
+So first of all,
+让我们谈谈这些温度升高
+let's talk about these temperature increases.
+是的  我将提及人们可以做的事情
+And yes, I will refer to things that people can do
+即使你没有桑拿
+even if you don't own a sauna
+因为我意识到不是每个人都有桑拿
+because I realized not everybody has a sauna
+在他们的后院或使用桑拿浴室
+in their backyard or has access to a sauna.
+因此  首先  请回顾我们的研究
+So first of all, recall our study
+关于在几度热身的运动
+about exercise where warming up a few degrees
+在运动导致更大更快的增长之前
+before the exercise led to bigger and quicker increases
+在运动过程中自身生长激素
+in growth hormone during the exercise about itself.
+所以已经指向了方向
+So that already point in the direction
+温度很重要
+that temperature was important.
+那么 温度  没有双关语
+Now, the degrees, no pun intended,
+我们在谈论增加体温
+that we're talking about increasing body temperature
+是通过进入某个地方的桑拿房
+is by entering saunas that are somewhere
+在华氏176度之间
+between 176 degrees Fahrenheit,
+那是摄氏80度
+so that's 80 degrees Celsius,
+一直上升到210华氏度  215华氏度
+and all the way up to like 210, 215 degrees Fahrenheit.
+我个人知道比这还要高的人
+I personally know people that go even higher than that
+但他们已经训练自己应对
+but they've trained themselves to deal
+很高的热量
+with very high heats.
+再次  高温是危险的
+And again, high heat is dangerous.
+你必须与你的医生联系
+You must clear this with your doctor.
+那么  高温下会发生什么？
+Now, what happens in high heat?
+高温下会发生几件事情
+A couple things happen in high heat.
+首先
+First of all,
+你心脏开始有越来越大的搏动量
+you start getting bigger stroke volume of the heart.
+有点像运动
+Kind of like an exercise.
+一旦你对耐力运动进行了良好的训练
+Once you get well-trained in endurance activity,
+你的中风量和血液量会越来越大
+your stroke volume and the amount of blood
+你的心脏每次抽动
+that your heart can pump each time gets larger.
+你扩张血管  对吧？
+You dilate the blood vessels, right?
+也有很多事情发生
+There are a lot of things that happen also.
+你出汗了
+You're sweating.
+你的身体正试图释放热量
+Your body's trying to unload heat.
+精氨酸会扩张血管  增加热量
+Dilation of blood vessels, arginine, increases in heat.
+我们开始看到并听到一个共同的主题
+We're starting to see and hear a common theme.
+但是看来  进入
+But it appears that getting into,
+我不是说要身体
+I'm not saying getting the body
+到华氏212度  我想非常清楚地说明
+up to 212 degrees Fahrenheit, I want to be very clear,
+我不是说要身体
+I'm not talking about getting the body
+达到最高摄氏100度
+up to 100 degrees Celsius.
+那太可怕了
+That would be terrible.
+你会死的
+You would die.
+但是进入非常热的环境
+But entering environments where it's very hot
+在短时间内
+for short periods of time,
+20分钟到30分钟之间的任何时间
+anywhere from 20 minutes to 30 minutes,
+温度是摄氏80度
+where the temperature is 80 degrees Celsius
+到摄氏100度或华氏175度
+to 100 degrees Celsius or 175 degrees Fahrenheit,
+大约或等于华氏210度
+more or less, to about 210 degrees Fahrenheit,
+或多或少  已显示出可以增加
+more or less, has been shown to increase
+16倍生长激素的释放
+growth hormone release 16 fold.
+是的  16倍
+That's right, 16 fold.
+就是1600％
+That's 1,600%.
+那么  对其他激素也有影响
+Now, there are also effects on other hormones,
+催乳素  皮质醇等
+prolactin, cortisol, et cetera.
+因此  本研究中描述的模式
+So the pattern that was described in this study
+现在有很多研究
+and there've been many studies now.
+重复桑拿浴的内分泌作用在17个人中完成
+Endocrine effects of repeated sauna were done in 17 humans.
+这是反复进行的
+This was from doing this repeatedly.
+所以这不是他们第一次这样做
+So it wasn't the first time they did this.
+他们不得不连续三天这样做
+They had to do this three days in a row.
+模式是进入桑拿浴20分钟
+And the pattern was to get into the sauna for 20 minutes,
+然后进行30分钟的冷却
+followed by a 30-minute cooling period.
+记住  你不想
+Remember, you don't want to spend
+长时间处于高温状态
+long periods of time at high heat.
+那会影响你的大脑和其他组织
+You can cook your brain and other tissues.
+如果你决定这样做  请务必小心
+Be very careful as you approach this if you decide to.
+但是30分钟  对不起  20分钟的桑拿
+But 30 minutes, excuse me, 20 minutes sauna,
+然后冷却30分钟
+followed by 30 minutes of cooling,
+然后再进行20分钟的桑拿浴
+followed by 20 minutes sauna again,
+导致生长激素增加了五倍
+led to a five fold increase in growth hormone.
+然后日复一日地做那件事
+And then by doing that day after day after day,
+在第三天  你会看到这些巨大的增长
+on the third day, you would see these huge increases
+16倍  最大16倍
+of like 16 fold, up to 16 fold.
+现在  有很多这样的研究
+And there are now many studies like this.
+这是几年前描述的  但是从那以后
+This was described a few years ago, but since then,
+还有其他一些研究指出
+there've been a number of other studies that have pointed
+朝着故意的高温方向发展
+in the direction of deliberate hyperthermia,
+但不要太热以至于想去了
+but not too hot that you kill yourself
+为了增加生长激素
+in order to increase growth hormone.
+我知道我一直在强调那里的危险
+And I know I keep highlighting the dangers there,
+但是再说一次  当你要提高室温的时候
+but again, anytime you're going to mess with heat,
+你必须要谨慎  你必须要小心
+you have to be cautious, you have to be careful.
+因此  标准的桑拿浴室可能会有用
+So standard sauna can be useful.
+如果你无法使用桑拿浴室
+If you don't have access to a sauna,
+人们这样做的一种方式
+one way that people do this,
+我们必须仰望那些摔跤选手
+we have to look to our friends, the wrestlers, right?
+他们穿的是塑料  基本上是紧身衣裤
+They wear plastics, which are basically bodysuits
+相当便宜
+that are fairly inexpensive
+你可以在任何在线购买平台上购买的商品
+that you can buy on any online purchase platform,
+我应该说
+I should say.
+过去有些人
+Some people in the old days
+在他们拥有如此容易获得的塑料物品之前
+before they had these plastic things so readily available.
+我实际上知道  有用垃圾袋包裹自己的人
+I actually knew people that wrapped themselves
+然后流汗  穿连帽衫
+in garbage bags and then throw on sweats and a hoodie
+然后出去慢跑
+and then go out for a jog.
+同样  你必须非常小心
+Again, you have to be really careful,
+特别是在炎热的天气
+especially on a hot day.
+过热可导致死亡
+Overheating can equate to death.
+但这是升温的另一种方式
+But that's another way to heat up.
+你实际上不需要桑拿
+You don't actually need a sauna.
+我知道有人会这样做
+I've known people who will do this
+他们旅行时在酒店房间里
+in hotel rooms while they're traveling.
+他们会打开暖气  你要洗个热水澡
+They'll turn on the heat, you know, make a hot bath.
+他们实际上不会洗澡
+They won't actually get in the bath
+但是房间里会充满蒸汽和热量
+but they'll fill the room with steam and heat
+他们会穿上连帽衫和运动衫
+and they'll put on a hoodie and some sweatshirt,
+运动裤  他们会坐在那里
+sweat pants, and they'll sit there
+穿上羊毛袜  会变暖20分钟
+with wool socks on and they'll get warm for 20 minutes,
+然后他们会洗个凉澡
+then they'll take a cool shower,
+然后他们会再做一次
+and then they'll do it again.
+我猜是酒店付的水费
+I guess when the hotel is paying the water bill,
+但你不必担心太多
+you don't worry about it too much.
+当然  有些人拥有桑拿浴室
+Some people of course own saunas.
+有很多方法可以做到这一点
+There are a lot of ways to do that.
+我有一些参军的朋友
+I have friends who were in the military
+他们在国外时用汽车做桑拿
+who made saunas out of cars while they were overseas.
+各种各样的事情
+All sorts of things.
+你一定要小心
+You do have to be careful.
+我知道我已经说了很多遍了
+I know I've said it many, many times.
+我只是不想让任何人伤害自己
+I just don't want anyone to hurt themselves.
+但是这些生长激素的增加是巨大的
+But these increases in growth hormone are tremendous.
+他们可能源自
+And what they probably stem from
+下丘脑内神经元活动增加
+are increased activity of neurons within the hypothalamus
+刺激垂体释放生长激素
+that stimulate growth hormone release from the pituitary.
+那可能是
+And that's probably
+因为生长激素释放激素神经元
+because the growth hormone-releasing hormone neurons
+在下丘脑中坐得很近
+in the hypothalamus sit very closely
+甚至可能与某些神经元混合在一起
+and may even be intermixed with some of the neurons
+在下丘脑中调节热量和体温
+in the hypothalamus that regulate heat and body temperature.
+记住  新陈代谢是发热量
+Remember, metabolism is impart a heat.
+就像你消耗多少能量的熔炉
+It's like a furnace of how much energy you're consuming
+以及用于建筑或用于能源使用
+and using for building or for energy usage purposes.
+因此  桑拿非常有趣
+So sauna can be very, very interesting.
+再说一次  这是20分钟桑拿  然后30分钟的冷却
+And again, it's 20 minutes, 30-minute cooling,
+再次20分钟  请格外小心
+20 minutes again, proceed with extreme caution,
+但尽管如此  这些都是极端的影响
+but nonetheless, these are pretty extreme effects
+就他们的能力而言
+in terms of their abilities
+增加生长激素水平
+to increase growth hormone levels.
+根据温度和荷尔蒙
+Along the lines of temperature and hormones,
+我只想提一个最近的研究
+I just want to mention a very recent study,
+它刚出来
+it just came out.
+2021年3月  4月
+March, April, 2021,
+“成年男子的反复热应激的内分泌效应
+"Endocrine Effects of Repeated Hot Thermal Stress
+和冷水浸泡”
+and Cold Water Immersion in Young Adult Men."
+不幸的是  这只是在男人中
+Unfortunately, it was just in men,
+他们没有研究女人
+they didn't look at women,
+但尽管如此  我认为这些数据是相关的
+but nonetheless I think the data are relevant
+以每个人为总主题
+to everybody as a general theme.
+这是Podstawski等
+This is Podstawski et al.
+我将在标题中链接到该研究
+I will put a link to the study in the caption
+他们研究了睾丸激素
+and they looked at testosterone,
+催乳素  皮质醇等
+prolactin, cortisol, et cetera.
+他们发现桑拿是
+And what they found was that the sauna
+确实确实导致皮质醇显着降低
+does indeed lead to a significant decrease in cortisol,
+压力荷尔蒙  想要释放的荷尔蒙
+a stress hormone, a hormone that you want to be released
+早上起床的时候
+early in the day when you wake up.
+但是桑拿浴肯定会导致皮质醇显着下降
+But sauna definitely led to significant decrease in cortisol
+但没有改变睾丸激素  脱氢表雄酮或催乳素水平
+but did not change testosterone, DHEA or prolactin levels.
+这很有趣
+So that's interesting.
+事实证明  感冒确实影响了
+And it turns out that the cold did affect
+这些激素中的一些  但是那里的结果
+some of these hormones but the results there
+更加混杂
+were a little bit more mixed.
+所以这里的要点是热量
+So the takeaway here is that heat
+似乎对生长激素有积极作用
+seems to have positive effects on growth hormone,
+很大的影响
+big effects.
+似乎有积极作用
+It seems to have positive effects
+降低皮质醇水平
+on reducing cortisol levels.
+而且似乎没有效果
+And it does not seem to have effects
+直接作用于睾丸激素  脱氢表雄酮或催乳素
+on things like testosterone, DHEA, or prolactin directly.
+你可以想象任何激素的变化
+You can imagine that a shift in any hormone
+会改变其他激素的水平
+is going to alter the levels of other hormones down the lines
+或有间接影响
+or have indirect effects
+但就直接影响而言
+but in terms of direct effects just during
+或在桑拿浴后立即没有效果
+or immediately after the sauna bath, there were no effects.
+因此  我们谈到了饮食  补品
+So we've talked about diet, supplementation,
+行为工具
+behavioral tools.
+当然  我们谈到了
+And of course, we talked
+关于潜在的生物学和逻辑
+about the underlying biology and logic.
+希望你听到了安全注意事项
+And hopefully you heard the safety precautions
+对于所有这些
+for all of those.
+那么  我想简单地谈一谈
+Now, I'd like to just briefly talk
+关于所有这方面的处方
+about the prescription side of all this.
+众所周知  有很多人服用生长激素
+There are, as we know, many people taking growth hormone
+因为它是由医生开给他们的
+because it's been prescribed to them by a doctor.
+大概有人服用生长激素
+And presumably there are people taking growth hormone
+即使没有医生处方
+even though it has not been prescribed by a doctor,
+这不关我的事
+which is none of my business.
+但关键是大多数
+But the point here is that most all
+我们制造的激素中的一部分已经合成
+of the hormones that we make have been synthesized.
+所以有他们的版本
+So there are versions of them
+装在小瓶或安瓿瓶中  人们可以注射
+in little bottles or little ampules that people can inject.
+这里有几件重要的事情要考虑
+Here are a couple of important things to consider
+如果你要走那条路
+if you're going to go that route.
+首先  请教医生  好吧
+First of all, talk to a physician, all right?
+他们实际上只是通过医师才是合法可用的
+They actually are only legally available through a physician.
+其次  无论何时你要注入一些东西
+Second of all, anytime you're injecting something,
+你将要关闭自己的激素生产
+you're going to shut down your own production.
+那就是荷尔蒙系统起作用的方式
+That's the way that the hormone system works.
+如果你服用甲状腺激素  你自己就不会制造甲状腺激素
+If you take thyroid hormone, you won't make thyroid hormone,
+至少从长远来看
+at least in the long run.
+如果你服用睾丸激素
+If you take testosterone,
+你将关闭自己的睾丸激素生产
+you will shut down your own production of testosterone.
+如果服用雌激素  系统的弹性会增强一点
+If you take estrogen, the system's a little more resilient
+但最终你会关闭
+but eventually you will shut down
+你自己生产的雌激素
+your production of estrogen.
+生长激素也是如此
+And the same is true for growth hormone.
+所以决定走那条走东西的路
+So a decision to go that route of taking something
+并非总是永远做下去的决定
+is often not always a decision to do it forever.
+但是  如果你愿意维持一段时期
+However, if you're willing to sustain a period
+没有某种激素
+of being without a given hormone,
+有些人可以做一些事情  然后停止接受它们
+some people can do things and then stop taking them,
+然后等待一段时间
+and then wait out the period
+他们没有制造睾丸激素
+in which they're not making testosterone,
+雌激素或生长激素
+estrogen or growth hormone,
+然后它会回来
+and then it will come back,
+有时  有时不会
+sometimes and sometimes it won't.
+现在正在开发一种新的领域
+There's a kind of new area that's developing now
+我认为应该引起我们的注意
+that I think deserves our attention,
+不是因为我在鼓励它  而是因为它正在发生
+not because I'm encouraging it, but because it is happening.
+并与科学保持一致
+And in keeping with the science and in keeping
+尝试使事物保持现代化  这值得我们讨论
+with trying to keep things modern, it's worth us discussing.
+那是肽
+And those are peptides.
+现在你应该已经听到了很多有关肽的信息
+So these days you hear a lot about peptides.
+我想澄清一下什么是肽
+I'd like to clarify a little bit about what peptides are.
+肽是一类非常庞大的生物化合物
+Peptides is a really huge category of biological compounds.
+肽只是一串氨基酸  对不对？
+Peptides are just strings of amino acids, right?
+因此  我们谈到了L-酪氨酸  精氨酸  鸟氨酸
+So we've talked about L-tyrosine, arginine, ornithine.
+这些是氨基酸
+Those are amino acids.
+这些是单个氨基酸
+Those are individual amino acids.
+然后将它们组合成小的小肽
+And those are put together into little small peptides
+或者它们就是所谓的多肽
+or they're what are called polypeptides,
+只是更长的肽
+which are just longer peptides.
+事实证明  对于任何物质  例如生长激素
+It turns out that for any substance like growth hormone
+或生长激素释放激素
+or growth hormone-releasing hormone,
+它是由不同的氨基酸组成的
+it's made up of different amino acids
+以不同的顺序
+in different sequences,
+就像你的基因由As和Gs组成一样
+just like your genes are made up of As and Gs
+和Cs和Ts  核苷酸的序列不同
+and Cs and Ts, nucleotides in different sequences.
+这就像一个食谱
+It's like a recipe.
+肽往往是氨基酸的短序列
+Peptides tend to be short sequences of amino acids
+足够类似于激素或类似于激素
+that resemble a hormone enough or resemble
+一些其他的肽  足以导致
+some other peptide enough that it can lead
+当你注入它们时具有相似的相同效果
+to the similar same effects when you inject them.
+例如  我们制作生长激素释放激素
+So for example, we make growth hormone-releasing hormone
+从我们的大脑中刺激生长激素
+from our brain which stimulates growth hormone
+从垂体
+from the pituitary.
+你可能现在已经讨厌我这么说了
+You're probably getting tired of me saying that by now.
+但是现在人们会服用诸如sermorelin之类的东西
+But people now will take things like sermorelin,
+瑟莫林
+S-E-R-M-O-R-E-L-I-N, sermorelin,
+这不是完整的
+which is not the entire peptide sequence
+生长激素释放激素肽序列
+of growth hormone-releasing hormone
+但这只是其中的一部分
+but it's a subset of those.
+当人们注射它时
+And when people inject it
+他们晚上睡觉之前
+before they go to sleep at night
+通常是空着肚子做的事情
+is typically how it's done on an empty stomach.
+然后刺激垂体生长激素的释放
+Then that stimulates the release of growth hormone from the pituitary.
+所以这不是服用生长激素
+So this is not taking growth hormone,
+这是在服用刺激性激素
+this is taking the stimulating hormone
+或通常被称为秘密模仿者或模仿者的东西  好吧
+or what's often called a secretagogue or a mimic, all right?
+它引起人想要的激素的分泌
+It causes a secretion of the hormone that one wants.
+人们也会对甲状腺激素这样做
+People will do this for thyroid hormone, too.
+有人在做这个
+Some people are doing this
+有真正医疗需要的处方
+by prescription with a real medical need.
+其他人只是出于长寿的原因而这样做
+Other people are doing it for just longevity reasons,
+这种完全是灰色地带
+which kind of falls into that gray zone
+没有注射 他们也不会死的
+of they wouldn't die without it,
+但他们想改善自己的生活  所以他们正在这样做
+but they want to enhance their life and so they're doing that
+因为他们相信
+because they believe
+对他们来说这是正确的选择  处方
+it's the right thing for them, prescription.
+舍莫林是处方药
+Sermorelin is prescription.
+它们有作用吗？
+Do they work?
+有
+Yes.
+它们会关闭你的自然生产
+Do they shut down your natural production
+生长激素释放激素吗？
+of growth hormone-releasing hormone?
+好吧  答案是肯定的
+Well, there, the answer is yes
+但其中某些肽实际上具有作用
+but some of these peptides actually have the effect
+基因表达的改变
+of changing gene expression.
+记住  回到起点
+Remember, way back to the beginning
+当我谈论荷尔蒙时
+when I was talking about hormones,
+他们实际上可以改变基因表达
+they can actually change gene expression
+他们实际上可以设定荷尔蒙通路
+and they can actually set pathways in motion
+是否能够持续产生激素
+for continued production of a hormone
+即使你停止服用该化合物
+even if you stop taking the compound.
+那么  这可能是好事  也可能是坏事
+Now, that can be good or that can be bad
+因为你记得  生长激素
+because as you recall, growth hormone,
+短暂的生长激素大量增加
+big increases in growth hormone that are short-lived
+例如桑拿  或者  我应该说运动
+like sauna, or, you know, I should say exercise
+或精氨酸或桑拿  似乎具有这些巨大的作用
+or arginine or sauna, it seems like has these huge effects.
+睡眠早期  第一阶段的睡眠
+Or early nights, you know, first phase of sleep
+在深夜  这类事情
+early in the night, these sorts of things.
+这些是暂时的
+Those are transient.
+但是当一个人不断地不断注射时
+But when one is injecting over and over at constant level,
+你可以将基因表达程序付诸实践
+you can put into action gene expression programs
+那可以长寿
+that can be long lived.
+假设你体内有一种特定的肿瘤
+And let's say, you have a particular tumor in the body.
+肿瘤会在看到生长激素时生长
+Tumors will grow when they see growth hormone
+即使那个肿瘤对你不健康  对吗？
+even if that tumor is unhealthy for you, right?
+你的全身组织都在生长
+You've got growth of tissues all over the body.
+再说一遍  我不是在说
+So again, I'm not saying whether or not
+人们应该去做或者不去做
+people should do these things or not doing them.
+我知道的一件事是  它们的使用
+One thing I do know is that they are in very prominent use
+在电影界非常重要
+in the movie industry.
+想快速去除体内脂肪的人
+People who want to peel off body fat quickly,
+它们确实增加了恢复时间
+they do increase recovery time.
+它提高恢复率
+They increase healing rates.
+人们也在注射诸如胃肽之类的东西
+People are also injecting things like gastric peptides.
+它们实际上是胃肽
+They're actually stomach peptides
+我们在上一集中谈到的
+that we talked about in the previous episode,
+ghrelin通路相关的事物
+things related to the ghrelin pathway
+和其他可以改善的肝脏疾病
+and other things from the liver that can improve
+组织和伤口愈合的速度
+the rate of tissue and wound healing.
+你可以打赌  在即将到来的奥运会中
+You can bet that in the upcoming Olympics,
+很多人正在使用肽和化合物
+lot of people are using peptides and compounds
+而且我并不是要特别指责任何人
+and I'm not pointing fingers at anyone in particular.
+只是这与荷尔蒙增加是分开的
+It's just this is separate from hormone augmentation
+就像注射GH或注射睾丸激素一样
+of like injecting GH or injecting testosterone.
+人们现在正在进一步努力
+People are now working further up the pathways.
+一些肽的其他名称是东西
+Other names of some of the peptides are things
+像伊帕莫林  替沙莫林
+like ipamorelin, tesamorelin.
+其中一些具有临床用途
+Some of these have clinical uses.
+其他化合物刚制成
+Others have just been made as compounds
+对于长寿领域的人们
+for people in the kind of longevity field
+或“自我扩充”的需要
+or the self-augmentation field, if you will.
+再说一遍  不提倡其使用
+So again, not promoting their use
+但它们肯定在那里
+but they're definitely out there.
+所以现在如果你听到有关它们的信息
+And so now if you hear about them
+或者如果有人在跟你谈论他们
+or if someone's talking to you about them,
+现在希望你有更好的理解
+now hopefully you have a better understanding
+关于他们的潜在生物学
+about their underlying biology.
+你可以理性地思考
+And you can think rationally
+关于它们是否适合你的决定
+about whether or not they are the right decision for you.
+好了  再次涵盖了大量的材料
+Okay, once again, covered an enormous amount of material.
+希望你现在了解甲状腺激素
+Hopefully, now you understand thyroid hormone
+以及它的作用以及它的机制
+and what it does and a little bit about its mechanism
+也许很多生长激素及其作用
+or maybe a lot and growth hormone and what it does
+以及它们俩如何照顾我们的新陈代谢
+and how both of them take care of our metabolism.
+它们决定了我们可以吃和利用多少营养素
+They dictate how many nutrients we can eat and make use of.
+他们可以从人体脂肪储存中抽出
+They can pull from body fat stores,
+修复肌肉  修复软骨
+repair muscle, repair cartilage.
+它们确实是不可思议的化合物
+They really are incredible compounds.
+而且它们是可行的
+And they're actionable.
+他们是我们可以做的事情
+They're things that we can do,
+就像早点入睡一样
+like getting that early phase of sleep,
+也许补充精氨酸  也许不补充
+perhaps supplementing with arginine, maybe not,
+希望有足够的运动
+hopefully getting adequate exercise,
+适当地热身  不要使运动时间太长
+warming up properly, not making the exercise too long
+或太紧张会有所帮助  也许是桑拿或类似的东西
+or too intense will help, maybe sauna or things like it.
+有意的  安全的热疗
+You know, deliberate, safe hyperthermia,
+强调安全  可能是有用的东西
+with the emphasis on safe, might be things that are of use.
+无论如何  即使你不感兴趣
+Regardless, even if you're not interested
+在甲状腺或生长激素通路中
+in the thyroid or the growth hormone pathways,
+这结束了我们一个月的激素治疗
+this brings to a close our month on hormones.
+所以现在希望你能理解
+And so now hopefully you understand
+不只是甲状腺和生长激素
+not just thyroid and growth hormone
+但是甲状腺激素的逻辑基础
+but the logic that underlies thyroid hormone,
+生长激素  雌激素  睾丸激素  为什么吃
+growth hormone, estrogen, testosterone, why we eat,
+为什么我们停止进食胆囊收缩素  生长素释放肽
+why we stop eating, cholecystokinin, ghrelin.
+如果这些名称对你没有任何意义
+If these names don't mean anything to you,
+然后也许回去听那些播客
+then perhaps go back and listen to those episodes.
+但是不管怎样  我希望你能离开
+But regardless, I hope that you come away
+由此对这些激素有更深入的了解
+from this with a deeper understanding about these hormones
+在控制方面如此强大
+which are so powerful in controlling
+我们大脑运作的方式
+the way our brain functions
+以及大脑和荷尔蒙之间的相互作用
+and the interplay between the brain and hormones
+因为它实际上是双向对话
+because it is really a bidirectional conversation.
+大脑告诉人体制造什么激素
+The brain is telling body what hormones to make.
+激素影响着人体的所有组织
+The hormones are influencing all the tissues of the body
+而且还告诉大脑
+but also telling the brain
+是否要多吃或多长
+whether or not to eat more or grow more
+或考虑更多  等等
+or think more, et cetera.
+因此  我非常感谢你的时间和关注
+So I really appreciate your time and attention.
+如果你喜欢这个播客  并且发现它很有用
+If you like this podcast and you're finding it useful,
+请推荐给其他人
+please recommend it to other people.
+如果你在YouTube上  请订阅
+If you are on YouTube, please subscribe.
+请给我们留言或反馈
+Please leave us a comment or feedback
+在评论部分
+in the comment section.
+我们确实阅读了所有评论  并使用了这些评论
+We do read all of the comments and we use those comments
+作为通知播客未来内容的方式
+as ways to inform future content of the podcast.
+如果你以音频形式收听
+If you listen to it in audio form,
+请在Apple和/或Spotify上订阅
+please subscribe on Apple and/or Spotify.
+这确实对我们有帮助
+That really helps us.
+在Apple上  你有机会
+On Apple, you have the opportunity
+给我们一个五星级的评论
+to leave us a five star review
+并留下我们反馈  书面反馈
+and to leave us feedback, written feedback as well.
+我还要在YouTube上提及
+I should also mention on YouTube,
+点击订阅按钮
+hit the subscribe button
+而且还点击了通知按钮
+but also hit the notifications button.
+我们每个星期一都会发行剧集
+We release episodes every Monday,
+但是有时候我们之间也确实很短
+but sometimes we also really short clips in between.
+这样  你一定不会错过任何一集
+That way, you're sure to never miss an episode.
+如果你想进一步支持我们
+If you want to support us further,
+请查看我们谈论的赞助商
+please check out the sponsors we talk about
+在播客集的开头
+at the beginning of the podcast episode,
+确实对我们有帮助
+that really helps us.
+我们也有一个Patreon帐户
+We also have a Patreon account.
+是patreon.com/andrewhuberman
+It's patreon.com/andrewhuberman.
+在那里  你可以支持播客
+There, you can support the podcast
+你喜欢的任何水平
+at any level that you like.
+我提到了这一集的补充
+And I mentioned supplements this episode.
+我经常提到补品
+I often mention supplements.
+当然没有必要
+They are certainly not necessary,
+但是对于那些对补品感兴趣的人
+but for those of you interested in supplements,
+我们已经与索恩（Thorne）合作
+we've partnered with Thorne, T-H-O-R-N-E
+因为索恩的严格程度最高
+because Thorne has the highest levels of stringency
+在成分的质量方面
+in terms of the quality of the ingredients
+以及每个胶囊中的成分数量
+and the amount of the ingredients in each capsule,
+片剂  粉剂等
+tablet, powder, et cetera.
+如果你想看看我服用的补品
+If you want to see the supplements that I take,
+并获得其中任何折扣
+as well as get a discount on any of those
+或索恩（Thorne）制作的任何补品
+or any of the supplements that Thorne makes,
+是索恩（Thorne）thorne.com/u/huberman
+it's Thorne, T-H-O-R-N-E, dot com slash the letter U, slash Huberman.
+你可以从他们制作的任何补品中获得20％的折扣
+And you can get 20% off any of the supplements they make.
+我应该提到索恩（Thorne）与梅奥诊所（Mayo Clinic）合作
+I should mention Thorne works with the Mayo Clinic.
+他们与他们结为伙伴
+They partnered with them.
+他们与所有主要的运动队一起工作
+They worked with all the major sports teams.
+因此确实是最高级别的严格性
+So really the highest levels of stringency.
+我们很高兴与他们合作
+We're quite happy to be working with them.
+最后  感谢你
+And last but not least, I thank you
+付出了你的时间和精力  最重要的是
+for your time and attention and above all,
+谢谢你对科学的兴趣
+for your interest in science.
+[吉他音乐]
+[guitar music]

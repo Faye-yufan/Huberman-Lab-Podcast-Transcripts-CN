@@ -1,0 +1,3863 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+-欢迎来到Huberman Lab播客
+- Welcome to the Huberman Lab Podcast
+我们在这里讨论科学和日常生活中基于科学的工具
+where we discuss science and science-based tools for everyday life.
+-我是Andrew Huberman  我是神经生物学教授
+- I'm Andrew Huberman, and I'm a professor of neurobiology
+斯坦福医学院的眼科和眼科
+and ophthalmology at Stanford School of Medicine.
+此播客是单独的
+This podcast is separate
+从我在斯坦福大学的教学和研究职位中得出
+from my teaching and research roles at Stanford.
+但是  这是我渴望和努力的一部分
+It is however, part of my desire and effort
+为你带来零成本的消费者信息
+to bring you zero cost to consumer information
+关于科学和科学相关工具
+about science and science related tools
+对公众
+to the general public.
+按照这个主题
+And keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是InsideTracker
+Our first sponsor is InsideTracker.
+InsideTracker是一个个性化的营养平台
+InsideTracker is a personalized nutrition platform
+分析你的血液和DNA的数据
+that analyzes data from your blood and DNA
+帮助你更好地了解自己的身体
+to help you better understand your body
+并帮助你实现健康目标
+and help you reach your health goals.
+我一直坚信定期进行血液检查
+I've long been a believer in getting regular blood tests
+以及简单的原因
+and the simple reason for that
+这么多的因素
+is that so many of the factors
+影响我们的即时和长期健康
+that impact our immediate and longterm health and wellbeing
+只能从血液中进行分析
+can only be analyzed from blood.
+现在随着现代DNA测试的出现
+And now with the advent of modern DNA tests,
+你可以获得更多信息
+you can get additional layers of information
+可以真正支持你的理解
+that can really support your understanding
+关于引擎盖下发生的事情  可以这么说
+about what's going on deep under the hood, so to speak
+在你的身体和大脑内部以及如何处理
+inside your body and brain and what to do about it.
+我认为那是InsideTracker的真正所在
+And I think that's really where InsideTracker
+使其与其他类似测试脱颖而出
+sets itself apart from other similar tests.
+首先  InsideTracker提供的是
+What InsideTracker offers is, first of all,
+他们使测试非常容易
+they make the tests very easy.
+他们可以来你家进行血液和DNA检测
+They can come to your home to take your blood and DNA test
+或者你可以去附近的测试中心
+or you can go to a testing center nearby you.
+然后你得到信息
+Then you get the information back
+而不仅仅是获取信息
+and rather than just getting information
+关于各种事物的水平
+about whether or not the levels of various things
+高或低
+are high or low,
+你还可以找到解决方法
+you also get to find out what to do about it.
+因此  它提供了与营养有关的指令
+So it offers directives related to nutrition,
+锻炼等等
+to exercise and so forth.
+真的可以让你掌控一切
+It's really allow you to be in control
+你现在和现在的整体健康状况
+of your overall health, both where you are now
+及其长期轨迹
+and its long-term trajectory.
+借助InsideTracker  他们还可以
+With InsideTracker, they also have something which is
+它可以让你读出内心的年龄
+it can give you a readout of your inner age.
+他们有一个叫做内在年龄测试的东西
+They have something called the inner age test
+确实可以比较你的生物学年龄
+that really compares your biological age
+到你的年代
+to your chronological age,
+非常重要和有趣的事情
+something that's of extreme importance and interest
+因为它与寿命或预期寿命有关
+because it has to do with lifespan or predicted lifespan.
+如果你想尝试InsideTracker
+If you'd like to try InsideTracker
+你可以访问insidetracker.com/huberman
+you can visit insidetracker.com/huberman
+如果这样做  你将获得25％的折扣
+and if you do that, you'll get 25% off
+任何InsideTracker计划
+any of InsideTracker plans.
+结帐时使用代码Huberman
+Use the code Huberman at checkout.
+那是insidetracker.com/huberman可获得25％的折扣
+That's insidetracker.com/huberman to get 25% off
+InsideTracker的任何计划 any of InsideTracker's plans
+并在结帐时使用代码Huberman
+and use the code Huberman at checkout.
+Helix Sleep也为我们带来了今天的一集
+Today's episode is also brought to us by Helix Sleep.
+Helix Sleep是一家生产床垫和枕头的公司
+Helix Sleep is a company that makes mattresses and pillows
+最适合你的睡眠需求
+ideally suited to your sleep needs.
+我一直在Helix床垫上睡觉
+I've been sleeping on a Helix mattress
+在过去的六个月中  我可以诚实地说
+for the last six months, and I can honestly say
+这是我有史以来最好的睡眠
+it's the best sleep that I've ever gotten.
+Helix Sleep的测验可以满足你的需求
+Helix Sleep has a quiz that can match you
+为你提供理想的床垫和枕头
+to the ideal mattress and pillows for you.
+测验大约需要两分钟
+It's a quiz that takes just about two minutes,
+问你一些问题  例如你倾向于一边睡一边
+asks you questions like do you tend to sleep on your side
+还是背在肚子上？
+or your back on your stomach?
+也许你不知道
+Or maybe you don't know,
+你是否倾向于醒来
+whether or not you tend to wake up
+感觉太暖还是太冷？
+feeling too warm or too cold?
+有关你的睡眠习惯的各种问题
+Various questions about your sleep habits.
+在测验结束时
+At the end of that quiz,
+它可以将你匹配到特定的床垫
+it matches you to a specific mattress
+非常适合你的睡眠需求
+that's perfect for your sleep needs.
+对我来说  它使我适应了黄昏  黄昏
+For me, it matched me to the dusk, D-U-S-K
+因为我想要一个床垫
+because I wanted a mattress
+那不是太坚定也不是太软弱
+that wasn't too firm nor too soft
+我真的很喜欢床垫
+and I really love the mattress.
+正如我所提到的  我一直都在睡不好觉
+As I mentioned, I've been sleeping terrifically well
+自从我得到那张床垫以来
+ever since I got that mattress.
+如果你有兴趣升级床垫
+If you're interested in upgrading your mattress
+你可以访问helixsleep.com/huberman
+you can go to helixsleep.com/huberman,
+参加两分钟的睡眠测验
+take their two minutes sleep quiz
+他们会为你搭配定制的床垫
+and they'll match you to a customized mattress
+然后你将获得所有床垫最高达$ 200的折扣
+and then you'll get up to
+$200 off all mattresses
+你将获得两个免费的枕头
+and you'll get two free pillows.
+他们有10年的保修期
+They have a 10 year warranty.
+你可以在无风险的情况下尝试一百个晚上
+You get to try it out for a hundred nights, risk-free,
+如果你不喜欢  他们甚至会免费收取
+if you don't like it, they'll even pick it up for free,
+把它拿走  但我真的认为你会的
+take it away but I really think you will,
+我当然爱我的
+I certainly love mine.
+再说一次  如果你有兴趣
+Again, if you're interested,
+你可以访问helixsleep.com/huberman享受最高$ 200的折扣
+you can go to helixsleep.com/huberman for up to $200 off
+和两个免费枕头
+and two free pillows.
+Theragun也为我们带来了今天的一集
+Today's episode is also brought to us by Theragun.
+Theragun是一种手持式冲击治疗仪
+Theragun is a handheld percussive therapy device
+释放深层肌肉张力
+that releases deep muscle tension.
+我最初是在实验室考察中了解Theragun的
+I first learned about Theragun on a lab expedition.
+我们实际上正前往海洋
+We're actually headed out to ocean
+我们曾经和大白鲨一起潜水的地方
+where we were doing diving with great white sharks,
+在实验室为我们的VR恐惧实验拍摄那些
+filming those for our VR fear experiments in the laboratory
+运送鹈鹕案的时间很长
+and it was very long days of carrying Pelican cases,
+这些是带有设备的硬质塑料箱
+those are cases these hard plastic cases with equipment,
+当时是潜水  我们一直都感到酸痛和疲倦
+it was diving, we were all sore and tired all the time.
+有人带来了Theragun
+And someone had brought along a Theragun.
+这是我第一次见到一个
+It was the first time I had seen one
+很快那件事就过去了
+and pretty soon that thing was getting passed along
+并成为机上最令人垂涎​​的设备之一
+and became one of the more coveted devices on board.
+每个人都想花点时间做这件事  因为那太好了
+Everyone wanted time with this thing because it was great,
+你可以给自己一个很棒的按摩
+you could give yourself a really terrific massage
+并深入组织并缓解酸痛
+and get deep into the tissue and relieve soreness.
+当我回来的时候  我得到了一个Theragun
+When I got back, I got a Theragun
+所以我很高兴他们赞助播客
+and so I'm delighted that they're sponsoring the podcast.
+是否要治疗肌肉
+Whether or not you want to treat your muscles
+因为他们在锻炼时很紧张
+because they're tense from working out
+或者你是否只想释放压力
+or whether or not you just want to release stress,
+这是一个了不起的工具
+it's a terrific tool.
+你们中的许多人可能熟悉专业按摩
+Many of you are familiar probably with professional massages
+但是Theragun很有趣  因为你可以
+but Theragun is interesting because you can
+基本上给自己做一次深层组织按摩
+basically give yourself a deep tissue massage,
+随时随地也很安静
+anytime, anywhere, it's also very quiet.
+如果你想尝试Theragun  可以尝试30天
+If you want to try Theragun, you can try it for 30 days.
+它们的起价仅为199美元
+They start at only $199.
+你现在可以访问theragun.com/huberman
+You can go to theragun.com/huberman right now
+你今天就可以得到第四代Theragun
+and you can get your gen fourth Theragun today,
+那就是我使用的那个模型或他们的另一个模型
+that's the one that I use or another one of their models.
+那是Theragun.com/huberman来尝试Theragun
+That's Theragun.com/huberman to try Theragun.
+这一集标志着一个新话题的开始
+This episode marks the beginning of a new topic
+在Huberman Lab播客
+for the Huberman Lab Podcast.
+你们中许多人已经知道
+As many of you already know,
+我们每次用4集深入探讨一个特定的主题
+we go deep into a particular topic over four,
+有时甚至是五集
+sometimes even five episodes.
+我们刚刚结束了有关激素的主题
+We just closed out the episodes on hormones.
+现在我们要谈谈
+Now we are going to talk
+关于如何优化体能
+about how to optimize physical performance
+和技能学习
+and skill learning.
+我们将深入研究背后的科学
+We're going to look deep at the science behind this
+以及具体做法
+as well as specific practices.
+实际上  今天你将听到有关特定工具的信息
+In fact, today, you're going to hear about specific tools
+你可以用来最多提高耐力和力量
+that you can use to improve endurance and strength by up to,
+我没有吹牛皮
+I'm not making this up,
+你当前能力的三到四倍
+three or four times your current capacity.
+这是基于斯坦福大学所做的研究
+This is based on studies that were done at Stanford
+并正在使用中
+and are currently in use
+由大学和专业团队提供
+by collegiate and professional teams.
+如果你不是职业运动员或认真的运动员
+If you're not a professional athlete or a serious athlete,
+没关系
+that's okay.
+本月主题
+The topics, this month
+以及我们将要涵盖的所有信息
+and all the information we are going to cover
+会让你
+are going to make you
+一个更好的娱乐锻炼者
+a better recreational exerciser as well.
+如果你不是运动者
+If you're not an exerciser
+而你正在考虑进入
+and you're thinking about getting into that
+或者如果你居住在北半球
+or if you live in the Northern hemisphere
+而你只是在想这个夏天的海滩
+and you're just thinking about the beach this summer
+减脂增肌 诸如此类的事情
+or fat loss, muscle building, that sort of thing,
+本月  我们还将涵盖所有这些内容
+this month we're going to cover all of that as well.
+那里有很多混乱
+There's so much confusion out there
+关于如何优化减脂  增强肌肉
+about how to optimize fat loss, muscle building,
+例如  提高了灵活性
+improvements in flexibility, for instance,
+或技能学习
+or skill learning.
+我认识你们中的许多人  不是很专心
+I know many of you, aren't so focused
+关于体育锻炼的美容方面
+on the cosmetic aspects of physical exercise
+但对实际技能学习感兴趣
+but are interested in actual skill learning,
+我们也将讨论这一点
+we're going to talk about that too.
+我只想花一点时间
+I want to just take a moment
+反思上一集出现的事情
+to reflect on something that came up last episode.
+如果你没有看到该播客  没关系的
+If you didn't see that episode, that's quite all right.
+但是上一集  我们在谈论
+But last episode, we were talking
+关于激素  肾上腺素和皮质醇
+about the hormones, adrenaline, and cortisol
+以及如何利用这些注意力和学习
+and how to leverage those towards attention and learning
+有些小误解
+and there was a little bit of confusion
+我想澄清一下
+that I want to clarify.
+我提到了学习的最佳工具方法
+I mentioned an optimal protocol for learning
+涉及利用肾上腺素也称为肾上腺素
+that involves leveraging adrenaline also called epinephrin
+它涉及四个步骤
+and it involved four steps.
+我阐明的四个步骤
+The four steps that I spelled out
+要保持冷静和专注
+were to be calm and focused
+当人们试图获得或学习新技能时
+while one is trying to acquire or learn the new skill,
+认知技能或运动技能
+cognitive skill or motor skill,
+然后肾上腺素上升
+then to have a spike in adrenaline.
+我提到了做到这一点的方法
+I mentioned ways to do that,
+使用冷感或呼吸或其他工具
+using cold or breathing or other tools,
+学习后立即
+immediately after the learning episode
+然后结合我所谓的非睡眠深度休息
+then to incorporate what I call non sleep deep rest,
+20分钟的小睡或其他一些工具方法
+a 20 minute episode of a shallow nap or some other protocol
+像NSDR  非睡眠深度休息工具方法
+like NSDR, non sleep deep rest protocol
+其中我们总是在标题中提供链接
+of which we always provide links in the captions.
+然后在当晚晚些时候尝试优化睡眠
+And then to try and optimize sleep later that night
+以及随后的夜晚好好睡觉
+and the subsequent night.
+你们当中有些人听到后  马上就理解了
+Some of you heard this and it sunk in right away
+这是很直接的
+and it was straight forward.
+其他人说  等等  我想上一集
+Others said, wait, I thought from a previous episode
+甚至在那之前  你说你应该
+even before that, you said you're supposed
+学习后立即做非睡眠深度休息  没有
+to do non sleep deep rest immediately after learning, no.
+我们又增加了一步  逻辑依旧
+We added another step, the logic still follows
+你想要在学习过程中保持冷静和专注
+that you want to be calm and focused during learning,
+那么你需要在最后增加肾上腺素
+then you want to spike adrenaline at the end.
+大多数人都把这搞反了
+Most people get that backward,
+他们喝太多咖啡
+they're drinking too much coffee
+甚至服用益智药和其他东西
+or even taking nootropics and things,
+尝试在学习时真正专注
+trying to be really focused while learning.
+有些人正在服用Adderall
+Some people are taking Adderall recreationally
+我不推荐的东西
+something I don't recommend,
+这实际上使整个过程倒退
+that's actually getting the whole process backwards
+如果你查看生理数据
+if you look at the data in the physiology.
+你要在最后加刺肾上腺素
+You want to spike adrenaline at the end
+或在学习播客后立即
+or immediately after a learning episode
+然后不睡觉深度休息  然后自己睡觉  好吗？
+and then non sleep deep rest and then sleep itself, okay?
+四个步骤  希望能为你澄清一切
+Four steps, hope that clarifies things for you,
+如果你还有其他问题
+if you have any additional questions
+请把它们放在下面的评论部分
+please put them in the comment section below.
+好的  让我们谈谈体能
+Okay, so let's talk about physical performance.
+体能有很多变数
+There are so many variables to physical performance
+我们可以管理体能和技能学习
+and we can manage physical performance and skill learning
+在各种环境条件下
+from a variety of contexts.
+我只是列出了一些事情的简短清单
+I made just a short list of some of the things
+想到可以产生巨大影响的
+that come to mind that can powerfully impact
+体能和技能学习
+physical performance and skill learning.
+其中一些是我认为基础的
+Some of them are what I would consider foundational.
+他们可以让你展现你当前的能力
+They allow you to show up your current ability
+如果你要破坏这些
+and if you were to disrupt those,
+你会表现不佳
+you would perform less well.
+所以像睡个好觉
+So things like getting a good night's sleep,
+像被适当地补水之类的东西
+things like being properly hydrated,
+诸如营养良好之类的事情
+things like being well nourished,
+不管对你意味着什么
+whatever that means to you.
+我知道你们有些人喜欢禁食运动
+I know some of you like to exercise fasted,
+你们中有些人喜欢在肚子里吃东西
+some of you prefer to have food in your stomach
+或几个小时前吃过饭
+or have eaten a couple hours before.
+有补品  有药物
+There are supplements, there are drugs,
+有不同的呼吸方式
+there are different ways to breathe,
+与思维定势  可视化
+there are so many tools related to mindset, visualization,
+有机器和设备  只是一个广阔的空间
+there are machines and devices, it's just a vast space,
+但这不是无限的
+but it's not infinite.
+事物清单中有几件事
+And there are a few things in the list of things
+会影响甚至优化体能
+that can impact and even optimize physical performance
+和技能学习产生了巨大的影响
+and skill learning that have an outsized effect
+任何人都可以使用
+that any of you can use.
+它们很多  大多数成本低至零
+Many of them, most of them are low to zero costs.
+所以今天我们将专注于我认为是
+So today we are going to focus on what I believe to be
+最强大的工具之一
+one of the most powerful tools
+改善体能
+to improve physical performance
+和技能学习与恢复
+and skill learning and recovery
+我们将讨论为什么这很重要
+and we'll talk about why that's important
+那就是温度
+and that's temperature.
+现在你们中的许多人可能会认为  哦  那太无聊了
+Now many of you might think, oh, well that's kind of boring,
+我想知道我可以服用的魔术药
+I want to know about the magic pill that I can take
+那将允许我灌篮
+that's going to allow me to dunk a basketball
+如果我目前无法做到  或者我想知道这件事
+if I currently can't or I want to know about the thing
+这会让我跑得更快更远
+that's going to let me run further and faster
+可以减少脂肪
+is going to shed fat.
+信不信由你  温度是最强大的变量
+Believe it or not, temperature is the most powerful variable
+以改善体能和恢复体力
+for improving physical performance and for recovery.
+我认为这比睡觉更重要
+I would argue it's even more important than sleep
+因为温度本身将决定温度如何
+because temperature itself is going to dictate how well
+以及你何时入睡和全面恢复的深度
+and when you sleep and the depth of your total recovery.
+温度当然有两个方面
+There are two aspects to temperature of course,
+有热有冷
+there's heat and there's cold.
+我们将主要集中在寒冷
+We are mainly going to focus on cold
+作为缓冲热量的一种方式
+as a way to buffer heat.
+在上一个播客节目中
+In a previous podcast episode,
+我谈到了所有的生长激素
+I talked all about growth hormone.
+你可以找到有关甲状腺激素和生长激素的播客
+You can find that episode about fibroid and growth hormone
+以及热量如何成为强有力的刺激
+and how heat can be a powerful stimulus
+用于增加生长激素
+for increasing growth hormone
+参与组织修复等
+which is involved in tissue repair and et cetera
+并以各种方式燃烧脂肪并改善新陈代谢
+and burn fat and improve metabolism in various ways.
+但是  我会认为冷感
+However, cold I would argue
+比热工具更强大
+is even more powerful than heat as a tool
+我不仅在谈论放冰袋
+and I'm not just talking about putting ice packs
+在肌肉酸痛或四肢和脚踝轻微扭伤
+on sore muscles or slightly sprained limbs and ankles
+诸如此类的事情
+and things of that sort.
+我们要谈论冷感
+We're going to talk about cold
+从热生理学的角度来看
+from the standpoint of thermal physiology.
+这是一本富含科学信息的文献
+This is a literature that's rich in scientific information
+可以追溯到上个世纪
+that goes back very deep into the last century
+生理学家和神经科学家发现的地方
+where physiologists and neuroscientists figured out
+你的身体里有不同的隔间
+that there are different compartments in your body
+以不同的方式加热和冷却你
+that heat and cool you differently
+并且利用不同的身体部位来双倍
+and that you can leverage those in order to double
+就像我之前提到的
+and as I mentioned before
+或者多倍的提高锻炼输出
+even triple or quadruple your work output
+力量  重复性和耐力
+both strength, repetitions, and endurance.
+所以这不是他们所说的效率低下
+So this is not weak sauces that they say,
+这是真的可以让你
+this is the stuff that can
+改变很多  改变运动表现的东西
+really shift the needle quite a bit
+不仅是这一次的成功
+and it's not just about well once,
+而是表现出色并且能够恢复好
+it's about being able to perform well and recover
+表现  让你做得更好
+from that performance so that you do even better
+当你不使用这些工具时
+when you're not incorporating these tools
+例如  在某些日子里  你无法获得冷感
+on days where for instance, you can't access cold
+或冰袋  冰浴或类似的东西  好吗？
+or an ice pack or an ice bath or things of that sort, okay?
+所以我们要讲到冷感  我们要谈一点
+So we're going to cover cold, we're going to talk a little bit
+关于冷热的生理以及它们如何工作
+about the physiology of cold and heat and how they work
+因为就像你以前听到我说的那样
+because as you've probably heard me say before
+如果你能了解一些机制
+if you can understand some mechanism,
+如果你能推动自己
+if you can just push yourself
+通过一点新知识
+through a little bit of new knowledge,
+了解一点机制
+into understanding a little bit of mechanism
+关于你的工作方式  你会处于一个更好的位置
+about how you work, you'll be in a far better position
+以最佳  最灵活的方式实施工具
+to implement the tools in the best and most flexible ways
+满足你的需求
+for your needs.
+这就是为什么在Huberman Lab播客中
+This is why at the Huberman Lab Podcast,
+我从不会只列一个清单
+I never ever do a just list of the things
+然后大家照着做  不是的
+that you should do.
+我不相信说  只要告诉你该怎么做  你就能准确地使用
+I don't believe in that, just tell me what to do.
+首先  我告诉你为什么要做某事
+First, I tell you why you should do something.
+它基于的逻辑框架是什么
+What's the logical framework that it's grounded in
+然后我们将其提炼为特定的工具方法
+and then we distill that down to specific protocols.
+对于那些对此不耐烦的人
+For those of you that are too impatient for that,
+有数百万甚至数十亿
+there are millions, if not billions
+其他资源  这些资源将带你
+of other resources out there that will take you
+进入一种将起作用的工具方法的死胡同
+into the cul-de-sac of one protocol that will work
+然后停止工作  或者可能无限期地为你工作
+and then stop working or might work for you indefinitely,
+那不是我们在这里工作的方式
+that's not how we work here.
+这是关于真正了解机制
+This is about really understanding the mechanism
+这样你就可以调整和修改内容
+so that you can tweak things and modify things,
+调整时间和剂量
+adjust the timing and the dosage of things
+并真正从这些工具和工具方法中获得最大收益
+and really get the most out of these tools and protocols.
+我要谈论的一切
+Everything I'm going to talk about
+都与耐力运动有关
+pertains to both endurance exercise
+力量和速度型运动
+and strength and speed type exercise.
+冲刺  举重  耐力工作
+So sprints, weightlifting, endurance work
+在某种程度上  灵活性
+and to some extent, flexibility
+但我们将深入探讨灵活性
+but we're going to cover flexibility in depth
+以及其他不常提及的功能
+as well as another feature that's not often talked about
+运动的柔韧性或顺畅性
+which is suppleness or smoothness of movement
+在随后的播客中的不同运动范围内
+over different ranges of movement in a subsequent episode.
+让我们从谈论温度开始
+Let's start by talking about temperature.
+什么是温度？
+What is temperature?
+温度如何影响身体
+How does temperature impact the body
+及其表现能力  包括学习新技能？
+and its ability to perform, including learn new skills?
+所以每个人可能都记得
+So everyone probably remembers,
+或至少听说过“稳态”这个词  对吗？
+or has at least heard of the word homeostasis, right?
+身体要保留
+That the body wants to remain
+在特定温度范围内
+in a particular range of temperatures,
+它不喜欢太热或太冷
+that it doesn't like to be too hot or too cold.
+我想从一开始就强调
+And I want to emphasize from the outset
+我们体内已经安装了许多机制
+that there are many mechanisms that are installed into us
+通过我们的进化设计和基因组
+by way of our evolutionary design and our genome
+意味着我们刚出生就准备好了这些东西
+meaning we were just born with this stuff ready
+使我们的体温保持在特定的狭窄范围内
+to keep our body temperature in a particular narrow range.
+过度加热只是很糟糕
+Heating up too much is just plain bad.
+这不仅对体能有害
+It's not just bad for physical performance,
+这对所有组织健康都是有害的
+it's bad for all tissue health.
+如果你的大脑过热  神经元就会开始死亡
+If your brain heats up too much, neurons start dying
+那些神经元不会回来  好吗？
+and those neurons don't come back, okay?
+你可能听说过神经发生
+You may have heard about neurogenesis,
+大脑自我再生的能力
+the ability for the brain to regenerate itself
+或产生新的神经元和成年
+or generate new neurons and adulthood,
+成年后几乎没有神经发生
+there's very little neurogenesis excuse me, in adulthood,
+甚至在青春期后的任何时候
+even after anytime after puberty really
+而且你不想失去神经元
+and you don't want to lose neurons
+在中枢神经系统中
+in the central nervous system.
+如果太热  那会发生
+If you get too hot, that'll happen.
+这就是所谓的高热  要避免高热
+It's called hyperthermia, you want to avoid hyperthermia
+而且你有很多机制
+and you have many mechanisms
+内置于你体内以避免过热
+that are built into you to avoid becoming hyperthermic.
+当我们变得太温暖时发生的另一件事
+The other thing that happens when we get too warm
+是我们所有的细胞都有
+is that we have in all of our cells,
+所谓的酶
+what are called enzymes.
+你通常知道某物是否是酶
+You generally know if something's an enzyme
+因为它以字母ASE结尾  对吗？
+because it ends in the letters, A-S-E, right?
+因此  脂肪酶是一种消化脂肪的酶
+So lipase is an enzyme that exists to digest fats.
+你有可以消化蛋白质的蛋白酶  对吗？
+You have proteases that are there to digest proteins, right?
+因此  无论何时你看到ASE都是一种酶
+So anytime you see A-S-E chances are it's an enzyme.
+酶是蛋白质  它们具有特定的结构
+Enzymes are proteins, and they have a particular structure
+当热量增加时  它们的结构会发生变化
+and their structure becomes modified when heat increases
+那不好
+and that's not good.
+你希望它们的结构为特定类型
+You want their structure to be of a particular type.
+想像一下一辆四轮汽车
+Imagine a car with four wheels,
+假设汽车是酵素
+let's just say the car is the enzyme.
+如果太热  就像两个轮子掉了一样
+If it gets too hot, it's like two of the wheels fall off
+那东西就不起作用了
+and that thing can't function.
+所以身体和自然的原因之一
+So one of the reasons why the body and nature
+付出了巨大的努力来建立机制
+goes through so much effort to build in mechanisms
+确保我们不会变得太热
+to make sure that we don't become too warm
+是因为当我们变暖时
+is because when we get to warm,
+这些酶不起作用  细胞停止起作用
+these enzymes don't function, cells stop functioning,
+他们不再能够产生能量
+they stop being able to generate energy,
+他们不再能够消化东西
+they stop being able to digest things,
+你不再能够思考
+you stop being able to think
+最终这些细胞开始完全死亡
+and eventually those cells start dying off entirely.
+因此  将温度保持在特定范围内确实很好
+So keeping temperature in a particular range is really good,
+你不想太热
+you don't want to get too hot.
+就冷感而言  我们有更多的灵活性
+We have much more flexibility in terms of getting cold.
+现在你也不想变成低温
+Now you don't want to become hypothermic either.
+你会因体温过低而死亡
+You can die from hypothermia
+就像你会因体温过高而死亡一样
+just like you can die from hyperthermia.
+但是  你还有很多需要冷的地方
+However that you have a lot more range to be cold
+比你做得太温暖好吗？
+than you do to be too warm, okay?
+通常来说  这个想法是保持身体和大脑
+And in general, the idea is to keep the body and brain
+在特定范围内  但是无论何时我们做任何事情
+in a particular range but anytime we do anything,
+我们的体温会发生变化
+our body temperature can shift.
+例如  如果你要站在篝火旁
+So for instance, if you were to stand next to a campfire
+或者你在炎热的天气里在外面
+or you were outside on a hot day,
+会发生各种事情  从你的身体中散发热量
+various things would happen to dump heat from your body.
+如果你在寒冷的天气里在外面
+If you were outside on a cold day
+或者你要去洗个冷水澡或一个冷湖
+or you were to get into a cold shower or a cold lake,
+各种各样的事情都会发生
+various things would happen
+隔离体内的热量
+to insulate heat within your body.
+我意识到这一切都非常简单明了
+This is all pretty straightforward and obvious I realize.
+那么  那些事是什么？
+Now, what are those things?
+好吧  其中有一大类
+Well, there are a huge category of them.
+当你进入冷水中时  你会分泌肾上腺素
+When you get into cold water, you secrete adrenaline.
+在炎热的天气里  如果真的很热或在很热的桑拿房中
+On a hot day, if it's really hot or in a very hot sauna
+或在炎热的沙漠中
+or in the hot desert,
+你将产生所谓的热休克蛋白
+you will generate what are called heat shock proteins
+这将引发其他系列的级联
+which will set off other sets of cascades,
+代谢极联反应  生物极联反应
+metabolic cascades, biological cascades.
+但是考虑这个过程的最简单方法是
+But the simplest way to think about this process is that
+当我们冷感时  我们倾向于血管收缩
+when we get cold, we tend to vasoconstrict.
+我们的血管趋于收缩
+Our blood vessels tend to constrict
+而且我们倾向于将能量推向身体的核心
+and we tend to push energy toward the core of our body
+保存我们的核心器官  好吗？
+to preserve our core organs, okay?
+因此  我们的外围  我们的手  脚和脚趾
+So our periphery, our hands and our feet and our toes
+而且我们的腿变冷
+and our legs become colder
+因此我们的核心可以维持该区域的血液
+and our core therefore can maintain blood to that area
+我们正在绝缘我们的核心
+and we are insulating our core.
+相反  当我们加热血管舒张血管时
+Conversely, when we heat up our blood vessels vasodilate,
+他们扩张了一点  更多的血液流向了我们的周围
+they expand a bit and more blood flows to our periphery
+通常  更多的血液可以在整个身体中流动
+and more blood can move throughout the body generally
+我们会出汗  我们会出汗  水会实际上
+and we will perspire, we will sweat, water will actually
+从某种程度上被抽出血
+get pulled out of the blood to some extent,
+通过汗腺向上移动
+moved up through sweat glands
+并被带到皮肤表面
+and will be brought to the skin surface
+为了可以将其倾倒  我们正在释放热量
+so that it can be dumped, we are dumping heat.
+如你所知  动物出汗的能力各不相同
+Animals, as you know vary in their capacity to sweat.
+骆驼等动物起初不会流汗
+Some animals like camels won't start sweating at first
+如果他们变热  他们会做的就是吐口水
+if they heat up, what they'll do is they'll spit,
+他们会随地吐口水  好吗？
+they'll dump heat by spitting, okay?
+狗气喘吁吁  Costello在我左边离开了
+Dogs pant, Castilla is off to my left here,
+当他太暖和的时候他喘气  他不会流汗
+he pants when he gets too warm, he can't sweat
+狗可能会稍微出汗一点
+or dogs can maybe sweat a little bit.
+但是我们会流汗  你可能已经注意到
+But we can sweat and you've probably noticed
+在炎热的天气里  你会感到温暖
+that on a humid hot day, you'll feel much warmer
+只是比你走路或跑步
+just walking or running than you would
+进行同等的锻炼或运动
+with the equivalent exercise or movement
+比你在寒冷的日子里要多
+than you would on a cold day.
+你们中的一些人可能知道这一点  但是如果你不知道
+And some of you probably know this, but if you don't
+原因是你在寒冷的日子里出汗
+the reason is you sweat on a cold day,
+但是由于空气通常是干燥的
+but because the air is dry typically,
+你会把汗水浮出水面
+you will bring that sweat to the surface
+只要你穿衣服
+and provided you're wearing clothes
+可以让一些空气从身体中散发出来
+that allow some air to get out away from the body,
+所以你只要没穿  真的很紧
+so you're not wearing, you know, really tight,
+你知道氨纶类的衣服或类似的东西
+you know spandex type clothing or something like that,
+或者  你知道海豹式莎朗裹身式服装
+or, you know seal type saran wrap type clothing
+汗水会蒸发到干燥的空气中
+that sweat will evaporate off into the dry atmosphere.
+而在潮湿的日子  你看到别人的原因
+Whereas on a humid day, the reason you see people
+在一个潮湿的夏日  在纽约和佛罗里达
+in New York and Florida on a humid summer day
+他们就像把衬衫脱掉
+and they're like moving their shirts off themselves
+你会看到有认识的人
+and you see people with, you know
+大汗斑和背部汗斑
+big sweat stains and back sweat stains
+而所有这些东西是因为他们正在流汗
+and all this kind of stuff is because they're sweating
+像往常一样  但是潮湿
+as they normally would, but it's humid
+所以有湿度  空气不允许转移
+and so there is the humidity, the air doesn't allow transfer
+汗水立即进入大气
+of that sweat into the atmosphere as readily
+所以你很热  好吗？
+and so you're hot, okay?
+因此  如果没有蒸发  你将变得更温暖
+So without the evaporation, you're going to be warmer.
+所以我们蒸发掉汗水  我们流汗
+So we evaporate off sweat, we sweat
+当我们想散发热量时  我们会进行血管舒张
+and we vasodilate when we want to dump heat.
+当我们想保持热量时  我们进行血管收缩
+When we want to maintain heat, we vasoconstrict
+而且我们往往不流汗
+and we tend to not sweat.
+发生的另一件事是你会感到鸡皮疙瘩
+The other thing that happens is you'll get goosebumps.
+有时被称为所谓的鹅痘
+So-called goose pimples they're sometimes called.
+这就把我们带到未完全进化完的时期
+Those are a throwback to the time
+在我们的大部分身体上都有皮毛  不是全部身体
+where we had fur over most, not all of our body.
+所有在寒冷中的哺乳动物都有一个过程
+All mammals in the cold have a process
+从而肾上腺素以低水平释放
+whereby adrenaline is released at low levels
+通常进入体内  肾上腺素激活
+typically into the body, that adrenaline activates
+所谓的交感纤维
+what are called sympathetic fibers,
+他们与同情无关
+they have nothing to do with sympathy,
+那些细小的纤维  是神经元
+those little fibers, which are neurons,
+我所说的纤维是神经元
+those fibers that what I'm saying are fibers are neurons,
+不是衣服纤维  而是伸入皮肤
+not clothing fibers, reach up into the skin
+所以你的整个身体被这些微小的神经元覆盖
+so your whole body is covered with these little tiny neurons
+到达皮肤  当我们冷感时
+that reach up into the skin and when we are cold,
+他们实际上是机械地吸收毛囊
+they actually mechanically take the hair follicle
+弯曲它  这是一个称为立毛的过程
+and bend it up, it's a process called pilo erection,
+立毛  好吗？
+P-I-L-O erection, okay?
+所以在炎热的天气里  你想散发热量  好吗？
+So on a hot day, you want to dump heat, okay?
+所以在炎热的天气里  将会发生
+So on a hot day, what would happen is
+你实际上看不到那些鹅痘
+you'd actually not see those goose pimples
+因为你要把头发放下
+because you want the hairs lying down
+实际上  你会认为这可以使你更加与外界隔绝
+which actually you would think that might insulate you more
+但实际上我们会散发更多的热量
+but we'll actually let more heat dissipate out
+通过皮肤
+through the skin.
+在寒冷的日子里  你会得到这些鹅痘或鸡皮s
+On a cold day, you get these goose pimples or goosebumps
+这真的只是一个古老的遗留物
+which are really just an ancient carry over
+从身体试图使头发直立的尝试
+from the body's attempt to make hair stand up on end.
+当头发一步站起来时
+And when hair step stand up on end
+他们在一起很近
+and they're very close together
+在它们之间截留空气并实际产生
+that traps air in between them and actually creates
+一种温暖的空气的隔热毯
+a sort of insulated blanket of warm air.
+如果你曾经看过像雪橇犬或沙哑的动物
+If you've ever seen an animal like a a Malamute or a Husky,
+你可能会想  哦  在炎热的天气里那可怜的事情
+you might think, oh that poor thing on a hot day,
+它有什么作用？
+what does it do?
+所有的头发吗？
+You know, with all that hair?
+好吧  这可能很温暖  所以动物通常会喘气
+Well, it can be warm so the animal will typically pant
+它的头发会掉下来  你可能会认为会起作用
+and its hair will lay down, which you might think would act
+像毯子一样  但是在寒冷的日子
+as more of a blanket, but on a cold day
+将会发生的事情是它们会变得非常浮肿
+what'll happen is they'll become very puffy.
+他们的头发会直立
+Their hair will stand up on end
+这实际上是在两根头发之间存热
+and that's actually trapping heat between the hairs
+而且它们实际上绝缘良好
+and they're actually quite well insulated.
+因此  非常重要的是  如果你想了解
+So it's very important that if you want to understand
+如何利用温度来提高体能
+how you can leverage temperature for physical performance,
+你必须明白
+you have to understand
+你有血管收缩来保存热量
+that you have vasoconstriction to conserve heat,
+血管舒张以散发热量
+vasodilation to dump heat,
+你出汗是为了散发热量
+that you are sweating to dump heat,
+而且你有积液
+and you have conservation of fluids
+为了保存热量
+in order to preserve heat.
+那是最重要的
+That's the most important thing
+在理解机制方面
+in terms of understanding the mechanisms
+维持和释放热量
+of maintaining and dumping heat.
+现在最重要的是要了解的是
+And now the most important thing to understand is that
+如果温度太高  这些酶不仅会停止工作
+if you get too hot, not only do those enzymes stop working
+但是你收缩肌肉的能力就停止了  好吗？
+but your ability to contract your muscles stops, okay?
+我将重复一遍  因为它至关重要
+I'm going to repeat this because it's vitally important.
+ATP参与了该过程
+ATP is involved in the process
+产生肌肉收缩
+of generating muscle contractions,
+参加马拉松比赛都没关系
+it doesn't matter if you're running a marathon,
+上瑜伽课没关系
+doesn't matter if you're doing a yoga class,
+不管你要蹲下700磅
+doesn't matter if you're going for a 700 pound squat,
+ATP可以起作用的温度范围
+the range of temperatures within which ATP can function
+而且肌肉可以收缩的非常狭窄
+and muscles can contract is very narrow.
+大约在39或40摄氏度时  它会能力减退
+Somewhere around 39 or 40 degrees Celsius, it drops off
+并且你将无法产生更多的收缩
+and you will not be able to generate more contractions.
+现在很热  但是那个温度
+Now that's pretty hot, but that temperature
+可以非常快速地在本地生成
+can be generated locally really fast.
+那么  如果你太冷了
+Now, if you're too cold,
+的确  很难产生肌肉收缩
+it's true it's hard to generate muscle contractions.
+不久前我开始做一些冷水游泳
+I got into doing some cold water swimming a little while ago
+我们会开玩笑说  你从水里出来
+and we would joke that, you know, you come out of the water,
+我们没有潜水衣
+we do no wetsuits,
+我不建议人们一定要这样做
+I'm not recommending people do this necessarily
+除非你与你在一起
+unless you're with certainly
+和其他熟练的人一起做  我就是
+with somebody else who's skilled at doing it, which I was.
+然后你出来
+And you come out
+而且你会感觉到你的手有爪子
+and you feel like you have claws for hands.
+你可以  你永远不会在手机上发短信
+You can, you know, you could never text on a phone
+在最初的几分钟内
+for the first few minutes,
+我的意思是  水非常非常冷
+I mean, the water was very, very cold
+而且你甚至都不能动自己的脸
+and you can't even move your face
+这样肌肉就会变得僵硬
+and so muscles will become rigid
+但是加热肌肉会导致他们无法
+but heating up muscles causes them to fail to be able
+产生更多的收缩
+to generate more contractions.
+简单地说  如果太热  就停止运动
+Put simply if you get too hot, you stop exercising.
+你甚至可能没有意识到
+You may not even realize it
+但是你会继续锻炼
+but your will to exercise further,
+你更努力的能力
+your ability to push harder
+局部系统和整个身体系统
+is entirely dependent on the heat of the muscle
+支配你锻炼的意愿和能力都由温度来决定
+both locally and your whole system.
+因此  让我们谈谈你的整个系统
+So let's talk about your whole system
+因为我刚刚描述了热量的散发和热量的维持
+because I just described heat dumping and heat maintaining.
+我告诉过你越来越热
+I told you that increasing heat
+使肌肉难以收缩
+makes it hard for muscles to contract.
+这将使你无法跑更远  更快速
+It will stop you from being able to run further and faster,
+它将使你无法举起更多的重量
+it will stop you from being able to lift more weights,
+更多组  更多重复组
+more sets, more repetitions.
+但是  如果你可以将温度保持在一定范围内
+If you can keep temperature in range however,
+在适当的范围内  你将可以做更多的工作
+in a proper range, you will be able to do more work,
+你将能够创建更大的输出
+you will be able to create greater output,
+你将能够举起更多的重量  更多的动作  更多的次数
+you'll be able to lift more weight, more sets, more reps
+这样你就可以跑更远了
+and you'll be able to run further.
+那么  我要谈的数据
+Now, there are data that I'm going to talk
+绝对是惊人的
+about in a little bit that are absolutely striking
+这强调了这一说法
+that underscore that statement.
+有我同事克雷格·海勒实验室的数据
+There are data from my colleague Craig Heller's lab
+在斯坦福大学生物学系
+in the department of biology at Stanford
+并且有一些正在实施的数据
+and there are data that are now being implemented.
+它们首先在由DARPA资助的赠款中实施
+They were first implemented in a grant funded by DARPA
+但现在在专业运动队中
+but now in professional sports teams.
+NFL团队中的许多（如果不是全部）现在都在使用这项技术
+Many, if not all the NFL teams are now using this technology
+以及军事用途
+as well as military uses it
+不只是为了体育表演  还有消防员
+and not just for sports performance, but also firefighters,
+建筑工人  其他专业
+construction workers, other professions
+高热量成为身体性能障碍的地方
+where elevated heat becomes a barrier to performance
+你可以利用它来真正改善你的锻炼效果
+and you can leverage this to really improve your workouts.
+当我说真的有所改善时  这是惊人的
+And when I say really improve, it is striking.
+我现在就给你一点提示
+I'm going to give away a little hint of this now
+然后我要告诉你更多
+and then I'm going to tell you a little bit more
+在我告诉你工具方法之后的数据
+of the data later after I tell you the protocols.
+适当冷却身体
+Proper cooling of the body,
+必须以非常特定的方式完成
+which has to be done in a very specific way,
+允许休闲运动员
+has allowed recreational athletes,
+大学生和典型成年人
+college students and typical adults
+以及职业运动员
+as well as professional athletes
+从做他们通常的输出
+to go from doing their usual output.
+在这种情况下  最容易想到的是
+In this case what comes to mind best
+一个特殊的职业运动员
+would be a particular professional athletes
+当时49人的成员
+that a member of the 49ers at the time
+他第一组可以做40个双杆撑体  接着30个 20 个  20个
+was able to do 40 dips on his first set, 30, 20, 20,
+基本上可以进行10组不需任何其他辅助的双杆撑体
+basically to 10 sets of dips unassisted with anything else.
+令人印象深刻
+That's an impressive
+特别是因为他是一个非常大的家伙
+especially since he's a really large guy,
+一下子做40个撑体简直太厉害了
+40 dips is as a respectable,
+而且都是严格执行的  直上直下标准的双杆撑体
+these are strict, full, full range dips.
+然后到第10组  下降的幅度很大
+And then by the 10th set, there's a steep drop-off.
+对特定的身体部位进行适当的冷却
+Using proper cooling of particular body compartments,
+在不到一周的时间内  他就能够将其提高三倍
+he was able to triple that within less than a week
+在那之后即使没有冷却方法
+and maintain that performance
+也能保持这种表现
+even without the cooling approach.
+所以这实际上是一种调节效应  好吗？
+So it was actually a conditioning effect, all right?
+我会稍等一下
+I'll get back to this in a little bit
+但还有其他出色的努力
+but there are other fantastic leaps of effort
+表现出来的性能飞跃
+and leaps of performance that were demonstrated
+包括耐力跑
+including endurance running.
+在继续之前  我只想再次强调
+Before I continue any, I just want to underscore again
+过热是可怕的
+that overheating is terrible.
+有一个著名的例子
+There's a famous example of this.
+这是大约10  15年前
+This was about 10, 15 years ago
+当一些膳食补充剂
+when a number of dietary supplements
+包括像肾上腺素这样的兴奋剂
+that included things like epinephrin which is a stimulant,
+它是一种β-肾上腺素能兴奋剂  如盐酸克仑特罗
+it's a beta adrenergic stimulant, drugs like Clenbuterol,
+后来被禁止参加奥运会
+which were then banned from the Olympics,
+仍然有娱乐用途
+which are still out there have been in recreational use
+它们是β肾上腺素能激动剂  所以这些是药物
+which were beta adrenergic agonist so these are drugs
+这种模仿肾上腺素肾上腺素的程度
+that sort of mimic epinephrin adrenaline to some extent,
+我知道我在这里简化了这一点
+I know I'm oversimplifying this here.
+由于对新陈代谢的影响  它们可改善单位损失
+They improve flat loss because of the effects on metabolism
+但它们会加热身体
+but they heat up the body.
+发生的是  这在新闻界引起了广泛的反响
+And what happened was, this hit the press very widely
+是高中足球运动员
+is high school football players
+各种职业运动员突然死亡
+and various professional athletes were dropping dead
+因为他们过热
+because they were overheating
+在练习或比赛中
+during practice or in competition.
+如此之多以至于瘦肉精被禁用
+So much so that Clenbuterol was banned.
+虽然偶尔
+Although every once in a while,
+有人因为使用它而遇到麻烦
+somebody gets in trouble for using this,
+最近在专业拳击中  有这种情况
+there was an incidence of this recently
+他们把原因归因于肉质不好
+in professional boxing which was attributed to a bad meat
+肉里含有瘦肉精
+that had contained the Clenbuterol.
+我不知道来源是什么
+I don't know what the source was,
+我对此没有任何评论
+I don't have any commentary about that,
+但它仍在使用中
+but it still is in use,
+但是这些药物会升高体温
+but these drugs increased body temperature,
+脂肪减少增加  但携带有严重危险
+increased fat loss, but carry is severe danger
+这就是热疗的危险
+and that's the danger of hyperthermia.
+实际上  我会争论  我想与一些人交谈
+In fact, I would argue and I think in talking to some folks
+在各种专业的格斗组织中
+at in various professional fighting organizations
+很明显  人们看到的很多死亡
+it's very clear that a lot of the deaths that one sees
+在专业格斗运动中可能要做
+in professional combat sports may have to do
+与脱水和过热一样多
+as much with dehydration and overheating
+就像撞到头部一样  这也很糟糕
+as it does with getting hit in the head, which is also bad,
+但是事情会变得复杂
+but that things can compound
+可以产生协同作用
+that can have a synergistic effect.
+只是关于这一点和体温过高的注意事项
+And just a note about that and hyperthermia
+这也是危险的
+and it's dangerous as well.
+我的第一个科学项目
+My first project ever in science
+旨在评估摇头丸或摇头丸的生热作用
+was to evaluate the thermogenic effects of MDMA or ecstasy.
+那实际上是我在大学里的毕业论文
+That was my senior thesis in college actually.
+我们发现的确是一些药品
+And what we found was that indeed drugs
+消除了你对自己有多温暖的理解
+that remove your understanding of how warm you are
+导致你不采取适当的行为
+cause you to not take on the appropriate behaviors
+给自己降温
+to cool yourself, right?
+因此  你的血管收缩和出汗
+So your vasoconstriction and you're sweating,
+那些是自主的
+those are autonomic,
+不管发生什么  这些都会发生
+those are going to happen no matter what
+除非你碰巧采取了阻止这种效果的方法
+unless you happen to take something that blocks that effect.
+但是  有很多事情
+However, there are a lot of things
+我们作为人类所做的  以防止自己过热
+that we as humans do to prevent ourselves from overheating
+最主要的是停止
+and the main one is stop.
+当我们在沙漠中奔跑时
+When we are running in the desert
+或当我们非常努力地奔跑而突然停下来时
+or when we're running very hard and suddenly we stop,
+通常是因为肌肉过热
+oftentimes that's because the muscles are overheating,
+这是一种潜意识的东西
+it's a subconscious thing.
+我们不会经常想  哦  我真的太热了
+We won't often think, oh, I'm really much too warm,
+只是我们会不自主地停下了脚步
+it's just that we stop
+这是一种自我保护机制
+and it's a self-preservation mechanisms.
+有时它开始得很早  有时它开始得很晚
+Sometimes it kicks into early, sometimes it kicks into late.
+开始得太晚  你可能会死
+Kicks in too late, you can die.
+1984年奥运会有一个例子
+There's an instance in the 1984 Olympics
+我相信第一年
+where there was the first year I believe
+那是一场女子马拉松比赛
+that there was a women's marathon,
+我认为是正确的
+I think that's correct.
+以及获胜的领先者或最佳选择之一
+And one of the front runners or top picks for winning
+正要去体育场
+was heading into the stadium
+突然之间  她好像迷路了
+and all of a sudden, it seemed as if she was lost,
+她神志开始有点游荡
+she was kind of wandering around
+不知道她应该去哪里
+not knowing where she should go
+事实上  她有能力赢得
+and in fact, she was in a position to win
+或至少获得第二名  至少获得银牌
+or at least take second place, at least take silver,
+但她突然完全迷失了方向  在比赛中表现惨淡
+got totally disoriented and did miserably in the race
+就是因为体温过高
+and she was hyperthermic,
+她正在抵抗那停止的反射
+she was running against that reflex to stop.
+因此  释放热量是关键
+So dumping heat is key.
+那么  如何散发热量以便安全地更长久地运动呢？
+So how do you dump heat in order to perform longer safely?
+好吧  为了了解这个  你必须了解
+Well, in order to understand that you have to understand
+身体有三个主要隔间
+that the body has three main compartments
+调节温度  好吗？
+for regulating temperature, okay?
+我们不仅有核心和外围
+We don't just have a center and a periphery,
+我们有三个主要隔间
+we have three main compartments
+特别是有一个隔间
+and there's one compartment in particular
+你们所有人或你们大多数人  我必须假设
+that all of you or most all of you, I have to assume have
+如果你能理解它是如何工作的
+and if you can understand how that works,
+你可以为自己的表现做很多事情
+you can do tremendous things for your performance
+为了你的康复
+and for your recovery.
+所以我要告诉你的是
+So what I'm about to tell you
+将使你在各种形式的锻炼中都能表现得更好
+will allow you to perform better in all forms of exercise
+而且它并不为人所知
+and it is not commonly known,
+不幸的是  我在这里尝试改变它
+unfortunately, I'm here to try and change that.
+你有三个隔间
+You have three compartments
+用于增加或散发体内的热量
+for increasing or dumping heat in your body.
+一个是你的核心  我们已经讨论过了
+One is your core, we already talked about that.
+你的核心器官  你的心脏
+Your core organs, your heart,
+你的肺  胰腺  肝
+your lungs, your pancreas, your liver,
+这是你身体的核心
+this is the core of your body.
+另一个是你的外围  显然是你的手臂
+The other is your periphery, which are obviously your arms
+还有你的腿  脚和手
+and your legs and your feet and your hands.
+但是还有第三点
+But then there's a third component
+在你身上有三个位置
+which has their three locations on your body
+更好地将热量从体内散发出去
+that are far better at passing heat out of the body
+并将凉爽带入体内
+and bringing cool into the body
+这样你就可以加热
+such that you can heat up
+或很快地到处冷却你的身体
+or cool your body everywhere very quickly.
+这三个区域是你的脸  你的手掌
+Those three areas are your face, the palms of your hands
+和脚的底部
+and the bottoms of your feet.
+那么  你的手和脚底上的皮肤
+Now, the skin on your hands and on the bottoms of your feet
+在某种程度上  你的脸上被称为无光泽的皮肤
+and to some extent on your face are called glaborous skin.
+那是光彩的无光的皮肤
+That's G-L-A-B-O-R-O-U-S glaborous skin.
+身体的那些部位有什么特别之处
+And what's special about those areas of your body
+而光鲜的皮肤就是安排
+and the glaborous skin is that the arrangement
+脉管系统  血管  毛细血管和动脉
+of vasculature, of blood vessels, capillaries and arteries
+这些区域的组成 与其他组织非常不同
+that serve those regions is very different
+比你身体其他任何地方都多
+than it is elsewhere in your body.
+那么  这具有古老的渊源
+Now, this has ancient roots.
+通常  如果你是另一只哺乳动物  例如熊
+Typically, if you were another mammal, like a bear
+或某种猿  你的头发会遍及整个身体
+or some sort of ape, you would have hair all over your body.
+现在我们都认识一些毛茸茸的人
+Now we all know some pretty hairy people.
+我想你听说过这些毛茸茸的人
+I presume you've heard that there are these hairy people,
+我认识一些毛茸茸的人
+I know a few excessively hairy people
+Costello毛茸茸的
+and Castilla is excessively hairy
+但他显然不是一个人
+but he's not a person obviously
+但是所有哺乳动物的身体也都有毛发
+but all mammals have hair on their bodies, too.
+有些人的头发很浅或很细
+Some people have very light hair or very fine hair.
+在这些无光泽的皮肤区域没有头发
+We don't have hair on these glaborous skin regions.
+那么  你当然可以有胡须或胡须的生长
+Now, of course you can have beard or facial hair growth
+但是仍然有像脸颊这样的区域
+but there are still regions like the cheeks
+以及维持这种特殊脉管系统的其他区域
+and other areas that maintain this special vasculature.
+好吧  从技术上讲  手和脚
+Okay, so technically the hands and feet
+是真正的光彩皮肤
+are real glaborous skin
+而且脸部并不总是被归类为光彩夺目
+and the face is not always quite classified as glaborous
+但是这三个位置都是手掌
+but these three locations face, palms of hands
+脚的上下都不是很好的散热工具
+not tops and bottoms of feet are very good at dumping heat
+并带来了酷感
+and bringing in cool.
+原因是血管生物学有规律
+And the reason is there's a rule in vascular biology
+血液从动脉转移到毛细血管
+that blood moves from arteries to capillaries
+然后到静脉  然后再回到心脏  好吗？
+and then to veins, and then back to the heart, okay?
+所以明显是大动脉
+So arteries which are the big ones obviously,
+微细的毛细血管
+capillaries which are the little fine ones
+氧气和二氧化碳交换的地方
+where oxygen and carbon dioxide are exchanged
+然后静脉将血液带回心脏
+and veins which then bring blood back to the heart
+当然还有其他组织
+and other tissues of course.
+在你的手的这三个区域中  你的脸
+In these three regions of your hands, your face
+和脚的根部
+and the bottoms of your feet,
+我们有所谓的AVA
+we have what are called AVAs.
+AVA是一种非常特殊的脉管系统模式
+AVAs are a very special pattern of vasculature.
+在医学教科书中描述了AVA
+AVAs are described in the medical textbooks.
+你可以在Grey的解剖图中找到它们
+You can find them in Grey's anatomy
+不是电视节目啊
+not the television show
+而是实际的格雷解剖学教科书
+but the actual Grey's anatomy textbook
+这是存在的真实教科书
+which is a real thing that exists
+在所有的医学教科书中  好吗？
+and in all medical textbooks, okay?
+因此  让我们谈谈AVA及其含义
+So let's talk about AVAs and what they are
+以及为什么它们允许身体的这三个区域
+and why they allow these three regions of the body
+使自己更容易地加热或冷却
+to heat or cool ourselves more readily.
+那么什么是AVA？
+So what are AVAs?
+AVA是动静脉吻合
+AVAs are arterio-venous anastomosis.
+所以如果你想查一下
+So if you want to look that up
+你可以查找AVA的静脉  毛细血管
+you can just look up AVAs veins, capillaries,
+如果你愿意的话  我会为你拼写
+arteries if you like, but I'll spell it for you.
+ARTERIO  arterio venous  VENOUS
+A-R-T-E-R-I-O, arterio venous, V-E-N-O-U-S,
+动静脉吻合  吻合
+arterio-venous anastomosis, A-N-A-S-T-O-M-O-S-E-S.
+动静脉吻合  好吗？
+Arterio-venous anastomosis, okay?
+你想了解动静脉吻合  请相信我
+You want to know about Arterio-venous anastomosis, trust me
+并且你想记住它们在你的手中
+and you want to remember that they are in your hands,
+脚的根部和脸部
+the bottoms of your feet and on your face,
+特别是在你的手掌上
+and in particular on the palms of your hands,
+而不是你的手掌
+not the tops of your hands.
+那么  在我说典型的血液流动之前
+Now, before I said blood flows typically
+从动脉到毛细血管  再到静脉
+from arteries to capillaries, to veins,
+然后回到内心
+and then back to the heart.
+但是AVA是直接连接
+But AVAs are direct connections
+在小动脉和小静脉之间
+between the small arteries and the small veins.
+他们在某种程度上绕过了毛细管
+They bypass the capillaries to some extent.
+它们是短小的血管段
+They are little short vessel segments,
+他们有一个很大的内径
+they have a big, large inner diameter
+他们的墙壁很厚  肌肉发达
+and they have this very thick, muscular wall.
+他们从所谓的肾上腺素能神经元获得输入
+And they get input from what are called adrenergic neurons.
+他们从神经元获得输入
+They get input from neurons
+释放去甲肾上腺素和肾上腺素
+that release norepinephrine and epinephrine,
+这使他们可以收缩或扩张
+which allows them to contract or dilate.
+现在有一些物理规则
+Now there's some rules of physics
+谈论管道的半径
+that talk about how the radius of a pipe
+管道半径的微小变化
+and small changes in the radius of a pipe
+导致东西的数量和数量的大量增加
+leads to massive increases in the rate and amount of stuff
+可以流过那根管子  好吗？
+that can flow through that pipe, okay?
+有一个物理规则  本质上说
+There's a rule of physics that says essentially
+半径与填充量成正比
+that the radius is proportional to the amount of stuff
+可以流到第四力量
+that can flow through something to the fourth power.
+我们不会把这当作物理课
+We're not going to make this a physics class,
+但是如果你想查找一下  可以
+but if you want to look that up, you can,
+你可以看看流量与半径的关系
+you can just look up how does the radius of a tube or pipe relate to how quickly
+有多少东西可以流过？
+or how much stuff can flow through it?
+你需要知道的
+What you need to know,
+即使你不想了解任何基础物理学
+even if you don't want to know any of the underlying physics
+这些AVA允许更多热量
+is that these AVAs allow more heat
+更快地离开身体
+to leave the body more quickly
+而且更酷  可以更快地进入身体
+and more cool to enter the body more quickly
+比其他静脉动脉毛细血管床
+than other venous arterial capillary beds
+整个身体
+throughout the body.
+换句话说  你可以在脸部  手掌上和脚的底部
+In other words, you can heat up best at the face, the palms
+进行更好地升温  也可以最佳冷却
+and the bottoms of the feet, and you can cool down best
+在脸上  手掌和脚底
+at the face, the palms and the bottoms of the feet
+比身体上其他任何地方效果都要好
+than you can anywhere else on your body.
+当我说升温或降温时
+And when I say heat up or cool down,
+我的意思是实际上是加热或冷却大脑  核心  以及末端
+I mean actually heat or cool the core end your brain.
+好的  这非常重要
+Okay, so this is vitally important.
+我知道现在对你们来说开始难了
+I realize we're getting down
+要进入这里的机制“杂草”中  但你需要知道
+into the mechanistic weeds here, but you need to know
+你身体的这三个部分
+that these three compartments of your body,
+手掌  脚底和脸
+palms, bottoms of feet and face
+是控制温度的最佳杠杆点
+are your best leverage points for manipulating temperature
+能够大大改善体能  好吗？
+to vastly improve physical performance, okay?
+我也想指出
+I also want to point out
+我要告诉你的研究
+that the work that I'm going to tell you about
+不是我的实验室的工作
+is not work from my laboratory.
+正如我提到的  这是我的工作
+It's the work of, as I mentioned,
+我的同事克雷格·海勒（Craig Heller）在斯坦福的实验室
+my colleague Craig Heller's laboratory at Stanford
+我们将作为来宾邀请Craig
+and we're going to have Craig on as a guest
+谈论更多关于这些发现的信息
+to talk more about these discoveries,
+他们是他和他的同事们的发现
+they are his and his colleagues discoveries
+以及如何利用它们
+and how you can leverage them.
+他们正在开发一些惊人的技术
+They're building out some amazing technology.
+我昨天和克雷格谈过
+I had a conversation with Craig yesterday
+作为本集的序幕
+as a prelude to this episode
+以及将来与他的对话
+and to the future conversation with him
+因此你可以获得有关此主题的最新信息
+so you're getting the very latest on this topic.
+那克雷格和他的同事做了什么
+So what Craig and his colleagues did
+确实说明得很完美
+really illustrates perfectly
+这些体表能做什么以及为什么
+what these body surfaces can do and why.
+他们正在研究运动员和军人的过热
+They were studying overheating in athletes and in military
+和建筑工人  并试图防止这种情况
+and in construction workers and trying to prevent it.
+他们做了很多实验
+And they did a bunch of experiments,
+我现在不去讨论所有这些
+I won't go into all of them now
+但他们实质上发现的是冷却手掌
+but what they essentially found was that cooling the palms,
+手掌冷却技术使人们  运动员
+palmer cooling allowed people, athletes,
+和娱乐性的运动员要跑得更远
+and recreational athletes to run much further,
+举起更多的重量  做更多的练习和代表
+to lift more weight and to do more sets and reps
+达到绝对惊人的程度
+to a absolutely staggering degree.
+让我们再谈一谈  再说一遍我们为什么会不由自主地停下脚步
+Let's talk for a second, a bit more about why we stop,
+为什么我们在太热时就停止努力
+why we shut off effort when we get too hot
+因为这样做  你将真正了解
+because in doing so, you'll really understand
+最佳工具方法如何以及为什么存在
+how and why the best protocols exist
+为了能够做更多的工作
+for being able to do more work,
+能够锻炼更长的时间
+to be able to exercise longer
+并且实际上感觉很好
+and actually to feel good doing it.
+实际上  你的双杆撑体量可以翻倍
+You actually can make a doubling of your dips
+或三倍或四倍或更多  真的
+or believe it or not a tripling or quadrupling or more
+你的引体向上也可以提高三倍或四倍或更多  真的相当简单
+of your pull-ups fairly straightforward.
+我之前提到过  当肌肉发热时
+I mentioned before that when muscle heats up,
+酶开始被破坏
+enzymes start getting disrupted
+ATP和肌肉不能很好地工作
+and ATP and muscles can't work so well
+那些肌肉无法收缩
+and those muscles can't contract.
+让我们更详细地说明这一点
+Let's get a little more specific about that.
+这里涉及的酶
+The enzyme that's involved here
+是一种叫做丙酮酸激酶的东西
+is something called pyruvate kinase.
+你不需要了解丙酮酸激酶
+You don't need to know about pyruvate kinase
+但是你需要知道的它是以ASE结束的
+but what you do need to know is that it ends A-S-E
+这意味着它是一种酶   丙酮酸激酶
+which means it's an enzyme and pyruvate kinase
+本质上是一个限速步骤
+is essentially a rate limiting step.
+这是至关重要的一步  你不能绕过
+It's a critical step that you can't bypass
+如果你想让肌肉收缩
+if you want muscles to contract
+而且对温度非常敏感
+and it's very temperature sensitive.
+因此  如果你可以保持较低的温度
+Therefore, if you can keep temperature lower,
+你可以在单位时间内做更多的运动量
+you can do more work per unit time,
+你可以做更多的引体向上
+you can do more pull-ups
+那实际上是由克雷格（Craig）完成的
+and that actually was done by Craig
+和他的同事们  对不起
+and his colleagues, excuse me.
+引体向上的实验实际上不是Craig完成的
+The pull-ups weren't actually done by Craig,
+我不知道克雷格能做多少个引体向上
+I don't know how many pull-ups Craig can do,
+下次我会问他  冷却的以及不冷却的
+I'll ask him next time, both cooled and uncooled,
+好想知道他可以做多少个引体向上
+how many pullups he can do.
+但是他们基本上做的
+But what they essentially did
+他们带受试者进入他们的实验室
+is they brought someone into their laboratory
+可以在第一组上做十个引体向上
+who could do 10 pull ups on the first set
+他们就能拿到10
+and they were able to get 10,
+休息两到三分钟再得到十个
+rest two or three minutes get another 10,
+休息或三分钟  如果你曾经尝试过
+rest or three minutes and if you've ever tried this,
+你发现的是你开始下降
+what you find is that you start dropping
+到八个  七个  六个等等
+to eight, seven, six, et cetera.
+那么  这个人可能不一定会感到
+Now, the person might not necessarily feel
+就像他们过热一样  但是肌肉正在发热
+like they're overheating, but the muscle is heating up.
+然后  既然我们知道这些AVA
+Then with their knowledge that these AVAs,
+这些在掌心中的传送门是一个很棒的方法
+that these that these portals in the palms are a great way
+既可以加热身体  又可以从身体中散发热量
+to both heat the body, but also to dump heat from the body,
+他们使用了设备
+they used the device
+我会谈谈你可以在家做什么
+and I'll talk about what you can do at home
+但是有这么一种  可以握住的设备
+but a device where they had people hold on
+本质上是一个冷管
+to what was essentially a cold tube.
+现在这很关键  管不能太冷
+Now this is crucial, the tube can't be so cold
+因为那样会引起血管收缩
+that it causes vasoconstriction
+因为那样冷就不会从管子里通过了
+because then the cold won't pass from the tube
+手和核心
+to the hand and to the core.
+但是如果温度合适的话
+But if it's the right temperature,
+既不太热也不太冷
+it's neither too hot nor too cold,
+冷管里的冷气传到手上
+that cool from the cold tube passes into the hand,
+这些所谓的“手掌”区域  然后冷却核心
+these so-called palmer regions and then cools the core
+从理论上讲可以降低体温
+and in theory by lowering body temperature
+将使人或运动员做更多的工作
+would allow the person or the athlete to do more work
+的确是他们所看到的
+and indeed that's what they saw.
+实际数据  具体数据显示
+The actual data, the specific data showed
+受试者可以做到的
+that subjects could do,
+至少他们合作过的科目
+at least the subjects they worked with,
+在他们的第一天  没有冷却  大约只能做一百个引体向上
+on their first day with no cooling about a hundred pull-ups
+是有一个大致的时间范围  好吗？
+across the timeframe that they had, okay?
+所以可能要花10到15
+So it might've taken anywhere from 10 to 15
+或更多套  取决于那个人的熟练程度
+or maybe more sets depending on how skilled that person was
+但要在固定的时间内
+but in a fixed amount of time.
+然后他们回来进行冷却
+Then they came back and did the cooling.
+他们隔天就做了
+They did it the very next day
+如果你曾经锻炼过肌肉
+which if you've ever trained a muscle,
+通常在第二天
+the very next day typically
+你在训练中做得不好
+you wouldn't do as well in its training
+如果前一天的训练中收到了一些伤害
+if it took any damage from the previous session
+或者你至少也这样做
+or you at least do as well,
+但是你可能不会做他们随后观察到的事情
+but you probably wouldn't do what they then observed,
+那是  他们每隔一组就开始比赛
+which was, they started after every other set,
+这个人只会握住冷管
+the person would just hold the cold tube,
+每隔一阵就降温身体
+cool down the body after every other set,
+其余的一切都保持不变
+rest everything else was kept the same
+他们发现他们进行了180次引体向上训练
+and they found that they went to 180 pull-ups,
+太不可思议了  几乎翻了一番
+which is incredible, it's a near doubling.
+通过在多个训练中重复执行此操作
+And by doing this repeatedly over several sessions,
+几个星期后  他们迅速进入冷却小组
+over several weeks, they quickly went in the cooling group
+我记得最多可以达到180到200个之间
+from a maximum of somewhere between 180 and 200 as I recall,
+我只是估计
+I'm sort of estimating now,
+在相同的时间内达到600个引体向上
+to 600 pull-ups in the equivalent amount of time
+这绝对是不可思议的
+which is absolutely incredible.
+然后  他们在卧推研究中重复了这一步骤
+They then repeated this in a study on the bench press
+实际上  卧推研究很有趣
+and actually the bench press study was pretty interesting
+因为他们实际上有一个对照组
+because they actually had a control group
+那是公认的特定金额
+that was admittedly taking specific amounts
+合成代谢类固醇
+of anabolic steroids,
+抗生素类固醇是环睾酮
+the antibiotic steroid was testosterone cypionate
+本质上是睾丸激素
+which is essentially testosterone,
+甚至是睾丸激素cypionate
+and indeed the testosterone cypionate,
+类固醇组以每周约1％的速度改善
+the steroid group improved at a rate of about 1% per week.
+会有个体差异
+There were differences and the cooling group
+但冷却组的表现远远超过了其他组的表现
+basically left all other groups in the dust,
+这真是了不起
+it was just remarkable.
+所以冷却核心  我想非常清楚
+So cooling the core, I want to be very clear
+并没有冷却肌肉
+that it's not cooling the muscle,
+不是要独自冷却胸部
+wasn't about cooling the chest alone
+或只是冷却手掌
+or just cooling the palms,
+这是关于让冷感通过手掌
+it was about allowing cold to pass through the palms
+由于那里独特的脉管系统  这些AVA
+because of the unique vasculature that's there, these AVAs
+允许受试者每单位时间做更多的工作
+allowed the subjects to do far more work per unit time.
+重要的是
+And the important thing is that
+如果他们在做600次引体向上运动后又回来了
+if they were to come back after doing 600 pull-ups
+或500个引体向上  你可能会说
+or 500 pull-ups, you might say,
+好吧  哇  这会造成情况
+well, wow that's going to create a situation
+肯定没法再次恢复到这个状态的
+where recovery is going to be absolutely impossible.
+他们可以回来  不用冷却
+They could come back, not use the cooling
+他们仍然看到了非常显着的增长
+and they still saw a highly significant increase
+上拉或下垂的数量或次数
+in the amount or the number of pull-ups or dips
+或他们可以做到的卧推重量  好吗？
+or bench press weight that they could do, okay?
+那是什么意思
+So what that meant is that
+两者都是出色的表现
+it was both an excellent performance
+以及出色的训练刺激
+and an excellent training stimulus
+他们能够从中恢复  好吗？
+that they were able to recover from, okay?
+我不知道大家是否都在关注
+I don't know if all of you are following this
+但是这种增加
+but these are the sorts of increases
+在运动输出中绝对是惊人的
+in exercise output that are absolutely staggering
+这就是为什么专业团队和军方
+and that's why professional teams and the military
+其他人很快就利用了它们并加以利用
+and others capitalized on them very quickly and use these.
+好吧  现在你可能会问耐力怎么样？
+Okay, now you may be asking what about endurance, right?
+并非每个人都希望能够卧推很多
+Not everyone wants to be able to bench press a lot
+用于多个代表和集合
+for multiple reps and sets.
+我应该提到卧推
+And I should just mention for the bench pressing,
+是的  我相信他们是
+it was, I believe they were
+他们找到了可以压下两个25的人
+they found people that could bench press two 25,
+这是两个45磅重的盘子
+so that's two 45 pound plates
+在45磅标准的奥运酒吧上
+on the 45 pound standard Olympic bar
+重复六到十次
+for repetitions of anywhere from six to 10
+然后让他们做同样的事情
+and then they had them do the same thing.
+他们做了一套  要休息两三分钟
+They did a set, they'd rest two or three minutes,
+有时长达四分钟
+sometimes up to four minutes,
+然后再做另一组  重复  重复  重复
+then do another set, repeat, repeat, repeat,
+通过冷却  他们能够
+and with cooling, they were able
+增加工作量
+to increase the amount of work,
+相同重量的代表次数
+the number of reps with the same weight.
+有时他们确实必须增加台数
+Sometimes they did have to increase sets
+大约增加一倍  所以这真是太棒了
+to approximately double, so it was pretty fantastic.
+因此  在耐力方面  也显示出类似的增长
+So with endurance, similar increases have been shown
+以及他们进行这些测试的方式
+and the way that they do those tests
+有一点不同
+are a little bit different
+他们还指出了一个非常重要的机制
+and they also point to a really important mechanism
+为什么我们根本停止工作
+of why we stopped doing work at all
+当我们认为自己付出了太多的努力时
+when we perceive that we are putting in too much effort.
+因此  它成为了
+So it gets right to the heart of the relationship
+在肌肉的温度和意志力之间关系的核心
+between temperature in muscle and your willpower,
+这些是直接相关的
+those are directly related.
+你的体温和意志力
+Your body heat and your willpower
+以生理方式联系在一起
+are linked in a physiological way.
+所以我不是在谈论那种
+So I'm not talking about the kind of stuff
+你看到的  互联网上的那种标题党
+that you see as kind of like clickbait on the internet,
+什么 马上增加意志力  或马上变得有弹性
+or like increase willpower now or become resilient now,
+或者如果你想变得坚强  就不要再做这个了
+or never do this again if you want to be mentally strong,
+我说的是生理机制
+I'm talking about a physiological mechanism
+存在于身体和大脑中导致你停止
+that exists in the body and brain that causes you to stop
+否则那将使你继续努力并走得更远
+or that will allow you to continue to go harder and further
+比平时要多
+than you normally would.
+好吧  让我们来谈谈意志力和热度
+Okay, so let's talk about willpower and heat
+以及热量如何使你失望
+and how heat shuts you down.
+换句话说  如果你很酷
+In other words, if you are cool,
+如果你的体温在特定范围内
+if your body temperature is in a particular range,
+你不仅可以走得更远
+not only can you go further,
+但是如果你愿意  你可以跑得更远
+but you will go further if you want to.
+换句话说  如果你加热过多
+Said differently, if you heat up too much,
+你会停下来  否则你会死
+you will stop or you will die.
+通常情况下  人们会停下来  有些人会推动
+Typically people stop, there are individuals who will push
+到他们昏过去的地步
+to the point where they black out and die,
+以同样的方式进行  请不要进行此实验
+in the same way that, and please don't do this experiment,
+有些人可以面对面坐下
+there are people who can sit down face to face
+说  让我们屏住呼吸
+and say, let's hold our breath
+谁先呼吸  谁就会输
+and whoever breathes first loses.
+有些人会一直等到痛苦为止
+Some people will just go until it's painful
+然后他们会喘着粗气  深吸一口气
+and then they'll gasp and take a big breath.
+总是有那些人
+There are always those individuals
+可以克服这种反射
+who can override that reflex
+他们会一直跑下去  运动下去  直到昏倒
+and they will go until they pass out, okay?
+如果你在水中这样做  很容易死亡
+And if you do that in water, you can very easily die,
+所以请不要做那个实验
+so please don't do that experiment.
+但是有一种反射将身体与大脑的联系
+But there's a reflex that relates the body to the brain
+以及大脑与身体的联系  打断了我们的努力
+and the brain to the body that shuts off our effort
+当我们太热的时候
+when we get too hot.
+那么Craig和他的同事以及其他人所做的
+So what Craig and his colleagues and now others have done
+在实验室做测试
+is to do a test in the laboratory
+而不是让人们跑到外面
+where rather than ask people to run outside
+直到他们绝对不想再跑了
+until they absolutely don't want to run anymore,
+你把它们放在跑步机上  然后设定速度  好吗？
+you put them on a treadmill and you set the speed, okay?
+所以他们必须跟上跑步机
+So they have to keep up with the treadmill
+然后他们退出了
+and at some point they quit.
+然后你参加小组  然后做那些
+And you take groups and you do those
+在不同的温度环境中
+in different temperature environments.
+所以有些人在一个寒冷的实验室里跑步
+So some people are running in a nice chilly laboratory,
+他们提高了自己的心率
+they get their heart rate up.
+因此  也许他们的心律从
+So maybe their heart rate goes from,
+你知道40或50的基准心率
+you know, 40 or 50 baseline heart rate,
+也许它上升到80或100
+maybe it gets up to 80 or a hundred
+然后他们将跑步机的速度保持不变
+and then they keep the rate of the treadmill going the same
+他们只会高原
+and they'll just plateau.
+所以他们正在进入稳定的节奏或节奏
+So they're getting into a steady state cadence or rhythm
+他们的心脏或多或少地处于稳定状态
+and their heart is beating it more or less a steady state.
+最终他们可能会停止
+Eventually they'll probably stop
+因为他们还有其他事情要做
+'cause they have something else to do
+但是人们会继续保持这种温度
+but people will continue at that temperature
+以这样的心率
+and at that heart rate,
+除非你开始调高房间的温度
+unless you start turning up the temperature in the room
+在某些时候他们会停止
+and at some point they will stop
+当天气变热时  它们会更早停止
+and they'll stop much earlier when it gets hot
+因为所谓的“心脏漂移”
+because of something called cardiac drift, okay?
+所以说我在跑步
+So let's say I'm running
+我正在这台跑步机上以稳定的节奏跑步
+and I'm running at a steady cadence on this treadmill
+我的心律是每分钟85次
+and my heart rate is 85 beats per minute
+或每分钟一百拍  没关系
+or a hundred beats per minute, doesn't matter,
+举例来说  假设有一百个
+let's say a hundred just for sake of example.
+好吧  只是让房间更热
+Well, just making the room hotter
+会进一步增加我的心率
+is going to increase my heart rate further,
+即使我的输出相同
+even though I'm at the same output
+大脑进行计算
+and the brain does a computation,
+它以某种方式找出有热量的成分
+it somehow figures out that there's a heat component
+这增加了心率
+that's increasing heart rate
+运行中需要付出努力
+and there's an effort component from running
+这正在驱动心率
+that's driving heart rate.
+如果热量分量和心率输出
+And if the heat component and the heart rate output
+从努力中  达到一定的门槛  我停了下来
+from the effort, get to hit a certain threshold, I stop.
+好的  有些人可能会认为
+Okay, ad some of you may think,
+好吧  有人跑了
+well there are people who just run
+并不断奔跑  永不停止  最终每个人都停止
+and run and run and never stop, eventually everyone stops.
+也许是因为比赛结束了
+Maybe it's because of the race ended,
+也许是因为  其他所有人都退出了
+maybe it's because, you know, everyone else quit.
+我实际上在网上看到了一些东西
+I actually saw some stuff online,
+在这些种族中  人们
+there are these races where people
+只会不断地做同样的循环
+just will continuously do the same loop
+直到其他人退学
+until everyone else drops out
+然后一个男孩或女孩不断超越所有人
+and then one guy or girl keeps going past everybody.
+但通常由于比赛结束而停止
+But typically it stops because the race is over
+还是因为别人退出了
+or because people quit.
+增加放弃或停止运动的几率
+Increasing temperature increases the rate of quitting
+部分而非全部  但部分
+in part, not entirely, but in part
+因为这个东西叫做心脏漂移
+because of this thing called cardiac drift
+你可能经历过的
+which you've probably experienced
+如果你在炎热的天气中出门在山上
+if you've been out on a hot day and you're walking uphill
+你可能会停止呼吸
+you might stop to take a breath.
+如果你坐在桑拿浴室  心率会增加
+If you sit in a sauna, your heart rate will increase.
+热量增加心率  努力增加心率
+Heat increases heart rate, effort increases heart rate.
+不断努力  你将拥有稳定的心律
+At a steady effort, you'll have a steady heart rate.
+如果增加环境中的热量
+If you increase the heat in the environment
+你正在保持稳定的心律
+that you're engaging in that steady heart rate,
+由于心跳  你的心率现在会上升
+your heart rate will now go up due to cardiac drift
+然后你会退出  好吗？
+and you will quit, okay?
+所以海勒和同事们做了实验
+So Heller and colleagues have done experiments
+他们在这些环境下进行手掌冷却
+where they do palmer cooling under these environments.
+这很棒  因为它不仅可以使人们
+And that's wonderful because not only does it enable people
+走得更远更快
+to go further and faster for much longer
+每次都显示出统计上的显着性
+that's been shown statistically significant every time
+但它也保护大脑和身体
+but it also protects the brain and body
+防止体温过高  过热  昏迷  神经损伤
+against hyperthermia, overheating, coma, nerve injury,
+神经死亡和实际死亡  好吗？
+nerve death, and actual death, okay?
+因此  你可以了解为什么这是一个如此有价值的工具
+So you can see why this is such a valuable tool.
+那他们在做什么呢？
+So what are they doing?
+好吧  在这种情况下  他们也要让他们凉爽的双手
+Well, in this case too they're having them cool their hands
+他们正在冷却手掌
+and they're cooling the palms.
+冷却脚底有点棘手
+Cooling the bottoms of the feet is a little trickier
+但实际上冷却脸也可以
+but cooling the face could actually work as well.
+我们将谈论冷却脸部
+And we're going to talk about cooling the face
+以及如何整合这一点
+and how to incorporate this.
+所以在这一点上  我真的很想
+So at this point, I've just really wanted
+给你留下深刻印象不是给你留下深刻印象  而是给你留下深刻印象
+to impress upon you not impress you, but impress upon you
+你拥有身体的这三个表面的事实
+the fact that you have these three surfaces of your body
+擅长将冷感传递到体内
+that are very good at passing cold into the body,
+这样可以冷却核心体温
+such that it cools the core body temperature
+这对健康和安全是一件好事
+and that's a good thing for health and safety
+为了维持工作量
+and in order to maintain work output
+在更长的时间内  或者实际上只是做更多的工作
+over longer periods of time, or actually just do more work.
+我的意思是我的结果是如此惊人
+I mean to me the result is just so staggering
+控制组中的人  最多能做100到180个引体向上
+is the hundred to 180 pull-ups in the controls
+然后在冷却组中  进行了600次引体向上  对吧？
+and then 600 pull-ups in the cooled individuals, right?
+他们实际上也有精神上的感觉
+They actually also feel mentally
+好像他们可以做更多的工作
+as if they can do more work.
+不只是他们可以
+It's not just that they can,
+他们的意志力以某种方式进行了调整
+their willpower is adjusted somehow
+通过这些温度变化
+by these shifts in temperature.
+那么  在我们继续并找到确切的方法之前
+Now, before we continue and get to the exact ways
+我们中的任何人都可以开始使用此信息
+that any number of us can start to use this information,
+我想谈谈相反的事情  那就是暖气
+I want to talk about the opposite thing, which is heating.
+而且你必须记住  这些表面
+And you have to remember that these surfaces,
+手掌  脚掌和脸部
+the palms and the bottoms of the feet and the face
+不只是这些AVA的范围
+will not just a range with these AVAs,
+这些将血液从动脉传递到静脉的特殊方法
+these special ways to pass blood from arteries to veins
+为了让我们凉爽  以获得更好的运动表现
+in order to cool us for better athletic performance
+或在寒冷的日子里给我们加热  但同时要为这两件事加热
+or to heat us for on cold days but for both of those things.
+那么  海勒及其同事和其他人也进行了探索
+Now Heller and colleagues and others have also explored
+如何将它们用于加热核心
+how these can be used to heat up the core.
+有时候我们想加热我们的核心
+There are times when we want to heat up our core.
+通常我们听到大部分热量
+Typically we hear that most of the heat
+从我们的头上散发出去
+escapes through our heads,
+所以我们出去的时候戴上帽子
+so we'll put on a hat when we go outside,
+这实际上是不正确的
+that's actually not true.
+你大部分的热量都通过脸散发
+Most of your heat escapes through your face,
+你的手掌和脚的底部
+the palms of your hands and the bottoms of your feet.
+现在你应该知道为什么会这样
+Now you should know why that's the case.
+这对手术后患者而言意味着
+What this means is that for post-surgery patients
+或对于体温过低的人
+or for people that are hypothermic,
+的确  你想加热核心  对吗？
+indeed you want to heat the core, right?
+但实际上我最近在游泳
+But actually I was on a swim recently
+一个朋友变得体温过低
+where a friend became hypothermic.
+他有点口齿不清
+He was kind of slurring his words
+摇摇晃晃
+and kind of staggering around
+当我们把他带回海滩时
+when we got him back on the beach,
+我们把他带到了救生员站
+we brought him over to the lifeguard station,
+他原来还好
+he turned out to be fine.
+同样  这就是为什么冷水游动的原因
+Again, this is why cold water swims
+是你真正需要跟别人一起做的事情
+are something that you really need to do in groups,
+并不孤单  你真的必须知道你在做什么
+not alone and you really have to know what you're doing.
+发生这种情况的原因有很多
+There were reasons for why this happened that day,
+但是  你知道我们基本上
+but, you know we were basically
+人们以为我们有点奇怪
+people thought we were a little strange
+直到他们意识到发生了什么
+until they realized what was happening.
+我们在沙滩上散步  基本上把他夹在中间
+We were walking down the beach basically sandwiching him
+在我们的胸口之间  因为我们仍然更温暖
+between at our chest because we were still warmer
+而不是周围环境  我们周围的环境
+than the ambient environment, the environment around us.
+我们把胸部推向他
+And we were pushing our chest against him
+试着给他热身  以使自己的核心热身
+to try and warm him up to warm up his core.
+回想起来  这是错误的做法
+In retrospect, that was the wrong thing to do.
+与克雷格交谈以及与其他同事交谈
+In talking with Craig and talking to other colleagues
+在生热上起作用
+that work on thermogenesis.
+我们应该做的是温暖的
+What we should have done was warm,
+碰到他的手掌  脚底
+hit the palms of his hands, the bottoms of his feet
+和他的脸  因为那样可以隔绝热量的流失
+and his face because that would insulate the heat loss.
+现在他很冷
+Now he was very cold
+所以大概有血管收缩
+so presumably there was vasoconstriction
+这些位置的静脉
+of the veins at these locations.
+所以还不清楚
+And so it's not clear
+那将是唯一使用的策略
+that that would have been the only strategy to use
+但是他们已经探索了如何使术后患者升温
+but they have explored how to heat up post-surgery patients
+也是做到这一点的最好方法之一
+and one of the best ways to do that
+是为了让脚底变暖的袜子
+is to get warm socks on the bottoms of the feet,
+戴上手套
+get gloves on the hands
+是否可以安全地加热脸部
+and if it can be done safely to warm the face.
+那么  你当然不想阻塞呼吸
+Now, of course you don't want to obstruct respiration
+诸如此类的事情
+and things of that sort.
+但是同样有将热量传递到体内的能力
+But again the ability to pass heat into the body
+或散发热量到身体
+or to remove heat to the body
+最好通过这三个表面来完成
+is best done through these three surfaces.
+我不能强调那么多
+I can't emphasize that enough.
+所以我之前提到过要冷却手掌
+So I mentioned before that you want to cool the palms
+或脚底
+or the bottoms of the feet
+虽然这很难做或面对
+although that's a little harder to do or the face
+但没有那么多  以至于血管收缩
+but not so much that the blood vessels constrict
+因为那样一来  你就无法将冷气传递到体内
+because then you won't be able to pass cool into the body
+因为那些管子变小了
+because those pipes got smaller
+因此  你无法将冷气传递到体内
+and therefore you can't pass cool into the body.
+那么如何开始联系在一起看呢？
+So how can you start to incorporate this?
+好吧  克雷格（Craig）和同事们有一家公司
+Well, Craig and colleagues have a company
+他们是通过斯坦福大学成立的
+that they've spun out through Stanford.
+我们和克雷格（Craig）坐下来谈谈
+We'll talk about that when we sit down with Craig
+使得工程设备最适合
+that has made engineered devices that are optimal for this
+将会保持这些通道的畅通
+that are going to keep those passages open,
+保持静脉的大小  这些静脉正确通过以保持凉爽
+keep the size of the, those veins correct to pass cool
+为了出色的运动表现而迅速进入人体
+into the body quickly for sake of elite sports performance
+甚至是休闲运动表演
+and even recreational sports performance
+但实际上你可以开始一起理解
+but you can actually start to incorporate this.
+首先  我总是被问到
+First of all, I always get asked
+水应该有多冷？
+how cold should the water be?
+应该是冰水吗？
+Should it be ice water?
+应该是很冷的水吗？
+Should it be very cold water?
+答案是不
+The answer is no.
+如果你想体验一下这种效果
+If you want to experience some of this effect
+没有设备  你可以做的一件事
+without a device, one thing you could do
+例如  我不知道
+would be for instance to do, I dunno,
+我将以健身房或跑步机为例
+I'll use the, the, the gym or the treadmill as an example.
+你可以做最大的引体向上  停止
+You could do your maximum number of pull-ups, stop
+然后你实际上可以把手伸进去
+and then you could actually put your hands into
+或在可能已堵塞的水槽表面上
+or on the surface of a sink that is presumably stopped up
+用凉水
+with cool water.
+所以不是冰水  不是冰冷的  而是凉水
+So not ice water, not freezing cold, but cool water,
+略低于体温
+slightly cooler than body temperature
+在开始培训之前  这将是一个不错的起点
+before you started training would be a good place to start.
+你需要进行10到30秒钟的操作
+You do that for 10 to 30 seconds.
+然后  你可以返回并进行下一组
+Then you could go back and do your next set.
+你将重复冷却
+You would repeat the cooling,
+你可能想稍微扩展一下冷却量
+you would want to extend the amount of cooling somewhat
+因此你可能需要30秒钟到一分钟的时间
+so you might want to do that for 30 seconds to a minute.
+这不是完美的
+This is not going to be perfect,
+你将不得不玩使其变得多么寒冷
+you're going to have to play with how cold to make it
+为了获得最佳效果
+in order to get the optimal effect
+但是你仍然应该看到一种效果
+but you ought to see an effect nonetheless.
+如果你正在跑步并且疲劳  也是如此
+The same is true if you're running and you're fatiguing,
+显然  你不想变得体温过高
+obviously you don't want to become hyperthermic,
+冷却手或脚底或脸部
+cooling the hands or the bottoms of your feet or the face
+将是理想的散热方式
+would be the ideal way to dump heat
+为了能够产生更多的输出
+in order to be able to generate more output.
+那么  关于脸部
+Now, the face is something
+我们没有谈论太多
+that we haven't talked a lot about.
+直到现在我告诉你的一切也都说
+Everything I've told you up until now also says
+如果你是一个容易感到冷的人
+that if you are somebody who tends to get cold
+当你在外面时  例如在冬天甚至秋天
+when you are outside, say in the winter or even in the fall,
+你往往会变冷  变暖你的脸
+you tend to run cold, warming your face
+将是最重要的事情
+is going to be the most important thing
+你可以做到的
+that you can do.
+那么  如果你要是只带面具  应该是会很奇怪
+Now, it's kind of hard to do that without looking strange
+像戴滑雪面罩之类的东西
+like wearing a ski mask or something like that
+但这将更加有效
+but that is going to be more effective
+而不是遮盖和加热身体的其他部位
+than covering and warming any other part of your body
+虽然如果只戴滑雪面具会很奇怪
+although it'd be quite strange if you only had a ski mask on
+而且你没有在身体的其他任何地方穿衣服
+and you weren't wearing clothes anywhere else on your body,
+我不建议在外面做
+I don't recommend doing that outside,
+这将使你陷入各种其他麻烦
+that will get you into all sorts of other kinds of trouble.
+那对任何人都不好
+That wouldn't be good for anybody.
+但是现在你了解了原理和位置
+But now you understand the principle and the locations
+在这传递热量和寒冷
+at which to deliver heat and cold.
+假设你要参加比赛
+So let's say that you are out for a run
+并且你想要结合这种冷却机制
+and you want to incorporate this cooling mechanism,
+我和克雷格谈过这个
+I talked to Craig about this,
+我说过  穷人的方式是什么
+I said, what would be the kind of poor person's approach
+在此设备市售之前对此有何要求？
+to this before this devices commercially available?
+他说  好吧  你可以拿一个冷冻的果汁罐
+And he said, well, you, you could take a frozen juice can,
+如果你有其中一个或非常冷的汽水罐
+if you have one of those or a very cold can of soda
+而你想来回传递它
+and you would want to pass it back and forth
+在你的两只手之间
+between your two hands.
+来回传递真的很重要的原因
+The reason the passing back and forth is really important
+是因为你  你又不想它这么冷
+is because you, again you don't want it to be so cold
+你收缩那些静脉门
+that you constrict those veins portals
+它将使冷感进入体内
+that it will allow cold to go into the body.
+现在肯定有人
+Now, there are certainly people
+在自行车把手上工作的人
+that are working on bike handles,
+这实际上可以使双手凉爽
+and that can actually cool the hands.
+你可以期待奥运会的到来
+You can expect with the Olympics coming up,
+人们知道这些数据
+people are aware of these data
+并开始将其整合到许多事物中
+and are starting to incorporate it into a number of things.
+这是你不想做的  有运动队
+Here's what you don't want to do and there are sports teams
+我不会提到名字或品牌
+that I won't mention by name or brand
+犯了这个错误  并付出了沉重的代价
+that have made this mistake and it costs them dearly.
+你不想冷却核心
+You don't want to cool the core
+如果你想给身体降温  对不对？
+if you want to cool the body, right?
+如果天气非常炎热而你要去训练
+If it's very hot day and you're going to train,
+首先进入冰浴  确实  它会冷却你的身体
+getting into an ice bath first, sure it will cool you down,
+但这不会像冷却手掌
+but it's not going to be as effective as cooling the palms,
+脚的底部和脸  一样有效
+the bottoms of the feet and the face.
+我有一个朋友在这个领域做一些重要的工作
+I have a friend who does some important work in this space
+与各种各样的人在一起  我们只说文化
+with people in various, let's just say cultures
+产生大量热量的地方
+where heat is generated quite a lot
+他们需要散发热量  将冰袋运送到脸上
+and they need to dump heat, ice packs delivered to the face
+是他们实际使用的东西
+are something that they actually use
+为了迅速排热
+in order to dump heat quickly.
+再说一次  你不想
+Now, again, you don't want
+使冰袋保持在你的脸上
+to keep the ice pack on your face.
+这些人的工作量很高  对吗？
+These are people that are very high work output, right?
+消防员及类似人员  工作量非常大
+Firefighters and similar, at very high work output
+然后他们会把这个从本质上讲
+and then they'll put this essentially,
+就像他们脸上的凉爽口罩
+it's like a cool face mask on their face.
+它可以让他们的核心体温下降
+It allow their core body temperature come down
+然后他们将其删除
+and then they remove it,
+他们没有把它放在那儿太久了
+they're not keeping it on there so long
+他们正在血管收缩  好吗？
+that they're getting the vasoconstriction, okay?
+因此  你可以通过多种方式来执行此操作
+So there are a number of ways that you could do this.
+再说一次  我没有给出具体的温度
+And again, I'm not giving specific temperatures
+因为那要看那天有多热
+because it depends on how hot that day
+以及你的体温有多高
+and how hot your body temperature is.
+因此  你可以了解为什么需要创建更多设备
+So you can see why there's a need to create more devices
+为此  但你可以看到很大的改进
+for this, but you can see a considerable improvement
+耐力  强度和各种爆炸物
+in endurance, in strength and in all kinds of explosive
+爆炸性功率输出
+and sort of, you know, explosive power type output
+在田径运动中  通过使用这些手的表面
+in athletics by using these surfaces of the hands
+脚底和脸
+and bottoms of the feet and face.
+我尝试过的那个
+The one that I've tried
+按照大家对这个播客的预期
+because in anticipation of this episode was the dips
+那我该冷却我的手
+where then I would cool my hands,
+我实际上也决定要冷却脚底
+I actually decided to cool the bottoms of my feet as well,
+因为感觉很好
+because it just feels good
+最近特别热
+and it's particularly hot out lately,
+所以不要穿鞋或袜子
+so no shoes or socks on,
+把我的脚放到脚底
+put my feet into the bottoms of my feet
+只是徘徊在一两厘米左右
+just kind of hovering about a centimeter or two
+一桶水的下面
+below the surface of a bucket of water
+那只是一点点  感觉很凉快
+that was just slightly, it felt cool,
+略低于体温左右
+slightly cooler than body temperature or so.
+基本上是从水龙头中放出来的一点
+It just basically what came out of the spigot
+就有一点点水
+after I let it run for a little bit.
+实际上我看到了60％的增长
+And indeed I saw a 60% increase
+我可以在一个训练中完成的双杆撑体
+in the number of dips I can do in a single session.
+所以这实际上是一个相当重要的影响
+So it's actually a quite significant effect
+而且你不必非常精确
+and you don't have to be perfectly precise
+为了做到这一点
+in order to do it.
+当然  如果你出于任何原因想要升温
+And of course, if you want to heat up for whatever reason,
+就像你在露营或迷失在环境中一样
+like you're camping or you're lost in the environment,
+记住这三个表面
+remember these three surfaces
+也将是加热你的最佳方式
+are going to be the best way to heat your as well.
+所以到目前为止  我们一直在谈论如何使用冷感
+So up until now, we've been talking about how to use cold
+在锻炼过程中  以提高表现
+during a workout in order to improve performance
+而且确实是冷却
+and indeed cold applied
+到身体的适当部位  适当的时间
+to the appropriate parts of the body, the appropriate times
+可以大大改善我们的表现
+can vastly improve our performance
+耐力和力量
+and endurance and strength.
+那么  我想谈谈温度的使用
+Now, I want to talk about the use of temperature
+特别是冷  来提高速度
+in particular cold to improve the speed
+和恢复的深度
+and the depth of recovery.
+恢复显然至关重要  对吧？
+Recovery is obviously vital, right?
+在举重训练中
+During a weight training session
+或在耐力训练中
+or during an endurance session,
+那只是下一次变得更好的刺激
+that's just the stimulus for getting better the next time
+如果你不康复  你不仅会变得更好
+and if you don't recover, you not only won't get better,
+但你会变得更糟
+but you'll get worse.
+对使用冷气有很多兴趣
+There's a lot of interest in the use of cold
+为了在短期内提高恢复能力
+in order to improve recovery in the short term.
+我们看到了这  也许是最好的例子
+We see this and probably the best example of this
+会成为格斗运动中的战士
+would be fighters in combat sports
+在回合或运动员之间
+between rounds or athletes during
+在四分之一或一半的时间之间
+in between quarters or halftime,
+那是恢复的一种形式
+that's one form of recovery.
+很快就能重新参加这项运动的能力
+The ability to go back into the sport very soon
+只需几分钟  大约一分钟
+on an order of minutes, anywhere from like one minute
+在轮次和典型的格斗运动之间
+in between rounds and typical combat sports
+或几分钟半的时间  等等
+or several minutes and a half time, et cetera.
+通常我们看到的是人们在冷却自己的核心
+Typically what we see is people cooling their core,
+冷却脖子的后部
+cooling the back of their neck,
+冷却他们的头顶
+cooling the top of their heads.
+因此  可能是带有冷水的海绵
+So it might be, you know, a sponge with cold water
+头顶上方
+over the top of the head
+或脖子后面的冰袋
+or an ice pack on the back of the neck,
+甚至在某些情况下甚至穿着冷冰背心
+or in some cases even wearing cold ice vests,
+这些都有人尝试
+that's actually been done.
+这将是一种非常低效的方式
+That's going to be a very inefficient way
+改善这种恢复
+to improve recovery of that kind.
+最好是冷却脸
+Far better would be to cool the face,
+手掌或脚底
+the palms of the hands or the bottoms the feet
+由于我到目前为止所描述的原因
+for the reasons that I described up until now.
+将身体浸入冰浴或冲凉水
+Submerging the body in an ice bath, or taking a cold shower,
+说到脖子或胸部
+say up to the neck or up to the chest
+或在冷水之下或在寒冷的湖中跳跃
+or getting under cold water or jumping in a cold lake
+或类似的东西  或在更衣室
+or something of that sort, or in the locker room,
+洗冷水也是快速冷却身体
+getting under the cold shower also would be a terrible way
+很糟糕的方法
+to cool off the body quickly
+与我描述的方式相比
+compared to the ways that I described
+穿过手掌  脚底
+through the palms of the hands, the bottoms of the feet
+或面部原因如下
+or the face for the following reason.
+首先  它不是在优化脸孔
+First of all, it's not optimizing those portals of the face,
+手掌和脚掌上的“神奇通道”
+palms the hands and the feet
+另外  如果天气很冷而你淹没在水里
+and in addition, if it's very cold and you submerge
+否则你会因冷感而掩盖很多身体
+or you cover a lot of the body with that cold,
+你会引起收缩
+you're going to cause constriction
+血管和通路的收缩
+of the very vessels and pathways
+使它们无法让身体有效地散发热量
+that allow the body to efficiently dump heat.
+再次  关键是要冷却这些
+So again, the key thing is to cool these one
+或其中两个或三个表面
+or two or three of these surfaces
+但不要太冷以至于引起血管收缩
+but not so cold that you cause the vasoconstriction.
+那么这对你的意义是什么？
+So what does this mean for you?
+这意味着进入冰浴或冷水淋浴
+It means that getting in an ice bath or a cold shower
+或将冰袋放在颈后
+or putting an ice pack on the back of your neck
+在大多数情况下不会那么好
+in most cases is not going to be as good
+就像泼冷水在你的脸上
+as splashing cold water on your face
+甚至只是用湿的凉布握住你的脸
+or even just holding your face in a damp cool cloth
+或类似的东西
+or something of that sort.
+似乎有点违反直觉
+It seems kind of counterintuitive,
+你想  哦  如果我跳进冰浴
+you think, oh if I just jump into an ice bath,
+我的冷却速度要比仅冷却
+I'm going to cool down much faster than if I just cooled these,
+一两个或三个
+you know one or two or three
+这些身体的选择区域  快得多
+of these select regions of the body
+但实际上并非如此
+but that's actually not the case.
+然后当然
+And then of course
+训练之间会发生恢复
+there's recovery that occurs from session to session.
+因此在比赛  比赛或练习之外
+So outside of the game or the match or the exercise session
+现在很多人都在依赖冷冻疗法
+and many people are now relying on things like cryotherapy
+这需要很多昂贵的设备
+which requires a lot of expensive equipment,
+大的  你知道液氮驱动的机器
+big, you know liquid nitrogen driven machine.
+这些对于大多数人来说并不常见
+Those aren't so common for most people
+或大多数人都可以使用  但很多人
+or accessible for most people, but a lot of people
+正在使用冷水浴  冰浴或冷水淋浴
+are using cold baths or ice baths or cold showers.
+再说一次  这不会优化身体的恢复
+And again, that's not going to optimize recovery.
+实际上  它将产生额外的影响
+In fact, it's going to have an additional effect
+这将有可能阻碍培训的刺激
+that is going to potentially block the training stimulus.
+的确  当你进入冰浴时
+When you get into an ice bath indeed, there are,
+只要不是很冷
+provided it's not very, very cold,
+如果你洗个冷水澡
+if you get into a cold shower,
+如果不是很冷
+provided is not very, very cold,
+你确实在阻止一些炎症
+you are indeed blocking some of the inflammation
+这是由于训练而发生的
+that occurs because of the training session.
+但是这样做也阻碍了一些通路
+But in doing so you also are blocking pathways,
+例如mTOR  雷帕霉素的哺乳动物靶标
+such as mTOR, mammalian target of rapamycin,
+它参与改编
+which are involved in the adaptation
+使肌肉变得更强壮或更大
+for a muscle to become stronger or bigger.
+简单地说  遮盖住身体
+Put simply, covering the body in cold
+或在训练后将身体浸入寒冷中
+or immersing the body in cold after training
+会短路  阻止肌肉肥大
+can short circuit or prevent the hypertrophy
+或肌肉生长反应
+or muscle growth response.
+它还有其他可能是积极的影响  对吗？
+It has other effects that can be positive, right?
+它可以诱导生热  等等
+It can induce thermogenesis, et cetera,
+它可以减轻炎症
+it can reduce inflammation
+但是它可以防止运动的某些积极作用
+but it can prevent some of the positive effects of exercise.
+那么  对于耐力工作还没有做过很多检查
+Now, it hasn't been examined so much for endurance work
+但是  假设你是从耐力运动中回来的
+but let's say you come back from around of endurance work
+或跑步  骑自行车或游泳  洗个凉澡
+or run or a bike or a swim, getting into a cool bath
+或冷却手掌  脚底或脸部
+or cooling the palms, the bottoms of the feet or the face,
+我认为  基于科学会更好
+in my opinion, based on the science would be better
+而不是将身体完全浸入冰浴中
+than completely immersing the body in the ice bath
+或冷水淋浴
+or the cold shower.
+有的时候确实
+There is a time and a place
+用冰浴或冷水淋浴
+for the use of the ice bath or the cold shower
+或寒冷暴跌会更好一些  这些往往是
+or the cold plunge, those tend to be
+当你想刻意
+when you want to deliberately
+增加棕色脂肪的生热
+increase brown fat thermogenesis
+或者你想刻意锻炼心理意志力的时候
+or when you want to deliberately work on mental resilience.
+在随后的“减肥"播客中
+And in a subsequent episode on fat loss
+我将谈论如何优化冷感的使用
+I'm going to talk about how to optimize the use of cold
+专门用于增加新陈代谢和减脂
+specifically for increasing metabolism and fat loss.
+但是那么  由于我们在谈论冷的使用
+But for now, since we're talking about the use of cold
+为了提高运动性能和恢复
+for improving performance and recovery,
+我要提供的建议是基于
+the suggestion that I'm going to provide is based on the work
+我一直在谈论的克雷格·海勒（Craig Heller）及其同事的工作
+of Craig Heller and colleagues that I've been talking about
+以及我主要依靠教科书的优秀著作
+as well as a excellent book I mainly rely on textbooks
+和特别的书籍  它们是论文的集合
+and special volume books which are collections of papers
+来自特定领域的专家
+from experts in a particular area
+超越了标准的大学水平教科书
+that go beyond standard kind of college level textbooks.
+我一直依赖的那个
+The one that I've been relying on
+被称为“人类绩效的热调节
+is called "Thermoregulation in Human Performance,
+生理和生物学方面”  艾菲·马里诺（Effie Marino）
+Physiological and Biological Aspects" by Effie Marino.
+我不认识出版商  我也不认识作者
+I don't know the publisher, I don't know the author.
+我确实知道一些名字
+I do recognize some of the names
+那里的特定论文  但我只想清楚
+of the particular papers there, but I just want to be clear
+没有任何业务关系或与他们打交道
+there's no sort of business relationship or deal with them
+但这是一个很棒的文献
+but it's an excellent text,
+它被称为“人类行为中的温度调节”
+it's called "Thermoregulation in Human Performance".
+你可以在网上找到它
+You can find it online
+如果你想深入了解这一点
+if you want to go really deep into this
+但基本上他们显示的是
+but basically what they show is that
+如果你可以将身体冷却至静止温度
+if you can cool the body back to its resting temperature,
+对于静止温度  我的意思是
+for and by resting temperature, I mean
+在你将看到的范围内
+within the range that you would see
+在清晨的任何时候  但不能运动
+at any time of waking day, but not in exercise.
+因此  只需将体温降至基线即可
+So just bringing that the body temperature down to baseline.
+如果可以的话
+If you can do that,
+锻炼后越早可以做到这一点
+the sooner you can do that after a workout,
+肌肉越早恢复
+the sooner that the muscle will recover,
+肌腱会恢复
+that the tendons will recover
+而那个人你
+and that the person you
+可以重新进行更多的耐力训练
+can get back into more endurance training,
+更多的重量训练等等
+more weight training, et cetera.
+因此  寒冷实际上可以成为恢复疾病的强大工具
+So cold actually can be a very powerful tool for recovery
+但是为了使温度恢复到基准水平
+but to maximize return to baseline levels of temperature,
+根据研究我的信念
+it's my belief based on the studies
+在这本书中出版的
+that are published in this book
+以及与同事克雷格·海勒（Craig Heller）的讨论
+as well as my discussions with my colleague, Craig Heller
+并在整体上回顾文献
+and in reviewing the literature overall
+只是简单地冷却整个身体
+that just simply cooling the entire body
+通过跳入冰浴或冷水淋浴
+by jumping into an ice bath or a cold shower
+不是最好的方法
+is not the best way to go.
+你真的想依靠这三个中的一个
+You really want to rely on one of these three
+手掌无光泽的皮肤入口
+glaborous skin portals of the palms,
+脚或脸的底部
+the bottoms of the feet or the face.
+所以现在你可能比想知道的要了解更多
+So now you probably know more than you ever wanted to know
+关于我们如何调节体温
+about how we regulate body temperature
+以及如何将其应用于运动
+and how it can be applied to exercise
+两者都在锻炼期间
+both during the exercise session
+然后优化恢复
+and afterward to optimize recovery.
+我们很多人  大概所有人
+Many of us, all of us, presumably
+也在吃东西  吃东西
+are also eating and drinking things and taking things
+在不同的时间可能会影响此过程
+at various times that can impact this process.
+因此  因此  我们应该问
+And so, because of that, we should ask
+这些东西是否正在影响体温
+whether or not those things are impacting body temperature.
+当我们这样做时  我们发现有某些事情
+And when we do that, we find that there are certain things
+我们很多人都在做
+that many of us are doing
+实际上损害了我们的表现
+that are actually impairing our performance.
+举例来说  如果你正在锻炼前喝一杯
+So for instance, if you are taking a pre-workout drink
+或者你摄入了很多咖啡因或其他物质
+or you're ingesting a lot of caffeine or other substance
+在运动前提高体温
+to bring your body temperature up before exercise,
+你限制了可以做的运动量
+you are limiting the amount of exercise that you can do.
+我可以回忆起上大学的时间
+I can recall a time in college
+当我会喝很多浓缩咖啡时
+when I would drink a lot of espresso
+当时麻黄碱在柜台上出售
+back then ephedrine was sold over the counter,
+我记得吃了
+I remember taking it,
+它会真正激发你进行锻炼的力量
+it will really energize you for workouts.
+你可以产生很多能量
+You can generate a lot of energy
+并集中精力处理这些事情
+and get extremely focused taking those things.
+它们确实会增加心率  可能会非常危险
+They do increase heart rate, they can be quite dangerous,
+我不建议别人带他们
+I don't recommend people take them.
+实际上  我认为麻黄碱已经下架了
+In fact, I think ephedrine is now off the shelves
+作为非处方化合物
+as a non prescription compound
+因为各种各样的人死于服用
+because various people died from taking it
+对它敏感或受热的人
+who were sensitive to it or exercised in heat.
+但是回头看
+But looking back at that,
+我意识到这是一种愚蠢的做法
+I realized it was a foolish approach.
+它正在增加核心生热作用
+It was increasing core thermogenesis.
+当然  我可能还燃烧了一些卡路里
+Sure I might've burned a few more calories
+但实际上当我查看数据时
+but actually when I look at the data
+来自特定的冷却
+that are coming from specific cooling
+以及如何提高性能
+and how that can so increase in performance
+如果做得好  然后将其与效果进行比较
+if done properly and then I compare that to the effects
+服用某种产热化合物的方法  无论它是什么
+of taking some sort of thermogenic compound, whatever it is
+一些预先锻炼或一些药丸或高水平的咖啡因
+some pre-workout or some pill or high levels of caffeine,
+很明显  体温升高
+it's very clear that increasing body temperature
+锻炼之前是完全错误的事情
+prior to working out is the exact wrong thing
+那会想要做的
+that one would want to do.
+你不想这么冷
+You don't want to stay so cold
+不能产生良好的肌肉收缩
+that you can't generate good muscle contractions.
+你不想像我从寒冷的海洋中走出来
+You don't want to be like I am coming out of the cold ocean,
+手脚蜷缩
+you know, with claws for hands
+但有人想让你的体温保持在一定范围内
+but one wants to have your body temperature in a range
+仍然可以让你努力工作并表现良好
+that still allows you to work hard and perform well.
+那么  在恢复方面  如酒精
+Now, in terms of recovery, things like alcohol,
+我们知道我们的血管扩张药
+we know our vasodilator.
+因此  这些将导致人们降低体温
+So those are going to cause people to drop body temperature.
+所以你可能会想  哦  听起来不错  很容易恢复
+So you might think, oh, well that sounds great for recovery
+而且我不认为人们应该喝那些
+and I don't think people should be drinking who are
+酒精摄入有问题
+you know, have problems with alcohol intake,
+酗酒者
+you know, alcoholics
+或者他们还没到喝酒的年龄  等等
+or they're not of drinking age, et cetera.
+我不是酒徒  但我有一个好朋友
+I'm not a drinker, but I do have a good friend
+他是一个非常有成就的运动员
+who's a quite accomplished athlete
+基本上喝一两杯啤酒的人
+who basically drinks a beer or two
+在他长跑或骑自行车之后   他的论点
+after his long runs or cycling and you know, his argument
+很好  我正在倾泻体内的热量  我喜欢啤酒
+is well, I'm dumping body heat and I like a beer
+他可能是对的  这可能是一个非常好的工具
+and he's probably right, it's probably a really good tool
+如果你没有饮酒问题
+provided you don't have issues with alcohol
+那会排除它作为一种工具
+that would preclude that as a tool
+或你还没到喝酒的年龄
+or you're not of drinking age.
+但是运动后摄取的任何东西
+But anything that you ingest after exercise
+那会增加体温
+that would increase body temperature
+将阻碍复苏
+is going to impede recovery.
+你所做的任何降低体温的事情
+Anything that you do that lowers body temperature
+提供它在安全范围内
+provides it's in safe ranges
+将加速恢复
+is going to accelerate recovery.
+这将我们带入了整个化合物领域
+And that brings us to the whole host of compounds
+人们服用会增加体温
+that people take that can increase body temperature.
+许多人正在服用这些东西
+And many people are taking these things
+为了增加脂肪燃烧和增加新陈代谢
+in order to increase fat burning and increase metabolism
+但我认为
+but in my opinion
+这阻碍了他们表现良好的能力
+it's impeding their ability to perform well.
+特别是如果表现
+And especially if the performance
+是你专注的东西
+is something that you're focused on
+除了身体重组外  还会失去建设肌肉的脂肪
+aside from body recomposition, losing fat building muscle.
+但是  即使你专注于减肥  也可以锻炼肌肉
+But even if you're focused on losing fat, building muscle
+你必须问自己  这样的体温升高
+you have to ask yourself, is the body temperature increase
+我从这些化合物中得到的体温升高  是值得的
+that I'm getting from these compounds really worth it
+因为它会阻止或阻碍我的更好的表现
+given that it can block or prevent my performance from being as good as it could?
+换句话说  值得带些东西吗
+In other words, is it worth taking something
+这使你感到非常有精力去锻炼
+that makes you feel very energized to go work out
+但是现在你知道你要早一点停下来
+but then you now know that you are stopping earlier
+而且你的表现不佳  重复次数较少
+and you're performing less well, fewer reps,
+总体上减少了步骤  这值得吗？
+fewer steps overall, is it worth it?
+如果你没有拿那东西
+If you had not taken that thing
+那你可以运动更长的时间
+then you could perform much longer
+并具有更高的能力
+and at much higher capacity.
+你们当中有些人可能会说  这太荒谬了
+Some of you are probably saying, well, that's ridiculous
+因为当我喝四倍浓缩咖啡时
+because when I drink a quadruple espresso
+我会进行任何锻炼前的锻炼或喝锻炼前的锻炼
+and I pop a whatever pre-workout or drink a pre-workout
+那我知道我可以走得更远
+then I know I can go much further.
+嗯  这可能是正确的  但是温度升高
+Ah, that might be true but the increase in temperature
+在恢复方面也使你付出了代价
+is also costing you on the recovery side.
+除非你在做其他事情
+And unless you're doing other things
+为了改善你的康复能力  我知道很多人
+to improve your recovery and I know many people that are,
+我不判断  但是很多人在做那些事
+I don't judge but many people who are doing those things
+也正在增加他们的康复
+are also augmenting their recovery
+通过激素增加
+through hormone augmentation
+和其他性能增强工具
+and other performance enhancing tools,
+然后对于不这样做的普通人
+then for the typical person who's not doing that
+可能是在搬起石头砸自己的脚
+it's probably shooting yourself in the foot.
+因此  让我们看一下其中一些化合物是什么
+So let's take a look at what some of those compounds are
+以及他们的内容  并简要回顾一下
+and what they and just briefly review
+包括它们是否是一个好主意还是一个坏主意
+whether or not they would be a good or a bad idea to include
+如果你的主要目标是运动表现
+if your main goals are performance
+或你的主要目标是身体重构  或两者兼而有之
+or your main goals are body recomposition or both.
+因此  让我们简短地讨论兴奋剂
+So let's just briefly discuss stimulants.
+这可能是咖啡因
+This could be caffeine,
+这可能是任何其他刺激物
+this could be any other kind of stimulant
+通常在锻炼前喝
+that are typically in a pre-workout drink
+或任何可能使你在运动前恢复活力的事物
+or anything that might get you revved up before exercising.
+这甚至可以是很浓的茶
+This could even be very strong tea,
+我已经提到我是马黛茶的头号消费者
+I've mentioned I'm a big consumer of mate.
+我喜欢一个yerba马黛茶  我喜欢那个东西
+I like a yerba mate, I love that stuff
+我也喝咖啡因
+and I also drink caffeine.
+我喝各种各样的咖啡
+I drink love coffee of various kinds
+蘑菇咖啡  黑咖啡  浓缩咖啡等
+mushroom coffee, black coffee, espresso, et cetera.
+我是长期服用咖啡因的人  我不认为自己是瘾君子
+I'm a chronic caffeine user, I don't think I'm an addict
+但我是长期的咖啡因使用者
+but I'm a chronic caffeine user.
+意思是我喝咖啡因的时候
+Meaning when I drink caffeine
+我的心率没有增加太多
+my heart rate doesn't increase so much
+对我的身体没有特别大的感觉
+that it feels like a shock to my system.
+有些人不适应咖啡因
+Some people are not caffeine adapted
+或者它们对咖啡因非常敏感
+or they're very caffeine sensitive.
+这是简单明了的规则
+Here's the straightforward rule.
+对于不太喝咖啡因的人的咖啡因
+Caffeine for somebody who doesn't drink caffeine very much
+会收缩血管
+will constrict the blood vessels
+并会增加体内热量的保留
+and will increase retention of body heat
+运动前这可能是个坏主意
+and it's probably a bad idea before exercise.
+对于咖啡因适应的人
+For somebody who's caffeine adapted
+习惯喝咖啡因
+and is used to drinking caffeine,
+它不会有血管收缩作用
+it won't have that vasoconstriction effect,
+这也是数据指向的原因  因为我适应了它
+that's what the data point too, because I'm adapted to it
+但是会引起血管扩张
+but it will cause vasodilation
+并让我排出体内的热量
+and will allow me to dump body heat.
+所以对我来说  我在训练之前就使用它
+So for me, I use it before I train
+或做任何运动
+or do any kind of exercise
+因为我倾向于在一天的早些时候这样做
+because I tend to do that early in the day,
+不会阻止我入睡
+it won't prevent me from sleeping
+并引起血管扩张
+and it causes vasodilation.
+然后我知道
+And then afterwards I'm aware
+引起血管收缩
+that it causes vasoconstriction
+咖啡因耗尽后
+after the caffeine wears off.
+所以对于喝两三杯的人
+So for somebody who drinks two or three
+每天或每天多杯咖啡或马黛茶
+or more cups of coffee a day or mate a day,
+所以我们说的是摄入量
+so we're talking intake
+一百到四百毫克的咖啡因
+of anywhere from a hundred to 400 milligrams of caffeine,
+你想做的就是要确保
+what you want to do is you want to make sure
+你会在运动前喝
+that you would do that before exercise
+而不是运动后
+and probably not after exercise,
+不仅合乎逻辑
+not just makes logical sense
+鉴于我们对热调节的了解
+given what we know about thermal regulation.
+如果你是不喝咖啡因的人
+And if you're somebody who doesn't drink caffeine,
+锻炼前喝咖啡因
+drinking caffeine before a workout
+将会是最坏的事情
+is going to be about the worst thing
+你可能会做
+that you could possibly do
+因为这会增加核心体温
+because it's going to increase core body temperature
+通过其生热作用
+through its thermogenic effects
+会收缩你的血管
+and it's going to constrict your blood vessels
+并使热量散发变得更加困难
+and make it even harder to dump heat.
+所以我不建议人们喝咖啡因或不喝咖啡因
+So I don't suggest that people drink caffeine or not,
+我只是建议你考虑一下
+I just suggest that you think about
+无论你的咖啡因是否适应
+whether or not your caffeine adapted or not,
+并决定是否要喝咖啡因
+and decide whether or not you want to drink caffeine.
+一般来说  最好不要喝任何咖啡因
+In general, you're going to be better not drinking any caffeine
+比你喝咖啡因
+than you are drinking caffeine
+除非你是大量的咖啡因使用者或滥用者
+unless you're a heavy caffeine user or abuser.
+在这种情况下不喝咖啡因
+In which case not drinking caffeine
+会给你带来恶性头痛
+is going to give you vicious headaches
+并会变得很难上进
+and is going to make it very hard to get motivated
+因为你只是不习惯
+because you're just not used to it.
+不习惯使用咖啡因大约需要三个星期
+It takes about three weeks to get used to no caffeine.
+这太残酷了  我以前做过  我做过咖啡因戒断
+It's brutal, I've done it before, I've done caffeine fast,
+我不知道我想再做一次
+I don't know that I ever want to do it again,
+那是多么痛苦
+that's how painful it was.
+但是你会头疼
+But you get headaches
+因为对血管舒张和收缩有影响
+because of the effects on vasodilation and constriction.
+如果你喜欢适量使用咖啡因
+If you like caffeine use in moderate amounts
+在运动前使用  而不是之后
+and use it before your not after.
+如果你不喜欢咖啡因或不经常使用咖啡因
+If you don't like caffeine or you don't use it very often,
+运动前后
+stay away from it anywhere close to exercise
+都尽量不要摄入咖啡因
+before or after for that matter.
+一种较常用的化合物
+One of the more commonly used compounds
+那是在柜台上卖的
+that's sold over the counter
+是非类固醇消炎药
+are non-steroid anti-inflammatories
+像泰诺（Tylenol）和阿德维尔（Advil）等商标名称
+so things like Tylenol and Advil and other trade names
+和那种奈普罗辛钠的东西
+and Neproxin sodium things of that sort,
+几乎所有这些都会在一定程度上降低体温
+almost all of those drop body temperature to some extent.
+这就是为什么它经常被推荐
+And that's why it's often recommended
+人们发烧时服用
+that people take them when they have a fever
+虽然整个商业环境
+although the whole business
+发烧时  去人为地降低体温
+of dropping body temperature artificially
+本身就是一个有趣的讨论
+when you have a fever is itself an interesting discussion
+这是最有适应性还是最好的事情
+whether or not that's the most adaptive or best thing to do
+当然  你不希望发烧过高
+certainly you don't want fever to go too high,
+可能很危险  可以杀死你
+can be very dangerous, can kill you
+但是人为地降低体温
+but artificially dropping body temperature
+用这些化合物可能会很棘手
+with these compounds can be tricky.
+那么  许多运动员  尤其是耐力运动员
+Now, a number of athletes especially endurance athletes
+将依靠这些非类固醇消炎药
+will rely on these non-steroid anti-inflammatory drugs
+专门用来降低体温
+specifically to keep body temperature lower
+在长时间的运动中
+during long bouts of exertion.
+这是一些药理学版本的放热
+This is a little bit of a pharmacologic version
+而不是使用“手掌”冷却
+of dumping heat instead of using palmer cooling
+或者 脸部冰袋冷却
+or you know, face ice pack cooling,
+他们依靠药理学
+they're relying on pharmacology
+降低他们的核心体温
+to drop their core body temperature.
+那有一定的明显优势
+That has certain obvious advantages,
+这些优势应该很明显
+those advantages should be obvious
+而且它们的原因应该很明显
+and the reasons for them should be obvious
+根据我们到目前为止所讨论的一切
+based on everything we've talked about up until now
+较低的温度可以使你更加努力
+lower temperature allows you to go further harder
+强度更高
+with more intensity.
+但是  它们确实对肝脏有影响
+However, they do have effects on the liver
+它们也可能对肾脏有影响
+and they can also have effects on the kidneys
+在长时间的运动中
+and during long bouts of exercise
+甚至是短暂的运动
+or even short bouts of exercise,
+水平衡和盐分平衡也将至关重要
+water balance and salt balance are also going to be vital
+为了保持良好的表现
+to maintain in order to perform well,
+产生最佳的肌肉收缩  保持精神警觉
+generate the best muscle contraction, stay mentally alert
+而且还要保证活着
+and also to stay alive.
+我们将播放有关盐电解质和水的平衡 的播客
+We will do an episode on salt electrolytes and water
+但你可能要仔细考虑
+and water balance but you probably want to think carefully
+关于是否
+about whether or not
+你想使用非甾体类抗炎药
+you want to use non-steroid anti-inflammatories
+在任何训练之前
+before any training session
+只是为了提高性能
+just for the performance augmentation effect
+除非你与教练认真合作
+unless you're working carefully with a coach
+你是否在实践中做到了
+whether or not you've done that in practices
+当然  无论你是否处于困境
+and of course, whether or not you are in a situation
+仔细监测体温的地方
+where monitoring your body temperature carefully
+将会很重要
+is going to be important.
+你可能会问  那会是什么时候？
+You might ask, well, when would that be?
+好吧  沙漠比赛  夏季训练和比赛  冬季骑行
+Well, desert races, summer training and races, winter rides,
+你当然也不想变得太冷
+you certainly don't want to get too cool either.
+所以酒精  咖啡因和非甾体类抗炎药
+So alcohol, caffeine and non-steroid anti-inflammatory drugs
+因为它们对温度有影响
+because of their effects on temperature
+将影响性能和恢复
+will impact performance and recovery
+但是你要谨慎对待他们
+but you want to be cautious about how you approach them.
+我个人更喜欢使用咖啡因
+I personally am more a fan of using caffeine
+由于我之前描述的原因  以中等剂量服用
+in moderate doses for the reasons I described before
+以及利用手掌的冷却
+as well to use the cooling of the palms,
+脚底的凉爽  对
+cooling of the bottoms of my feet, right,
+通过将它们放入水桶或冷水浴中
+by placing them into a bucket or into a cool bath
+训练后或训练后冷却脸
+after training or cooling the face after training
+甚至有时甚至在训练过程中
+or sometimes even during training.
+似乎还有更多的余地
+It just seems like there's more of a margin
+发挥变量  加热水
+to play with the variables, to heat up the water
+或将其冷却一点  以包括一只手掌
+or cool it down a little bit to include one palm
+或另一只手掌
+or the other palm.
+有各种各样的好参数空间
+There's all sorts of good parameter space
+正如我们在科学中所说的那样  你可以玩弄
+as we call it in science that you can play with
+并找到适合你的方法
+and work with to find what works for you
+而当你弹出药丸时  请确保你可以调整剂量
+whereas when you pop a pill, sure you can adjust the dose
+你下次可以调整
+and you can adjust it next time
+但是一旦在你里面  就在你里面
+but once it's in you, it's in you
+会有一段时间
+and there's going to be some period of time
+在你对其进行调制之前
+before you can modulate it.
+我今天提供的
+What I've offered today
+是你可以使用温度的方法
+are ways in which you can use temperature
+以有力地提高身体性能
+to powerfully improve performance.
+如果你考虑一下
+And if you think about it,
+你可以根据不同情况进行设置
+you can vary that from set to set,
+你可以做你的引体向上或冲刺
+you could do your pull ups or your sprints
+然后冷却你的手掌
+and then cool your palms,
+然后尝试用冷水去下一轮
+and then try and go with colder water the next round
+或下一轮温水
+or warmer water the next round
+或双脚  手掌和脸都做
+or do both feet and palms and face.
+我的意思是  你可以随时做各种各样的事情
+I mean, you can do all sorts of things moment to moment
+再看看什么对你有用
+and see what works for you again
+基本上为零成本或无成本
+essentially zero cost or no cost.
+而当你服用某物时  比如你服用一粒药
+Whereas when you pop something, you take a pill,
+你基本上就进入了一个疗程中
+you're basically in that regimen
+接下来的一两个小时或更长时间
+for the next hour or two or more.
+你总可以多服用  但无法做到少服用
+You can always take more, but you can't really take less.
+你无法真正从身体中实时提取它
+You can't really extract it from your body in real time
+所以不会给你很多机会
+so it doesn't give you a lot of opportunity
+扮演科学家  这是我喜欢做的
+to play scientists, which is what I like to do
+因为我一直在努力做
+because what I'm always trying to do
+正在尝试找到最好的工具方法
+is trying to dial in the best protocols possible
+基于机制和数据
+based on the mechanisms and data.
+如果你能做到这一点
+And if you can do that moment to moment
+使你处于有力的位置
+that places you in a position of power.
+再次  我们涵盖了很多材料
+Once again, we covered a lot of material.
+到现在为止  看到这集之后
+By now, after seeing this episode
+或听这个播客  你应该了解很多
+or listening to this episode, you should understand a lot
+关于你的身体如何加热和冷却自己
+about how your body heats and cools itself
+以及体能的价值
+and the value of that for physical performance.
+我希望你也会感激
+I hope you'll also appreciate
+你拥有可供使用的工具
+that you have tools at your disposal
+大大改善你的体能
+to vastly improve your physical performance.
+如果你要尝试这些  请告诉我们进展如何
+And should you try those, please let us know how it goes.
+如果你决定在跑步过程中进行手掌冷却
+If you decide to do palmer cooling during your runs
+或跑步后  在进行重量锻炼时
+or after your runs, during your weight workouts,
+在瑜伽课上  不管是什么  让我们知道
+during your yoga sessions, whatever it is, let us know,
+请把它放在评论中
+please place that in the comments.
+我给你具体的工具方法和一些方向
+I've given you specific protocols and some direction,
+但我也略微含糊
+but I've also left it slightly vague
+因为它  正如我之前提到的
+because it, as I mentioned earlier
+我不知道所有的环境条件
+I don't know all the environmental conditions,
+我不知道你的瑜伽馆有多热
+I don't know how hot your yoga studio is
+或是你的健身室多么酷
+or how cool your gym happens to be
+或你的体温或一天中的时间
+or your body temperature or time of day.
+记住你的温度会变化
+Remember your temperature will vary
+根据一天中的时间
+according to the time of day,
+我们做了整整一集关于睡眠的事
+we did a whole episode about that related to sleep.
+通常  你的体温在一天中的早些时候就会升高
+Typically your body temperature is rising early in the day
+傍晚时分下来
+and is coming down as you approach the late evening
+和深夜睡觉  在深夜
+and late night hours for sleep, in the middle of the night
+你的温度很低
+your temperature is very low
+绝对最低
+at its absolute lowest
+我们称之为最低温度
+something we call the temperature minimum.
+因此  我们不知道你确切的位置
+So we don't know exactly where you're at.
+你需要获取今天收到的信息
+You need to take the information that you receive today
+你应该尝试并将其融合进入你的生活
+and should you try and incorporate it
+尝试并聪明地做到这一点
+try and do it intelligently.
+不要让自己过分冷却 以至于你感觉
+Don't cool yourself off so much that you know
+变得低温  请不要加热自己
+become cryogenic and please don't warm yourself up.
+实际上  我们根本没有谈论过为加热
+In fact, we didn't talk at all about warming yourself up
+因为过多地温度升高可能会很危险
+because warming yourself up too much can be quite dangerous.
+你永远也不想做体温过低的人
+You never, ever, ever want to be hypothermic,
+那就是你的身体和大脑要避免的东西
+that's what your body and your brain are trying to avoid.
+我们谈论了一些关于补品的话题
+We talked a little bit about supplements
+但不是标准的补品
+but not the standard sorts of supplements
+我通常会列出这些播客
+I usually list off on these episodes.
+相反  我们谈论咖啡因
+Rather, we talked about caffeine,
+非甾体类抗炎药
+non-steroid anti-inflammatories
+以及它们如何影响温度
+and how those can impact temperature,
+酒精如何影响温度
+how alcohol can impact temperature.
+最后我要提一下
+And I should just mention in closing
+每次我们进食时  我们的体温也会升高
+that every time we eat, we also increased temperature.
+有进食引起的生热作用
+There's a eating induced thermogenic effect
+但这是次要的  那是一个很小的
+but that's a minor one, that's a small one.
+这样你就不必担心训练前进食
+So you wouldn't worry about eating before training
+因为它对温度有影响
+because of its effects on temperature
+因为它往往确实很小
+because it tends to be really minor.
+展望未来  我们将更多地讨论温度
+Going forward, we're going to talk more about temperature
+和其他改善体能的方法
+and other ways to improve physical performance
+和技能学习
+and skill learning.
+我们将讨论具体方法
+We're going to talk about specific ways
+加速脂肪流失  改善肌肉生长
+to accelerate fat loss, to improve muscle growth,
+改善柔韧性和灵活度
+to improve suppleness and flexibility.
+这些方法和机制深深扎根
+These approaches and mechanisms are anchored deeply
+在神经科学和生理学及其关系
+in neuroscience and physiology and the relationship
+在我们周围的器官之间  包括我们的皮肤
+between our peripheral organs, which include our skin
+以及我们的大脑和介于两者之间的所有器官
+and our brain and all the organs in between.
+所以对我来说真的很高兴  因为我能够看
+So it's really a pleasure for me because I'm able to look
+到现有的教科书文献
+to the textbook literature that exists
+并在过去50到100年的时间内真正问世
+and really came out over the last 50 to a hundred years
+与神经科学的许多领域不同
+and unlike a lot of areas of neuroscience
+仍然有些神秘
+which are still sort of mystical,
+比如意识和梦想
+like consciousness and dreaming,
+我们有点了解
+of which we understand a little bit
+关于温度和生理的这些核心机制
+about these core mechanisms of temperature and physiology
+如此强大  涉及非常具体的研究
+which are so powerful, involve very concrete studies
+就像你今天所学到的那样  是非常可行的
+that as you learn today are very actionable.
+如果你喜欢这个播客
+If you're enjoying this podcast
+并且你喜欢收到的信息
+and you like the information that you're receiving,
+如果你以有用的方式融入生活
+if you're incorporating into your life in useful ways,
+请向其他人推荐播客
+please recommend the podcast to other people
+如果你认为他们也可以从中受益
+if you think they could benefit from it as well.
+请订阅YouTube上的播客
+Please subscribe to the podcast on YouTube,
+所以你想点击订阅按钮
+so you want to hit the subscribe button
+以及点击通知按钮
+as well hit the notifications button.
+我们每个星期一都推出新剧集
+We come out with new episodes every Monday
+但我们也会不时发布较短的内容
+but from time to time, we also release shorter content
+我们将发布更多内容
+and we will be releasing additional content
+在不时的播客之间
+in between episodes from time to time.
+如果你尚未订阅Apple和/或Spotify
+If you don't already subscribe on Apple and or Spotify,
+请这样做
+please do so.
+同样在Apple上  你有机会离开我们
+Also on Apple, you have the opportunity to leave us
+最高五星级的评论
+up to a five star review
+如果你认为我们值得获得五星级评论
+if you think that we deserve a five star review
+并给我们留下反馈
+and to leave us feedback.
+他们在那里有一个评论部分
+They have a comment section there,
+这真的是一个反馈部分
+it's really a feedback section
+你可以在其中评价和描述播客的地方
+where you can rate and describe the podcast
+当你经历的时候
+as you experience it.
+如果你想以其他方式支持播客
+If you'd like to support the podcast in other ways,
+请查看我们的赞助商
+please check out our sponsors.
+这是支持我们的好方法
+That's a terrific way to support us.
+我们也有Patreon  你可以找到它
+We also have a Patreon, you can find it
+在patreon.com/andrewhuberman
+at patreon.com/andrewhuberman
+让你支持播客
+that allows you to support the podcast
+你喜欢的任何水平
+at any level that you like.
+今天  我们并没有把重点放在补品上
+Today we didn't focus so heavily on supplements,
+但在其他播客中
+but in other episodes I have,
+而且肯定有补品
+and there are certainly supplements
+对睡眠有益的
+that are beneficial for sleep,
+为了表现  为了学习
+for performance, for learning,
+免疫力等等
+immunity and so forth.
+我们已经与Thorne  THORNE.com合作
+We've partnered with Thorne, T-H-O-R-N-E.com,
+因为索恩补充
+because Thorne supplements
+我们相信是最严格的
+we believe to be the most stringent
+就他们放在瓶子上的东西而言
+in terms of what they put on the bottle
+实际上是瓶子里的东西  所以数量是精确的
+is actually what's in the bottle, so the amounts are precise
+成分的质量非常精确
+and the quality of the ingredients is very precise.
+他们与梅奥诊所合作
+They partner with the Mayo Clinic,
+所有主要的运动队
+all the major sports teams
+因此  我们很高兴与索恩（Thorne）合作
+so we're delighted that we're partnered with Thorne.
+如果你想看看我服用的补品
+If you want to see the supplements that I take
+你可以访问thorne.com/u/huberman
+you can go to thorne.com/u/huberman
+你会看到我服用的补品
+and you can see the supplements that I take,
+你可以从任何这些补品中获得20％的折扣
+you could get 20% off any of those supplements
+你应该选择订购它们吗
+should you choose to order them
+以及其他任何补品可享受20％的折扣
+as well as 20% off any other supplements
+索恩恰巧做到了
+that Thorne happens to make.
+那是Thorne  thorne.com / u / huberman
+That's Thorne, thorne.com/u/huberman
+可获得Thorne生产的任何补品20％的折扣
+to get 20% off any of the supplements that Thorne makes.
+最后但并非最不重要
+And last but not least,
+我要感谢你的时间和关注
+I want to thank you for your time and attention.
+我意识到这是很多信息
+I realize this is a lot of information,
+我希望你会发现其中一些可行的方法
+I hope you'll find some of it to be actionable
+对你和你认识的人有用
+and useful for you and for people that you know
+一如既往地感谢你对科学的关注
+and as always thank you for your interest in science.
+[欢快的音乐]
+[upbeat music]

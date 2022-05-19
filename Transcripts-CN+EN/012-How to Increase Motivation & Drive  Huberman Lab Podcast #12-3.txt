@@ -1,0 +1,4272 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+-欢迎来到Huberman Lab播客
+- Welcome to the Huberman Lab Podcast
+我们在这里讨论科学
+where we discuss science
+和用于日常生活的基于科学的工具
+and science-based tools for everyday life.
+-我是Andrew Huberman
+- I'm Andrew Huberman,
+我是神经生物学教授
+and I'm a professor of neurobiology
+斯坦福医学院的眼科和眼科
+and ophthalmology at Stanford School of Medicine.
+此播客是单独的
+This podcast is separate
+从我在斯坦福大学的教学和研究职位中得出
+from my teaching and research roles at Stanford.
+但是  这是我渴望的一部分
+It is however, part of my desire
+和努力为你带来零成本的消费者信息
+and effort to bring you zero cost to consumer information
+关于科学和与科学相关的工具
+about science and science related tools,
+按照这些原则  我要感谢
+along those lines I'd like to thank
+今天播客的赞助商
+the sponsors of today's podcast.
+我们的第一个赞助商是Athleticgreens
+Our first sponsor is Athletic Greens.
+运动绿色是一种多合一的维生素
+Athletic Greens is an all-in-one vitamin
+矿物质益生菌饮料
+mineral probiotic drink.
+我从2012年开始参加Athleticgreens比赛
+I've been taking Athletic Greens since 2012
+因此  我很高兴他们是播客的赞助商
+and so I'm delighted that they're a sponsor of the podcast.
+我开始服用Athleticgreens的原因是
+The reason I started taking Athletic Greens is
+因为我觉得很头晕
+because I found it rather dizzying
+知道要服用哪些维生素和矿物质
+to know which vitamins and minerals to take
+而Athleticgreens覆盖了我的所有基地
+and Athletic Greens covers all my bases
+用于维生素和矿物质
+for vitamins and minerals.
+它还包括益生菌  现在有很多
+It also includes probiotics and there are now a lot
+支持益生菌很重要这一事实的数据
+of data supporting the fact that probiotics are important
+肠内通路  免疫力
+for the gut brain access, for immunity
+为了代谢健康  内分泌健康  很多很多东西
+for metabolic health, endocrine health, many, many things.
+所以我一次参加了Athleticgreens
+So I take Athletic Greens once,
+有时一天两次
+sometimes twice a day
+我把它和水和一点柠檬汁混合
+I mix it with water and a little bit of lemon juice
+对我来说  味道鲜美
+and to me it tastes delicious.
+如果你想尝试Athleticgreens
+If you'd like to try Athletic Greens
+你可以去sportsgreens.com/huberman
+you can go to athleticgreens.com/huberman
+如果你那样做  他们也会给
+and if you do that they'll also give
+你一年供应维生素D3 K2
+you a year supply of vitamin D3 K2.
+现在有很多数据显示
+There are a lot of data now showing
+维生素D3很重要
+that vitamin D3 is important
+免疫功能和一些
+for immune function and a number
+其他重要的生物学过程
+of other important biological processes.
+此外  如果你访问了sportsgreens.com/huberman
+In addition, if you go to athleticgreens.com/huberman
+你将获得五个免费旅行包
+you'll get five free travel packs,
+旅行包  方便混搭
+travel packs make it easy to mix up
+当你开车上Athleticgreens时
+Athletic Greens when you're in the car,
+在飞机上或一般在路上
+on the plane or generally on the road.
+所以那是Athletic Greens.com  以获得Athletic Greens
+So that's Athletic Greens.com to get Athletic Greens.
+维生素D3和K2的年供应量
+The year supply of vitamin D3 and K2
+以及五个免费旅行包
+and the five free travel packs.
+我们今天的播客的第二个赞助商是Headspace
+Our second sponsor of today's podcast is Headspace.
+Headspace是一种冥想应用程序  可简化冥想过程
+Headspace is a meditation app that makes meditation easy.
+从16岁起  我就一直在打坐和打坐
+I've been meditating on and off since I was 16 years old.
+我现在45岁
+I'm 45 now.
+所以这大约是30年的上下冥想
+So that's about 30 years of on and off meditation
+我承认大部分时间都没事
+and I confess most of that time it was off,
+意思是我真的很难坚持
+meaning I find it really hard to stick
+去打坐
+to a meditation practice.
+几年前我发现了Headspace
+A few years ago I discovered Headspace
+在捷蓝航空航班上飞行时
+while flying on JetBlue flights
+因为当时他们提供Headspace
+cause at that time they were offering Headspace
+作为你可以观看的内容  而不是电视或电影
+as something you could watch instead of TV or movies.
+这让我感觉很好
+And it made me feel great.
+我会发现我已经到了
+I'd find that I arrived
+我要去的地方  更休息  更放松
+where I was going, more rested, more relaxed
+我有了Headspace应用程序  并且每天开始使用它
+and I got the Headspace app and I started using it daily
+而且我每天都继续使用它
+and I've continued to use it daily.
+Headspace有很多冥想
+Headspace has a large number of meditations
+所有这些都得到科学的支持
+all supported by science.
+现在也有大量的科学
+There's also now just a tremendous amount of science
+支持冥想练习
+supporting a meditation practice
+对于诸如改善睡眠之类的各种事情
+for all sorts of things like improved sleep,
+减少冲动  提高认知度
+reduced impulsivity, improved cognition.
+冥想只有无数积极的影响
+There are just a myriad of positive effects of meditation.
+最难的是做
+The hardest thing is doing it
+而“Headspace”使这一过程变得容易
+and Headspace makes that easy.
+如果你想尝试Headspace应用程序
+If you wanna try the Headspace app
+和他们所有的冥想  你可以去
+and all the meditations they have, you can go
+前往headspace.com/special offer  你将获得
+to headspace.com/special offer, and you'll get
+一个月完全没有冥想
+one month completely free of all the meditations
+他们有headspace.com/special offer to
+they have that's headspace.com/special offer to
+免费获得一个月的Headspace
+get one month free of Headspace.
+当今播客的第三个赞助商是魔术匙
+The third sponsor of today's podcast is magic spoon.
+魔术勺是低碳水化合物
+Magic spoon is a low carb,
+无谷物的酮类谷物
+grain-free keto friendly cereal.
+正如我之前在此播客中提到的几次
+As I've mentioned a few times before on this podcast
+我整天的饮食方式无所不包
+the way I eat throughout the day has everything to do
+当我想保持警觉和想昏昏欲睡的时候
+with when I wanna be alert and when I wanna be sleepy.
+所以在一天的一开始（上午）
+So in the first part of the day
+我禁食  因为这可以提高机敏性
+I fast because that enhances alertness.
+然后我吃酮
+Then I eat keto.
+所以我的午餐和午饭都是生酮的
+So my lunch and my afternoon meals are ketogenic
+然后晚上我吃淀粉
+and then in the evening I eat starches
+和蔬菜  因为它们有助于过渡到睡眠
+and vegetables because those aid the transition to sleep.
+因此  对我而言  神奇的勺子作为酮类谷物是很棒的零食
+So for me, magic spoon as a keto cereal is a great snack.
+真好吃
+It's really tasty.
+我实际上没有将我的奶与牛奶混合
+I don't actually mix mine with milk.
+我就是直接吃
+I just eat it directly.
+他们有很多不同的口味
+They have a bunch of different flavors.
+我也喜欢磨砂的味道
+I like the frosted flavor also
+因为它的味道像甜甜圈
+because it tastes like donuts.
+而且我有糕点问题  而且我喜欢糕点
+And I have a pastry affliction and I love pastries.
+所以魔术匙让我留下来
+So magic spoon allows me to remain
+白天服用酮可保持健康
+on keto during the day it's healthy.
+很好吃
+It tastes great.
+我真的很喜欢它
+I really enjoy it.
+因此  如果你想尝试魔术匙
+So if you wanna try magic spoon
+你可以去magicspoon.com/huberman
+you can go to magicspoon.com/huberman
+适用于各种口味的包装
+for a variety pack of different flavors.
+如果你将Huberman放在结帐处
+And if you put Huberman at checkout
+你将从多款组合中获得5美元的折扣
+you'll get 5 dollars off the variety pack.
+那是magicspoon.com/huberman尝试的各种组合
+That's magicspoon.com/huberman to try a variety pack
+口味的神奇汤匙酮
+of different flavors of magic spoon keto
+无谷物低碳水化合物谷物
+grain-free low carb cereal
+在结帐时放上“ Huberman”  你将获得5美元的折扣
+put "Huberman" at checkout you get 5 dollars off.
+在我们开始今天的讨论之前的简短说明
+A quick note before we begin today's discussion
+关于动机的神经科学
+about the neuroscience of motivation.
+我很高兴地宣布
+I'm pleased to announce
+我们现在为第1集加上字幕
+that we have now captioned episodes one
+还有两个西班牙语  很快所有的情节
+and two in Spanish and soon, all the episodes
+Huberman Lab播客的标题将带字幕 of the Huberman Lab
+Podcast will be captioned
+在YouTube上以西班牙语显示
+on YouTube in Spanish.
+我们已经用了一些收入
+We've used some of the revenue
+从播客中聘请专业字幕制作者
+from the podcast to hire expert captioners.
+因此  它应该是准确的
+So it should be accurate.
+你可能会在这里遇到错误
+You might catch a mistake here
+或时有方言差异
+or there a dialect difference from time to time
+但是根据我们的读物和我们的专家的读物
+but by our read and by our experts reads,
+都是正确的
+it's all accurate.
+所以我们很高兴那些说西班牙语的人
+So we're very pleased that people who speak Spanish
+并以西班牙语最好地消化信息  现在可以
+and digest information best in Spanish can now
+在播客上摘要此处的信息
+digest the information here on the podcast.
+感谢大家对播客的支持
+Thanks to everyone for supporting the podcast
+这使我们可以通过这些方式扩大影响范围
+which allows us to broaden our reach in these ways
+我们确实希望扩大
+and we do hope to expand
+在不久的将来转换为其他语言
+to other languages in the very near future.
+这个月  我们正在谈论所有
+This month, we're talking all
+关于情绪的神经科学
+about the neuroscience of emotions
+今天我们要谈论的是
+and today we're going to talk about an extremely
+对我们日常生活至关重要的重要话题
+important topic that central to our daily life
+这就是动机
+and that's motivation.
+我们将谈论快乐和奖励
+We're going to talk about pleasure and reward.
+是我们愉悦或报酬的基础
+What underlies our sense of pleasure or reward.
+我们将谈论成瘾
+We're going to talk about addictions.
+你不能谈论快乐
+You can't have a discussion about pleasure
+和奖励  不用讨论成瘾
+and reward without having a discussion about addictions
+以及某些物质的成瘾性
+and the addictive properties of certain substances
+以及如何摆脱沉迷
+as well as how to break free of addiction.
+同样  我们要谈谈
+As well we're going to talk
+关于动力和心态的神经化学
+about the neurochemistry of drive and mindset.
+所以所有这些主题都交织在一起
+So all these themes are woven together
+在情感的背景下
+in the context of emotions.
+其中每一个因素当然也可以
+Each one of them of course could also
+成为整个月的播客主题
+be its own entire month of the podcast
+实际上  我们将把接下来
+and in fact, we are going to have
+一整月的时间都在放在“成瘾”上
+an entire month devoted to addiction
+我有一个非常特别的客人
+and I have a very special guest
+那将会加入我们的行列
+that's going to be joining us
+谈论科学
+to talk about the science
+和我们知道的临床实践
+and clinical practices that we know are important
+对于了解和治疗成瘾很重要
+for understanding and treating addiction.
+但是现在  我们只讨论神经科学
+But for now, let's just talk about the neuroscience
+动机与愉悦与痛苦的回报
+of motivation and reward of pleasure and pain
+因为这些对于我们认为的情感至关重要
+because those are central to what we think of as emotions
+我们是否感觉良好
+whether or not we feel good,
+我们是否觉得自己在生活中步入正轨
+whether or not we feel we're on track in life
+无论我们是否感到自己落后
+whether or not we feel we're falling behind.
+因此  动力对我们的日常生活至关重要
+So motivation is fundamental to our daily life.
+这就是让我们早上起床的原因
+It's what allows us to get out of bed in the morning.
+这就是我们追求长期目标的原因
+It's what allows us to pursue long-term goals
+或短期目标
+or short-term goals,
+动机与动机化学
+motivation and the chemistry of motivation
+与运动的神经化学紧密相连
+is tightly wound in with the neurochemistry of movement.
+实际上  相同的单分子多巴胺
+In fact, the same single molecule ,dopamine
+既对我们的动力负责
+is responsible for our sense of motivation
+也对运动负责  即使神经控制肌肉
+and for movement, even though nerves controlling muscles.
+再说一遍  这些是脊髓中的神经
+So again, these are nerves in the spinal cord
+让我们活动四肢的大脑  效应化学物质
+or brain that move our limbs, the effector chemical
+让肌肉抽搐  收缩的化学物质
+they're the one that actually causes the muscles to
+是大脑中的乙酰胆碱
+twitch to contract, is a Acetylcholine in the brain.
+乙酰胆碱负责注意力
+Acetylcholine is responsible for focus.
+但是  不管我们是否在动
+However, whether or not we move,
+我们是否在动
+whether or not we want to move
+我们是否有克服障碍的愿望
+whether or not we have the desire to overcome barriers of
+他们可能是社会障碍
+they could be social barriers
+或财务障碍或时间限制
+or financial barriers or time constraints.
+都取决于这个分子
+That depends on this molecule.
+我们称之为多巴胺  这是一个令人着迷的分子
+We call dopamine, it's a fascinating molecule
+它是生活中许多美好事物的中心
+and it lies at the center of so many great things in life
+它也是
+and it lies at the center
+生活中很多可怕事情的中心
+of so many terrible aspects of life
+即成瘾和某些形式的精神疾病
+namely addiction and certain forms of mental disease.
+因此  如果在神经科学领域有什么双刃剑
+So if ever there was a double-edged blade
+那就是多巴胺
+in the world of neuroscience it's dopamine.
+那么我们来谈谈多巴胺是什么
+So let's talk about what dopamine is
+和往常一样  我们将要谈
+and as always we are going to talk
+一些可行的工具方法
+about actionable tools today.
+我们肯定会谈论
+We're definitely gonna talk about
+一些与补剂有关的东西
+some things related to supplementation.
+虽然你可能会惊讶于
+Although you might be surprised to learn
+不仅仅是增加多巴胺
+that it's not all just about increasing dopamine
+特别是在某些情况下
+and in particular, in some cases
+盲目增加多巴胺是不对的
+that's the wrong thing to do.
+有时是合适的  有时不是
+Sometimes it's appropriate sometimes it's not.
+还有  所以我们将讨论相关的工具
+More so we're going to talk about tools related
+所谓的多巴胺调度
+to what's called dopamine scheduling, how
+你 如何过生活
+the way that you're leading your life
+以及概念化目标的方式
+and the way that you're conceptualizing your goals
+实际上可以被预测
+can actually predict whether
+比如你是否将继续追求这些目标
+or not you're going to continue to pursue those goals.
+然后
+And therefore whether
+你是否将成功实现这些目标
+or not you will succeed in achieving those goals
+以及你是否会退出
+As well as whether or not you will quit.
+两者之间有一个基本的关系
+There's a fundamental relationship between
+多巴胺在你的大脑中释放
+dopamine released in your brain
+和你付出努​​力的愿望
+and your desire to exert effort.
+你实际上可以控制
+And you can actually control the schedule
+多巴胺释放的时间表
+of dopamine release
+但这需要适当的知识
+but it requires the appropriate knowledge.
+这是其中一种情况
+This is one of those cases where
+了解多巴胺系统的工作方式
+understanding the way the dopamine system works
+将使你能够从中受益
+will allow you to leverage it to your benefit.
+如果你不了解多巴胺的工作方式
+And if you don't understand the way that dopamine works
+很有可能会发生
+there's a good chance that it's going
+你只能随波逐流
+to pull you out into the current of life.
+意味着世界中其他的因素  事物
+Meaning the rest of the world is going
+会来控制你释放多巴胺的时间表
+to control your dopamine schedules.
+因此  很高兴告诉你有关今天的信息
+So I'm excited to tell you about today's information.
+你将学习一些基础科学
+You're gonna learn some basic science.
+你将学到很多工具
+You're gonna learn a lot of tools
+我认为这些工具都适用
+and these tools I believe are applicable
+不管你是五岁的小孩
+whether or not you're five years old
+八岁  八十岁  或者任何年龄
+eight years old, 80 years older, anything in between.
+因此  让我们谈谈多巴胺
+So let's talk about dopamine.
+让我们来了解一些基本事实
+Let's get a few basic facts on the table.
+多巴胺在1950年代后期被发现
+Dopamine was discovered in the late 1950s
+它被发现为前体物  意思就是说
+and it was discovered as the precursor, meaning the thing
+制成肾上腺素或肾上腺素的前体化学物
+from which epinephrin or adrenaline is made.
+这非常重要
+Now that's fundamentally important
+因为这个分子我们现在称为多巴胺
+because this molecule we call dopamine nowadays,
+我们认为是奖励和愉悦的分子
+we think of as the molecule of reward and pleasure,
+但实际上是
+but actually it is the substrate
+制造肾上腺素的原料  而且在大脑中
+from which adrenaline is made and in the brain
+也是脑部肾上腺素的原料
+it's the substrate from which epinephrin is
+脑部和腺体的肾上腺素是一回事
+made epinephrin is the same thing as adrenaline
+只是在大脑中  我们称其为肾上腺素
+except in the brain we call it epinephrin.
+你可能还记得以前的播客中的肾上腺素
+Epinephrin as you may recall from previous podcasts,
+如果你记得  没问题  肾上腺素
+or if you haven't no problem epinephrin
+使我们能够采取行动
+allows us to get into action.
+它刺激心脏血管的变化
+It stimulates changes in the blood vessels, in the heart
+在器官和组织中
+in the organs and tissues
+让我们的身体偏向于运动
+of the body that bias us for movement.
+如果你想进一步了解肾上腺素
+And if you'd like to learn more about epinephrin
+你可以看一下有关控制压力的一集
+you can check out our episode on mastering stress.
+我们在那里谈论很多
+We talk a lot about it there.
+最初认为多巴胺只是
+Dopamine was initially thought to be just
+肾上腺素的基础
+the building block for epinephrin.
+确实是制成肾上腺素化学物质的基石
+And it is indeed the chemical building block from which epinephrin is made.
+但是  多巴胺可以独立完成许多工作
+However, dopamine does a lot of things on its own.
+它并不总是转化为肾上腺素
+It's not always converted to epinephrin.
+多巴胺从多个部位释放
+Dopamine is released from several sites
+存在与大脑和身体中  但也许是最重要的一个
+in the brain and body, but perhaps the most important one
+今天关于动机和奖励的讨论
+for today's discussion about motivation
+有时只是
+and reward is something that sometimes just
+称为“奖励通路”
+called the reward pathway
+给感兴趣的人补充一下  它有时被称为
+for the aficionado it's sometimes called
+中脑边缘的奖赏通路
+the mesolimbic reward pathway
+但这从根本上来说很重要
+but it's fundamentally important
+让你渴望采取行动
+to your desire to engage in action
+这还从另一个方面根本上来说很重要
+and it's fundamentally important
+就是使人们沉迷于物质或行为
+for people getting addicted to substances or behaviors.
+那么这是如何工作的呢？
+So how does this work?
+好  你有一个结构
+Well, you've got a structure
+在大脑深处称为VTA
+in the deep part of your brain called the VTA.
+它表示“蔡氏腹侧被盖区”
+It stands for ventral tegmental area.
+与往常一样  你不必记住这些名称
+As always you don't have to remember these names,
+但是如果你愿意  我会把它们提供给你
+but if you want to I offer them to you for food
+方便你进一步谷歌搜索  研究  阅读等
+further googling, research, reading, et cetera,
+VTA或腹侧被盖区包含的神经元
+the VTA or ventral tegmental area contains neurons that
+发送我们称为轴突的小导线  吐出多巴胺
+send what we call axons little wires that spit out dopamine
+在另一种结构称为伏核
+at a different structure called the nucleus accumbens
+VTA和伏隔核的两个结构
+and those two structures VTA and nucleus accumbens form
+确实是奖赏通路的核心机制
+really the core machinery of the reward pathway
+以及控制你任何事物动力的途径
+and the pathway that controls your motivation
+你可以将它们视为加速器
+for anything you can think of them like an accelerator
+他们让你倾向于采取行动
+they bias you for action.
+但是  在奖赏通路中  还有一个刹车
+However, within the reward pathway, there's also a break
+会对多巴胺进行破坏或限制
+the break or restriction on that dopamine
+控制多巴胺何时释放
+which controls when it's released
+以及释放多少  就是前额叶皮层
+and how much it's released is the prefrontal cortex.
+前额叶皮层是神经不动产
+The prefrontal cortex is the neural real estate right
+在额头后面
+behind your forehead.
+讨论了神经科学的许多方面
+It's discussed for so many aspects of neuroscience.
+你会听到有关决策的信息
+You hear about it for decision-making ,
+执行功能  用于计划等
+executive function ,for planning, et cetera.
+实际上  这是其中很多原因的原因
+And indeed it's responsible for a lot of those.
+这是真正独特的资产
+It's this really unique real estate
+我们都被赋予了人类的本分
+that we were all endowed with as humans,
+其他动物没有太多这种神经
+other animals don't have much of it.
+而我们有很多
+We have a lot of it
+而前额叶皮层起作用
+and that prefrontal cortex acts
+作为多巴胺系统的刹车
+as a brake on the dopamine system
+没有那样的刹车系统  你将变成一种
+without that break you would be purely
+纯粹寻求乐趣的动物
+a pleasure seeking animal.
+你将纯粹是寻求乐趣
+You would be purely pleasure seeking.
+你将没有任何依据来规范自己的行为
+You would have no basis for regulating your behavior
+在那些让自己感觉良好的事情上
+in terms of trying to get things that make you feel good.
+这将我们带到了  动机的一个重要特征面前
+And that brings us to the important feature of motivation
+动机是一个分为两个部分的过程
+which is that motivation is a two-part process
+这是关于平衡快乐与痛苦
+which is about balancing pleasure and pain.
+大多数人都在考虑动力
+Okay. Most people think about motivation
+奖励和多巴胺只是试图获得快乐
+and reward and dopamine is just trying to achieve pleasure.
+确实释放了多巴胺
+And indeed dopamine is released
+当我们体验到自己喜欢的事物时
+in the brain from the VTA at the* nucleus accumbens.
+多巴胺从VTA中 在大脑中  在伏核中释放
+When we experience things that we like.
+所以这是将其概念化的方法
+So here's the way to conceptualize this
+如果你可以将其内在化
+and if you can internalize this in your mind
+它将在你的生活中真正为你提供帮助
+it will really help you as you move through your day
+你可以了解自己为什么会受到激励
+trying to understand why you might be motivated
+或对某些事情没有动力
+or not motivated for certain things.
+因此  当你坐在那里时  没有在做太多事情
+So when you're just sitting around, not doing much
+也许你早上醒来就在床上
+of anything, maybe you wake up in bed in the morning.
+你正在考虑是否要起床
+You're thinking about getting up or not.
+这种奖赏通路正在释放多巴胺
+This reward pathway is releasing dopamine
+以每秒约三到四次的速度
+at a rate of about three or four times per second.
+这是一种低水平的“发射”
+It's kind of firing in a low level.
+当我说“发射”的时候  意思是神经元有电活动
+When I say firing me an electrical activity in the neurons.
+所以当你没什么事情  你会感觉很好  而不是沮丧
+So when you're just around, you feel okay, not depressed
+没有上进心  没有激动
+not highly motivated, not excited
+也许每秒三四次
+maybe three or four times a second.
+如果突然之间你对某件事感到兴奋
+If suddenly you get excited about something
+你期待某事  却未获得任何奖励
+you anticipate something, not receive an award
+但你会以预期到结果的方式感到兴奋
+but you get excited in an anticipatory way.
+然后发射率  活动率
+Then the rate of firing the rate of activity
+在这个奖赏通路中突然增加
+in this reward pathway suddenly increases
+大概到每秒30或40次
+to like 30 or 40 times
+它具有创造一种
+and it has the effect of creating a sense
+行动或渴望移动感觉的效果
+of action or desire to move
+朝着你渴望的方向发展
+in the direction of the thing that you're craving.
+实际上  可以说多巴胺是
+In fact, it's fair to say that dopamine is responsible
+为了匮乏和渴望负责任的化学物质
+for wanting and for craving,
+这与你平时听到它被谈论的内容
+and that's distinctly different
+是截然不同的
+from the way that you hear it talked about normally
+一般都说它涉及到乐趣
+which is that it's involved in pleasure.
+因此  没错  多巴胺随着姓生活释放
+So yes, dopamine is released in response to sex.
+响应食物时释放
+It's released in response to food.
+释放它是为了回应很多事情
+It's released in response to a lot of things
+但大部分释放是因为预期某件事
+but it's mostly released in anticipation
+渴望某件事
+and craving for a particular thing.
+它的作用是缩小我们关注范围
+It has the effect of narrowing our focus
+让我们只关注渴望的事情
+for the thing that we crave
+那件事可能像喝杯咖啡一样简单
+and that thing could be as simple as a cup of coffee.
+这可能与一次大型董事会会议一样重要
+It could be as important as a big board meeting.
+这可能是一个很大的期末考试
+It could be a big, final exam.
+可能是一个我们很高兴认识的人
+It could be a, the person that we're excited to meet
+多巴胺不在乎你的渴望
+or see dopamine doesn't care about what you're craving.
+它只是以特定的速率释放
+It just releases at a particular rate.
+实际上  如果我们退后一步
+In fact, if we just take a step back
+我们看一下科学数据
+and we look at the scientific data
+多巴胺释放增加了多少
+on how much the dopamine firing increases in response
+对待处理不同的事情  你会得到一个非常有趣的
+to different things, you get a pretty interesting window
+关于大脑的运作方式的窗口
+into how your brain works
+以及为什么你会受到激励或没有激励
+and why you might be motivated or not motivated.
+假设你饿了  或者你很期待
+Let's say you're hungry, or you're looking forward
+一杯咖啡  或者你将去见伴侣
+to a cup of coffee, or you're going to see your partner.
+好吧  你的多巴胺神经元一开始的放电速度很慢
+Well, your dopamine neurons are firing at a low rate
+直到你开始考虑想要的东西
+until you start thinking about the thing that you want
+或你期待的东西
+or the thing that you're looking forward to
+假设你想吃巧克力
+let's say you're craving chocolate
+或一顿美餐  一块牛排
+or a good meal, a steak
+如果你喜欢牛排或一盘美味的意大利面
+if you like steak or a nice plate of pasta
+如果你喜欢意大利面  当你吃那食物时
+if you like pasta, when you eat that food
+释放的多巴胺量
+the amount of dopamine that's released
+在这个奖赏通路中  比基线高出约50％
+in this reward pathway goes up about 50% above baseline.
+那里的神经元从
+The neurons there go from firing,
+每秒三到四次开始
+three or four times per second to,
+到每秒六到十次
+six or 10 times per second.
+真的要看情况
+It really depends
+这些不是确切的数字
+and these aren't exact numbers.
+但是如果我们要测量数量
+But if we were to measure the amount
+释放的多巴胺
+of dopamine that's released, it goes
+上升约50点
+up about 50 points, all right.
+性  这是根本的
+Sex, which is fundamental
+我们的物种的根本需求  延续和繁殖
+to our species, continuation and reproduction.
+尽管不一定是为了怀上孩子
+Although it doesn't have to be for conceiving children.
+性行为确实会释放多巴胺
+Sex does release dopamine
+它会使多巴胺水平提高约100％
+and it increases dopamine levels about a hundred percent.
+因此基本上使它们加倍
+So basically doubles them.
+香烟中的尼古丁
+Nicotine of the sort that's in cigarettes
+或有些人正在服用尼古丁补剂
+or some people are taking nicotine
+服用这些补剂
+in supplemental form increases the amount
+多巴胺比基线高约150％
+of dopamine about 150% above baseline.
+它还做一些我们之后会谈到的其他事情
+It also does some other things that we're gonna
+但是尼古丁疯狂提高多巴胺水平
+talk about, but nicotine does that
+这很有趣
+and it's kind of interesting
+尼古丁会增加你大脑中的多巴胺
+that nicotine would increase the amount
+几秒钟之内就能很快地增加
+of dopamine in your brain very quick, within seconds
+这是提高了150倍以上
+that's 150 times over baseline as opposed to sex
+性行为提高了100％  食物提高了50％
+which is a 100 percent above or food which is 50%.
+可卡因和苯丙胺增加量
+Cocaine and amphetamine increase the amount
+释放了一千倍的多巴胺
+of dopamine that's released a thousand fold
+在服用药物后约10秒钟内
+within about 10 seconds of consuming the drug.
+但是  只要考虑食物
+However, just thinking about food,
+关于性  关于尼古丁
+about sex, about nicotine
+如果你喜欢尼古丁或可卡因
+if you like nicotine or cocaine
+或苯丙胺可以增加量
+or amphetamine can increase the amount
+释放的多巴胺
+of dopamine that's released
+达到与实际吃到那个东西  释放的相同程度
+to the same degree as actually consuming the drug.
+取决于某些情况  例如
+Now it depends in some cases, for instance
+可卡因使用者  想要可卡因的瘾君子
+the cocaine user, the addict that wants cocaine
+不能只考虑可卡因
+can't just think about cocaine and increase
+释放的数量大约一千倍
+the amount of that's released about a thousand
+实际上要低得多
+fold is actually much lower
+但这足以使他们走上被激发的道路
+but it's just enough to put them on the motivation track
+因为他渴望那个特别的东西
+for it to crave that particular thing.
+你有理由会
+Now, there are reasons why you would
+有这样的大脑回路
+have brain circuitry like this.
+我的意思是说大脑回路
+I mean, brain circuitry
+这样不会演变成让你上瘾
+like this didn't evolve to get you addicted
+像这样的大脑通路进化
+brain circuitry like this evolved
+是为了激励行为
+in order to motivate behaviors
+朝着特定目标迈进
+toward particular goals,
+口渴时喝水
+water when you're thirsty ,
+性是为了繁殖
+sex in order to reproduce
+我们将谈论这种关系
+and we're gonna talk about the relationship
+雌激素和睾丸激素与多巴胺系统之间
+between estrogen and testosterone and the dopamine system
+因为那些激素实际上
+because those hormones actually
+偏向多巴胺释放
+bias dopamine to be released.
+这些东西和神经元的这些大脑区域
+These things and these brain areas in neurons
+是导致人类进化的历史的一部分
+were part of the evolutionary history that led
+让我们物种的延续
+to the continuation of our species.
+可卡因和安非他明之类的
+Things like cocaine and amphetamine are disastrous
+对于大多数人来说是灾难  因为它们的多巴胺真的很多
+for most people because they really so much dopamine
+它们创造了这些封闭的循环
+and they create these closed loops where people
+然后让人只渴望特定的东西  可卡因  苯丙胺
+then only crave the particular thing, cocaine, amphetamine
+导致大量的多巴胺释放
+that leads to those massive amounts of dopamine release.
+大多数事情不会释放出多巴胺水平
+Most things don't release that level of dopamine.
+现在有很多
+Now, nowadays there's a ton
+对社交媒体和视频游戏的兴趣
+of interest in social media and in video games
+确实进行了一些测量
+and there have been some measurements
+关于多巴胺的释放   视频游戏
+of the amount of dopamine released video games
+特别是电子游戏  更新率很高
+especially video games have a very high update
+始终保持新颖领域的速度
+speed where there's novel territory all the time
+新颖是多巴胺的一大刺激
+not novelty is a big stimulus of dopamine.
+那些可以在刺激释放多巴胺
+Those can release dopamine somewhere
+其程度介于尼古丁和可卡因之间
+between nicotine and cocaine.
+因此  多巴胺的释放量很高
+So very high levels of dopamine release.
+社交媒体是一个有趣的
+Social media is an interesting one
+因为多巴胺的量
+because the amount of dopamine
+随着登录社交平台的时间而变化
+that's released in response to logging
+最初在社交媒体上的多巴胺释放可能会很高
+onto social media initially could be quite high
+但似乎随着登陆的越多  有逐渐减少的趋势
+but it seems like likely that there's a taper in the amount
+但人们仍然上瘾
+of dopamine and yet people still get addicted.
+那么为什么  为什么我们会上瘾
+So why, why is it that we can get addicted
+对那些逐渐减少获得多巴胺量的东西
+to things that fail to get
+明明与最初相比
+to elicit the same massive amount
+减少了很多
+of pleasure that they initially did.
+沉迷于某事不只是关于
+Being addicted to something isn't just about
+感觉很好的事实
+the fact that it feels so good
+你想一遍又一遍地做
+that you wanna do it over and over again
+那是因为这种愉悦的痛苦平衡
+and that's because of this pleasure pain balance
+这是动力的基础
+that underlies motivation.
+所以让我们再仔细讲一点
+So let's look a little bit closer
+有关愉悦和痛苦的平衡
+at the pleasure pain balance because
+因为其中蕴含着一些工具和方法
+there in lies the tools
+让你能够控制动力
+for you to be able to control motivation
+朝着健康的事物发展  并避免那些
+toward healthy things and avoid motivated behaviors
+对具有破坏性的事情产生动机的行为
+towards things that are destructive for you.
+人们尝试新颖的行为
+There are a lot of reasons why
+有很多原因
+people try novel behaviors
+不管这些是drugs还是
+whether or not those are drugs or
+不管是冒险
+whether or not those are adventure,
+寻求刺激的事物  或者他们寻找新的伴侣
+thrill-seeking things or they seek out new partners
+他们上了一堂新课  你会注意到
+they take a new class as you'll notice.
+我对这些行为没有任何评判
+I'm not placing any judgment
+也没有去定义它们
+or value on these different behaviors.
+虽然我认为公平来讲
+Although I think it's fair to point
+对大多数人来说  成瘾性药物
+out that for most people addictive drugs
+像可卡因和安非他命一样具有破坏性
+like cocaine and amphetamine are very destructive.
+其实我们知道大约15%
+Actually we know that about 15
+到20％的人有遗传倾向
+to 20% of people have a genetic bias
+更容易上瘾  有时你会听到
+towards addiction , you sometimes hear
+第一次使用毒品
+that the first time that you use a drug
+你可能会沉迷于此
+you can become addicted to it.
+实际上  对于大多数事情而言  事实并非如此
+That's actually not been shown to be true for most things
+在大多数人中  但对于某些人而言  这确实是正确的
+in most people, but for some people that actually is true.
+我们稍后再讨论为什么
+And we'll talk a little bit later about why
+某些人在首次使用某种药物时
+certain people are heavily biased toward becoming addicts
+就很容易成为瘾君子
+on the first use of a particular drug.
+其实很有趣
+It's actually very interesting,
+它与是否
+it has everything to do with whether
+他们以前是否沉迷于其他东西
+or not they were formerly addicted to something else
+但无论如何  成瘾的工作方式
+but in any case, the way that addiction works
+以及动机的整体运作方式
+and the way that motivation works generally
+在非成瘾的环境中
+in the non-addictive setting is
+是当你期待某事时
+that when you anticipate something
+释放出少量的多巴胺  然后
+a little bit of dopamine is released, and then
+当你到达那个东西时  你参与进入那个东西
+when you reach that thing, you're engaged in that thing
+多巴胺的量甚至进一步增加
+the amount of dopamine goes up even further
+但是当你反复追求某种行为时
+but as you repeatedly pursue a behavior
+然后你反复从事某件事
+and you repeatedly engage with a particular thing
+假设你喜欢跑步
+let's say you love running
+或者你喜欢巧克力  因为你吃一块巧克力
+or you love chocolate as you eat a piece of chocolate
+真的  味道很好
+believe it or not, it tastes good
+然后从多巴胺的活化开始转移
+and then there's a shift away from activation of dopamine.
+还有其他释放出来的化学物质
+And there are other chemicals that are released
+引发低水平的痛苦感
+that trigger a low level sense of pain.
+现在你可能不会感觉到身体上的痛苦
+Now you might not feel it as physical pain
+但是你感到的渴望
+but the craving that you feel
+都是多巴胺的一部分
+is both one part dopamine
+另一部分是多巴胺的反面
+and one part, the mirror image of dopamine
+也就是痛苦
+which is the pain
+或不想再来一块巧克力
+or the craving for yet another piece of chocolate.
+这是非常重要的
+And this is a very important
+和多巴胺系统的微妙特征
+and subtle feature of the dopamine system.
+很少被讨论
+That's not often discussed.
+人们总是谈论快乐
+People always talk about just as pleasure.
+你喜欢社交媒体
+You love social media.
+所以它给你多巴胺  因此  你反复参与其中
+So it gives you dopamine. And so you engage in that.
+你喜欢巧克力  它会释放多巴胺
+You like chocolate, it releases dopamine.
+所以你一直吃
+So you do that.
+但是对于释放的多巴胺的每一点
+But for every bit of dopamine that's released
+还有另一条通路
+there's another circuit
+在创造你的大脑中...
+in the brain that creates you can think
+这有点像愉悦感的下降
+of it as kind of like a downward deflection in pleasure.
+所以你从事真正想要的事情
+So you engage in something you really want
+并且乐趣增加了
+and there's an increase in pleasure.
+然后你没有做任何事情
+And then without you doing anything
+有一个镜像
+there's a mirror image of that
+是愉悦感的向下偏移
+which is a downward deflection in pleasure
+我们称之为痛苦
+which we're calling pain.
+因此  尽享每一个快乐
+So for every bit of pleasure
+有镜象体验  痛苦
+there is a mirror image experience
+它们在时间上重叠得非常紧密
+of pain and they overlap in time very closely.
+所以有时候很难感觉到这一点
+So it's sometimes hard to sense this
+但是下次你吃的东西真的很好吃时  请尝试一下
+but try it the next time you eat something really delicious.
+你会咬一口
+You'll take a bite,
+尝起来很美味
+it tastes delicious
+经验的一部分就是想要更多的东西
+and part of the experience is to want more of that thing.
+任何愉快的经历都是如此
+This is true for any pleasureful experience.
+关于多巴胺的恶魔化部分是
+Now, the diabolical part about dopamine is that
+因为它的进化  并不是为了让你沉迷于
+because it didn't evolve in order to get you to indulge
+在越来越多的事物中  实际发生的是
+in more and more and more of something, what happens is
+最初  你会感到愉悦
+that initially you experience an increase in pleasure
+而且你也经历了这种
+and you also experience this increase
+不久之后痛苦的增长  与快乐交织在一起
+in pain shortly after or woven in
+快乐让你想要更多的东西
+with the pleasure that makes you want more of that thing.
+但是随后的每一次
+But with each subsequent time
+你遇到那件事
+that you encounter that thing
+你追求的巧克力
+that you pursue, the chocolate that
+你追逐的情人  每次
+you pursue the lover each time, the experience
+体验多巴胺的释放和愉悦感会有所降低
+of dopamine release and pleasure is diminished a little bit.
+特别可恶的事情就是
+And the diabolical thing is
+痛苦反应有所增加
+that the pain response is increased a little bit
+在寻求毒品这个行为中
+and this is best observed
+可以最好地证明这一点
+in the context of drug seeking behavior.
+第一次有人决定服用可卡因
+The first time someone decides to take cocaine
+或苯丙胺  他们可能出于无聊而这样做
+or amphetamine, they may do it out of boredom.
+他们可能会因为同伴压力而这样做
+They may do it out of peer pressure.
+他们可能这样做是为了减轻一些内在的感觉
+They may do it to relieve some internal sense.
+也许他们很无聊  或者他们只是兴奋
+Maybe they're bored, or they're just excited.
+也许他们对新奇事物的追求很高
+Maybe they're high in novel novelty seeking.
+人们有很多原因去尝试毒品
+There are a lot of reasons why people
+实在是太多了
+might try a drug far too many for us
+这里我们讲不完
+to get into our parks here.
+也许他们甚至不想吃
+Maybe they don't even wanna do it
+但是有人在一旁煽动他们
+but someone encourages them.
+他们将经历大量的多巴胺释放
+They will experience a huge dopamine release
+他们会感觉很好
+and they will feel likely very good.
+但是  下次他们服用时
+However, the next time they take it
+感觉不会那么好
+it won't feel quite as good.
+而且第三次感觉也不会很好
+And it won't feel even as good the third time
+或第四次  但痛苦的程度
+or the next time, but the amount of pain
+他们渴望的药物量
+the amount of craving that they experience
+会随着时间增加
+for the drug will increase over time.
+我们追求快乐的大部分情况
+So much of our pursuit of pleasure
+仅仅是为了减轻渴望的痛苦
+is simply to reduce the pain of craving.
+因此  下次你体验到一些东西时
+So the next time you experienced something,
+假设你真的很喜欢
+you really like I don't wanna
+我不想带你摆脱那种经历
+take you out of that experience
+但是注意这一点非常重要
+but it's really important that you notice this
+如果你真的很喜欢
+that if there's something you really enjoy
+这种享受的一部分是
+part of that enjoyment is
+关于更多的东西的期望和缺乏
+about the anticipation and wanting of more of that thing
+这就是行动中的痛苦系统
+and that's the pain system in action.
+这样我们就可以区分多巴胺
+And so we can distinguish between dopamine
+这真的是带来快乐
+which is really about pleasure and dopamine
+多巴胺实际上让我们追求更多动力的动力
+which is really about motivation to pursue more
+为了减轻或排除将来的痛苦
+in order to relieve or exclude future pain.
+让我重复一遍
+Let me repeat that.
+多巴胺与享乐并没有那么多
+Dopamine isn't as much about pleasure, as much
+因为它是关于动力和追求更多的愿望
+as it is about motivation and desire to pursue more
+为了减轻痛苦
+in order to reduce the amount of pain
+现在我们在谈论痛苦
+and we are now talking about pain
+作为一种心理上的痛苦和渴望
+as a psychological pain and a craving
+虽然很想念情人的人
+although people that miss a lover very badly
+或真的非常渴望食物
+or that really crave a food very badly,
+或沉迷于药物但无法使用
+or that are addicted to a drug and can't access,
+都会体会到这种渴望
+it will experience that as a physical craving
+以及精神上的渴望
+and a mental craving the body and brain
+身体和大脑以这种方式链接
+are linked in this way.
+几乎  他们会将其描述为痛苦的
+It's almost, they'll describe it as painful.
+他们渴求
+They yearn for it.
+我认为“渴望”一词非常有价值
+And I think the word yearning is one that's very valuable
+在这种情况下  因为渴望似乎
+in this context, because yearning seems to
+包括了全身体验  而不仅仅是想要
+include a whole body experience more than just wanting
+想要可能只是在脑海中浮现
+which could just be up in the mind.
+所以你对某事的渴望是成比例的
+So your desire for something is proportional
+沉迷于那件事有多快乐
+to how pleasureful it is to indulge in that thing
+以及你无法得到它时有多少痛苦
+but also how much pain you experience when
+两者成比例关系
+you don't have it.
+你可以开始让自己去想想看
+And you can now start to let your mind wander
+各种成瘾的例子
+into all sorts of examples of addictions
+或你碰巧喜欢的事情
+or things that you happen to like,
+我将使用有时在这里使用的示例
+I'll use the example that I sometimes use on here
+这是我对牛角面包的热爱
+which is my love of croissants.
+尽管你们当中有人指出
+Although several of you pointed out
+这叫做可颂
+these are called croissant
+但这听起来像是我在说法语
+but then it sounds like I'm trying to speak French
+我小时候总是尝试这样做
+and I always tried to do that when I was a kid
+我去了一所双语学校  但失败了
+and I went to a bilingual school and it failed
+当然现在也会失败
+then it's gonna fail now.
+所以我要称它们为牛角包
+So I'm gonna call them croissants.
+非常好吃
+They're delicious.
+我爱它们  一种非常好的食物  使我想吃六个
+I love them a really good one makes me wanna eat six.
+这是真的
+It's true.
+我认为我的冲动控制能力很好
+I have pretty good impulse control, I think
+但这让我想吃六个
+but it makes me wanna eat six.
+我尝了  很香
+I taste it and it tastes so delicious
+除非我真的强迫自己去体验
+and unless I really force myself to experience
+它在我嘴里的味道
+the taste of it in my mouth
+以及我现在多么饿
+and how flaky I'm getting hungry for it right now
+美味的牛角面包主要是味道
+and delicious the croissant is mostly the tastes
+那个牛角包的味道  让我想吃更多的牛角包
+of that croissant makes me want to eat more croissants.
+最终血糖上升
+Now, eventually blood sugar goes up
+达到饱腹感  等等
+satiety is reached, et cetera.
+那会发生什么呢？
+What happens then?
+什么是满足感和饱足感？
+What is satisfaction and satiety about?
+好吧  那是一个单独的神经调节剂
+Well, that's a separate neuromodulator.
+那是关于神经调节剂血清素
+That's about the neuromodulator serotonin.
+还有催产素
+It's about oxytocin.
+这是与激素系统有关的
+It's about a hormone system that involves something
+叫做催乳素
+called prolactin.
+所以我们要谈论
+So we're gonna talk about
+所有这些  都在一本书里
+all of those in the book
+《the Molecule of More》 一本精彩著作
+"the Molecule of More" wonderful book
+那些被描述为现在和现在的分子
+those were described as the here and now molecules
+那些让你体验到自己的感觉的人
+the ones that allow you to experience your sensations
+当下的快乐
+and pleasure in the present
+并且大脑不再向未来投射
+and for which the brain stops projecting into the future.
+所以现在让我们谈谈渴望
+So now let's talk about craving
+这些所谓的时空分子
+and these so-called here and now molecules
+以及那些人如何参与
+and how those engage in a kind
+的推拉平衡  这将使你不
+of push pull balance that will allow you to not
+只是觉得自己更有动力  还喜欢享受事物
+just feel more motivated, but also to enjoy the things
+在生活中你追求的程度更高
+in life that you are pursuing to a much greater degree.
+我们在一个区域有神经元
+We have neurons in an area
+我们的大脑被称为Raphe RAPHE
+of our brain called the raphe R-A-P-H-E
+Raphe释放血清素
+The raphe releases serotonin
+在大脑的不同地方
+at different places in the brain.
+血清素是幸福的分子
+Serotonin is the molecule of bliss
+满足于你已经拥有的东西
+and contentment for what you already have.
+我之前谈到过外部感受
+I've talked before about exteroception,
+外部感受是对外界的关注
+exteroception is a focus on the outside world,
+皮肤以外的一切
+everything beyond the confines of your skin.
+我也谈到了注意力的互感
+I've also talked about interoception of focus
+内部发生的事情
+on things that are happening internally
+在你的皮肤包裹范围内
+within the confines of your skin.
+可以认为多巴胺和血清素
+Dopamine and serotonin can be thought
+与外部感受有关
+of as related to extra reception.
+多巴胺使我们专注于外部事物
+Dopamine makes us focused on things outside us
+这超出了我们所谓的个人空间
+that are beyond what we call our personal space
+我们实际上必须进行一些活动
+where we actually have to move
+并采取行动以实现目标
+and take action in order to achieve things
+和血清素一般与
+and serotonin in general has to do with
+我们现在手边立即发生的事情有关
+the things that are in our immediate here and now,
+因此它被称为
+hence the description
+现在/当下的分子
+of these as the here and now molecules.
+所以有趣的是指出身体
+So it's interesting to point out that the body
+大脑可以引导注意力
+and the brain can direct its attention
+面向我们外部或内部的事物
+towards things outside us or inside us
+或将我们的注意力分散在这些之间
+or split our attention between those.
+我在上一个播客中谈到了这一点
+I talked about this in a previous podcast
+但是  如果你没有看到它  也没问题
+but if you didn't see it, no problem.
+只要了解多巴胺会使我们产生偏见
+Just understand that dopamine biases us
+去思考我们所没有的
+toward thinking about what we don't have,
+而血清素和一些相关分子
+whereas serotonin and some of the related molecules
+像是内源性大麻素
+like the endocannabinoids if you picked up on
+大麻素这个词  没错  就像大麻
+the word cannabinoid, yes it's like cannabis
+因为大麻依附于内源性大麻素受体
+because cannabis attaches to endocannabinoids receptors
+而内源性大麻素是
+and the endocannabinoids are receptors that
+和化学物质  你的大麻素
+and chemicals that the cannabinoids that you
+很自然地让他们参与到诸如遗忘之类的事情中
+naturally make that are involved in things like forgetting.
+这不是巧合
+It's not a coincidence
+那些抽烟的人不会有最可怕的记忆
+that pot smokers don't have the most terrific memory.
+你可能知道一些有美好回忆的人
+You may know a few that have great memories
+但多数情况下  他们更有可能会有更好的记忆
+but chances are, they would have even better memories
+如果他们不是抽烟的人
+if they weren't pot smokers
+但是你让这些分子
+but you make these molecules that bind
+与让你感到幸福的受体结合
+to these receptors that make you feel kinda blissed
+都是在当下 立刻
+out and content in the present.
+这些是我们中存在的受体
+Those are receptors that exist in us
+不是为了食用四氢大麻酚或大麻  而是
+not for sake of consuming THC or marijuana, but
+为了结合我们天然的内源性大麻素
+for sake of binding of our natural endogenous cannabinoids.
+所以你有这两个系统
+So you've got these two systems
+他们有点像推拉
+they're kind of like a push pull
+如果你想说一本书
+and if you were to say in the book
+《正念：此刻是一枝花》  是乔·卡巴·金（Jon Kabat-Zinn）写的
+or wherever you go there you are Jon Kabat-Zinn talks
+关于这种冥想练习
+about this meditation practice.
+这与大多数冥想练习不同
+That's different than most meditation practices
+你吃一个杏仁
+where you eat one almond
+然后把所有的注意力都集中在杏仁上
+and you focus all of your attention on the almond
+杏仁的味道  杏仁的质地
+the taste of the almond, the texture of the almond.
+那真的是一种正念练习
+That's really a mindfulness practice
+旨在尝试采取一种行为
+that's geared towards trying to take a behavior
+通常是追求  通常是喂养
+which is normally about pursuit, normally feeding
+因为我们要因为多巴胺而进食
+as we were going to engage in feeding because of dopamine
+我们追求更多的食物
+we pursue more of a food
+因为那种我之前讲过的愉悦和痛苦关系
+because of that pleasure pain relationship
+注意力放在一个杏仁上
+I talked about before the focus on the one almond
+或变得非常非常注重当下
+or becoming very present
+通常是将一种额外追求的行为
+in any behavior that normally would be a kind
+转变为一种
+of extra susceptive pursuit behavior
+专注于当下的行为
+and bring it into the here
+这就是正念群体真正簇拥的一个概念
+and now that's a mental trick or a mental task
+也就是精神上的一种方法  一种任务
+that the mindfulness community has really embraced
+为了尝试
+in order to try
+从你已经拥有的东西中  产生乐趣
+and create increased pleasure for what you already have.
+这其实是在努力实现转变
+It's really trying to accomplish a shift
+从多巴胺释放转变为
+from dopamine being released to serotonin
+在大麻素系统中血清素的释放  在你练习冥想之后
+in the cannabinoid system, being involved in that behavior.
+因此  如果你对正念感兴趣
+So if you're interested in mindfulness
+这是我之前在本播客中谈到的
+which is something I've talked about before in this podcast
+我有点开玩笑的笑话
+and I sort of made some off the cuff jokes
+关于正念的对立面是无意识
+about the opposite of mindfulness being mindlessness.
+正念是广阔的空间
+Mindfulness is a vast space
+那是就是正念练习
+that is a mindful practice that a lot
+很多人都在练习
+of people have engaged in.
+确实可以给你
+And indeed it can give you deeper appreciation
+对于已经拥有的东西更深刻的欣赏
+for things that you already have.
+多巴胺有
+Dopamine has the quality
+让人们疯狂地追求事物的作用
+of making people kind of rabidly in pursuit of things.
+看那些嗨的人
+Look at people who are high
+吸食可卡因或苯丙胺
+on cocaine or amphetamine, and they are almost
+他们就完全是外部接受  药物  例如大麻  阿片类药物
+entirely extra receptive drugs like marijuana, the opioids
+任何真正打击血清素系统的东西
+anything that really hits the serotonin system hard
+倾向于使人变得昏昏欲睡
+tend to make people rather lethargic
+和满足于保持原样的位置
+and content to stay exactly where they are.
+他们根本不想追求太多
+They don't wanna pursue much at all.
+偶尔当人们抽大麻或食用四氢大麻酚时
+Occasionally when people smoke marijuana or consume THC
+他们的胃口越来越大
+their appetite goes way up
+他们真的很想吃食物
+and they really wanna consume food.
+那是因为它对胰岛素的作用及其对血糖的作用
+That's because of its effects on insulin and its effects
+这是一个稍微分开的问题
+on blood sugar, which is a slightly separate matter.
+但是由于你们中的一些人  也许你关心这些
+But since some of you, probably your minds
+可能有过那些经历
+might've gone to those either experiences
+或看过有关大麻作用的报告  这就是为什么会产生这种影响的原因
+or reports of what pot does, that's why it does that.
+所以你有这些分子
+So you've got these molecules
+像多巴胺  让你专注
+like dopamine that make you focused
+关于你想要的东西和你渴望的东西
+on the things you want and the things you crave.
+然后你有了使你满足的分子
+And then you've got the molecules that make you content
+与你所拥有的
+with what you have.
+所以最重要的事情  也许是在创造健康
+So the most important thing, perhaps in creating a healthy
+情感环境是要保持平衡
+emotional landscape is to have a balance
+在这两个神经调节系统之间
+between these two neuromodulator systems
+总是期待的人
+people that are always in anticipation
+有欲望和追求  对于追求目标而言是很棒的
+and desire and seeking that's wonderful for pursuing goals.
+但是  对于想要享受生活来说太糟糕了
+However, it's terrible for enjoying life
+那些人其实很
+and actually those people are actually quite
+难以相处
+difficult to be around.
+有一定的  几乎是社会性的因素
+There's a certain, almost sociopathic element
+给所谓的多巴胺能亢进的人
+to people who are what they call hyper dopaminergic.
+总是处于多巴胺能水平的人
+People who are always on the dopaminergic scale
+到他们一直追求目标的地步
+to the point where they are always pursuing goals.
+实际上  这些人被称为
+In fact, those people are known to be
+至少在心理方面
+at least in the psychological spectrum.
+他们可以是非常具有操纵性的   多巴胺
+They can be very manipulative dopamine
+追求某件事并不一定
+and the pursuit of something doesn't necessarily
+必须是高能量和高强度的
+have to be high energy and intense from the outside.
+当你从外面观察时
+When you observe it from the outside.
+实际上  有些人会操纵
+In fact, there are people who will manipulate
+为了得到他们想要的
+in order to get what they want.
+这表明他们都具有高水平的多巴胺释放
+This has been shown who have high levels of dopamine release
+但是他们已经学到了一种
+in their brain, but they've learned that a kind
+被动操纵是最好的操纵方式
+of passive manipulation is the best way to maneuver
+在特定的环境中
+through a particular environment.
+我不想太关注
+I don't wanna focus too much
+这种社会病  因为这些都是极端的例子
+on sociopathy because those are kind of extreme examples
+但这只是一些表明确定目标的人
+but it just goes to show that people who identify a goal
+并意识到他们需要采取的一系列步骤
+and realize the series of steps that they need to take
+为了实现这个目标
+in order to achieve that goal can either do it
+他们会通过道德手段或非道德手段
+through ethical means or non ethical means they can do it
+他们会积极的追求
+through active pursuit, being the kind
+成为那种总是大声宣称自己目标的人
+of type a person that's always declaring their goals
+把目标发在Instagram上
+and going after it, posting it on Instagram
+告诉每个人 让其他人来监督
+telling everybody about it, try and recruit others.
+有那种表型
+There's that phenotype
+有那种多巴胺的特征
+there's that kind of signature of dopamine
+然后有些人
+and then there are the people that wanna
+他们如果要得到他们想要的
+get what they want, and they're doing it
+就是始终为他人服务
+by always serving other people
+时刻照顾其他人的需求
+by always taking care of everybody else's needs
+试图实现自己的目标的时候
+by always trying to accomplish their goals
+但至少通过一种
+but through a mode that at least
+外界看起来更被动的模式
+from the outside seems more passive
+或更多的是关注在支持他人上
+or more about supporting others.
+这两种人不分好坏
+Neither of these are good or bad.
+那是因为多巴胺只是一个分子
+And that's because dopamine is a molecule.
+它不管你怎么去达到目标
+It doesn't care how you reach your goals.
+它只在乎你要达到这个目标
+It only cares that you reach your goals
+因为内在的感觉又是一种温和的快乐
+because the internal sensation is one again of mild pleasure
+又有点痛苦  但如果你达不到这些目标
+a little bit of pain, although more pain over time.
+随着时间的流逝会越来越痛苦
+If you're not reaching those goals
+它会让你不去关注此刻和当下
+and it takes you away from the here and now.
+所以说到这里
+So at about this point in the podcast
+我猜你已经在想  好极了
+I'm guessing that some you are thinking, okay, great.
+那我想要更多的多巴胺
+I want more dopamine.
+我想更有动力
+I want to be more motivated.
+我不想拖延
+I don't wanna procrastinate as much
+同时我还希望能够体验生活
+and I want to be able to experience life.
+我也希望这些分子在某些特定时刻能被释放
+I want these here and now molecules to be released as well.
+好吧  有一种方法可以做到  但是你必须了解
+Well, there is a way to do that, but you have to
+这跟拖延症的原因不是一回事
+understand the source of procrastination is not one thing.
+基本上有两种拖延症
+There are basically two kinds
+研究说拖延症患者分为两种
+of procrastinators or so says the research.
+第一类人实际上是
+The first kind are people that actually really
+他很享受即将到来的DDL带来的压力
+enjoy the stress of the impending deadline.
+这是他们采取行动的唯一途径
+It's the only way they can get into action.
+这些人真的很喜欢
+These are people that really like the feeling of
+一个小时就要到DDL了
+something being due in an hour and how activated
+然后激活敏锐而专注的感觉
+and sharp and focused that makes them feel.
+那些人是使用了肾上腺素系统
+Those people are people that are tapping
+和压力系统以获得好结果
+into the epinephrin system, the stress system
+压力开始变大
+and for which the stress really tightens
+为他们创造了
+their ability to see it creates that
+苏打水吸管般的“通道视野”
+soda straw view of the world.
+它会在身体上引出一个想要动的因素
+It creates an action element
+让他们觉得自己想赶快动起来
+in the body that makes them feel like they wanna move.
+它确实消除了他们的所有干扰
+It really eliminates all the distractions for them.
+所以他们实际上是在利用压力  内在压力
+So they're actually leveraging stress internal stress
+为了达到他们在其他情况下无法做到的状态
+in order to achieve a state that they can't seem to otherwise achieve.
+我不会告诉你
+I won't tell you what to do
+如何去克服各种拖延症
+in order to overcome all kinds of procrastination
+但从逻辑的角度来看  这是有道理的
+but from a logical perspective, it makes sense
+因此  如果让你们去考虑
+therefore, for those kinds of people to think
+如何用其他的方法
+about other ways that they can get their system
+让你们的系统进入激活状态
+into activation, I've talked
+在以前的播客中对此进行了讨论
+about this in previous podcasts
+其中一些工具方法可能是
+but a couple of those tools might be the
+我们所谓的超氧呼吸
+what we called super oxygenation breathing
+我承认  这个方法也并不是每次都适用
+which I admit is not always super oxygenating.
+所以这就是  如果不想让它消耗任何东西
+So this would be if didn't want it to consume anything.
+可能是25-30个周期的
+This could be 25 or 30 cycles of
+深吸气和呼气
+in deep inhales and exhales.
+它可能会产生一些焦虑和低水平的压力
+It's likely to create some anxiety and a low level stress.
+如果你是容易发生恐慌发作的人
+If you're someone who's prone to panic attacks
+我不推荐这样做  但这方法很简单
+I wouldn't recommend this, but it's pretty straight forward.
+它将肾上腺素部署到你的系统中
+It will deploy adrenaline into your system.
+你会发现你的视野开始集中
+And you will find that your visual field is focused
+这样你就可以工作了
+and you will be able to work
+集中完注意力之后  你就等一会儿
+and focus better than if you just kinda waited around
+等待激发你的冲动
+for some wave of motivation to wash over you.
+通常你等到
+Normally you're waiting
+那个DDL到来之前
+for that deadline to come into sight
+然后这就是刺激
+and then that's what the stimulus is.
+但你可以自行引导肾上腺素释放
+But you can self-direct adrenaline release
+不摄取任何东西
+without ingesting anything.
+你可以摄取咖啡  咖啡因
+You can also ingest coffee, caffeine
+或拿铁  或类似的东西
+or Mate or something like that, which is what
+这也就是为什么我经常喜欢含咖啡因的咖啡的原因
+I prefer very often to coffee, which has caffeine.
+咖啡因确实会让你释放低水平的多巴胺
+Caffeine does release dopamine at low levels
+目前尚不清楚它会释放多少多巴胺
+how much it releases dopamine it isn't clear.
+但似乎确实增加了这些神经元在伏隔核的放电
+It seems to increase firing in these neurons
+大约增加30％
+in the nucleus accumbens by about 30%
+这是一个很低的水平
+which is a pretty low level,
+但它会给咖啡因敏感的人引起躁动
+but it can create agitation so for
+这可能是个问题
+caffeine sensitive people, that could be a problem.
+我以前谈论过事情
+I've talked before about things
+像L-酪氨酸是多巴胺  或刺毛黧豆的前体
+like L tyrosine the precursor to dopamine or Mucuna Purina.
+我在上一集中谈到了
+I talked about that in the last episode
+但是如果你没有看  我稍微提一下
+but if you didn't see that, just to remind you
+L-酪氨酸存在于红肉中
+L tyrosine is present in red meats,
+在某些坚果和L-酪氨酸
+it's in certain nuts and L tyrosine
+是多巴胺的前体
+is the precursor to dopamine.
+你可以补充L-酪氨酸
+You can supplement L tyrosine.
+如果愿意的话  你会在多巴胺方面受到很大的影响
+If you like, you will get a big inflection in dopamine
+但与此相关的是突然下降 崩溃
+but there is a crash associated with it.
+但是  这将在短期内增加动力
+However, it will increase motivation in the short term
+不是在建议任何人这样做
+not suggesting anyone do this.
+我想说清楚 我经常说的话
+I wanna be very clear to say what I always say.
+我不是医生
+I'm not a doctor.
+我不开处方
+I don't prescribe anything.
+我是教授
+I'm a professor.
+我讲道理
+I profess things.
+你必须知道这些东西是否合适你
+You have to know whether or not these things are appropriate
+是否可以改善你的身心健康
+for your mental and physical health or not.
+因此  你需要咨询医生
+So you need to consult a doctor.
+例如  患有精神分裂症的人
+For instance, people who suffer from schizotypal
+或精神分裂症或躁狂症
+or schizophrenia or mania should probably not
+可能不应该服用增加其多巴胺水平的补品
+be taking supplements that increase their dopamine levels.
+如果你无法提高集中水平
+Now, if you can't increase your level
+和你的警觉水平
+of focus and your level of alertness
+以及良好呼吸的动机水平
+and your level of motivation using breathing well
+那么可能还会有其他事情在起作用
+then there might be something else at play.
+还有其他拖延者
+There are other procrastinators
+为此  他们根本没有释放出足够的多巴胺
+for which they simply are not releasing enough dopamine.
+他们没有制造足够的多巴胺
+They're not making enough dopamine.
+对于这部分人
+And for those people
+有很多可以增加多巴胺的东西
+there are a variety of things that can increase dopamine.
+我建议你与精神科医生交谈
+I do suggest you talk to a psychiatrist
+或我谈论过刺毛黧豆
+or doctor I've talked about Mucuna Purina,
+里面99.9％ 都是左旋多巴  也就是多巴胺的前体
+which is 99.9%. L-DOPA the precursor to dopamine.
+所以有些人在
+So there are people that do much better when
+他们服用会增加多巴胺水平的东西
+they take things that increase their dopamine levels.
+有抗抑郁药  如安非他酮  bupropion
+There are antidepressants like Wellbutrin Pru prior own
+后者是它的别称
+which increase is the other name for it
+增加了多巴胺和肾上腺素
+which increased dopamine and epinephrin,
+它会增加癫痫发作的风险
+it can increase risk of epileptic attacks
+如果你是癫痫病患者
+if you're epileptic.
+再说一遍  你必须和你的医生谈
+So again, you have to talk to your doctor
+但它们会增加多巴胺  动机和注意力
+but they will increase dopamine and motivation and focus.
+但是  如果你回想一下
+However, if you think back
+我们之前关于多巴胺的讨论
+to our earlier discussion about dopamine, dopamine
+如果多巴胺很高  会带来愉悦感
+if it's very high, creates a sense of pleasure
+以及对更多东西的渴望
+and the desire for more,
+这样你也可以成为那种
+so you can also become a person
+永远得不到满足的人
+for which enough is never enough.
+多巴胺真正想要的  唯一一件事就是
+The only thing that dopamine really wants is more
+更多释放多巴胺的东西
+of the thing that releases dopamine
+多巴胺的变化如此之大
+and so big inflections in dopamine,
+他们是否来自可卡因
+whether or not they come from cocaine
+或者它们是否来自补品
+or whether or not they come from a supplementation,
+咖啡因运动研究方案
+caffeine exercise study regime
+只会让你想要更多的东西
+will just make you want more of something
+我们都听说过成长心态
+and we've all heard before of growth mindset
+我同事有一个惊人的发现
+this incredible discovery of my colleague,
+卡罗尔·德威克（Carol Dweck）发现 一些积极的心态
+Carol Dweck where some of these positive mindsets
+心理学界提出的
+that the psychology community has put forth
+对于追求目标
+as really good for pursuit of goals
+和追求需要长时间努力的事情真的很好
+and pursuit of things that require long bouts of effort.
+好吧  如果你可以学着把多巴胺加到心理上的这个过程
+Well, it's wonderful if you can learn to attach dopamine
+那就太好了但是
+to that process psychologically, but
+如果你开始增加量
+if you're starting to augment the amount
+增加多巴胺量
+of dopamine increase the amount
+通过补剂和处方药之类的
+of dopamine through things like supplementation
+那么会发生的是
+and prescription drugs what's gonna happen is
+你不仅需要追求更多
+you're not only gonna need to pursue more
+还有更多
+and more of the sorts of things
+与多巴胺有关的东西
+that are associated with the dopamine.
+因此  更多的学习  更多的运动
+So more doing more studying, more sport
+更多的追求  更高的山  更多的钱
+more pursuit, higher mountains, more money,
+还有更多  但我们知道随着时间的流逝
+more whatever but we know that over time,
+这种追求的反面
+the mirror image of that
+缺乏成就感的痛苦也会加剧
+the pain of lack of accomplishment will also increase.
+这就是愉悦痛苦的关系
+This is the pleasure pain relationship
+我们之前讨论过的
+that we talked about earlier.
+等一下  我要谈谈
+So in a few moments, I'm gonna talk
+关于如何考虑和调配健康的多巴胺时间表
+about how to think about healthy dopamine schedules
+但我想先退一步
+but I just wanna take a step back for a second
+谈谈Dolby的反面
+and talk a little bit about the flip side of Dolby
+以及所谓的多巴胺崩溃之后会发生什么
+and what happens after this so-called dopamine crash
+我们体内有着什么机制
+what mechanisms are installed in us,
+因为真的
+because believe it or not,
+我们人体内已有的机制
+there are mechanisms that are installed in all of us that really put the complete
+会将多巴胺完全中断  为什么会发生这种事情
+and total break on dopamine, why they're there
+以及它们的作用是什么  因为你之前已经经历过这些
+and what they do because you've experienced these before
+实际上  你可以通过多种方式进行导航
+and there are actually ways that you can navigate them.
+这些多巴胺的崩溃是
+These dopamine crashes are these intentional
+专门有的多巴胺抑制机制
+dopamine suppression mechanisms
+为了能启动更健康的多巴胺时间表
+in order to leverage healthier dopamine schedules
+并让你更有动力
+and to feel more motivated.
+也许在所有人类中最基本的机制之一
+Perhaps one of the most fundamental mechanisms
+就是神经回路中
+in all humans is the neuro circuitry designed
+为了寻找伴侣并繁殖的设计
+for seeking out mates and for reproduction
+那是因为任何一种物种都要延续
+and that's because the continuation
+是任何一种物种的主要驱动力
+of any one species is the primary driver for any species.
+这就是现实
+That's just the reality.
+我在这里去掉所有上下文  所有语境
+Now I'm removing all context here.
+所以  无论我怎么说
+So whatever I say, of course, it's
+在双方适合的年龄背景下
+on a backdrop of consensual age
+适当的物种  适当的环境
+appropriate species, appropriate context,
+所有条件都合适
+appropriate all of that.
+这与生殖和性的社会学无关
+This is not about the sociology of reproduction and sex.
+这是从生物学出发
+This is about the biology,
+男女性别的生物学
+the biology of sex in males and females
+XX染色体  XY
+doesn't matter if it's XX chromosome X
+XX  YX  YY  不管这些
+Y chromosome X, X, Y X, Y Y doesn't matter.
+现实情况是在预期到性和生殖的时候
+The reality is that dopamine is released
+多巴胺被释放
+on anticipation and consummation of sex and reproduction.
+高潮后  无论染色体是什么
+And after orgasm, regardless of chromosomal background
+多巴胺急剧减少
+there's a dramatic decrease in dopamine
+并增加一种叫做催乳激素的激素
+and an increase in a hormone called prolactin.
+那么  催乳素与
+Now, prolactin is associated
+在哺乳期的母亲的乳汁有关
+with milk let-down in lactating mothers.
+它也存在于男性和普通人群中
+It's also present in males and in general
+催乳素会使人产生昏昏欲睡的感觉
+prolactin creates a sense of lethargy of stillness
+并且缺乏移动的欲望
+and lack of desire to move
+缺乏追求更多的欲望
+and lack of desire to pursue more
+无论释放多少多巴胺
+of whatever released the dopamine.
+催乳素实际上设定了
+Prolactin in fact, sets the refractory period
+雄性再次交配的能力的不应期
+on a male's ability to mate again
+这边的个人差异将有很大的不同
+now this is gonna vary tremendously from individual to individual.
+有数据显示
+It also can, there are data showing
+从不同的配对中
+that it can vary tremendously
+它也可以有很大的不同
+from mate pairing to mate pairing the number
+让多巴胺释放的第一件事是新颖
+one thing that releases dopamine is novelty
+确实缩短了不应期
+and it is true that the refractory period is shortened
+通过引进新配偶
+by the introduction of novel mates.
+第一次试验
+This was first shown in a kind
+通过鸡来进行测量的经典实验
+of classic experiment in of all things in chickens.
+这称为柯立芝效应
+This is called the Coolidge effect
+故事是这样
+and the story is the story goes
+我相信这是一个真实的故事
+and I believe it's a true story,
+实际上它被放在所有神经内分泌学教科书中
+it's actually in all the neuroendocrinology textbooks.
+所以我相信这是真的
+So I believe it's true is
+总统卡尔文·柯立芝（Calvin Coolidge）
+that president Calvin Coolidge
+在参观养鸡场
+was visiting a chicken farm.
+他们被带着参观
+They were is being taken around and the person who was
+领队主持着  向他们展示了一只公鸡
+hosting the visit showed them
+柯立芝和他的妻子
+a rooster that was Coolidge and his wife
+在访问中  说
+were on the visit and said
+“这只公鸡每天交配成千上万次”
+"this rooster copulates thousands of times per day."
+然后柯立芝太太
+And Mrs. Coolidge apparently
+很明显推了推柯立芝总统
+kind of elbowed president Coolidge
+并说：“啊  你听到了吗”
+and said, "ah, you hear that" kind of like pointing
+看到这只公鸡的威力  柯立芝说  “是的
+out the prowess of this rooster and Coolidge said," yeah
+但是我问你一个问题
+but let me ask you a question,
+是同一只母鸡还是不同的母鸡”
+same hen or different hens."
+结果原来是不同的母鸡
+It turns out it was different hens.
+其中的原因是
+And the reason is the introduction
+引入一个新的伴侣会增加多巴胺水平
+of a novel mate increases dopamine levels.
+有趣的是
+And what's interesting about this is that
+交配猴催乳素达到高点
+after copulation prolactin goes through the roof
+并防止进一步的交配后多巴胺的崩溃
+and prevents further copulation dopamine crashes
+但是引入某种新颖性可以缩短这一过程
+but the introduction of some sort of novelty shortens this.
+我不是在告诉人们
+Now this is not a ploy for people
+需要经常改变伴侣
+to change mates often what this
+而是想说  这是关于多巴胺和催乳激素系统的故事
+is a story about the dopamine and prolactin system
+在人类中也存在
+that also exists in humans.
+实际上某些群体的人们
+Now, there are actually things that people in certain communities take
+为了绕开这些不应期
+in order to bypass these refractory periods.
+有了增加多巴胺的药物
+There's actually drugs that increase dopamine
+去抑制催乳激素  反过来也有
+suppress prolactin and vice versa.
+实际上  还有另一种抑制催乳素的方法
+There's actually another way to suppress prolactin.
+维生素B6是一种相当有效的催乳素抑制剂  跟锌一样
+Vitamin B6 is a fairly potent prolactin inhibitor as a zinc.
+如果你去查一下资料
+And if you look out there
+在文献中  对于那些
+in the literature and for those either
+在健康和体育表演的社区中
+in the wellness and cost sports performance community
+很多所谓的“睾丸激素促进剂”
+a lot of the so-called quote unquote testosterone
+实际上是维生素B6和锌的组合
+boosters are actually combinations of vitamin B6
+可抑制催乳激素
+and zinc which inhibit prolactin
+并通过抑制催乳激素增加多巴胺
+and by way of inhibiting prolactin increase dopamine.
+因此  它们在这方面确实具有一定的功能作用
+So they do have some functional effect in that regard.
+他们并没有直接增加睾丸激素
+They're not really increasing testosterone directly
+他们是会去抑制催乳素水平
+they're suppressing prolactin levels.
+还有一些临床情况  例如高泌乳素血症
+And there are clinical conditions like hyperprolactinemia
+导致性欲大量下降等等
+which leads to massive decreases in libido, et cetera.
+还有处方药
+And there are prescription drugs to
+治疗高泌乳素血症
+treat hyperprolactinemia, which of course
+当然  你应该经常和内分泌学家谈谈
+you should always talk to an endocrinologist
+那些处方药到底能不能吃
+about those sorts of prescription drugs.
+所以有趣的是  这种多巴胺和催乳激素的非常基本的机制
+So it's interesting that this very basic mechanism
+这种产生动力  抑制动力的系统
+of dopamine and prolactin, this sort of motivation, no more motivation is a system that evolved
+进化出来首先是为了繁殖的  但确实是这样的
+for reproduction first, but that actually takes place.
+例如  你可以在世界其他地方看到
+And you can see in elsewhere in the world, for instance
+有很多不同类型的精神分裂症
+schizophrenia disease that has many different types
+但是精神分裂症是经常发生的情况
+and facets, but schizophrenia is a case of an often
+多巴胺系统的过度活化
+of hyperactivation of the dopamine system
+活化程度非常高  以至于让人觉得有点嗨
+so much so that it can make people feel kind of high,
+他们产生幻觉  我的意思是
+they hallucinate, I mean, we're talking very
+大脑中的多巴胺回路非常高或已经失调
+very high or dysregulated dopamine circuits in the brain.
+精神分裂症的治疗方法之一
+One of the treatments for schizophrenia
+是服用阻断多巴胺受体的药物
+are drugs that block dopamine receptors.
+非常不幸
+And if you have the it's unfortunate,
+有很多在外面的人
+there are so many people that are out
+在街上  患有精神分裂症的人
+on the street these days who have schizophrenia,
+有些人正在服药
+some of whom are taking their meds,
+有些人没有
+some of who, whom aren't
+如果你在街上看到有人在做什么
+if you ever see somebody on the street that's doing what's
+就像嘴唇抽搐  身体扭曲
+it's like a lip smacking and writhing
+这实际上被称为迟发性运动障碍
+it's actually called tardive dyskinesia.
+这是通过服用这些抗多巴胺能药物
+This is a movement disorder that's created
+造成的运动障碍
+by taking these anti dopaminergic drugs.
+所以你可以想像  这些抗兴奋剂
+So you can imagine these anti-doping synergic drugs
+在抑制幻觉方面非常有效
+while being very effective in suppressing hallucinations
+他们创造了这些运动问题
+they create these movement problems
+因为多巴胺对于运动通路的重要性
+because of dopamines importance
+所谓的金字塔形通路
+for the movement circuitry so-called pyramidal circuitry for the aficionados.
+此外  你有时会看到
+In addition, you sometimes see
+在服用某些药物的男性中
+in males that take these drugs, drugs
+像氟哌啶醇和其他多巴胺阻滞剂
+like haloperidol and the other dopamine blockers
+他们实际上会长出乳房组织的女性乳房发育
+that they actually develop breast tissue gynecomastia.
+所以男性乳房组织的发育是
+So the development of male breast tissue is
+因为催乳素水平升高
+because of the elevated levels of prolactin
+抑制了多巴胺
+because they're suppressing their dopamine so much.
+这是一个非常极端的情况  但也许
+Now that's a really extreme case, but maybe perhaps
+如果你看到有人在做这些非常奇怪的事情
+if you see somebody engaging these very strange kind
+脸部扭曲和身体扭曲行为
+of face riding and body riding behaviors
+这实际上不是他们精神疾病的结果
+that's actually not a consequence of their mental illness.
+这是大多数药物的作用
+That's a consequence most often of the drugs
+他们用来治疗精神疾病的药物
+that they're taking to treat the mental illness.
+这些是那些药物的副作用
+Those are side effects of those drugs.
+催乳素随时都在增加
+Now prolactin is increased any time.
+我们经历过一些真正加强的  丰富的事情
+We have some really heightened, intense experience.
+它不仅在性和生殖后释放
+It's not just released after sex and reproduction.
+催乳素是在一些重要事件发生后释放的
+Prolactin is released after some major event,
+这实际上是与一些
+it's actually responsible
+一些产后抑郁症有关系
+thought for some of postpartum depression
+对于不同类型的那种  失望程度低
+for different types of kind of the, the let down the low.
+我可以清楚地记得在学期结束之后
+I can distinctly remember that after finals or
+或者发表了大论文之后  我会非常非常高兴
+after publishing a big paper, I would be very, very happy
+但后来我发现  哦  你知道
+but then I'd find that, Oh, you know
+接下来发生的事情  可能会变得有点暗淡
+like what next or things might seem a little bit dimmed
+第二天左右或下周  变得没什么意思
+or dulled out for the next day or so, or the following week.
+多巴胺释放的时间表很不一样
+The timescales on these are gonna vary
+因为有些人会释放很多多巴胺
+because some people release a lot of dopamine
+在很长一段时间内对好事情做出回应
+for a very long time in response to something great
+其他人则有一个多巴胺快速反应
+and other people have a quick inflection
+然后他们又回到不太舒服的状态
+of dopamine and then they're back to feeling not so great.
+确实因人而异
+It really varies from person to person.
+实际上  很久以前
+In fact, long ago, I started
+当我开始了解多巴胺奖励通路时
+as I learned about dopamine reward circuitry
+以及多巴胺和催乳激素之间的关系
+and the relationship would be between dopamine and prolactin.
+我就开始利用这一点  真的
+I started to leverage this, believe it or not.
+一些重大事件之后
+After some major event
+我要服用几百毫克的维生素B6
+I would take a couple 100 milligrams of vitamin B6.
+但我认为对于患有糖尿病性神经病的人
+I think for people who have diabetic neuropathy
+你要小心一点
+you need to be careful
+如果要补充维生素B6  请咨询医生
+with vitamin B6 check with your doctor.
+有人告诉我  虽然我没有找到文献
+I was told, although I haven't found the literature
+在某些情况下会发生一些不良反应
+on this that it can, in some cases
+就是加剧周围神经病变
+exacerbate peripheral neuropathy, but
+但对于大多数人来说  它被认为是相当安全的
+for most people it's thought to be reasonably safe
+但同样  请务必与你的医生沟通
+but again, always check with your physician
+但是我自己会用一些B6  来抵消这一多巴胺低点
+but I would take some B6 to kind of offset some of that low.
+而且真的  我不知道是主观因素还是什么
+And I actually, I don't know if it was subjective or not
+但它似乎起到了积极的作用
+but it seemed to have somewhat of a positive effect.
+我也开始逐渐相信
+I also started just internalizing the fact
+多巴胺是如此主观的一个东西
+that dopamine is so subjective.
+多巴胺有一些客观方面
+There are objective aspects to dopamine
+释放了多少
+and how much is released
+但是对多巴胺也有一些主观影响
+but there's also some subjective effects to dopamine.
+因此  你可以做的一件事
+And so one of the things that you can do
+让你自己成为一个更快乐的人
+in order to generally just be a happier person
+特别是如果你是一个追求长期目标的人
+especially if you're a person in pursuit of long-term goals
+你想要延长
+of any kind is the longer that you can extend
+多巴胺释放的正面作用
+that positive phase of the dopamine release.
+而且  你同时想要减轻对痛苦的反应
+And the more that you can blunt the pain response to that
+那么你实际上可以在认知上做到这一点
+the better, and you can actually do this cognitively.
+我曾经和我的实验室开玩笑说  当我们发表论文时
+I used to joke with my lab that when we'd publish a paper
+我会很兴奋
+I would get really excited, but I wouldn't
+但我不会太过于兴奋  而我会做的是
+allow myself to get too excited what I wanted to do instead
+而我仍然试图做的是
+and what I've still tried to do is try
+尝试并扩大积极经历的弧线
+and extend the arc of that positive experience
+很简单
+as long as I possibly can simply
+比如回想这件事情  哦  那真是太酷了
+by thinking back like, Oh, that was really cool.
+我真的很喜欢那项研究
+I really enjoy doing that work.
+我真的很喜欢这个发现
+I really enjoyed the discovery.
+我真的很喜欢与
+I really enjoy doing that with the people
+当时我一起工作的同事
+that I was working with at the time,
+那是多么的荣幸
+what a pleasure that was.
+我可以很容易地从人物照片中得到
+I can get this very easily
+例如Costello
+from pictures of people, in things like Costello
+我真的很喜欢旅行
+that I really enjoy trips that I've taken.
+这样你就可以增加愉悦感
+So you can extend pleasure
+不必一遍又一遍地实际去做这种行为
+without having to engage in the behavior over and over.
+那也扩展了多巴胺释放的弧度
+That's extending the arc of that dopamine release as well.
+它抵消了一些痛苦
+It offset some of the pain
+那种经历没有发生的痛苦
+of not having that experience occur over
+一遍又一遍
+and over and over again.
+对于那些表现出色的人
+Now for the high performers out there
+你可能很熟悉
+you're probably familiar
+有很大成就的人
+with this many people who have a big achievement.
+他们的第一个想法是
+Their first thoughts are will now, what
+那么我接下来要做什么？
+what am I gonna do next?
+我怎么样去超过那个？
+How am I ever gonna exceed that?
+确实有很多对这种多巴胺的感觉
+And indeed many people who are very high
+追求新奇的事物的感觉
+on this kind of dopamine sensation
+非常兴奋 非常嗨的人  容易上瘾
+and novelty seeking scale are prone to addiction.
+他们容易会狂热地追捧
+They're prone to the rabid pursuit
+外部目标
+of external goals of external perception to the neglect
+然后忽略这些使他们能够
+of these internal mechanisms that allow them to
+感到镇定和快乐的内部机制
+feel calm and happy.
+所以对于那些  很有动力的人
+So for people that are very driven, very motivated
+采取能够关注在当下的措施
+adopting a practice of being able to engage
+就是"这里+现在"
+in the here and now the sort
+我们之前讨论过的一些练习
+of almond type practices we talked about earlier
+学习如何实现真正的一夜安眠
+of learning how to achieve a really good night's sleep
+定期通过我所说的工具和机制
+on a regular basis through tools and mechanisms I talked
+以前的播客中的内容
+about in previous podcasts gives us sort
+给了我们一种寻求乐趣
+of balance to the pleasure seeking for an offsetting
+抵消痛苦  以及当下的快乐中的平衡
+of pain and the pleasure in the here and now.
+因此  快乐实际上是两件事
+So pleasure is really two things.
+追求的快乐
+It's a joy in pursuit
+但也是你现在拥有的乐趣
+but it's also the joy in what you have.
+这里有一个很好的模型
+And there's a beautiful model
+展示了发展的情感发展
+of emotional development that was developed
+加州大学洛杉矶分校艾伦·肖尔教授
+by Alan shore professor at UCLA
+也是精神科医生  他谈论一些基本知识
+and psychiatrist that talks about some of the basics
+良好的父母亲依恋关系
+of good infant parent attachment
+良好的养育子女方式
+where good parenting that leads
+会促进健康的成人关系
+to healthy adult relationships
+有助于情绪调节  往往包括双方的
+and emotion regulation tends to include both sides
+多巴胺血清素光谱图
+of this dopamine serotonin spectrum.
+我们谈论孩子与父母之间的关系
+We talk about the relationship between child
+通常是母亲  父亲也有
+and parent typically was the mother, but also father
+让孩子真正兴奋的方法
+where you can get the child really excited
+通过尖叫和逗他们
+by kind of squealing and ramping them
+或谈论某事  冰淇淋  游戏
+up or talking about something or ice cream or play.
+这个孩子变得非常兴奋
+And the kid gets very excited.
+那就是多巴胺能系统
+That's the dopaminergic system
+对即将到来的事情的期待  但是
+the anticipation of something that's coming, but as well
+以一种真正的方式与孩子们互动
+engaging with children in a way that's really
+关于你所拥有的一切
+about everything that you have right
+在此刻  这本书的阅读
+in the here and now, the reading of the book
+孩子们似乎总是再问一次
+the kids always seem to ask one more time.
+再问一个
+One more.
+他们似乎想要更多他们喜欢的东西
+They seem to want more of the things that they enjoy
+但真正与他们互动
+but really engaging with them
+以增加他们的愉悦感的方式
+in a way that increases their sense of pleasure
+为那里的东西  同时给他们很多
+for what's right there, as well as giving them a lot
+令他们兴奋的事情和积极的期望
+of things to be excited about and positive anticipation.
+几年前曾与失足孩子一起相处
+Now, having worked years ago with at-risk kids and also
+还有年幼的孩子  一起夏令营之类的
+with young kids at summer camps and things like that
+你学到的一件事就是你永远不要说“可能”
+one of the things that you learn is you never say maybe
+可能给孩子一个奖励
+to a kid about a reward.
+如果你说  “我们等下可能会吃冰淇淋”
+If you say, we might have ice cream later
+你实质上是在说“我们等下要去吃冰淇淋”
+you are essentially saying we are having ice cream.
+他们没有听到“可能”
+They don't hear the maybe part
+事实证明  大人也听不到
+and it turns out adults don't either.
+真的很有趣
+It's really interesting.
+有一种叫做“奖励预测错误”的东西
+There's something called reward prediction error.
+我之前已经说过了
+I've talked about this before
+但我还没有真正在多巴胺系统的语境下  深入地讨论过
+but I haven't really talked about it deeply in the context
+正如我所说的
+of the dopamine system, dopamine, as I've said,
+多巴胺系统参与到对匮乏的期待中
+is involved in anticipation of wanting,
+不涉及它
+not of having it's involved
+激励你想要的东西
+in motivation toward the thing that you want.
+它使我们倾向于采取行动
+And it biases us towards action.
+奖励预测误差 =作为响应释放的多巴胺的实际数量 - 预期时释放的多巴胺数量
+Reward prediction, error equals the actual amount of dopamine that's released in response to something versus minus the amount that's expected.
+好  因此  如果你告诉孩子  “我们可能会吃冰淇淋”
+Okay. So if you tell a kid, we might have ice cream
+他们听的是  “我们要吃冰淇淋了”  他们期望得到
+they hear we're gonna have ice cream and they expect it.
+如果你以后再说  好吧
+And if you later say, well
+我们不吃冰淇淋了
+we're not gonna have ice cream
+因为我之前说的是“可能”
+and I said, maybe that's actually gonna lead
+这会导致多巴胺的崩溃更大
+to a much bigger crash in dopamine.
+这将导致一个负面信号
+It's going to lead to a negative signal,
+惩罚信号
+a punishment signal.
+从字面上看  这感觉就像是痛苦
+It's literally going to feel like pain.
+所以孩子们  你可以利用这一点
+So kids, you can leverage this.
+如果你父母说“也许”
+If your parents say
+他们其实是告诉你多巴胺系统“绝对会”
+maybe they're effectively telling your dopamine system
+那么 成年人也是如此
+absolutely. Now adults are like this too.
+如果我们认为可能会发生但没有发生
+If we think something might happen and it doesn't happen
+我们会产生很大的崩溃
+there's a big crash in our aspect,
+在我们的情感上有崩溃  那是因为
+in our emotionality and that's because
+多巴胺系统的释放
+that dopamine system goes from firing
+从大约每秒3到4次
+about three to four times per second
+增至每秒约10或15次
+to about 10 or 15 times per second
+只要出现  有可能发生的事情
+in the possibility that something might happen
+可能性深深地融入了我们的生物学
+possibility is deeply woven into our biology
+多巴胺和动机系统
+of the dopamine and motivation system,
+作为我们大概在古代的一种方式
+as a way for us presumably in ancient times
+探索新领域
+to explore novel territories
+感受到“那里可能有水”
+and get a sense that maybe there's water there.
+“也许那里有配偶”
+Maybe there are mates there.
+“也许那里有更好的食物”
+Maybe there's better food there
+“也许那里有资源”
+maybe there's resources there.
+“也许”很重要
+The maybe is important thing
+从语言上讲  也许就是也许
+that in language terms maybe means maybe, but
+但用神经生物学的术语 “也许”意味着
+in neuro-biological terms maybe means perhaps
+会有惊喜
+there's going to be the surprise
+会产生更高的多巴胺奖励
+of an even bigger dopamine reward.
+多巴胺最爱一件事
+And the one thing dopamine loves more
+就是惊喜
+than anything else is surprise.
+当我们得到积极的结果时  我们进入信箱
+When we get something positive, we go to the mailbox
+我们以为是一些账单  你打开
+we're expecting some bills and you open it
+结果是一封信
+up and you get a letter
+是一个从很久没有见到的朋友寄来的
+from somebody you haven't thought about in a long time.
+而你也喜欢那个人
+And you adore that person.
+那将是一次巨大的多巴胺释放
+That's a huge dopamine release.
+它实际上会触发神经可塑性
+It actually triggers neuroplasticity.
+你可能没有忘记
+You probably never forget that
+因为多巴胺启动可塑性
+because of the way that dopamine Gates' plasticity.
+当我们得到一个惊喜
+When we get an, a surprise
+而我们不想要的东西
+of something that we didn't want,
+也会创造可塑性
+also it creates plasticity.
+因此  惊喜  新颖  动力和奖励
+So the surprise, novelty, motivation, and reward
+它们都被编织到我们称为“多巴胺”的大包裹中
+they're all woven into this package that we call dopamine.
+而且很酷的事情是  你实际上可以
+And the cool thing is you can actually
+可以用一种方式调节这整个系统
+regulate this whole system in a way that will steer you
+让你倾向于更积极地期待生活中的事情
+or lean you towards more positive anticipation
+并且减少失望
+of things in life and less disappointment.
+而这就是我们所说的
+It's simply a matter
+去调整我们所谓的多巴胺时间表
+of adjusting what we call the dopamine schedule.
+好的  在我们继续之前  有几件事
+Okay. A couple things before we continue,
+我们将在几分钟内提一下 注意力不足这个问题
+we're gonna talk about attention deficit in a few minutes.
+但在此之前  我想谈一谈
+But before that, I wanna talk
+我在以前的播客中提到的事情
+about something that I've mentioned before
+但你可能不知道
+in previous podcasts, but that you may not be aware of
+即便你知道  你可能还在做这件事情
+and if you're aware of you may still be doing,
+而这件事情会严重损害你释放多巴胺的能力
+which is severely injuring your ability to release dopamine
+在某种程度上也会产生很大的失望感
+it's creating a sense of disappointment in ways
+很有可能在心理和身体上伤害你
+that are most likely hurting you mentally and physically.
+那就是 在半夜看光导致的
+And that's the blunting of dopamine
+多巴胺的钝化
+by viewing light in the middle of the night
+我知道这不是关于睡眠和昼夜节律的讨论
+I realized this is not a discussion about sleep
+但现在的实验数据是如此之多
+and circadian rhythms, but the data now are so
+全都显示
+strong showing that viewing bright light
+从大约10:00 PM到4:00 AM之间经常接触亮光
+from about 10:00 PM to 4:00 AM too often triggers activation
+会触发激活一个通路  称为松果体缰
+of this circuit called the habenula
+所以这通路是从眼睛
+So this is eye to
+你的视网膜
+It goes from your retina
+到一个叫做松果体缰HABENULA的结构
+to a structure called the habenula H-A-B-E-N-U-L-A
+然后从松果体缰再连接到一些奖励通路
+Then from the habenula to some of this reward circuitry
+并且抑制了奖励通路的激活
+and it suppresses the activation of the reward.
+不仅在那一刻  而且会延伸到
+Circuitry, not just in that moment, but to things
+你日常积极的预期和追求的目标
+that you normally positively anticipate and pursue.
+我现在提这个的原因
+And the reason I'm bring this
+是因为我还没有真正
+up now is because I haven't really gone
+非常深入地讲解多巴胺系统
+into depth on the dopamine system before now, you understand
+你现在知道我们有这个非常宝贵的奖励系统
+that you have this very precious reward system.
+那是一把双刃剑
+That's kind of a double-edged sword.
+它需要得到照顾和良好的对待
+It needs to be taken care of and treated well.
+你可以使用它  但不要过度使用它  等等
+You wanna use it, but not overuse it, et cetera
+但如果半夜暴露在明亮的光线中
+but getting bright light exposure in the middle
+会降低你释放多巴胺的能力
+of the night is reducing your capacity to release dopamine.
+所以不只是说
+So it's not just
+那段时间中你没有得到的睡眠
+about the sleep that you're not getting in that time.
+还是因为你没有得到多巴胺
+It's also that you're not getting the dopamine
+本来你完全可以拥有那部分多巴胺的
+that would otherwise be available to you.
+所以你实际上正在
+So you're actually taking, think of light
+你可以把半夜里的亮光
+in the middle of the night as a kind
+想成一种多巴胺的阻滞剂
+of antagonist is kind of a blocker of dopamine.
+也许会对你有所帮助
+Maybe that'll help you.
+如果你是一个必须在半夜工作的人
+If you're somebody who has to work in the middle of the night
+而你想绕开这种多巴胺抑制
+and you wanna bypass this dopamine suppression
+请参阅有关时差和轮班工作的那期播客
+please see the episode about jet lag and shift work
+因为在那期中有很多方法
+because there are a lot
+将使你能够做到这一点
+of tips there that will allow you to do that
+为了了解如何控制多巴胺系统
+in order to understand how to control the dopamine system
+利用它来改善生活
+how to leverage it for a better life.
+你需要了解
+You need to understand the results
+一个非常重要的实验的结果
+of a very important experiment.
+这个实验能够将愉悦与动机分开
+This experiment was able to separate pleasure from motivation.
+很简单  但就像许多简单的实验一样
+It's a very simple, but like many simple experiments
+一个非常优雅的实验  他们做的
+a very elegant experiment, what they did
+在动物和人类身上都进行了实验
+and this has now been done in animals.
+他们给老鼠提供食物
+and in humans, they offered rats food.
+这是老鼠特别喜欢的食物
+It was a food that they particularly liked
+然后老鼠会不断去推一个按钮/杆子  来得到食物
+and the animals would lever press for a pellet of food
+这种经典实验
+kind of classic experiment that eat the food
+前提是小动物喜欢这种食物
+and they presumably liked the food
+因为它们有动力  所以按下杆并吃掉事物
+because they were motivated, press the lever and eat it.
+很好  他们取了其他一些老鼠
+Great. They took other rats.
+消除了它们的多巴胺神经元
+They eliminated the dopamine neurons.
+可以通过注射来做到这一点
+You can do this by injection
+注射一些破坏这些神经元的神经毒素
+of a neurotoxin that destroys these neurons.
+因此  它们的大脑实际上就没有多巴胺了
+So they actually had no dopamine in their brain.
+它们没有释放多巴胺的能力
+They have no ability to release dopamine
+他们给了老鼠杠杆  老鼠坐在那里
+and they gave them a lever that rats would sit there
+它们就按了杆  就吃了食物
+and they'd hit the lever and they'd eat the food.
+他们仍然很喜欢食物的
+They're still enjoyed the food.
+所以你可能会想  好吧
+So you say, well, okay
+那就是多巴胺与动机有关呗
+so dopamine is involved in motivation.
+小老鼠都挺快乐
+It is involved in pleasure.
+不
+No, it absolutely is.
+他们仍然可以享受食物  但是如果他们移动了老鼠
+They could still enjoy the food, but if they moved the rat
+它与操纵杆的距离为一个身子的长度
+literally one body length away from the lever.
+他们会发现有多巴胺的动物会移动身体
+What they found was the animals that had dopamine would move
+移到操纵杆上  按下并进食
+over to the lever, press it and eat.
+还有那些没有多巴胺的老鼠
+And the ones, the rats that did not have dopamine available
+对它们来说  甚至不想移动一个身体的距离  一只小老鼠那么点的距离
+to them, wouldn't even move one body lane, one rat length
+去按下控制杆以获取食物
+to the lever in order to press it and get the food.
+因此多巴胺
+Dopamine, therefore is not
+它不是体验愉悦的能力
+about the ability to experience pleasure,
+它是愉悦的动机
+it is about motivation for pleasure.
+这已经在人类的不同情景中
+This has been repeated in humans
+重复了很多很多
+in a variety of different scenarios.
+虽然不是进行杠杆按下操作这么简单的事情
+You can't really do the lever press thing quite as easily
+但是我们知道  多巴胺水平很低的人
+but we know that people have low levels
+动力不足
+of dopamine are simply less motivated
+即使他们可以实现愉悦  开心
+even though they can achieve pleasure.
+这会产生严重的后果
+And this has serious ramifications
+如今
+for the fact that now, quote
+“愉悦感”或引诱我们的事物
+unquote pleasure or ways to induce things that we
+给我们带来的快乐无处不在
+believe give us pleasure are everywhere.
+它们触手可及
+And they're within reach.
+的确  我们不必为我们的食物觅食
+We don't have to forage for our food.
+但有很多高度加工的  高糖高脂食品
+There's lot of highly processed, high sugar high fat foods.
+还有一些健康的食物  味道很好
+There's also foods that are healthy, that tastes good
+希望这部分食物
+but they're hopefully they're pretty easy to
+能被大家都吃到
+get all that different people have different access
+但是多巴胺
+to things, of course, but dopamine
+与体验愉悦感无关
+isn't about the ability to experience pleasure.
+这是让你有多大的动力去实现这些乐趣
+It's about how motivated you are to reach those pleasures.
+你们中可能有很多人在想  哇
+And so many of you are probably thinking, wow
+我不是一个很上进的人
+I'm not a very motivated person.
+就像你说的那样
+Like you talked
+拖延症中的一种
+about the one kind of procrastination earlier.
+当我对生活感到就那么一点满足时该怎么办
+What about when I just feel kind of met about life now
+对于你们中的某些人来说  可能是真正的临床抑郁症
+for some of you, there may be a real clinical depression
+你应该和专业人士谈谈
+and you should talk to a professional.
+有很好的处方药
+There are very good prescription drugs
+可以真正帮助人们
+that can really help people.
+心理疗法中也有很好的非药物疗法
+There's also great non drug treatments of psychotherapy
+还有其他正在开发的治疗方法
+and other treatments that are being developed
+除了各种心理治疗
+in addition to psychotherapy in the various kinds
+心理分析等等
+of psychoanalysis, et cetera, that one can use.
+我认为数据确实指出
+I think the data really points
+药理学和言语疗法的结合  通常是最好的
+to the fact that a combination of pharmacology and talk therapies are generally best.
+这些事情的范围很广
+And there are a huge range of these things.
+我知道你们中很多人都从事这些职业
+I know many of you are in these professions.
+我们现在不再谈论这个
+We're not gonna talk about that right now.
+有一个东西
+There's a compound.
+很有趣  在补剂中
+That's kind of interesting in the supplement
+没有刺毛黧豆  左旋多巴
+space that isn't MaCuna appearing, L-DOPA
+不是L酪氨酸  不能促进大量多巴胺释放
+it's not L tyrosine that isn't promoting massive releases
+甚至不是多巴胺本身
+of dopamine or even dopamine alone
+而是多巴胺和血清素的组合
+but a combination of dopamine and serotonin.
+这是一个有趣的分子  它在柜台上出售
+And it's an intriguing molecule it's sold over the counter.
+同样  你必须向你的医疗保健提供者咨询
+Again, you have to check with your healthcare provider
+在你采取任何行动或去掉任何行动之前
+before you would take anything or remove anything.
+这很重要  就是苯乙胺
+That's very important, which is, but it's, fenal ethyl
+苯乙胺  或PEA
+Phenethylamine, or P-E-A pea or beta ethylamine
+旨在释放低水平的多巴胺
+aiming releases dopamine at low levels
+而且也会释放低水平的血清素
+but also serotonin and low level.
+所以有点像动力分子的混合物
+So it's kind of a cocktail of the motivation molecules
+或者说是“这里+现在”分子
+as well as the quote unquote here and now molecules.
+人们对此的反应差异很大
+And people's response to this varies widely
+但是很多人说感觉增强了
+but many people report feeling heightened sense
+精神敏锐度等等
+of mental acuity wellbeing, et cetera.
+有点想刺激物
+It is a bit of a stimulant
+就像任何触发激活多巴胺
+like anything that triggers activation
+和去甲肾上腺素通路的作用
+of the dopamine and norepinephrine pathway
+但这是一个有趣的补剂
+but is an interesting supplement.
+我实际上从未尝试过
+I actually haven't tried it before.
+因此  我无法诉说自己的经历
+So I can't report on my own experiences.
+不过  我会推荐你要访问examine.com
+I will point you however, to examine.com.
+如果我不说这就不是Huberman Lab播客了
+It wouldn't be a Huberman Lab Podcast episode If I didn't point you to examine.com
+这个令人难以置信的免费资源  你可以在其中搜索
+this incredible free resource where you can put
+任何补剂
+in any supplement.
+它将告诉你“人类影响矩阵”
+And it will tell you the quote unquote human effect
+会为你指出各种研究
+matrix it'll point you to the various studies.
+我们始终在标题中提供这个链接
+We always provide a link to this in the caption.
+这是一个了不起的资源
+It's an amazing resource.
+所以你可以去那里探索更多信息
+So you can go there to explore more
+但我还没有谈论β-苯乙胺
+but I haven't talked about Phenethylamine
+之前的播客中
+and before in previous podcasts
+我想将其添加到接入多巴胺系统的物质列表中
+and I wanted to add it to the list of things that tap into the dopamine system that are in this.
+我想我们现在称之为补剂空间
+I guess we call it now the supplementation space.
+我个人对这些补品着迷
+I personally am fascinated by these supplements
+因为它们是一种
+and the things that exist out there that are
+似乎至少是非处方药
+non-prescription that seem to, at least
+然后在某些人中产生了积极作用
+in some people have positive effects.
+例如  最后一集
+For instance, last episode
+我们谈到了CDOT左旋肉碱
+we talked about CDOT L-carnitine, which there
+还有几篇报告抗抑郁作用的论文
+are several papers that report antidepressant effects
+以及在其他方面积极的影响
+as well as positive effects
+精子健康  卵巢健康等等
+on other things, sperm health, ovarian health, et cetera.
+我从同事那里得知  在欧洲
+I learned from a colleague that acetyl L-carnitine
+乙酰左旋肉碱实际上是处方药
+in Europe is actually a prescription drug
+在美国  它是通过柜台出售的
+in the US it's sold over the counter.
+所以我想  这取决于你所处的位置
+So I guess, depending on where you're listening to this
+可能购买限制会有所不同
+the availability might vary.
+和往常一样  我要警告一下  你必须仔细
+And as always, I put the caveat, you have to check
+与你的医疗保健提供者联系  看看它是否适合你
+with your healthcare provider, if it's right for you
+但是我对一些
+but I'm fascinated by the fact
+这种介于处方药和不作任何处理的这种补剂很有兴趣
+that these things exist and that they lie somewhere between prescription drugs and doing nothing.
+这使它们成为有趣的化合物
+And that makes them interesting compounds.
+我认为PEA β-苯乙胺
+And I think that P-E-A beta fennel ethylamine is
+就是这些化合物中的一个
+yet another one of the, of such compounds.
+我将在未来的一期中  谈论很多关于注意力不足
+I going to talk a lot about attention deficit
+和注意缺陷多动障碍的问题
+and attention deficit hyperactivity disorder
+但我今天想提一提
+in a future episode, but I do wanna mention it today
+在多巴胺和冲动的背景下
+in the context of dopamine and impulsivity.
+ADHD或ADD
+So ADHD or ADD so attention deficit
+临床诊断的多动症
+hyperactivity disorder, ADD our clinical diagnoses.
+我想  今天很多人都在说
+I think a lot of people nowadays walk around and say
+啊 我有多动症  你有多动症
+I have ADD or you have ADD
+的确 如果你的注意力经常性地切换
+and indeed one can create a sort
+很有可能会患上注意缺陷障碍
+of ADD by attention switching all the time.
+我是Cal Newport的忠实粉丝
+I'm a big fan of Cal Newport.
+他写了《深度工作》一书
+He wrote the book" deep work."
+我记得  他说了环境切换
+I believe he was the one who said context
+对大脑来说是可怕的
+switching is terrible for the brain.
+这就是大脑最糟糕的事情
+It's like the worst thing for the brain
+因为然后大脑学习一个环境  切换
+because then the brain learns to context, switch
+然后真正的深层工作效率  各种学习
+and real deep work productivity, learning of all kinds
+各种良好的关系
+good relationships of all kinds
+都来自经验的深度
+really come from depth of experience
+而并非经验的广度
+not from breadth of experience within the moment.
+因此  我认为了解这一点很重要
+And so I think it's important to know that
+有临床ADHD和ADD
+there's clinical ADHD and ADD
+还有一种人是
+and then there's the kind that people are kind
+通过社交网络  手机等等东西被分心
+of inducing and through distraction and social media and phones, et cetera.
+这些有时会导致临床ADHD和ADD
+And those can sometimes lead to clinical ADHD and ADD
+但是我想简单地谈谈小孩子的ADHD和ADD
+But I wanna talk about ADHD and ADD in kids just briefly
+通常用于治疗这些疾病的药物
+the drugs that are normally given to treat those conditions
+比如Adderall之类的东西
+ADHD and ADD are things like Adderall
+里面都有小剂量的苯丙胺
+things that have very amphetamine, light qualities
+你可能会问  为什么要这样做？
+and structures, and you might ask, why would they do that?
+好吧  事实证明  这种物质作用在孩子身上
+Well, it turns out that in kids
+会激活一些大脑通路
+these activate that for brain circuitry
+激活更深的中边缘通路中的中断
+the break that exists on the deeper mesolimbic circuitry.
+因此  你还记得有VTA和伏隔核
+So as you recall, there's the VTA and nucleus accumbens
+作为多巴胺的促进剂
+as the kind of accelerators on dopamine.
+然后是前额叶皮层
+And then there's the prefrontal cortex
+这是一个刹车  可以限制冲动
+which acts as a break and can limit impulsivity.
+这些药物往往会增加该途径的神经元活性
+And those drugs tend to increase the activity
+激活额叶前皮层
+of neurons in that pathway, the prefrontal cortex
+并减少冲动
+and it reduces impulsivity.
+实际上  “the molecule of more”这本书中
+In fact, there's a experiment described in the book
+描述了一个实验  非常有趣
+"the molecule of more," which is really interesting
+他们研究肥胖儿童的冲动
+where they looked at impulsivity in obese children
+原来  他们做了这么一个实验
+and it turns out they did this experiment
+以安全的方式看着孩子们
+in a safe way that they looked at kids
+肥胖的孩子和非肥胖的孩子
+both obese kids and non obese kids
+观察他们穿越繁忙的高速公路的意愿
+and their willingness to cross a very busy highway.
+事实证明  肥胖儿童被车撞到的次数
+And it turns out that the obese kids got hit
+比非肥胖儿童更多
+by cars more often than non obese children.
+这是一个虚拟现实的实验
+It turns out this was a virtual reality experiment
+这与他们的肥胖
+and it had nothing to do with the fact that they were obese
+动作不灵敏  或运动速度的限制没有关系
+or limitations on movement or speed of movement.
+而是因为肥胖的孩子更容易冲动
+It was that the obese children were more impulsive
+在各种情况下
+in a variety of contexts
+不只是在这个虚拟过马路的东西上
+not just in this virtual crossing the street thing.
+结果是  数据都指向一个事实
+And it turns out the data point to the fact
+10岁时的冲动实际上是可以预测
+that impulsivity at age 10 is actually predictive
+在之后生命中暴饮暴食的疾病的产生
+of overeating disorders at a later stage in life.
+因此  其中一些药物旨在
+So some of these drugs that are designed to
+增强制动系统的活动性
+create heightened activity in the braking system
+也就是奖赏通路的减速器
+the decelerator
+目的是减少冲动
+of the reward pathway are designed to reduce impulsivity
+因为它们抑制多巴胺的释放
+because they suppress the release of dopamine
+希望他们可以让孩子
+and they allow, hopefully they allow children and it
+以及当他们长大成人之后  更好地控制多巴胺释放时间表
+and when they become adults to better control the schedule of dopamine release.
+所以现在让我们谈谈什么是多巴胺时间表
+So now let's talk about what is a dopamine schedule
+以及如何利用这个
+and how you can leverage this
+来提高动机水平
+in order to have heightened levels of motivation
+而且不会产生太多的多巴胺
+but not get so much dopamine
+你遇到的问题或之后不会发生崩溃
+that you're experiencing or a crash afterwards.
+而且  这样你就可以体验到更多的乐趣
+And also, so that you can experience heightened pleasure
+从生活的各种追求中体验到乐趣
+from the various pursuits that you are engaged in life.
+我知道你们很多人都感兴趣
+I know many of you are interested
+可以让你更有动力的工具
+in tools that will allow you to be more motivated
+或者集中精力更长一点  睡得更好的工具
+to focus longer, sleep better.
+毕竟这就是Huberman Lab播客关注的
+That's really what the Huberman Lab Podcast is all about
+但总是放在
+but always framed in the context
+神经生物学原理和客观机制这个语境之下讨论
+of neuro-biological principles and objective mechanisms.
+有一些我们可以应用在多巴胺系统上的工具
+There are some tools that we can apply to the dopamine system
+以及动力  可以真正改善我们的
+and motivation that can really improve our ability to stay
+追求事物  实现目标后享受事物的能力
+in pursuit of things, as well as enjoy things
+甚至改变路线  去达到我们的目标
+after we've achieved our goals, or even an route, our goals.
+接下来讲一下关键原则
+And here's the key principle.
+多巴胺是非常主观的
+Dopamine is very subjective.
+意思是你可以
+Meaning you can
+要么让自己体验实现一个里程碑式的目标的快乐
+either allow yourself to experience the pleasure
+或者不去享受这种快乐
+of reaching a milestone of achieving or some craving or not.
+在极端的毒品情况下  这行不通
+Now that won't work in the extreme cases of drugs
+像可卡因和苯丙胺
+like cocaine and amphetamine, but it's actually
+但实际上  人们可以用主观系统完成这个事情  很厉害
+pretty powerful what one can do with the subjective system.
+实际上  我要说一个实验
+In fact, I'm gonna describe
+这个实验重点说明了
+to you an experiment that highlights just how
+特定经验的主观读出
+powerful the subjective readout
+或主观解释
+or the subjective interpretation
+可以有多么的强大
+of a given experience really can be.
+甚至跟吃药一样
+Even at the level of pharmacology.
+我喜欢主观因素
+I love examples of subjective effects
+作用在原本似乎无法改变事情上的例子
+over things that would otherwise seem hardwired
+因为它们确实说明了
+because they really illustrate the interplay
+在我们的认知  我们的信仰体系之间的相互作用
+between our cognition, our belief system
+而其他则是一些
+and what would otherwise be these,
+立即见效的机制
+just plug and chug kind of mechanisms of,
+你吃多少量的巧克力
+you eat X amount of chocolate
+或者在脱水一段时间之后
+or you drink X amount of water
+你喝多少的水
+after being water deprived for a certain amount of time.
+然后你得到X的多巴胺
+And you get X amount of dopamine.
+接下来讲一下实验
+Here's the experiment.
+该实验刚刚于2021年3月18日发布
+The experiment was just published on March 18, 2021.
+所以是个很新很新的实验
+So very recently, and the title
+实验的标题是
+of the experiment is
+“对兴奋剂类型的期望 会改变咖啡因对情绪和认知的影响”
+expectation for stimulant type modifies caffeine is effects on mood and cognition
+这是本科学生完成的
+and this was done in college students.
+这是一个令人着迷的研究
+And it's a fascinating study.
+他们所做的是给大学生服用了安慰剂
+What they did is they gave college students either placebo
+一组没有  另一组含有200毫克咖啡因
+essentially nothing or 200 milligrams of caffeine.
+200毫克咖啡因大概是
+200 milligrams of caffeine is
+一杯咖啡
+about what's in a well, a typical coffee
+就像一般的咖啡  你购买的滴滤咖啡
+like a medium coffee that you buy a drip coffee
+或你在家自制的咖啡
+or a coffee that you'd make at home.
+差不多就这么多的咖啡因
+It's a fair amount of caffeine.
+如果你要服用药丸
+If you were to take in pill form
+它肯定会让你感到更警觉
+it would definitely make you feel more alert
+除非你是那些突变者之一
+unless you were one of those mutants
+就是对咖啡因不敏感的突变体
+literally mutants that is insensitive to caffeine.
+这些突变体非常罕见
+And those mutants are pretty rare.
+因此  他们召集了65名大学本科学生
+So they took 65 undergraduate students in college.
+他们将它们随机分配到安慰剂或咖啡因中
+They randomized them to either placebo or caffeine
+告诉受试者
+and they told them
+他们正在摄取咖啡因或Adderall
+that they were either getting caffeine or Adderall.
+Adderall在认知上
+Now, Adderall cognitively carries
+代表着完全不同的期望
+a very different expectation.
+大学生知道Adderall刺激性非常强
+College students know Adderall to be a much
+刺激性比咖啡因强
+stronger stimulant than caffeine.
+他们知道它会创造出一种嗨感
+They know it to create a sort of high.
+这是学生描述它的方式
+This is the way the students described it
+他们认为这会提高他们
+and they thought that it would increase their level
+专注力和执行工作的水平
+of focus and their ability to perform work.
+所以真的很有趣
+So it was really interesting is there was definitely
+其中肯定有安慰剂与咖啡因的作用
+an effect of placebo versus caffeine.
+这并不奇怪  但是  对了  你服用了安慰剂
+That's not surprising, however, right, you take a placebo
+你可能会或可能不会感到更警觉
+you may or may not feel more alert
+但是你要摄取200毫克的咖啡因
+but you take 200 milligrams of caffeine
+你很有可能会感到非常警觉
+very likely you're gonna feel very alert
+但学生们以为他们正在喝咖啡因或Adderall
+but there was also an effect of whether or not
+不同兴奋剂的种类  也会产生很大的影响
+the students thought they were getting caffeine or Adderall.
+接受咖啡因的受试者报告
+The subjects receiving caffeine reported feeling
+感觉更加激动  焦虑和上进
+more stimulated, anxious, and motivated
+比接受安慰剂的受试者要多
+than the subjects that received the placebo.
+好的  但是那些认为是Adderall的人
+Okay. But the ones that expected Adderall
+报告了更强的苯丙胺作用
+reported stronger amphetamine effects.
+所以他们感觉更嗨
+So they felt much more high.
+他们在工作记忆测试中表现更好
+They performed better on a working memory test.
+总体而言  他们的认知能力都有所提高
+And in general, they had all the increased cognitive
+因为他们觉得自己吃的是Adderall
+effects that would have been seen with Adderall
+但是他们摄入的只是咖啡因
+but they were only ingesting caffeine.
+因此  这表明咖啡因药物和以为是Adderall的期望之间
+And so this shows an interaction between the drug caffeine
+存在相互作用
+and the expectation that it was Adderall.
+因此  就这么简单地提高了受试者的表现
+So it led to heightened performance simply
+因为学生们以为他们正在服用Adderall
+because the students thought they were getting Adderall.
+但是我不知道
+And I don't know whether
+他们最后有没有告诉受试者这不是Adderall
+or not they told them at the end that it wasn't Adderall.
+我不太清楚
+I doubt that they did this.
+如果你想查一下
+If you wanna look it up
+该研究发表在
+the study was published in the journal
+临床临床心理药理学研究期刊上
+of experimental clinical psychopharmacology.
+这篇论文是Looby LOOBY
+The paper is Looby L-O-O-B-Y at all.
+再说一次  它刚发表于2021年3月18日
+And again, it was just published March 18th, 2021 speaks
+是的  有所谓的安慰剂效应
+to the fact that yes, there are so-called placebo effects
+但这不同于安慰剂效应
+but this is different than placebo.
+这是对给定刺激物的固有期待
+This is a belief effect about what the specific reactions
+这种信念在影响
+to a given stimulant ought to be.
+我认为这非常重要  因为我认为
+And I think this is very important because I think
+它指出了一个事实  即自上而下的调节
+that it points to the fact that the top
+即更高层次的认知过程
+down the kind of higher level cognitive processes
+甚至可以影响最基本的神经递质
+are impacting even the most basic fundamental aspects
+比如说多巴胺的释放
+of the say dopamine release
+或我们的肾上腺素释放的量
+or our mountain adrenaline release or epinephrin release
+可以对我们的表现产生积极影响
+in ways that can positively impact performance.
+在这种情况下  这是在工作记忆和注意力方面
+In this case, it was a positive improvement
+一个积极的进步
+in working memory and focus.
+只要我们在谈论咖啡因
+As long as we were talking about caffeine
+我想指出一项研究
+I'd like to point out a study.
+真的很有趣
+That's really interesting.
+这发表在神经科学杂志上
+This was published in journal of neuroscience
+这是一本
+which is the society
+神经科学界的标杆期刊
+for neurosciences kind of flagship journal.
+就是它
+It's their journal.
+这是非常棒的期刊
+It's a good journal
+他们表明的是
+and what they showed was
+咖啡因可以增加多巴胺在大脑中的释放
+that caffeine can increase dopamine release
+大概提高30％
+in the brain by about 30%.
+这不足为奇
+That wasn't surprising.
+我早先也这么说过  但他们也表明了
+I even said that earlier, but what they also showed is
+咖啡因对多巴胺神经元有保护作用
+that it has a protective effect on dopamine neurons.
+因此  在某些情况下  咖啡因可能不只是
+So caffeine in some cases may not just
+增加多巴胺释放
+increase dopamine release
+但实际上可能有保护作用
+but it might actually have a protective effect
+在多巴胺神经元上
+on dopamine neurons.
+现在有明显的不同
+Now that's distinctly different
+从一些声称  像MTMA摇头丸的药物
+from some claims that drugs like MTMA ecstasy have been
+已经被认为  有神经毒性
+it's been argued can, are neurotoxic
+对多巴胺和血清素神经元之类的东西有毒性
+for things like dopamine and serotonin neurons.
+发表的有关该问题的研究
+The study that was published about that
+在《科学》期刊上
+in the journal science, which is an extremely
+也是一本久负盛名的优秀期刊
+prestigious excellent journal later, it was shown
+表明  不是MTMA摇头丸的作用
+that it wasn't MTMA ecstasy that was given in that case.
+实际上是苯丙胺的作用
+It was actually amphetamine, which is known to
+破坏多巴胺能和血清素能神经元
+destroy dopaminergic and serotonergic neurons.
+那么这是什么意思？
+So what does this mean?
+这意味着  在一些研究中表明 含量低的咖啡因
+This means that low levels of caffeine may at least
+随着时间的流逝 可能至少对多巴胺神经元具有保护作用
+in a few studies be protective for dopamine neurons
+MTMA摇头丸是
+over time that MTMA ecstasy something that's
+目前在临床试验中用于治疗创伤
+in clinical trials right now for the treatment of trauma
+各种PTSD和抑郁症的药物
+PTSD of various kinds and depression
+但目前仍可能是非法的
+but still illegal at this point in time may
+尽管尚未从任何已发表的研究中出现
+although it doesn't appear yet from any published studies
+MTMA摇头丸会破坏多巴胺能神经元  可能是紧急神经元
+destroy dopaminergic neurons, perhaps origin, urgent neuron.
+所以这里需要抱有疑问的态度
+So there's a real asterix and a question mark there
+但苯丙胺  尤其是甲基苯丙胺
+but amphetamine and in particular methamphetamine
+对多巴胺能神经元具有非常强的破坏性
+is very destructive for dopaminergic neurons.
+所以我认为我们任何人都没有什么理由
+So I don't think any of us needed any additional
+要去使用甲基苯丙胺
+reasons to avoid methamphetamine.
+这种药物会导致多巴胺的大量增加
+This drug that creates huge increases in dopamine
+然后发生严重的崩溃
+and then huge crashes
+破坏性非常强的药物
+from that dopamine, very destructive drug.
+但是除此之外
+But in addition
+似乎会破坏时间的多巴胺能神经元
+to that seems to destroy dopaminergic neurons from time
+到时候  我在这里谈论尼古丁  不是吸烟哈
+to time, I've talked about nicotine on here, not smoking
+因为显然吸烟有害  有肺癌的危害
+because obviously smoking is bad lung cancer's bad
+对健康不好  但尼古丁为补剂
+for health, et cetera, but nicotine in supplemental form
+我已经提到一位非常著名的神经科学家
+I've mentioned that a very famous neuroscientists
+诺贝尔奖得主  这位科学家选择了尼古丁片
+Nobel prize winning scientists choose a lot of Nicorette.
+我知道其他一些人也在嚼尼古丁片
+I know other people that you Nicorette
+他们相信它的神经保护作用
+they believe in its neuroprotective effects
+可以防止帕金森氏症和阿尔茨海默氏症
+for Parkinson's and Alzheimer's
+尼古丁确实可以刺激多巴胺释放
+and indeed nicotine can stimulate dopamine release.
+我们之前谈到过
+We talked about that earlier
+但是否具有保护作用
+whether or not it has a protective effect
+尚不清楚  这个保护作用可能是
+isn't clear the protective effects might be
+通过去甲肾上腺素和乙酰胆碱系统产生的
+through the noradrenergic and acetylcholine systems.
+这些发现仍然不清楚
+Those findings are still unclear
+但值得注意的是
+but it is interesting to note
+尼古丁可以增加催乳素
+that nicotine can increase prolactin.
+不知道为什么就是这样
+Somewhat. There are a couple
+研究中有一对情侣  我很乐意在简介中放入他们的研究链接
+of studies I'd be happy to link to them
+他们的研究表明  如果尼古丁摄入过多
+in the caption that shows that nicotine taken too much
+摄入过长时间  会增加催乳素
+over too long periods of time can also increase prolactin
+这又是多巴胺的另一面
+which again is the opposite side of dopamine.
+所以今天我们讨论了多巴胺系统
+So today we've talked a lot about the dopamine system
+以及那些可以让他们产生渴望或者成瘾的时间表
+and those kinds of schedules that will allow craving
+但是多巴胺的时间表怎么样
+or addiction, but what's the schedule of dopamine.
+才能让你最大化
+That's going to allow you to maximize
+去追求快乐和消除痛苦
+on your pursuit of pleasure and your elimination of pain.
+我们从我们的好朋友赌博中得到了答案
+And we get the answer to that
+赌博会上瘾的原因
+from our good friend gambling, the reason gambling works
+人们会在赌博中不顾一切
+the reason why people will throw their lives away.
+抛家弃子一次又一次回去
+The reason why people go back again and again and again
+回到拉斯维加斯和大西洋城之类的地方
+to places like Las Vegas and Atlantic city is
+是因为希望和期待
+because of the hope and anticipation it's
+因为这些城市就正是建立在多巴胺之上的地方
+as those are cities in places built on dopamine,
+他们正在利用你的多巴胺系统
+they are leveraging your dopamine system.
+我意识到有些经验丰富的赌徒
+And I realized that there are experienced gamblers.
+有些人享受赌博
+There are people that enjoy gambling.
+我实际上只想说
+I'll actually just say,
+我喜欢坐在轮盘赌桌上
+I like sitting at the roulette table.
+我当时拿了指定的金额
+I was take a designated amount of money.
+数量不多  我喜欢玩轮盘赌
+It's not much, I enjoy playing a little bit of roulette.
+当我赢的时候  我当然很享受
+I certainly enjoy when I win.
+我输的时候 我当然不喜欢
+I certainly don't like it when I lose
+但是我很乐意  为玩而高兴
+but I do it cheerly for the pleasure of playing.
+而且我很少这样做
+And I do it very seldom.
+我没有赌博的问题
+I don't have a gambling problem.
+如果我真有了  我会告诉你们的
+And if I did, I'd probably tell you
+但我没有赌博问题
+but I don't have a gambling problem.
+然而有些人却因为赌博 命都不要了
+Yet people throw away the entire lives on gambling.
+我的一位朋友
+And as a friend of mine
+一位成瘾治疗专家  告诉我
+who's a certified addiction treatment specialist tells me
+赌博成瘾特别危险
+that gambling addiction is a particularly sinister
+因为每一个下一次
+because the next time really could be the thing
+都可能会赢  会改变一切
+that changes everything.
+与其他成瘾不同
+Unlike other addictions
+赌博的每一个下次真的可以改变一切
+the next time really could change everything.
+这就是赌博成瘾者的内心深处的想法
+And that's embedded in the mind of the gambling addict
+而对于却完全破坏了
+and rarely does it work out in favor
+瘾君子及其家人的幸福感
+of the wellbeing of the gambling addict and their family.
+但是  间歇性加固计划
+However, the intermittent reinforcement schedule
+是很久以前由科学研究人员发现的
+was discovered long ago by scientific researchers.
+比如老虎机
+So this is the slot machine that every once
+过一会儿给你带来一点甜头  让你保持参与状态
+in a while gives you a wind to keep you playing.
+这是在掷骰子桌上获胜的概率
+This is the, the probability of winning on the craps table
+或轮盘赌桌  或二十一点
+or the roulette table, or at blackjack just often enough
+都让你心甘情愿地去买飞机票  去那里一赌为快
+that you're willing to buy tickets, head out there
+再次你从赌场离开之后
+play again, go downstairs again from your room
+即使你发誓  之后再也不赌了
+even though you swore you were done for the night
+“间歇式加固”是多巴胺奖励时刻表中最强大的一种形式
+intermittent reinforcement is the most powerful form of dopamine reward schedule
+让你继续做某事
+ to keep you doing something
+但我们反过来利用它了
+so we can export that.
+我们可以永远使用它
+We can use it for good.
+如果你在生活中追求某种东西
+If there's something that you're pursuing in life
+不管是一个学术目标
+whether or not it's an academic goal
+或财务目标  关系目标
+or a financial goal, a relationship goal.
+你可以确保做的一件事
+One of the things that you can do to ensure
+你将继续朝着那个目标前进
+that you will remain on the path to that goal
+很长一段时间  
+for a very long time, and that you will continue to
+你将继续超过了你以前的表现
+exceed your previous performance as well
+当你达到想要的里程碑时
+as continue to enjoy the dopamine release that
+继续享受多巴胺的释放
+occurs when you hit the milestones that you want to
+那就是主观上“偶尔删除奖励”
+achieve is to occasionally remove reward
+ 假设你设定了一个目标
+subjectively, let's say you set out a goal of making
+我要对财务进行量化
+I'm gonna make this quantitative with respect to finances
+因为这只是一个简单的例子
+'cause it just is an easy description
+但这也可以应用在运动中
+but this could also be in sport.
+这可以应用在学校学习
+This could be in school.
+可以是音乐
+This could be in music
+可以从事任何创造性的工作
+could be in anything creative endeavors
+但假设你设定了特定的财务目标
+but let's say you set out a certain financial goal
+或假设你想获得一定数量
+or let's say you wanna get a certain number
+在任何社交媒体平台上的关注者
+of followers on whatever social media platform
+当你实现这些目标中的每个目标时
+as you reach each one of those goals.
+你现在应该知道
+You should know now that the amount
+多巴胺的释放量不会达到顶峰
+of dopamine is not going to peak.
+实际上会减少
+It's actually going to diminish
+并让你渴望更多   避免崩溃的关键
+and make you crave more the key to avoiding that crash
+但要保持在健康水平
+but to still keep it in healthy levels
+因为那样才能让你继续你的追求
+that will allow you to continue.
+随着你朝着目标迈进
+Your pursuit is as you are, stair casing toward your goal.
+也许是美元  也许是关注者
+Maybe that's dollars, maybe that's followers
+也许那是成绩
+maybe that's grades
+也许这是奖牌或奖杯  什么其他指标
+maybe that's some other metric it's metals or trophies.
+你实际上需要钝化奖励响应
+You actually want to blunt the reward response
+对于其中一些中间目标
+for some of those intermediate goals.
+现在我不是告诉你不能庆祝自己的胜利
+Now I'm not telling you should celebrate your wins
+但我在告诉你  不要庆祝所有这些
+but I'm telling you not to celebrate all of them.
+而我的一个好朋友最近
+Whereas a good friend of mine who recently
+幸运的是  他在财务上取得了巨大的成功
+fortunately for him had a great financial success.
+他问我和其他人我的好朋友
+He asked me and somebody else a good friend of mine.
+那个人非常适应多巴胺奖励时间表
+Who's very tuned into dopamine
+很了解其工作原理
+reward schedules understands how they work
+非常深的理解
+at a really deep level.
+他说：“我不知道下一步该怎么做”
+And he said," I don't know what to do next."
+我们说：“哦  那很简单
+And we said," Oh, well, that's simple,
+你应该只将其中的大部分捐献出去”
+You should just give most of it away."
+这不是什么骗钱的手段
+And this wasn't a ploy to receive any of the money ourselves.
+这实际上是关于减少奖励的影响
+This was really about reducing the impact of that reward.
+希望把钱捐献出去
+Now hopefully giving them money away.
+如果你已经有了足够多的钱
+If you already have enough
+这种行为本身就是一种奖励
+of it would be something that was rewarding in and of itself.
+但是如果你是一个追求大学目标的学生
+But if you're a student who's pursuing goals in university
+或者你是一个追求目标的运动员
+or you're an athlete, who's pursuing goals
+从理性的角度来看  这实际上是有道理的
+it actually makes sense from a rational perspective.
+一旦了解了这些机制  你就可以达到新的表现高峰
+Once you understand these mechanisms to hit a new high point
+获得A+
+of performance, or to get that A-plus or a for you
+或者如果是A-等
+if it's an A-minus, et cetera
+就是告诉自己  好吧  那很好
+and to tell yourself, okay, that was good.
+但而且要去主动挫败那种奖励
+But to actually actively blunt the reward to not go
+不要过分地庆祝  因为这样做
+and celebrate too intensely, because in doing that
+你才能保证多巴胺系统稳定  并确保
+you keep your dopamine system in check and you ensure
+你将继续走下去的道路
+that you're gonna stay on the path of continued pursuit
+不只是为了那件事  而且为了所有事情  
+not just for that thing, but for all things big increases
+多巴胺中大幅度增加  会导致严重的崩溃
+in dopamine leads to big crashes
+提高多巴胺的增加的门槛
+in dopamine and big increases in dopamine up the ante.
+你会更加愿意去花更多时间和精力
+They increase the extent to which you are willing to
+去实现一个超出你能力的目标
+invest time and energy in order to achieve goals
+以及得到可能无法获得的奖励
+and rewards that may be out of your reach.
+你永远不会真正知道自己是否会成功
+You never really know if you're going to succeed.
+因此  为了把这个说得更清楚  庆祝你的胜利
+So to make this crystal clear, celebrate your wins
+但不要庆祝每一次胜利
+but don't celebrate every win.
+这是你可以确保
+That's one way that you can ensure
+你将继续前进的一种方法
+that you're going to continue down the path of progress.
+我认为在学校里的大多数学习工具
+And I think most of the learning tools that are
+是对于对真正表现好的奖励
+in schools are about reward for genuine performance.
+他们是在鼓励我们
+They are about encouraging us.
+我们确实必须相信我们可以表现良好
+We do have to believe that we can perform well.
+成长心态的标志之一就是
+One of the hallmarks of growth mindset is
+内在化  我们还没有做好
+the internalization that we're not getting it right yet.
+“还”这个字很重要
+The word yet is very important.
+还有我们奖励的感觉
+And also the sense that we reward
+我们的良好行为  良好的业绩  但并非每次都如此
+our good behavior, our good performance, but not every time.
+一种方法是实际获得奖励
+One way to do this is to actually take the reward
+并用自己的双手和头脑进行加固
+and reinforcement out of your own hands and your own mind.
+然后你告诉某人  
+And you tell somebody that they are in control of
+他们在控制  你能够对自己的胜利感到高兴
+whether or not you're allowed to feel good about your wins.
+我意识到对于大多数人来说这是非常不自然的
+Now, I realize it's very unnatural for most people
+但是如果你是一个只会追求的人
+but if you're somebody who simply going to be in pursuit
+而且你将真正记录自己的胜利  并且你认为
+and you're going to really register your wins, and you think
+那实际上会让你表现更好
+that that's gonna actually make you a better performer
+它会在短期内发生  但从长远来看不会
+it will in the short term, but not in the longterm.
+这样你就可以解除拉斯维加斯
+So you can lift the what Las Vegas
+和大西洋城等赌博机制
+and Atlantic city and other gambling mechanisms
+这种地方
+and places have known for a long time.
+他们从科学家那里拿走了它
+They lifted it from the scientists.
+你现在可以将其收回  并可以开始利用它了
+You can now take it back and you can start to leverage that.
+而你只要断断续续地实施
+And you just make it intermittent.
+你奖励自己  而不是按可预见的时间表
+You reward yourself, not on a predictable schedule
+所以不是每隔两次或第三次
+so not every other time or every third time
+或每10次  但可以突然3次
+or every 10th time, but sometimes it's three
+然后连续十天都没有
+in a row then not at all for 10 days.
+因此  奖励很重要
+So reward is important.
+自我奖励至关重要
+Self reward is critically important
+但请确保你没有
+but make sure that you're not doing it
+按照如此循规蹈矩的时间表
+on such a predictable schedule that you burn
+它们会耗尽你的多巴胺循环
+out these dopamine circuits or
+削弱你的奋斗和实现能力
+that you undercut your own ability to strive and achieve.
+其实有一个研究生院的故事
+Actually have a story from graduate school
+我被迫
+which I was forced
+进入间歇性加固计划
+into an intermittent reinforcement schedule
+我确实相信对我有很好的帮助
+that I do believe has served me very well
+在我的科学生涯和生活的其他方面
+in my scientific career and other aspects of life.
+我的研究生顾问是一位了不起的科学家
+My graduate advisor was an amazing scientist.
+不幸的是她已经去世了
+Unfortunately, she passed away
+但是她是一位杰出的科学家和杰出的人
+but amazing scientists and amazing human being
+带有一种枯燥无趣且有些残酷的幽默感
+with a very dry and somewhat cruel sense of humor.
+她的名字叫芭芭拉·查普曼（Barbara Chapman）  我们发表了一篇论文
+Her name was Barbara Chapman, and we published a paper
+在《科学》期刊上  
+in the journal, science and science nature
+《科学》《自然》和《细胞》被认为是科学期刊三巨头
+and cell are considered the big three
+最有竞争力的期刊
+the most competitive journals to publish in.
+所以那时候我在《科学》上发表了第一篇论文
+And I had a first author paper in science.
+我真的很兴奋
+It was really exciting to me.
+我只是研究生
+I was a graduate student.
+我为这个发现感到非常兴奋
+I was very excited about the discovery.
+我很兴奋这可是发表在《科学》上诶
+I was excited that it was in science.
+我很激动
+I was just thrilled.
+我记得当论文最终被接受时
+And I remember when the paper finally got accepted
+因为它涉及了很多
+because it had involved a ton
+修订和很多艰苦的工作
+of revisions and a lot of very hard work.
+她进来  说：“论文被接受了”
+And she came in and she said," paper got accepted."
+我非常兴奋
+I was super excited
+她只是坐在那里点点头  我说
+and she just kind of sat there and nodded, and I said
+“我们要庆祝吗？ 要办个趴体吗？
+"are we gonna celebrate, are we gonna have a party?"
+还是  我们将要做什么啊？”
+Or what, like, what are we gonna do it?
+然后  我永远不会忘记她的回答
+And I'll never forget her answer.
+她说：“emmm....
+She said," Emm
+...我认为我们应该跳过这一步”
+I think we should skip this one."
+我以为她在开玩笑
+And I thought she was joking.
+我说：“啥意思啊  跳过这一步？
+And I said," what do you mean skip this one?"
+我们要发论文了诶！”
+We're gonna publish the paper.
+她说  “没错 是要发了”
+He said, yeah, we're gonna publish the paper.
+但她说：“也许当你再发个四篇
+But she said, " maybe when you get like four more
+三篇  两篇？”
+maybe three, maybe two too."
+我以为她在开我玩笑
+And I thought she was messing
+ 她并没有开玩笑
+with me and she wasn't messing with me.
+她是对的
+And she was right.
+我们从来没有开过派对
+We never had a party.
+我们没有为那篇论文举行任何的庆祝活动
+We had a celebration for that paper.
+我认为她真的是在向我灌输两个想法
+I think she was really trying to instill two ideas in me.
+一个是工作本身就应该是
+One is that the work itself was what was supposed to
+最具有奖励意义的
+be most rewarding.
+实验的实践
+That practice of experimentation
+写论文  
+a writing the paper, the experience
+实现目标非常努力的经验
+of achieving something they worked very hard at
+确实的确令人惊讶
+and that did indeed feel amazing.
+我实际上仍然可以在我的体内感觉到它
+I actually can still feel it in my body.
+很兴奋
+Now, the excitement.
+因此  还有一种多巴胺释放
+So there's a, still a dopamine release
+否则弧线会持续很长时间
+or that arc is going very long.
+既然已经发生  那将是20年前
+This would be almost 20 years ago now that this happened.
+所以这很了不起
+So that's remarkable.
+另一个是她是对的
+The other one is that she's right.
+我们从来没有出去庆祝
+We never went out and celebrated
+我们确实庆祝了其他胜利
+and we did celebrate other wins
+将来的其他论文以及类似的事情
+other papers in the future and things of that sort.
+但是她要么有意识地或无意识地把我
+But she was either consciously or subconsciously putting me
+按照间歇性的奖励时间表来培养
+on an intermittent reward schedule.
+直到今天  发生了一些非常好的事情
+And to this day when something really good happens
+我实际上在犹豫我是否要内在化
+I actually hesitate as to whether or not I wanna
+还是去庆祝
+internalize that and celebrate whether I wanna
+我是否想要告诉其他人 作为庆祝的方式
+tell anybody which is its own form of celebration
+因为这样你会获得更多正面的反馈
+because then you're getting positive feedback.
+所以我非常谨慎
+And so I'm very cautious
+我如何部署多巴胺释放以应对胜利
+with how I deploy dopamine release in response to wins.
+当然  这不是我探索事业
+It's certainly not the only way that I've
+唯一的方法
+navigated my career.
+我加入了许多其他原则
+There are a number of other principles I incorporate
+但是间歇性的胜利奖励  间歇性的取得成就奖励
+but intermittent reward for wins
+是一种非常有力的方法  可以确保
+for achievements is a very powerful way to ensure
+你将继续追求接下去的目标
+that you will stay on the path of pursuit.
+那么现在
+At this point in the podcast
+我想花点时间声明一些更正
+I'd like to take a moment to address some corrections.
+我在前几集中犯了一些错误
+I made some errors in previous episodes.
+它们不是主要错误
+They weren't major errors
+但你们指出了一些
+but a couple of you pointed them out
+对我来说  我们追求准确性非常重要
+and it's important to me that we strive for accuracy.
+所以第一个是我在上一集中谈到的
+So the first one was I talked in a previous episode
+关于某些人（不是全部）的潜在利益
+about the potential benefits for some people, not all
+醉茄的药理作用及其在皮质醇钝化中的作用
+of ashwagandha and its role in blunting cortisol
+以及抵消中期压力
+and a way of offsetting medium term,
+和一些长期的压力的方法
+and some long-term stress.
+这是我受益的补剂
+It's a supplement that I've benefited from.
+它通过GABA系统工作
+It works through the GABA system
+和其他一些系统  有人指出
+and some other systems, someone pointed
+得出了一项在大鼠中进行的研究
+out a study that admittedly was done in rats.
+而我在播客中主要是集中与
+I point I was focusing mainly
+对人体的研究中  但他们指出
+on studies in humans during the episode, but they point
+在老鼠身上进行的一项研究表明
+out a study that was done in rats that showed
+对醉茄的长期监控 
+that long-term administration of ashwagandha
+实际上可能会产生一些负面影响
+could actually create some negative effects mainly
+在肌瘤甚至皮质醇系统上
+on the fibroid and perhaps even the cortisol system
+也许是褪黑激素系统
+maybe the melatonin system.
+我只是想承认这项研究
+I just wanna acknowledge that study.
+我将在标题中再次引用它
+I'll reference it in the caption again
+那是一项大鼠研究
+that was a rat study.
+我专注于人类研究
+I was focused on human studies.
+请访问examine.com
+Please go to examine.com.
+放入ashwagandha会告诉你各种效果
+Put in ashwagandha will tell you the various effects
+在大脑和身体的不同方面
+on different aspects of brain and body.
+它还将链接到pub med文章
+It will also link to the pub med articles
+那里相关的论文
+that are relevant there
+它被称为人类效应矩阵
+it is called the human effect matrix
+因为那只针对人类
+'cause that's only focused on humans.
+这就是我喜欢examined.com的原因之一
+That's one of the reasons I like examined.com
+因为它专注于人类研究
+as it's focused on human studies, again
+很棒的免费资源  但是我很感激
+a wonderful free resource, but I do appreciate
+你指出那个研究
+that you pointed out that study
+因为我确实希望人们知道
+because I do want people to be aware of the range
+这些各种化合物具有的作用的对象范围
+of effects that these various compounds can have as well.
+前几集几次
+A couple of times in previous episodes
+我说的是5-HTP  而不是5-ht
+I said five HTP and not five HT five
+5-HT是血清素 
+5-HT is serotonin five
+5- HTP是血清素的前体 
+5-HTP is a precursor to a serotonin.
+我说的是补品
+I was talking about supplements
+以及能刺激血清素释放的化合物
+and compounds that can stimulate the release of serotonin.
+在上一集中  我实际上是在指
+In the previous episode, I was actually referring
+前提是
+to it in a context
+我个人不喜欢服用5-HTP
+for which I don't personally like to take five HTP.
+那只是我自己的偏见
+That's just my own bias
+由于我在那集中描述的原因
+for reasons I described in that episode.
+但是  如果你听到我说5-HTP
+But if you heard me say five HTP
+而我想说的其实是5-HT时  我表示歉意
+when I meant to say five HT, I apologize.
+最后  我只想再次指出
+And then last, I just wanna point out again
+我一开始提到的东西
+something that I mentioned at the beginning
+这就是Huberman Lab Podcast开始有西班牙字幕了
+which is that the Huberman Lab Podcast is now subtitled
+1、2集
+in Spanish episodes one and two
+以及我们的欢迎视频都是西班牙语
+as well as our welcome video are in Spanish.
+其他的将很快会有字幕
+The other ones will be subtitled soon.
+你可以期望在接下来的几周内
+You can expect that within the next couple of weeks.
+所以如果你有说西班牙语的朋友
+So if you know Spanish speaking
+更喜欢用西班牙语看
+people who prefer to digest the information
+或者你也喜欢用西班牙语看
+in Spanish or that's,
+你可以看西班牙语字幕
+you can look forward to the Spanish subtitles.
+你需要激活那些
+You need to activate those
+在YouTube的字幕功能中
+in the caption feature on YouTube.
+不幸的是  我们没有西班牙语配音
+Unfortunately, we don't have Spanish dubbing
+在音频平台上
+over on the audio platforms.
+我再次意识到  我们涵盖了很多内容
+I realized once again, we've covered a lot of material.
+希望你现在知道更多
+Hopefully you now know far more
+关于多巴胺系统的奖励和动机
+about the dopamine system reward and motivation
+比你在本播客开始时要了解的更多
+than you did at the beginning of this podcast.
+希望你也了解另一面
+Hopefully you also understand the other side
+多巴胺和奖励  这是痛苦
+of dopamine and reward, which is pain
+以及这种愉悦痛苦系统的平衡
+and the balance of this pleasure pain system, as well
+作为我们称为或被描述为“更多”的分子
+as the molecules that we call or that were described
+在< the molecule of more>书中  我应该说
+in the molecule of more book, I should say
+作为"这里+现在"分子
+as the here and now molecules
+诸如血清素和内源性大麻素之类的东西
+things like serotonin and the endocannabinoids.
+我们讨论了各种基于补剂的工具
+We talked about a variety of supplement based tools,
+维生素B6和锌之类的东西
+things like vitamin B6 and zinc
+与催乳素PEA有关
+as they relate to prolactin P-E-A
+非常有趣的化合物
+Very interesting compound again
+我从来没有尝试过 但很有趣
+I've never tried it very interesting
+肯定有人在使用 左旋多巴  刺毛黧豆
+definitely in use out there L-DOPA MuCuna
+讲了咖啡因  讲了尼古丁
+appearings talked about caffeine, talked about nicotine.
+谈了一些Adderall的影响
+Talk about how some of the effects
+完全可以通过认知来创建
+of Adderall can be created purely cognitively
+无需实际摄取Adderall  只需
+without actually ingesting Adderall, simply
+通过告诉人们他们正在摄取Adderall
+by telling people they're ingesting Adderall
+给他们咖啡因
+giving them caffeine.
+我引用了一个非常有趣的研究
+Very interesting study that I referenced a
+早些时候
+little bit earlier,
+我们谈到了安排多巴胺
+and we talked about scheduling dopamine
+为自己采用间歇性的奖励时间表
+adopting the intermittent reward schedule for yourself
+为了确保长期参与
+in order to ensure long-term engagement
+我希望是健康的追求
+with pursuits that I hope are healthy pursuits
+和那些为你服务的
+and ones that serve you well
+这绝不是详尽的讲解
+this was by no means an exhaustive coverage
+所有事物  多巴胺和动力
+of all things, dopamine and motivation.
+也不是
+It was by no means.
+我们唯一聊到多巴胺和动机的节目
+The only time that we're gonna talk
+下一期
+about dopamine and motivation, next episode
+我们将继续交谈
+we're gonna continue to talk
+从另一个角度讲情感
+about emotions from yet another perspective
+但希望你现在有足够的想法
+but hopefully you have enough now to think
+同时  你可以考虑采用
+about in the meantime, and that you can consider adopting
+在你自己的生活中去用一些方法
+in your own life and practices 
+一如既往
+as always.
+非常感谢你的宝贵时间和关注
+I really wanna thank you for your time and attention.
+如果你今天学到了一些有用的东西  请继续进行下去
+If you learned something useful today, please pass it along.
+我们科学教的一件事
+One of the things that we teach
+我认为真的很棒的
+in science that I think is really wonderful
+在生活中普遍采用的是  一个想法
+to adopt in general in life is this idea
+就是“一看  一做  一教”
+of watch one, do one, teach one.
+这就是我们告诉研究生和医学生的
+This is what we tell graduate students and med students
+和博士后  看某人做某事  学习它
+and post-docs watch somebody do something, learn it
+然后做  应用它  
+then do it, apply it, see
+看看它是否对你有用  然后教给别人
+if it works for you and then teach it.
+其实通常不是“一看  一做  一教”
+So it's usually not watch one, do one, teach one.
+而是“一看”
+It's usually watch one
+做20遍  然后尽可能多的教别人
+do 20 teach as many people as you possibly want.
+我不是在寻找归因
+I'm not looking for attribution.
+这些是扎根的工具
+These are tools that are grounded
+我在神经科学领域无法声称归因
+in neuroscience for which I can't claim attribution.
+我只是把它们传播出去
+I'm just passing them along so
+如果你愿意  可以采用它们并将其传递
+that you can adopt them if you like and pass them along.
+如果你认为人们可以受益
+If you think people can benefit
+许多人继续问
+from them, many of you have continued to ask how
+如何帮助支持Huberman Lab播客
+you can help support the Huberman Lab Podcast.
+如果你喜欢我们在这里做的事情
+If you like what we're doing here.
+你喜欢我们共享的信息
+And you like the information that we're sharing
+请在YouTube频道上单击“订阅”
+please click subscribe on the YouTube channel.
+这确实对我们也有帮助
+That really helps us as well.
+如果你想点击通知按钮  
+If you wanna hit the notifications button, that
+可以确保你不会错过任何节目
+will allow you to make sure you don't miss any episodes.
+通常  我们每个星期一发布一集
+Typically we release episodes every Monday
+但是将来
+but in the future
+我们可能会发一些短片
+we may release episodes as well as short clips.
+不仅如此
+More often than that as well
+如果你要订阅Apple或Spotify或同时订阅
+If you want to subscribe on Apple or Spotify or both
+这对我们有很大的帮助
+that's a great help to us.
+在Apple上  你有机会给我们
+And on Apple, you have the opportunity to leave us
+最高可达五星级的评价
+up to a five star review.
+我们确实用YouTube的评论部分来收集建议
+We do use the comment section here on YouTube to
+告知将来的内容  并解决任何问题
+inform future content and to address any questions
+并说明一些错误信息
+and clear up any miss communications
+或可能产生的误解
+or misconceptions that might arise.
+所以请提出你的问题和意见
+So please put your questions, your comments
+以及你对未来内容的建议
+and your suggestions for future content.
+在下面的评论部分
+In the comment section below.
+支持我们的另一种方法是
+The other way to support us is to check
+去看看我们提到的赞助商
+out our sponsors that were mentioned
+在播客的开头
+at the beginning of the podcast.
+这些赞助商的链接在标题中
+The links to those sponsors are in the captions.
+我们还建立了一个Patreon帐户
+As well we've set up a Patreon account
+这是patreon.com/andrewhuberman
+which is patreon.com/andrewhuberman.
+这样你就可以支持播客
+That allows you to support the podcast
+用任何金额支持
+at any level that you like as well.
+因为我们提到补品
+Because we mentioned supplements
+在整个播客中不时地提到
+from time to time throughout the podcast
+人们总是问什么品牌
+and people always ask about what brands
+以及我们用于或建议使用这些补充剂的来源
+and sources we use or suggest for those supplements.
+我们与Thorne合作
+We partnered with Thorne
+Thorne  Thorne补剂是众所周知的
+T-H-O-R-N-E Thorne supplements are known to be
+在最严格的补品中
+among the most stringent supplements
+就什么的特殊性而言
+in terms of the specificity of what's
+瓶子上的标签与标签上的标签相符
+in the bottle matches what's on the label.
+成分的质量极高
+The quality of the ingredients is exceedingly high
+梅奥诊所
+the Mayo Clinic
+与所有主要的体育组织合作
+and all the major sports organizations are partnered
+因为如此严格而与Thorne在一起
+with Thorne because of that stringency
+以及对严谨的承诺
+and that commitment to rigor.
+如果你想看看补剂
+If you'd like to see the supplements
+我自己吃的补剂
+that I personally take
+并获得20％的折扣
+as well as get 20% off any
+Thorne让你可以服用的补品
+of the supplements that Thorne makes you can go
+到thorne.com/u  
+to thorne.com/u, that's the letter
+U  斜线Huberman（thorne.com/u/huberman）
+ U, slash Huberman (thorne.com/u/huberman).
+你可以看到我服用的食物以及其中任何补品
+And you can see what I take and any of those supplements
+以及其他任何产品
+as well as any of the other products
+在Thorne网站上将可用
+on the Thorne site will be available
+以thorne.com/u/huberman的价格享受20％的折扣
+to you at 20% off that's thorne.com/u/huberman
+可获得Thorne生产的任何补品20％的折扣
+to get 20% off any of the supplements that Thorne makes.
+最后  我想谢谢你
+Finally, I wanna thank you
+今天的时间和精力
+for your time and attention today.
+我希望你学到了很多东西  也学到了很多东西
+I hope you learned a lot and that you learned a lot
+你可以结合使用的工具
+of possible tools that you could incorporate
+融入你的生活  因为它与动机和情感有关
+into your life as it relates to motivation and emotion.
+感谢你对科学的关注
+Thank you for your interest in science.
+如果喜欢 也别忘了一键三连up主哦:)

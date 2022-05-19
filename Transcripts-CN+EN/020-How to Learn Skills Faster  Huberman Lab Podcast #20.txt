@@ -1,0 +1,5039 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+- 欢迎来到 Huberman Lab 播客
+- Welcome to the Huberman Lab Podcast
+我们讨论科学的地方
+where we discuss science
+和基于科学的日常生活工具
+and science-based tools for everyday life.
+[器乐]
+[instrumental music]
+- 我是 Andrew Huberman  我是神经生物学和眼科教授
+- I'm Andrew Huberman, and I'm a professor of neurobiology
+在斯坦福医学院
+and ophthalmology at Stanford School of Medicine.
+这个播客与我在
+This podcast is separate from my teaching
+斯坦福大学的研究角色是分离的
+and research roles at Stanford.
+然而  这是我的愿望和努力的一部分
+It is however, part of my desire and effort
+为消费者提供有关科学的信息的零成本
+to bring zero cost to consumer information about science
+以及面向公众的科学相关工具
+and science related tools to the general public.
+为了配合这个主题
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是 Belcampo Meat Company
+Our first sponsor is Belcampo Meat Company.
+Belcampo Meat Company 是一个再生农场
+Belcampo Meat Company is a regenerative farm
+在北加州饲养有机草饲
+in Northern California that raises organic grass fed
+和经过草加工的经过认证的人道肉类
+and grass-finished certified humane meats.
+我大约一天吃一次肉
+I eat meat about once a day.
+我既不是纯肉食动物  也不是素食主义者
+I'm neither pure carnivore, nor am I a vegetarian.
+很明显我吃肉
+Obviously I eat meat.
+我的饮食习惯是禁食到中午
+The way I eat is I tend to fast until about noon
+然后我吃了第一顿饭
+and then I have my first meal
+它通常由一块牛肉组成
+which generally consists of a piece of beef.
+它要么是碎牛肉  要么是牛排
+It's either ground beef or a steak.
+我喜欢肋眼  我喜欢扁铁  这些东西
+I like ribeyes, I like flat irons, these kinds of things
+和一份小沙拉  有时是一份大沙拉
+and a small salad, sometimes a large salad.
+然后一整天  我通常都是低碳水化合物
+And then throughout the day, I generally am low carb
+直到晚上我吃意大利面和米饭
+until the evening when I eat pasta and rice
+和那种东西
+and things of that sort.
+那样吃可以优化我的警觉度
+Eating that way is what optimizes my levels of alertness
+并优化我的睡眠
+and optimizes my sleep.
+我在之前的播客节目中谈到过这个
+I've talked about this on previous podcast episodes,
+那么  因为我基本上每天都吃肉
+Now, because I eat meat essentially every day,
+那肉的来源对我来说非常重要
+the source of that meat is extremely important to me.
+我希望它对我健康
+I want it to be healthy for me
+我想要它来自的动物
+and I want the animals that it comes from
+身体健康  过上美好的生活
+to be healthy and to have lived a good life.
+传统饲养的动物仅限于饲养场
+Conventionally raised animals are confined to feedlots
+他们吃炎症性谷物的饮食
+and they eat a diet of inflammatory grains,
+这对他们来说很糟糕  对我们来说也很糟糕
+which is terrible for them and it's terrible for us
+当我们吃那些肉时
+when we eat those meats.
+贝尔坎波的动物在开阔的牧场上吃草
+Belcampo's animals graze on open pastures
+和季节性草  导致肉
+and seasonal grasses, which results in meat
+它的营养成分和健康脂肪含量更高
+that is higher in nutrients and healthy fats.
+他们实际上有非常高水平的欧米茄三
+They actually have very high levels of Omega threes
+我在这个播客中也谈到过
+which I've also talked about on this podcast,
+对身心健康很重要
+are important for mental and physical health
+出于各种原因
+for a variety of reasons.
+Belcampo 饲养动物的方式
+The way Belcampo raises its animals
+对环境也有好处
+is also good for the environment.
+他们实践再生农业
+They practice regenerative agriculture,
+这意味着它对气候有利  对碳不利
+which means it's climate positive and carbon negative
+这意味着对我们和地球都有好处
+which translates to good for us and good for the planet.
+你可以订购 Belcampo 可持续饲养的肉类
+You can order Belcampo sustainably raised meats
+直接送到你家门口
+to be delivered straight to your door
+访问 belcampo.com/huberman 使用我的代码 Huberman
+using my code Huberman by going to belcampo.com/huberman
+并且你将在第一次订购时享受 20% 的折扣
+and you'll get 20% off your first time order.
+那是 belcampo.com/huberman 可享受 20% 的折扣
+That's belcampo.com/huberman for 20% off.
+今天的播客也是由 InsideTracker 带给我们的
+Today's podcast is also brought to us by InsideTracker.
+InsideTracker 是一个个性化的营养平台
+InsideTracker is a personalized nutrition platform
+分析来自你的血液和 DNA 的数据
+that analyzes data from your blood and DNA
+帮助你更好地了解你的身体
+to help you better understand your body
+并达到你的健康目标
+and reach your health goals.
+长期以来  我一直坚信要完成血液检查
+I've long been a believer in getting blood work done
+原因很简单  很多人
+for the simple reason that many,
+如果不是大多数影响因素
+if not most of the factors that impact
+我们眼前和长期的健康
+our immediate and longterm health
+只能通过验血来评估
+can only be assessed from a blood test.
+现在随着现代 DNA 测试的出现
+And now with the advent of modern DNA tests,
+我们可以获得更多信息
+we can get additional information
+关于我们目前的健康状况和我们的健康轨迹
+about our current health status and our health trajectory.
+验血和 DNA 测试的主要问题之一
+One of major problems with blood tests and DNA tests
+可用于大多数来源是你得到的数字
+available for most sources is that you get the numbers back
+你可以很容易地看到这些数字是否
+and you can easily see whether or not those numbers
+是在标准范围内还是在范围外
+are within the standard range or outside the range.
+但是很难知道如何处理这些信息
+But it's very hard to know what to do with that information.
+还有各种因素是什么
+Also what the various factors are
+被测量的通常是非常神秘的
+that are being measured is often very cryptic.
+使用 InsideTracker  他们澄清了一切
+With InsideTracker, they clarify everything.
+他们使它非常清晰和简单
+They make it very clear and simple
+至于这些因素中的每一个都与什么有关
+as to what each of those factors relates to,
+所以他们让你对那些是什么有一些了解
+so they give you some understanding of what those are
+他们会给你想法和建议
+and they give you ideas and suggestions
+关于你可以用你的生活方式做的事情
+about things that you can do with your lifestyle,
+改变你的饮食  改变你的补充剂
+changes to your diet, changes to your supplementation,
+改变你的睡眠时间表或锻炼方式
+changes to your sleep schedule or exercise patterns
+可以用于优化水平
+that can serve to optimize the levels
+那些各种因素和你的 DNA
+of those various factors and your DNA.
+另外  他们有一种叫做内在年龄测试的东西
+In addition, they have something called the inner age test
+比较你的实际年龄
+which compares your chronological age
+你已经知道你的生理年龄
+which you already know with your biological age
+这让你了解自己的寿命
+which gives you a sense of your lifespan
+或预测寿命
+or predicted lifespan.
+所以这非常重要  你可以想象
+So that's crucially important, and you can imagine
+为什么包括我在内的很多人都想要这些信息
+why many people, including me would want that information.
+如果你想尝试 InsideTracker
+If you'd like to try InsideTracker
+你可以访问 insidetracker.com/huberman
+you can visit insidetracker.com/huberman
+并且你将获得任何 InsideTracker 计划的 25% 折扣
+and you'll get 25% off any of InsideTracker's plans.
+在结账时使用代码 Huberman
+Use the code Huberman at checkout,
+那是 insidetracker.com/huberman 获得 25% 的折扣
+that's insidetracker.com/huberman to get 25% off
+InsideTracker 的任何计划并使用代码 Huberman
+any of InsideTracker's plans and use the code Huberman
+结账
+at checkout.
+今天的这一集也是由Athletic Greens带给我们的
+Today's episode is also brought to us by Athletic Greens.
+athleticgreens是一种多合一的维生素矿物质
+Athletic Greens is an all-in-one vitamin mineral
+益生菌饮料
+probiotic drink.
+我已经使用 Athletic Greens 十多年了
+I've been using Athletic Greens for well over a decade now.
+我开始使用 Athletic Greens 并且我仍在使用
+I started using Athletic Greens and I still use
+Athleticgreens  因为我觉得它相当令人眼花缭乱
+Athletic Greens because I find it rather dizzying
+知道要服用哪些维生素和矿物质
+to know which vitamins and minerals to take.
+和Athleticgreens  我涵盖了我所有的基地
+And with Athletic Greens, I cover all my bases
+维生素和矿物质
+of vitamins and minerals.
+此外  它含有益生菌  我们现在知道
+In addition, it has probiotics and we now know
+来自大量高质量的同行评审研究
+from an enormous number of quality peer reviewed studies
+肠道微生物组至关重要
+that the gut microbiome is critically important
+为了我们的免疫系统功能  为了肠道大脑通路
+for our immune system function, for the gut brain access
+和我们的心理功能
+and for our mental functions
+益生菌是支持肠脑轴的一种方式
+and probiotics are one way to support the gut brain axis
+和肠道健康
+and the gut health generally.
+对于Athleticgreens  我基本上只是加水
+With Athletic Greens, I basically just add water,
+放入少许柠檬汁
+put in a little bit of lemon juice
+因为那是我喜欢的方式
+'cause that's the way I like it.
+拌匀  味道鲜美
+Mix it up, it tastes delicious.
+我会每天做一到两次
+I'll do that once or twice a day.
+至少对我来说它与禁食兼容
+It's compatible with fasting at least for me,
+它不会让我退出禁食模式
+it doesn't take me out of a fasting mode
+我在一天早些时候做的
+which I do early in the day.
+所以大多数情况下  我会在一天早些时候拥有我的Athleticgreens
+So most often I'll have my Athletic Greens early in the day.
+然后有时我也会有另一个
+And then sometimes I'll also have another one
+深夜  有时甚至在睡觉前
+late in the evening, or sometimes even before bed.
+我喝了之后就可以睡觉了  没有问题
+I'm able to sleep after drinking it without a problem.
+如果你想尝试Athleticgreens
+If you'd like to try Athletic Greens
+你可以访问athleticgreens.com/huberman
+you can go to athleticgreens.com/huberman.
+如果你这样做  你可以要求特别优惠
+And if you do that, you can claim a special offer.
+他们会给你五个免费旅行包
+They'll give you five free travel packs,
+哪些是这些小包  使它变得非常容易
+which are these little packs that make it very easy
+在旅途中混合athleticgreens
+to mix up Athletic Greens while you're on the road
+或在汽车或飞机上
+or in the car or on a plane.
+它使这一切变得非常简单
+It makes all of that very simple.
+此外  他们会给你一年的供应
+And in addition, they will give you a year supply
+维生素 D3 K2
+of vitamin D3 K2.
+也有大量数据支持这一事实
+There are also a lot of data supporting the fact
+维生素 D3 至关重要
+that vitamin D3 is critical
+用于各种健康指标
+for a variety of health metrics.
+我们都知道我们可以获得维生素D3
+We all know that we can get vitamin D3
+来自太阳  但包括我在内的很多人
+from the sun, but many people including me
+没有得到足够的阳光或 D3
+were not getting enough sunlight or D3
+即使我得到了很多阳光
+even if I was getting a lot of sunlight.
+我知道那是因为我测量了 D3 的血液水平
+I know that 'cause I had my blood levels measured of D3.
+所以我每天都使用维生素 D3
+So I use vitamin D3 every day
+除了我拿走的其他东西
+in addition to the other things I take,
+包括Athleticgreens
+including Athletic Greens.
+如果你访问athleticgreens.com/huberman
+If you go to athleticgreens.com/huberman,
+你将获得Athleticgreens  五个免费旅行包
+you'll get the Athletic Greens, the five free travel packs
+以及一年的维生素 D3 和 K2 供应量
+and a year supply of the vitamin D3 and K2,
+那是Athleticgreens.com/huberman
+That's athleticgreens.com/huberman
+索取特别优惠
+to claim the special offer.
+本月在 Huberman Lab 播客中
+This month on the Huberman Lab Podcast,
+我们谈论的都是身体表现
+we're talking all about physical performance.
+所以这意味着运动表现  休闲运动
+So that means athletic performance, recreational exercise,
+举重、跑步、游泳、瑜伽、
+weightlifting, running, swimming, yoga,
+技能和技能学习
+skills and skill learning.
+今天  我们要讨论和关注
+Today, we're going to talk about and focus
+技能学习
+on skill learning.
+我们将专注于如何更快地学习技能
+We are going to focus on how to learn skills more quickly
+尤其是运动技能
+in particular motor skills.
+这也将转化为事物
+This will also translate to things
+比如音乐技巧和演奏乐器
+like musical skills and playing instruments,
+但我们将主要关注身体运动
+but we're mainly going to focus on physical movements
+超出手的身体
+of the body that extend beyond the hands
+就像只是弹钢琴或手指
+like just playing the piano or the fingers
+就像弹吉他一样
+like playing the guitar.
+但我们要谈的一切
+But everything we're going to talk about
+还将为组建和巩固服务
+will also serve the formation and the consolidation
+以及其他类型技能的表现
+and the performance of other types of skills.
+所以如果你对如何表现得更好感兴趣
+So if you're interested in how to perform better,
+不管是舞蹈还是瑜伽
+whether or not it's dance or yoga
+甚至是非常重复的东西
+or even something that's just very repetitive
+就像跑步或游泳一样  这个播客节目适合你
+like running or swimming, this podcast episode is for you.
+我们将深入研究技能学习的科学
+We're going to go deep into the science of skill learning.
+我们将讨论非常具体的工具方法
+And we are going to talk about very specific protocols
+科学指出并证实
+that the science points to and has verified,
+让你可以更快地学习以嵌入该学习内容
+allow you to learn more quickly to embed that learning
+以便你记住它并能够建立技能
+so that you remember it and to be able to build up skills
+比其他方式更快
+more quickly than you would otherwise.
+我们还将涉及一些事情
+We are also going to touch on a few things
+我经常被问到  但幸运的是最近
+that I get asked about a lot, but fortunately recently
+我有时间深入研究文献
+I've had the time to go deep into the literature,
+为你提取数据  这就是心理可视化
+extract the data for you and that's mental visualization.
+如何将特定技能或实践可视化
+How does visualizing a particular skill or practice
+服务于学习和/或巩固
+serve the learning and or the consolidation
+那个做法
+of that practice.
+事实证明有一些绝对引人注目的工具方法
+It turns out there are some absolutely striking protocols
+你可以使用  惊人的意思他们允许你
+that one can use, striking meaning they allow you
+学得更快  他们让你记住
+to learn faster and they allow you to remember
+更快更好地做事
+how to do things more quickly and better
+如果你不做这个心理彩排
+than if you were not doing this mental rehearsal.
+但是心理排练的模式
+But the pattern of mental rehearsal
+当你进行心理排练时
+and when you do that mental rehearsal
+结果证明是至关重要的
+turns out to be vitally important.
+所以我对今天的播客感到很兴奋
+So I'm excited for today's episode.
+我们将与你分享大量信息
+We're going to share a lot of information with you
+将会有很多非常简单的立即使用的理论
+and they're going to be a lot of very simple takeaways.
+让我们开始吧
+So let's get started.
+在我们进入技能学习的话题之前
+Before we get into the topic of skill learning
+和加速技能学习的工具
+and tools for accelerating skill learning,
+我想简单回顾一下温度这个话题
+I want to briefly revisit the topic of temperature
+上一集介绍过
+which was covered in the last episode
+只强调一些事情并澄清
+and just highlight a few things and clear up
+一些误解
+some misunderstandings.
+所以上一集讲了这些不可思议的数据
+So last episode talked about these incredible data
+来自我的同事 Craig Heller 在斯坦福大学的实验室
+from my colleague, Craig Heller's lab at Stanford.
+他在生物系
+He's in the department of biology,
+表明以特定方式冷却手掌
+showing that cooling the palms in particular ways
+并且在特定时间可以让运动员
+and at particular times can allow athletes
+或者只是休闲锻炼者做更多的引体向上
+or just recreational exercisers to do more pull-ups,
+双手撑体  单位时间内的卧推  跑得更远
+dips, bench presses per unit time, to run further,
+骑得更远  这样做会感觉更好
+to cycle further and to feel better doing it.
+确实有令人难以置信的数据被锚定
+There really are incredible data that are anchored
+在血管系统的生物学中  血液供应
+in the biology of the vascular system, the blood supply
+以及它如何帮助我们降温
+and how it's involved in cooling us.
+你们中的许多人  实际上有数十人说
+Many of you, dozens of you in fact said,
+“等一下  你在这一集中给了我们一个方法
+"Wait a second, you gave us a protocol in this episode
+“这表明我们应该定期冷却我们的手掌
+"which says that we should cool our palms periodically
+“在整个锻炼过程中  才能更多地运动
+"throughout exercise in order to be able to do more work.
+“但在在那之前的一集中  关于生长激素
+"But on the episode, before that on growth hormone
+“还有甲状腺激素那期里面  你说加热身体
+"and thyroid hormone, you said that heating up the body
+“有利于生长激素的释放”
+"is good for release of growth hormone."
+我只想澄清这两件事都是真的
+And I just want to clarify that both things are true.
+这是两个独立的工具方法
+These are two separate protocols.
+在运动之前  你应该总是热身
+You should always warm up before you exercise.
+热身不会让你的体温升高
+That warmup will not increase your body temperature
+或肌肉温度到
+or the muscle temperature to the point
+降低你的工作能力的点
+where it's going to diminish your work capacity,
+它不会损害你的表现
+that it's going to harm your performance.
+手掌的冷却  这真的只是一个
+The cooling of the palms, which is really just a route
+以有效的方式冷却你的核心途径
+to cool your core in an efficient way,
+最有效的方式  事实上
+the most efficient way, in fact
+是关于提高性能
+is about improving performance.
+通过运动加热身体
+Heating up the body with exercise
+并专注于热量增加或使用桑拿
+and focusing on heat increases or using sauna
+因为热量增加是为了促进生长激素的释放
+for heat increases is geared toward growth hormone release,
+这是另一回事
+which is a separate matter.
+所以你可以做这两个工具方法
+So you can do both of these protocols
+但你会想在不同的时间做它们
+but you would want to do them at separate times.
+所以只是为了让这个非常具体
+So just to make this very concrete
+在我进入今天的主题之前
+before I move on to today's topic.
+如果你有兴趣做更多的工作
+If you're interested in doing more work,
+能够在单位时间内做更多组和次数
+being able to do more sets and reps per unit time
+并且感觉更好做或跑得更远
+and feel better doing it or to run further
+或进一步循环  那么定期冷却手掌
+or to cycle further, then cooling the palms periodically
+正如我在上一集中所描述的
+as I described in the previous episode
+将是你要做的事情
+is going to be the way to go.
+如果你对释放生长激素感兴趣
+If you're interested in getting growth hormone release,
+那么热桑拿
+well then hot sauna.
+如果你没有桑拿  我提供了一些其他工具
+And I offered some other tools if you don't have a sauna
+在关于生长激素和甲状腺激素的那一集中
+in the episode on growth hormone and thyroid hormone
+将是要走的路
+is going to be the way to go.
+所以这些是单独的工具方法
+So those are separate protocols.
+你可以将它们纳入你的健身计划
+You can include them in your fitness regime
+和你的训练制度  但你确实想这样做
+and your training regime, but you do want to do them
+在不同的时间
+at separate times.
+作为最后一点
+And as a last point about this,
+我还提到咖啡因可以帮助
+I also mentioned that caffeine can either help
+或阻碍身体性能取决于是否
+or hinder performance depending on whether or not
+你适应了咖啡因  因为方式
+you're caffeine adapted because of the ways
+咖啡因会影响体温
+that caffeine impacts body temperature
+以及各种诸如血管扩张和收缩之类的事情
+and all sorts of things like vasodilation and constriction.
+这很简单
+It's very simple.
+如果你在锻炼前喜欢咖啡因
+If you enjoy caffeine before your workouts
+你习惯了咖啡因  这意味着你喝了它
+and you're accustomed to caffeine, meaning you drink it
+一周三五次或更多
+three or five times or more a week.
+100 至 300 毫克  这是典型的每日剂量
+100 to 300 milligrams this is a typical daily dose
+的咖啡因
+of caffeine.
+你们中的一些人摄入更多  一些更少
+Some of you are ingesting more, some less.
+如果你经常这样做
+If you do that regularly,
+那么  摄入咖啡因就好了
+well, then it's going to be just fine to ingest caffeine
+在你训练之前
+before you train.
+它不会影响你的体温
+It's not going to impact your body temperature
+和你的血管扩张或收缩
+and your vasodilation or constriction
+以会阻碍你的方式
+in ways that will hinder you.
+但是  如果你不是经常喝咖啡因的人
+However, if you're not a regular caffeine user
+你在想  “哦  我要喝杯咖啡
+and you're thinking, "Oh, I'm going to drink a cup of coffee
+“并获得这种巨大的身体性能增强效果”
+"and get this huge performance enhancing effect."
+嗯  这不会发生
+Well, that's not going to happen.
+有可能会导致增加
+Chances are it's going to lead to increases
+体温和血液流动方式的变化
+in body temperature and changes in the way that blood flow
+发生在你的身体里  特别是
+is happening in your body, and in particular
+在这些手掌表面和你的脸上
+on these palmer surfaces and in your face
+这可能会降低性能
+that is going to likely diminish performance.
+所以如果你喜欢咖啡因并且已经习惯了
+So if you enjoy caffeine and you're accustomed to it,
+所谓的咖啡因适应  请在训练前享用
+so-called caffeine adapted, enjoy it before your training.
+如果你经常  请原谅  如果你不经常
+If you regularly, excuse me, if you do not regularly
+使用咖啡因  那么你可能不想查看咖啡因
+use caffeine, then you probably do not want to view caffeine
+作为性能增强工具
+as a performance enhancing tool.
+当我们谈论工具时
+And while we're on the topic of tools
+因为这是关于运动表现的一个月
+and because this is a month on athletic performance
+以及锻炼和身体技能学习
+and exercise and physical skill learning,
+我想提供一个额外的工具
+I want to offer an additional tool
+我当然觉得很有用  这是如何缓解
+that I've certainly found useful, which is how to relieve
+所谓的侧缝或侧抽筋
+the so-called side stitch or side cramp
+跑步或游泳时
+when running or swimming.
+这实际上与呼吸有关
+This actually relates to respiration
+和神经系统  它不是抽筋
+and to the nervous system and it is not a cramp.
+如果你曾经出去跑步  你觉得
+If you've ever been out running and you felt like
+你的身边很痛
+you had a pain on your side,
+痛苦可以是任何数量的事情
+that pain could be any number of things,
+但感觉像你身边的抽筋
+but what feels like cramping of your side
+实际上是由于所谓的侧支投射神经循环
+is actually due to what's called collateralization
+这是比侧抽筋或侧缝
+of the phrenic nerve which is a lot harder to say
+更复杂的说法
+than a side cramp or a side stitch.
+但情况是这样的
+But here's the situation.
+你有一组神经  叫做膈神经
+You have a set of nerves, which is called the phrenic nerve
+PHRENIC
+P-H-R-E-N-I-C.
+从脑干向下延伸的膈神经
+The phrenic nerve, which extends down from your brainstem
+本质上  这个区域到你的横膈膜
+essentially, this region to your diaphragm
+来控制你的呼吸
+to control your breathing.
+它有抵押品  这意味着它有一个分支
+It has a collateral, meaning it has a branch
+就像树上的树枝可以革新你的肝脏
+just like the branch on a tree that innovates your liver.
+如果你的呼吸不够深
+And if you are not breathing deeply enough,
+可能发生的是你有时可以得到所谓的
+what can happen is you can get what's called sometimes
+参考疼痛
+a referenced pain.
+参考疼痛可能会很熟悉
+Reference pain is probably going to be familiar
+给你们读过的任何人
+to any of you have ever read
+关于如何识别心脏病发作
+about how to recognize heart attack.
+心脏病发作的人有时会感到疼痛
+People have heart attacks will sometimes have pain
+在他们身体的一侧  左臂
+on one side of their body, the left arm,
+有时人们背部的一部分疼痛
+sometimes people that have pain in a part of their back
+或者突然肩膀也痛
+or suddenly also get pain in their shoulder
+或他们脸的一部分
+or part of their face.
+这与我们的许多神经分支这一事实有关
+This has to do with the fact that many of our nerves branch,
+意味着他们有抵押
+meaning they're collateralized
+到身体的不同器官和部位
+to different organs and areas of the body.
+那些神经交织在一起的方式
+And the way those nerves are woven together,
+通常情况下  如果我们破坏模式
+it's often the case that if we disrupt the pattern
+电活动的激发
+of firing of electrical activity
+在那些神经分支之一
+in one of those nerve branches
+其他人也受到影响
+that the other ones are affected too.
+侧缝  你身边的疼痛经常发生
+The side stitch, the pain in your side as often
+因为横膈膜的收缩
+because of the contractions of the diaphragm
+因为你锻炼时的呼吸方式
+because of the way you're breathing while you're exercising,
+跑步、游泳或骑自行车
+running, or swimming or biking.
+结果  你会感到痛苦
+And as a consequence, you feel pain in your side
+但这不是抽筋
+but that's not a cramp.
+缓解的方法很简单
+The way to relieve it is very simple.
+你做我说过的生理方面
+You do the physiological side that I've talked about
+在播客的前几集和其他地方
+in previous episodes of the podcast and elsewhere
+就是通过鼻子双吸气
+which has a double inhale through the nose,
+非常深  然后长长的呼气
+very deep and then a long exhale.
+你可能想重复两三遍
+And you might want to repeat that two or three times.
+通常这会减轻侧缝
+Typically that will relieve the side stitch
+因为它改变了发射模式的方式
+because of the way that it changes the firing patterns
+膈神经的
+of the phrenic nerve.
+所以侧缝很烦人  很痛苦
+So the side stitch is annoying, it's painful,
+有时我们认为我们脱水了
+sometimes we think we're dehydrated
+你可能会脱水
+and you might be dehydrated.
+但很多时候只是我们在呼吸
+But oftentimes it's just that we're breathing
+以某种方式引起肝脏的一些参考疼痛
+in a way that causes some referenced pain of the liver.
+我们称之为侧缝或侧抽筋
+We call it a side stitch or a side cramp,
+你可以很容易地缓解它
+and you can relieve it very easily
+通过双吸气  长呼气
+through the double inhale, long exhale.
+那个图案做了两三遍
+That pattern done two or three times,
+通常你可以继续从事这项运动
+often you can continue to engage in the exercise
+当你做双吸气呼气时
+while you do the double inhale exhale,
+它只会以这种方式缓解自己
+and it will just relieve itself that way.
+因此  如果你遇到侧针  请尝试一下
+So give it a try if you experience the side stitch.
+我认识的一些人也在做双吸气
+Some people I know are also doing the double inhale,
+在长时间的连续运动中长时间呼气
+long exhale during long continuous bouts of exercise.
+我实际上是在跑步时这样做的
+I actually do this when I run.
+我们有不错的数据  尽管这些仍然是
+We have decent data although these are still
+可以参与的未公开数据
+unpublished data that that can engage
+一种有规律的心率变异性节奏
+a kind of regular cadence of heart rate variability.
+所以这个生理方面的原因有很多
+So there are a number of reasons why this physiological side
+可能有用  但它肯定有用
+can be useful, but it certainly can be useful
+用于缓解侧针或所谓的侧抽筋
+for relieving the side stitch or so-called side cramp.
+让我们谈谈新技能的获得
+Let's talk about the acquisition of new skills.
+这些可能是技能  例如高尔夫挥杆或网球挥杆
+These could be skills such as a golf swing or a tennis swing
+或者你在罚球或者你正在学习跳舞
+or you're shooting free throws or you're learning to dance
+或者你正在学习一种乐器
+or you're learning an instrument.
+我将主要关注运动表现
+I'm mainly going to focus on athletic performance.
+基本上有两种类型的技能
+There are basically two types of skills.
+开环和闭环
+Open loop and closed loop.
+开环技能是你执行的技能
+Open loop skills are skills where you perform
+某种运动动作然后你等待
+some sort of motor action and then you wait
+你会得到即时的反馈
+and you get immediate feedback
+至于它是否正确完成
+as to whether or not it was done correctly or not.
+一个很好的例子是向飞镖板投掷飞镖
+A good example will be throwing darts at a dartboard.
+所以如果你扔飞镖  你会得到反馈
+So if you throw the dart, you get feedback
+关于你是否击中靶心
+about whether or not you hit the bullseye,
+你不在飞镖盘上  或者你在其他地方
+you're off the dart board, or you're some other location
+在飞镖板上  这是开环
+on the dart board, that's open loop.
+闭环将是更连续的东西
+Closed loop would be something that's more continuous.
+假设你是一名跑步者并且你正在开始
+So let's say you're a runner and you're starting
+做一些速度工作和一些冲刺
+to do some speed work and some sprints.
+你在跑步  你可以感觉到
+And you're running and you can kind of feel
+无论你是否正确运行
+whether or not you're running correctly,
+或者甚至有一个教练  他们正在纠正
+or maybe even have a coach and they're correcting
+你的步伐或者你正在尝试做某种技能
+your stride or you're trying to do some sort of skill,
+就像跳房子的技巧  也许你正在做
+like a hopscotch skill, which maybe you're doing
+梯子在你踩到的地方工作
+the ladder work where you're stepping
+地面指定空间之间
+between designated spaces on the ground.
+这是一个闭环  因为当你走的时候
+That's closed loop because as you go,
+你可以调整你的行为  你可以调整距离
+you can adjust your behavior and you can adjust the distance
+你的步数  或者你可以调整你的速度
+of your steps, or you can adjust your speed
+或者你可以调整你的姿势  你就可以
+or you can adjust your posture and you are able
+基本上每单位时间做更多的练习
+to essentially do more practice per unit time
+但是你会时不时地得到反馈
+but you're getting feedback on a moment to moment basis.
+所以你有开环和闭环
+So you have open loop and closed loop.
+只是为了说明这一点
+And just to make this very clear,
+开环练习你的网球发球
+open loop would be practicing your tennis serve.
+假设你设定了一个目标
+So let's say that you set a target
+在网的另一边
+on the other side of the net.
+你把球抛起来  然后击中球
+You throw the ball up and you hit the ball,
+它过去了  这是开环
+it goes over that's open-loop.
+你会知道你是否在球场上
+You'll know whether or not you were in the court,
+你在你想击中的位置
+you were on the location you wanted to hit
+或接近与否  这是开环
+or close to it or not, that's open loop.
+如果是平常的情况  那就是闭环
+Closed loop would be if you're in a regular can.
+所以也许你正在学习游泳
+So maybe you're learning a swim stroke,
+或者也许你正在尝试学习特定的节奏
+or maybe you're trying to learn a particular rhythm
+在鼓上
+on the drum.
+所以也许你正在尝试学习特定的节拍
+So maybe you're trying to learn a particular beat.
+我不是很喜欢音乐  所以我不会让自己难堪
+I'm not very musical, so I'm not going to embarrass myself
+通过举一个例子  虽然稍后我会
+by giving an example of this, although later I will,
+你试图降低特定节奏的地方
+where you're trying to get a particular rhythm down.
+如果你没有得到它  你可以实时调整
+And if you're not getting it, you can adjust in real time
+并尝试赶上或减速或加速  等等
+and try and catch up or slow down or speed up, et cetera.
+所以希望你能理解开环​​和闭环
+So hopefully you'll understand open loop and closed loop.
+在尝试学习一项技能之前  你应该始终知道
+You should always know before you try and learn a skill,
+无论是开环还是闭环
+whether or not it's open loop or closed loop
+我很快就会回到为什么这很重要
+and I'll return to why that's important shortly.
+但是如果你想学点东西
+But if you want to learn something,
+请问是开环还是闭环
+ask is it open loop or closed loop.
+任何技能基本上都包含三个组成部分
+There are essentially three components of any skill
+这涉及运动
+that involves motor movement.
+而那些是感官知觉  实际上是感知
+And those are sensory perception, actually perceiving
+你在做什么以及你周围正在发生什么
+what you are doing and what's happening around you.
+所以你所看到的  你所听到的
+So what you see, what you hear,
+有时你会注意你在做什么
+sometimes you're paying attention to what you're doing
+特别喜欢你手臂的轨迹
+specifically like the trajectory of your arm
+或者你如何移动你的脚
+or how you're moving your feet.
+如果你正在学习跳舞  有时你会更专注
+If you're learning to dance, sometimes you're more focused
+发生在你之外的事情
+on something that's happening outside of you,
+就像你在听音乐一样
+like you're listening for something in music
+或者你正在关注
+or you're paying attention
+你的伴侣移动的方式  等等
+to the way your partner is moving, et cetera.
+所以有感官输入
+So there's sensory input.
+然后是实际的动作
+Then there are the actual movements.
+所以它们是你的四肢和身体的运动
+So they're the movements of your limbs and body.
+然后有一种叫做本体感觉的东西
+And then there's something called proprioception
+和本体感觉经常被讨论
+and proprioception is often discussed
+作为一种知道你的四肢在哪里的第六感
+as kind of a sixth sense of knowing where your limbs are
+相对于你的身体
+in relation to your body.
+所以本体感觉非常重要
+So proprioception is vitally important.
+如果我伸手拿起这支笔并捡起来
+If I reached down and pick up this pen and pick it up,
+我没有去想我手里的笔在哪里
+I'm not thinking about where the pen in my hand is
+相对于我的身体  但在本体感觉上  我意识到了
+relative to my body, but proprioceptively, I'm aware of it
+在一种六感更深的潜意识层面
+at kind of a six sense deeper subconscious level.
+我也可以让自己知道我的四肢在哪里
+I can also make myself aware of where my limbs are.
+通常当我们学习时  我们会更加关注本体感觉
+And typically when we learn, we are placing more focus
+比平时更加关注
+on proprioception than we do ordinarily.
+所以如果我从这把椅子上站起来 我碰巧走路
+So if I get up from this chair and I happen to walk
+走出房间  我不去想我的脚在哪里
+out of the room, I don't think about where my feet
+相对着陆
+are landing relative to one another.
+但如果我的腿处于休眠状态
+But if my leg had fallen asleep
+因为我一直靠在我腿的一根神经上
+because I had been leaning on one of the nerves of my leg
+或类似的东西  我的腿感觉刺痛或麻木
+or something like that, and my leg feels all tingly or numb.
+我和你  如果这发生在你身上
+I and you, if this were to happen to you,
+会立即注意到步态的变化
+would immediately notice a shift in gait.
+感觉怪怪的  我得注意了
+It would feel strange, I'd have to pay attention
+我的脚步
+to how I'm stepping.
+原因是我没有得到
+And the reason is I'm not getting
+任何本体反馈
+any proprioceptive feedback.
+那么  技能学习也有很多其他维度
+Now, skill learning has a lot of other dimensions too,
+但这些是我们要关注的主要问题
+but those are the main ones that we're going to focus on.
+所以只是提醒你  你需要知道开环
+So just to remind you, you need to know open loop
+或闭环  你需要知道是否
+or closed loop and you need to know whether or not,
+对不起  你需要知道有感官知觉
+excuse me, you need to know that there's sensory perception
+你在关注什么
+what you're paying attention to,
+运动本身和本体感觉
+movements themselves and proprioception.
+还有一件重要的事情你需要知道
+And there's one other important thing that you need to know
+即产生任何类型的运动
+which is that movement of any kind is generated
+来自你神经系统内的一个、两个或三个来源
+from one, two or three sources within your nervous system,
+在你的大脑和身体内
+within your brain and body.
+这些是中央模式生成器
+These are central pattern generators
+有时被称为 CSPG  对不起  CPGS
+which are sometimes called CSPGs, excuse me, CPGSs,
+CSPG 在生物学上是完全不同的东西
+CSPGs are something entirely different in biology.
+CPGS  这只是表明我有一个模块
+CPGSs, this just goes to show that I have a module.
+CSPG 是软骨样和硫酸盐蛋白聚糖
+CSPGs are chondroid and sulfate proteoglycans.
+与这个话题完全没有关系
+They have nothing to do with this topic.
+CPGS 是中央模式发生器
+CPGSs are central pattern generators or CPGs,
+或它们有时被称为 CPG
+they're sometimes called.
+这些 CPG 在你的脊髓中  我的和你的
+These CPGs are in your spinal cord, mine and yours,
+不同的  它们会产生重复的动作
+different ones and they generate repetitive movements.
+所以如果你在走路  如果你在跑步  如果你在骑自行车
+So if you're walking, if you're running, if you're cycling,
+如果你在呼吸  大概你是
+if you're breathing, which presumably you are
+你以有规律的节奏做这件事
+and you're doing that in a regular rhythmic cadence,
+中央模式发生器正在控制这种运动
+central pattern generators are controlling that movement.
+在你学会如何走路、跑步、游泳、骑自行车后
+After you learn how to walk, run, swim, cycle,
+做任何事情  大部分工作都交给了
+do anything really, much of the work is handed off
+中央模式发生器
+to the central pattern generators.
+并且有一些实验
+And there were experiments that were done
+在 60 、70 、80 年代做的  阐明了
+in the 60s, 70s and 80s that actually looked
+在去脑动物甚至去脑人类
+at decerebrate animals and even decerebrate humans.
+就是些缺乏大脑皮层的人类和动物
+These are humans and animals that lack a cerebral cortex.
+他们缺乏很多大脑  但他们可以参与
+They lack much of the brain and yet they can engage
+在所谓的虚构运动中
+in what's called a fictive movement.
+所以这听起来像是一种野蛮的实验
+So it sounds like a kind of barbaric experiment.
+我很高兴我不是真正做实验的人
+I'm glad I wasn't the one to have to do them
+但这是神经科学教科书的内容
+but this is the stuff of neuroscience textbooks
+去除了新皮质的猫、狗或老鼠
+that cats or dogs or mice that have their neocortex removed
+把他们放在跑步机上  它们会走路
+put them on a treadmill, they'll walk just fine.
+它们会很好地调整他们的步行速度
+And they will adjust their speed of walking just fine
+即使他们基本上缺乏所有的思考
+even though they basically lack all their thinking
+和决策大脑
+and decision-making brain.
+事实证明  人类有
+And it turns out humans that have,
+不幸的是  对他们的皮层的大量打击
+unfortunately, massive strokes to their cortex
+并没有任何新皮质
+and lack any neocortex but preserve
+但保留了中央模式生成器也可以正常行走
+the central pattern generators will also walk just fine,
+即使他们的大脑中缺乏任何其他东西
+even though they lack any of the other stuff in the brain.
+所以这些 CPG 或 CPGS 很惊人
+So these CPGs or CPGSs are amazing,
+它们控制了我们很多已经学会的行为
+and they control a lot of our already learned behavior.
+当你真的擅长某件事时
+When you're really good at something,
+CPG 控制了很多这种行为
+CPGs are controlling a lot of that behavior.
+高尔夫挥杆也是如此
+And that's true also for a golf swing.
+即使不是真的重复
+Even if it's not really repetitive,
+一个非常擅长打高尔夫球的人
+somebody who's really good at golf it's going to,
+我猜叫T
+I guess you call it a T.
+你把球放在 T 上
+You put the ball on the T.
+我展示了我对高尔夫的了解
+I show with my knowledge of golf.
+坦率地说  我只打过迷你高尔夫球
+I've only done mini golf, frankly,
+但也许有一天我会学会打高尔夫球
+but someday maybe I'll learn how to golf,
+但是你放下高尔夫球并挥动
+but you set the golf ball down and swing,
+放下高尔夫球  挥杆
+set the golf ball down, swing.
+中央模式生成器将处理
+Central pattern generators are going to handle
+很多
+a lot of that.
+如果我去高尔夫球场
+If I were to go to the golf course.
+斯坦福有一个漂亮的高尔夫球场
+Stanford has a beautiful golf course.
+如果我出去在T上放一个球
+If I were to go out there and put a ball on the T,
+我的中央模式生成器不会参与
+my central pattern generators would not be involved
+根本不会
+in that at all.
+当我把球杆带回挥杆的那一刻
+The moment I bring the club back to swing,
+它会涉及其他事情
+it's going to engage other things.
+以及其他需要参与的事情
+And the other things that's going to engage
+因为我现在不知道那种行为
+because I don't know that behavior now or then
+是上运动神经元
+is upper motor neurons.
+我们的皮层有运动神经元
+We have motor neurons in our cortex,
+在我们控制刻意行动的新皮层中
+in our neocortex that control deliberate action.
+那些在你学习的时候
+And those are the ones that you're engaging
+都会参与进去的
+when you are learning.
+这些才是你要注意的
+Those are the ones that you have to pay attention
+为了参与进去
+in order to engage.
+这就是正在发生的事情  例如
+And that's what's happening, for instance,
+如果我决定伸手拿起我的笔
+if I decide I'm going to reach down and pick up my pen,
+我很少考虑  但现在我正在考虑
+which I rarely think about, but now I'm thinking about it
+我将以一种非常深思熟虑的方式来做这件事
+and I'm going to do this in a very deliberate way.
+我要用这两个手指抓住并抬起
+I'm going to grab with these two fingers and lift.
+我的上运动神经元现在参与其中
+My upper motor neurons are now involved.
+所以上运动神经元非常重要
+So upper motor neurons are very important
+因为在这一集的后面
+because a little bit later in the episode
+当我们谈论如何使用可视化时
+when we talk about how to use visualization
+为了加速技能学习
+in order to accelerate skill learning,
+它将利用这些上运动神经元
+it's going to leverage these upper motor neurons
+以非常特殊的方式
+in very particular ways.
+所以我们有节奏运动的CPG
+So we have CPGs for rhythmic movement,
+上运动神经元用于故意未学习的运动
+upper motor neurons for deliberate unlearned movements
+或我们正在学习的动作
+or movements that we are in the process of learning.
+然后我们有了所谓的下运动神经元
+And then we have what are called lower motor neurons.
+下运动神经元是我们脊髓中的神经元
+Lower motor neurons are the ones in our spinal cord
+将小电波发送到我们的肌肉
+that send little wires out to our muscles
+这实际上导致了这些肌肉纤维的燃烧
+which actually caused the firing of those muscle fibers.
+所以你要这么想
+So the way to think about this as you've got
+与 CPG 对话的上运动神经元
+upper motor neurons which talk to CPGs
+和下运动神经元
+and the lower motor neurons.
+所以这真的很简单
+So it's really simple.
+而那么  你知道所有要知道的东西
+And now, you know most everything there is to know
+关于控制运动的神经通路
+about the neural pathways controlling movement,
+至少为了这次讨论
+at least for sake of this discussion.
+所以每当我们学到东西时  我们必须决定
+So anytime we learn something, we have to decide
+把我们的感官知觉放在什么地方
+what to place our sensory perception on,
+意味着我们要关注什么
+meaning what are we going to focus on.
+如果你正在听这个  这很重要
+That's critical if you're listening to this
+而你是那种喜欢记笔记的人
+and you're the type of person who likes taking notes,
+这应该是你问的第二个问题
+this should be the second question you ask.
+记住第一个问题是  它是开环
+Remember the first question is, is it open loop
+还是闭环？
+or closed loop?
+第二个问题应该是
+The second question should be,
+我应该把注意力集中在什么上  听觉上的注意力
+what should I focus my attention on, auditory attention,
+视觉注意力或本体感觉
+visual attention or proprioception.
+我应该专注于我的四肢相对于我的身体的位置吗
+Should I focus on where my limbs are relative to my body
+还是应该关注结果？
+or should I focus on the outcome?
+这是一个关键的区别
+This is a critical distinction.
+你可以决定学习如何挥杆
+You can decide to learn how to do a golf swing
+或学习如何罚球
+or learn how to shoot free throws
+或学习如何跳探戈
+or learn how to dance tango
+并决定你要专注
+and decide that you are going to focus
+关于你伴侣的动作
+on the movements of your partner
+或者你的脚的位置
+or the positions of your feet.
+你也许会看看它们
+You maybe are going to look at them,
+也许你会感觉到它们
+maybe you're going to sense them.
+你会真正感觉到他们在哪里
+You're going to actually feel where they are,
+或者也许你会感觉到这个位置
+or maybe you're going to sense the position
+和你身体的姿势  这更像是本体感觉
+and posture of your body, which is more proprioception.
+所以你必须分配你的注意力
+So you have to allocate your attention.
+我会告诉你如何最好地分配你的注意力
+And I'm going to tell you how to allocate your attention
+为了学得更快
+best in order to learn faster.
+所以这些是你必须做出的决定
+So these are the sorts of decisions that you have to make.
+对你来说幸运的是  你不必考虑
+Fortunately for you, you don't have to think
+关于你是否要使用
+about whether or not you're going to use
+你的上运动神经元和你的下运动神经元
+your upper motor neurons and your lower motor neurons
+或者不用  因为如果你不知道如何做某事
+or not, because if you don't know how to do something,
+你会自动参与
+you're automatically going to engage
+你的上运动神经元
+your upper motor neurons.
+如果你这样做了  那么你就不会使用
+And if you do, then you're not going to use
+你的上运动神经元
+your upper motor neurons.
+你将主要依赖中央模式生成器
+You're mainly going to rely on central pattern generators.
+你总是在使用你的下运动神经元
+You are always using your lower motor neurons
+移动肌肉
+to move muscle.
+所以我们现在可以真正简化事情
+So we can really simplify things now.
+我已经给了你很多信息  但我们可以简化它
+I've given you a lot of information but we can simplify it.
+基本上是开环或闭环  这是一个问题
+Basically open loop or closed loop, that's one question
+我要关注什么？
+and what am I going to focus on?
+然后你的神经会处理剩下的
+And then your neurology will take care of the rest.
+所以现在我想谈谈现实的期望
+So now I want to talk about realistic expectations.
+大概在好莱坞的某个地方
+Somewhere in Hollywood presumably,
+它已嵌入某人的脑海中
+it got embedded in somebody's mind
+即时获得技能是可能的
+that instant skill acquisition was possible,
+你可以服用特定的药丸
+that you could take a particular pill
+或者你可以触摸一个特定的物体
+or you could touch a particular object
+或者你可以用魔杖挥动你
+or you could have a wand wave over you
+你会突然拥有一项技能
+and you would suddenly have a skill.
+这就是好莱坞的结果
+And so that is the result of Hollywood at all.
+它不存在  至少在现实中不存在
+It doesn't exist, at least not in reality.
+我喜欢电影  但它根本不存在
+And I love movies, but it simply doesn't exist.
+然后鸡汤文创造了另一个规则
+Then the self-help literature created another rule
+称为 10,000 小时规则
+called the 10,000 hours rule.
+坦率地说  这与文献并不相符
+And frankly, that doesn't really match the literature,
+至少与科学文献不相符
+at least the scientific literature either.
+我喜欢它  因为它意味着学习需要时间
+I like it because it implies that learning takes time,
+这比好莱坞更准确
+which is more accurate than the Hollywood at all
+即时技能获取规则
+instant skill acquisition rule,
+这不是一个真正的规则  这是一个神话
+which isn't really a rule, it's a myth.
+但是 10,000 小时规则忽略了一些关键的东西
+But the 10,000 hours rule overlook something crucial,
+这不是关于小时
+which is that it's not about hours,
+这是关于重复
+it's about repetitions.
+那么  当然有时间之间的关系
+Now, of course there's a relationship between time
+和重复  但有一些美丽的实验
+and repetitions, but there are some beautiful experiments
+这表明通过简单的调整
+that point to the fact that by simple adjustment
+当你试图学习时你所关注的新技能时
+of what you are focused on as you attempt to learn
+可以调整重复次数
+a new skill, you can adjust the number of repetitions
+来调整你的学习动机
+that you do, you adjust your motivation for learning
+你可以大大加快学习速度
+and you can vastly accelerate learning.
+你们中的一些人可能会通过它的互联网名称认识到这一点
+Some of you may recognize this by its internet name,
+这不是一个科学术语
+which is not a scientific term,
+这就是“超级马里奥效应”
+which is the super Mario effect.
+实际上 YouTube 上有一个很好的视频
+There's actually a quite good video on YouTube
+描述超级马里奥效应
+describing the super Mario effect.
+我认为这是一个拥有我认为有科学背景的 YouTuber
+I think it was a YouTuber who has I think a background
+他做了一个有趣的实验
+in science and he did an interesting experiment.
+我先说说他的实验
+And I'll talk about his experiment first
+然后我会谈谈神经生物学
+and then I will talk about the neurobiology
+这支持他得到的结果
+that supports the result that he got.
+超级马里奥效应与游戏有关
+The super Mario effect relates to the game
+超级马里奥兄弟  但你会在最后看到原因
+super Mario brothers, but you'll see why at the end.
+但基本上他们所做的是他们有 50,000 个试验者
+But basically what they did was they had 50,000 subjects,
+这是大量的试验者  他们学习一个程序
+which is a enormous number of subjects learn a program,
+基本上是从计算机程序中获取单词
+essentially taking words from a computer program
+或计算机程序的命令
+or the commands for a computer program
+有点聚集在右侧的列中
+that were kind of clustered in a column on the right.
+所以这些是计算机程序员需要做  会熟悉的事情
+So these are the sorts of things that computer programmers
+但其他人不会
+will be familiar with but other people won't.
+这些命令本质上是
+And those commands are essentially,
+它们基本上可以转化为“前进”之类的东西
+they essentially translate to things like go forward.
+然后如果是在迷宫中右转
+And then if it's a right hand turn in the maze,
+然后向右走并继续直到你到达一个选择点
+then go right and continue until you hit a choice point,
+等等
+et cetera.
+所以这是一堆指令  但受试者的工作
+So it's a bunch of instructions, but the job of the subjects
+在这些实验中组织这些指令
+in these experiments were to organize those instructions
+以一种特殊的方式允许一个小光标
+in a particular way that would allow a little cursor
+成功通过迷宫
+to move through the main successfully.
+所以基本上目标是  或者至少受试者们都被告知
+So basically the goal was, or at least what the subjects
+被告知的是  任何人都可以学习计算机编程
+were told is that anyone can learn to computer program.
+如果有人可以组织说明
+And if somebody can just organize the instructions
+以正确的方式  那么他们可以编程
+in the right way, then they can program
+让这个小光标移动通过迷宫  很简单
+this little cursor to move through amaze, very simple.
+然而  如果你没有任何背景
+And yet, if you don't have any background
+在计算机编程中  或者即使你这样做
+in computer programming, or even if you do,
+这需要一些技巧
+it takes some skill.
+你必须知道要发出什么命令
+You have to know what commands to give
+以什么特定的顺序
+in what particular order.
+他们让这一切变得非常容易
+And they made that very easy.
+你可以把它们组合成一个列表
+You could just assemble them in a list
+在右边
+over onto the right.
+于是人们开始这样做
+So people started doing this.
+现在有两组和大约一半的受试者
+Now there were two groups and some one half of the subjects,
+如果他们弄错了  这意味着他们输入了命令
+if they got it wrong, meaning they entered a command
+光标会移动  这是错误的命令
+and the cursor would move and it was the wrong command
+为了让这个小光标在迷宫中移动
+for this little cursor to move through the maze,
+他们看到屏幕上跳出一个信号  上面写着
+they saw a signal jump up on their screen that said,
+这不起作用  请重试
+that did not work, please try again.
+就是这样  如果他们输入了错误的命令
+That's it, if they put in the wrong command
+或者语句错误  它会说没有用
+or is in the wrong sequence, it'll say that did not work
+请再试一次
+please try again.
+然后受试者会重新组织指令
+And then the subjects would reorganize the instructions
+然后小光标会继续
+and then the little cursor would continue.
+如果他们又弄错了
+And if they got it wrong again,
+它会说不起作用  请再试一次
+it would say that does not work, please try again.
+另一半的受试者  如果他们做错了什么
+The other half of the subjects, if they got something wrong
+被告知你刚刚丢掉了5分  请继续
+were told you just lost five points, please continue.
+所以  这是他们得到的反馈​​的
+So, that's the only difference in the feedback
+唯一区别
+that they got.
+现在我不得不承认  我早就预料到了
+Now I have to confess, I would have predicted
+基于我对多巴胺电路的了解
+based on my knowledge of dopamine circuitry
+奖励应急和肾上腺素和压力
+and reward contingency and epinephrin and stress
+和积极的学习
+and motivated learning.
+我们被告知的另一件事
+And this other thing that we've been told
+在许多关于行为经济学的书中
+in many many books on behavioral economics
+在自助文献中
+and in the self-help literature,
+那就是人们会更加努力地工作
+which is that people will work much harder
+以防止丢失某些东西
+to prevent losing something than they will
+而不是去获得一些东西  你一直听到这种理论
+to gain something, that you hear all the time.
+事实证明  这根本不是实际发生的
+And it turns out that that's not at all what happened.
+如果他们看受试者的成功率
+If they looked at the success rate of the subjects,
+他们发现被告知的对象
+what they found was that the subjects that were told
+没有用  请再试一次  成功率为 68%
+that did not work, please try again, had a 68% success rate.
+68% 的人继续成功地编程了这个光标
+68% of them went on to successfully program this cursor
+穿过迷宫
+moving through the maze.
+而那些被告知你失去了五分
+Whereas the ones that were told you lost five points
+有 52% 的成功率  这是一个显着的差异
+had a 52% success rate, which is a significant difference.
+但成功的源头还是缺乏成功
+But the source of the success or the lack of success
+真的很有趣
+is really interesting.
+被告知“不对  请重新再试一遍”的受试者
+The subjects that were told that did not work,
+每单位时间中  会尝试很多很多次
+please try again, tried many, many more times per unit time.
+换句话说  他们在编程方面做了更多尝试
+In other words, they made more attempts at programming
+这个东西允许这个光标在迷宫中移动
+this thing to allow this cursor to move through the maze.
+而被告知你的人失去了五分
+Whereas the people that were told you lost five points
+提前放弃或完全放弃
+gave up earlier or gave up entirely.
+好的  让我们退后一步
+Okay, so let's just step back from this
+因为对我来说  这是非常令人惊讶的
+because to me, this was very surprising.
+它违反了很多我听说过的东西
+It violates a lot of things that I'd heard
+在那种流行文化或营销号中
+in the kind of popular culture or the self-help literature
+人们会更加努力地工作以避免丢失某些东西
+that people will work much harder to avoid losing something
+比他们会得到一些东西
+than they will to gain something.
+它并不符合我的理解
+And it didn't really fit with what I understood
+关于奖励意外事件和多巴胺
+about reward contingencies and dopamine,
+但它确实适合另一组实验
+but it did fit well with another set of experiments
+我非常熟悉
+that I'm very familiar with
+来自神经科学文献
+from the neuroscience literature.
+我会先给你点睛之笔
+And I'll give you the punchline first.
+然后我们将了解这些数据的含义
+And then we're going to take what these data mean
+我们将讨论一个学习工具方法
+and we're going to talk about a learning protocol
+你可以使用  可以让你更快地学习技能
+that you can use that will allow you to learn skills faster
+通过自愿参与更多的重复
+by willingly participating in more repetitions
+技能学习  这意味着你会想要
+of the skill learning, meaning you will want
+做更多的重复  即使你做错了
+to do more repetitions even if you're getting it wrong
+部分或大部分时间做错
+some or most of the time.
+所以我想告诉你的实验
+So the experiment that I want to tell you about
+称为试管
+is called the tube test.
+这通常是在老鼠身上完成的
+And this is generally done in mice,
+虽然有时是在老鼠身上完成的
+although it's sometimes been done in rats
+它与某些事情有很多相似之处
+and it has a lot of parallels to some things
+你甚至可能见过和经历过
+that you've probably seen and experienced even
+在人类生活中  在正常生活中  甚至在你的生活中
+in human life, in regular life, maybe even in your life.
+所以这是实验
+So here's the experiment.
+你拿两只老鼠  把它们放在一个管子里或两只老鼠里
+You take two rats, you put them in a tube or two mice,
+你把它们放在管子里
+you put them in a tube.
+老鼠  它们不喜欢共用一个管子
+And mice and rats, they don't like to share the same tube.
+所以他们会做的是他们会开始互相推动
+So what they'll do is they'll start pushing each other
+来回  来回
+back and forth, back and forth.
+迟早  其中一只老鼠
+Sooner or later, one of the rats or mice
+将另一个推出
+pushes the other one out.
+被淘汰的就是输家
+The one that got pushed out is the loser,
+得到管子的是赢家
+the one that gets the tube is the winner.
+然后把赢家放入  你给了它一个新的竞争对手
+Now you take the winner, you give it a new competitor.
+你发现的是老鼠
+And what you find is that the mouse or rat
+以前赢过的那只老鼠
+that won previously has a much higher
+第二次获胜的机会概率会更高
+than chance probability of winning the second time.
+换句话说  之前获胜会导致再次获胜
+In other words, winning before leads to winning again.
+反过来也是如此
+And the reverse is also true.
+如果你接受失败者  然后把那个失败者放进去
+If you take the loser and you put that loser in
+用另一只老鼠  新老鼠  新老鼠
+with another mouse, fresh mouse, new mouse,
+失败者通常会以更大的概率失败
+the loser typically will lose at much greater probability than chance.
+而这与力量或大小的差异无关
+And this is not related to differences in strength or size
+或睾丸激素或任何其他东西
+or testosterone or any other things
+可能会让人想到的作为对此的解释
+that might leap to mind as explanations for this
+因为这些都被控制了
+because those were all controlled for.
+现在这个结果已经知道了几十年
+Now that results have been known about for decades.
+但是三年前  有一篇论文发表
+But three years ago, there was a paper published
+在 Journal Science 中  现象级期刊
+in the Journal Science, phenomenal journal.
+它是三大顶级期刊之一
+It's one of the three apex journals,
+检查了与此相关的大脑区域
+that examined the brain area that's involved in this.
+变成额叶皮层的特定区域
+Turns out a particular area of the frontal cortex
+对于那些想知道的人
+for those of you that want to know.
+他们做了一个简单的实验  实验者
+And they did a simple experiment where the experimenters
+增加或减少这个大脑区域的活动
+increased or decreased the activity of this brain area
+在前额叶皮层
+in the prefrontal cortex,
+前额叶皮层的小亚区
+little sub region of the prefrontal cortex.
+他们发现如果他们刺激这个大脑区域
+And what they found is if they stimulated this brain area,
+小鼠或大鼠  无论是否
+a mouse or rat, regardless of whether or not
+它以前是赢家或输家
+it had been a winner or loser before,
+每次都成为赢家
+became a winner every single time.
+他们表明  如果他们阻止了该活动
+And they showed that if they blocked the activity
+这个大脑区域  无论是否
+of this brain area, regardless of whether or not
+这只老鼠曾经是赢家或输家
+the mouse or rat had been a winner or loser,
+它每次都成为失败者
+it became a loser every single time.
+这转化为其他场景
+And this translated to other scenarios,
+他们放置一堆老鼠的其他竞争场景
+other competitive scenarios where they'd put a bunch of mice
+在一种凉爽的房间里
+or rats in a kind of cool chamber,
+他们会在角落里放一个小加热灯
+they'd have a little heat lamp in the corner
+老鼠喜欢热
+and mice like heat.
+并且只有一只老鼠的足够空间
+And there was only enough space for one mouse
+处于高温之下
+to be under the heat.
+以及在试管测试中获胜的那个
+And the one that had won in the tube test
+或者大脑区域受到刺激
+or that had the brain area stimulated
+总是能得到很好的温暖的地方
+always got the nice warm spot.
+那么这个神奇的大脑区域是什么  它在做什么呢？
+So what is this magic brain area, what is it doing?
+好吧  我今天提出这个的原因
+Well, the reason I'm bringing this up today
+以及我紧随其后的原因
+and the reason I'm bringing it up on the heels
+超级马里奥效应的关键在于
+of the super Mario effect is that stimulation
+刺激这个大脑区域   有一个非常简单的
+of this brain area had a very simple
+和非常重要的作用
+and very important effect,
+也就是说  它导致了更多的前进的动作  更多的重复
+which was, it led to more forward steps, more repetitions,
+更多的努力  但不是纯粹的力量和意志
+more effort, but not in terms of sheer might and will,
+不是挖得更深  只是单位时间内的重复次数更多
+not digging deeper, just more repetitions per unit time.
+失败者单位时间内的重复次数更少
+And the losers had fewer repetitions per unit time.
+所以超级马里奥效应  这个在线实验
+So the super Mario effect, this online experiment
+以及试管测试
+and the tube test, which has been done
+已经通过各种实验室并一次又一次地重复
+by various labs and repeated again and again
+指出一个简单但非常重要的规则
+point to a simple but very important rule,
+这既不是 10,000 小时规则
+which is neither the 10,000 hours rule
+也没有好莱坞版魔法棒的学习
+nor the magic wand Hollywood version of learning.
+而是神经生物学的解释
+But rather the neuro-biological explanation
+学习一项技能是你想要执行的
+for learning a skill is you want to perform
+单位时间内尽可能多地重复
+as many repetitions per unit time, as you possibly can.
+至少当你第一次尝试学习一项技能时
+At least when you're first trying to learn a skill.
+我想重复一遍  你要尽可能多地尝试
+I want to repeat that, you want to perform as many repetitions
+至少在你第一次尝试学习一项技能时
+as you possibly can at least when you're first trying
+要这么做
+to learn a skill.
+现在这听起来像是废话  只是更多的重复
+Now that might sound like a duh, it just more reps,
+但它不是那么明显
+but it's not so obvious.
+没有理由说  重复更多
+There's no reason why more repetitions
+必然会导致更快的学习
+should necessarily lead to faster learning
+因为你也可以说  嗯  更多的重复
+because you could also say, well, more repetitions,
+你可以犯更多错误
+you can make more errors
+这些错误会导致性能不佳
+and those errors would lead to poor performance
+就像多次失误
+like misstepping a number of times.
+在这些情况下  反馈很少
+And in these cases, there's very little feedback.
+不是每次老鼠都往前推  或移回
+It's not like every time the rat pushes forward
+它都在感应
+or moves back that it is sensing,
+哦  我赢了  我输了  我赢了  我输了
+oh I'm winning, I'm losing, I'm winning, I'm losing
+在微观层面
+on a micro level.
+它可能会这样做  因为它开始将另一个推出
+It probably does that as it starts to push the other one out
+老鼠可能会想  “我赢了”
+the rat or mouse probably thinks, "I'm winning."
+当它倒退时  它可能会想  “我输了”
+And as it's backing up, it probably thinks, "I'm losing."
+当你玩这款超级马里奥游戏时
+As you play the game, the super Mario game,
+你被告知  不  那没有用
+you are told, nope, that didn't work.
+不  这不起作用  请重试
+Nope, that didn't work, please try again.
+但重要的是获胜者
+But the important thing is that the winners
+每单位时间总是产生更多的重复
+are always generating more repetitions per unit time.
+这只是表现的重复
+It's just a repeat of performance, repeat of performance
+即使有错误
+even if there are errors.
+这指出了一些非常重要的事情
+And that points to something vitally important,
+重复很重要  但重复犯错误
+which is reps are important but making error reps
+也很重要
+is also important.
+事实上  这可能是最重要的因素
+In fact, it might be the most important factor.
+那么让我们来谈谈错误以及为什么它们可以解决问题
+So let's talk about errors and why those solve the problem
+决定我们要关注什么
+of what to focus on.
+因为正如我之前所说  如果你想学习一些东西
+Because as I said earlier, if you want to learn something,
+你需要知道它是开环还是闭环
+you need to know if it's open loop or closed loop
+你需要知道要关注什么
+and you need to know what to focus on,
+在哪里放置你的感知
+where to place your perception.
+这似乎是一项艰巨的任务
+And that seems like a tough task
+但是错误会告诉你确切地关注什么
+but errors will tell you exactly what to focus on.
+那么让我们来谈谈错误以及为什么可以利用错误
+So let's talk about errors and why you can leverage errors
+以加快技能学习
+to accelerate skill learning.
+好的  所以我们已经确定了表演
+Okay, so we've established that performing
+每节训练的最大重复次数
+the maximum number of repetitions per training session
+将是有利的
+is going to be advantageous.
+这可能看起来很明显  但也有阴暗的一面
+And that might seem obvious but there's a shadowy side
+那个  也就是说  我为什么要重复
+to that, which is, well why would I want to just repeat
+如果我弄错了  一遍又一遍地重复同样的事情
+the same thing over and over again if I'm getting it wrong,
+90%的时间
+90% of the time.
+原因是错误实际上提示
+And the reason is that the errors actually cue
+你的神经系统有两件事；
+your nervous system to two things;
+一是纠错  二是打开了
+one to error correction and the other is it opens the door
+神经可塑性的窗口
+or the window for neuroplasticity.
+神经可塑性是大脑和神经系统的能力
+Neuroplasticity is the brain and nervous system's ability
+根据经验而改变
+to change in response to experience,
+本质上是自定义修改自己
+essentially to custom modify itself
+为了更好地执行任何事情
+in order to perform anything better.
+我们做了整整一个月的神经可塑性研究
+We did an entire month on neuroplasticity
+我谈了一点错误
+and I talked a little bit about errors
+以及为什么它们很重要
+and why they're important.
+现在我们要把它变得非常具体
+Now we're going to make this very concrete
+并对其进行操作  使其非常具有可操作性
+and operationalize it, make it very actionable.
+有一篇论文是2021年发表的
+There was a paper that was published in 2021
+来自诺曼等人
+from Norman at all.
+这是一篇非常重要的论文
+This is a very important paper.
+它发表在神经元杂志上
+It was published in the Journal Neuron
+这是细胞出版社期刊  优秀期刊
+which is a cell press journal, excellent journal.
+论文的标题基本上讲述了其内容
+The title of the paper gives it away essentially,
+犯错后补充额叶感觉的皮层投射
+which is post error recruitment of frontal sensory
+会促进注意力
+cortical projections promotes attention.
+那么  这意味着当你犯错时
+Now, what that says is that when you make an error,
+它会激活大脑区域
+it causes an activation of the brain areas
+锚定你的注意力
+that anchor your attention.
+记住我们需要知觉、注意力
+Remember we need perception, attention,
+它们本质上是一样的
+which they're essentially the same thing.
+我们需要本体感觉  我们需要上部
+We need proprioception and we need the upper
+和下运动神经元以正确的方式进行交流
+and lower motor neurons to communicate in the proper ways.
+这个至关重要的问题是要注意什么
+And this vital question is what to pay attention to.
+错误告诉你的神经系统
+Errors tell your nervous system
+有些事情需要改变
+that something needs to change.
+所以如果你正在执行一项任务或一项技能
+So if you are performing a task or a skill
+就像你正在学习如何跳舞
+like you're learning how to dance and you're stepping
+踩到别人脚了  或者你动作不稳
+on the other person's toes or you're fumbling
+或者你没有做对
+or you're not getting it right,
+这些错误打开了可塑性的可能性
+those errors are opening the possibility for plasticity.
+如果你在那个时候停下来
+If you walk away at that point,
+你做出了完全错误的选择
+you've made the exact wrong choice.
+除非这些错误对你的健康有害
+Unless the errors are somehow hazardous to your health
+或其他人的幸福  你想继续
+or somebody else's wellbeing, you want to continue
+以高重复率参与
+to engage at a high repetition rate.
+这才是真正可以学习的地方
+That's really where the learning is possible.
+没有错误  大脑不在一个
+Without errors, the brain is not in a position
+改变自己的位置
+to change itself.
+错误实际上刺激了额叶皮层网络
+Errors actually cue the frontal cortex networks,
+我们所说的自上而下的处理和神经调节器
+what we call top-down processing and the neuromodulators,
+诸如多巴胺、乙酰胆碱和肾上腺素之类的东西
+things like dopamine and acetylcholine and epinephrin
+这将允许可塑性
+that will allow for plasticity.
+所以当超级马里奥实验时
+So while the super Mario experiment,
+迷宫实验只关注产生错误
+the maze experiment was only focused on generating errors,
+告诉人们这是不对的  请再试一次
+telling people that wasn't right, please try again
+或者那是不对的  你失去了五分
+or that wasn't right, you lost five points.
+关键区别在于错误本身
+The key distinction is that the errors themselves
+提示人们  他们需要
+cued people to the fact that they needed
+改变某些事情
+to change something.
+所以如果你想学习一项新技能
+So if you're trying to learn a new skill
+你搞砸了  你在犯错误
+and you're screwing up and you're making mistakes,
+你犯的错误越多
+the more mistakes you make, the more plastic
+你的大脑的可塑性就越强  以至于当你做对了的时候
+your brain becomes such that when you get it right,
+正确的模式将得到奖励和巩固
+that correct pattern will be rewarded and consolidated.
+你可以相信它会这样发展
+And you can trust that it will
+因为正确地表现某事
+because the performance of something correctly
+与多巴胺的释放
+is associated with the release
+这种神经调节剂有关
+of this neuromodulator dopamine.
+多巴胺与渴望和动机有关
+Dopamine is involved in craving and motivation.
+它涉及很多事情
+It's involved in a lot of things,
+但它也涉及学习
+but it's also involved in learning.
+我们将制作一整集关于多巴胺和学习的内容
+We will do an entire episode on dopamine and learning
+但因为你们中的一些人可能想知道
+but because some of you are probably wondering,
+这并不意味着仅仅增加你的多巴胺水平
+this does not mean that just increasing your dopamine levels
+在学习之前会让你学得更快
+before learning will allow you to learn faster.
+事实上  在学习之前增加你的多巴胺水平
+In fact, increasing your dopamine levels before learning
+使用药理学的术语来讲  实际上会减少
+using pharmacology will actually reduce
+所谓的信噪比
+what's called the signal to noise.
+它将使多巴胺增加
+It will make these increases in dopamine
+突然出现在你的大脑中  让你意识到
+that pop up in your brain that suddenly make you realize,
+“哦  我对了”
+"Oh, I got that one right."
+相对于多巴胺的水平
+It will make those smaller relative
+它将使这些”声音“变小
+to the background levels of dopamine.
+多巴胺什么时候该大幅飙升呢
+You want a big spike in dopamine when you perform
+就是在有正确的运动模式的时候  并且你得犯很多错误
+a motor pattern correctly and you want to make lots of errors,
+很多很多重复的错误
+many, many repetitions of errors
+才能达到正确的表现
+in order to get to that correct performance.
+那么  如果你和大多数人一样  你会这样做
+Now, if you're like most people you're going to do this
+在某种程度上是随机的
+in a way that's somewhat random.
+意思是让我们说这是一个网球发球
+Meaning let's say it's a tennis serve.
+我不会打网球
+I can't play tennis,
+我想我可能打过两次网球
+I think I've probably played tennis twice.
+所以如果我把球扔到空中然后击中它
+So if I throw the ball up in the air and hit it,
+我会弄错  可能会上网
+I'm going to get it wrong and probably hit the net,
+然后它击中了网
+then it hit the net.
+那我可能会走太久
+Then I'll probably go too long
+那么我可能会越过栅栏
+then I'll probably go over the fence.
+在某些时候  我喜欢认为我会得到正确的
+At some point, I like to think I'll get it correct.
+多巴胺信号会很大
+The dopamine signal for that is going to be quite big
+我会想  “好吧  我在那里做了什么？
+and I'll think, "Okay, what did I do there?
+“我实际上不知道  我没有注意
+"I actually don't know, I wasn't paying attention.
+“我关注的是
+"What I was paying attention to is whether or not
+“球是否到了正确的位置
+"the ball went to the correct location
+“也就是在网的对面”
+"on the opposite side of the net."
+记住这是一个开环动作
+Remember it's an open loop move,
+所以我实际上不知道我做对了什么
+so I don't actually know what I did correctly.
+但你的神经系统会照顾到这一点
+But your nervous system will take care of that
+如果我在这种情况下完成越来越多
+provided I in this case complete more and more
+和更多的重复
+and more repetitions.
+那么  如果我只是提高我的多巴胺水平
+Now, if I were to just elevate my basil level of dopamine
+通过服用  比如说  1500 毫克 L 酪氨酸
+by taking, I don't know, 1500 milligrams L tyrasine
+或者什么  那会很糟糕  因为增加
+or something, that would be bad because the increase
+多巴胺实际上会低得多
+in dopamine would actually be much lower.
+我们会说增量较小
+We would say the delta is smaller.
+信噪比更小
+The signal to noise is smaller
+如果我的多巴胺总体水平非常非常高
+if my overall levels of dopamine are very, very high.
+所以我实际上会学得不太好
+So I'm actually going to learn less well.
+所以对于技能学习  运动技能学习
+So for skill learning, motor skill learning,
+事先增加你的多巴胺水平不是一个好主意
+increasing your dopamine levels prior is not a good idea.
+它可能有助于激发学习的动力
+It might help with motivation to get to the learning
+但它不会改善可塑性过程本身
+but it's not going to improve the plasticity process itself
+它很可能会阻碍它
+and it's likely to hinder it.
+所以这是非常重要的
+And so that's very important.
+所以这些错误提示大脑出了问题
+So these errors cue the brain that something was wrong
+它们开辟了可塑性的可能性
+and they open up the possibility for plasticity.
+这就是有时被称为框架效应的东西
+It's what sometimes called the framing effect,
+它勾勒出重要的东西
+it frames what's important.
+所以我认为这是我们听说过的转变
+And so I think this is a shift that we've heard about,
+成长型思维是令人难以置信的发现和理论
+growth mindset which is the incredible discovery and theory
+我的同事 Carol Dweck 在斯坦福大学的实践
+and practice of my colleague, Carol Dweck at Stanford.
+这与那不同
+This is distinct from that.
+这不是关于学习的动机
+This isn't about motivation to learn,
+这是关于你如何实际学习
+this is about how you actually learn.
+所以关键是指定一个特定的时间块
+So the key is designate a particular block of time
+你将要进行重复
+that you are going to perform repetitions.
+所以也许那是 30 分钟  也许那是一个小时
+So maybe that's 30 minutes, maybe that's an hour.
+争取时间  然后尝试执行
+Work for time and then try and perform
+你可以安全完成的最大重复次数
+the maximum number of repetitions that you can do safely
+为你和其他人单位时间
+for you and others per unit time.
+这将是学习的最佳方式
+That's going to be the best way to approach learning
+对于大多数事情
+for most sessions.
+我会谈谈人们可以做的其他事情
+I will talk about other things that one can do,
+但犯错是关键
+but making errors is key.
+这不是鸡汤演讲
+And this isn't a motivational speech.
+我不是说  “哦  去犯错误
+I'm not saying, "Oh, go make errors,
+“错误对你有好处
+"errors are good for you.
+“你必须失败才能获胜”
+"You have to fail in order to win."
+不  你必须失败才能打开
+No, you have to fail in order to open up the possibility
+可塑性的可能  但你必须失败很多次
+of plasticity, but you have to fail many times
+在同一个时间段中
+within the same session.
+而那些失败会引起你的注意
+And those failures will cue your attention
+到适当的感官事件
+to the appropriate sensory events.
+那么  有时我们会和教练一起工作
+Now, sometimes we're working with a coach.
+所以这是对所有教练想说的
+And so this is a shout out to all the coaches,
+谢谢你做你所做的
+thank you for doing what you do.
+但是  至少需要有
+However, there needs to be at least
+至少科学文献是这么说的
+what the scientific literature say.
+每次训练都需要有一段时间
+There needs to be a period of each training session
+运动员或任何种类的人
+whereby the athlete or the person of any kind
+可以简单地注意他们的错误
+can simply pay attention to their errors
+没有将他们的注意力转移到别的东西上
+without their attention being cued to something else.
+训练有素的教练会说
+A really well-trained coach will say,
+“哦  你的肘部摆动得太高了
+"Oh, your elbows swinging too high,
+“或者你没有抓住球拍
+"or you're not gripping the racket
+“以适当的方式  ”等等
+"in the appropriate way," et cetera.
+他们可以看到练习者看不到的东西
+They can see things that the practitioner can't see.
+当然  这是至关重要的
+And of course that's the vitally important.
+但是练习者也需要使用
+But the practitioner also needs to use
+这个错误识别信号
+this error recognition signal,
+他们需要基本上专注于这个事情
+they need to basically focus on something
+而 这个错误会告诉他们应该关注什么
+and the errors are going to tell them what to focus on.
+所以简单地说需要一段时间
+So put simply there needs to be a period of time
+它只是一个又一个的重复
+in which it's just repetition after repetition,
+重复后
+after repetition.
+我想很多人包括教练
+I think many people including coaches
+害怕坏习惯会根深蒂固
+are afraid that bad habits will get ingrained.
+虽然这确实是可能的
+And while indeed that's possible,
+发生这些错误非常重要
+it's very important that these errors occur
+为了提示注意系统
+in order to cue the attentional systems
+并为可塑性打开大门
+and to open the door for plasticity.
+所以如果有人告诉我  “看  我站得有点宽
+So if I'm told, "Look, I'm standing a little wide,
+“我需要稍微收紧我的站姿”
+"I need to tighten up my stance a little bit."
+很好  但是我需要产生很多重复
+Great, but then I need to generate many repetitions
+从那个收紧的站姿
+from that tighten stance.
+所以如果我经常被外界暗示
+So if I'm constantly being cued from the outside
+关于我的错误
+about what I'm incorrectly,
+那不会那么有效
+that's not going to be as efficient.
+所以对于一些人来说  这些学习时间
+So for some people, these learning sessions
+可能是 10 分钟  对某些人来说  可能是一个小时
+might be 10 minutes, for some people, it might be an hour.
+你可以分配的任何东西  因为你的生活方式
+Whatever you can allocate because your lifestyles
+你是否会有所不同
+will vary in your whether or not
+你是一名职业运动员  等等会有所不同
+you're a professional athlete, et cetera will vary.
+你想获得最大的重复次数
+You want to get the maximum number of repetitions in
+你想犯错误
+and you want to make errors.
+这允许可塑性
+That's allowing for plasticity.
+所以科学指出了事实
+So science points to the fact
+有特定的学习课程顺序
+that there's a particular sequencing of learning sessions
+这会让你学得更快
+that will allow you to learn faster
+并保留技能学习
+and to retain the skill learning
+并且完全按照我刚刚描述的方式去做
+and involves doing exactly as I just described,
+这是尽可能多的重复
+which is getting as many repetitions as you can
+在学习过程中  注意你犯的错误
+in the learning session, paying attention to the errors that you make.
+然后将产生的奖励
+And then the rewards that will be generated,
+再次  这些是神经化学奖励
+again, these are neurochemical rewards
+从成功的运动表现开始
+from the successful performance of a movement
+或近似的成功表现
+or the approximate successful performance.
+所以也许你的高尔夫挥杆更好但并不完美
+So maybe you get the golf swing better but not perfect,
+但这仍然会得到回报
+but that's still going to be rewarded
+与这种神经化学机制
+with this neurochemical mechanism.
+然后在这个阶段结束后
+And then after the session,
+你需要做一些非常具体的事情
+you need to do something very specific
+这没什么
+which is nothing.
+这是正确的
+That's right.
+有漂亮的数据描述了  神经元
+There are beautiful data describing neurons
+在我们的海马体中  我们大脑的这个区域涉及
+in our hippocampus, this area of our brain involved
+巩固新的记忆
+in the consolidation of new memories.
+这些数据表明  在睡眠中
+Those data points to the fact that in sleep,
+有一个神经元对连环动作进行重播
+there's a replay of the sequence of neurons
+与前一天某些行为有关
+that were involved in certain behaviors the previous day
+有时在前两天
+and sometimes the previous day before that.
+不过也有数据显示
+However, there are also data that show
+在技​​能学习这个阶段之后
+that after a skill learning session,
+任何类型的运动  只要你不带进来
+any kind of motor movement provided you're not bringing in
+更多额外的新感官刺激
+a lot more additional new sensory stimuli,
+有一个你表现正确的连环动作的重播
+there's a replay of the motor sequence that you performed correctly
+并且有一个消除步骤
+and there's an elimination
+消除你执行错误的连环动作
+of the motor sequences that you performed incorrectly
+它们在时间上是向后运行的
+and they are run backward in time.
+所以要非常清楚这一点  如果我要学习
+So to be very clear about this, if I were to learn
+新技能或探索新城市
+a new skill or navigate a new city
+或者让我们保持运动技能
+or let's just stay with the motor skill,
+比方说罚球、高尔夫挥杆或网球发球
+let's say the free-throw or a golf swing or a tennis serve,
+跳舞  新手
+dance move, novice.
+所以我还是会犯很多错误
+So I'm still going to make a lot of errors,
+不完全明白
+don't get it perfectly,
+但也许我会好一点
+but maybe I get a little bit better
+或者我在 1000 次中正确执行了 3 次
+or I perform it correctly three times out of 1000.
+这听起来像是我可能会做的事情
+And it sounds like something I might do
+那我可能对自己很欣慰了
+and there I'm probably being generous to myself.
+在我完成培训课程后
+After I finished the training session,
+如果我什么都不做  我就不会专注
+if I do nothing, I'm not focused
+关于一些额外的学习
+on some additional learning.
+我不会带来很多感官信息
+I'm not bringing a lot of sensory information in.
+如果我只是坐在那里闭上眼睛
+If I just sit there and close my eyes
+五到十分钟  甚至一分钟
+for five to 10 minutes, even one minute,
+大脑开始重放连环动作
+the brain starts to replay the motor sequence
+对应正确的运动模式
+corresponding to the correct pattern movement,
+但它向后播放该连环动作
+but it plays that sequence backward.
+现在为什么它向后播放  我们不知道
+Now why it plays it backward, we don't know.
+如果我要等到睡觉或不管
+If I were to wait until sleep or regardless
+那天晚上我睡得很晚的时候
+of when I sleep later that night,
+连环动作将向前重播
+the sequence will be replayed forwards
+以正确的顺序
+in the proper sequence.
+紧接着它向后播放
+Immediately afterward it's played a backward
+原因尚不清楚
+for reasons that are still unclear.
+但该连环动作向后重播
+But the replay of that sequence backwards
+似乎对整合技能学习
+appears to be important for the consolidation
+很重要
+of the skill learning.
+那么  这很重要  因为很多人
+Now, this is important because many people
+正在完成他们的柔术课
+are finishing their jujitsu class
+或者他们正在完成他们的瑜伽课
+or they're finishing their yoga class
+或者他们正在完成他们的舞蹈课
+or they're finishing their dance class
+或者他们正在完成一些技能学习
+or they're finishing some skill learning
+然后他们立即投入了他们的注意力
+and then they're immediately devoting their attention
+到别的东西
+to something else.
+你听到了很多关于可视化的信息
+You hear a lot about visualization
+我们将讨论可视化
+and we are going to talk about visualization.
+但在那种对想法的痴迷中
+But in the kind of obsession with the idea
+我们可以学习东西  只是坐在那里
+that we can learn things, just sitting there
+闭上眼睛无需做任何动作
+with our eyes closed without having to perform a movement,
+我们忽略了一些可能更重要的东西
+we've overlooked something perhaps even more important
+或者至少同样重要
+or at least equally important,
+就是在技能学习之后  在努力之后
+which is after skill learning, after putting effort
+闭目静坐
+into something, sitting quietly with the eyes closed
+一到五到十分钟可以让大脑
+for one to five to 10 minutes allows the brain
+重播连环动作
+to replay the sequence in a way that appears important
+为了更快速地巩固运动连环动作  模式
+for the more rapid consolidation of the motor sequence
+以及加速学习
+of the pattern and to accelerated learning.
+如果你想了解更多相关信息
+If you'd like to learn more about this,
+这不是我参与的工作
+this is not work that I was involved in,
+我想说得很清楚
+I want to be very clear.
+有一篇出色的论文涵盖了这一点以及更多内容
+There's an excellent paper that covers this and much more
+对于那些真正想深入研究的人
+for those of you that really want to dive deep on this
+稍后我们将深入探讨
+and we will dive deeper in a moment.
+这是一篇发表在神经元杂志上的评论
+This is a review that was published in the Journal Neuron,
+优秀的期刊
+excellent journal.
+我所指的许多论文
+Many of the papers that I'm referring to
+包含在这篇名为的评论中
+were covered in this review which is titled,
+神经可塑性辅助运动技能学习 by Dayan
+Neuroplasticity Subserving Motor Skill Learning by Dayan
+DAYAN  我希望我没有破坏发音
+D-A-Y-A-N, I hope I'm not butchering the pronunciation
+和科恩  莱昂纳德·科恩
+and Cohen, by Leonard Cohen,
+但不是我们大多数人熟悉的伦纳德科恩
+but not the Leonard Cohen most of us are familiar with,
+音乐家伦纳德·科恩
+the musician, Leonard Cohen.
+Dayan 和 Cohen  神经可塑性
+Dayan and Cohen, neuroplasticity
+促进运动技能学习
+subserving motor skill learning.
+这是在 2011 年发表的  但是已经有
+And this was published in 2011, but there've been
+我描述的一些更新和文献
+a number of updates and the literature that I've described
+在今天播客的其他部分
+in other portions of today's episode
+来自最近的文献
+come from the more recent literature
+例如最近的 2021 年论文
+such as the more recent 2021 paper.
+所以你有这个基本的学习阶段
+So you have this basic learning session
+然后一段时间后
+and then a period of time afterwards
+大脑可以在其中排练它刚刚做了什么
+in which the brain can rehearse what it just did.
+我们听到了很多关于心理彩排
+We hear so much about mental rehearsal
+我们总是考虑心理排练
+and we always think about mental rehearsal
+作为你在训练之前或代替训练所做的事情
+as the thing you do before you train or instead of training.
+但这是后来的排练
+But this is rehearsal that's done afterward
+大脑是自动的
+where the brain is just automatically
+通过连环动作编写脚本
+scripting through the sequence.
+出于某种原因  这仍然不清楚
+And for some reason, that's still not clear
+至于为什么会出现这种情况  它会向后运行
+as to why this would be the case it runs backward.
+然后在睡眠中  它向前跑  当然绝对
+Then in sleep, it runs forwards and certainly absolutely,
+适当时长的睡眠和优质睡眠
+sleep and quality sleep of the appropriate duration,
+等等将是重要的
+et cetera is going to be important
+用于各种学习  包括技能学习
+for learning of all kinds, including skill learning.
+我们在睡眠上做了整整四集
+We did an entire four episodes on sleep
+以及如何改善睡眠
+and how to get better at sleeping.
+这些是一月份的播客
+Those are the episodes back in January episodes,
+基本上是第一、二、三和四期
+essentially one, two, three, and four
+甚至可能是第五集  我不记得了
+and maybe even episode five, I don't recall.
+但是你可以去那里了解一下
+But you can go there to find out
+所有关于如何更好地睡眠
+all about how to get better at sleeping.
+现在还有其他培训课程
+Now there are other training sessions involved.
+我不会在一次训练中  就学到完美的高尔夫挥杆
+I'm not going to learn the perfect golf swing
+或网球发球或如何跳舞
+or the tennis serve or how to dance in one session
+我估计你应该也不会
+and I doubt you will either.
+所以问题是什么时候回来
+So the question is when to come back
+以及当你回到训练阶段时该怎么做
+and what to do when you come back to the training set.
+那么  首先  这个原则
+Now, first of all, this principle of errors
+对错误的关注  并打开可塑性的机会
+queuing attention and opening the opportunity
+这永远不会改变
+for plasticity, that's never going to change.
+即便对于技术精湛的人来说  这将是正确的
+That's going to be true for somebody who is hyper skilled
+谁甚至精通或精通某项技能
+who's even has mastery or even virtuosity in a given skill.
+记住  当你不擅长某事时
+Remember, when you're unskilled at something,
+不确定性非常高
+uncertainty is very high.
+随着你变得更加熟练  确定性就会增加
+As you become more skilled, certainty goes up.
+然后最终你达到精通水平
+Then eventually you achieve levels of mastery
+你的表现能力的确定性非常高
+where certainty is very very high about your ability
+你的确定性和其他人的确定性
+to perform, yours certainty en that of other people.
+然后是第四种精湛技艺
+And then there's this fourth category of virtuosity
+也就是有人  也许你自己  会带来不确定性
+where somebody, maybe you invites uncertainty
+带回到实践中  因为只有那种不确定性
+back into the practice because only with that uncertainty,
+才能表达你全方位的能力
+can you express your full range of abilities
+你甚至自己都不知道
+which you aren't even aware of
+直到不确定性出现
+until uncertainty comes into the picture.
+我碰巧比较幸运
+I happened to have the great privilege
+与大浪冲浪者莱尔德·汉密尔顿 (Laird Hamilton) 成为朋友
+of being friends with Laird Hamilton, the big wave surfer
+他很厉害
+who's phenomenal.
+我不冲浪  我当然不和莱尔德一起冲浪
+I don't surf, I certainly don't surf with Laird,
+但是他和另一个他从卢卡·帕图亚开始的人
+but he, and another guy that he starts with Luca Patua,
+这些家伙  他们是冲浪高手
+these guys, they're virtuosos at surfing.
+他们不只是想要他们可以掌握的波浪
+They don't just want the wave that they can master,
+他们想要不确定性
+they want uncertainty.
+他们正处于实践的关键时刻
+They're at the point in their practice
+当不确定性出现时
+where when uncertainty shows up like a wave
+比如  波浪要么太大要么正在以特定的方式移动
+that's either so big or is moving in a particular way
+它给他们带来了不确定因素
+that it brings an element of uncertainty for them
+关于他们将要做什么  他们认识到
+about what they're going to do that they recognize that
+作为表现更好的机会
+as the opportunity to perform better
+比他们否则
+than they would otherwise.
+所以他们实际上是在试图消除不确定性
+So they're actually trying to eliminate uncertainty.
+在开始学习任何技能时
+At the beginning of learning any skill
+当我们从不确定到熟练再到精通时
+and as we approach from uncertain to skilled to mastery,
+我们想减少不确定性
+we want to reduce uncertainty.
+这就是神经系统真正在做的事情
+And that's really what the nervous system is doing,
+它试图消除错误并磨练
+it's trying to eliminate errors and hone in
+在正确的轨迹上
+on the correct trajectories.
+如果你重复很多次
+If you perform a lot of repetitions
+然后你立即使用一段时间
+and then you use a period immediately after,
+我们还没有进行命名
+we don't really have a name for this,
+也许有人会想出它
+maybe someone will come up with it
+请放在评论区
+and put it in the comment section
+如果你在 YouTube 上  如果你在 YouTube 上看这个
+if you're on YouTube, if you're watching this on YouTube,
+给这个学习后  属于大脑的空闲时间取个名字
+a name for this post learning kind of idle time for the brain.
+大脑根本就是一个偶像  它实际上是脚本
+The brain is an idol at all, it's actually scripting
+所有这些相反的东西允许更深入的学习
+all these things in reverse that allow for deeper learning
+和更快的学习
+and more quick learning.
+但如果我们用其他东西填充它
+But if we fill that with other things,
+如果我们专注于我们的手机或者我们专注于
+if we are focused on our phones or we're focused
+在学习其他东西时
+on learning something else,
+我们专注于我们的表现
+we're focusing on our performance,
+那不会很好地为我们服务
+that's not going to serve us well,
+至少它不会很好地为技能学习服务
+it's at least it's not going to serve the skill learning well.
+所以  如果你对更快速的技能学习感兴趣
+So please, if you're interested in more rapid skill learning
+尝试这种方法   它们可能非常强大
+try introducing these sessions, they can be quite powerful.
+然后在随后的阶段中
+And then on subsequent sessions,
+大概是在睡了一夜之后
+presumably after a night's sleep
+或者也许你每天做两个阶段
+or maybe you're doing two sessions a day,
+虽然一天两个学习阶段还挺多的
+although two sessions a day is going to be a lot
+对于大多数人来说  除非你是专业人士
+for most people, unless you're a professional
+或高水平运动员  随后的阶段
+or a high-level athlete, the subsequent sessions
+是你表达前一个阶段收获的地方
+are where you get to express the gains
+这个阶段你会表现得很好
+of the previous session, where you get to perform well,
+大部分情况下  即使它只是微妙的
+presumably more often even if it's just subtle.
+有时性能会下降
+Sometimes there'll be a decrease in performance,
+但大多数时候你会表现得更好
+but most often you're going to perform better
+在随后的训练阶段中
+on subsequent and subsequent training sessions.
+并且有机会专心致志
+And there is the opportunity to devote attention
+以非常具体的方式  而不仅仅是让错误告诉你
+in very specific ways, not just let the errors inform you
+让把你的注意力放在哪里
+where to place your attention, but rather to direct
+而是引导你对运动特定元素的看法
+your perception to particular elements of the movement
+以进一步加快学习速度
+in order to accelerate learning further.
+所以要非常清楚  因为我认识你们很多人
+So to be very clear, 'cause I know many of you
+对具体工具方法感兴趣
+are interested in concrete protocols.
+不仅仅是第一个阶段中  你让错误
+It's not just that you would only let errors
+提示你把注意力放哪里
+cue your attention on the first session.
+你可以在一个或五个阶段中这样做
+You might do that for one session or five sessions,
+这不一定
+is going to depend.
+但是一旦你熟悉了一些东西
+But once you're familiar with something
+而且你每隔一段时间就会表现得很好
+and you're performing it well every once in a while,
+你每隔一段时间就会做得更好
+you're accomplishing it better every once in a while,
+然后你就可以开始引起你的注意了
+then you can start to cue your attention
+以非常刻意的方式
+in very deliberate ways.
+因此问题就变成了
+And the question therefore becomes
+提示你注意什么
+what to cue your attention to.
+好消息是这并不重要
+And the good news is it doesn't matter.
+有一组漂亮的实验已经完成
+There is a beautiful set of experiments that have been done
+查看在钢琴上弹奏的琴键连环动作
+looking at sequences of keys being played on a piano.
+这是几年前发表的作品
+This is work that was published just a couple of years ago.
+现在其实有好几篇论文
+There are actually several papers now
+专注于此
+that are focused on this.
+其中之一于 2018 年出版
+One of them was published in 2018.
+这是来自 Claudia Lappe 及其同事 LAPPE
+This is from Claudia Lappe and colleagues, L-A-P-P-E.
+她做了一些非常好的工作  其中谈到
+She's done some really nice work, which talks about
+音高反馈的影响
+the influence of pitch feedback
+关于学习运动时间和顺序
+on learning of motor timing and sequencing.
+这是用钢琴完成的
+And this was done with piano
+但它也适用于运动表现
+but it carries over to athletic performance as well.
+所以我要向你描述这项研究
+So I'm going to describe the study to you,
+但在我描述它之前
+but before I describe it, what is so interesting
+我想让你知道  这项研究中非常有趣的是
+about this study that I want you to know about
+事实证明
+is that it turns out it doesn't matter so much
+你在学习阶段中注意什么  这并不重要
+what you pay attention to during the learning sequence
+只要它与你正在进行的运动行为有关
+provided it's something related to the motor behavior that you're performing.
+这似乎不可思议
+That seems incredible.
+我不擅长网球发球
+I'm not good at a tennis serve.
+所以如果我已经完成了  比如说一千次重复
+So if I've done let's say a thousand repetitions
+网球发球
+of the tennis serve.
+也许我做对了三到十次
+Maybe I got it right three to 10 times.
+现在我把自己想得更好了
+Now I'm being even more generous with myself.
+我做这个训练后阶段
+And I do this post-training session
+让我的大脑闲置并睡个好觉
+where I let my brain idle and I get some good sleep
+然后回来  现在我又开始产生错误了
+and I come back and now I start generating errors again,
+大概或希望更少的错误
+presumably or hopefully fewer errors,
+但我决定要引起我的注意
+but I decide I'm going to cue my attention
+非常具体的东西  比如可能
+to something very specific, like maybe how tightly
+我拿着球拍有多紧 或者可能是我的站姿
+I'm holding the racket or maybe it's my stance,
+或者也许是当我击球时
+or maybe it's whether or not I rotate my right shoulder in
+我是否旋转了我的右肩
+as I hit the ball across.
+我瞎说的  我又不打网球
+And I'm making this up, again I don't play tennis.
+原来只要是在整个阶段期间
+Turns out that it as long as it's the same thing
+关注同一个东西  学习速度将会加快
+throughout the session, learning is accelerated.
+稍后我将解释为什么这有意义
+And I'll explain why this make sense in a moment.
+但要明确地说  你能够而且应该要
+But just to be really clear, you can and one should
+用你的注意力来引导你
+use your powers of attention to direct your attention
+在运动特定方面的注意力
+to particular aspects of a motor movement
+一旦你熟悉了运动的总体主题
+once you're familiar with the general theme of the movement.
+但你究竟关注什么并不重要
+But what you pay attention to exactly is not important.
+重要的是你要注意到
+What's important is that you pay attention
+一件特定的事情
+to one specific thing.
+所以 Claudia Lappe 和同事们展示的
+So what Claudia Lappe and colleagues showed
+是如果人们试图学习一系列琴键
+was that if people are trying to learn a sequence of keys
+在钢琴上  有多种形式的反馈
+on the piano, there are multiple forms of feedback.
+有错误信号  例如
+There are error signals if for instance,
+他们听到一段音乐  然后他们被告知
+they hear a piece of music and then they're told
+以特定顺序按下按键
+to press the keys in a particular sequence
+和发出的噪音  发出钢琴的声音
+and the noise that comes out, the sound that comes out
+听起来不像他们刚听到的那首歌
+of the piano does not sound like the song they just heard.
+所以  而不是  在这里  原谅我
+So instead of, and here, forgive me
+因为我既不会音乐  也不会唱歌
+because I'm neither musical, nor can I sing.
+但是他们听到的不是哒  哒  哒  哒
+But instead of dah, dah dah, dah, they hear that,
+哒哒哒哒哒
+dah, dah dah, dah
+然后当他们弹的时候
+and then instead when they play.
+如果是我  听起来像是
+If it were me, it sounds something like,
+......  这听起来不对
+dah, dah dah [indistinct], it wouldn't sound right.
+听起来不太对  因为我弹的顺序错了
+It wouldn't sound right, because I likely got the sequence
+或者我按键太用力了
+wrong, or I was pressing too hard on the keys
+或太轻的键  等等
+or too lightly on the keys, et cetera.
+他们展示的是如果他们只是指导人们
+What they showed was if they just instruct people
+关于按下按键的正确顺序
+about the correct sequence to press on the keys,
+实际上  返回什么声音并不重要
+it actually doesn't matter what sound comes back,
+只要它是正确的声音或相同的声音
+provided it's the correct sound or it's the same sound.
+好的  下面是实验
+All right, so here's the experiment.
+他们让人们按下这些键
+They had people press on these keys
+这是一架典型的钢琴  它产生了
+and it was a typical piano and it generated
+将产生的特定声音连环动作
+the particular sequence of sounds that would be generated
+通过按下钢琴上的琴键
+by pressing the keys on the piano.
+或者他们在这种情况下修改了键盘或钢琴
+Or they modified the keyboard in this case or piano
+这样当人们按下按键时
+such that when people pressed on the keys,
+一个随机的音调播放了不同的音调
+a random tone different tones were played
+每次他们按下按键
+each time they pressed on the keys.
+所以听起来很疯狂  听起来像噪音
+So it sounded crazy, it sounded like noise,
+但运动顺序是一样的
+but the motor sequence was the same.
+或者他们每次都播放一个单一的音调
+Or they had a single tone that was played every time
+他们按下了一个琴键   工作或任务
+they pressed a key and the job or the task of the subject
+只是按正确的顺序按下了按键
+was just oppressed the keys in the proper sequence.
+所以  其实不是......
+So instead of dunt, dunt, dunt, dunt, dunt,
+而是 ......
+it it was just dunt, dunt, dunt, dunt, dunt.
+而不是哒  哒  哒  哒  哒  哒
+Instead of dah, dah, dah, dah, dah, dah,
+是哒  哒  哒  哒  哒
+it's dah, dah, dah, dah, dah.
+我连音都发不准
+It's even hard for me to say it in even a tone,
+但你懂我什么意思
+but you get the idea.
+所以一个单一的音调  想想门铃正在响起
+So a singular tone, just think a doorbell being rung
+每次按下这个键都会很烦人
+with each press of the key will be really annoying.
+但事实证明  运动学习的速度
+But it turns out that the rate to motor learning
+是一样的  无论他们是否得到反馈
+was the same, whether or not they were getting feedback
+那是准确的钢琴键
+that was accurate to the keys of the piano
+或者它是否是一个恒定的音调
+or whether or not it was a constant tone.
+表现很糟糕  学习率
+Performance was terrible and the rates of learning
+如果他们恢复随机音调  那就会非常难听
+were terrible if they were getting random tones back.
+所以这意味着学习弹钢琴
+So what this means is that learning to play the piano
+至少在这些早期阶段
+at least at these early stages
+实际上只是关于生成运动命令
+is really just about generating the motor commands.
+不是要注意声音
+It's not about paying attention to the sound
+那是从钢琴里传出来的
+that's coming out of the piano.
+这是有道理的 因为当我们是初学者时
+And this makes sense because when we are beginners,
+我们正在努力将注意力集中在
+we are trying to focus our attention on the things
+我们可以控制的事情上
+that we can control.
+如果你考虑这个  如果你把这个概念化
+And if you think about this, if you conceptualize this,
+按下钢琴上的琴键并注意
+pressing the keys on the piano and paying attention
+发出的声音有两件事
+to the sounds that are coming out are two things.
+所以这意味着随着你深入
+So what this means is that as you get deeper
+深入练习
+and deeper into a practice,
+只关注运动执行可能是有益的
+focusing purely on the motor execution can be beneficial.
+那么  这将在开环类型的运动中更难做到
+Now, this is going to be harder to do
+因为你会得到反馈
+with open loop type things where you're getting feedback.
+我猜是开环的一个很好的例子
+I guess a good example of open loop
+就是后空翻的尝试
+would be the attempt at a back flip.
+如果你弄错了  你会立刻知道
+If you get it wrong, you will immediately know,
+如果你做对了  你会立即知道
+if you get it right, you'll immediately know.
+请不要出去尝试做后空翻
+Please don't go out and try and do a back flip
+在坚实的地面上  甚至在蹦床上
+on the solid ground, or even on a trampoline
+如果你不知道你在做什么
+if you don't know what you're doing
+因为很可能你会弄错
+because very likely you'll get it wrong
+你会受伤
+and you'll get injured.
+但如果它是闭环的东西
+But if it's something that is closed loop
+在那里你可以一次又一次地重复  一次又一次
+where you can repeat again and again, and again and again,
+这是有利的  因为你可以执行
+that is advantageous because you can perform
+多次重复  你就可以开始集中注意力
+many many repetitions and you can start to focus
+或学会集中注意力
+or learn to focus your attention
+只是在运动模式上
+just on the pattern of movement.
+换句话说  你可以学习弹钢琴
+In other words, you can learn to play the piano
+一样快  甚至更快
+just as fast or maybe even faster
+只关注你移动手指的顺序
+by just focusing on the sequence that you are moving
+你的手指  而不是声音的反馈
+your digits, your fingers and not the feedback.
+那么  我确定会有音乐老师
+Now, I'm sure there are music teachers out there
+钢琴老师会反对
+and piano teachers that are screaming,
+“不  你会破坏练习
+"No you're going to ruin the practice
+“我们所有人都深深植根于我们的脑海中
+"that all of us have embedded in our minds
+“还有我们的学生”
+"and in our students."
+我同意  在某些时候你需要开始
+And I agree, at some point you need to start
+收集反馈
+including feedback about whether or not
+音乐听起来是否正确的反馈
+things sound correct.
+但是技能学习的好处之一
+But one of the beauties of skill learning
+是你可以选择参数化它
+is that you can choose to parameterize it,
+这意味着你可以选择只关注运动连环动作
+meaning you can choose to just focus on the motor sequence
+或者只专注于返回的声音
+or just focus on the sounds that are coming back
+然后整合这些
+and then integrate those.
+所以我们听到了很多关于分块的信息
+And so we hear a lot about chunking,
+关于将事物分解成它们的组成部分
+about breaking things down into their component parts.
+但技能学习的最大挑战之一
+But one of the biggest challenges for skill learning
+是知道将注意力放在哪里
+is knowing where to place your attention.
+所以再次提醒  我们正在建立一个工具方法
+So to dial out again, we're building a protocol
+在这一集中  早期的阶段
+across this episode, early sessions,
+也许是第一个  也许是前 10 个
+maybe it's the first one, maybe it's the first 10,
+也许是前100
+maybe it's the first 100.
+这取决于你打包的重复次数
+It depends on how many repetitions you're packing in.
+但在最初的阶段期间
+But during those initial sessions,
+关键是要犯很多错误才能让奖励过程
+the key is to make many errors to let the reward process
+控制可塑性  让错误打开可塑性
+govern the plasticity, let the errors open the plasticity.
+然后在学习阶段结束之后
+And then after the learning sessions,
+让大脑闲着
+to let the brain go idle
+至少在短时间内
+at least for a short period of time
+当然  为了最大限度地睡眠
+and of course, to maximize sleep.
+当你开始合并更多阶段时
+As you start incorporating more sessions,
+你开始获得一些技能水平
+you start to gain some skill level,
+学习利用和集中注意力
+learning to harness and focus your attention
+在动作的某些特征上
+on particular features of the movement
+独立于奖励和反馈
+independent of the rewards and the feedback.
+所以奖励不再是来自钢琴的音调
+So the reward is no longer in the tone coming from the piano
+或者你是否正确击中目标
+or whether or not you struck the target correctly
+而只是运动   集中在你的
+but simply the motor movement focusing your,
+例如在飞镖投掷中  在你手臂的动作上
+for instance in a dart throw, on the action of your arm.
+那就是在运动模式中深深嵌入可塑性的方式
+That is embedding the plasticity in the motor pattern
+这就是
+most deeply, that's what's been shown
+通过科学文献所表明的
+by the scientific literature.
+我确定肯定有教练和老师
+I'm sure there are coaches and teachers out there
+这将完全不同意我的观点  这很好
+that will entirely disagree with me and that's great.
+请让我知道你更喜欢什么
+Please let me know what you prefer,
+让我知道你认为这是错误的地方
+let me know where you think this is wrong
+它很少发生  但让我知道你的想法
+and it rarely happens, but let me know where you think
+这也可能是对的
+this might be right as well.
+所以我们打破了学习过程
+So we're breaking the learning process down
+进入其组成部分
+into its component parts.
+随着我们越来越熟练
+As we get more and more skilled,
+意思是我们犯的错误越来越少
+meaning as we make fewer and fewer errors
+每单位时间的给定一个阶段  这就是注意力
+per a given session per unit time, that's when attention
+可以开始从一项功能迁移
+can start to migrate from one feature
+例如一个习惯动作到另一个特征
+such as the motor sequence to another feature
+这可能是一个人的站姿
+which is perhaps one's stance and another sequence,
+另一个联动的组成部分  这将是结果
+component of the sequence, which would be the result
+这是一个试验到试验的基础上
+that's one getting on a trial to trial basis.
+所以每次都要换
+So changing it up each time.
+所以也许我送的是网球
+So maybe I served the tennis ball
+我专注于球落地的位置
+and I'm focusing on where the ball lands
+然后我专注于速度
+and then I'm focusing on the speed,
+然后我专注于我的抓地力  然后我专注于我的站姿
+then I'm focusing on my grip, then I'm focusing on my stance
+一次接着一次
+from trial to trial.
+但直到我们掌握了核心运动
+But until we've mastered the core motor movements
+也就是一个个阶段学下来
+which has done session to session,
+至少根据文献
+that at least according to the literature
+我可以访问这里  似乎不是最理想的
+that I have access to here, seems to be suboptimal.
+所以希望这开始变得有意义
+So hopefully this is starting to make sense,
+这就是上运动神经元之间的这些连接
+which is that these connections between upper motor neurons,
+下运动神经元和中枢模式发生器
+lower motor neurons and central pattern generators,
+你不能一下子捕获所有
+you can't attack them all at once.
+你不能尝试一下子改变它们
+You can't try and change them all at once.
+所以我们正在做的是我们正在分解事情
+And so what we're doing is we're breaking things down
+进入它们的组成部分
+into their component parts.
+你们中的一些人可能想知道运动的速度
+Some of you may be wondering about speed of movement.
+有一些数据  这意味着那里有一些不错的论文
+There are some data, meaning some decent papers out there
+显示超慢动作
+showing that ultra slow movements,
+基本上以慢动作进行动作
+performing a movement essentially in slow motion
+可以有利于提高技能学习率
+can be beneficial for enhancing the rate of skill learning.
+然而  至少从我对文献的阅读来看
+However, at least from my read of the literature,
+超慢动作
+it appears that ultra slow movements should be performed
+应该要在已经获得一定程度的熟练程度之后再做
+after some degree of proficiency has already been gained
+在那个特定的运动中
+in that particular movement.
+这不是我想的方式
+Now that's not the way I would have thought about it.
+我会想  好吧  如果你正在学习如何做
+I would have thought, well, if you're learning how to do
+武术中的正确踢腿或出拳
+a proper kick or a paunch in martial arts
+或者一开始超慢动作的东西
+or something that ultra slow movements at first
+将成为人们最好的
+are going to be the way that one can best learn
+学习如何进行运动的方式
+how to perform a movement
+然后你只是逐渐提高速度
+and then you just gradually increase the speed.
+事实证明并非如此
+It turns out that's not the case
+我可能应该知道这一点
+and I probably should have known that.
+你也应该知道  因为事实证明
+And you should probably know that because it turns out
+当你做超慢动作时
+that when you do ultra slow movements,
+有两样东西对你不可用
+two things aren't available to you.
+一是本体反馈  它不准确
+One is the proprioceptive feedback is not accurate
+因为四肢的快速运动
+because of fast movements of limbs are very different
+相比起四肢的缓慢运动  是非常不同的
+than slow movements of limbs.
+所以你没有机会
+So you don't get the opportunity
+建立本体感觉反馈
+to build in the proprioceptive feedback.
+但它不起作用的另一个原因
+But the other reason why it doesn't work
+是它太准确了  你不会产生错误
+is that it's too accurate, you don't generate errors.
+所以我能找到的数据
+And so the data that I was able to find
+表明非常缓慢的运动可能是有益的
+show that very slow movements can be beneficial
+如果一个人已经精通一种练习
+if one is already proficient in a practice,
+但开始时动作非常缓慢
+but very slow movements at the beginning
+不要让你学得更快
+don't allow you to learn more quickly
+因为你永远不会产生错误
+because you never generate errors
+因此大脑不会  它不会接受改变
+and therefore the brain doesn't, it's not open for change.
+可以这么说  可塑性的窗口从未打开过
+The window for plasticity has never swung open, so to speak.
+所以让我们回到这个主题
+So it brings us back to this theme
+错误开启可塑性
+that errors allow for plasticity,
+正确的动作表现
+correct performance of movements
+或半正确的动作表现
+or semi correct performance of movements, cues the synapses
+刺激  在需要改变的大脑区域和脊髓回路中的突触
+in the brain areas and spinal circuits that need to change.
+然后这些变化发生在
+And then those changes occur in the period
+在技​​能学习之后的紧接着的阶段  和睡眠的时候
+immediately after skill learning and in sleep.
+所以超慢动作可能是有益的
+So super slow movements can be beneficial
+前提是你已经掌握了一些技能
+once you already have some proficiencies.
+所以这可能是站在你的客厅里
+So this might be standing in your living room
+并且只是在超慢动作中
+and just in ultra slow motion,
+执行你的网球发球  学习
+performing your tennis serve, learning to,
+或考虑如何调整肘部
+or thinking about how you're adjusting your elbow
+你的手臂和轨迹正是你被教导的
+and your arm and the trajectory exactly how you were taught
+你的网球教练
+by your tennis coach.
+但是从一开始就试图以这种方式学习
+But trying to learn it that way from the outset
+似乎不是学习技能的最佳方式
+does not appear to be the best way to learn a skill.
+你应该什么时候开始引入慢速学习？
+When should you start to introduce slow learning?
+嗯  显然和你的教练谈谈这个
+Well, obviously talk to your coaches about this,
+但如果你这样做是为了消遣
+but if you're doing this recreationally
+或者你们没有教练  我知道你们很多人都没有
+or you don't have a coach, I realize many of you don't.
+我做任何事都没有教练
+I don't have a coach for anything that I do.
+我都是
+I'm going to have just navigating it
+通过使用科学文献
+by using the scientific literature.
+看来  一旦你达到成功率
+It appears that once you're hitting success rates
+大约 25% 或 30%  这就是超慢动作
+of about 25 or 30%, that's where the super slow movements
+可以开始有益的地方
+can start to be beneficial.
+但是如果你仍然以一定的速度做事
+But if you're still performing things at a rate
+5% 或 10% 正确  其余都是错误
+of five or 10% correct and the rest are errors,
+那么  超慢动作
+then the super slow movements
+可能不会给你带来那么多好处
+are probably not going to benefit you that much.
+超慢动作也不是真的适用
+Also super slow movements are not really applicable
+对很多事情
+to a lot of things.
+例如  你可以用超级慢动作想象投掷飞镖
+For instance, you could imagine throwing a dart
+但如果你真的尝试超级慢的
+super slow motion, but if you actually try
+扔出一个真正的飞镖
+and throw an actual dart,
+显然  飞镖会掉到地上
+the dart's just going to fall to the floor, obviously.
+所以有很多东西  比如棒球挥棒
+So there are a number of things like baseball bat swing
+你可以用超慢动作练习
+which you can practice in super slow motion.
+但是如果你尝试用真正的棒球来做到这一点
+But if you try and do that with an actual baseball
+或垒球或类似的东西
+or softball or something like that,
+那不会给你任何反馈
+that's not going to give you any kind of feedback
+关于它的效果如何
+about how effective it was.
+所以超慢动作或减速动作
+So super slow movements or a decelerated movement
+确实有一定的作用  但必须得到你比较精通的情况下
+has its place but once you're already performing things
+比如25% 到 30% 的成功率
+reasonably well like maybe 25 to 30% success rate.
+我试过这个  实际上  我试过这么打篮球
+And I've tried this, I actually, I struggle with basketball
+无论出于何种原因  我的罚球都很糟糕
+for whatever reason and my free throw is terrible.
+所以我用超慢动作练习罚球
+So I practiced free throws in super slow motion
+我每次都做的非常棒
+and I nailed them every time,
+唯一问题是没有球
+the problem is there's no ball.
+你们中的一些人已经有相当程度的熟练程度
+Some of you already have a fair degree of proficiency,
+在特定实践或运动或乐器的技能上
+of skill in a given practice or sport or instrument.
+如果你在这种高级中级
+And if you're in this sort of advanced intermediate
+或对某项技能有高级熟练程度
+or advanced levels of proficiency for something,
+有一种方法  可以在文献中找到有趣的支持数据
+there is a practice that you can find interesting data for
+这些都涉及节拍
+in the literature, which involves metronoming.
+所以你会意识到这与生成重复有关
+So this you'll realize relates to generating repetitions
+它与音调实验有关
+and it relates to the tone experiment
+你的注意力在哪里并不重要
+where it doesn't really matter what your attention
+只要你在做动作
+is cued to as long as you are performing
+有非常多的重复  就会被提示
+many many reps of the motor sequence.
+你可以使用节拍器  显然音乐家会这样做
+You can use a metronome and obviously musicians do this,
+但运动员也可以做到这一点
+but athletes can do this too.
+你可以使用节拍器来设置节奏
+You can use a metronome to set the cadence
+你的重复
+of your repetitions.
+现在对于游泳者来说  实际上有一个设备
+Now for swimmers, there's actually a device.
+我可以在网上找到
+I was able to find online,
+我忘记了品牌名称是什么
+I forgot what the brand name was
+这不是重点  但实际上是这样
+and that's not what this is about, but that actually goes
+在你的泳帽里  可以提示你
+in the swim cap that can cue you
+当你需要执行另一次游动时
+to when you need to perform another stroke.
+对于跑步者  还有其他节拍器类型的设备
+And for runners, there are other metronome type devices
+通过耳机或房间里的声音
+that through headphones or through a tone in the room
+如果你在室内或跑步机上跑步
+if you're running indoors or on a treadmill
+会提示你  什么时候需要
+we'll cue you to when you basically
+你需要抬起你的脚后跟
+you need to lift your heels.
+如果你这样做  运动员会发现什么
+And if you do that, what athletes find
+他们可以进行更多的重复
+is they can perform more repetitions,
+他们可以产生更多的输出  你可以提高速度
+they can generate more output, you can increase speed.
+许多非常有趣的事情
+A number of really interesting things are being done
+都与听觉节拍有关
+with auditory metronoming.
+然后我现在参与了一些工作
+And then I'm involved in a little bit of work now
+希望我能向你汇报
+that hopefully I'll be able to report back to you
+关于使用频闪节拍器
+about using stroboscopic metronoming.
+所以实际上改变了视觉环境的速度
+So actually changing the speed of the visual environment.
+这些是有趣的实验  基本上改变了
+These are fun experiments, basically changing
+一个人对他们在空间中移动的速度的看法
+one's perception of how fast they're moving through space
+通过使用视觉系统
+by playing with the visual system,
+将来讨论的东西
+something for a future discussion.
+但是你可以开始使用听觉节拍
+But you can start to use auditory metronoming
+用于在单位时间内产生更多运动
+for generating more movements per unit time
+并产生更多的错误  从而获得更多的成功
+and generating more errors and therefore more successes
+和更多的神经可塑性
+and more neuroplasticity.
+有许多不同的应用程序
+There are a number of different apps out there.
+我找到了几个免费的应用程序  你可以在其中进行设置
+I found several free apps where you can set in
+节拍器速度  或者它可能是滴答  滴答
+a metronome pace, or it might be tick, tick,
+滴答  滴答  滴答  滴答
+tick, tick, tick, tick.
+对于大多数事情来说  这有点快
+That's a little fast for most things,
+但你可以想象这是飞镖
+but you can imagine if this were darts
+或者这是高尔夫挥杆  它可能是滴答声
+or this were golf swings that it might be tick,
+滴答  滴答  滴答或更像滴答  滴答的东西
+tick, tick, tick or something more like tick, tick.
+每次节拍器响起时  你挥杆
+And every time the metronome goes, you swing.
+每次节拍器响起  你就扔一个飞镖
+Every time the metronome goes, you throw a dart.
+事实上  有一些疯狂的实验
+Actually there's some wild experiments out there.
+你知道   有一个世界叠杯锦标赛
+You know there's a world championship of cup stacking.
+我看到有一位年轻女士可以拿走所有这些杯子
+There's a young lady who I saw could take all these cups
+摊开在桌子上  基本上只是把它们叠起来
+spread out on a table and basically just stack them
+以最少的次数进入完美的金字塔
+into the perfect pyramid in the least amount of times
+所有的观众都疯狂了
+and all the kids go wild.
+这是我从未想过要追求的东西
+This is something I'd never thought to pursue
+坦白说永远不会追求
+and frankly never will pursue
+除非我的生活出于某种原因依赖于它
+unless my life depends on it for some reason,
+但它确实令人印象深刻
+but it's really impressive.
+如果你看看这个连环动作
+And if you look at the sequence
+因为这些都被记录下来了
+'cause these have been recorded,
+你可以在 YouTube 上查一下
+you can look this up on YouTube.
+你会发现这些专业的叠杯机
+What you'll find is that these expert cup stackers,
+这只是关于消除错误
+it's just all about error elimination.
+但它们是两个节拍和听觉线索
+But they're two metronomic and auditory cues
+实际上可以提示他们更快地拿起杯子
+can actually cue them to pick up the cups faster
+比他们通常会并学会这样做
+than they would ordinarily and to learn to do that.
+你可以为任何事情执行此操作
+You can do this for anything.
+我觉得叠杯可能不是什么
+I think cup stacking is probably not a skill
+你们中的大多数人都有兴趣去学的技能
+most of you are interested in doing,
+但对于任何技能  如果你弄清楚速度是多少
+but for any skill, if you figure out at what rate
+你在单位时间内进行重复
+you are performing repetitions per unit time
+你想稍微增加一点
+and you want to increase that slightly,
+你可以设置一个稍微快一点的节拍器
+you set a metronome which is slightly faster
+比你目前的速度  你刚刚开始产生
+than your current rate and you just start generating
+更多的重复
+more repetitions.
+那么  其中有趣的并且很酷的是
+Now what's interesting about this and is cool
+它与之前实验有关
+is it relates back to the experiment
+来自 Lappe 和他的同事们  也就是说你的关注点
+from Lappe and colleagues, which is your attention
+现在已经适应了音调  节拍器
+is now harnessed to the tone, to the metronome,
+不一定是你在做什么
+not necessarily to what you're doing
+在运动方面
+in terms of the motor movement.
+所以你真的需要一点熟练度
+And so really you need a bit of proficiency.
+同样  这适用于处于中级的人
+Again, this is for people who are in intermediate
+或中高级或高级
+or advanced intermediate or advanced.
+但你本质上所做的是你在创造
+But what you're essentially doing is you're creating
+一种外部压力  一种偶然性  这样你就会产生
+an outside pressure, a contingency so that you generate,
+再次  更多错误
+again, more errors.
+所以这都是关于你得到的错误
+So it's all about the errors that you get.
+那么  这些不是所有杯子都翻倒的错误
+Now, these aren't errors where all the cups tumble
+或者你必须停下来或者你跟不上
+or you have to stop or you can't keep up,
+你必须稍微调整一下节奏
+you have to set the pace just a little bit
+超出你目前所能做的
+beyond what you currently can do.
+当你这样做时  你基本上是在强迫
+And when you do that, you're essentially forcing
+神经系统会犯错误并纠正错误
+the nervous system to make errors and correct the errors
+这个阶段之中
+inside of the session.
+我觉得这很有趣  因为它意味着的是
+I find this really interesting because what it means
+你拥有的感官知觉
+is, again you've got sensory perception,
+你在关注什么
+what you're paying attention to,
+本体感觉  四肢在哪  以及运动神经元
+proprioception where your limbs are and the motor neurons
+在你的上下运动神经元
+in your upper lower motor neurons
+和中央模式发生器中
+and central pattern generators.
+而你无法关注
+And you can't pay attention to,
+“嗯  它们是我的上运动神经元
+"Well, they're my upper motor neurons,
+“它们是我的下运动神经元”
+"they're my lower motor neurons."
+别想了  你不会那样做
+Forget that, you're not going to do that.
+你不能太关注你的本体感受
+You can't pay attention to your proprioception too much.
+那将是超级慢动作
+That would be the super slow motion
+将是本体感受
+would be the proprioception.
+但是你必须把注意力集中在一些事情上
+But you have to harness your attention to something.
+如果你利用你的注意力
+And if you harness your attention
+为了这个外部的偶然性  这个节拍器
+to this outside contingency, this metronome
+一停不停的  现在去  现在去  现在去
+that's firing off and saying, now go, now go, now go.
+不仅可以增加重复次数  错误和成功的次数
+Not only can you increase the number of repetitions, errors
+但出于某种原因  我们不知道为什么
+and successes, but for some reason and we don't know why,
+节拍器音调的规律节奏
+the regular cadence of the tone of the metronome
+以及你正在锚定你的动作的事实
+and the fact that you are anchoring your movements
+对一些外力  对一些外部压力或提示
+to some external force, to some external pressure
+似乎能加速可塑性
+or cue seems to accelerate the plasticity
+以及技能的变化和获得
+and the changes and the acquisition of skills
+超出如果你只是做同样的数字会是什么
+beyond what it would be if you just did the same number
+没有外部压力的重复
+of repetitions without that outside pressure.
+我们不知道确切的机制是什么
+We don't know exactly what the mechanism is.
+大概是神经化学  好像有什么东西
+Presumably it's neurochemical, like there's something
+关于跟上计时器或步伐
+about keeping up with a timer or with a pace
+这大概是  在这里我是在推测啊
+that presumably and I'm speculating here,
+导致特定化学物质的释放
+causes the release of particular chemicals.
+但我觉得这真的很酷
+But I think it's really cool.
+节拍器  它们完全不贵
+Metronomes, they're totally inexpensive,
+至少你在水之外使用的那些
+at least the ones that you use outside of water
+非常便宜
+are very inexpensive.
+你可以找到这些免费的应用程序
+You can find these free apps,
+你可以使用音乐节拍器
+you can use a musical metronome.
+所以节拍器也是一个强大的工具
+So metronomes are a powerful tool as well
+特别是对于速度工作
+in particular for speed work.
+所以对于短跑或游泳或跑步
+So for sprinting or swimming or running
+目标是产生更多的重复动作
+where the goal is to generate more strokes
+或更有效的动作或更多的步骤  等等
+or more efficient strokes or more steps, et cetera.
+节拍器的速度
+The rate of the metronome obviously
+将是非常重要的
+is going to be very important.
+有时你试图延长你的步幅
+Sometimes you're trying to lengthen your stride,
+有时你想减少划水次数
+sometimes you're trying to take fewer strokes
+但例如在游泳池中继续漂浮
+but glide further in the pool for instance.
+但偶尔的价值
+But the value of occasionally
+只是重复的次数  划动的数量
+just the number of repetitions, the number of strokes
+或每单位时间的步数等等也是
+or steps, et cetera per unit time is also
+你正在训练中央模式生成器
+that you're training the central pattern generators
+以更高的速度运行
+to operate at that higher speed.
+其中一项运动对我来说有点有趣
+One of the sports has kind of interesting to me
+是速度步行
+is speed walking.
+这不是我参与或计划参与的
+It's not one I engage in or ever planned to engage in,
+但如果你曾经尝试过真正加速步行
+but if you've ever tried to really speed walk,
+实际上很难走得非常快
+it's actually difficult to walk very very fast
+并且不变成小跑
+without breaking into a run.
+所有动物都有这些交叉点
+All animals have these kinds of crossover points
+也就是
+where you go.
+比如说马  就像它们小跑
+I think with horses it's like it was that they trot,
+然后疾驰  或者接下来的事情
+then they gallop on, or what's the next thing.
+显然  我对马一无所知
+Clearly, I don't know anything about horses
+除了它们很漂亮而且我非常喜欢它们
+except that they're beautiful and I liked them very much.
+但它们将动作分成了多种不同的步伐
+But they break into a different kind of stride.
+那是因为你转移了
+And that's because you shift over
+到了不同的中央模式发生器
+to different central pattern generators.
+所以当你走路或马走得很慢时
+So when you're walking or a horse is moving very slowly
+然后它开始慢跑
+and then it breaks into a jog
+然后全力冲刺或疾驰
+and then into a full sprint or gallop for the horse,
+你实际上是在参与不同的
+you're actually engaging different
+中央模式发生器
+central pattern generators.
+还有那些中央模式发生器
+And those central pattern generators
+总是有它们最愿意去发挥作用的速度范围
+always have a range of speeds that they're happiest to function at.
+所以为了速度目的而使用节拍器
+So with the metronoming for speed purposes,
+你所做的是你基本上可以带来
+what you do is you can basically bring the activity
+那些中央模式发生器的活动
+of those central pattern generators
+进入它们的上限  甚至可能扩大它们的范围
+into their upper range and maybe even extend their range.
+还有一个迷人的生物学
+And there's a fascinating biology
+中央模式生成器如何协同工作
+of how central pattern generators work together.
+有中央模式生成器等的耦合
+There's coupling of central pattern generators, et cetera
+以达到最大速度等
+in order to achieve maximum speeds and et cetera.
+这是更高级的主题
+It's a topic for a kind of an advanced session.
+科斯塔喜欢这些内容  他在叫
+Costa loves this topic, he just barked.
+他非常喜欢这些内容  他又叫了
+And he loves it so much, he barked again.
+无论如何  节拍器是一个强大的工具
+In any event, the metronome is a powerful tool,
+再次申明  主要是为了更进阶的练习者
+again for more advanced practitioners
+或高级中级练习者
+or for advanced intermediate practitioners.
+但它很有趣  因为它把我们带回了一个重点
+But it's interesting because it brings back
+我们还在学习的时候
+the point that what we put our attention to
+注意力关注在哪里很重要
+while we're still learning is important
+关注在一个地方
+to the extent that it's on one thing
+至少是每次练习的当下  或者连续的练习中
+at least for the moment or trial to trial,
+但我们关注的可能是外在的
+but that what we focus our attention on can be external,
+它可以是内部的  最终是技能学习
+it can be internal and ultimately the skill learning
+是所有一切都汇集在一起​​的地方
+is where all that is brought together.
+那么让我们来谈谈技能学习发生的地方
+So let's talk about where skill learning occurs
+在神经系统中
+in the nervous system.
+然后我要给你一个真的
+And then I'm going to give you a really,
+我认为是一个非常酷的工具
+what I think is a really cool tool
+可以增加灵活性和运动范围
+that can increase flexibility and range of motion
+基于这个特定的大脑区域
+based on this particular brain area.
+这是我使用的一个工具  当我第一次听说时
+It's a tool that I used and when I first heard about,
+我不相信会起作用
+I did not believe would work.
+这不是什么玄学  这实际上是
+This is not a hack, this is actually anchored deeply
+在我们都拥有的特定大脑区域的生物学中 根深蒂固的东西
+in the biology of a particular brain region that we all have
+它的意思是迷你大脑
+whose meaning is mini brain.
+还有我们都有的那个迷你大脑
+And that mini brain that we all have
+被称为你的小脑
+is called your cerebellum.
+小脑被称为迷你大脑
+The cerebellum is called the mini brain
+因为它在你的大脑后面
+because it's in the back of your brain.
+它看起来像一个小迷你版
+It looks like a little mini version
+是大脑的其余部分
+of the rest of your brain.
+这是一个绝对令人难以置信的结构
+It's an absolutely incredible structure
+这与运动有关
+that's involved in movement.
+它还有很多非运动相关的功能
+It also has a lot of non-movement associated functions.
+简而言之  小脑从你的感官获得输入
+In brief, the cerebellum gets input from your senses,
+特别是你的眼睛和注意力
+particularly, your eyes and pays attention
+你的眼睛在空间中的位置  你在看什么
+to where your eyes are in space, what you're looking at.
+它基本上需要三个方面的信息
+It basically takes information about three aspects
+你的眼睛和正在发生的眼球运动
+of your eyes and eye movements which are occurring
+当你的头像这样  这叫做pitch
+when your head goes like this, which is called pitch.
+像这样
+So this is pitch.
+对于那些在听的人  我只是上下点头
+For those of you that are listening I'm just nodding
+然后有偏移
+up and down then there's yaw,
+这就像摇头   从一边到另一边
+which is like shaking your head, no, from side to side.
+然后是滚动  就像有时
+And then there's roll, which is that like sometimes
+如果你看到灵长类动物  比如狨猴之类的
+if you see a primate, like a Marmoset or something,
+当他们看着你时  他们会摇头
+they will roll their head when they look at you.
+实际上  他们这样做的原因是它有助于产生
+Actually, the reason they do that is it helps generate
+深度感知  它是一种运动视差形式
+depth perception, it's a kind of form of motion parallax
+如果你很好奇他们为什么这样做
+if you're curious why they do that.
+不是为了看起来可爱  他们这样做是因为当他们这样做时
+It's not to look cute, they do it because when they do that,
+即使你静止而他们静止
+even if you're stationary and they're stationary,
+他们获得了更好的深度感知
+they get better depth perception
+至于你离他们有多远
+as to how far away from them you are.
+所以你有俯仰、偏移和滚转
+So you've got pitch, yaw and roll.
+当你移动你的头和你的身体时
+And as you move your head and as you move your body
+你在空间中移动  你视网膜上的图像移动
+and you move through space, the image on your retina moves,
+俯仰、滚动偏移以某种组合
+pitch, yaw on roll in some combination,
+这些信息被传递到你的小脑
+that information is relayed to your cerebellum.
+所以它的视觉信息很丰富
+So it's rich with visual information.
+还有一张你的体表地图
+There's also a map of your body surface
+以及你在小脑中的动作和时间
+and your movements and timing in the cerebellum.
+所以这是一个令人难以置信的结构  汇集了
+So it's an incredible structure that brings together
+运动的时间  四肢正在运动
+timing of movements, which limbs are moving
+并有本体信息
+and has proprioceptive information.
+它真的是一个迷你大脑
+It really is a mini brain,
+它只是那里最酷的小结构
+it's just the coolest little structure back there.
+而在人类中  其实并没有那么少
+And in humans, it's actually not that little,
+这只是一个令人难以置信的结构
+it's just an incredible structure.
+那么  所有这些信息都集成在那里
+Now, all this information is integrated there,
+但大多数人没有告诉我们的是  很多学习
+but what most people don't tell us is that a lot of learning
+涉及时间的技能学习的运动连环动作
+of motor sequences of skill learning that involves timing
+发生在小脑
+occurs in the cerebellum.
+那么  你不能真正使用这些信息
+Now, you can't really use that information
+除了知道在你学得很好之后
+except to know that after you learn something pretty well,
+它由你的小脑传递或处理
+it's handed off or kind of handled by your cerebellum,
+但是你可以用你的小脑做一些事情
+but there is something that you can do with your cerebellum
+以增加运动范围和灵活性
+to increase range of motion and flexibility.
+很多我们的灵活性  信不信由你
+Much of our flexibility, believe it or not
+不是因为我们的肌腱特别长
+is not because our tendons are particular length
+或弹性  虽然它起到了一些作用
+or a elasticity, although that plays some role,
+这不是因为我们的肌肉短
+it's not because our muscles are short.
+我甚至不知道那意味着什么
+I don't know what that would even mean.
+有些人有更长的肌肉
+Some people have longer muscle bellies
+或较短的肌肉  但你的肌肉总是
+or shorter muscle bellies, but your muscles always
+基本上跨越骨骼的整个长度
+essentially span the entire length of the bone
+或肢体或靠近它  以及你的肌腱
+or limb or close to it, along with your tendons.
+但与肌肉的神经支配有关
+But has to do with the neural innervation of muscle
+事实上  当肌肉被拉长时
+and the fact that when muscles are elongated,
+会有一个点  它们不会再伸展更多了
+there's a point at which they won't stretch out
+这时候神经就会燃烧起来  它们就会关闭
+any longer and the nerves fire, and they shut down
+你实际上有抑制途径
+that you actually have inhibitory pathways
+阻止你收缩肌肉
+that prevent you from contracting the muscles
+或者从延伸它们  不再延伸它们
+or from extending them, from stretching them out any more.
+所以你现在就可以做到这一点
+So you can do this right now.
+如果你在开车  不要这样做  因为除非你有
+If you're driving, don't do it because unless you have
+一辆自动驾驶汽车  你需要自己动手
+a self-driving car, you'll need to take your hands
+关闭转向
+off the steering.
+但是因为视觉和肌肉的方式
+But because of the way that vision and your muscles
+在你的小脑中有代表
+are represented in your cerebellum,
+事实证明  你的视觉运动范围
+it turns out that your range of visual motion
+和你的视野范围  从字面上看  视野有多宽
+and your range of vision, literally how wide a field of view
+你可以将四肢伸展多远
+you take impacts how far you can extend your limbs.
+所以我们稍后会讨论这个
+So we'll talk about this in a second
+究竟如何做到这一点并探索这一点
+exactly how to do this and explore this.
+但是当你穿过空间  当你向前走
+But as you move through space, as you walk forward
+或者你向后走  或者你歪着头
+or you walk backward, or you tilt your head
+或者你学习了一项技能  或者你只是按照正常的方式操作
+or you learn a skill, or you just operate in the normal ways
+一整天  开车、骑自行车等等
+throughout your day, driving, biking, et cetera,
+你的眼睛正在产生自发的运动
+your eyes are generating spontaneous movements
+以抵消视觉滑动
+to offset visual slip.
+换句话说  你看世界并不模糊
+In other words, you don't see the world as blurry
+即使你在移动因为你的眼睛
+even though you're moving because your eyes
+正在产生低代偿性眼球运动
+are generating low compensatory eye movements
+抵消你的运动
+to offset your motion.
+所以如果我旋转  我们可以做这个实验
+So if I spin, we could do this experiment.
+我们对医学生做了一个有趣的实验
+There's a fun experiment we do with medical students
+在那里你闭着眼睛在椅子上旋转它们
+where you spin them around in a chair with their eyes closed
+然后你停下来让他们睁开眼睛
+and then you stop and you have them open their eyes
+他们的眼睛是这样的  是眼球震颤
+and their eyes are going like this, is nystagmus.
+我不建议你做这个实验
+I don't suggest you do this experiment.
+当我们还是孩子的时候  我们做了一个不同的实验
+When we were kids, we did a different experiment
+这是拿一根棍子看顶部
+which was to take a stick and to look at the top
+并在草坪上旋转
+of the stick and to spin around on the lawn
+看着棍子的顶部然后把它放下
+looking at the top of the stick then put it down
+并尝试跳过它
+on the ground and try and jump over it.
+而你最终就像跳到一边
+And you ended up like jumping to the side,
+你完全想念这件事
+you miss the thing entirely.
+我希望你不要做那两个“实验”的原因
+The reason those two "experiments" which I hope you don't do
+或让别人做
+or for somebody else to do.
+它们起作用的原因是因为通常你的眼球运动
+The reason they work is because normally your eye movements
+你的平衡和你的四肢运动是协调的
+and your balance and your limb movements are coordinated.
+但是当你转过身来仰望棍子时
+But when you spin around looking up at the stick,
+你在做的是盯着你的眼睛
+what you're doing is you're fixating your eyes
+在你移动时在一个位置
+on one location while you're moving.
+然后当你停止这两种机制时
+And then when you stop those two mechanisms
+完全解耦  就像被扔进入外太空了一样
+are completely uncoupled and it's like being thrown into outer space.
+我从未去过外太空
+I've never been to outer space,
+但可能是这样的  低重力  零重力
+but probably something like that, low gravity, zero gravity.
+如果你闭着眼睛在椅子上转来转去
+If you spin around in your chair with your eyes closed,
+你没有给出你正在旋转的视觉输入
+you're not giving the visual input that you're spinning.
+然后你睁开眼睛 然后眼睛只有
+And then you open the eyes and then the eyes only have
+我们所说的前庭  你的眼睛在颤抖
+what we call the vestibular, your eyes jolting
+来回  来回
+back and forth, back and forth.
+同样  这些不是你需要做的实验
+Again, these aren't experiments you need to do
+因为我刚刚告诉了你结果
+'cause I just told you the result.
+然而  如果你想扩大你的运动范围
+However, if you want to extend your range of motion,
+你可以这样做...
+you can do that by...
+这些东西总是看起来很傻  但在这一点上
+These things always look goofy, but at this point
+我只是有点习惯做这些事情
+I'm just kind of used to doing these things.
+如果我想扩大我的活动范围
+If I want to extend my range of movement,
+首先  我想测量我的运动范围
+first, I want to measure my range of motion.
+如果你在听我在做什么  我在伸展
+If you're listening what I'm doing is I'm stretching out
+我的手臂像两边的 T
+my arms like a T on either side
+我试图尽可能地把他们推到后面
+and I'm trying to push them as far back as I can,
+这对我来说感觉就像我的肩膀一样
+which for me feels like it's in line with my shoulders
+我不能走得更远
+and I can't get much further.
+我不是真的超级灵活
+I'm not really super flexible
+我也不是特别不灵活  至少在身体上
+nor am I particularly inflexible at least physically.
+所以我要做的就是停下来
+So what I would then do is stop.
+我会把眼睛移到远处的边缘
+I would move my eyes to the far periphery.
+所以我的眼睛一直向左移动
+So I'm moving my eyes all the way to the left
+同时保持我的头部和身体静止
+while keeping my head and body stationary.
+我试着尽可能地越过我的左肩看
+I'm trying to look over my left shoulder as far as I can
+然后向右走
+then off to the right.
+这样做有点尴尬  然后向上然后向下
+It's a little awkward to do this, then up then down
+但我主要会专注于左边
+but I'm mostly going to just focus on left
+然后对了
+and then right.
+现在它正在做的是发送信号
+Now what that's doing is it's sending a signal
+我的小脑  我的视野在那里
+to my cerebellum that my field of view is way over to there
+然后去那里
+and way over to there.
+记住你的视觉注意力有一个光圈
+Remember your visual attention has an aperture.
+它可以很窄  也可以很宽
+It can be narrow, or it can be broad.
+我已经谈到了一些好处
+And I've talked about some of the benefits
+采取广阔的视野
+of taking a broad visual aperture
+以放松神经系统
+in order to relax the nervous system.
+这只是移动我的眼睛  而不是我的头
+This is just moving my eyes, not my head,
+就像我刚才那样  从一边到另一边
+like I just did for a second, from side to side.
+现在我可以重新测试了
+Now I can retest.
+实际上你会增加大约 5 到 15 度
+And actually you get about a five to 15 degree increase
+在你的运动范围内
+in your range of motion.
+现在我正在为你做这件事
+Now I'm doing this for you.
+你可以说  “好吧  他玩这个游戏是因为他知道
+You can say, "Well, he gamed it 'cause he knew
+“他希望的结果”
+"the result that he was hoping for."
+但是你可以试试这个
+But you can try this.
+你也可以为腿做这个
+And you can do this for legs too.
+你基本上可以对任何肢体执行此操作
+You can do this for any limb essentially.
+这就是纯粹的小脑
+And that's it's purely cerebellar.
+这是因为本体视觉
+And it's because the proprioceptive visual
+和肢体运动反馈收敛
+and limb movement feedback converge
+以我们控制肌梭的方式
+in the ways that we control our muscle spindles
+以及我们控制肌肉纤维和肌腱的方式
+and the way we control the muscle fibers and the tendons
+基本上你可以获得更大的运动范围
+and essentially you can get bigger range of motion.
+所以实际上我们会在运动前热身
+So actually we'll warm up before exercise
+或在通过为我的身体做运动来学习技能之前
+or before skill learning by both doing movements for my body
+但也让我的眼睛左右移动
+but also moving my eyes from side to side
+为了产生更大的运动范围
+in order to generate larger range of motion
+如果运动范围是我感兴趣的东西
+if range of motion is something that I'm interested in.
+所以这是一个有趣的实践  你可以玩一下
+So that's a fun one that you can play with a little bit
+它纯粹是有关小脑的东西
+and it's purely cerebellar.
+之后我们可能会回到小脑功能
+Some other time we'll get back into a cerebellar function.
+有各种各样令人难以置信的东西
+There's all sorts of just incredible stuff
+你可以用小脑做的
+that you can do with cerebellum.
+我在较早的一集中谈到了神经可塑性
+I talked in an earlier episode on neuro-plasticity
+关于如何打乱你的前庭
+about how you can disrupt your vestibular world.
+换句话说  通过进入加速模式
+In other words, by getting into modes of acceleration,
+以某种方式在倾斜的空间中移动
+moving through space where you're tilted in certain ways,
+它可以打开可塑性的窗户
+it can open up the windows for plasticity
+还有其他方式
+and yet other ways.
+所以你可以看看  这是早期的播客之一
+So you can check that out, it's one of the earlier episodes
+关于神经可塑性的  都有时间戳
+on neuroplasticity everything's timestamped.
+但与此同时  如果你想扩大你的运动范围
+But meanwhile, if you want to expand your range of motion
+在学习技能之前或之后  这是一个有趣的
+before doing skill learning or afterward, this is a fun one.
+这也挺巧妙的  因为我有这种
+It's also kind of neat because I have this kind of aversion
+厌恶拉伸的感觉
+to stretching work.
+拉伸从来都不是我想做的事
+It never seems like something I want to do
+所以我总是不去做拉伸
+and so I always put it off.
+所以如果我从扩展的视觉实践开始
+So if I start with the visual practice of expanding
+我的视野偏向一侧或另一侧
+my field of view to off to one side or the other side
+或向上或向下  然后我发现我很自然的
+or up or down, then what I find is I'm naturally
+变得更灵活了
+more flexible.
+我天生就不是很灵活
+I'm not naturally more flexible.
+结果是  我通过这个可以扩大我的运动范围
+What's happened is I've expanded my range of motion.
+让我们来谈谈可视化和心理彩排
+Let's talk about visualization and mental rehearsal.
+我被问过很多这个问题
+I've been asked about this a lot,
+我认为这与那种好莱坞的想法有关
+and I think it relates back to that kind of matrix
+也就是我们可以嵌入一种技能
+Hollywood idea that we can just be embedded with a skill.
+虽然在这种情况下  公平地说
+Although in this case, in fairness,
+可视化涉及到一些这种功能
+visualization involves some work.
+我在之前的一集中谈过这个
+And I've talked about this on an earlier episode
+有些人觉得很难
+that some people find it very hard
+在心理上形象化事物
+to mentally visualize things.
+有些人觉得这很容易
+And some people find it very easy.
+1960 年代的科学家做了很多伟大的工作
+There was great work that was done in the 1960s
+斯坦福大学的 Roger Shepherd 和其他人
+by Roger Shepherd at Stanford and by others,
+观察人的一种能力
+looking at people's ability to rotate
+他们脑子里旋转三维物体
+three-dimensional objects in their mind.
+有些人真的很擅长这个
+And some people really good at this
+有些人不太擅长这一点
+and some people are less good at this.
+一个人可以通过重复它来做得更好
+And one can get better at it by repeating it.
+但是我们今天要解决的问题
+But the question we're going to deal with today
+它有帮助吗  它能让你学得更快吗？
+is does it help, does it let you learn things faster?
+事实上  答案似乎是肯定的  它可以
+And indeed the answer appears to be yes, it can.
+然而  不管你听到了什么  它都没有那么好
+However, despite what you've heard, it is not as good.
+这不是完全替代
+It is not a total replacement
+对于实际练习本身
+for physical performance itself.
+所以我将对此非常具体
+So I'm going to be really concrete about this.
+我一直听到  只是想象收缩肌肉
+I hear all the time that just imagining
+可以带来
+contracting a muscle can lead to the same gains
+和实际上收缩那块肌肉  相同的收益
+as actually contracting that muscle.
+只是想象一项技能可以导致同样的
+Just imagining a skill can lead to the same increases
+增长其实际执行该技能的表现
+in performance as actually executing that skill.
+而事实并非如此
+And that's simply not the case.
+但是  它可以补充或支持体育锻炼
+However, it can supplement or support physical training
+以及以非常强大的方式促进学习技能
+and skill learning in ways that are quite powerful.
+关于这个的更有趣的研究之一
+One of the more interesting studies on this
+来自Rang Ganason等人
+was from Rang Ganason at all,
+请原谅我的发音
+forgive me for the pronunciation.
+这是一篇稍旧的论文  2004 年
+This was a slightly older paper, 2004,
+但仍然是我认为的
+but nonetheless was one that I thought
+取得了特别令人印象深刻的结果
+had particularly impressive results
+并包括所有适当的控制变量等
+and included all the appropriate controls, et cetera.
+他们所做的是研究了 30 个对象
+And what they did is they looked at 30 subjects.
+他们将他们分成不同的组
+They divide them into different groups.
+他们让一组去实现  基本上是手指弯曲
+They had one group perform essentially finger flection.
+所以它实际上有点像如果你只是在听
+So it actually sort of the imagine if you're just listening
+就是这个“来吧” 的手指动作
+to this, the come here a finger movement.
+他们也有肘部弯曲  所以二头肌卷曲式运动
+They also had elbow flection, so bicep curl type movement.
+他们要么让受试者进行实际的身体运动
+And they either had subjects do a actual physical movement
+对抗阻力  或者想象移动他们的手指
+against resistance, or to imagine moving their finger
+或者他们的手腕朝向肩膀
+or their wrist towards the shoulder,
+肘部弯曲的意思
+meaning at the bending at the elbow
+再加上实际阻力
+towards actual resistance.
+长话短说
+Just to make a long story short,
+他们发现
+what they found was that there were increases
+在这个手指上  内收力量  外展力量 有增长
+in this finger, adduction strength, abduction,
+对不起  大约增长了35%的力量和肘部弯曲
+excuse me, strength of about 35% and the elbow flection
+这种力气增加了约 13.5%  这是相当可观的
+strength by about 13.5%, which are pretty impressive
+考虑到这只是精神上的
+considering that was just done mentally.
+所以他们让人们想象在负重的情况下移动
+So they had people imagine moving against a weight,
+一个非常重量级的人或曾想象人们移动他们的手腕
+a very heavyweight or had imagined people moving their wrist
+朝着他们的肩膀对抗一个非常重量级的人
+towards their shoulder against a very heavyweight.
+但同样  他们没有这样做
+But again, they weren't doing it,
+他们只是想象而已
+they were just imagining it.
+其他实验着眼于大脑
+Other experiments looked at the brain
+以及这段时间大脑中发生了什么
+and what was happening in the brain during this time.
+所以我们稍后会讨论这个
+So we'll talk about that in a moment.
+但基本上他们发现的是
+But essentially what they found were improvements
+力气增强了从 13.5% 到 35% 不等
+in strength of anywhere from 13.5 to 35%.
+然而  实际的体能训练组
+However, the actual physical training group,
+实际移动手腕的组
+the groups that actually moved their wrist
+或根据实际体重移动手指
+or moved their finger against an actual physical weight
+有大约 53% 的改进
+had improvements of about 53%.
+所以这在整个业界中一遍又一遍地被引用
+So this repeats over and over throughout the literature
+心理排练可以增加力量
+mental rehearsal can cause increases in strength.
+它可以增加技能的获取和学习
+It can create increases in skill acquisition and learning,
+但如果单独完成  它们永远不会那么棒
+but they are never as great if done alone
+与实际的物理执行相比
+as compared to the actual physical execution
+这些运动或身体运动
+of those movements or the physical movement
+但这其实不应该那么令人惊讶
+of those weights, which shouldn't come as so surprising.
+然而  如果我们退后一步  我们说
+However, if we step back and we say,
+“嗯  这种提升的源头是什么？”
+"Well, what is the source of this improvement?"
+你可能不在乎来源是什么
+You might not care what the source is
+因为我可以告诉你这是一个大脑区域
+because I could tell you it's one brain area
+或其他大脑区域
+or another brain area.
+它会有什么不同？
+What difference would it make?
+但同样  如果你能稍微了解一下机制
+But again, if you can understand mechanism a little bit,
+你有能力创造新的
+you're in a position to create newer
+甚至更好的工具方法
+and even better protocols.
+心理排练似乎要做的是参与
+What mental rehearsal appears to do is engage the activity
+我们谈到的那些上运动神经元的活动
+of those upper motor neurons that we talked about
+回到播客开头
+way back at the beginning of the episode.
+记住你有上运动神经元
+Remember you have upper motor neurons
+控制刻意的行动
+that control deliberate action,
+你有实际上的下运动神经元
+you've got lower motor neurons that actually
+连接到肌肉并移动这些肌肉
+connect to the muscles and move those muscles
+你有中央模式生成器
+and you have central pattern generators.
+心理排练  典型地闭上眼睛
+Mental rehearsal, closing one's eyes typically
+并考虑特定的运动顺序
+and thinking about a particular sequence of movement
+并在一个人的“心灵之眼”中想象它
+and visualizing it in one's "mind's eye"
+激活上运动神经元
+creates activation of the upper motor neurons
+这与实际运动非常相似  如果不一样的话
+that's very similar if not the same as the actual movement.
+这是有道理的  因为上运动神经元
+And that makes sense because the upper motor neurons
+都是关于运动的命令
+are all about the command for movement.
+他们不是实际执行运动的人
+They are not the ones that actually execute the movement.
+记住  上运动神经元是那些
+Remember, upper motor neurons are the ones
+生成运动命令
+that generate the command for movement,
+不是实际的运动
+not the actual movement.
+产生实际运动的那些
+The ones that generate the actual movement
+是下运动神经元
+are the lower motor neurons
+和中央模式发生器
+and the central pattern generators.
+所以可视化是一个强大的工具
+So visualization is a powerful tool.
+如何使用可视化？
+How can you use visualization?
+好吧  在这项研究中  他们让人们执行此操作
+Well, in this study, they had people perform this
+一周五天
+five days a week.
+我相信它是15
+I believe that it was 15.
+是的  每周 5 天  每天 15 分钟
+Yes, it was 15 minutes per day, five days a week
+12 周
+for 12 weeks.
+所以这是很多心理排练
+So that's a lot of mental rehearsal.
+每天的时间不是很多  每天15分钟
+It's not a ton of time each day, 15 minutes per day.
+但是坐下来闭上眼睛
+But sitting down, closing your eyes
+并想象经历特定的技能练习
+and imagining going through a particular skill practice
+或移动重物
+or moving a weight.
+也许这是在钢琴上弹奏琴键  如果那是你想完成的事情
+Maybe it's playing keys on a piano if that's your thing
+或弹吉他  每天 15 分钟
+or strings on a guitar, for 15 minutes a day,
+每周 5 天持续 12 周是相当可观的
+five days per week for 12 weeks is considerable.
+我认为大多数人  鉴于事实
+I think most people, given the fact
+那实际的练习  身体的练习
+that the actual practice, the physical practice
+将导致更大的改进
+is going to lead to larger improvements,
+更大的改进  然后是心理训练
+greater improvements then would the mental training
+会促进实际的体能训练
+would opt for the actual physical training.
+当然  如果你在飞机上
+But of course, if you're on a plane
+并且你无法使用你的吉他
+and you don't have access to your guitar
+你也肯定不会
+and you're certainly not going to be sprinting
+在过道上跑来跑去
+up and down the aisle or you are very serious
+或者关于你的手艺  你很认真地想提高性能
+about your craft and you want to accelerate performance
+提高你的手艺或增加力量
+of your craft or strength increases
+或类似的东西  然后增加或添加
+or something of that sort, then augmenting or adding in
+可视化培训很可能会
+the visualization training very likely will compound
+与实际体能训练的效果结合在一起
+the effects of the actual physical training.
+没有很多研究着眼于如何可视化
+There are not a lot of studies looking at how visualization
+在纯粹的体能训练之上
+on top of pure physical training
+可以提高学习率
+can increase the rates of learning
+和巩固学习等
+and consolidation of learning, et cetera.
+这实际上是一项艰巨的研究  因为难以控制
+It's actually a hard study to do because hard to control for
+因为你会在它的位置做什么
+because what would you do in its place.
+你可能会添加实际的体能训练
+You would probably add actual physical training
+然后这总是会导致更大的影响
+and then that's always going to lead to greater effects.
+所以重点是如果你想使用可视化训练
+So the point is if you want to use visualization training,
+很棒  但不要觉得
+great, but forget the idea that visualization training
+可视化训练会与实际训练的效果一样好
+is as good as the actual behavior.
+你总是听到这个
+You hear this all the time.
+人们说  你知道吗  如果你想象一个经历
+People say, do you know that if you imagine an experience
+给你的大脑和你的身体
+to your brain and to your body,
+和实际体验完全一样
+it's exactly the same as the actual experience.
+绝对不是的
+Absolutely not.
+这不是神经系统的工作方式
+This is not the way the nervous system works.
+对不起  我不是要打破任何人的幻想
+I'm sorry, I don't mean to burst anybody's bubble,
+但你的幻想是由不切实际组成的
+but your bubble is made of myths.
+事实是大脑
+And the fact of the matter is that the brain,
+当它执行一个动作时
+when it executes a movement is generating
+它正在生成本体反馈
+proprioceptive feedback.
+并且关键地涉及本体感受反馈
+And that proprioceptive feedback is critically involved
+在产生我们的体验感
+in generating our sense of the experience
+以及学习之类的东西
+and in things like learning.
+所以我不说这个因为我不喜欢这个主意
+So I don't say this because I don't like the idea
+那个可视化行不通
+that visualization couldn't work.
+事实上  可视化确实有效
+In fact visualization does work,
+但它不会起那么大的作用
+but it doesn't work as well,
+它不会创造同样的效果
+it doesn't create the same millu,
+与实际练习同样的化学物质  同样的环境
+the same chemical millu, the same environment
+不能像实际的  身体上参与行为
+as actual, physically engaging in the behavior,
+技能、阻力训练等一样
+the skill the resistance training, et cetera.
+我愿意打赌下面说的这些也是真的
+And I'd be willing to wager that the same is true
+各种体验
+for experiences of all kinds.
+创伤后应激障碍是这种令人难以置信的不幸情况
+PTSD is this incredibly unfortunate circumstance
+其中经常重播创伤性事件
+in which there's a replay often of the traumatic event
+那感觉很真实
+that feels very real.
+但这并不是说重播本身
+But that's not to say that the replay itself
+与实际事件相同
+is the same as the actual event.
+当然  需要处理 PTSD
+And of course, PTSD needs to be dealt with
+更严重的情况  需要看医生
+with the utmost level of seriousness, it should be treated.
+事实上  我的实验室正在研究这类事情
+In fact, my lab works on these sorts of things,
+但我的观点是关于可视化和想象的东西
+but my point about visualization and imagining something
+与实际体验不一样
+not being the same as the actual experience
+是基于这种本体感觉的概念
+is grounded in this idea of proprioception.
+以及反馈到小脑的事实
+And the fact that feedback to the cerebellum,
+小脑  与大脑的其他区域交谈
+the cerebellum, talking to other areas of the brain
+积极参与沟通
+are critically involved in communicating
+到我们神经系统的其余部分
+to the rest of our nervous system.
+这不仅仅是因为我们想象某些事情正在发生
+That not just that we believe something is happening
+但实际上正在发生一些事情
+but something is actually happening.
+在肌肉负荷的情况下
+And in the case of muscle loads,
+肌肉实际上感到紧张
+muscles actually feeling tension,
+肌肉紧张的实际感觉
+the actual feeling of tension in the muscle.
+在这种张力下肌肉的收缩
+The contracting of the muscle under that tension
+是重要适应过程的一部分
+is part of the important adaptation process.
+在未来的一集中  我们将讨论肌肉肥大
+In a future episode, we'll talk about hypertrophy
+以及它是如何在上运动神经元水平上发挥作用的
+and how that works at the level of upper motor neurons,
+下运动神经元和肌肉本身
+lower motor neurons and muscle itself.
+但现在只知道可视化可以工作
+But for now just know that visualization can work.
+效果不如真正的体能训练和实践
+It doesn't work as well as real physical training
+但这些效果 35%
+and practice, but these effects of 35%
+或 13.5% 的增长相当可观
+or 13.5% increases are pretty considerable.
+他们只是没有 53% 的增长那么好
+They're just not as great as the 53% increases
+来自实际的体能训练
+that come from actual physical training.
+对于那些有兴趣
+For those of you that are interested
+在一些关于音乐训练的技能学习中
+in some of this skill learning that more relates
+还有与节奏和节拍器有关的
+to musical training, but also how cadence and metronomes
+和音调等可以支持物理学习
+and tones, et cetera, can support physical learning.
+如果你对此感兴趣
+If you're interested in that, if are you a
+有一篇精彩的评论
+there is a wonderful review, also published
+又上神经元期刊了  优秀的期刊
+in the Journal Neuron again, excellent journal
+由 Herholz 和 Zatorre 撰写  那是 HERHOLZ
+by Herholz and Zatorre, that's H-E-R-H-O-L-Z
+和萨托雷
+and Zatorre, Z-A-T-O-R-R-E.
+那真的详细描述了音乐训练是如何
+That really describes in detail how musical training
+可以影响各种不同的事情
+can impact all sorts of different things
+以及如何进行节奏训练  无论是否带有音调
+and how cadence training, whether or not with tones
+或听觉反馈之类的东西
+or auditory feedback and things of that sort
+延续到不仅仅是器乐训练
+carries over to not just instrumental music training
+还有各种体育技能的学习
+but also physical skill learning of various kinds.
+所以如果你想更深入地了解
+So if you want to do the deep dive,
+那将是你可以在网上轻松找到它的地方
+that would be the place you can find it easily online.
+它可以作为完整的文章使用
+It's available as a complete article
+免费
+free of charge, et cetera.
+你们中的许多人可能会问我能吃什么
+Many of you are probably asking what can I take
+来加速技能学习？
+in order to accelerate skill learning?
+嗯  条件会有所不同
+Well, the conditions are going to vary,
+但动机是关键
+but motivation is key.
+你必须去训练
+You have to show up to the training session
+有足够的动力来集中你的注意力
+motivated enough to focus your attention
+并进行大量重复
+and to perform a lot of repetitions
+在训练连环动作中
+in the training sequence.
+这只是一个先决条件
+That's just a prerequisite.
+没有药丸可以让你
+There's no pill that's going to allow you to do
+用更少的重复来获得更多的学习能力
+fewer repetitions and extract more learning out of fewer repetitions.
+实际上更多的是
+It's actually more a question of what are the conditions
+你可以为自己创造什么样的条件  这样你就可以
+that you can create for yourself such that you can generate
+在单位时间内重复次数更多
+more repetitions per unit time.
+我认为这是正确的思考方式
+I think that's the right way to think about it.
+你可以创造什么条件
+What are the conditions that you can create
+为你自己在你的头脑和你的身体
+for yourself in your mind and in your body
+让你集中注意力
+that are going to allow you to focus?
+我已经谈到了专注  可塑性  动机
+And I've talked about focus and plasticity
+在前几集中
+and motivation in previous episodes.
+如果你对此有疑问  请查看这些播客
+Please see those episodes if you have questions about that.
+我已经详细介绍了基础科学中的许多工具
+I've detailed a lot of tools in the underlying science.
+所以对某些人来说  可能是喝一杯咖啡
+So for some people, it might be drinking a cup of coffee
+并在训练前补充水分
+and getting hydrated before the training session.
+对你们中的一些人来说  可能是避免喝咖啡
+For some of you, it might be avoiding coffee
+因为它让你太紧张
+because it makes you too jittery
+你的注意力非常分散
+and your attention jumps all over the place.
+它会发生巨大的变化
+It's going to vary tremendously.
+没有什么神奇的药丸可以让你
+There is no magic pill that's going to allow you
+少花钱多办事  这不会发生
+to get more out of less, that's just not going to happen.
+这根本不会发生
+It's simply not going to happen.
+你不会得到更多的学习
+You're not going to get more learning
+更少的重复或更少的时间
+out of fewer repetitions or less time.
+然而  有一些化合物
+However, there are a few compounds
+我认为值得一提的是因为他们的能力
+I think are worth mentioning because of their ability
+以提高实际的身体表现
+to improve the actual physical performance,
+某些类型运动的实际执行
+the actual execution of certain types of movements.
+其中一些也已经展示
+And some of these have also been shown
+改善认知功能
+to improve cognitive function,
+尤其是在老年人口中
+especially in older population.
+因此  如果我至少不提及它们  那我就是失职了
+So I'd be remiss if I didn't at least mention them.
+事实上  我今天只会提到一个
+I'm only going to mention one today in fact.
+特别有趣的那个
+The one that's particularly interesting
+并且确实有很多数据是alpha GPC
+and for which there really are a lot of data is alpha GPC
+我要尝试发音
+and I'm going to attempt to pronounce
+什么是 alpha GPC
+what alpha GPC actually is.
+它是α甘油磷酸胆碱
+It's alpha glycerylphosphorylcholine.
+α GPC  α 甘油磷酸胆碱
+Alpha GPC, alpha glycerylphosphorylcholine.
+看  如果我一遍又一遍地重复
+See, if I keep doing it over and over repetitions,
+α 甘油磷酸胆碱
+alpha glycerylphosphorylcholine.
+在那里我犯了一个错误
+There I made an error.
+好的  重点是 alpha GPC
+Okay, so the point is that alpha GPC,
+至少在美国
+which is at least in the United States
+在柜台出售通常按剂量服用
+is sold over the counter typically is taken in dosages
+约 300 至 600 毫克
+of about 300 to 600 milligrams.
+这是单次剂量或已被证明可以
+That's a single dose or have been shown to do
+一些对你们中的一些人可能有益的事情
+a number of things that for some of you might be beneficial.
+一是提升动力输出
+One is to enhance power output.
+所以如果你在做类似投掷的事情
+So if you're engaging in something like Shotput throwing
+或抗阻训练或短跑
+or resistance training or sprinting
+或者你必须产生大量能量的东西
+or something where you have to generate a lot of power,
+也许你在攀岩
+maybe you're doing rock climbing, but you're working
+你努力在攀岩的特定方面进行提升
+on a particular aspect of your rock climbing
+这涉及产生很大的力量  很大的力量
+that involves generating a lot of force, a lot of power.
+那么理论上  alpha GPC 可能对你有益
+Well then in theory, alpha GPC could be beneficial to you.
+对于认知效应  剂量要高得多
+For the cognitive effects, the dosages are much higher
+每天最多 1200 毫克  分为三个剂量
+up to 1200 milligrams daily divided into three doses
+400 毫克是
+of 400 milligrams is what the studies
+我能够找到的研究显示的 或建议使用的
+that I was able to find show or used.
+对认知能力下降的影响被描述为显着
+The effects on cognitive decline are described as notable.
+值得注意  这意味着多项研究表明
+Notable, meaning several studies showed a significant
+但对抵消认知能力下降的影响不大
+but modest effect on in offsetting cognitive decline,
+特别是在老年人口中
+in particular in older populations
+和一些人群  还有一些报道说
+and some populations, even with some reported
+神经变性
+neuro degeneration.
+力量输出显着
+Power output was notable.
+多显着呢？  显着是什么意思？
+How notable, what does that mean, notable?
+一项研究指出  力量输出增加了 14%
+A study noted a 14% increase in power output.
+这是相当可观的  14%
+That's pretty substantial, 14%.
+如果你仔细想想  但这不像是翻倍
+And if you think about it, but it wasn't like a doubling
+或类似的东西
+or something of that sort.
+信不信由你  阿尔茨海默氏症的症状已被证明
+Believe it or not, the symptoms of Alzheimer's
+至少在营养保健品中
+have been shown at least among the nutraceuticals
+其中alpha GPC是显着  在患有阿尔茨海默氏症的人中
+of which alpha GPC is to significantly improve cognition
+能提高认知
+in people with Alzheimer's.
+现在这一集  不是关于认知能力下降
+Now this episode, isn't about cognitive decline
+和长寿  我们之后将谈论那个
+and longevity, we will talk about that,
+但这就是所谓的alpha GPC的另一种效应
+but this is a so-called another effect of alpha GPC.
+α GPC 增加脂肪氧化
+Fat oxidation is increased by alpha GPC,
+alpha GPC 促进生长激素释放
+growth hormone release is promoted by alpha GPC
+虽然在很小的程度上
+although to a small degree.
+正如你所看到的  特别是像 alpha GPC 这样的东西
+So as you can see, things like alpha GPC in particular
+当它们与低水平的咖啡因结合时
+when they are combined with low levels of caffeine
+可以有这些提高力量输出的效果
+can have these effects of improving power output,
+可以改善生长激素的释放
+can improve growth hormone release,
+可以改善脂肪氧化
+can improve fat oxidation.
+所有这些东西理论​​上都可以支持技能学习
+All these things in theory can support skill learning.
+但他们真正在做的是他们正在调整
+But what they're really doing is they're adjusting
+你将要执行很多重复动作的基础
+the foundation upon which you are going to execute
+这么多动作  很多重复
+these many, many repetitions.
+咖啡因本身也是如此
+The same thing would be said for caffeine itself.
+如果那是激励你的东西
+If that's something that motivates you
+让你从椅子上站起来真正做
+and gets you out of a chair to actually do
+体能训练  那就是
+the physical training, then that's something
+也许可以改善或增强
+that can perhaps improve or enhance
+技能学习率
+the rate of skill learning
+以及你保留这些技能的程度
+and how well you retain those skills.
+那么  在上一集我谈到
+Now on a previous episode I talked about,
+也就是讲肾上腺素的影响的那期
+and this was the episode on epinephrin on adrenaline.
+我谈到了如何进行心理、认知学习
+I talked about how for mental, for cognitive learning,
+增加肾上腺素是有道理的
+it makes sense to spike epinephrin,
+在认知学习之后
+to bump epinephrin levels up adrenaline levels up
+提高肾上腺素水平
+after cognitive learning.
+对于物理学习  似乎正好相反
+For physical learning, it appears to be the opposite
+如果你平时会用咖啡因
+that if caffeine is in your practice
+或者如果你决定尝试 alpha GPC
+or if you decide to try alpha GPC
+你想在训练前做那件事
+that you would want to do that before the training,
+训练前服用
+take it before the training use it.
+它的作用应该延伸到训练中
+Its effect should extend into the training,
+大概自始至终  然后
+presumably throughout, and then afterward
+如果你正在考虑遵循某些工具方法
+if you're thinking about following some of the protocols
+我们今天讨论的  你可以使用一些空闲时间
+that we discussed today, that you would use
+让大脑进行重播
+some sort of idle time where the brain can replay
+重播这些运动动作
+these motor sequences in reverse.
+然后当然  你还可以
+And then of course, you want to do things
+优化你的睡眠
+that optimize your sleep.
+我得到的很多问题都是关于
+A lot of the questions I get are about how different
+我描述的工具方法和事情
+protocols and things that I described
+开始相互碰撞
+start to collide with one another.
+比如说  你在 10:30 睡觉
+So let's say for instance, you go to bed at 10:30
+你可能要在 9:30 进行技能训练
+and you're going to do your skill training at 9:30,
+那么  摄入大量咖啡因可能就不是一个好主意
+well, taking a lot of caffeine then is not going to be
+因为它会影响你的睡眠
+a good idea 'cause it's going to compromise your sleep.
+所以我不是来为你设计完美的时间表
+So I'm not here to design the perfect schedule for you
+因为每个人的情况不一样
+because everyone's situation's vary.
+所以要优化的是重复、失败、
+So the things to optimize are repetitions, failures,
+更多的重复  更多的失败训练
+more repetitions, more failures at the offset of training.
+有一些空闲时间  可以直接入睡
+Having some idle time that can be straight into sleep
+或者可能只是让大脑闲置也可以
+or it could be simply letting the brain just go idle
+五到十分钟  意味着不要专注于任何事情
+for five to 10 minutes, mean not focusing on anything,
+不刷手机  社交媒体  不发送电子邮件
+not scrolling, social media, not emailing,
+理想情况下甚至不和别人说话  就是躺着
+not ideally not even talking to somebody just lying down
+或闭目静坐
+or sitting quietly with your eyes closed
+让这些运动连环动作重播
+letting those motor sequences replay.
+然后我们谈了如何才能
+Then we talked about how one can come back
+从额外的训练阶段中进行恢复
+for additional training sessions,
+使用节拍器之类的东西
+use things like metronoming where you're queuing
+对你有一些外部暗示、一些刺激的关注
+your attention to some external cue, some stimulus,
+在这种情况下  听觉刺激最有可能
+in this case, an auditory stimulus most likely
+并试图在单位时间内产生更多的重复
+and trying to generate more repetitions per unit time.
+再说一遍  重复和错误是关键
+So again, it's repetitions and errors, that's key.
+然后我们还谈到了一些事情
+And then we also talked about some things
+你可以做的  涉及小脑神经生理学
+that you can do involving cerebellar neurophysiology
+扩大运动范围  如果那是你的限制
+to extend range of motion if that's what's limiting for you
+或使用可视化来增强练习
+or to use visualization to augment the practice
+或者要是你的技能比较特殊  涉及好天气
+or let's say your particular skill involves nice weather
+如果外面正在下雨或下雪或雷雨
+and it's raining or snowing outside
+你不能到外面
+and you can't get outside or thunderstorm,
+那么这时候  可视化训练
+then that's where visualization training
+在这些条件下可能是一个很好的替代品
+might be a good replacement under those conditions.
+或者在大多数情况下会是那种
+Or in most cases is going to be the kind of thing
+除了实际的身体技能之外
+that you're going to want to do
+你可以去做的事
+in addition to the actual physical skill
+在力量训练课程完成之后做
+or strength training session done,
+至少在我们描述的研究中
+at least in the study that we described
+每周 5 天  每天 15 分钟
+for 15 minutes a day, five days a week
+在 10 到 12 周左右的时间内
+over a period of 10 to 12 weeks or so.
+所以希望这能说明问题
+So hopefully that makes it clear.
+今天我们已经介绍了很多机制
+Today we've covered a lot of mechanism.
+我们谈了很多关于不同的运动通路
+We talked so much about the different motor pathway,
+中央模式生成器
+central pattern generator.
+所以你现在掌握了很多信息
+So you now are armed with a lot of information
+关于你如何产生运动
+about how you generate movement.
+我希望你也具备了
+And I like to think that you're also armed
+很多关于如何设计工具方法的信息
+with a lot of information about how to design protocols
+为你自己优化  或如果你是教练
+that are optimized for you or if you're a coach,
+为你的学员优化
+for your trainees in order to optimize
+他们学习各种技能
+their learning of skills various kinds.
+今天我们几乎完全专注于运动技能
+Today we focused almost entirely on motor skills,
+诸如音乐技能或身体技能之类的东西
+things like musical skills or physical skills.
+这些与神经可塑性 有一些重叠  或者部分重叠
+These have some overlap, they're partially overlapping
+用于学习语言之类的东西
+with neuroplasticity, for learning things like languages
+或数学、工程或神经科学
+or math or engineering or neuroscience for that matter.
+在我们结束之前  我只想确认一下
+Before we depart, I just want to make sure
+我回到一个概念  那就是昼夜节律周期
+that I return to a concept, which is the ultradian cycle.
+昼夜节律周期是这些 90 分钟的周期
+Ultradian cycles are these 90 minute cycles
+我们在整个睡眠和清醒过程中都经历过
+that we go through throughout sleep and wakefulness
+最适合学习和注意力
+that are optimal for learning and attention.
+在清醒状态下  它们是睡眠的阶段
+In the waking state, they are the stages of sleep
+其中我们主要有慢速睡眠
+in which we have either predominantly slowey sleep
+或快速睡眠
+or rem sleep.
+你们中的一些人一直在关注这个播客
+Some of you who have been following this podcast
+有一段时间可能会问  是否应该进行体育锻炼
+for a while might be asking, well should a physical practice
+是 90 分钟
+be 90 minutes.
+这得看具体条件
+That's going to depend because with physical practices,
+通常身体练习  例如  力量训练
+oftentimes for instance, with strength training,
+那可能太长了
+that might be too long.
+你将无法产生足够的力输出
+You're not going to be able to generate enough force output
+去充分训练
+for it to be worthwhile.
+至于打高尔夫球  我不知道
+For golfing, I don't know.
+我从来没打过  但我所有打高尔夫球的朋友
+I've never played golf with all my friends that play golf,
+他们消失在高尔夫球场上好几个小时
+they disappear onto the golf course for many hours.
+所以我知道有很多步行和开车
+So I know there's a lot of walking and driving
+和其他东西  我什至听说有人
+and other stuff, I even hear that somebody
+有时会为你携带你的东西  但并非总是如此
+carries your stuff around for you sometimes, not always.
+但它会有所不同
+But it's going to differ.
+一场四小时的高尔夫比赛  你可能不会
+A four hour golf game, you're probably not swinging
+连续挥杆四个小时  所以这要看具体情况
+the golf club for four hours, so it's going to depend.
+我会说昼夜节律周期不一定
+I would say that the ultradian cycle is not necessarily
+在大多数情况下  这不一定是技能学习的良好约束
+a good constraint for skill learning in most cases.
+我应该说  对于那些
+And I should say that for those of you that are short
+日程很满  或时间有限的人
+on time or have limited amounts of time,
+10 分钟的高重复次数
+10 minutes of maximum repetitions,
+高强度的技能学习工作
+maximum focus skill learning work is going
+将会非常有益
+to be very beneficial.
+而两个小时的随意
+Whereas two hours of kind of haphazard
+不是真正专注的工作或你没有产生很多重复
+not really focused work or where you're not generating
+因为你在做
+very many repetitions 'cause you're doing
+重复几次然后你就在手机上发短信
+few repetitions then you're texting on your phone
+或者注意别的事情
+or pay attention to something else,
+这不会有好处
+that's not going to be beneficial.
+这真的是关于训练的密度
+It's really about the density of training
+在这个阶段中
+inside of a session.
+所以我认为你应该让...
+So I think you should let the...
+努力达到最大或接近最大密度
+Work toward maximal or near maximum density
+如果它们是失败的重复和失败
+of repetitions and failures provided they're failures
+这样你才可以安全地执行以加速技能学习
+you can perform safely in order to accelerate skill learning
+不要让一些随意  或在这种情况下
+and don't let some arbitrary or in this case,
+不要让昼夜节律阻止你
+the ultradian constraint prevent you
+去做那种练习
+from engaging in that practice.
+换句话说  投入工作  完成尽可能多的工作
+In other words, get the work in, get as much work done
+就像你可以在单位时间内一样
+as you can per unit time.
+基于科学  基于我所看到的
+And based on the science, based on things that I've seen,
+基于我现在参与的事情
+based on things that I'm now involved in
+与不同的社区  你会看到技能的提高
+with various communities, you will see the skill improve
+在各个阶段都有很大的不同
+vastly at various stages.
+有时开始有点口吃
+Sometimes it's a little bit stutter start,
+这并不总是线性改进
+it's not always a linear improvement
+但你会看到技能的惊人进步
+but you will see incredible improvement in skill.
+如果你喜欢这个播客
+If you're enjoying this podcast
+你发现这些信息很有趣
+and you're finding the information interesting
+和/或对你有用  请在 YouTube 上订阅
+and or of use to you, please subscribe on YouTube.
+这真的对我们有帮助
+That really helps us.
+同样  请订阅并下载
+As well, please subscribe and download the episodes
+在 Apple 和 Spotify 上的播客
+on Apple and Spotify.
+在Apple上  你也有机会给我们评分
+On Apple, you also have the opportunity to leave us
+如果你认为我们应得的  则最高可给予五星级评价
+up to a five star review if you think we deserve that.
+在 YouTube 上  请点击“竖起大拇指”按钮
+And on YouTube, please hit the thumbs up button
+如果你喜欢这一集  请给我们反馈
+if you liked the episode and please give us feedback.
+将你的反馈放在评论部分
+Place your feedback in the comment section.
+这是一个告诉我们我们做得如何的地方
+That's a place to tell us how we're doing
+还可以问我们问题
+but also to ask us questions.
+我们阅读了所有评论
+We read all the comments.
+我们需要一些时间来解决它们
+It takes us some time to work through them,
+但我们阅读了所有内容并使用你的评论
+but we read all of them and we use your comments
+以及你的反馈以塑造内容
+and your feedback to sculpt the content
+以及未来剧集的方向
+and the direction of future episodes.
+同样  请查看我们的赞助商
+As well, please check out our sponsors.
+我们开头提到的赞助商
+The sponsors that we mentioned at the beginning
+每个播客剧集都非常重要
+of each podcast episode are really important
+为了支持我们的生产团队
+in order to support our production team.
+同样  我们有一个 Patreon
+And as well, we have a Patreon.
+这是 patreon.com/andrewhuberman
+It's patreon.com/andrewhuberman.
+在那里  你可以在你喜欢的任何级别支持我们
+There, you can support us at any level that you like.
+在前几集和本集中
+In previous episodes and in this episode,
+我提到了一些补充剂
+I mentioned some supplements.
+补充剂当然在各种事物中占有一席之地
+Supplements certainly have their place for various things.
+他们不是必需的  但很多人  包括我自己
+They aren't necessary, but many people, including myself
+从补充剂中获益
+derive benefit from supplements
+用于改善睡眠和免疫系统功能等方面
+for things like improving sleep and immune system function
+和学习等等
+and learning and so forth.
+如果你有兴趣看看我服用的补充剂
+If you're interested in seeing the supplements that I take,
+你可以去 thorne.com/u
+you can go to thorne.com/u,
+那是字母 U /Huberman
+that's the letter U slash Huberman
+你可以看到我服用的补充剂
+and you can see the supplements that I take.
+如果你想尝试这些补品中的任何一种
+If you want to try any of those supplements,
+你只需访问 Thorne 网页即可获得 20% 的折扣
+you can get 20% off simply by accessing the Thorne webpage
+通过该门户网站  以及 20% 的折扣
+through that portal, as well as 20% off
+索恩制造的任何其他补品
+any of the other supplements that Thorne makes.
+我们与 Thorne 合作的原因
+The reason we've partnered with Thorne
+是因为索恩的严格程度最高
+is because Thorne has the very highest levels of stringency
+在补充剂的质量方面
+in terms of the quality of the supplements
+以及每种补充剂用量的准确性
+and the accuracy about the amounts of each supplement
+在瓶子里
+that are in the bottle.
+补充剂行业的主要问题之一
+One of the major problems in the supplement industry
+是当补充剂得到测试时
+is that when supplements get tested,
+通常情况下  给定成分的数量
+often it's the case that the amount of a given ingredient
+远低于或远高于报告的
+is far lower or far greater than what's reported
+在瓶子上
+on the bottle.
+索恩的情况并非如此
+That's not the case for Thorne.
+索恩的严格程度非常高
+Thorne has very high levels of stringency,
+他们与梅奥诊所合作
+they partnered with the Mayo Clinic
+和所有主要的运动队
+and all the major sports teams
+这也是我们与他们合作的原因
+and that's why we partnered with them as well.
+所以如果你想再次检查这些
+So if you want to check those out again,
+thorne/u/huberman
+it's Thorne, T-H-O-R-N-E slash the letter U/Huberman
+获得 Thorne 生产的任何补充剂 20% 的折扣
+to get 20% off any of the supplements that Thorne makes.
+最后但并非最不重要的  我要感谢你
+And last but not least, I want to thank you
+为了你的时间和注意力
+for your time and attention.
+我非常感谢你对神经科学的兴趣
+I very much appreciate your interest in neuroscience
+对生理学和这些工具的兴趣
+and in physiology and in tools that are informed by neuroscience and physiology.
+今天  我们谈论了所有关于技能学习的话题
+Today, we talked all about skill learning.
+我希望你会考虑这些信息
+I hope that you'll consider the information,
+你甚至可能决定尝试其中的一些工具
+you might even decide to try some of these tools.
+如果你这样做  请告诉我们你使用的结果
+If you do, please let us know your results with them.
+在评论中给我们反馈
+Give us feedback in the comments
+和往常一样  感谢你对科学的兴趣
+and as always, thank you for your interest in science.
+[器乐]
+[instrumental music]

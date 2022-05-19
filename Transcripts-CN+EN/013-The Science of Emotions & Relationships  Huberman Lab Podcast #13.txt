@@ -1,0 +1,4961 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到Huberman Lab播客
+Welcome to the Huberman Lab Podcast,
+我们在这里讨论科学
+where we discuss science
+和的基于科学日常生活工具
+and science-based tools for everyday life.
+-我叫安德鲁·胡伯曼
+- My name is Andrew Huberman,
+我是斯坦福医学院神经生物学
+and I'm a professor of neurobiology
+和眼科教授
+and ophthalmology at Stanford School of Medicine.
+此播客是独立于
+This podcast is separate
+我在斯坦福大学的教学和研究职位
+from my teaching and research roles at Stanford.
+但是 这是我渴望和努力的一部分
+It is however part of my desire and effort
+为消费者提供有关科学的零成本信息
+to bring zero-cost to consumer information about science
+以及面向大众的与科学相关的工具
+and science-related tools to the general public.
+为了与该主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是InsideTracker
+Our first sponsor is InsideTracker.
+InsideTracker是一个个性化的营养平台
+InsideTracker is a personalized nutrition platform
+分析你的血液和DNA的数据
+that analyzes data from your blood and DNA
+帮助你更好地了解自己的身体
+to help you better understand your body
+并告知你的健康目标
+and inform your health goals.
+我坚信要接受血液检查
+I'm a big believer in getting blood test taken,
+因为这只是获取深入数据的唯一方法
+because it's simply the only way to get in-depth data
+关于你的代谢因子 激素
+about your metabolic factors, hormones,
+所有通知你即时的事物
+all the things that inform your immediate
+和长期健康
+and long-term health.
+如今 也有出色的DNA测试
+Nowadays, there are also excellent DNA tests
+可以进一步通知你
+that can further inform you
+关于你的近期和长期健康
+about your immediate and long-term health.
+现在大多数血液检查都存在问题
+Now the problem with most blood tests out there
+是你获得了信息 得到了很多数字
+is that you get information back, you get a lot of numbers,
+他们会告诉你是否
+and they'll tell you whether or not
+你的数字在正常范围内或高低之间
+your numbers are in normal range or high or low,
+但是他们没有通知你
+but they don't inform you
+结果要采取什么步骤
+what steps to take as a consequence.
+此外 它们通常会非常令人困惑
+In addition, they can often be very confusing,
+所有因素都是什么 它们的真正含义是什么
+what all the factors are and what they really mean.
+InsideTracker具有仪表板和平台
+InsideTracker has a dashboard and a platform
+这使得解释所有这些信息变得非常容易
+that makes interpreting all that information really easy.
+这也为你指明了方向
+It also points you in the direction
+某些生活方式因素 运动 营养等
+of certain lifestyle factors, exercise, nutrition et cetera,
+你可能想改变
+that you might want to change
+为了使数字进入你想要的范围
+in order to bring the numbers into the ranges that you want.
+所以InsideTracker有点
+So InsideTracker is something
+我已经做了一段时间了
+that I've been doing for some time now,
+这确实帮助我告知了选择
+and it's really helped me inform the choices.
+例如 我换了
+For instance, I've swapped out
+我经常吃的一些食物
+some of the foods that I was eating regularly.
+我发现我实际上太高了
+I found out I was actually too high
+在某些维生素和矿物质中
+in certain vitamins and minerals,
+我的别人太低了
+I was too low in others.
+真的能帮我调整饮食
+It's really helped me adjust my diet
+还有我的运动方式
+and my exercise regimes.
+这真的给了我信心
+And it really gives me the confidence
+我正在走向长期健康
+that I'm on the path to long-term health.
+因此 如果你想尝试使用InsideTracker
+So if you want to try InsideTracker,
+你可以去Insidetracker.com/huberman
+you can go to insidetracker.com/huberman
+可获得25％的InsideTracker计划折扣
+to get 25% off any of InsideTracker's plans.
+结帐时使用代码Huberman
+Use the code Huberman at checkout,
+那是insidetracker.com/huberman
+that's insidetracker.com/huberman
+获得任何InsidTracker计划的25％折扣
+to get 25% off any of InsidTracker's plans
+并在结帐时使用代码Huberman
+and use the code Huberman at checkout.
+我们的下一个赞助商是ExpressVPN
+Our next sponsor is ExpressVPN.
+ExpressVPN是一个虚拟专用网络
+ExpressVPN is a virtual private network
+确保你的数据安全
+that keeps your data safe
+且安全且私密
+and secure and private.
+它通过路由你的互联网活动来做到这一点
+It does that by routing your internet activity
+通过他们的服务器并对其进行加密
+through their servers and encrypting it
+这样没人能看到或出售你的数据
+so that no one can see or sell your data.
+我开始使用ExpressVPN
+I started using ExpressVPN
+因为我的银行帐户被黑了
+because my bank account got hacked.
+我还是不知道怎么回事
+I still don't know exactly how it happened,
+但这绝对是一团糟
+but it was an absolute mess.
+我亏了钱
+I lost money,
+我浪费了很多时间
+I lost a lot of time.
+我不想在任何人身上发生
+I wouldn't want to have it happen to anybody.
+当那件事发生时
+When that happened,
+我与技术社区的朋友交谈
+I talked to my friends in the tech community
+他们告诉我 即使
+and they told me that even though
+你认为你的互联网连接是安全的
+you think your internet connection is secure
+通常不是
+oftentimes it's not.
+所以我倾向于使用互联网连接
+So I tend to use internet connections
+在飞机上 在旅馆 在咖啡馆 也可以在家里
+on planes, in hotels, in cafes, but also at home.
+有人告诉我 即使在家里
+And I was told that even at home,
+你的数据可能没有你想象的那么安全
+your data may not be as secure as you think.
+因此 使用ExpressVPN 你的数据绝对安全
+And so with ExpressVPN, your data is absolutely secure,
+你的在线活动也是如此
+so are your online activities.
+很棒的是
+The great thing is
+你甚至没有注意到它正在运行
+you don't even notice that it's operating,
+它在后台运行
+it's running in the background.
+只需打开它 它就不会让你意识到
+You just turn it on and it goes without you realizing
+你的数据受到保护
+that your data is being protected,
+它不会干扰你的任何在线活动
+it doesn't interfere with any of your online activities.
+所以我旅行时使用ExpressVPN
+So I use ExpressVPN when I travel,
+每当我在房子外面 当我在工作时
+anytime I'm outside the house, when I'm at work
+当我在家的时候
+and when I'm at home.
+如果你想尝试ExpressVPN
+If you want to try ExpressVPN,
+你可以访问expressvpn.com/huberman
+you can go to expressvpn.com/huberman.
+如果这样做 你将获得额外的三个月免费时间
+And if you do that, you'll get an extra three months free
+在他们的一年套餐中
+on one of their one-year packages.
+那是expressvpn.com/huberman
+That's expressvpn.com/huberman
+一年期套餐可免费获得三个月
+to get three months free on a one-year package.
+今天播客的最终赞助商是Magic Spoon
+The final sponsor of today's podcast is Magic Spoon.
+魔术匙是零糖
+Magic Spoon is a zero-sugar,
+无谷物 对酮友好的谷物
+grain-free, keto-friendly cereal.
+正如我之前在播客中提到的那样
+As I've mentioned before on the podcast,
+我既不是生酮主义者 也不是全肉 也不是素食主义者
+I'm neither ketogenic, nor am I all-meat, nor am I vegan.
+我吃东西的方式是在我禁食的第一天
+The way I eat is that early in the day I fast,
+然后在中午左右的某个时候 我吃了第一顿饭
+and then sometime around noon I eat my first meal,
+那顿饭总是低碳水化合物
+and that meal is always low carbohydrate,
+然后整天
+and then throughout the day,
+我保持低碳水化合物饮食
+I maintain a low carbohydrate diet.
+白天禁食和低碳水化合物饮食
+The fasting and low carbohydrate diet during the daytime
+优化警觉性和清醒性
+optimizes alertness and wakefulness,
+我想醒着并且能够工作
+I want to be awake and be able to work.
+然后在晚上 当我吃碳水化合物时
+And then at night is when I eat my carbohydrates,
+因为它有助于过渡到睡眠
+'cause it facilitates
+the transition to sleep.
+所以对我来说 魔术匙在下午是很棒的小吃
+So for me, Magic Spoon is a terrific snack in the afternoon.
+有时我什至会和午餐一起吃
+I'll sometimes even have it with lunch.
+我喜欢它的原因
+And the reason I like it
+是因为它的味道真的很好吃
+is because it tastes really delicious,
+并与生酮友好型兼容
+and it's compatible with the keto-friendly
+或我整天吃的类似酮类的饭菜
+or keto-like meals that I eat throughout the day.
+他们有各种各样的口味
+They come in a variety of flavors,
+可可 果味 花生酱 磨砂
+cocoa, fruity, peanut butter, frosted.
+我特别喜欢磨砂
+I particularly like the frosted
+因为我觉得它的味道像甜甜圈
+because it tastes like donuts, in my opinion,
+而且我喜欢甜甜圈
+and I love donuts.
+作为结果
+As a consequence,
+我爱魔术勺麦片
+I love Magic Spoon cereal.
+我可以食用
+I can consume it.
+它的味道像糕点 糖含量为零克
+It tastes like a pastry and it has zero grams of sugar,
+并且兼容
+and it's compatible
+我之前提到过这种营养疗法
+with this nutritional regimen I mentioned earlier.
+如果你想尝试魔术勺
+If you want to try Magic Spoon,
+你可以去magicspoon.com/huberman
+you can go to magicspoon.com/huberman
+抢各种包
+to grab a variety pack.
+结帐时使用代码Huberman 即可获得$ 5美元的订单折扣
+Use the code Huberman at checkout and get $5 off your order.
+那是magicspoon.com/huberman
+That's magicspoon.com/huberman,
+并使用代码Huberman减$ 5
+and use the code Huberman to get $5 off.
+这个月 我们谈论的都是情感科学
+This month, we're talking all about the science of emotions
+和与情感科学有关的工具
+and tools related to the science of emotions.
+我们已经讨论了压力并且让压力有弹性的科学
+We've talked about the science of stress and resiliency,
+获得更平静的工具
+tools to access more calm,
+会提高你的压力阈值的工具 从而变得更有弹性
+tools raise your stress threshold, to become more resilient.
+我们谈到了动机
+We've talked about motivation
+和多巴胺系统的作用
+and the role of the dopamine system.
+我想宣布几则消息
+I'd like to make a couple of announcements
+关于一些新资源
+about some new resources.
+第一个是我们现在为字幕添加了字幕
+The first one is that we have now captioned
+所有Huberman Lab的播客
+all the Huberman Lab episodes
+用英语和西班牙语
+in English and in Spanish.
+我们能够做到这一点
+We were able to do that,
+感谢你对赞助商和Patreon的支持
+thanks to your support of our sponsors and on Patreon.
+所以现在 所有播客
+So now, all of the podcasts
+在YouTube上具有字幕功能
+have a captioning feature on YouTube,
+这些都是由专家完成的
+and those were done by experts.
+因此 尽管偶尔可能会出现错误
+So while there might be the occasional error,
+在大多数情况下 它们非常精确
+for the most part, they're very precise.
+我们已经做到了
+We've done that
+这样 喜欢使用西班牙语内容的人们
+so that people that prefer to consume the content in Spanish
+或者喜欢阅读
+or that like to read the content
+英文字幕内容的  敬请享用
+from the English subtitles can do so.
+我们将继续
+And we're going to continue
+扩大字幕的语言数量
+to expand the number of languages that are captioned
+用于Huberman Lab播客
+for the Huberman Lab Podcast.
+因此 我们要感谢你提供的资源
+So we want to thank you for that resource.
+现在可用于所有剧集
+It's now available for all episodes.
+此外 在前几集
+In addition, in previous episodes
+我已经谈论过NSDR及非睡眠深度休息
+I've talked about NSDR or non-sleep depressed.
+NSDR有多种不同的形式
+NSDRs come in in a variety of different forms,
+有自我催眠
+there's self-hypnosis.
+我之前已经为你指出了一些资源
+I've pointed you to some resources for that previously.
+有瑜伽休息术
+There's yoga nidra.
+NSDR的真正目的是迅速达到平静
+NSDR is really about achieving calm quickly,
+并出于多种原因  以自我指导的方式做到这一点
+and doing that in a self-directed way, for many reasons,
+为了更容易进入睡眠
+in order to access sleep more readily,
+为了减轻压力
+in order to de-stress very deeply,
+为了代替失去的睡眠
+in order to replace sleep that you've lost.
+它也似乎有助于神经可塑性
+It also seems to aid neuroplasticity.
+它可以增强
+It can enhance
+大脑中连接的重新组织
+the rearrangements of connections in the brain
+在学习过程中发生的
+that occur during learning,
+有科学的支持
+there's scientific support for that.
+今天的剧集标题中有一个指向新网站的链接
+There's a link in today's episode caption to a new site.
+这是一个YouTube视频
+This is a YouTube video
+那是免费的
+that was brought free of cost
+在Madefor的人们
+by the folks over at Madefor,
+以前曾是播客赞助商的公司
+a company that's been a sponsor of the podcast previously.
+这是一个NSDR脚本
+So this is an NSDR script
+不包含任何意图
+that doesn't contain any of the intentions
+或一些更典型的瑜伽休息术语言
+or some of the more typical language of yoga nidra,
+相反 它只专注于呼吸方案
+instead it's focused purely on the breathing protocols,
+以及一种身体扫描
+as well as includes a sort of body scan
+就是你把注意力
+where you direct
+放在身体的不同位置
+your attention to different locations around your body.
+它具有非睡眠深度休息的所有核心要素
+It has all the core elements of non-sleep deep rest,
+但与瑜伽休息术截然不同
+but is distinct from yoga nidra.
+我只是将此作为资源提供给你
+I just offer this to you as a resource.
+如果你想使用它
+If you'd like to use it,
+它大约30分钟长 应该非常有效
+it's about 30 minutes long, and should be very effective
+使你进入深度放松状态
+in bringing you into deep states of relaxation
+由于我之前提到的所有原因
+for all the reasons I mentioned before.
+因此 让我们谈谈情感
+So let's talk about emotions.
+情绪令人着迷
+Emotions are a fascinating
+和我们生活经历中至关重要的方面
+and vital aspect of our life experience.
+可以这么说 情感
+It's fair to say that emotions
+构成我们认为是我们生活的大部分经历
+make up most of what we think of as our experience of life,
+甚至我们所做的事情
+even the things we do,
+我们的行为和去往的地方
+our behaviors and the places we go,
+和我们生命中遇到的人
+and the people we end up encountering in our life,
+所有这些真正渗入我们的情感感知
+all of that really funnels into our emotional perception
+去代表这些东西 不管它们是否使我们感到高兴
+of what those things mean, whether or not they made us happy
+或悲伤 沮丧或孤独 或鼓舞人心
+or sad or depressed or lonely, or were all inspiring.
+现在有一件事是绝对正确的
+Now one thing that is absolutely true
+是每个人对情感的感知
+is that everyone's perception of emotion
+略有不同
+is slightly different.
+意思是 你对快乐的想法很可能
+Meaning, your idea of happy is very likely different
+与我对快乐的想法  完全不同
+than my idea of what a state of happiness is.
+例如 对于色彩视觉 我们也知道这一点
+And we know this also for color vision, for instance,
+即使你的眼睛和我的眼睛中的细胞
+even though the cells in your eye and my eye
+感觉到红色的颜色是相同的
+that perceive the color red are identical
+直到他们表达的基因
+right down to the genes that they express,
+我们可以根据实验证据确定
+we can be certain based on experimental evidence,
+以及所谓的心理生理研究
+and what are called psychophysical studies,
+你对最强烈的红色的想法
+that your idea of the most intense red
+将会有很大的不同
+is going to be very different
+比我对最强烈的红色的想法
+than my idea of the most intense red
+如果我们选择了10种不同的红色
+if we were given a selection of 10 different reds
+并问哪个是最激烈的
+and asked which one is most intense,
+哪一个看起来最红
+which one looks most red,
+那看起来很疯狂
+and that seems crazy,
+你会认为像颜色一样简单的东西
+you would think that something as simple as color
+将是普遍的 但事实并非如此
+would be universal, and yet it's not.
+因此 我们需要一开始就达成共识
+And so we need to agree at the outset
+情绪很复杂 但是很容易处理
+that emotions are complicated and yet they are tractable.
+他们可以理解
+They can be understood.
+今天我们要谈的是
+And today we're going to talk about
+很多工具来了解什么是情绪
+a lot of tools to understand what emotions are
+让你了解你的情绪状态意味着什么
+for you to understand what your emotional states mean
+以及它们不是什么意思
+and what they don't mean.
+这样 你就可以创造价值
+And in doing that, that will allow you to place value
+关于是否
+on whether or not
+你应该保持情绪状态为真或假
+you should hold an emotional state as true or not true,
+不管它是否有意义
+whether or not it has meaning or it doesn't,
+以及其他人的情绪是否
+as well as whether or not the emotions of others
+在给定的背景下对你很重要
+are important to you in a given context.
+我们将谈论很多有关大脑发展的问题
+We're going to talk a lot about development.
+实际上 我们要居中
+In fact, we're going to center
+今天 我们围绕婴儿期和青春期进行了很多讨论
+a lot of our discussion today around infancy and puberty.
+我们还将讨论工具
+We're also going to talk about tools
+增强自己的情感范围
+for enhancing one's emotional range
+以及在困难的情绪环境中导航
+and for navigating difficult emotional situations.
+我不是临床心理学家
+I'm not a clinical psychologist,
+我不是治疗师
+I'm not a therapist,
+但是我确实有一些心理学背景
+but I do have some background in psychology.
+今天我要引用
+And today I'm going to be drawing
+来自心理学界专家的话 不是我
+from the psychology greats, not me,
+但是从研究情感的心理学专家那里
+but from the greats of psychology who studied emotion,
+研究情绪发展的人
+who studied emotional development,
+并将其与情感的神经科学联系起来
+and linking that to the neuroscience of emotion.
+因为如今我们对化学物质了解很多
+Because nowadays we understand a lot about the chemicals
+荷尔蒙和神经回路
+and the hormones and the neural circuits
+构成情感基础的大脑和身体
+in the brain and body that underlie emotion.
+所以虽然没有
+So while there's no
+一个单一的普遍真实的情感理论
+one single universally true theory of emotion,
+在许多现有理论的交界处
+at the intersection of many of the existing theories,
+确实有一些基本真理
+there are really some ground truth.
+因此 今天我们将探访那些基本事实
+So today we're going to visit those ground truths.
+我们将讨论从中出现的工具
+We're going to talk about the tools that emerge from them.
+我们将要谈论
+And we're going to talk about
+一些绝对疯狂和古怪的实验
+some absolutely wild and wacky experiments
+人们现在正在做的实验
+that people are doing out there right now,
+我不建议你一定要这样做
+that I don't necessarily recommend you do,
+摄入不同类型的激素
+of inhaling different types of hormones
+并尝试更快地被吸引
+and trying to get attached more quickly.
+你实际上要去做
+You're actually going to do
+如果你愿意 今天提供一些体验性的东西
+some experiential stuff today if you like.
+你可以实时进行某些操作
+There's some things that you can do in real time
+在收听播客时
+while listening to the podcast,
+为了利用
+in order to tap into
+我将要提到的一些机制
+some of the mechanisms that I'll be referring to.
+所以今天将非常互动
+So today's going to be very interactive
+以以前的播客情节没有的方式
+in a way that previous podcast episodes have not.
+如果我们想了解情绪
+If we want to understand emotions,
+我们必须看看情绪首先在哪里发展
+we have to look at where emotions first develop.
+实际上 这是一个关键的中心主题
+In fact, this is a critical central theme
+如果你想了解脑科学和心理学
+if you want to understand brain science and psychology.
+神经解剖学中有一个规则
+There's a rule in neuroanatomy.
+因为如果你看人类的50个不同的大脑
+Because if you look at 50 different brains of humans
+或者你比较狗和人的大脑
+or you compare the brains of dogs and humans,
+有很多差异
+there are a lot of differences.
+某些事情是一样的
+Certain things are the same
+但是某些事情是不同的
+but certain things are different.
+每个优秀的神经解剖学家都知道的规则
+And the rule that every good neuroanatomist knows
+就是 如果你想了解
+is that if you want to understand
+大脑某一部分的作用
+what a part of the brain does,
+你必须解决两个问题
+you have to address two questions.
+首先 你必须知道这个大脑区域
+First, you have to know what connections
+会产生什么连接？
+does that brain area make?
+它连接到什么？
+What is it connected to?
+它从哪里获得输入以及从哪里输出？
+Where does it get inputs from and where does it send inputs?
+例如 如果有一个大脑区域
+So for instance, if there's an area of the brain
+从鼻子神经元获得直接输入
+that gets direct input from the neurons in the nose,
+你可以肯定
+you can be pretty certain
+在分析气味方面有一定作用
+that it has some role in analyzing smell
+在测量有关气味的东西时
+in measuring something about odors
+或分析有关气味的东西
+or analyzing something about odors.
+现在 如果它也从眼睛得到输入
+Now if it also gets input from the eye,
+你还可以得出结论 它得到了输入
+you can also conclude that it gets input
+来自视觉系统
+from the visual system that it cares about
+它应该对光和光子敏感
+light and photons.
+这是显而易见的
+This is sort of obvious.
+但是你需要知道这种连通性
+And yet you need to know that connectivity,
+你需要知道
+and you need to know what's called
+该结构的发展起源
+the developmental origin of that structure.
+你需要知道发展的早期阶段是什么
+You need to know where it was early in development,
+因为事情随着大脑的发展而变化很大
+because things move around a lot as the brain develops.
+大脑 当然
+The brain, of course
+这或多或少是黏糊糊的东西
+is this more or less squishy thing
+漂浮在一些液体中
+floating around in some liquid
+塞在你的头骨里面的东西
+that stuffed inside your skull.
+结果 事情发生了很大的变化
+And as a consequence, things move around a lot.
+他们并不总是在同一个地方
+They are not always in the same place
+两个不同的物种不同
+in two different species
+或两个相同物种的动物 也会不同
+or two individuals of the same species.
+所以你必须知道它们是从哪里开始的
+So you have to know where they started out,
+因为它们从哪里开始
+because where they started out
+告知它们也做了什么
+informs what they do as well.
+当我们谈论情感时
+And when we're talking about emotions,
+我们不能指向大脑的一个区域
+we cannot point to one area of the brain.
+我们不能说那是大脑的区域
+We can't say that's the area of the brain
+这是引起情绪的原因
+that's responsible for emotions.
+有所谓的边缘系统
+There is this so-called limbic system
+与情感有多种联系的方式
+that has been linked to emotions in various ways.
+我们今天要讨论
+We're going to talk about that today.
+但是边缘系统只是其中一个组成部分
+But the limbic system is just one component
+创造情感的投入
+of the inputs to create emotions.
+这不是情感的地方
+It's not the place for emotions.
+你不能进入大脑的一个位置
+You can't go in and lesion one location in the brain
+并完全消除情绪 那样行不通
+and eliminate emotions entirely, just doesn't work that way.
+所以 首先 我们必须问
+So, first of all, we have to ask,
+情感的回路是什么？
+what are the circuits for emotion?
+情感的大脑区域是什么？
+What are the brain areas for emotion?
+如今 对此有很多争论
+And nowadays there's a lot of debate about this.
+多年来 人们一直认为可能存在回路
+For years, it was thought that there might be circuits,
+意思是大脑中的联系
+meaning connections in the brain
+产生快乐的感觉
+that generate the feeling of being happy
+或产生
+or circuits that generate
+感到难过的回路等
+the feeling of being sad, et cetera.
+这个理论被质疑了
+That's been challenged.
+实际上 丽莎·费尔德曼·巴雷特
+In fact, Lisa Feldman Barrett
+一直是真正在质疑这个理论的人
+has been the person who's really challenged this head-on,
+并有很好的证据
+and has very good evidence
+对于这样的回路可能不存在的事实
+for the fact that such circuits probably don't exist.
+但是我认为有充分的证据
+And yet I think there's good evidence
+对于大脑中的回路
+for circuits in the brain,
+如边缘回路和其他回路
+such as limbic circuits and other circuits
+改变了我们的整体状态
+that shift our overall states
+或我们的整体警惕或平静水平
+or our overall level of alertness or calmness,
+还是他们不是
+or whether they're not,
+他们使我们偏向观看外部世界
+they bias us toward viewing the outside world
+或多加注意
+or paying more attention
+到我们体内发生的一切
+to what's going on inside our bodies.
+如果现在这一切都没有道理
+If none of this makes sense right now,
+我保证很快就会有意义
+I promise it will make sense soon.
+但是重要的是要了解
+But the important thing to understand
+确实会在大脑和身体中产生情绪
+is that emotions do arise in the brain and body.
+它们之所以出现是因为存在特定的联系
+They arise because there are specific connections
+在大脑和身体的特定区域之间
+between specific areas in the brain and body.
+如果我们想了解情绪是如何运作的
+And if we want to understand how emotions work,
+我们必须看看情绪是如何建立的
+we have to look how emotions are built.
+它们是在婴儿期 青春期(13-15岁)和较晚青春期建立的
+And they are built during infancy, adolescence, and puberty,
+然后一直持续到成年
+and then it continues into adulthood.
+但是在发展早期
+But the groundwork is laid down early in development
+当我们还是个小孩的时候  就奠定了基础
+when we are small children.
+因此 让我们考虑一下
+So let's think about
+来到这个世界上的婴儿会发生什么
+what happens to a baby that comes into the world.
+一个婴儿进入了这个世界
+A baby comes into the world.
+你出生在这个世界上
+You were born into this world
+没有真正了解你周围的事物
+without really any understanding of the things around you.
+那么  你可以通过两种方式与世界互动
+Now, there are two ways that you can interact with the world
+而且你总是或多或少地在做它们
+and you're always doing them more or less
+在某种程度上同时在做
+to some degree at the same time.
+那些是内感受
+Those are interoception,
+注意你内心发生的事情
+paying attention what's going on inside you,
+你内在的感觉
+what you feel internally,
+和外部感觉
+and exteroception,
+注意你外面发生的事情
+paying attention to what's going on outside you.
+请记住这一点
+Hold that in mind, please.
+因为整个生命过程中
+Because the fact that you're both interocepting
+你的内部感受和外在感受都是真实的
+and exterocepting is true for your entire life,
+它为理解情绪奠定了基础
+and it sets the foundation for understanding emotions.
+这是绝对关键的
+It's absolutely critical.
+婴孩时期
+As an infant,
+你对自身所需的东西一无所知
+you didn't have any knowledge of what you needed.
+你不懂饥饿
+You didn't understand hunger,
+你不懂玩具
+you didn't understand toys
+当你第一次来到这个世界
+when you first came into the world,
+你不了解冷或热等等
+you didn't understand cold or heat or any of that.
+当你需要某些东西时 你会感到焦虑
+When you needed something, you experienced that as anxiety.
+你会感到警觉性增加
+You would feel an increase in alertness
+如果你必须使用洗手间
+if you had to use the bathroom.
+你会感到警觉性增加
+you would feel an increase in alertness
+如果你饿了
+if you were hungry,
+你会发声
+and you would vocalize,
+你会哭出来 你会激动起来
+you would cry out, you would act agitated.
+你也可能比较冷静 可能会做很多不同的事情
+You might cue, you might do a number of different things,
+但你所知道的只是内部的感受
+but all you knew was what you were feeling internally.
+然后你的照顾者
+And then your caregiver,
+不管是谁  都会对此做出回应
+whoever that might've been would respond to that.
+所以你会感到不安
+So you would feel some agitation,
+照顾者会来做决定
+a caregiver would come and make a decision,
+哦 你需要食物 给你母乳
+Oh, you need food, and give you milk,
+或换尿布或给你盖个毯子
+or change your diaper or wrap you in a blanket
+如果你很冷
+if you were cold,
+但是他们不知道你是否冷
+but they didn't know if you were cold,
+他们可能会以为你很冷
+they could just assume that you were cold.
+因此 了解这一点实际上非常重要
+So this is actually really important to understand
+那个婴儿 当你还是婴儿的时候 当我还是婴儿的时候
+that a baby, when you were a baby, and when I was a baby,
+我们对外界没有任何感觉
+we didn't have any sense of the outside world
+它只是从本质上体现了我们的焦虑行为
+except that it responded to our acts of anxiety essentially.
+现在这不是弗洛伊德理论
+Now this isn't Freudian theory,
+有它的组成部分
+There are components of it
+嵌入在弗洛伊德理论中
+that are embedded in Freudian theory,
+但是所有发展心理学家都同意
+but all developmental psychologists agree that
+婴儿缺乏能力
+babies lack the ability
+去对外界产生认知意义
+to make cognitive sense of the outside world,
+但是这种焦虑感
+but in this feeling of anxiety
+并感受自己的内部状态
+and registering one's own internal state,
+然后向外界大喊大叫
+and then crying out to the outside world,
+通过哭泣或微妙的发声
+either through crying or subtle vocalizations,
+甚至只是暗示 发出一些声音
+or even just cuing, making some noise,
+我们开始与外界建立关系
+we start to develop a relationship with the outside world
+在我们的内部状态
+in which our internal states,
+我们的变化和焦虑开始推动需求
+our shifts and anxiety start to drive requests,
+希望人们来响应这些要求
+and people come and respond to those requests, hopefully.
+我说“希望”的原因
+And the reason I say hopefully
+是我们都听过
+is that we've all heard
+大概是关于这些疏忽的情况
+presumably about these cases of neglect.
+在很多情况下 如果你忽略了一个婴儿
+There are a lot of cases where if you neglect a baby,
+你忽略了青少年或青少年
+you neglect an adolescent or a teenager,
+那么成长过程会不顺利
+development doesn't go well,
+我们将探讨其中的一些
+and we'll touch on some of those.
+但是这些确实是极端的情况
+But those are really extreme cases.
+它们有点像脱离与实验
+They're sort of like the parallel to experiments
+通常是在实验室里用动物做的
+that are often done in the laboratory with animals,
+你可能听说过这些丰富的环境
+where you've probably heard of these enriched environments
+他们会给老鼠一堆玩具
+where they'll give mice a bunch of toys,
+他们会给它们
+and they'll give them
+偶尔有一些不同的食物
+some different foods every once in a while,
+然后将它们与其他小鼠一起安置
+and they'll house them together with other mice.
+然后你发现的是动物
+And then what you find is that the animals,
+他们会说：“哦 它们的大脑较厚
+they will say, "Oh, their brain is thicker
+而且他们的神经元还有更多的分支机构”
+and their neurons have more branches to them and all that."
+但这确实是将非正常相提并论
+But that's really comparing deprivation with normalcy.
+我们今天要关注的是
+What we want to center on today instead
+当一切顺利的时候会发生什么
+is what happens when things go well,
+以及为什么事情可能进展不顺利
+and why things might not go well
+在某些情况下很有趣
+in certain circumstances is interesting.
+但是对我来说 没有那么有趣
+But to me, not as interesting
+就像健康的情绪发展一样
+as what healthy emotional development looks like.
+如果你尚未获得健康的情绪发展
+And if you haven't achieved healthy emotional development,
+作为干预措施  在长大之后可以做什么
+what can be done as an intervention
+来进行一定的补救？
+at later times in order to rescue that?
+因此 婴孩  你作为一个婴孩
+So the baby, you as a baby,
+你在婴儿床附近翻来覆去
+you're flopping around there in your crib,
+你在需要的地方得到照顾
+you're getting care where you need it
+当你需要时 大概
+and when you need it, presumably,
+这成为了关于情感的基础
+and this gets to the basis of what emotions are about,
+情绪真的是在建立联系
+which are emotions are really about forming bonds
+并能够预测世界上的事物
+and being able to predict things in the world.
+那才是真正的情感
+That's really what emotions are about.
+婴儿是否感到生气 高兴或悲伤
+Whether or not the baby feels angry or happy or sad,
+我们不知道 我们可以猜测 但是我们不知道
+we don't know, we can guess, but we don't know.
+实际上 大多数时候我们甚至都不知道自己的感受
+In fact, most of the time we don't even know how we feel,
+更不用说其他人的感受了
+let alone how other people feel,
+对成年人来说也是如此
+and that's true for adults.
+所以 如果我问你现在的感觉
+So if I asked you how you feel right now,
+我不知道你能告诉我
+I don't know that you could tell me
+即使用任何一种丰富的语言
+in any kind of rich language that I would say,
+“哦 我真的很明白”
+"Oh I really understand."
+如果你说你非常非常沮丧
+If you said you were very, very depressed
+或非常非常开心
+or very, very happy,
+我会有所感悟 因为那是多么极端
+I'd have some sense because of how extreme that is,
+但我不知道我真的会知道
+but I don't know that I would really know,
+而且我也不认为你现在也知道我的心情
+and I don't think you know how I feel right now either.
+我现在可能很生气
+I could be furious right now
+我也可能会很高兴
+or I could be very happy,
+你不知道
+you don't have any idea.
+当然 我们有称为“表达”的东西
+And of course, we have these things called expressions,
+我们的瞳孔膨胀
+our pupils dilate.
+人们可以感受到多种线索
+There are various cues of how people feel.
+我们将讨论这些线索
+We're going to talk about those cues,
+但是你真的不知道
+but you really don't know.
+在这一点上 我实际上只是想暂停一下
+And at this point I actually just want to pause
+并提到一个非常有趣的工具
+and mention a really interesting tool
+试图解决这个问题
+that is trying to address this question
+什么是情感 情感由什么组成
+of what are emotions and what do they consist of,
+你可以根据需要使用
+that you can use if you like.
+这里有一个应用
+This is an app,
+我没有参与开发
+I didn't develop it,
+我和他们没有任何关系
+I don't have any relationship to them,
+但该应用是由耶鲁大学的人开发的
+but the app was developed by people at Yale,
+耶鲁大学从事研究的团体
+by groups at Yale who do research,
+这就是所谓的情绪表
+and it's called Mood Meter.
+这实际上很有趣
+And it's actually quite interesting.
+我认为它是免费的还是$0.99
+I think it's either free or it's 0.99.
+同样 与他们没有业务关系
+Again, no business relationship to them.
+但是他们想做的是给人更多的细微差别
+But what they're trying to do is put more nuance,
+我们的话语更加微妙
+more subtlety on our words,
+还有我们表达情感的语言
+and our language for emotions,
+并让你
+and be able to allow you
+能够去预测你将来的感觉
+to predict how you're going to feel in the future.
+这实际上很有趣
+And it's actually quite interesting.
+我现在正在使用该应用程序 我知道你看不到此内容
+I'm on the app right now, and I know you can't see this,
+但是它叫做心情表
+but it's called Mood Meter.
+你可以在Apple或Android上找到
+And you can find on Apple or Android.
+然后你进入 它问你
+And you go into and it asks you,
+它对我说：“嗨 安德鲁 你现在好吗？
+it says to me, "Hi, Andrew, how are you right now?
+然后单击显示我感觉的小标签
+And I click the little tab that says I feel.
+我可以选择【精力充沛+不愉快】
+And I can either pick high energy and unpleasant,
+【精力充沛+愉快】 【精力不充沛+不愉快】
+high energy and pleasant, low energy unpleasant
+或【精力不充沛+愉快】
+or low energy pleasant.
+我现在要说的是 我感到精力充沛+愉快
+And I would say right now I feel high energy pleasant.
+所以我只是向你透露了我的感受
+So I just revealed to you how I feel.
+所以我点击了
+So I click on that,
+然后它会给你提供很多颜色
+and then it gives you a gallery of colors,
+然后你只需将手指移到该位置
+and you just move your finger to the location
+你认为最匹配的颜色
+where you think it matches most.
+当你这样做时 会弹出小的单词
+And as you do that, little words pop up.
+我知道有些人只听音频
+I know some people are listening to this on audio only.
+所以说激励 开朗 鼓舞
+So it say motivated, cheerful, inspired.
+我会说 我现在很开心
+I would say, I'm feeling right now, cheerful.
+因此 你单击该按钮 然后转到下一个窗口
+So you click that and then you just go to the next window,
+它只是说 你在做什么？
+and it just says, what are you doing?
+这就像是个游戏
+And this feels like play to me,
+但我将其称为工作方式
+but I'm going to call it work.
+然后就是这样
+And then that's it.
+然后它做的
+And then what it does
+基本上就是开始收集你的数据
+is it basically starts to collect data on you.
+你正在为其提供信息
+You're giving it information.
+并开始将其链接到其他功能
+And it starts to link that to other features
+如果你愿意的话 你可以访问
+that you allowed access to if you like,
+它开始帮助你能够预测
+and it starts helping you be able to predict
+你每天会有怎样的不同感受
+how you're going to feel different times a day.
+实际上在某些方面非常准确
+It's actually quite accurate in certain ways,
+挺有意思
+quite interesting.
+它指出了几个非常有趣的功能
+And it points to a couple of really interesting features,
+那是我们真的没有足够的语言
+which is that we don't really have enough language
+描述所有的情绪状态
+to describe all the emotional states,
+但是有一些核心事实
+and yet there's some core truths
+构成情感的原因
+to what makes up an emotion.
+我想在今天的播客中再次进行回顾
+And I want to review that twice during today's podcast,
+因为这确实可以帮助人们
+because this can really help people,
+孩子和成年人更好地去了解
+kids and adults understand better
+他们的感受以及原因
+what they're feeling and why,
+以及什么时候最适合从事某些活动
+and when best to engage in certain activities,
+值得庆幸的是 何时也最好避免某些活动
+and thankfully, when best to avoid certain activities too.
+因此 其工作方式如下
+So the way this works is the following.
+你随时都需要问自己
+You need to ask yourself at any point,
+如果愿意 你可以立即执行此操作
+you could do this right now if you like,
+你的自主唤醒水平如何？
+what's your level of autonomic arousal?
+自主唤醒只是连续的
+Autonomic arousal is just the continuum,
+警惕到冷静的范围
+the range of alert to calm.
+因此 如果你现在感到恐慌
+So if you're in a panic right now,
+在唤醒尺度上 你就像十分之十
+you are like 10 out of 10 on the arousal scale.
+如果你睡着了
+If you're asleep,
+你可能不理解我的意思
+you're probably not comprehending what I'm saying,
+虽然也许一点点
+although maybe a little bit.
+但是 假设你很困倦
+But let's say you're very drowsy,
+你可能会在1-2分间
+you might be at a one or a two.
+所以你总是要问
+So you always have to ask,
+你在觉醒尺度上处于哪个位置？
+where are you on the arousal scale?
+然后有另一个轴 另一个问题
+And then there's this other axis, this other question,
+这就是我们所说的“价”
+which is what we call valence.
+现在“价”是一个值
+Now valence is a value.
+你感觉好还是坏？
+Do you feel good or bad?
+我会说我现在感觉很好
+I would say I feel pretty good right now.
+以1到10的比例
+On a scale of one to 10,
+我想 我不知道 我感觉是7分吧
+I'm like, I dunno, I feel like a seven.
+昨晚睡了个好觉
+Got good night's sleep last night,
+今天早上和科斯特洛一起散步
+had a good walk with Costello this morning,
+我吃饱了 我喝饱了
+I'm fed, I'm hydrated.
+我感觉很好
+I feel good,
+所以我就是7分
+So I'm like a seven.
+所以我很警觉 感觉很好
+So I'm alert and I feel pretty good.
+还有第三件事
+And then there's a third thing,
+我们内在感受怎么样
+which is how much we are interocepting
+以及我们在外在感受多少
+and how much we are exterocepting.
+因此 我们有多少注意力集中在内部
+So how much our attention is focused internally
+我们的感受以及它在外部的关注程度
+on what we're feeling and how much it's focused externally.
+而且这将始终处于动态平衡中
+And this is always going to be in a dynamic balance.
+因此 举例来说 如果你真的感到非常有压力
+So for instance, if you're really, really stressed,
+通常会让你处于一个位置
+oftentimes that puts you in a position
+真正与你体内发生的事情保持联系
+to be really in touch with what's going on in your body.
+如果你开始有很多躯体感受
+If you start having a lot of somatic,
+很多身体上的感觉
+a lot of bodily sensations,
+就像你的心脏跳动得如此之快以至于你不能忽略它
+like your heart is beating so fast that you can't ignore it,
+那么你真的具有强烈的自我感知能力
+then you're really strongly interoceptive.
+但是有时候你真的很压力
+But also sometimes you're really stressed
+因为有人向你施压
+because someone's stressing you out
+或有人给你发短信
+or somebody sends you a text message
+或发表评论
+or makes a comment about
+你发布的YouTube内容或其他内容
+a YouTube thing you posted or something,
+而且你真的被它刺激到了
+and you're really triggered by it.
+这从来没有发生在我身上
+That never happens to me.
+但是 如果这确实发生在你身上 那么你将感到恐惧
+But if it does happen to you, then you're exterocepting.
+所以这三件事
+So these three things,
+你有多警觉或困倦 第一点
+how alert or sleepy you are, that's one,
+你有多好或多坏 第二点
+how good or bad you feel, that's two,
+然后是否
+and then whether or not
+你的大部分注意力都指向外部
+most of your attention is directed outward,
+或是否向内定向
+or whether or not it's directed inward.
+我们称之为情感的大部分
+And much of what we call emotions
+由这三件事组成
+are made up by those three things.
+现在让我们回到成长中
+And so let's return now to development,
+先放一边 只是先想一想
+but tuck that away and just kind of think about it,
+机警与睡眠 好与坏
+alert versus asleep, good versus bad,
+并专注于内部或外部
+and focused internally or focused externally.
+因为当我看着
+Because when I looked at
+所有存在的情感理论
+all the theories of emotion that were out there,
+他们有很多不同的组成部分
+there were a lot of different components to them,
+但他们似乎都居中
+but they all seem to center back
+这三个功能
+to these same three features
+以某种方式或某种程度或另一种方式
+in some way or to some degree or another.
+理解它可能会非常强大
+And it can be very powerful to understand
+并通过镜头观察你的情绪
+and look at your emotions through that lens.
+因此 让我们回到婴儿
+So let's return to the infant.
+婴儿床里有婴儿
+There's the baby in the crib.
+那么婴儿主要是在感受内在
+It's mostly interocepting.
+当照顾者带来所需的东西时
+As caregivers bring it what it needs, you hope,
+牛奶 换尿布等等
+milk, diaper changes, et cetera,
+如果天气冷的话 可以用温暖的毯子
+a warm blanket if it's cold,
+揭开毯子
+pull off the blanket
+当婴儿大惊小怪 又太暖和的时候
+when the baby's fussing and it's too warm,
+因为婴儿也会变得太暖和
+'cause babies get too warm also,
+他(她)开始外部感受
+it starts to exterocept.
+打扰一下 我说错了
+Excuse me, I misspoke,
+我想说清楚这个事情
+I want to be very clear,
+婴儿开始产生外部感受
+it starts to exterocept.
+婴儿开始向外界看
+The baby starts to look into the outside world
+并开始做出预测
+and start making predictions.
+它开始想知道需要多少哭泣  或预测
+It starts wondering how much it needs to cry or predicting,
+“好吧 如果我哭一点
+"Well, if I cry like a little bit,
+那妈妈会过来给我喂母乳
+then mom comes over and I get my milk.
+或者 如果我哭很多 妈妈还是不会过来给我母乳
+Or if I cry a lot, mom doesn't come over and give me milk,
+所以我需要真正地尖叫”
+so I need to really scream at the top of my head."
+因此 婴儿开始评估并做所有这一切
+So babies are starting to evaluate and do all this,
+但他们没有有意识地这样做
+but they're not doing it consciously.
+他们正在战略性地做到这一点
+They're doing this strategically
+为了缓解焦虑
+in order to relieve anxiety.
+而且我不会提议那是我们成年后要做的事情
+And I won't propose that that's what we do into adulthood.
+但是我们成年后所做的很多事情
+But a lot of what we do in adulthood
+就是当我们感觉到某种东西时 我们就开始外露
+is when we feel something, we start exterocepting.
+有些人好多了
+Some people are much better
+只是作为一个容器坐着 只是在接受
+at just sitting as a container and just interocepting
+并注意他们在内部的感受
+and paying attention to what they're feeling internally.
+但是大多数人都在两者之间取得了一点平衡
+But most people do a little bit of a balance of both.
+我们感觉不好
+We don't feel good,
+所以我们寻找物品或食物
+so we look for an item or food
+那会让我们感觉好些
+that might make us feel better.
+我们正在急切地去看牙医
+We're feeling anxious heading into the dentist
+或类似的东西
+or something like that,
+所以我们给某人发短信
+so we text somebody.
+我们几乎是自发地做这件事
+We do this almost reflexively,
+它并不总是有意识的
+it's not always conscious.
+因此 婴儿可以这样做 我们将继续这样做
+So infants do this, and we continue to do this.
+我们现在开始平衡我们的感知力
+We start to now balance our interoceptive
+和外在的专注
+and exteroceptive focus,
+向内看 向外看
+looking inward and looking outward.
+当我们这样做时
+And as we do that,
+我们开始弄清楚是什么满足了我们的需求
+we're starting to figure out what gets our needs met.
+记住 情绪真的在那里形成纽带
+Remember, emotions are really there to form bonds
+并做出预测
+and to make predictions.
+因此 我们的需求将在某种程度上得到满足
+And so our needs are going to be met to some degree or not.
+有时可悲的是忽略了
+Sometimes sadly there is neglect.
+有时人们不为我们出现
+Sometimes people don't show up for us
+我们想要的方式
+the way that we would like.
+总的来说 我们对此的回应
+And in general, our responses to that
+与是否
+have to do with whether or not
+我们预测他们是否会
+we predict whether or not they would or not.
+当我们期望某些事情不会发生时
+When we expect something and it doesn't happen,
+这真是令人失望
+It's a big let down.
+那是最后一集关于多巴胺的讨论
+That was the discussion about dopamine last episode.
+因此 许多情感理论 三位一体大脑理论
+So the many theories of emotion, the triune brain theory,
+你有一个原始的 受累的大脑
+that you have a primitive and involved brain,
+这些天有些动摇
+something that's a little bit on shaky ground these days.
+达尔文提出的想法
+The idea that Darwin proposed,
+这些情感的普遍表达
+that there are these universal expressions of emotions.
+海伦·费舍尔（Helen Fisher）关于爱情的工作
+The work of Helen Fisher on love,
+你的大脑有回路
+that you have circuits in the brain
+对于大脑中失去的回路
+for lost circuits in the brain,
+为了爱和大脑中的循环 以建立长期的纽带
+for love and circuits in the brain for long-term bonds,
+以及丽莎·费尔德曼·巴雷特（Lisa Feldman Barrett）的作品
+as well as the work of Lisa Feldman Barrett,
+说情感是与环境相关的
+saying that emotions are contextual,
+他们有社会成分
+that they have a social component.
+我将对此进行更多讨论
+And I'll be talking more about this,
+但是艾伦·舒尔（Allan Schore）的作品
+but the work of Allan Schore,
+加州大学洛杉矶分校的临床心理学家和研究员
+a clinical psychologist and researcher at UCLA,
+关于右脑 左脑
+about right brain, left brain,
+及其在情感发展中的作用
+and its role in emotional development.
+他们都包含了
+All of them have strong elements
+对于“注意力”的观点
+of this idea of paying attention
+向内和向外的变化
+to what's going on inward and outward.
+作为一个年轻的生物 一个婴幼儿
+As a young creature, an infant and young toddler,
+你主要是向内集中
+you were mainly focused inward,
+然后你开始了解外在发生了什么
+and you started to understand what was going on outward
+作为预测  你开始知道什么为你带来舒缓
+as a way of predicting what would bring you relief,
+什么会消除你的焦虑感
+what would remove your anxiety.
+这就是你的基本经验法则
+And that's where the fundamental rules of your experience,
+你的情感经历被放下了
+your emotional experience were laid down.
+我意识到很多信息
+And I realized that's a lot of information
+这有点像学术演讲
+and it's somewhat of an academic talk,
+但是里面有两个工具
+but there were two tools in there
+我只想强调
+that I just want to highlight,
+一个是情绪仪应用程序
+one is the Mood Meter app.
+如果你有兴趣 它可以为你提供一些预测
+If you're interested in, it can give you some insight
+情绪中不同的细微差别
+into the different kinds of nuance within emotions
+并让你实际预测情绪状态
+and allow you to actually predict emotional states,
+如果你想尝试
+if you want to try that
+你可能会发现它很有趣
+and you might find that interesting.
+另一个是这个
+The other one is this idea that
+三个坐标轴  包含两种情绪
+there are three axes two emotion,
+相互作用的三个连续体
+three continuum that interact,
+机敏和平静的水平
+the level of alertness and calmness,
+你感觉好坏
+how good or bad you feel,
+以及你是否主要集中在向内或向外
+and whether or not you're mainly focused inward or outward,
+因为这些将形成有用的工具包
+because those are going to form a useful tool kit
+了解未来的信息
+for the information going forward.
+所以现在让我们谈谈你是什么样的婴儿
+So now let's talk about what kind of baby you were,
+因为这实际上可以告诉你现在的情绪
+because that actually informs your emotionality now.
+这些是经典的
+These are classic.
+他们实际上是著名的实验
+They're actually famous experiments
+Bowlby和Ainsworth做的
+done by Bowlby and Ainsworth.
+任何学习心理学的人
+Anyone that study psychology
+或上过心理学课
+or has taken a psychology class
+可能已经了解了这一点
+might have learned about this.
+这是这个经典的实验
+This is this classic experiment
+所谓的奇怪情况任务
+of what was called the strange situation task in which,
+我在这里非常粗略地描述它
+and I'm describing it very coarsely here, I realize.
+但是有一个母亲和孩子进入实验室
+But a mother and child come into the laboratory.
+是的 现在父亲也可以这样做
+Yes, this is now also been done with fathers.
+婴儿和母亲或父亲一起玩了一会儿
+The baby and the mother or father play together for a bit,
+然后母亲离开
+and then the mother leaves.
+母亲离开一段时间
+The mother leaves for some period of time
+然后回来
+and then comes back.
+而且研究是专门观察
+And the research is devoted
+了解孩子的反应
+to understanding the response of the child
+当照顾者
+when the caretaker,
+母亲或父亲回来的时候  大多数是孩子
+the mother or the father returns, most all children,
+并不是每个孩子 但大多数孩子会哭
+not every child, but most children will cry
+当他们的主要看护人离开时
+when their primary caretaker leaves.
+他们不喜欢那样
+They don't like that.
+这样做有充分的理由
+And there are good reasons for that.
+他们形成了一种纽带和一种依恋
+They formed a bond and an attachment.
+我们将谈论
+And we will talk about
+产生这些连接的一些更深层次的化学原因
+some of the deeper chemical reasons for those bonds.
+但是 实验重点是
+However, the experiment is focused
+在照料者返回时
+on the return of the caregiver.
+因为鲍比和安斯沃思
+Because Bowlby and Ainsworth,
+以及他们的许多科研后继者和同事
+and many of their scientific offspring and colleagues
+确定至少四个婴儿显示的模式
+identified at least four patterns that babies display
+当他们的看护人回来时
+when their caretaker returns,
+然后将它们分组为a b c d
+and they group these into group a, b, c, d,
+如此之多 以至于孩子被称为 a婴儿
+so much so that the kids were referred to as a babies,
+b婴儿 c婴儿或d婴儿
+b babies, c babies or d babies.
+你可能知道你是哪一个
+You may know which one you were.
+但是类别确实很有趣
+But the categories are really interesting.
+第一个婴儿  a婴儿
+The first babies are the a babies.
+所以这些孩子
+So these were kids
+当他们的看护人离开时 这会很不高兴
+that would get upset when their caretaker would leave.
+但是当他们的看护人回来时
+But when their caretaker would return,
+婴儿会高兴地回应
+the infant would respond with happiness,
+看起来很高兴
+with what looked like delight.
+他们会朝向照料者
+They would go to the caretaker.
+他们似乎很高兴
+They seemed happy.
+如果他们以前太过挑剔或难过 他们会放心的
+If they had been fussy before or sad, they felt relieved.
+这些被称为“安全附加”的孩子
+These are referred to as secure attached kids.
+因此他们对分离有健康的反应
+So they have a healthy response to separation,
+他们的反应很健康
+and they have a healthy response
+与照料者重新接触
+to re-engaging with the caretaker.
+所谓的b婴儿
+The b babies as they're called
+不太可能从照顾者那里寻求安慰
+were less likely to seek comfort from their caregiver
+照料者何时返回
+when the caregiver would return.
+所以他们有时会继续玩玩具
+So they would sometimes continue to play with their toys
+或者他们在房间里有成人
+or if they had an adult in the room
+父母不在的时候 他们会留在他们身边
+while the parent was gone, they would stay with them.
+有时是复杂而细微的
+It was sometimes complicated and nuanced,
+但是这些被称为回避婴儿
+but these were referred to as avoidant babies.
+不要逃避任何结论
+Don't run away with any conclusions
+关于这里的语言呢
+about the language here just yet.
+尚不清楚回避的婴儿会变成回避的成年人
+It's not clear that avoidant babies become avoidant adults,
+但请忍受我
+but bear with me.
+c婴儿对于看护人回来的反应
+The c babies would respond to the return of the caregiver
+是烦人的行为
+with acts of annoyance.
+他们似乎有点生气
+They seemed kind of angry.
+所以忽略了他们
+So it wasn't that they ignored them,
+他们似乎有点生气
+they seem kind of angry.
+这些被称为矛盾的婴儿
+And those were referred to as ambivalent babies,
+不要与a婴儿混淆
+not to be confused with a babies.
+这些是c婴儿 是矛盾的婴儿
+These are the c babies, were the ambivalent babies.
+所以婴儿的反应
+So the infant's reaction
+与返回的照料者不一致
+to the returning caregiver were inconsistent.
+似乎他们想再次与他们建立联系
+It seemed like they wanted to bond with them again
+但是他们似乎有点生气
+but that they seem kind of annoyed.
+我想我们之前都已经有这种感觉
+I think we've all felt this way before
+与我们非常关心的人在一起
+with people that we care very much about,
+特别是我们非常关心的人
+especially people we care very much about.
+第三类是d婴儿
+And then the third category, the d babies,
+是那些无规律的婴儿 这就是他们所说的
+were the disorganized babies, that's what they call them.
+他们无规律 而且很凌乱
+They weren't disorganized and that they were messy,
+这个孩子避免了与每个人的互动
+the child avoided interactions with everyone
+当照顾者回来时表现得很恐惧
+and acted fearful when the caregiver returned,
+他们的行为并没有真正改变
+and their behavior didn't really change
+无论看护人是否在场
+whether or not the caregiver was there or not.
+第四类实际上是添加得比较晚的
+And that fourth category was actually added rather late
+在这项研究过程中
+in the course of this research.
+我应该提到这些实验已经重复
+I should mention these experiments have been repeated
+在各种各样的不同背景中
+with a huge variety of different contexts.
+玛丽·梅恩做了一件工作
+There was work done by Mary Main
+在加州大学伯克利分校和许多其他学校
+at UC Berkeley and many others,
+查看有关该实验的各种变量
+looking at all sorts of variations on this theme.
+但是随着时间的流逝 它变得很清楚
+But over time, it made it clear
+某些婴儿能够感到安全
+that certain babies are able to feel secure
+在与他们的照料者重新接触时 其他人则没有
+upon re-engaging with their caregiver and others don't,
+否则他们对此感到困惑
+or they're confused about it.
+所以我们可能不知道
+So we probably don't know
+无论你是a b还是c d婴儿
+whether or not you were an a, b or c, d baby,
+除非你在这些实验中
+unless you were in these experiments
+以及你以某种方式拥有的知识
+and somehow you had that knowledge.
+但是这部作品 这部经典作品
+But this work, this classic work
+提出了大量重要问题
+opened up a huge set of important questions
+与什么是重建
+that relate to what is the reestablishment
+真正的纽带
+of the bond really about.
+我的意思是 这里到底想出什么
+I mean, what's actually being figured out here
+是否有四类婴儿
+is not whether or not there are four categories of babies,
+那很有意思
+that's interesting,
+但这可能更有趣
+but it presumably is more interesting
+专注于什么才是真正好的纽带
+to focus on what is it that defines a really good bond,
+安全连接或不安全连接
+a secure attachment, or an insecure attachment
+或回避连接
+or an avoidant attachment.
+有四件事 首先 注视  是的就是字面意思  眼神接触
+And the four things are gaze. literally eye contact,
+并不需要直接放光眼神接触
+and doesn't have to be direct beaming eye contact
+没有眨眼 就像人们以前指责我一样
+with no blinks like people have accused me of before.
+只是注视 人们互相看着
+It can just be gaze, people look at each other,
+你看到夫妻 他们互相看着对方
+you see couples, they look at each other,
+他们并不总是长时间凝视对方
+they don't always stare each other long periods of time,
+有时候他们会
+sometimes they do.
+发声 所以我们说什么和怎么说
+Vocalizations, so what we say and how we say it.
+情感
+Affect or emotion,
+所以我们表达的方式 哭泣 微笑
+so the way that we express it, crying, smiling
+等 然后触摸 这四件事
+et cetera, and touch, those four things.
+你可能会添加第五个维度
+And you probably could add a fifth dimension
+语言和书面语言发展起来后
+once language and written language develops,
+第五个就是文字
+which is written word,
+互相寄信
+exchange of letters,
+交换文字
+exchange of texts,
+诸如此类的东西交换 电子邮件 是另一种方式
+exchange of things of that sort, emails, are another way
+人们可以在其中连接
+in which people can bond.
+但注视 发声 情感  触摸才是真正的核心
+But gaze, vocalization, affect and touch are really the core
+我们称之为社会纽带和情感的东西
+of this thing that we call social bonds and emotionality.
+现在很重要
+Now that's important.
+我们知道例如
+We know for instance
+有像梭形面部一样的大脑区域
+that there are brain areas like the fusiform face area
+在大脑深处
+which is deep in the brain
+负责人脸的处理
+that is responsible for the processing of faces.
+孩子对父母的面孔和声音的认识
+Children's recognition of their parents' faces and voices
+非常准确和强大
+is extremely accurate and strong.
+同样 父母可以辨别出孩子的发声
+Likewise, parents recognition of their child's vocalizations
+不仅是声音 而且哭声也很了不起
+not just voices, but cries are remarkable.
+如果你曾经有参加聚会的经验
+If you've ever had the experience of being at a party
+和生小孩的人一起
+with somebody who has small children
+你在跟他们说话
+and you're talking to them,
+突然之间 他们听到了一些声音 但你却听不到
+and all of a sudden they hear something but you don't,
+好像他们听到狼一样
+it's as if they've got wolf hearing,
+突然之间 他们跑到另一个房间
+and all of a sudden, they go running into the other room.
+确实 那个孩子就像 我不知道
+And indeed the kid is like, I don't know,
+一些孩子在殴打他们的孩子
+some kid is beating up their kid
+或他们的孩子在殴打其他孩子
+or their kid's beating up some other kid,
+或孩子自己受伤
+or the kid injure themselves
+或感到精神上的伤害
+or feels emotionally injured.
+这种对声音的感知
+This perception of voices.
+有很好的证据
+There's very good evidence
+支持我们人体被调整到 听到某些
+to support the fact that we are tuned
+声音的频率
+to the frequencies of voices
+就是我们关心的人声音频率
+and vocalizations of people that we care about.
+不仅在啮齿动物中如此
+It's not just true in rodents
+在鸟类和其他哺乳动物中
+and in birds and other mammals,
+在人类中也绝对是正确的
+it's definitely true in humans as well.
+婴儿非常喜欢
+And babies are very tuned in
+听到他们母亲的声音
+to the sound of their mother's voice,
+甚至 是的 当他们在子宫里时
+even, yes, while they're in the womb.
+这就是所谓的“安逸”的整个世界
+There's this whole world of what's called mother-ease,
+这是妈妈们特别的讲话方式
+which is the particular style of speech that mothers
+现在我们知道其他监护人可与儿童一起使用
+and other caretakers now we know use with children.
+因此 这些是核心要素
+So those are the core elements.
+你如何看某人以及他们如何看你
+How you look at somebody and how they look at you,
+你在说什么 他们在说什么 他们似乎在感觉什么
+what you say, what they say, what they seem to be feeling,
+以及如何使你感到微笑 皱眉
+and how that makes you feel, smiles, frowns.
+如果你真的很了解某人 那么你可以阅读一些曲解
+If you know someone really well, you can read inflections,
+甚至是一些微妙的东西
+like even little subtle things like,
+嗯 他们真的不相信我
+mm, they don't really believe me,
+或者 哦 他们对此感到非常兴奋
+or, oh they're really excited by this,
+或者 哦 现在我知道他们在想什么
+or, oh, now I know what they're thinking.
+那样的处理
+That kind of processing,
+有些人比其他人更擅长
+some people are better at it than others,
+但是每个人都比较擅长
+but everyone's better at doing that
+处理我们认识的人的情绪
+with people that we recognize and know.
+实际上 夫妻之间的这种预测非常融洽
+In fact, couples come to know each other exceedingly well,
+如此之多 以至于它们可以受益
+so much so that it can both benefit
+同时也会伤害他们的关系
+and injure their relationship
+互相不断做出这些预测
+to constantly be making these perceptions.
+但是有一个范围
+But there's a range.
+有些人比其他人更喜欢这个
+Some people are more tuned into this than others.
+那可能有根
+And that probably has roots
+在你早期形成的各种连接中
+in the sorts of attachments that you form early on.
+因此Bowlby和同事开发了这些a b c和d东西
+So Bowlby and colleagues develop these a, b, c, d thing.
+这与人脸处理
+And it has a lot to do with face processing
+凝视 发声和触摸  有很大关系
+and gaze and vocalizations and touch,
+所有这些都是在母亲的陪伴下发生的
+all of those happen on return with the mother,
+但是他们没有解析那些
+but they weren't parsing those,
+他们并没有单独看他们
+they weren't looking at them individually.
+因此 这提出了一个非常有趣的问题 那就是
+So this raises a really interesting question, which is,
+感觉到什么是什么？
+what is it when we feel something?
+是因为某事
+Is it because of something
+那是我们自发地发生的 是一种记忆
+that happened spontaneously in us, it's a memory,
+还是我们意识到的事情 我们在互联网上看到了
+or it's something that we realize, we saw on the internet
+还是我们有关于某人的消息？
+or we got news about somebody?
+如今人们获得了很多信息
+Nowadays people get so much information
+关于他们认识的人
+about the people they know,
+他们喜欢和不喜欢的人
+both the people they like and dislike
+通过查看网上的事情
+by way of viewing online activities.
+所以他们在极端地恐惧
+So they're exterocepting,
+然后会影响你的内部状态
+and then it's impacting your internal state.
+很明显
+And it's clear
+从大多数情绪健康的理论来看
+from most all of the theories of emotional health,
+在任何时候能够
+that an ability to recognize
+意识到外部事件
+when your own internal state
+对自己内心状态的影响
+is being driven primarily by external events,
+这种能力对于情绪调节有非常重要的作用
+as important for being able to emotionally regulate.
+人们不断地
+People who are constantly
+被世界上的外部事件所吸引
+being yanked around by the external happenings in the world,
+你会说在情感上不稳定
+you would say are emotionally labile,
+他们无法控制自己的情绪
+they are not in control of their emotions,
+即使他们一直很平静
+even if they're calm all the time,
+如果那种平静到来
+if that calmness only arrives
+因为他们处在平静的环境中
+because they're in a placid environment
+然后在那个环境里打破什么东西
+and then you put a cracker in that environment
+他们吓坏了 那么 他们并没有真正平静下来
+and they freak out, well, then they're not really calm.
+他们到目前为止的平静
+Their calm in so far
+因为在环境中没有任何干扰
+as there isn't something disturbing in the environment.
+那么外面的环境多少
+So how much the outside environment
+破坏你的内部环境
+disrupts your internal environment
+都是关于
+has everything to do
+内部感知与外部感知之间的平衡
+with this balance of interoception and an exteroception.
+而且很可能有根
+And it very likely has roots
+无论你是否是一个有安全感的人
+in whether or not you were secure attached
+或没有安全感
+or insecure attached,
+无规律或矛盾的婴儿
+disorganized or ambivalent as a baby.
+当然 你不能时光倒流去看自己是怎么样
+And of course, you can't travel back in time and know,
+但有一些提示
+but there are some hints
+关于我们每个人都有什么样的情感
+as to what kind of emotionality each of us has
+通过考察两个发展阶段
+by examining two periods of development,
+一个是青春期 另一个是成年期
+one is adolescence and puberty and the other is adulthood.
+因此 尽管我们无法时光倒流
+So while we can't travel back in time,
+有一种你可以做的实验
+there is an exercise that you can do
+至少在此刻可以看到
+to address at least in this moment,
+你是偏向外部感受
+whether or not you have a bias for exteroception
+还是偏向内部感受
+or a bias for interoception,
+至少在这个时候你是否
+whether or not you are better at least in this moment,
+更擅长于在注意
+at paying attention
+内部或外部发生的情况
+to what's going on internally or externally.
+当然 这将因情况而异
+And of course, this will vary with circumstance.
+我想我们都知道人们 也许是你
+I think we all know people that, maybe it's you,
+你去参加一个聚会 你到达那里
+you go to a party and you get there,
+每个人似乎都在说话
+and everyone seems to be talking
+并度过了一段美好的时光
+and having a really good time,
+而你想知道是否
+and you're wondering whether or not
+你的牙齿里有食物
+you have any food in your teeth
+或者你的脸上是否有东西
+or whether or not there's something on your face
+或者你的头发是否正确
+or whether or not your hair is right
+或者你是否以错误的方式讲了话
+or whether or not you said something the wrong way,
+无论你的脸是否变红
+whether or not you're turning red.
+人们在公开演讲中也会体会到很多
+People also experience this a lot with public speaking.
+这不仅仅是学习如何控制压力水平
+It's not just about learning to clamp your level of stress,
+这也与你对自己的感受有多大关系
+it's also about how much you're exterocepting,
+他们称它有多少让你烦恼
+how much you're out of your head, they call it.
+但是 你对周围的事件有多大的关注
+But how much you're focused on the events around you
+与你内心的事件
+versus the events inside you.
+其实很有趣
+Actually, it's interesting
+当你与非常有能力的运动员交谈时
+when you talk to people who are very effective athletes
+或者他们有非常高的压力 高后果的工作
+or they have very high stress high consequence jobs,
+他们谈论这种摆脱头脑的想法
+they talk about this notion of getting out of your head.
+你只有那么多的注意力资源
+You only have so much attentional resource,
+它可以分为两部分
+and it can be split between two things,
+稍后你会看到的
+you'll see that in a moment.
+它们可以固定在一件事情上
+They can be anchored to one thing.
+它可以完全专注于内部发生的事情
+It can be fully focused on what's going on internally
+或者可以完全专注于外部发生的事情
+or it can be fully focused on what's going on externally.
+如果你想获得高效  效率
+And if you want to be effective in the world,
+“高效”用引号引起来
+effective being in quotes,
+在动态环境中很有用
+it is useful when in very dynamic environments,
+尤其是社交环境
+especially social environments,
+让你的注意力集中在外面
+to have a lot of your attention focused outward
+而不是试图注意
+as opposed to trying to pay attention
+你说的话是否正确
+to whether or not you're saying things correctly
+或你自己声音的嘶哑
+or the tambour of your own voice,
+那或多或少是破坏性的
+that is more or less destructive
+参与社交的能力
+for the ability to engage socially.
+所以这是练习
+So here's the exercise.
+你可以这样做
+You can do this.
+如果你开车 请不要这样做
+Please don't do this if you're driving.
+但是 让我们尝试说明一下
+But let's just try and illustrate
+或允许你
+or allow you
+体验这种自我感知 外部感知的平衡
+to experience this interoceptive, exteroceptive balance,
+以及你可以移动的范围
+and the extent to which you can move
+故意进行套叠和套叠
+interoception and exteroception deliberately.
+如果你现在闭上眼睛
+If you close your eyes right now
+专注于身体任何部位的接触
+and concentrate on the contact of any portion of your body
+说椅子或汽车座椅
+with say the chair or your car seat,
+虽然请再说一次
+although please, again,
+开车时不要这样做
+don't do this while you're driving,
+无论你身在何处
+anywhere that you are,
+即使你只是站起来或在厨房里
+even if you're just standing up or you're in the kitchen,
+你躺在沙发上
+you're laying on the couch,
+并尽力吸引你的注意力
+and trying to bring as much of your attention
+到那个接触点
+to that point of contact as possible.
+然后从那里
+And then from there,
+你将更加深入地转移你的注意力
+you're going to move your attention even more deeply
+说出你肠内发生的事情的感觉
+into say the sensation of what's going on in your gut.
+你吃饱了吗？
+Are you full?
+你是空的吗？
+Are you empty?
+你饿了吗？
+Are you hungry?
+你不是吗
+Are you not?
+你的心脏以什么速度跳动？
+Is your heart beating, at what rate?
+你的呼吸节奏如何？
+What's the cadence of your breathing?
+基本上引起你的关注和关注
+Basically bringing your focus and attention
+覆盖皮肤表面和内在的一切
+to everything at the surface of your skin and inward.
+因此 我将在Huberman Lab播客上做一件罕见的事情
+So I'm going to do a rare thing on the Huberman Lab Podcast.
+我将介绍大约五到八秒钟的静音时间
+I'm going to introduce about five to eight seconds of silence
+为了让你做到这一点
+in order to allow you to do that a little bit.
+现在这是一个练习
+Now this is an exercise
+以后你可以继续
+that you can continue afterward
+如果你想延长执行此操作的时间
+if you want to extend how long you do this.
+但是现在尝试做些什么
+But now try and do something that,
+对于大多数人来说实际上要难一些
+for most people actually is a little bit harder,
+纯粹是为了外在感受
+which is to purely exterocept,
+戴上眼睛或耳朵 或同时戴上
+put your eyes or your ears, or both
+在你眼前空间的任何东西上 一件事
+on anything in your immediate space, one thing.
+我会把那个东西限制在足够小的范围内
+And I would restrict that thing to something small enough
+至少在你的视野中
+that at least in your field of view
+它会占据你视野的20％
+it would occupy 20% of your field of view.
+因此 它不一定是精确的
+So it doesn't have to be a pinpoint
+除非别针正好在你面前
+unless the pin is right in front of you
+而且你将它保持得很近
+and you're holding it real close.
+我会说 看整个房间 在墙上挑选一块面板
+I would say, look across the room, pick a panel on the wall
+或桌子的腿或其他东西
+or a leg of a table or something,
+并尝试带来
+and try and bring
+尽可能多地注意这一点
+as much of your attention to that as possible.
+再说一遍 我将沉默约五秒钟
+And again, I'll take about five seconds of silence
+让你exextcept
+to allow you to exterocept.
+所以你可能发现的是
+So what you probably found is that
+你能够做到这一点
+you were able to do that,
+但是一定程度的互感得以维持
+but that some degree of interoception is maintained.
+很难引起你100％的关注
+It's hard to place 100% of your attention
+在外部的东西上
+on something externally,
+除非它真的很刺激 真的很新颖
+unless it's really exciting, really novel.
+如果你曾经看过一部很棒的电影
+If you've ever watched a really great movie,
+想必你在外在
+presumably you're exterocepting
+比你的感受力还强
+more than you're interoceptive
+直到发生激动人心的事情
+until something exciting happens
+然后你会感觉到一些
+and then you feel something.
+你实际上是在网络共享
+You're actually tethering
+你对外部事物的情感体验
+your emotional experience to something external.
+现在 你也可以动态地执行此操作
+And now you can also do this dynamically.
+你可以决定将重点放在内部和外部
+You can decide to focus internally and externally.
+你可以决定将其拆分为50％ 50％或70/30
+You can decide to split it 50%, 50% or 70/30.
+你可以增强执行此操作的能力
+You can develop a heightened ability to do this.
+这样做的力量
+And the power of doing that
+实际上是当你在环境中时
+is actually that when you are in environments
+你觉得自己在内部过于专注
+where you feel like you're focused too much internally
+并且你希望更集中于外部
+and you'd like to be focused more externally,
+你实际上可以故意这样做
+you can actually do that deliberately.
+但是如你所知 这需要工作
+But as you notice, it takes work,
+它涉及到引起你的注意
+it involves taking your attentional spotlight,
+以及我们所说的你关注的焦点
+and what we call the aperture of your attention,
+然后将光圈缩小到自我
+and narrowing that aperture to either the self
+或外部的东西或将两者分开
+or something externally or splitting the two.
+但是有实践
+And yet there are practices
+那些以
+that have been developed that center on
+运动性内感受和外感受
+moving interoception and exteroception
+从一个比另一个更重
+from one being more heavily weighted than the other,
+向外更集中
+more focused outward
+或更专注于内向
+or more focused inward.
+而且它是动态的
+And it's dynamic.
+以及大脑中的回路
+And the circuits in the brain
+是内部和外部感受的基础
+that underlie intero and exteroception
+尚不完全清楚
+aren't exactly known,
+但它们锚定在大脑区域
+but they are anchored in the areas of the brain
+引起注意的
+that are involved in attention,
+像额眼
+like the frontal eye fields
+和某些方面 当你是第三人称自己时
+and areas that when you third-person yourself,
+当你看到自己在做某事时
+when you can see yourself doing something,
+就像在环境中伸出手一样
+like if you put your hand out in your environment
+你专注于你的手
+and you focus on your hand,
+你知道那是你的手
+you know that that's your hand
+而不是一些随机的对象
+as opposed to some random object.
+涉及到大脑的某些区域
+There are areas of the brain that are involved in that,
+在识别自己的位置
+in recognizing location of self
+相对于身体的其余部分
+relative to the rest of your body.
+这些练习实际上是核心
+These exercises are really what are at the core
+这些情感纽带的发展
+of these development of emotional bonds.
+因为正如我们前面提到的 这四件事
+Because as we mentioned before, these four things,
+凝视 发声 触摸和影响
+the gaze, vocalization, touch and affect,
+这些正在非常动态地发生
+those are happening very dynamically.
+所以 如果有人对你眨眼
+So if somebody winks at you,
+你正在注意他们的眨眼
+you're paying attention to their wink,
+但随后你也会注意到自己的感受
+but then you also notice how you feel.
+然后他们可能会说些什么
+Then they might say something,
+那么你可能会说些什么 这是非常动态的
+then you might say something, this is very dynamic.
+因此 如果它似乎势不可挡
+So if it seems overwhelming
+尝试接受外在感受
+to try and interocept an exterocept
+然后转移平衡
+and then shift the balance,
+你一直都这样做
+you do that all the time.
+你的大脑和神经系统非常擅长这样做
+Your brain and nervous system are fantastic at doing this.
+现在 有些人很难过
+Now, some people have a very hard time
+突破非常强烈的互感模式
+breaking out of a very strongly interoceptive mode.
+有些人很难过
+Some people have a harder time
+打破他们的外在感受方式
+breaking out of their exteroceptive mode.
+这是非常有趣的笔记
+It's very interesting note
+我们有偏见的程度
+the extent to which we have biases
+在我们的感受力或感受力方面
+in how interoceptive or exteroceptive we are.
+记住我们之前提到的三个轴
+Remember those three axes that we talked about earlier,
+你有好有坏的价
+you have valence, good or bad,
+你有机敏 机敏或冷静
+you have alertness, alert or calm,
+并且你有感觉上或感觉上的偏见
+and you have interoceptive or exteroceptive bias.
+这一天会有所不同
+And it's going to differ across the day,
+在整个生命周期中都会有所不同
+it's going to differ across the lifetime.
+肯定会有所不同
+It's certainly going to differ
+根据你从事的是什么
+according to whatever it is that you're engaged in.
+但是在成长初期
+But early in development,
+你从这种观念上的偏见开始
+you start off with this interoceptive bias.
+你开始建立期望 预测
+You are starting to develop expectations, predictions
+关于外部世界将如何运作的信息
+about how the outside world is going to work.
+而你正在尝试找出可靠性
+And you are trying to figure out the reliability
+人们的外部事件
+of outside events in people.
+在可靠的地方
+And where things are reliable,
+当人们可靠时
+when people are reliable,
+我们有能力放弃更多的感知能力
+we are able to give up more of our interoception.
+从字面上相信我们的互感需求
+There's literally trust that our interoceptive needs
+我们的内部需求将得到满足
+our internal needs will be met
+通过他人的纽带和行动
+through bonds and actions of others.
+这开始转向
+This starts to veer toward
+关于忽视和创伤的讨论
+the discussion about neglect and trauma.
+我们将全情投入
+We are going to devote entire episodes,
+大概整整一个月都受到创伤和创伤后应激障碍的困扰
+probably an entire month to trauma and PTSD.
+但是这些都植根于我们现在正在谈论的内容
+But those have roots in what we're talking about now.
+内在化很重要
+And it's important to internalize
+并了解我们现在在谈论什么
+and understand what we're talking about now
+为了从未来的对话中获得最大收益
+in order to get the most out of those future conversations.
+所以 如果这一切看起来像
+So if all of this seems like
+很多信息 而且非常复杂
+a lot of information and very complicated,
+我只是邀请你不时注意
+I just invite you to pay attention from time to time
+你碰巧有多少是在进行内部感知或外部感知
+how much you happen to be interocepting or exterocepting,
+因为情绪和这些情绪的强度
+because emotions and the intensity of those emotions
+会增长或收缩
+will grow or shrink
+取决于我们内在感受的程度
+depending on how much we're interocepting.
+如果我们感到非常难过
+If we are feeling extremely sad,
+有一次外部事件使我们感到难过
+and there is an outside event that made us sad,
+一般来说你会保持平衡
+chances are there's going to be a balance,
+但是那种极端的悲伤 极端的悲伤
+but that the extreme grief, the extreme sadness
+会导致我们大部分都感觉不到
+is going to lead us to mostly interoceptive.
+而当我们感到非常高兴时
+Whereas when we're feeling extremely happy,
+也是一样
+the same is true.
+世界上发生了一件大事
+Something great happens in the world,
+而我们只是会感觉到
+and we're just going to feel it.
+我们大部分的看法
+Most of our perception,
+我们大多数的意识将集中在我们的内部状态上
+most of our awareness is going to be on our internal state.
+所以我们总是被束缚在外面
+So we are always tethered to the outside world
+在某种程度上
+to some degree or another.
+当你还是婴儿的时候 是这样
+That was true when you were an infant,
+青春期时是这样
+and it was true when you were an adolescent,
+作为成年人 也是
+and it's true as an adult.
+所以现在我想暂停一下
+So now I want to just pause,
+只是搁置一下这个讨论
+just shelve the discussion
+先不提内部感受和外部感受
+about interoception, exteroception for a moment.
+我想谈一谈
+And I want to talk about
+如果不是的话 可以说是第二高的是什么
+what is arguably the second most, if not,
+成长中同样重要的方面
+equally important aspect of your development
+与情感有关
+as it relates to emotionality
+与此相关的是我所说的 信任
+and as it relates to this, what I call trust,
+就是这种预测能力
+but this ability to predict
+预测外面的世界
+whether or not things in the outside world
+对于帮助你满足你的感知需求这方面
+are reliable or not reliable
+是可靠的  还是不可靠的
+in terms of their ability
+决定这个能力的重要时期
+to help you meet your interoceptive needs.
+那个时期是青春期
+And that period is puberty.
+所以直到现在 我们一直主要谈论心理学
+So up until now, we've been talking mainly about psychology,
+没有很多生物学 没有很多机制
+not a lot of biology, not a lot of mechanism.
+现在我们要过渡
+And now we're going to transition
+谈论机制
+into talking about mechanism,
+激素 受体等
+hormones, receptors, et cetera.
+青春期绝对是一个生物学事件
+Puberty is a absolute biological event.
+它有一个开始 并且有一个特定的定义
+It has a beginning, and it has a specific definition,
+这是向生殖成熟的过渡
+which is the transition into reproductive maturity.
+因此 荷尔蒙发生了很多变化
+So there are a lot of hormonal changes.
+是的 大脑也有很多变化
+Yes, there are also a lot of brain changes.
+而且大多数人都没有意识到
+And most people don't realize it,
+但首先发生的是脑部变化
+but the brain changes occur first.
+大脑打开激素系统
+The brain turns on the hormone systems
+让青春期发生
+that allow puberty to occur.
+青春期现今
+Puberty is occurring earlier nowadays
+与过去相比  提前了
+than it did in the past.
+我能够找到的当前数字
+The current numbers that I was able to find
+是在女性  女孩中
+is that in females and girls,
+过渡期始于10岁左右
+the transition is starting around age 10,
+而男孩则是12岁左右
+whereas in boys, it's about age 12,
+这将有所不同
+that's going to differ
+有许多不同的因素
+by way of a number of different factors.
+这些是平均值
+Those are averages.
+还取决于你在地球上的哪个地区
+So it depends on where you are in the world,
+取决于各种各样的事情
+depends on all sorts of things.
+青春期的主要诱因之一
+One of the primary triggers for puberty
+实际上是体脂肪
+is actually body fat.
+很有趣
+This is interesting.
+肽激素  瘦素 有人称它为肽
+The peptide hormone, leptin, some people call it a peptide,
+有人称它为荷尔蒙
+some people call it a hormone,
+但它符合两个定义
+but it meets both definitions
+取决于你如何看待 它是由脂肪制成的
+depending on how you look at it, is made by fat.
+瘦素在90年代非常流行
+So leptin had a lot of popularity in the '90s,
+因为它被发现是由脂肪产生的
+because it was discovered as being produced by fat,
+并在动物研究中被发现
+and it was seen in animal studies
+可以促进瘦身
+that it could promote leanness.
+它实际上与大脑沟通
+It actually communicates to the brain
+告知它体内脂肪足够代谢
+that there's enough body fat in order to allow the metabolic factors
+以及告知它需要更多脂肪了
+and processes to occur to liberate more fat.
+这就是为什么人们经常
+This is why people have trouble
+感到“减掉最后五磅”非常困难
+losing that last five pounds.
+这是因为瘦素水平很低
+It's because leptin levels are very low.
+这实际上是基础
+This was actually the basis
+作弊餐  重新多吃东西的基础
+for the whole cheat day, refeed thing,
+这个想法是 如果你一周里的一天吃很多东西
+that the idea was if you eat a lot for one day a week
+在节食的时候
+while dieting hard,
+那就是在向大脑发出信号
+that you can signal to the brain
+告诉它身体有足够的瘦素(继续消耗脂肪吧)
+that there's enough leptin.
+我不知道那是原因
+I don't know if that's the reason
+还是作弊餐这个概念
+or whether or not the cheat days
+给人提供了一些心理上的缓解 可能两者都有
+just provided some psychological relief, probably both.
+但无论如何 瘦素是由体内脂肪制成的
+But in any case, leptin is made by body fat.
+当瘦素足够的时候
+And when there's enough leptin,
+它发出信号触发大脑进入青春期
+it signals the brain to trigger puberty.
+在90年代中期发表了一篇论文
+There was a paper published in the mid '90s
+在《科学》 优秀期刊中
+in the Journal Science, excellent journal,
+表明瘦素可以注射到年轻女性身上
+showing that leptin could be injected into younger females
+还没有进入青春期的女性
+that would not have yet gone into puberty.
+瘦素可以加速青春期的产生
+And you could accelerate the onset of puberty with leptin.
+如此 更多的身体脂肪 青春期就更早了
+So more body fat, the earlier puberty, that's true.
+瘦素也参与其中
+Leptin is also involved
+一般在人体中有各种生长作用
+in various growth effects in the body generally.
+有趣的是 非常肥胖的孩子
+And it's interesting, very obese children
+不一定会提早进入青春期
+don't necessarily undergo puberty earlier.
+有时他们确实关于 但他们确实倾向于更大的骨架
+Sometimes they do, but they do tend to be larger boned.
+他们的骨骼实际上更快地成长
+Their bones actually grow more quickly,
+而且他们的骨密度更高
+and they tend to have higher bone density
+因为瘦素也与骨密度有关
+because leptin is also involved in bone density.
+整个青春期开始
+The whole issue of onset of puberty
+也有一些非常有趣的社会影响
+also has some really interesting social effects.
+我要特别强调
+And I want to really highlight
+这些效应中的大多数 也称为信息素效应
+that most of these effects, also called pheromone effects.
+记住荷尔蒙
+Remember a hormone
+是人体某个部位分泌的物质 会传播
+is a substance secreted from one area of the body, travels,
+并影响身体其他部位的组织和细胞
+and impacts tissues and cells elsewhere in the body.
+信息素是一种化学物质
+A pheromone is a chemical
+由一个物种的一个成员释放
+that's released by one member of a species
+去作用
+that goes and acts on
+并影响该物种的其他成员
+and impacts other members of that species
+甚至其他物种
+or even other species.
+因此 例如 啮齿动物非常擅长
+So for instance, rodents are very good
+感知尿液
+at detecting the urine
+以及大型食肉动物的气味标记
+and the scent markings of large carnivores
+想吃他们的大型肉食动物
+that want to eat them.
+这就是信息素的相互作用
+So that's a pheromone interaction.
+它们是否是人类的信息素效应
+Whether or not they're pheromonal effects in humans
+争议很大
+is very debated.
+不久前我在Instagram上发表了一篇文章
+I did a post on this on Instagram a little while ago
+关于人类所报告的某些信息素的影响
+about some pheromone effects that were reported in humans.
+有几个人来找我
+And I had a couple of people come at me saying,
+“看 它从未真正在人类中展示过
+"Look, it's never really been shown in humans
+就没有一个信息素的犁鼻器 ”
+that there's a pheromonal vomer,"
+所谓的犁鼻器
+what's called the vomeronasal organ.
+有一种叫做雅各布森的器官
+There's something called Jacobson's organ.
+这是基本的
+It's rudimentary.
+有些人有   有些人没有  非常具有争议性
+Some people have it, some people don't, very controversial.
+所以我想指出
+So I want to point out
+人类信息素的作用是有争议的
+that human pheromone effects are controversial.
+虽然我认为有
+Although I think there's, in my opinion,
+他们有足够的证据
+there's ample evidence for them,
+月经周期同步
+synchronization of menstrual cycles.
+许多人报告说
+Many people report,
+不过也有人说另外一些研究
+then people say there's some studies
+表明那不是事实
+that show that it's not true.
+然后有一些数据显示非常令人印象深刻
+Then there've been some data showing very impressive
+女性伴侣的信息素作用
+pheromonal effects of female partners
+能够检测到他们重要的其他人的气味
+being able to detect the odor of their significant others
+在洗了几次的T恤上
+on t-shirts that were washed several times.
+尽管无法问到味道
+So they can't consciously perceive it,
+但她们说这闻起来像他们
+but they say this one smells like them,
+这个闻起来像我的伴侣
+this one smells like my partner.
+确实 这种准确率真的很高  远远超过偶然
+And indeed, the match was way above chance.
+因此 确实有微弱的信息素作用
+So there does seem to be weak pheromonal effects
+至少在我看来 当我查看数据时
+at least in my opinion when I look at the data,
+但是还需要做更多的工作  看更多研究论文
+but much more needs to be done.
+因此 更有趣的信息素效应之一
+So one of the more interesting pheromone effects
+至少在动物模型中会影响青春期
+that impacts puberty, at least in animal models
+就是所谓的"范登堡效应"
+is the so-called Vandenbergh effect, which is,
+如果你是青春期前的女性
+if you take a pre-pubertal female,
+所以是没有性成熟的女性
+so a female that has not undergone sexual maturation,
+然后介绍一位全新的男性
+and you introduce a novel male
+那不是父亲或兄弟 不是表兄弟
+that is not the father or a brother, not a sibling,
+她几乎会立即进入青春期
+she will undergo puberty almost immediately.
+因此 这确实令人震惊
+So this is really striking.
+多年
+For years,
+人们认为这不是在灵长类动物中发生的
+this was thought not to occur in primate species,
+但去年有一篇论文
+but there was a paper published last year
+在《当代生物学》 细胞出版社期刊 一本优秀期刊
+in Current Biology, Cell Press journal, excellent journal,
+显示山魈 一种特殊的灵长类动物
+showing that mandrills, a particular type of primate,
+他们表现出范登堡效应
+they exhibit this Vandenbergh effect.
+还有各种各样的其他信息素效应
+There are also all sorts of other pheromone effects.
+最臭名昭著的一个
+There's the most infamous one
+被称为布鲁斯效应
+is called the Bruce effect,
+把一个新的雄性
+where the introduction of a novel male
+介绍给怀孕的雌性动物  会造成自然流产
+to a pregnant female animal causes spontaneous miscarriage.
+而且这种效果似乎可以防止
+And that effect seems to be protected against
+只要父亲在场
+by the presence of the father.
+这种解释
+This interpretation of this,
+我要特别强调
+and I want to really highlight
+这些是动物研究
+that these are animal studies,
+但是这种效应
+but the way this works
+如果是怀孕的女性
+is that if a pregnant female
+在让她怀孕的男性的陪伴下
+is in the company of the male that impregnated her,
+然后她会受到保护
+then her young are protected
+通过他的气味或他的信息素的存在
+by his scent presence or his pheromone presence.
+但是如果他走了 出现了一个全新的男性
+But if he's gone and a novel male shows up,
+她有一种自然流产的趋势
+there's a tendency for her to spontaneously miscarry,
+从本质上来说 是胎儿的流失
+and essentially for the fetus to be lost.
+现在 这是否发生在人类中
+Now, whether or not this occurs in humans
+仍然很有争议 但是
+is still very controversial, but nonetheless,
+这些信息素的作用存在
+these pheromone effects exist.
+那个叫做布鲁斯效应
+And that one is called the Bruce effect,
+以希尔达·布鲁斯（Hilda Bruce）的名字命名
+named after Hilda Bruce,
+这位科学家发现了它
+who is the scientist that discovered it.
+一个相关的
+The one that's relevant
+青春期的讨论是范登堡效应
+to the puberty discussion is the Vandenbergh effect,
+我在几分钟前提到的
+which I mentioned a few minutes ago,
+是一位新奇的男性出现
+which is a novel male showing up,
+必须是具有性能力的男性
+has to be a sexually competent male,
+所以他必须已经进入青春期
+so he has to have already passed through puberty,
+他的出现  触发了女性青春期的激活
+and his presence triggers activation of puberty
+否则
+in a female that otherwise
+会保持更长时间才进入青春期
+would have remained pre-pubertal for longer.
+同样 这是否在人类中发生还不清楚
+Again, whether or not this happens in humans is unclear.
+好吧 当我们考虑青春期时 我们能确定什么呢？
+Well, what can we be sure about when we think about puberty?
+青春期是由许多不同的因素触发的
+Puberty is triggered by a number of different factors.
+大脑中GABA表达有变化
+There are changes in GABA expression in the brain,
+抑制性递质
+an inhibitory transmitter.
+一种更有趣的分子
+One of the more interesting molecules
+触发所有个体的青春期
+that triggers puberty in all individuals
+是一种叫做kisseptin的东西
+is something called kisspeptin,
+KISSPEPTIN
+亲和素  K-I-S-S-P-E-P-T-I-N,
+Kisspeptin是由大脑制造的
+Kisspeptin is made by the brain.
+它刺激
+And it stimulates
+大量的所有不同激素
+large amounts of all different hormone
+称为GnRH 促性腺激素释放激素  让它释放
+called GnRH, gonadotrophin-releasing hormone to be released.
+促性腺激素释放激素
+Gonadotropin-releasing hormone
+然后导致另一种激素的释放
+then causes the release of another hormone
+称为黄体生成素或LH
+called luteinizing hormone or LH,
+在血液中传播
+which travels in the bloodstream
+并刺激女性的卵巢产生雌激素
+and stimulates the ovaries of females to produce estrogen
+男性的睾丸产生睾丸激素
+and the testes of males to produce testosterone.
+Kisspeptin也具有其他作用
+Kisspeptin has other effects as well.
+但是那些是一些主要的
+But those are some of the main ones
+与青春期有关
+as they relate to puberty.
+这很有趣 因为在这个时候上
+This is interesting, because at this point,
+男性睾丸
+the testes in males
+开始大量生产睾丸激素
+start churning out tons of testosterone
+为了触发
+in order to trigger
+第二性特征的发展
+the development of secondary sexual characteristics,
+体毛和其他所有东西 声音的加深等等
+body hair and all the others, deepening of voice, et cetera.
+在女性中 雌激素还在做其他各种事情
+And in females, estrogen is doing various other things,
+乳房发育等等
+breast development, et cetera.
+通常 在成年人中
+Normally, in an adult,
+已经过青春期的人
+somebody who has passed puberty,
+促性腺激素释放激素大大增加
+a big increase in gonadotropin releasing hormone
+黄体激素最终将被关闭
+and luteinizing hormone would eventually be shut down,
+因为大脑的运作方式
+because the way that the brain works,
+下丘脑和垂体
+the hypothalamus and the pituitary
+实际上是在测量血液中的激素含量
+are actually measuring how much hormone is in the blood.
+如果是睾丸激素或雌激素
+And if testosterone or estrogen
+或其他荷尔蒙过高
+or any other hormone goes too high,
+他们关闭了
+they shut down
+释放诸如促黄体激素之类的东西
+the release of things like luteinizing hormone.
+这称为负反馈回路
+It's called a negative feedback loop.
+基本上就像房子里的恒温器
+Basically is like a thermostat in the house.
+比这还复杂的多
+It's more complicated than that,
+但是一旦血液中的血脂水平过高
+but once levels get too high in the blood stream,
+它关闭
+it shuts down.
+但是kisseptin能够驱动
+But kisspeptin is able to drive
+这些激素的水平很高
+very high levels of these hormones in an ongoing way
+这样青春期就可以开始并可以继续
+so that puberty can commence and can continue.
+顺便说一句 kisseptin现在已经成为
+And incidentally, kisspeptin has now become
+荷尔蒙泛滥
+yet another of the panoply of hormones
+以及运动员服用的多肽和某些混合物
+and peptides and cocktails that athletes take
+为了尝试刺激自然激素的产生
+in order to try and stimulate natural hormone production,
+本质上是为了创造自己的
+essentially to create their own
+内源性提高性能的激素
+performance-enhancing drugs endogenously.
+没有评判什么 但这是事实
+No judgment there, but that's a fact,
+有很多人在用亲肽素
+there's a lot of kisspeptin used.
+我真的不建议任何人这样做
+I truly not suggesting anyone do this,
+但是人们正在购买和注射kisepteptin
+but people are buying and injecting kisspeptin
+出于特定原因 即使是青春期
+for the specific reason that even past puberty
+可以刺激雌激素等物质的大量增加
+can stimulate the large increases in things like estrogen,
+睾丸激素和类似物的大量增加
+large increases in testosterone and things of that sort.
+也有很多心理上的影响
+Has a number of psychological effects too,
+似乎对性欲等有很大的影响
+seems to have big effects on libido, et cetera.
+当然 所有这些事情都会受到反馈循环的影响
+All these things of course are subject to feedback loops,
+因此它们不会无限地增加
+so they don't work indefinitely.
+我要强调的是
+And I'm going to highlight,
+再一次 我不建议任何人这样做
+again, I'm not suggesting anyone do it,
+但我确实想注意那里发生的事情
+but I do like to pay attention to what's out there.
+还有Kisspeptin 因为那是在很久以前才发现的
+And kisspeptin, because it wasn't discovered that long ago
+你不常听到的一件事
+is one of the things that you don't often hear about
+当人们谈论提高表现能力的药物时
+when people talk about performance-enhancing drugs
+或治疗性内分泌学
+or therapeutic endocrinology.
+这些东西也有治疗用途
+These things also have therapeutic uses
+在内分泌环境中
+in the endocrine setting.
+例如 没有青春期的孩子
+So for instance, kids that don't undergo puberty
+或性腺功能减退的孩子或性腺功能减退的成年人
+or kids that are hypogonadal or adults that are hypogonadal,
+他们没有制造足够的激素
+they're not making enough hormone
+除其他事项外 还将使用kisspeptin之类的东西
+will take things like kisspeptin among other things.
+这就是青春期在生物学层面上发生的方式
+So that's how puberty happens at the biological level,
+被瘦素和kisseptin触发
+gets triggered by leptin and kisspeptin.
+然后这个小孩
+And then this young child
+现在在某种程度上是另一种生物
+is now a different creature to to some extent,
+不只是因为
+not just because
+他们开始有生殖能力
+they're reproductively competent, of course,
+但是因为其他方面也有转变
+but because there's a shift
+在这些社会纽带背后的许多事物中
+in a number of the things that underlie these social bonds,
+发生了转变
+there's a market shift
+在许多事情上
+in a number of the things
+让儿童和成人
+that allow children and adults
+参与有关彼此的预测行为
+to engage in predictive behavior about each other.
+青春期的整体性质
+And the whole nature of adolescence and puberty
+是让一个通才的孩子
+is to take a child that was a generalist
+并使其成为专家
+and to make them a specialist.
+这很重要
+And this is very important
+因为它与关于情感的对话有关
+as it relates to the conversation about emotionality.
+但这在脑功能方面很重要
+But it's important in terms of aspects of brain function
+在学习方面
+and in terms of learning
+就我们每一个人而言
+and in terms of who each and every one of us
+之后会变成什么
+will and has become.
+在青少年时期
+In adolescents and in childhood,
+当然 有一些遗传偏向
+sure, there are some genetic biases,
+头发的颜色 眼睛的颜色 身高等等
+hair color, eye color, height, and things like that.
+其中很多已被写进基因组中
+A lot of that's programmed into the genome.
+当然 还有其他我们继承的遗传偏向
+There are other genetic biases too of course, that we inherit.
+但这是青春期
+But it's in adolescents in puberty
+从本质上讲
+that we go from essentially
+本来擅长于很多事情
+being somewhat good at a bunch of things
+或在很多事情上都比较差
+or somewhat poor at a bunch of things,
+开始变得  在某些方面非常擅长
+to be coming very good at a few things
+或者在某些事情上很差
+and very poor at a lot of other things.
+那是因为
+And that's because
+与青春期和神经可塑性的关系
+of the relationship to puberty and neuroplasticity,
+这种改变大脑以响应经验的能力
+this ability to change the brain in response to experience
+开始逐渐减少 以至于我们20多岁时
+is starting to taper off such that by our early 20s,
+可塑性变得很难实现
+it's harder to achieve.
+现在 从通才到专家的过渡
+Now, the transition from generalist to specialist
+是青春期的一个方面
+is one aspect of adolescence and puberty,
+但另一个是形成
+but the other is the formation
+社会和情感纽带
+of social and emotional bonds.
+而且大部分消耗思想的东西
+And most of what consumes the minds
+和青少年的醒来时间
+and waking hours of adolescents
+和青春期的孩子
+and children who have gone through puberty
+并经历青春期
+and going through puberty
+是关于他们与社会结构的关系如何的问题
+is questions about how they relate to social structures,
+他们可以依靠的人
+who they can rely on,
+以及他们如何做出可靠的预测
+and how they can make reliable predictions in the world,
+现在他们有更多的部分
+now that they have more agency
+他们在生理上被改变了
+that they are physically changed.
+实际上 你可以争论
+In fact, you could argue
+青春期是最快的成熟阶段
+that puberty is the fastest rate of maturation
+在整段生命中最快的
+that you'll go through at any point in your life.
+这是你将生命经历中的最大变化
+It's the largest change that you'll go through
+关于“你是谁”
+at any point in your life in terms of who you are,
+因为你的生物学从根本上改变了
+because your biology has fundamentally changed
+在你的大脑和身体器官的水平
+at the level of your brain and your bodily organs,
+你所有的器官  皮肤内的
+all your organs from the skin inward.
+所以我想引用一点研究
+So I want to visit a little bit of the research
+关于一些核心需求
+about some of the core needs that occurred
+发生在青春期
+during puberty and adolescence,
+不只是为了父母
+not just for parents
+或对于可能正处于青春期的人
+or for the people that might be in puberty and adolescence,
+而且还可以使他们知道
+but also so that people can reflect
+当他们接近情感成熟时
+on which of the sort of boxes were checked off for them
+自己究竟选中了哪种类型的盒子(发展类型)
+as they approached emotional maturity.
+所以有一篇很棒的评论文章
+So there's a terrific review article
+发表在《自然》杂志上
+that was published in the journal Nature, which is,
+如果不是最好
+if not the premier,
+那也肯定是科学领域前三名顶级期刊之一
+then certainly among the top three premier journals
+关于青春期的生物学
+about the biology of adolescence and puberty,
+以及一些核心需求
+as well as some of the core needs and demands
+必须满足的
+that have to be met
+才能成功地进行情绪成熟
+for successful emotional maturation during that time.
+我们将提供一个链接
+We will provide a link to that,
+但我只想强调
+but I just want to highlight
+他们放入最终结果的一些事情
+a few of the things that they place in the final table.
+我现在不想直接说出所有结果
+I don't want to go through all the results right now,
+因为如果你愿意 你可以自己去看看
+because you could do that on your own if you like.
+他们主要强调
+They mainly highlight
+神经元和神经回路的许多变化
+a lot of the changes in neurons and neural circuits.
+例如 我只强调一个
+For instance, I'll just highlight one,
+在大脑
+there's a connection
+在大脑中的多巴胺中心
+between the dopamine centers in the brain
+和大脑区域​​之间有一个连接
+and an area of the brain
+涉及情感和分散
+that's involved in emotion and dispersal.
+分散非常有趣
+Dispersal is very interesting.
+你可以在动物和人类中观察到
+What you observe in animals and humans
+是在青春期末
+is that around the end of adolescence
+在向青春期过渡的过程中
+and during the transition to puberty,
+都是因为大脑的变化和激素的变化
+both because of changes in the brain and changes in hormones
+孩子有强烈的欲望
+there's an intense desire on the part of the child
+与亲密照顾人保持越来越远的距离
+to get further and further away from primary caregivers,
+他们不是永久地远离  他们总会回来
+not permanently, they always return,
+类似于一个走开的孩子
+similar to a child that walks off
+然后回头看看一切是否安全
+and then looks back and sees if everything's safe
+然后继续向前走
+and then continues on.
+在青春期
+During adolescence and puberty,
+无论是在动物还是在儿童中
+both in animals and in kids,
+似乎在采取行动上存在偏见
+it almost seems like there's a bias for action,
+和动作
+and the action
+始终远离主要护理者
+is always in a direction away from the primary caregiver.
+现在 我一说完 就可以想像
+Now, as soon as I say that, I can just imagine in my mind
+那边有人说
+that somebody out there saying,
+“没有啊 我的孩子一进入青春期
+"Well, no, my kid as soon as they hit puberty,
+他只是想一直和我们在一起”
+they just want to stay home with us all the time."
+这不是典型的
+That's not typical.
+有这种情况 但这不是典型的
+It happens, but it's not typical.
+通常有一种欲望
+Mostly there's a desire
+开始花更多的时间和朋友在一起
+to start spending more time with friends,
+与同伴在一起的时间更多 与成年人在一起的时间更少
+more time with peers and less time with adults.
+我觉得这非常有趣
+And I find it extremely interesting
+要注意的是 这不仅在人类中是正确的
+to note that that's not just true in humans,
+在其他灵长类动物中也是如此
+that's true in other primate species.
+在啮齿动物中确实如此
+That's true in rodents.
+几乎所有其他哺乳动物物种都是如此
+That's true in almost every other mammalian species.
+所以这些激素中有些物质
+So there's something about these hormones
+不仅让人产生有性生殖能力
+that don't just allow sexual reproduction.
+它们不只是改变大脑
+They don't just change the brain
+身体器官和我们的身体
+and bodily organs and the shape of us,
+它们也使我们偏向分散
+they also bias us towards dispersal,
+开始离开
+getting further and further away
+特别是亲密照顾者
+from primary caregivers in particular.
+因此 青少年的父母或未来的青少年
+So parents of teenagers or future teenagers,
+这不只是正常的
+it is not just normal,
+它是被植入进了人类的生物学
+it is baked in to the biology of humans
+在青少年和青少年时期就是会“分散”
+to disperse around adolescents and in the teen years.
+再说一遍 我只想强调其中的一些
+So again, I just want to highlight a few of these,
+文章所说的内容
+what were listed
+作为干预策略
+as intervention strategies
+促进健康的青春期
+to promote healthy adolescence and puberty.
+这很有趣 因为整篇文章
+It's very interesting because the entire article,
+哎呀  我应该提一下是谁写这篇文章 很抱歉
+I should mention who wrote this article, apologies.
+其中之一是我的一个朋友
+One of them is a friend of mine.
+所以第一作者是罗纳德·达尔
+So the first author is Ronald Dahl,
+不是儿童读物的作者
+not the children's book author, I'm assuming,
+是来自公共卫生学院
+no, from the School of Public Health
+在加州大学伯克利分校
+at University of California, Berkeley
+和尼古拉斯·艾伦  琳达·威尔伯特
+and Nicholas Allen, Linda Wilbert
+还有Anna Balanoff Suliman
+and Anna Balanoff Suliman,
+原谅我最后一个的发音
+forgive me for the pronunciation of the last one.
+我跟威尔伯特博士很熟
+I know Dr. Wilbert quite well.
+她已经完成了分散工作
+She's done the work on dispersal,
+以这项工作而闻名
+is quite well known for that work,
+这是一个非常广泛的评论
+and it's a very extensive review,
+但你可以搜到这篇文章
+but I think you'll find it accessible.
+大脑的许多变化和厚度
+A lot of changes and thickness of the brain
+在不同的阶段等等
+at different stages, et cetera.
+但是我认为大多数人会感兴趣
+But I think most people will be interested
+在现实世界中的意义是什么
+in what that translates to in the real world.
+有趣的是在青春期
+And what's interesting is during puberty,
+越来越多的联系
+there's increased connection,
+所谓的前额叶皮层之间的连通性
+connectivity as we call it between the prefrontal cortex,
+涉及动机和决策
+which is involved in motivation and decision-making,
+能够抑制行动
+being able to suppress action
+为了实现长期目标
+for making long-term goals possible,
+以及多巴胺中心​​和杏仁核
+as well as dopamine centers and the amygdala.
+因此 存在真正的广泛集成和测试
+So there's this really broad integration and testing.
+我认为这是关键要素
+I think this is the key element here,
+测试情绪和奖励回路
+testing of circuits for emotions and reward
+与决策有关
+as they relate to decisions.
+我认为这很有用 因为
+And I think that's useful because
+当你观察青少年的行为时
+when you look at the behavior of adolescents and teens,
+他们正在测试社交互动
+they are testing social interactions,
+他们正在测试与世界的物理互动
+they are testing physical interactions with the world.
+通常 他们会从事不安全的行为
+Oftentimes they're engaging in unsafe behavior.
+我永远不会试图证明这一点
+I would never try and justify that
+与潜在的神经病学
+with the underlying neurology,
+但神经科学指出连通性增强
+but the neuroscience points to increased connectivity
+与情绪有关的大脑区域之间
+between areas of the brain that are related to emotionality
+并能像扁桃体一样进行威胁检测 而且还能获得回报
+and to threat detection like the amygdala, but also reward.
+所以这是进行行为测试的时候
+So it's a time of testing behaviorally
+不同的行为如何导致成功与否
+how different behaviors lead to success or not.
+这就是不同的行为导致恐惧状态或不恐惧状态的方式
+It's how different behaviors lead to fear states or not.
+现在 你当然可以说
+Now, of course you could say that
+在任何发展阶段
+of any stage of development,
+但似乎青春期是一个非常非常高的阶段
+but it seems like puberty is a very, very heightened stage
+在测试意外情况时
+in which testing of contingencies,
+好事或坏事都在发生
+good or bad is taking place.
+当然 它在人体中运作
+And of course it's operating in a body
+现在比婴儿更胜任
+that's now more capable than the infant.
+因此 婴儿可能会因错误而伤害自己
+So an infant can damage themselves through error,
+但他们很难伤害自己
+but it's harder for them to damage themselves
+通过深思熟虑的计划
+through deliberate planning.
+这就是为什么很重要的原因
+That's why it's important of course,
+把家里所有的药都锁起来
+to lock up all the medications in the house,
+确保婴儿不能接近他们
+make sure infants can't get to them,
+但婴儿不太可能
+but it's not likely that the infant
+会去制定一个极具破坏性的计划
+is going to devise an extremely diabolical plan
+进入橱柜获取某种物质
+to get into the cabinet to get a certain substance.
+而一个少年可能会这么做  对吧
+Whereas a teenager might.
+这样你就可以开始组合这些神经科学
+So you can start to map the neurology
+进行一些这样的情感探索
+onto some of this emotional exploration.
+我确实意识到这一集与情感有关
+I do realize that this episode is about emotions.
+青春期是一生中
+Puberty is a time in which
+人或动物的内部状态
+the internal state of the person or the animal
+被采样和测试
+is being sampled and tested against
+不同的外在感受事件
+different exteroceptive events,
+只有现在他们能够
+only now they are able
+更加有条理地计划那些事件
+to guide those events with more agency.
+不再只是照顾者是否
+It's no longer just about whether or not the caregiver
+带给你牛奶或带给你食物
+is bringing you milk or bringing you food.
+现在 当然 父母都会说：
+Now, of course, the parents will all say,
+“是的 但是我要为他们所做的一切买单
+"Yeah, but I'm paying for everything that they're doing.
+我要买车 我要买食物”
+I'm paying for the car and I'm paying for the food."
+啊 是的
+Ah, true.
+但是生物学并不关心来源
+But the biology doesn't care about the source,
+现在孩子或青少年能够
+the child or the adolescent is now able,
+那个少年真的 现在可以采样
+the teen really, is able to now sample
+通过行为产生更多 更多的外部感受性事件
+many, many more exteroceptive events through behavior.
+因此 其中一些建议很有趣
+So some of these recommendations are interesting.
+理论是 动机之一
+The theory is that one of the motivations
+是学会减轻饥荒和营养不良的风险
+is to learn to mitigate the risk of famine and malnutrition.
+随着青少年年龄的增长 他们开始质疑
+As teenagers get older, they start questioning
+不管他们的父母
+whether or not their parents
+青少年曾经以为的父母
+are everything they thought they were,
+他们是否是最好的事情
+whether or not they're the greatest thing that ever was
+或有史以来最糟糕的事情
+or the worst thing that ever was, perhaps.
+包括
+Including whether or not
+他们是否将能够为他们提供资源
+they will be able to provide them resources.
+所以他们测试
+So they test whether or not
+他们是否可以喂饱自己
+they can actually feed themselves,
+他们是否可以养活自己
+whether or not they can support themselves.
+虽然很少
+Although rarely not,
+当然会发生
+certainly it happens,
+但是他们很少能真正照顾好自己
+but rarely are they really taking care of themselves.
+虽然有些青少年被迫照顾自己
+Although some teens are forced to take care of themselves
+当然是因为父母
+of course, because parents
+和其他看护人不在身边
+and other caretakers aren't available.
+针对生物学的建议包括：
+The recommendations that map to the biology include,
+在以后的开学时间里有很大的推动力
+there's been a big push for later start times in schools
+适应他们的昼夜节律变化
+to match their shifts in circadian rhythms
+以及需要长时间睡眠
+and the need for extended sleep.
+我们在睡眠期间谈论的话题
+Something we talked about during the sleep episodes.
+坚持对年轻人进行睡眠干预
+To insist on sleep interventions for youth
+那些面临着精神健康问题的风险增加的年轻人
+who are at increased risk for mental health problems.
+几乎所有的心理健康问题都是
+Almost every mental health issue is supported
+通过获得足够长的正常质量的睡眠
+by getting regular quality sleep of sufficient duration.
+而正常质量的睡眠将因人而异
+Sufficient duration is going to vary from person to person.
+利用各种社会关系
+Leveraging different kinds of social relationships
+加强积极的行为
+that reinforce positive behavior.
+这开始听起来像是样板的东西
+This is starting to sound like kind of a boiler plate stuff.
+然而 真正的目标是在青春期
+And yet, really the goal is during puberty
+鼓励尽可能多的安全互动形式
+to encourage as many safe forms of interaction
+让儿童 青少年 
+that allow children, teens, really and adolescents,
+我一直称他们为孩子
+I keep calling them children,
+但是我的意思是孩子要进入青春期
+but what I mean are children going through puberty,
+让他们测试这种自主权
+that allow them to test this thing of autonomy
+这样他们就可以开始进行良好的评估
+so that they can start to make good assessments
+关于他们选择的外在感受性事件的信息
+about their exteroceptive events that they are selecting
+以及这些因素如何使他们产生内部感觉
+and how those make them feel internally.
+因此 他们本质上是在做“自助餐”
+So they're essentially doing a buffet.
+“自助餐”现已扩大
+The buffet has now broadened
+不仅包括事件和经历
+to not just include the events and experiences
+他们的父母和其他看护人带来他们
+that their parents and other caretakers bring them,
+但是他们现在可以扩展“自助餐”了
+but they can now expand the buffet
+他们可以提供自己的东西
+into things that they can provide themselves.
+青春期
+And so adolescence and puberty
+确实被视为发展时期
+is really seen as the period of development
+其中一个针对这两个元素的自我抽样
+in which one self-samples for these two elements
+我们一开始所谈论的是
+that we talked about at the beginning, which are,
+我如何形成纽带  以及  我如何做出预测
+how do I form bonds and how do I make predictions
+关于什么会让我感觉很好
+about what will make me feel good
+在内在感知水平上
+at a level of interoception.
+其中有些听起来有点官方
+Some of that might sound a little transactional,
+我们正在尝试做的一切
+that all we're trying to do
+弄清楚我们如何与人建立联系
+is figure out how we can bond with people
+这样我们就可以得到我们需要的东西 这样我们就可以感觉到我们需要什么
+so we can get what we need so we can feel how we need.
+我认为在某种程度上是对的
+I think that's true to some extent,
+当然 有更丰富的
+of course, there's a richer,
+关系更抽象的方面是
+more abstract aspect to relationships too, which are,
+在关系中 你可以涉猎
+in relationships you can access
+你以前无法做的事情 你可以合作
+things you couldn't do before, you can cooperate.
+有团队合作之类的东西
+There's things like teamwork.
+你可以做各种各样的事情
+You can do all sorts of things.
+但是就生物学而言
+But in terms of the biology,
+显然 有一个发展阶段
+it's clear that there's this stage of development
+有更多的自主权
+where more autonomy,
+更多的身体能力
+more physical capability
+是由大脑中这些激素的变化触发的
+is triggered by these hormone changes in the brain,
+这些肽会在大脑和身体中发生变化
+and these peptide changes in the brain and body.
+尽管如此
+And that nonetheless
+带我们回到完全相同的模型
+brings us back to the exact same model
+我们从婴儿期开始
+that we started with in infancy,
+保持警觉或镇定 感到好或不好
+of alert or calm, feel good or feel bad,
+主要是外在感受 主要是内在感受
+primarily exterocepting, primarily interocepting.
+所以我继续回到这一点
+So I keep going back to this,
+我有点像重复记录
+I'm sort of like a repeating record on that,
+因为相同的核心算法
+because the same core algorithm,
+在整个生命周期中 相同的核心功能都在发挥作用
+the same core function is at play throughout the lifespan.
+我认为这是一个有用的框架
+And that's a useful framework in my opinion,
+因为它允许你对所有数据进行排序
+because it allows you to sort through all the data
+和处理外部的信息
+and information that's out there about,
+好吧 这个区域是活跃的
+well, this area, the astria terminalis is active
+或基底外侧杏仁核活跃
+or the basal lateral amygdala is active
+或灰质增厚
+or gray matter thickening
+或这种激素或那种激素
+or this hormone or that hormone,
+回到一种内核
+and return to a kind of kernel
+当然不是详尽无遗的真理
+of certainly not exhaustive truth,
+它并没有涵盖情感的所有方面
+it doesn't cover all aspects of emotionality,
+但至少建立了一些基础
+but at least establishes some groundwork
+从中你可以开始评估
+from which you can start to evaluate
+不同的行为可能有意义或不合理
+how different behaviors might or might not make sense,
+某些情绪反应
+how certain emotional responses
+是否有意义
+might or might not make sense,
+不论人或生物的年龄
+regardless of the age of the person or the organism.
+关于情绪的讨论
+A discussion about emotions would not be complete
+要是不谈右脑 左脑  将是不完整的
+without talking about the right brain, left brain stuff.
+这是社会学  心理学和神经科学
+And this is a very interesting aspect of sociology,
+一个非常有趣的方面
+psychology and neuroscience.
+有一种情感发展理论
+There's a theory of emotional development
+我觉得特别有趣
+that I find particularly interesting,
+来自加州大学洛杉矶分校的艾伦·舒尔（Allan Schore）
+which is from Allan Schore at UCLA,
+谈论
+that talks about
+我们大多数对纽带和关系的测试
+how most of our testing of bonds and relationships
+是在非常多巴胺能之间来回摆动吗？
+is this seesawing back and forth between very dopaminergic,
+被多巴胺驱动
+so driven by dopamine
+或5-羟色胺能 由5-羟色胺状态驱动
+or serotonergic, driven by serotonin states.
+这始于婴儿和母亲或婴儿和父亲
+And this starts with infant and mother or infant and father.
+我在上一集中谈到了这一点
+I talked a little bit about this in the previous episode,
+只是提醒你
+but just to remind you,
+或对于那些没有听说过的人
+or for anyone that didn't hear about it,
+在成长过程中
+that during development,
+健康的情绪发展
+healthy emotional development
+显然始于照顾者和孩子的能力
+clearly begins with an ability for the caretaker and child
+保持镇定 和平 舒缓 以触摸为导向
+to be in calm, peaceful, soothing, touch-oriented,
+融入对视的行为类型
+eye gazing type of behaviors.
+那些真正驱动5-羟色胺（内源性阿片系统）的人
+Those really drive serotonin, the endogenous opioid system,
+催产素 情况很平静
+oxytocin, things are very calming
+并以当下 现在为中心
+and are centered around pleasure with the here and now,
+以及接下来要做什么的兴奋状态
+as well as excited states of what we're going to do next.
+实际上有一个特征性的标志
+There's actually a characteristic sign
+多巴胺能相互作用
+of the dopaminergic interaction,
+看护人和孩子都睁大眼睛的地方
+where both caretaker and child are wide-eyed,
+瞳孔扩大
+the pupils dilate.
+这是唤醒的标志
+That's a signature of arousal.
+他们真的很兴奋
+They get really excited.
+通常 如果宝宝真的很兴奋 他会把目光移开
+Oftentimes the baby will look away if it gets really excited
+这些是体内多巴胺释放的标志
+those are signatures of dopamine release in the body,
+在青少年时期 同样的事情会继续
+and in adolescents, these same things carry forward,
+他们的良好纽带
+where their good bonds
+是通过一起出去玩 看电视
+are achieved through hanging around, watching TV,
+玩电子游戏
+playing video games
+或一起发短信或交谈
+or texting together or talking,
+不管是什么
+whatever it is
+令人放松的当地活动恰好是
+that the soothing local activity happens to be,
+以及冒险和令人兴奋的事情
+as well as adventure and things that are exciting,
+所以可能是体育运动 可能是购物
+so it could be sports, it could be shopping,
+这可能是夏天的冒险
+it could be a summer adventure.
+可能是下一件大事
+It could be the next big thing.
+所以这种来回锯切
+And so this kind of seesawing back and forth
+在不同的奖励制度之间似乎是基础
+between the different reward systems seems to be the basis
+从中才能建立健康的情感纽带
+from which healthy emotional bonds are created.
+我邀请任何对此感兴趣的人
+And I invite anyone who's interested in this
+去看一些Schore博士的一些论文
+to look up some of Dr. Schore's work.
+我想我在最后一集里弄错了
+I think I misspoke on the last episode.
+他不是精神科医生
+He's not a psychiatrist,
+他是一名临床心理学家和心理分析师
+he's a clinical psychologist and psychoanalyst,
+但是在神经科学领域有着很深的发展
+but has deep routings in neuroscience.
+因此 我认为这非常棒
+So I think a fascinating aspect.
+但他书中的构架方式
+But the way it's framed in his book
+并用某些语言
+and in some of the language
+围绕右脑 左脑
+around right brain, left brain.
+而且我们之前都听说过这些东西
+And we've all heard this stuff before,
+认为右脑是情感方面
+that the right brain is thought to be the emotional side.
+这是你在那里听到的典型事物
+This is the characteristic thing that you hear out there.
+右脑是整体的
+That the right brain is holistic,
+是充满动力的
+that it's emotive,
+并且左脑是逻辑的 顺序的和分析性的
+and that the left brain is logical, sequential and analytic.
+而那不是Schore的提议
+And that's not what Schore was proposing.
+左右脑是有一些有差异
+There are some right brain, left brain differences.
+但是右脑的想法
+But the idea that the right brain
+是综合的 整体的和情感的
+is synthetic, holistic and emotive,
+那左脑
+and that the left brain
+是逻辑 顺序和分析是错误的
+is logical, sequential and analytic is false.
+对此 神经科学证据为零
+There is zero neuroscience evidence for that whatsoever.
+我们将更详细地解决这个问题
+We're going to address this in more detail
+在一个月内谈论学习
+during a month talking about learning
+记忆力和痴呆症
+and memory and dementia,
+但让我们谈谈一些事实
+but let's talk about some truths,
+左脑和右脑之间确实有的一些差异
+some differences between the left brain and right brain,
+因为如果不这样做
+because we can't have a discussion about emotion
+我们无法讨论情感
+without doing that.
+左脑 至少适用于惯用右手的人
+The left brain, at least for people who are right-handed
+在语言上占主导地位
+is linguistically dominant.
+意义 大部分语言
+Meaning, most of language
+位于大脑左侧
+is centered in the left side of the brain
+对于惯用右手的人
+for right-handed people.
+如果你是左撇子
+If you are a left-hander
+而你被迫成为右撇子
+and you were forced to become right-handed,
+大概率是情况仍然如此
+chances are this is still true,
+因为语言就是在大脑中那个部位
+because of when language gets laid down in the brain.
+对于左撇子
+For left-handers,
+用左手自然写字的人
+people that naturally write with their left hand
+一直都这样
+and always did,
+语言仍然主要位于大脑的左侧
+language is still mostly in the left side of the brain,
+但也经常发现
+but it's also found more often
+在大脑的右侧也有语言
+in the right side of the brain.
+所以它不像我们所说的偏侧化
+So it's not as lateralized as we say,
+这是两者之间的一种分布
+it's kind of distributed between both.
+因此 惯用右手的人
+So right-handers,
+你大部分的语言
+most of your language
+是从大脑的左侧来的
+is coming from the left side of your brain.
+左撇子 可能是
+Left-handers, it's probably
+分布更均匀
+a little bit more evenly distributed.
+还有一些变化
+And there are some variations,
+不管你是右撇子还是左撇子
+whether or not you're a hook righty or a hook lefty,
+有各种各样的细微差别
+there's all sorts of nuance to this,
+但这说的是一般情况
+but that's the general aspect.
+所以语言倾向于居中
+So language tends to be centered
+在大脑的左侧
+in the left side of the brain.
+其中包括词汇 语法 语义
+And that includes lexicon, grammar, syntax,
+所有的 除了一个
+all of it, except for one.
+我们将讨论语言的一个方面
+And we'll talk about one aspect of language
+似乎更像是右脑
+that seems to be more right brain.
+那很有趣
+That's very interesting.
+似乎确实有一些算术上的优势
+There does seem to be some arithmetic advantage.
+因此 数学能力在大脑的左侧
+So ability in math in the left side of the brain.
+我将要谈论
+And I'm going to talk about
+如何发现这些的  马上会讲
+how all this was discovered in a minute.
+而右脑在语言上是原始的
+And the right brain, however, is linguistically primitive.
+大多数人没有意识到这一点
+Most people don't realize this
+因为右脑总是被描述
+because the right brain is always described
+作为情感方面
+as the emotive side,
+这是超级感性的和整体的
+it's super emotional and holistic,
+但实际上在语言上是原始的
+but it's actually linguistically primitive.
+有一种方法
+And there's a way
+通过实验已经弄清楚了
+that that's been teased out through experiment.
+擅长处理空间事物
+It's very good at manipulating spatial things
+和视觉空间任务
+and visual spatial tasks.
+主要是处理这些东西
+It's primarily handling that stuff,
+但是除了一个方面 它是一种非语言
+but it sort of non-language except one aspect.
+而且没有足够的证据证明这一点
+And there isn't a ton of evidence for this,
+但有力的证据 这是韵律
+but the evidence is strong, which is prosody.
+韵律是语言的起伏
+Prosody is the LILting and falling of language.
+因此 意大利就是一个很好的例子
+So a good example would be Italian.
+我不会说意大利语
+I don't speak Italian.
+我只懂一点意大利语
+I only know a little bit of Italian,
+但我知道的大多数意大利人
+but the most of the Italian I know
+我的意大利同事对我说
+is when my Italian colleagues have said to me,
+[意大利语]
+[speaks in foreign language],
+意思是说“你想说什么”
+which means like what are you trying to say,
+“你在说什么？”
+what are you saying?
+我想我说的是对的
+I think I'm getting that right.
+基本上他们是说我不会说意大利语
+Basically they're saying I don't speak Italian,
+没错
+which is true.
+或者他们之中有一个人知道我非常喜欢Costello
+Or because one of them knows I loves Costello very much,
+他们总是说[意大利语]
+they always say [speaks in foreign language],
+意思是巨型 懒惰的狗
+which means big, lazy guy,
+准确地概括了Costello的特色
+which accurately captures Costello.
+所以即使是那几个例子
+So even those few examples,
+[意大利语]
+[speaks in foreign language],
+有很多起伏在
+there's a lot of LILt and fall in Italian,
+其他语言 不是很多
+other languages, not so much.
+而且它因语言而异
+And it varies by language.
+我觉得意大利语如此美丽的原因之一
+One of the reasons I find Italian so beautiful,
+不是我说的意大利语
+not the Italian I speak,
+但是其他人说的意大利语
+but the Italian that other people speak
+太好听了
+so beautiful to listen to
+就是因为那个韵律
+that that prosody
+语调的变化确实非常显着
+and the shifts in intonation are really quite remarkable.
+几乎就像一首歌
+It's almost like a singing song
+听他们说话
+listening to them speak.
+我以前喜欢参加科学会议
+And I used to like to go to scientific meetings.
+而且我总是和意大利人闲逛
+And I always hang out with the Italians,
+因为我在意大利的实验室里有一些好朋友
+'cause I had some good friends in Italian labs,
+而且因为他们总是知道最好的食物在哪里
+but also 'cause they always knew where the best food was,
+他们的美食要求令人难以置信
+their standards for food are incredible.
+他们宁愿饿死也不愿吃可怕的意大利面
+They would rather starve than eat terrible pasta,
+和他们发现的面食
+and the pasta they do find
+他们愿意吃东西总是很棒的
+and that they're willing to eat is always fantastic.
+但是除此之外 他们总是带来了吉他
+But in addition to that, they always brought a guitar.
+他们好玩多了
+They were a lot more fun
+比我很多其他同事
+than a lot of my other colleagues
+在会议上闲逛
+to hang out with at meetings.
+所以无论如何
+So in any event,
+右脑在做事
+the right brain is doing things
+更多关于操纵空间信息
+that are more about manipulating spatial information.
+我将在以后的播客中进一步讨论这一点
+And I'll talk about this more in a future episode.
+这是在裂脑患者中发现的
+This was discovered in split-brain patients,
+在大脑的两侧之间
+the people that lack connection
+缺乏联系的人
+between the two sides of the brain,
+这必须介绍一个
+this had to be teased out
+通过非常复杂的实验
+through very complicated experiments.
+像Roger Sperry这样的人因此获得了诺贝尔奖
+People like Roger Sperry who won a Nobel Prize for this,
+曾在加州理工学院
+who was at Caltech,
+迈克·加扎尼加（Mike Gazzaniga）和其他人
+Mike Gazzaniga and others
+找出这些侧向差异
+figured out these lateralized differences.
+但我们不听这些江湖上流传的东西
+but let's just try and demolish the myth
+什么右脑是综合性的 整体的和情感性的
+that the right side is synthetic and holistic and emotive,
+左脑是逻辑的 顺序的和分析性的
+and that the left side is logical, sequential, and analytic,
+你是左脑人还是右脑人
+that you're a left brain person or a right brain person.
+这跟事实一点都不着边
+Nothing could be further from the truth.
+没有科学证据支持这一点
+There's no scientific evidence to support that.
+还有一些病变研究
+And there's a few lesion studies
+可以控制效果
+that can tease out effects
+那让你认为这就是证据
+that make you think that's what's happening,
+但真正认真的研究
+but the really careful work
+它们的结果指向完全不同的方向
+points in a totally different direction.
+我们无法进行完整的对话
+We can't have a complete conversation
+关于情感 纽带和社会联系
+about emotions and bonds and social connection
+而不去谈谈论催产素
+without talking about oxytocin.
+催产素如此突出
+Oxytocin has come to such prominence
+在过去十年左右的时间里 似乎无处不在
+in the last decade or so, and seems to be everywhere.
+每当你听到讨论时
+Anytime you hear a discussion
+关于大脑中的神经科学或大脑中的激素
+about neuroscience in the brain or hormones in the brain,
+催产素是响应雌性泌乳而释放的
+oxytocin is released in response to lactation in females,
+它是根据性互动而释放的
+it is released in response to sexual interactions.
+它被释放以响应非性接触
+It is released in response to non-sexual touch.
+它在男性和女性中都会释放
+It's released in males and females,
+确实涉及配对绑定
+and indeed it's involved in pair bonding
+以及一般来讲就是建立社会纽带
+and the establishment of social bonds in general.
+它如何做到这一点  似乎是通过匹配内部状态来实现的
+How it does that seems to be by matching internal state.
+好像增加了
+It seems to both increase
+内部状态的同步
+synchrony of internal state somehow,
+也许它设置了一个平静或机敏的水平
+maybe it sets a level of calmness or alertness.
+这似乎是一个合理的假设
+That seems like a reasonable hypothesis,
+以及提高人们的意识
+as well as raising people's awareness
+去感知他们伴侣的情感状态
+for the emotional state of their partner.
+再一次 这给我们
+And again, this brings us
+带回到戒备心轴
+back to this alertness calmness axis
+以及这个感知 感知轴
+and this interoceptive, exteroceptive axis.
+为了形成良好的纽带
+In order to form good bonds,
+我们不能只是在思考我们的感受
+we can't just be thinking about how we feel,
+我们还需要注意别人的感受
+we also need to be paying attention to how others feel,
+我们正在评估是否匹配
+and we're evaluating a match.
+我们正在尝试看看是否
+We're trying to see whether or not
+我们状态之间似乎存在某种同步
+there seems to be some sort of synchrony between states.
+催产素 似乎增加了同步性
+And oxytocin, both seems to increase that synchrony
+同时也提高对他人情绪状态的感知
+and increase awareness for the emotional state of others.
+我知道你们中的许多人
+Now I know many of you
+可能马上反应说  镜像神经元 镜像神经元
+are probably screaming mirror neurons, mirror neurons.
+就像某些人所知 镜子是神经元
+Mirror, neurons, as some of you may know,
+你们当中有些人可能不知道
+and some of you perhaps may not,
+是在动物和人类中发现的神经元
+are neurons that were discovered in animals and humans
+他们有回应
+for their ability to respond
+当人们进行某些身体动作时
+when people engage in certain physical actions
+比如拿起笔一样
+like lifting of a pen,
+但是相同的神经元会做出反应
+but the same neurons would respond
+当有人看着别人抬笔时
+when somebody watched someone else lift a pen.
+所以它们真的是镜子
+So they were really mirrors of,
+代表行为的镜子
+were representing mirrors of behavior,
+自我和他人
+both in self and in others.
+镜像神经元很有争议
+Mirror neurons are very controversial.
+我有许多非常尊重神经科学家
+There are many neuroscientists who I respect a lot,
+他们不认为镜像神经元存在
+who don't think they exist,
+因为他们看数据
+because they look at the data,
+ 至少在他们心中
+and the data, at least in their mind
+在同理心这个现象中被过度解释
+were over interpreted in the realm of empathy
+也在他人的情感状态赋予价值这方面被过度解释
+and in assigning value to the emotional states of others.
+当我看文献时
+And when I look at the literature,
+我的观点是大脑中确实存在神经元
+my opinion is that indeed there are neurons in the brain
+清楚地代表了他人的行为
+that clearly represent the actions of others,
+但是还不清楚
+but it's not clear
+他们是否融入了情感和同理心系统
+that they're wired into the emotion and empathy system
+以任何直接方式
+in any direct way.
+我认为 越来越多的共识是镜像神经元
+And I think the growing consensus is that mirror neurons,
+虽然这个名字很棒 而且很吸引人
+while the name is terrific and it's so catchy,
+并且涵盖了这么多
+and encompasses so much
+你希望它包含的内容
+of what you would love for it to encompass,
+但是数据并不能真正支持这一点
+but that the data don't really support that.
+但这是有争议的 我非常高兴
+But this is controversial, and I'm perfectly happy
+如果有专家
+to get experts on here
+可以与我辩论它
+that could debate it better than I could.
+但是大脑中有神经元
+There are however neurons in the brain
+是我同事发现的
+that were discovered by my colleague,
+斯坦福大学的Keren Haroush
+Keren Haroush at Stanford
+当她在Noam Ziv的实验室工作时
+when she was working in Noam Ziv's Lab,
+这清楚地表明了一个事实  灵长类物种
+that clearly point to the fact that primate species
+在做假设
+are making assumptions
+并试图预测
+and are trying to predict the behavior
+他们物种的其他成员的行为
+of other members of their species.
+这是一个实验
+It's an experiment,
+我没有时间详细介绍
+I don't have time to go into in real detail,
+我们可能应该让Keren来
+we should probably just get Keren on here.
+对于你们中的那些
+For those of you
+熟悉囚犯的困境
+that are familiar with the prisoner's dilemma,
+这确实是合作的典范
+which is really a model of cooperation,
+你可以合作
+you can either cooperate
+或给定互动中的一个成员可以合作
+or one member of a given interaction can cooperate
+而另一个不会
+and the other one won't,
+你们俩都无法合作
+where you can both not cooperate.
+你可以通过多种方式解决此问题
+There are ways in which you can solve this,
+所谓的囚徒困境
+so-called prisoner's dilemma,
+通过查看以前的行为
+by looking at previous behavior
+并预测可能的下一个行为
+and making predictions about the likely next behavior
+另一个人会参与
+that the other individual will engage in.
+而且确实有神经元
+And there do seem to be neurons
+做这些预测或计算的东西
+that are doing these sorts of predictions or computations.
+再次 我将在以后更详细地介绍这一点
+Again, I'll go into this in more detail in the future.
+因此 与其考虑镜像神经元
+So rather than thinking about mirror neurons,
+像神经元换位
+like neurons for empathy,
+我认为比较正确的是
+I think it's more correct
+把这种神经元
+to think about neurons
+想成试图预测他人的行为
+that are trying to predict the behavior of others.
+正如我们所说
+And that's, as we said,
+情绪的核心特征之一
+one of the core features of emotions,
+建立联系
+which are to establish bonds,
+通过这些纽带
+and through those bonds,
+能够预测行为
+to be able to predict behavior.
+因此催产素是这种能力的一个组成部分
+So oxytocin is one component of this ability
+预测他人的行为并指导我们自己的行为
+to predict others' behavior and to guide our own behavior.
+所以这是一些实验
+So here's some experiments
+涉及鼻内催产素的给药
+that involve the administration of intranasal oxytocin.
+我认为你需要处方
+Now I think you need a prescription,
+尽管在某些地方你没有
+although in some places you don't.
+有些人正在服用鼻内催产素
+There are people who are taking intranasal oxytocin
+为了尝试增加社会连接的深度
+in order to try and increase the depth of bonding.
+我不建议你这样做
+And I don't recommend you do that.
+我从来没有尝试过
+I've never tried that.
+不管我释放的什么催产素
+Whatever oxytocin I've released,
+我都没有用鼻内用药
+I've made without an intranasal exogenous application.
+但是报道称
+But what's been reported
+鼻内催产素增进了夫妻之间的积极沟通
+is increased positive communication among couples.
+因此人们在研究中服用了鼻内催产素
+So people have taken intranasal oxytocin in studies.
+这样的研究
+So that study,
+对于你们喜欢的人
+for those of you like,
+发表在《生物精神病学》上
+was published in Biological Psychiatry,
+我的精神病学同事告诉我的是一本好期刊
+which my psychiatry colleagues tell me is a fine journal.
+标题是
+And the title is
+鼻内催产素增加积极沟通
+intranasal oxytocin increases positive communication
+并降低压力激素皮质醇水平
+and reduces the stress hormone cortisol levels
+在夫妻冲突中
+during couple conflict,
+让受试者吵架
+they have them fight,
+或者让他们在有或没有催产素的情况下进行吵架
+or they have them fight with and without oxytocin.
+很有趣
+So interesting.
+非常符合催产素的想法
+Very much in line with the idea that oxytocin
+是“信任激素”
+is the "trust hormone."
+这有点符合
+That's sort of in keeping with that.
+那是2009年的论文
+That was a 2009 paper.
+例如 还有其他证据
+There's other evidence, for instance,
+男人表现出更大的联系感和亲密感
+that men report a greater sense of connection and intimacy
+和他们的伴侣在性爱中
+with their partners during sex
+服用鼻内催产素后
+after taking intranasal oxytocin.
+有针对自闭症儿童的研究
+There are studies in autistic children.
+给他们鼻内催产素作为一种方法
+Giving them intranasal oxytocin as a way
+尝试帮助他们建立更好的社交关系
+to try and help them establish better social connection
+和“同理心”或心理理论
+and "empathy" or theory of mind.
+我以前讲过心理理论
+I've talked about theory of mind before,
+在了解其他孩子
+were understanding of what other children
+和成年人正在经历
+and adults are experiencing.
+催产素似乎确实会产生这些一般影响
+Oxytocin does seem to create these general effects,
+以及他们在一种情况或另一种情况下的细微差别
+and how nuanced they are in one situation or another,
+我不知道
+I don't know.
+我知道 有人告诉我
+I'm aware and I was told,
+我绝对不建议这样做
+and I'm definitely not recommending this,
+有一种催产素氯胺酮鼻喷雾剂
+that there's a marketed oxytocin ketamine nasal spray.
+现在我不知道了
+Now I have no idea.
+也许有人可以发表评论
+Maybe someone can put in the comments
+为什么要结合催产素和氯胺酮
+why you'd want to combine oxytocin and ketamine.
+我无法想象为什么
+I can't imagine why.
+氯胺酮是一种解离麻醉药
+Ketamine is a dissociative anesthetic
+用于治疗PTSD
+that's used for the treatment of PTSD.
+它曾经被用作休闲药
+It used to be used as a recreational drug.
+它与PCP非常相似 实际上似乎很危险
+It's very similar to PCP, seems quite dangerous in fact.
+我不知道为什么要将这两种物质结合在一起
+I don't know why those two things would be combined,
+为什么要合并它们
+why one would want to combine them.
+但是确实有产品
+But there are products out there
+似乎结合了这两种物质
+that seem to combine those two things.
+我不确定为什么会那样做
+And I'm not certain why one would do that,
+但有趣的是 它被生产出来了
+but it's interesting to note that it's happening.
+关于催产素的一项特别有趣的研究是
+A particularly interesting study about oxytocin is that,
+发表在《神经科学》杂志上
+that was published in the journal, Neuroscience,
+这是一本好期刊
+which is a good journal,
+催产素调节
+that oxytocin modulates
+男女之间的社会距离
+social distance between males and females.
+这很有趣
+So that's interesting.
+他们所做的是他们给了催产素
+What they did is they gave oxytocin
+给一夫一妻制的人
+to people that were in monogamous relationships,
+然后他们评估了
+and then they evaluated the extent to which the,
+在这种情况下
+in this case,
+在那些关系中的男性
+the males in those relationships
+会注意视觉上的注意
+would pay attention to visual attention
+吸引其他潜在的合作伙伴
+to attractive other potential partners.
+好像
+And it seemed like
+从这项研究中得出的一般结论
+that the general takeaway from this study
+是催产素管理
+is that oxytocin administration
+似乎促进了一夫一妻制的行为
+seemed to promote monogamous behavior.
+所以行为不合时宜
+So behavior that wasn't in line
+一夫一妻制
+with monogamy of the relationship that they were in
+而不是为可能的新伴侣觅食
+as opposed to a foraging for potentially new mates.
+当然 这些现在都是人工实验
+Now of course, these are somewhat artificial experiments
+或非常人工的实验
+or very artificial experiments,
+取决于你如何解释它们
+depending on how you interpret them.
+但是总的主题
+But the general theme
+催产素促进一夫一妻制
+is that oxytocin is promoting monogamy,
+促进配对
+it's promoting pair bonding,
+它正在促进
+it's promoting
+了解他人的内部状态
+a understanding of the internal state of others,
+这需要增强的外在感受力
+which requires enhanced exteroception
+对于那些特定的其他人
+for those particular others.
+因此 不只是让它们到处都是
+So not just generally having them look everywhere
+看看世界上正在发生什么
+and see what's going on in the world,
+但要特别注意
+but particularly paying attention
+到别人的情绪状态
+to the emotional states of others.
+我敢肯定你们中的几个人会问
+I'm sure several of you will be asking,
+“好吧 我该怎么做才能增加催产素”
+"Well, what can I do to increase oxytocin,"
+如果那是你的目标
+if that's your goal.
+有一些证据
+There's some evidence.
+我再次邀请你
+And I invite you again
+前往inspect.com或其他类似PubMed的网站
+to go to examine.com or another such site like PubMed
+如果你想看PubMed
+if you want to forage PubMed,
+维生素D是正常生产所必需的
+that vitamin D is required for proper production,
+在某些情况下
+and in some cases
+补充时会增加催产素的水平
+can increase levels of oxytocin when supplemented,
+这很有趣
+which is interesting.
+不管你相信与否 褪黑激素
+And that believe it or not, melatonin,
+或老朋友褪黑激素
+or old friend melatonin,
+我一直反对将其作为睡眠的补充
+which I have pushed back against as a supplement for sleep,
+因为我的看法
+because of what I view
+由于褪黑素在大多数情况下具有不良的副作用
+as untoward side effects of melatonin in most cases,
+但在某些情况下似乎是褪黑激素
+but it seems like melatonin in some cases
+可以启动系统
+can prime the system
+催产素释放略有增加
+for slightly increased oxytocin release.
+甚至有一份报告
+There's even one report,
+虽然对我来说看起来并不那么强大
+although it didn't look that strong to me
+低剂量的咖啡因可能会增加催产素的释放
+that low doses of caffeine could increase oxytocin release.
+但这对我来说属于
+But that to me falls under the category
+曾经描述过的
+of what was once described
+当注入人或动物时作为药物
+as a drug when injected into a person or animal
+在生产科学论文方面总是很有效的
+is always effective at producing a scientific paper.
+意味着你可以得到结果
+Meaning that you can get a result,
+但是结果并不总是那么稳健
+but the result isn't always so robust.
+因此 你始终希望阅读过去的标题和摘要
+So you always want to read past the titles and the abstracts
+并查阅相关论文
+and get into the meat of the paper.
+当我这样做的时候
+And when I did that,
+效果几乎可以忽略不计
+the effects were pretty negligible
+与咖啡因催产素
+with caffeine on oxytocin.
+但有趣的是维生素D和褪黑激素
+But it's interesting that vitamin D and melatonin
+可能对催产素的释放有积极作用
+may have some positive effects on oxytocin release.
+但是就像我说的
+But like I said,
+很多人都在服用催产素
+many people are just taking oxytocin
+直接通过这些鼻内喷雾剂
+directly through these intranasal sprays.
+我很确定在大多数地方都是处方药 但是请检查一下
+I'm pretty sure it's prescription in most places, but check.
+再说一次 我不建议任何人这样做
+And again, I'm not recommending anybody do that.
+我从来没有尝试过
+I've never tried it.
+我不知道会怎样
+I don't know that I will.
+我想我会坚持使用自产的催产素
+I think I'm going to stick with the oxytocin that I've got.
+我们身体产生的另一个分子
+The other molecule that we make
+这对于社会纽带和情感尤为重要
+that's extremely important for social bonds and emotionality
+是我们将要谈论的更多
+is one that we're going to talk about more
+在激素的一个月中 那是加压素
+in the month on hormones, that's vasopressin.
+加压素抑制排尿
+Vasopressin suppresses urination.
+是身体做的
+It's made by the body,
+但它被开发为一种治疗
+but it was developed as a treatment
+为了尿崩症
+for something called diabetes insipidus,
+也就是患者小便过度
+where people urinate excessively,
+他们实际上有脱水的风险
+and they actually risk dehydration
+而且他们会损失很多电解质 等等
+and they can lose a lot of electrolytes, et cetera.
+因此 它会导致水分滞留
+So it causes water retention.
+饮酒会抑制血管加压素
+Alcohol consumption inhibits vasopressin.
+这么多酒
+So large amounts of alcohol,
+很多人排泄 很多液体等等
+many people excrete, a lot of fluid and so forth.
+加压素直接对大脑有影响
+Vasopressin has effects on the brain directly.
+它实际上会产生轻快的爱的感觉
+It actually creates feelings of giddy love.
+它还以非常有效的方式增强记忆
+It also increases memory in very potent ways.
+有一个完整的生物黑客社区
+There's a whole biohacking community
+一直困扰着血管加压素
+that has been dabbling with vasopressin for some time.
+我从来没有尝试过
+I have never tried it.
+我当然不推荐
+I certainly don't recommend it.
+这是处方药
+It is prescription.
+这是一个药效很大的处方  
+It is a pretty serious compound to start messing with,
+因为它在体内有很多不同的作用
+because it has so many different effects in the body.
+之所以有趣 是因为它创造了一种轻快的爱感
+It's interesting because it creates the sense of giddy love.
+它也被用作壮阳药
+It's also used somewhat as an aphrodisiac,
+所以它类似于催产素
+so it's similar to oxytocin.
+它也有非常有趣的效果
+It also has very interesting effects
+一夫一妻或非一夫一妻的行为
+on monogamous or non-monogamous behavior.
+同样 我们将在将来再次进行讨论
+This, again, we will revisit in the future.
+但是有一系列漂亮的实验
+But there's a beautiful set of experiments
+在一个小的啮齿动物物种中完成的
+that have been done in a little rodent species
+叫做草原田鼠
+called a prairie vole.
+原来
+It turns out
+草原田鼠有两种不同的种群
+there are two different populations of prairie voles,
+有些是一夫一妻制
+some are monogamous,
+他们总是和相同的草原田鼠对象见面
+they always meet with the same other prairie vole,
+还有一些非常坚决地非一夫一妻制
+and some are very robustly non-monogamous,
+他们会尽可能多地与其他草原田鼠交配
+they mate with as many other prairie voles as they can.
+并证明了加压素的水平
+And turns out that levels of vasopressin
+和/或加压素受体
+and/or vasopressin receptor
+决定他们是否一夫一妻制
+dictate whether or not they're monogamous or not.
+实际上 在人类中有一些有趣的证据
+And there's actually some interesting evidence in humans.
+当人们报告自己的行为时
+When people report their behavior,
+假设他们的报告准确无误
+assuming they're reporting accurately,
+加压素和加压素的水平
+that vasopressin and vasopressin levels
+可能与一夫一妻制有关
+can relate to monogamy
+或非一夫一妻制
+or non-monogamy in humans as well.
+我们将在本月有关激素的话题上进行讨论
+We're going to talk about this in the month on hormones.
+如果我们在谈论情绪的神经科学
+If we're talking about the neuroscience of emotions,
+我们必须谈论迷走神经
+we have to talk about the vagus nerve.
+我在之前的一期中讲了迷走神经
+I described what the vagus nerve is in a previous episode,
+这些就是这些
+that it's these connections
+在身体和内脏之间的联系
+between the body and the viscera,
+包括肠 心脏 肺
+including the gut, the heart, the lungs
+以及免疫系统和大脑
+and the immune system and the brain,
+而且大脑也在控制这些器官
+and that the brain is also controlling these organs.
+所以这是一条双向路
+So it's a two-way street.
+我之前提到过一个很大的错误信息
+There's this big myth out there that I mentioned before,
+以各种方式刺激迷走神经
+that stimulating the vagus in various ways
+导致平静
+leads to calmness.
+它总是会让你平静下来的
+That it's always going to calm you down.
+那是错误的
+And that is false.
+我只想重复一遍 那是完全错误的
+I just want to repeat that is completely false.
+实际上 这里有篇论文 是另一篇论文
+In fact, it was just paper, yet another paper
+前几天发表
+published the other day,
+很棒 这是大卫·麦考密克实验室（David McCormick Lab）的作品
+which is fantastic, which is from David McCormick Lab
+在俄勒冈大学
+up at the University of Oregon.
+它发表在《当代生物学》 优秀期刊
+It's published in Current Biology, excellent journal,
+表明 我读一下标题
+showing, I'm just reading the title,
+迷走神经刺激可引起广泛的皮质
+vagus nerve stimulation induces widespread cortical,
+神经皮层和行为激活
+the neocortex and behavioral activation.
+我读了这篇论文 太棒了
+I've read the paper, it's fantastic.
+它再次说明了
+It illustrates yet again,
+迷走神经的刺激增加了多巴胺的释放
+stimulation of the vagus increases dopamine release,
+增加大脑机敏性的激活
+increases activation of the brain alertness.
+这是机敏的刺激物
+It is a stimulant of alertness,
+它并没有使人们平静下来
+it is not calming people down.
+鉴于情感 这很有趣
+Now this is interesting in light of emotionality
+由于许多小组已经完成了工作
+because of work that's been done by many groups,
+但特别是
+but in particular,
+我将专注于我的一位同事的工作
+I'm going to focus on the work of a colleague of mine,
+斯坦福大学的精神病学家卡尔·戴瑟罗（Karl Deisseroth）
+Karl Deisseroth at Stanford, who's a psychiatrist,
+但也开发了很多工具
+but has also developed a lot of tools
+实时调整神经元的活动
+to adjust the activity of neurons in real time
+使用光和电刺激等等
+using light and electrical stimulation and so forth.
+我请你参考《纽约客》上的一篇文章
+I'll refer you to an article in the New Yorker
+这是几年前发表的
+that was published about this a few years ago
+我将阅读一个简短的摘录
+I'm going to read a brief excerpt.
+我也将链接放在标题中
+I'll put the link in the caption as well.
+他正在和一个极度自杀的抑郁症患者交谈
+He's talking to an extremely suicidal depressed patient
+患者身上植入了小型设备
+who has a small device implanted
+这可以让她调整迷走神经的活动
+that allows her to adjust her vagus nerve activity.
+那么迷走神经刺激
+Now vagus stimulation
+最初开发用于治疗癫痫病
+was originally developed for the treatment of epilepsy.
+现在 它被用于其他各种目的
+It's now being used for various other purposes.
+似乎迷走神经刺激甚至可以增加可塑性
+Vagus stimulation can even increase plasticity, it seems.
+再次 迷走神经活动增加
+So again, increasing activity of the vagus
+提高警觉性
+increases alertness,
+实时查看发生的事情真是令人难以置信
+and it's just incredible to see what happens in real time
+迷走神经受到刺激时会产生情绪激动
+to emotionality when the vagus is stimulated,
+再次 不是平静下来 而是提高警觉性
+again, not calming, but activating alertness.
+他们在他的办公室里 他们在说话
+They're in his office and they're talking,
+他问她最近怎么样
+and he asks her how she's doing,
+她描述了她以前所做的事情
+and she describes how she's been doing previously
+称其为“摊饼”
+as "going pancake,"
+意思是这个人就瘫着
+which for her just means totally laid out flat,
+什么都不做
+not much going on.
+她谈到  自己不想去工作
+She talks about how she doesn't want to pursue a job.
+真的很沮丧
+She's really depressed.
+他说 以典型的好精神病医生的方式
+And he says in typical good psychiatrist fashion,
+“好吧 确实有太多事情要考虑了”
+"Well, that's a lot to think about,"
+这是他说的
+that's actually the quote.
+他们谈论她的血压等等
+And they talk about her blood pressure, et cetera.
+然后她说
+And then she says,
+情绪一直在下降 螺旋下降
+mood's been down, just spiraling down,
+失眠 噩梦 食欲不振
+talks about insomnia, bad dreams, low appetite.
+因此 这是严重的抑郁症
+So this is severe depression.
+这就是我们所说的严重抑郁
+This is what we call major depression.
+然后她要求
+And then she requests,
+“迷走神经刺激能提高到1.5吗？”
+"Can we please go up to 1.5 on vagus stimulation?"
+她一直在接受1.2毫安的电流
+She'd been receiving 1.2 milli amps
+每五分钟到30秒刺激一次
+of stimulation every five minutes to 30 seconds
+但不再能感觉到这种作用
+but was no longer able to feel the effects.
+所以他说
+So he says,
+“好吧 我认为我们可以稍微提高一点
+"Okay, I think we can go up a little,
+你对事情的容忍度很好”
+you're tolerating things well."
+他们开始刺激
+They start the stimulation and,
+“在接下来的几分钟内 萨莉...”她的名字叫萨莉
+"In the course of the next few minutes," her name was Sally,
+“经历了重大改变 她的眉头消失了
+"underwent a remarkable change, her frown disappeared.
+她变得开朗
+She became cheerful,
+开始描述她曾经拥有的快乐
+describing the pleasure she'd had
+在圣诞节假期
+during the Christmas holiday
+并讲述她最近的情况
+and recounting how she'd recently
+观看了一些Deisseroth的YouTube视频
+watched some YouTube videos of Deisseroth.
+会议结束时她仍在微笑和交谈
+She was still smiling and talking when the session ended,
+他们走到接待区”
+and they walked out to the reception area."
+因此 这仅仅是通过刺激和激活迷走神经
+So this is just by stimulating and activating the vagus.
+现在为什么要提起这个？
+Now why am I bringing this up?
+好吧 由于多种原因 一个是迷走神经真的很神奇
+Well, for several reasons, one is the vagus is fascinating
+就大脑与身体的联系而言
+in terms of the brain body connection,
+二 我想消除错误信息
+two, I'd like to, trying to dispel the myth
+迷走神经的刺激只在于保持镇定
+that vagus stimulation is all about being calm,
+其实是提高警惕
+it's really about being alert.
+我不知道原来是怎么倒退的
+I don't know how that originally got going backwards,
+但这是要保持警惕
+but it's about being alert.
+再一次 保持警惕或保持冷静
+And once again, level of alertness or level of calmness
+在影响情感
+is impacting emotion,
+这个警觉和平静的轴心
+that this axis of alertness and calmness
+是情感的主轴
+is one primary axis in emotion.
+不是唯一的一个
+It's not the only one,
+因为也有好或坏的价数部分
+because there's also this valence component of good or bad.
+那不是唯一的两个
+Those two aren't the only ones,
+因为也有这个成分
+because there's also this component
+内部感受性的 外部感受性的
+of interoceptive, exteroceptive
+我们之前讨论过的
+that we talked about earlier.
+而且还会有其他因素
+And there will be others too.
+再说一次 它并不详尽
+Again, it's not exhaustive.
+但是我觉得很有趣
+But I find it fascinating,
+确实使我们回到了起点
+and it really brings us back to where we started,
+这是情感的核心要素
+which is what are the core elements of emotion,
+那你该怎么办？
+and what can you do about them?
+在今天关闭之前 我只想确保
+And before we close up today, I just want to make sure that
+即使我提到了一些工具
+even though I've mentioned some tools,
+我谈到了情绪应用
+I talked about the Mood Meter app,
+我谈到催产素
+I talked about oxytocin
+还有一些影响催产素的东西
+and some of the things that impact oxytocin,
+我谈到了一些方法
+I talked about some of the ways
+你可以概念化情绪
+that you can conceptualize emotions.
+你如何概念化情绪的这项能力
+This business of how you conceptualize emotions
+确实是你所拥有的最强大的工具
+is really the most powerful tool you can ever have
+在理解
+in terms of understanding
+并调节你的情绪状态上
+and regulating your emotional state.
+如果你愿意尝试整理好脑袋里的思绪
+If you're willing to try and wrap your head around it,
+我意识到这不是最简单的事情
+I realize it's not the simplest thing to do.
+但是 与其将情绪仅仅视为这些标签
+But rather than think of emotions as just these labels,
+快乐 悲伤或沮丧
+happy, sad, or depressed,
+想着情绪
+thinking about emotions, excuse me,
+作为大脑和身体的元素
+as elements of the brain and body
+包括警惕性水平
+that encompass levels of alertness
+包括与外界互动的动态
+that include a dynamic with the outside world
+和你对内部状态的感知
+and your perception of your internal state.
+并开始以结构化的方式
+And starting to really think about emotions
+去考虑情绪
+in a structured way
+不仅让你了解
+cannot only allow you to understand
+一些病理
+some of the pathology
+你何时可能会感到沮丧或焦虑
+of when you might feel depressed or anxious
+或其他人感到沮丧和焦虑
+or others are depressed and anxious,
+而且可以发展
+but also to develop
+对任何事物都有更丰富的情感体验
+a richer emotional experience to anything.
+当然 现在我不希望
+Now of course, I don't expect that
+当你在外面与朋友互动时
+as you're out there interacting with friends
+并且你正在看电视并体验生活
+and you're watching TV and experiencing life,
+你应该解析你的每一点经验
+that you should be parsing every bit of your experience
+以某种简化主义和机械化的方式
+in some sort of reductionist and mechanistic way.
+这不是这里的目标
+That's not the goal here.
+但是对于你们当中的从业者
+But for those of you that are practitioners,
+任何的老师
+teachers of any kind,
+对于孩子
+for those of you that are kids,
+对于那些想要了解
+for those of you that are trying to understand
+你的情感生活和意识如何的人
+what your emotional life and your consciousness,
+哈我居然说了这个词
+dare I say the word,
+真的包括
+really consists of,
+我相信这些是基本要素
+I do believe that these are fundamental elements
+得到科学的大力支持
+that are well-supported by the science
+跨各种研究人员
+across a variety of researchers
+从各种不同的角度做事
+doing things from a variety of different perspectives
+有些人彼此同意
+and some of whom agree with one another
+而有些人则没有
+and some of whom don't.
+因此 我将其作为知识的来源提供给你
+So I offer it to you as a source of knowledge
+从那里你可以开始
+from which you can start
+我希望以不同的方式思考你的情感生活
+to think about your emotional life differently, I hope,
+以及其他
+as well as others
+以一种使体验丰富的方式
+in a way that builds more richness into that experience,
+但这并不损害它
+not that detracts from it.
+与之相关的最后一点
+One last point as it relates to that,
+你们中的许多人问我关于迷幻疗法的问题
+many of you have asked me about psychedelic therapies
+现在出现了诸如psilocybin和MDMA之类的东西
+that are now emerging, things like psilocybin and MDMA,
+我们当然是
+we are of course
+将深入探讨该主题
+going to dive into that topic deeply.
+我们邀请了一位专家来讨论这个话题
+We have an expert guest coming on to discuss that topic.
+这些化合物显然会影响情绪方面
+Those compounds clearly affect the aspects of emotionality
+我们今天讨论的就是这些
+that we were talking about today,
+冷静 机敏 效价 好坏
+calmness, alertness, valence, good or bad,
+内部感受性 外部感受性  定位
+interoceptive, exteroceptive positioning.
+因此 不只是进行粗略的探索
+And so rather than just do a kind of cursory exploration
+这些化合物中
+of those compounds
+以及什么是治疗和科学界
+and what the therapeutic and scientific community
+正在考虑它们及其功能
+is thinking about them and how they function,
+我认为这更重要
+I think it's more important
+将该框架嵌入我们的思想中
+to embed that framework in our thinking
+这样当我们处理迷幻药时
+so that when we address psychedelics
+我们还处理其他种类的疗法
+and we address other sorts of therapies,
+认知行为疗法
+cognitive behavioral therapy,
+不同类型的情感疗法
+different types of emotive therapies
+与个人 夫妇等有关的
+that relate to individuals and couples et cetera,
+我们能够考虑他们
+that we are able to think about them
+具有某种结构和严谨性
+with some sort of structure and rigor
+而不是仅仅把它们当作一堆化学药品来谈论
+rather than just talk about them as a bunch of chemicals
+产生这些惊人的经历
+that produce these amazing experiences
+人们需要告诉你的
+that people need to tell you about.
+因为如果有一个真相
+Because if there's one truth,
+似乎迷幻似乎促进了
+it seems that psychedelic seem to promote activity
+关于迷幻体验的故事讲述的活动
+of storytelling about psychedelic experience.
+但这本身并不是治疗社区真正需要的
+But that itself is not really what the therapeutic community
+也不是学术界感兴趣的
+and the academic communities are interested in,
+他们有兴趣尝试了解
+they're interested in trying to understand
+普遍真理
+the universal truths,
+普遍的生物学转变和心理转变
+the universal biological shifts and psychological shifts
+这些化合物的临床使用中会发生这种情况
+that occur in the clinical use of those compounds.
+因此 我们暂时暂不考虑
+And so we're going to hold off for now,
+但我们会谈到这些点的
+but we will get to them.
+再一次 我们涵盖了
+Once again, we've covered
+大量的材料
+an enormous amount of material today.
+真的等于两个
+It's really the equivalent of two
+甚至是三场大学课堂的内容   涵盖在一集播客中
+if not three university lectures in one podcast episode.
+我要感谢那些支持播客的人
+I want to thank those of you that have supported the podcast
+并指出其中的方式
+and point to ways in which
+你们所有人都可以支持播客
+all of you can support the podcast.
+其中许多都是免费的
+Many of these are cost-free.
+首先是请在YouTube上订阅
+The first is to please subscribe on YouTube
+并点击通知按钮
+and as well to hit the notifications button
+这样 当我们发布新视频时
+so that when we release new videos,
+通常是每个星期一
+which typically is every Monday
+对于完整的情节
+for the full length episodes,
+同时我们也发布短片
+but we also know how short clips,
+将会通知你
+that you'll be notified.
+同样 如果你可以在Apple和Spotify上订阅
+As well if you could subscribe on Apple and Spotify,
+在苹果上给我们留下评论
+and leave us a review on Apple.
+你有机会给我们留下五星级的评价
+You have the opportunity to leave us a five-star review
+如果你认为我们值得五星级的评论
+if you think we deserve a five-star review.
+请告诉你的朋友 家人和同事
+Please tell your friends and family and co-workers
+关于播客
+about the podcast
+如果你认为材料
+if you think the material
+对他们来说会很有趣并且很有帮助
+would be of interest and informative for them,
+如果你想向他们发送链接 那也很棒
+and if you want to send them links, that's terrific too.
+我们也有一个Patreon帐户
+We also have a Patreon account.
+是patreon.com/andrewhuberman
+It's patreon.com/andrewhuberman.
+在这里 你可以在任何需要的水平上为我们提供支持
+And there you can support us at any level that you like.
+此外 如果你可以查看我们的赞助商
+In addition, if you could check out our sponsors,
+我们总是在字幕中提供指向那些赞助商的链接
+we always provide links to those sponsors in the captions.
+这是支持播客的最佳方法
+That's the best way to support the podcast.
+你们中的一些人询问了补品
+And several of you have asked about supplements.
+我谈论各种情节中的补品
+I talk about supplements in various episodes.
+我们与索恩（Thorne）合作
+We've partnered with Thorne
+因为我们认为索恩
+because we think Thorne
+严格程度最高
+has the very highest levels of stringency
+就原料的纯度而言
+in terms of the purity of the contents
+和原料的量
+and the amounts of the contents.
+他们真的把瓶子上列出的东西放进了瓶子
+They really put in the bottle what's listed on the bottle,
+对于许多补品公司而言 情况并非如此
+which is not true for a lot of supplement companies.
+如果你想看看我服用的补品
+If you want to see the supplements that I take,
+并获得折扣
+as well as get a discount on those
+或索恩（Thorne）制造的任何其他补品
+or any of the other supplements that Thorne makes,
+你可以访问thorne.com/u/huberman
+you can go to thorne.com/u/huberman,
+你可以从任何这些补品中获得20％的折扣
+and you can get 20% off any of those supplements
+或索恩（Thorne）制造的任何其他补品
+or any of the other supplements that Thorne makes.
+那就是Thorne.com/u/huberman
+So that's Thorne, T-H-O-R-N-E dotcom slash the letter U
+可获得Thorne生产的任何补品20％的折扣
+to get 20% off any supplements that Thorne makes.
+最后但同样重要的是
+And last but certainly not least,
+我要感谢你的时间和关注
+I want to thank you for your time and attention.
+并感谢你对科学的关注
+And thank you for your interest in science.
+如果喜欢 也别忘了一键三连up主哦:)

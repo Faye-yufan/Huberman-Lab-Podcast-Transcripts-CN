@@ -1,0 +1,6002 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+-欢迎来到Huberman Lab播客  
+- Welcome to the Huberman Lab Podcast,
+我们在这里讨论科学
+where we discuss science
+和用于日常生活的基于科学的工具
+and science-based tools for everyday life.
+字幕翻译/压制：Faye就是帆妹
+我是Andrew Huberman  
+I'm Andrew Huberman,
+我是神经生物学和眼科教授
+and I'm a professor of neurobiology and ophthalmology
+在斯坦福医学院
+at Stanford School of Medicine.
+此播客是
+This podcast is separate
+与我在斯坦福大学的教学和研究角色分开来的
+from my teaching and research roles at Stanford,
+但是  这是我渴望和努力的一部分
+it is, however, part of my desire and effort
+给消费者带来零成本的信息
+to bring zero-cost-to-consumer information
+关于科学和与科学有关的工具
+about science and science-related tools
+给所有公众
+to the general public.
+在我们今天开始之前  只想告知一下
+Before we begin today, just want to acknowledge
+如果你正在YouTube上观看此视频  
+that if you're watching this on YouTube,
+是的  我的脸左侧有绷带  
+yes, I have a bandage on the left side of my face,
+我当时正尝试为Costello和我做饭
+I was trying to cook something for Costello and I
+我被烫着了  被自己烫到了  那是一次烹饪事故
+and I got burned, burned myself, it was a cooking accident.
+我很好  无需赘述  我们可以继续前进  
+I'm fine, no need to dwell on it, we can move on,
+但我只是想让你知道
+but I just wanted to let you know
+我们俩都没事的  
+everybody's going to be okay,
+他吃了一顿美餐  我被烫到了  但是也吃了一顿美餐
+he got a great meal, I got a burn and a great meal.
+今天的一集是由Four Sigmatic带给我们的
+Today's episode is brought to us by Four Sigmatic.
+Four Sigmatic是一家保健公司
+Four Sigmatic is a wellness company
+制作蘑菇咖啡
+that makes mushroom coffee.
+对于那些还没有听说过的人
+For those of you that haven't heard
+之前的蘑菇咖啡
+of mushroom coffee before,
+我只想说清楚
+I just want to make clear,
+这些不是迷幻蘑菇
+these are not psychedelic mushrooms,
+不  咖啡的味道根本不像蘑菇
+and no, the coffee does not taste like mushrooms at all.
+它的味道令人赞叹  它的味道像咖啡
+It tastes amazing and it tastes like coffee.
+几年前  我开始使用Four Sigmatic咖啡
+I started using Four Sigmatic coffee a few years ago
+然后我们实际上将它囤在我的实验室中  
+and then we actually stocked it in my lab,
+我们仍然在我的实验室里存货
+we still stock it in my lab
+因为味道真的很好
+because it tastes really good
+而且恰好里面有两种蘑菇
+and it also happens to have two types of mushrooms in it
+我特别喜欢
+that I particularly like
+由于它们的补品和药用特性  
+because of their supplement and medicinal qualities,
+一个是猴头菇
+and those two are lion's mane mushroom,
+在一些研究中已经表明
+which has been shown in several research studies
+它具有轻微的抗焦虑作用  即抗焦虑作用  
+to have a mild anxiolytic, meaning anti-anxiety effect,
+和提升情绪的作用  
+and mood-elevating effect,
+这些是独立进行的研究
+those are from research studies done independently,
+还有白桦茸
+as well, it has Chaga mushroom,
+白桦茸已被证明可以增加生长因子
+Chaga mushroom has been shown to increase growth factors
+会影响神经系统  例如神经生长因子  
+that impact the nervous system, like nerve growth factor,
+那就是我喝的原因
+so that's the reason I drink it,
+这就是我们在实验室中存放它的原因  
+and that's the reason we stock it in the lab,
+这就是我在家喝的原因
+and that's the reason why I drink it at home.
+如果你想尝试Four Sigmatic
+If you'd like to try Four Sigmatic,
+你可以访问foursigmatic.com/huberman  
+you can go to foursigmatic.com/huberman,
+那是FOURSIGMATIC  
+that's F-O-U-R-S-I-G-M-A-T-I-C,
+.com / huberman  
+.com/huberman,
+你将获得最高40％的订单优惠
+and you'll get up to 40% off your order
+再加上蘑菇咖啡的免费送货  
+plus free shipping on their mushroom coffees,
+那是foursigmatic.com/huberman
+that's foursigmatic.com/huberman
+最多可享受40％的折扣和免费送货
+for up to 40% off and free shipping.
+今天的一集也由Blinkist带给我们
+Today's episode is also brought to us by Blinkist.
+Blinkist是一款拥有数千本非小说类书籍的应用
+Blinkist is an app that has thousands of nonfiction books
+浓缩至关键的内容  仅15分钟
+condensed down to just 15 minutes of key takeaways
+你可以阅读或收听的内容
+that you can read or listen to.
+对我来说  我真的很喜欢听Blinkist的书  
+For me, I really like listening to books on Blinkist,
+甚至我已经读过的书
+even books that I've already read.
+通常  我消费信息的方式
+Typically, the way I consume information
+是的  除非是小说  否则我会听一本非小说类的书
+is, unless it's fiction, I'll listen to a nonfiction book
+否则我将阅读实际的物理印刷版
+or I'll read the actual, physical hard copy
+一本非小说类书籍
+of a nonfiction book,
+最后  我想记笔记
+and then at the end, I like to take some notes
+关于真正困扰我的事情
+about things that really stuck with me
+或我想教的重点
+or key takeaways that I'd like to teach
+或与其他人分享
+or share with other people.
+使用Blinkist  它可以让我回到那些书上
+With Blinkist, it allows me to go back to those books
+并获得所有必要的物品  
+and get all the essential items,
+其中一些我可能会错过
+some of which I might have missed
+在听或读的过程中
+in the course of listening to or reading
+完整版  
+the full-length version,
+如果我以前没看过书  
+and if I haven't read a book before,
+这也使我对是否
+it also gives me a sense of whether or not
+我想读书
+I'd like to read the book.
+Blinkist有一些很棒的科学类书籍  
+Blinkist has some terrific science category books,
+例如  我的同事和朋友大卫·伊格曼（David Eagleman）的书  
+for example, my colleague and friend David Eagleman's book,
+最近发布的“ Livewired”
+"Livewired," which came out recently,
+都是关于神经可塑性的
+is all about neuroplasticity,
+这是一本很棒的书  我读了全书  
+it's a fantastic book, I read the full-length book,
+我在Blinkist上听过
+and I've listened to it on Blinkist,
+这是“ Livewired”的绝佳提要
+and it's a terrific synopsis of "Livewired,"
+在那里
+that's in there.
+大卫·辛克莱（David Sinclair）的书《寿命》
+David Sinclair's book, "Lifespan,"
+你们中的许多人可能都知道大卫·辛克莱（David Sinclair）  
+many of you probably know that David Sinclair,
+哈佛医学院遗传学教授  
+professor of genetics at Harvard Medical School,
+是衰老和长寿领域的真正先驱  
+is a real pioneer in the aging and longevity field,
+他的著作《寿命》很棒  
+his book "Lifespan" is terrific,
+我读了完整的书  听了  
+I've read the full-length book, I've listened to it,
+我在Blinkist上听过
+and I've listened to it on Blinkist,
+因此  它确实包含了许多基本要素
+and so it really captures a lot of the essential elements
+你想从那本书中得到的
+that you would want to get from that book.
+Blinkist也是一种好方法
+Blinkist is also just a great way
+在书架上浏览许多书
+to get through many books on the bookshelf
+你本来打算去但没有时间
+that you've been meaning to get to but you haven't had time.
+使用Blinkist  你可以无限访问
+With Blinkist, you can get unlimited access
+阅读或聆听大量的书籍  
+to read or listen to a massive library of books,
+不只是科学书籍  
+not just science books,
+他们都只用了15分钟就凝结了
+and they're all condensed in this way of just 15 minutes
+将使你获得所有关键信息  
+will allow you to get all the key information,
+所以那么  在有限的时间内  
+so right now, for a limited time,
+Blinkist有特价
+Blinkist has a special offer
+仅针对“ Huberman Lab Podcast”的观众  
+just for "Huberman Lab Podcast" audiences,
+你去blinkist.com/huberman
+you go to blinkist.com/huberman
+你可以免费试用Blinkist 7天
+and you can try Blinkist free for seven days
+并节省25％的新订阅费用  
+and save 25% off your new subscription,
+那是Blinkist  BLINKIST  .com / huberman
+that's Blinkist, B-L-I-N-K-I-S-T, .com/huberman
+开始免费的7天试用  
+to start your free seven-day trial,
+你将获得25％的折扣  
+and you'll get 25% off,
+但仅当你在blinkist.com/huberman上注册时
+but only when you sign up at blinkist.com/huberman.
+Theragun也为我们带来了今天的一集
+Today's episode is also brought to us by Theragun.
+Theragun是一种手持式冲击治疗仪
+Theragun is a handheld percussive therapy device
+释放深层肌肉张力
+that releases deep muscle tension.
+我了解到Theragun
+I was introduced to Theragun
+是几年前参加我的实验室的一次潜水探险
+on a dive expedition for my laboratory a few years ago.
+在那次探险中  我们运动强度很大
+On that expedition, we were working very hard,
+我们整天都在潜水  
+we were diving all day,
+我们用设备携带鹈鹕箱子  
+we were carrying pelican cases with equipment,
+我们带着氧气瓶
+we were carrying tanks,
+到最后很酸痛  很累  
+very sore, very tired by the end of the day,
+和其他人一样
+as was everybody else.
+有人带来了一把Theragun
+Someone brought along a Theragun,
+很快  Theragun在船上传来传去
+and pretty soon, that thing was getting passed around
+并成为船上最令人垂涎​​的设备
+and became the most coveted device on board
+因为它确实可以缓解
+because it really works to relieve
+酸痛和深层肌肉紧张
+the soreness and deep muscle tension
+通过体力劳动  运动来积累  
+that accumulates with physical work, exercise,
+甚至整天坐得太久  
+even just sitting too long throughout the day,
+所以当我回来时  我得到了一个Theragun  
+so when I got back, I got a Theragun,
+我仍然每天使用Theragun  
+I still use the Theragun daily,
+非常好  因为它很安静
+it's terrific because it's very quiet
+这样你就可以在看电影时使用它
+so you can use it while watching a movie
+甚至在谈话时
+or even while having a conversation
+没有它的侵扰性
+without it feeling intrusive,
+如果需要的话  它真的会渗入肌肉中
+it really gets down into the meat of the muscle if you want,
+或者  你也可以根据需要更浅层次地使用它
+or you can use it more superficially if you like.
+如果你想尝试Theragun  
+If you want to try Theragun,
+你可以访问theragun.com/huberman  
+you can go to theragun.com/huberman,
+他们有几种型号  
+they have several models available,
+第一个起价为190美元  如果你考虑一下的话  
+the first one starts at $190, which if you think about it,
+相当于专业按摩的价格
+is comparable to the price of a professional massage
+除了不像专业按摩  
+except that unlike a professional massage,
+你可以根据需要长时间使用Theragun
+you can use the Theragun for as long as you want
+全天候  只要你愿意  
+throughout the day and for as many days as you like,
+那是theragun.com/huberman  
+that's theragun.com/huberman,
+我应该提到
+and I should mention that there's
+还有30天的退款保证  
+also a 30-day money-back guarantee,
+因此  如果你不喜欢该产品  可以将其寄回  
+so if you don't like the product, you send it back,
+你拿回你的钱
+you get your money back.
+本月的“Huberman实验室播客”
+This month on the "Huberman Lab Podcast,"
+我们都在谈论激素
+we're talking all about hormones,
+这些令人难以置信的化学物质会影响我们的情绪  
+these incredible chemicals that can impact our mood,
+我们的行为  乐观或悲观的感觉
+our behavior, our feelings of optimism or pessimism.
+关于荷尔蒙的神奇之处
+The amazing thing about hormones
+是激素影响所有这些东西  
+is that hormones impact all those things,
+但是所有这些事情  
+but all those things,
+我们的感受  我们所做的事情和我们的想法
+how we feel and what we do and what we think
+也可以影响我们的荷尔蒙
+also can impact our hormones,
+所以这是一个非常有趣的生物学领域
+and so it's a really fascinating area of biology
+每天影响着我们每个人
+that impacts every single one of us every day
+在清醒和睡眠中
+both in wakefulness and in sleep
+以及整个生命周期
+and throughout the lifespan.
+今天  我们将谈论激素优化  
+Today, we're going to be talking about hormone optimization,
+我们将主要集中精力
+and we're mainly going to be focusing
+在雌激素和睾丸激素及其衍生物
+on estrogen and testosterone and their derivatives.
+“ Huberman Lab Podcast”的上一集  
+Last episode of the
+"Huberman Lab Podcast,"
+我们谈到性发育
+we talked about sexual development,
+也就是说  染色体  性腺和荷尔蒙如何
+that is, how the chromosomes, the gonads, and hormones
+影响我们所谓的性发育  
+impact what we call sexual development,
+一直到青春期
+leading all the way up to puberty.
+今天  我们主要讨论
+Today, we're mainly going to talk about processes
+从青春期开始之后的过程
+that happen from puberty onward,
+虽然我们可能会谈
+although we might talk
+一点点的发育方面的东西  
+a little bit about development as well,
+所以今天  我们将谈论很多有关基础生物学的知识  
+so today, we're going to talk a lot about basic biology,
+但是我们将编织很多实用的工具
+but we're going to weave in a lot of practical tools
+如何优化
+along the way for how to optimize
+这些我们称为荷尔蒙的功能强大的东西
+these incredibly powerful things that we call hormones.
+在我们深入讨论之前
+Before we dive into our discussion
+关于激素优化  
+about hormone optimization,
+我想提出我认为非常重要的一点
+I want to raise what I think is a very important point
+至少直到最近我才听说
+that at least I hadn't heard of until recently,
+这就是称为“有益原则”的概念
+which is the concept of salutogenesis.
+我们中的许多人都熟悉"致病机制"的概念  
+Many of us are familiar with the concept of pathogenesis,
+所有这些可怕疾病的想法
+the idea that there are all these scary diseases
+像痴呆症  心脏病和中风  
+like dementia and heart disease and stroke,
+和所有这些等待着我们的东西
+and all these things that await us
+如果我们没有好好照顾自己
+if we don't take good care of ourselves
+即使我们这样做  也可能会等着我们  
+and that might await us even if we do,
+那就是“致病机制”  
+that's the pathogenic model,
+salutogenesis是我学到的东西
+salutogenesis is something I learned about
+来自我斯坦福大学的一位同事  
+from one of my Stanford Medicine colleagues,
+这是一个不同的方向
+which is a different orientation
+追求健康
+toward health and well-being
+在发生特定行为的地方  
+where you're taking on particular behaviors,
+你采取一种特殊的立场
+you're taking on a particular stance
+营养和运动  补充等
+towards nutrition and exercise, supplementation, et cetera,
+为了相比于没有采取这些行为
+in order to promote well-being above where you would be
+让你有更高的健康水平
+if you were not doing those behaviors.
+那么  如果你考虑一下  这两件事  
+Now, if you think about it, these two things,
+“有益原则”和“致病机制”
+salutogenesis and the pathogenic model,
+实际上是同一枚硬币的两个面  
+are really two sides of the same coin,
+我举一个例子
+but I'll just give an example
+说明这可能会如何对你产生实际影响
+of how this might affect you in a real way.
+如果你因为感觉很好而喜欢运动  
+If you like exercise because it feels good, great,
+但是很多人为此运动或吃得很好  
+but many people exercise, or eat well, for that matter,
+为了避免心脏病或痴呆  
+in order to avoid heart disease or to avoid dementia,
+为了避免身体成分发生负面变化  
+to avoid negative changes in body composition,
+虽然功能强大
+and while that's powerful
+锻炼肯定有这种作用
+and certainly is the case that exercise
+将帮助你摆脱所有这些事情  
+will help you move away from all those things,
+“有益原则”不同
+the salutogenesis model differs
+因为它涉及一种心态和方向
+in that it involves a mindset and an orientation
+为了感觉良好而做这些事情  
+towards doing those things in order to feels good,
+为了提高你的能量水平  
+in order to enhance your level of energy,
+为了改善内分泌功能
+in order to improve endocrine function
+和代谢功能
+and metabolic function,
+所以它确实是“致病机制”的一部分  
+so it's really part of the pathogenic model,
+然而  “有益原则”确实更多是一种心态
+and yet, salutogenesis is really more of a mindset
+为什么你会做这些特殊的行为  
+toward why you would do these particular behaviors,
+实际上  最强大的思维定势
+and really, the most powerful mindset
+将成为你正在思考的地方
+is going to be one where you are thinking
+关于“致病机制”  
+about the pathogenic model,
+做一些事情以免生病  等等
+doing things so that you don't end up sick, et cetera,
+为了摆脱疾病
+and to move away from sickness,
+以及“有益原则”模型  你做这些事情
+as well as the salutogenic model where you're doing things
+是为了走向健康和福祉
+in order to move towards health and well-being.
+我们今天想到的是健康与保健  
+We think of health and wellness nowadays,
+或健康社区  或健康习惯  
+or the wellness community or wellness practices,
+在很多方面  
+and in many ways,
+这就是“致病机制”的本质  
+that is the essence of the salutogenic model,
+但我发现这很有趣
+but I found it very interesting
+在同种疗法医学领域  
+to know that within the field of allopathic medicine,
+这两个模型存在
+these two models exist
+但是我们却没有经常听说过“有益原则”模型
+but we don't hear about the salutogenic model quite as often,
+所以这只是要记住的事情  
+so it's just something to keep in mind,
+特别是由于一些心态影响
+especially because of some of the mindset effects
+在前几集中讨论过  
+that were discussed in previous episodes,
+我现在不打算再次详细介绍这些内容  
+I'm not going to go into these in detail again right now,
+但是  如果你可能回想起有关饮食和情绪的一集  
+but if you might recall from the episode on food and mood,
+我们谈到了其中一些不可思议的研究
+we talked about some of these incredible studies
+这是由斯坦福大学Alia Crum小组和其他人完成的
+that were done by Alia Crum's group at Stanford and others
+表示如果你告诉别人
+showing that if you tell people
+他们将要做的行为  
+that the behavior that they're about to do,
+在这种情况下  是人们打扫酒店房间
+in this case, it was people cleaning up hotel rooms
+因为那是他们的工作  
+because that was their job,
+如果你告诉他们这对他们有好处  
+if you tell them that it's good for them,
+那么你会看到更大的积极健康影响
+then you see much greater positive health effects
+而不是如果他们不知道该信息
+than if they aren't aware of that information
+对他们有好处  
+that it's good for them,
+所以我们真的应该在想
+so we should really be thinking
+不仅要远离疾病和负面事物  
+about not just moving away from disease and negative things,
+还有为什么某些事情对我们有好处
+but also why certain things are good for us
+因为现在研究已经很成熟了
+because it's well-established now
+来自非常好的科学研究
+from really good scientific studies
+牢记事物的积极影响
+that keeping in mind the positive effects of things
+确实会对健康产生巨大影响  
+can really have an outsized effect on well-being,
+直击我们的生理水平
+right down to the level of our physiology.
+因此  让我们谈谈激素优化  
+So let's talk about hormone optimization,
+今天我们要谈论激素优化
+today we're going to talk about hormone optimization
+关于雌激素和睾丸激素
+in reference to estrogen and testosterone
+及其衍生物
+and their derivatives,
+那么  雌激素和睾丸激素及其衍生物
+now, estrogen and testosterone and their derivatives
+我们称之为性类固醇
+are what we call sex steroids,
+那么  性类固醇立即会让大家想起“性”  
+now, the sex steroids immediately call to mind sex,
+出于明显的原因  
+for obvious reasons,
+和类固醇  即合成代谢类固醇  
+and steroids, meaning anabolic steroids,
+但我只想强调一下雌激素和睾丸激素
+but I just want to emphasize that estrogen and testosterone
+存在于每个人中
+are present in everybody,
+是它们的比率决定了它们的影响  
+it's their ratios that determine their effects,
+所以今天我们要谈
+and so today we're going to talk
+关于如何优化它们的比率
+about how you can optimize their ratios
+取决于你的特定生活目标
+depending on your particular life goals
+因为雌激素和睾丸激素的比例
+because the ratio of estrogen and testosterone
+在每个人中都有深远的影响
+in every individual has profound influence
+对幸福的感觉  乐观的感觉  
+on feelings of well-being, feelings of optimism,
+生殖方面的焦虑感或缺乏焦虑感  
+feelings of anxiety or lack of anxiety, on reproduction,
+关于独立于生殖的性行为  
+on sexual behavior independent of reproduction,
+它们是非常强大的分子  
+they are profoundly powerful molecules,
+我们都会在某种程度上制造这些分子  
+and we all make these molecules, to some degree or another,
+但也有重要的行为工具  
+but there are also important behavioral tools,
+补充工具  
+supplementation tools,
+以及处方药
+as well as prescription drugs
+会影响睾丸激素和雌激素的比例
+that can impact the ratios of testosterone and estrogen
+以非常有力的方式
+in really powerful ways,
+所以我们将涵盖所有这些
+so we're going to cover all of that.
+我想强调的是  当你听到
+I want to emphasize that when you hear
+性类固醇或类固醇激素  
+sex steroids or steroid hormones,
+大多数人都考虑合成代谢类固醇  
+most people think about anabolic steroids,
+当然是合成代谢类固醇
+and of course, anabolic steroids
+是睾丸激素或睾丸激素本身的衍生物  
+are derivatives of testosterone or testosterone itself,
+并且它们在体育界被大量使用和滥用
+and they are heavily used and abused in the sports community
+以及在体育界之外  
+as well as outside the sports community,
+但是那里当然有很多类固醇
+but there, of course, are many steroids
+不是合成代谢类固醇
+that are not anabolic steroids
+在体育运动中也被滥用
+that are also abused in sports.
+今天  我们不是在谈论运动中的毒品  
+Today, we're not talking about drugs in sports,
+但我认为它的重量如此之重
+but I think that it carries such a heavy weight
+当人们听到类固醇这个词时  
+when people hear the word steroids,
+他们考虑合成代谢类固醇  
+they think about anabolic steroids,
+所以在今天的讨论中
+so while today's discussion
+肯定与身体表现有关  
+will certainly be relevant to physical performance,
+实际上  我们将要谈论
+in fact, we're going to talk
+关于特定类型的运动  
+about how specific types of exercise,
+特殊的冷暴露方式  
+particular patterns of cold exposure,
+以及某些模式  信不信由你  
+as well as particular patterns, believe it or not,
+呼吸会影响性类固醇激素  
+of breathing can impact sex steroid hormones,
+雌激素和睾丸激素  
+both estrogen and testosterone,
+讨论并没有真正针对
+the discussion isn't really geared
+致力于提高运动成绩  
+towards performance enhancement in sport,
+尽管我们将制作一整集  
+although we will do an entire episode,
+甚至整整一个月
+perhaps even an entire month
+与实际运动表现提升有关
+related to performance enhancement in physical enterprises.
+所以首先要了解的一件事
+So one of the first things to understand
+如果你想优化荷尔蒙
+if you want to optimize your hormones
+首先得知道  它们来自哪里
+is where they come from.
+体内有很多不同的腺体
+There are a lot of different glands in the body
+会产生激素
+that produce hormones,
+有松果体  
+there's the pineal gland,
+下丘脑产生一些激素  
+some hormones are made in the hypothalamus,
+激素是由性腺  卵巢或睾丸产生的  
+hormones are made by the gonads, the ovaries or the testes,
+你有甲状腺
+you've got the thyroid gland,
+有很多不同的腺体
+there are a bunch of different glands
+产生这些不同的激素  
+that make these different hormones,
+但是当我们谈论性类固醇激素时  
+but when we're talking about the sex steroid hormones,
+雌激素和睾丸激素  
+estrogen and testosterone,
+主要来源是雌激素的卵巢
+the major sources are ovaries for estrogen
+还有睾丸的睾丸激素
+and the testes for testosterone,
+尽管肾上腺也可以制造睾丸激素
+although the adrenals can also make testosterone.
+那么  还有一些酶  
+Now, there are also some enzymes,
+酶是可以改变化学成分的东西  
+enzymes are things that can change chemical composition,
+还有我们今天要谈论的酶
+and the enzymes that we're going to talk about today
+主要是芳香酶
+are the aromatases mainly,
+芳香酶将睾丸激素转化为雌激素  
+the aromatases convert testosterone into estrogen,
+举例来说  如果男性的睾丸激素水平很高  
+so in a male, for instance, that has very high testosterone,
+其中一些将是
+some of that is going to be
+被芳香酶转化为雌激素  
+converted into estrogen by aromatase,
+芳香酶是由体内脂肪制成的
+and aromatase is made by body fat,
+它也是在睾丸本身中制成的
+it's also made in the testes themselves,
+很多人没有意识到这一点  
+a lot of people don't realize this,
+但睾丸实际上有能力
+but the testes actually have the capacity
+生产低水平的雌激素和芳香化酶  
+to manufacture estrogen and aromatase, albeit at low levels,
+但这很重要
+but this turns out to be important
+为了在以后的时间优化男性的激素水平  
+for optimizing hormone levels in males at later points,
+我们将讨论这一点
+and we'll discuss that.
+重要的是要注意  
+It's important to note that there's a huge range
+就荷尔蒙水平而言  
+in terms of the levels of hormones,
+个体之间的睾丸激素和雌激素  差异很大
+testosterone and estrogen, between individuals,
+它实际上发生在个人内
+and it actually occurs within individuals
+在整个生命周期中
+across the lifespan,
+我不会丢一些具体数字给你们
+I'm not going to throw out specific numbers
+什么每分升X皮克的数量  按天等
+of X picograms per deciliter, et cetera today
+因为这会有很大的不同  
+because that's going to vary a lot,
+这将取决于你是否在测量
+it's going to depend on whether or not you're measuring
+用皮克或毫微克之类的东西
+in picograms or nanograms and that sort of thing,
+如果你想检查你的荷尔蒙  
+if you want to examine your hormones,
+你应该和医生一起做
+you should do that in conjunction with a medical doctor,
+最好是内分泌学家  他们可以为你提供帮助
+ideally, an endocrinologist can help you
+整理这些信息  
+sort out that information,
+但重要的是要知道
+but the important thing to know
+青春期前的女性很少产生雌激素  
+is that prepubescent females make very little estrogen,
+当我们谈论雌激素时
+and when we talk about estrogen,
+我们主要谈论雌二醇  
+we mainly talk about estradiol,
+这是雌激素最活跃的形式
+which is the most active form of estrogen
+在男性和女性中
+in both males and females.
+所以青春期前的女性  雌激素水平很低  
+So prepubescent females, very low levels of estrogen,
+在青春期  雌激素水平
+during puberty, levels of estrogen,
+又叫雌二醇  基本上是飞涨的
+AKA estradiol, basically skyrocket,
+然后在整个寿命过程中  雌激素都会发生变化
+and then across the lifespan, estrogen is going to vary
+根据月经周期的阶段  
+depending on the stage of the menstrual cycle,
+但随着人进入更年期  
+but as one heads into menopause,
+现在通常会发生
+which typically takes place nowadays
+在45至60岁之间
+somewhere between age 45 and 60,
+雌激素水平将下降
+levels of estrogen are going to drop
+然后绝经后雌激素水平很低
+and then post-menopause levels of estrogen are very low.
+同样  睾丸激素会在整个生命周期中波动  
+As well, testosterone will fluctuate across the lifespan,
+男性的睾丸激素青春期相对较低  
+testosterone is going to be relatively low prepuberty in males,
+在青春期  它会飞涨  
+during puberty, it's going to skyrocket,
+然后是当前数字
+and then the current numbers
+它以每年约1％的速度下降  
+are that it drops off at about a rate of 1% per year,
+尽管我们将要讨论一些数据
+although we're going to talk about some data
+表明实际上存在着巨大的差异
+that show that there's actually tremendous variation
+在睾丸激素水平上  
+in testosterone levels,
+实际上有很多例子
+there's actually a lot of examples
+90多岁  90多岁的男性
+of men in their 90s, their 90s,
+仍然有睾丸激素水平
+who still have testosterone levels
+几乎是青春期的水平  
+that mimic pubertal levels,
+这很了不起  说明了
+which is remarkable and speaks to the huge variation
+个体之间的睾丸激素水平巨大差异
+in testosterone levels across individuals.
+因此  让我们谈谈这些激素的其他来源  
+So let's talk about other sources of these hormones,
+然后它会弄清楚
+and then it will make clear
+你可能想采取什么途径
+what avenues you might want to take
+为了优化这些激素
+in order to optimize these hormones.
+体内其他腺体和组织
+The other glands and tissues in the body
+会产生这些激素  睾丸激素和雌激素  
+that make these hormones, testosterone and estrogen,
+正如我简短提到的  是肾上腺  
+as I mentioned briefly, are the adrenals,
+所以肾上腺就在肾脏的顶部  
+so the adrenals right on top of the kidneys,
+并从肾上腺释放这些类固醇激素  
+and the release of these steroid hormones from the adrenals,
+特别是睾丸激素
+in particular testosterone
+及其一些相关的衍生品  
+and some of its related derivatives,
+主要是由竞争激活的  
+are mainly activated by competition,
+所以我们来谈谈竞争
+so let's talk about competition
+因为事实证明竞争
+because it turns out that competition
+对性类固醇激素有强大的影响  
+is a powerful influence on the sex steroid hormones,
+和性类固醇激素
+and the sex steroid hormones
+有力地影响竞争
+powerfully influence competition.
+所以大多数人没有意识到这一点  
+So most people don't realize this,
+但特定哺乳动物种类的大多数雄性
+but most males of a given mammalian species
+永远不会繁殖
+never get to reproduce,
+事实上  他们甚至根本没有发生过性关系  
+in fact, they never even get to have sex at all,
+而且我们并不经常考虑这一点  
+and we don't often think about that,
+但是睾丸激素在某个物种中
+but testosterone plays a powerful role
+可以决定哪个成员能够去繁殖
+in determining which members of a given species
+睾丸激素是很重要的角色 
+will get to reproduce,
+去决定那个物种中的一个成员
+which ones of that species
+可以去实际接触到雌性 
+will actually get access to females,
+所以在这里我不是在专门谈论人类  
+and so here I'm not talking about humans specifically,
+但是它在象海豹这样的物种
+but it's well known in species like elephant seals,
+还有什么 鹿角动物和公羊的物种中广为人知  
+in species like antlered animals and rams, for instance,
+睾丸激素水平的高低
+that the higher levels of testosterone
+与获得雌性青睐相关
+correlate with access to females.
+那么  对此的一种解释是  雌性
+Now, one interpretation of this is that the females
+可以检测哪些雄性的睾丸激素水平较高
+are detecting which males have high testosterone
+然后选择它们
+and selecting them,
+她们更容易接受这些雄性
+they're more receptive to them,
+我们将在稍后讨论交配的接受度  
+we're going to talk about receptivity for mating in a moment,
+但实际上更多的是
+but it's actually more so that the males
+睾丸激素更高的雄性
+that have higher testosterone forage further
+会为雌性而战  
+and will fight harder for the females,
+这真的很有趣
+and this is really interesting
+因为现在有很好的证据
+because there's very good evidence now
+睾丸激素可以减轻焦虑  
+that testosterone can reduce anxiety,
+促进寻求新颖性  
+promote novelty-seeking,
+并促进竞争互动  
+and promote competitive interactions,
+因此  在你脑海中处理这一点信息之前  
+and so before you leap too far with this in your mind
+想一想所有这些人类行为  先跟我的思路
+and think about all these human behaviors, just stay with me
+因为这里有些生物学
+because there's a little bit of biology here
+可以让这一切都说得通
+that makes it all make sense
+事实证明这很简单
+and it turns out to be pretty simple.
+我们有一个叫做杏仁核的大脑区域  
+We have a brain region called the amygdala,
+在拉丁文中  这意味着杏仁
+in Latin, that just means almond,
+但杏仁核以其在恐惧中的作用而闻名  
+but the amygdala is most famous for its role in fear,
+我们听到很多关于恐惧和杏仁核的信息  
+we hear a lot about fear and the amygdala,
+但是杏仁核
+but that the amygdala
+确实参与了威胁检测  
+is really involved in threat detection,
+它设定了我们的焦虑门槛
+it sets our thresholds for anxiety
+还有我们认为可怕或太多的东西
+and what we consider scary or too much,
+性腺分泌的睾丸激素
+testosterone secreted from the gonads
+身体其他地方与杏仁核结合
+and elsewhere in the body binds to the amygdala
+并更改压力阈值  
+and changes the threshold for stress,
+所以我之前在这个播客的先前版本中说过
+so I've said before on previous versions of this podcast
+和其他播客
+and on other podcasts
+睾丸激素有这种不可思议的作用
+that testosterone has this incredible effect
+使努力感觉良好  
+of making effort feel good,
+但我真正指的是事实
+but what I was really referring to is the fact
+睾丸激素可以减轻压力和焦虑  
+that testosterone lowers stress and anxiety,
+特别是在给定物种的雄性中
+in particular, in males in a given species.
+那么  这很重要
+Now, this is important
+因为我们经常认为睾丸激素可以创造  
+because we often think of testosterone as creating,
+男性化
+whatever, masculinization
+或你知道的是病毒化  
+or it's, you know, virilization,
+或所有这些术语都被用烂了  
+or all these terms are thrown around,
+但是在伴侣的选择和竞争时
+but what's it really doing
+它到底在做什么？
+when it comes to mate choice and competition?
+它正在做的是降低焦虑的门槛  
+What it's doing is it's reducing the threshold for anxiety,
+并以此来选择个人
+and in doing so, it selects individuals
+给定物种的进一步发展  
+of a given species to push further,
+愿意承受更多的痛苦  
+being willing to suffer more,
+尽管它也减轻了痛苦  
+although it also reduces pain,
+所以也许他们受的痛苦也更少  
+so maybe they also suffer less,
+追求生殖和女性
+in pursuit of reproduction and females.
+那么  在人类中众所周知  男性和女性
+Now, it's well known in humans that both males and females
+睾丸激素水平升高的人
+who have elevated levels of testosterone
+将寻求更多新颖性  
+will engage in more novelty-seeking,
+我想指出
+and I do want to point out
+即使没有睾丸的人也有睾丸激素  
+that even individuals without testes have testosterone,
+睾丸激素的峰具有相似的作用
+and peaks in testosterone have similar effects
+不管有人是否有卵巢或睾丸  
+regardless of whether or not someone has ovaries or testes,
+睾丸激素的增加通常会导致更多的觅食  
+testosterone increases generally lead to more foraging,
+追求更多新颖性  性欲增加  
+more novelty-seeking, increases in libido,
+并增加了交配的欲望  
+and increases in desire to mate,
+所以这种情况会增加睾丸激素
+so it is the case that increases in testosterone
+促进竞争和觅食型行为
+promote competitive and foraging-type behaviors
+在人类和非人类哺乳动物中  
+in humans and in nonhuman mammals,
+但是竞争本身也确实是
+but it's also true that competition itself
+可以增加雄激素  例如睾丸激素  
+can increase androgens, such as testosterone,
+我想重复一遍  竞争环境本身
+I want to repeat that, competitive environments themselves
+可以增加睾丸激素
+can increase testosterone.
+那么  有人得出了结论
+Now, some people have come to the conclusion
+如果你获胜  你的睾丸激素会上升  
+that if you win, your testosterone goes up,
+如果输了  睾丸激素就会下降
+and if you lose, your testosterone goes down,
+在某种程度上  这是真的  
+and to some extent, that's true,
+但这不是对性腺的直接影响  
+but that's not a direct effect on the gonads,
+实际上是由神经调节剂多巴胺介导的
+that's actually mediated by the neuromodulator dopamine,
+我们谈到了多巴胺
+we talked about dopamine
+在关于动力和动力的那一集中  
+in the episode on motivation and drive,
+多巴胺和睾丸激素
+and dopamine and testosterone
+在身体上有明显的相互作用  
+have a remarkable interplay in the body,
+多巴胺实际上在大脑中释放
+dopamine is actually released in the brain
+以垂体的方式
+in ways that has the pituitary,
+坐落在你嘴巴上方的腺体  
+this gland that sits over the roof of your mouth,
+释放某些激素
+release certain hormones
+然后继续促进更多睾丸激素的释放  
+that then go on to promote the release of more testosterone,
+实际上  获胜会促进更多的多巴胺  
+and indeed, winning promotes more dopamine,
+后来  更多的睾丸激素  
+and later, more testosterone,
+但是  从短期来看  
+however, in the short term,
+只是竞争增加了睾丸激素
+just competing increases testosterone
+不论你是赢还是输  
+independent of whether or not you win or lose,
+所以这个的短版
+so the short version of this
+是竞争增加了睾丸激素  
+is that competition increases testosterone,
+这可能是一种古老的机制  雄激素
+and this may be an ancient mechanism whereby the androgens,
+如睾丸激素  正在反馈
+such as testosterone, are feeding back
+鼓励更具竞争性的行为
+to encourage more competitive-type behaviors
+因为每个物种
+because every species,
+你是否在谈论生殖
+whether or not you're talking about reproduction
+或其他资源分配  
+or other resource allocation,
+都会涉及到竞争  
+is involved in competition,
+不是每个物种的每个人
+not every individual of a species
+可以追求到相同数量的伴侣
+gets access to the same number of mates
+或同等质量的同伴  
+or the same quality of mates,
+这在两个方向上都是正确的  
+and this is true in both directions,
+适用于男性和女性以及介于两者之间的所有内容
+for males and females and everything in between.
+所以我只想再次强调
+So I just want to emphasize once more
+万一我过得太快
+in case I went through it too quickly
+女性睾丸激素增加
+that increases in testosterone in females
+也将导致生殖行为的增加
+are also going to lead to increase in reproductive behavior
+或寻求生殖行为  她们会增加性欲  
+or seeking out reproductive behavior, they increase libido,
+实际上  月经周期有一个特定阶段
+in fact, there's a particular phase of the menstrual cycle
+排卵前睾丸激素达到峰值的地方
+where testosterone peaks just before ovulation
+平均而言  这会导致女性人类寻找性行为
+that, on average, leads female humans to seek out sex
+比她们在周期中要多得多
+more than they would otherwise during their cycle,
+这都是自我报告  
+and this is all by self-report,
+但这也是在测量
+but this is also while measuring
+诸如睾丸激素-雌激素比例之类的东西  
+things like testosterone-estrogen ratios, and so forth,
+所以真的很有趣 这么一个分子
+so it's really interesting that a single molecule,
+不管染色体和性腺的背景是什么  
+regardless of chromosomal or gonadal background,
+导致了越来越多地寻求伴侣的行为  在个体之间
+is increasing seeking of mates across individuals,
+越来越多的竞争欲望或竞争意愿  
+increasing desire to compete or willingness to compete,
+并降低压力和焦虑的阈值
+and lowering the threshold for stress and anxiety.
+重要的是要指出
+It's important to point out
+在睾丸激素增加的同时
+that while increases in testosterone
+促进寻找伴侣和繁殖
+promote seeking of mates and reproduction
+在男性和女性中都是如此
+in both males and females,
+在女性中  雌激素实际上增加了
+in females, it's actually increases in estrogen
+促进交配的能力  
+that promote receptivity to mating,
+所以睾丸激素推动了性的追求
+so testosterone is driving the seeking of sex
+雌激素正在促进
+and estrogen is promoting
+女性的实际性行为  
+the actual act of sex from females,
+所谓的接受性  自愿接受性
+so-called receptivity, consensual receptivity.
+在男性中  指出睾丸激素很有趣
+In males, it's interesting to point out that testosterone
+正在促进寻求性行为  
+is promoting seeking of sex,
+但是雄性中的雌激素对性欲也很重要  
+but it's also estrogen in males that's important for libido,
+如果雌激素水平太低  
+if estrogen levels are brought too low,
+那么男人将完全失去性欲  
+then men will completely lose their libido,
+这通常不会被讨论或忽略
+this is often not discussed or overlooked
+在有关睾丸激素治疗的讨论中
+in the discussion about testosterone therapy
+和增强性能的药物  
+and performance-enhancing drugs,
+人们认为雄激素过多的个体  
+people think that hyperandrogenized individuals,
+表示雄激素水平很高的人
+meaning people that have very high levels of androgen
+他们的性欲水平很高  他们会  
+will have very high levels of libido, and they will,
+提供雌激素
+provided estrogen is available
+以足够的比例匹配睾丸激素  
+in sufficient ratios to match that testosterone,
+所以这不是简单的关系
+so it's not simply the case
+什么高水平的睾丸激素
+that high levels of testosterone
+就产生很多性行为和交配行为
+produce a lot of sex and mating behavior
+雌激素水平低也没问题  
+and low levels of estrogen are good across the board,
+不是的实际上  男性和女性都需要
+you actually need both in both males and females,
+只是女性的睾丸激素水平
+it's just that in females, the testosterone levels
+总是低于雌激素水平  
+are always going to be lower than the estrogen levels,
+在男性中  雌激素水平
+and in males, the estrogen levels
+总是会低于睾丸激素水平  
+are always going to be lower than testosterone levels,
+所以睾丸激素促进性行为  
+so testosterone promotes sex-seeking behavior,
+然后真正的问题是  
+and the real question then is,
+性本身会促进睾丸激素吗？
+does sex itself promote testosterone?
+答案有些复杂  
+And the answer is somewhat complicated,
+简单来说  是的
+but the short version is yes,
+你应该知道  性爱有多个阶段  
+and as you recall, sex has multiple stages,
+所以有性行为
+so there's the physical act of sex,
+有性的追求  
+there's the seeking of sex,
+然后有高潮和射精
+and then there's orgasm and ejaculation.
+那么  重要的是要区分这些
+Now, it's important to distinguish between these
+因为  性本身是否能增加睾丸激素
+because whether or not sex itself increases testosterone
+取决于男性是否射精  
+depends on whether or not the male ejaculates,
+这对理解非常重要
+and this is very important to understand
+因为在上一集中
+because on a previous episode,
+我提到多巴胺如何随着性活动而增加  
+I mentioned how dopamine increases with sexual activity,
+记住  多巴胺和睾丸激素
+remember, dopamine and testosterone
+往往彼此线性增加  
+tend to increase linearly with one another,
+但是射精后会释放催乳素  
+but then after ejaculation, there's a release of prolactin,
+催乳素实际上设定了男性的不应期
+and prolactin actually sets the refractory period in males
+在此期间  他不能再发生性行为  
+during which he can't have sex again,
+不应期的持续时间
+and the duration of the refractory period
+取决于时间长短  差异很大
+will vary tremendously depending on how much and how long
+发生催乳素释放
+that prolactin release occurs.
+我在上一集中也有描述
+I also described in a previous episode
+有些人如何服用维生素B6  
+how some people take vitamin B6,
+我不建议任何人这样做  
+I'm not suggesting anyone do this,
+但服用维生素B6以降低催乳素水平
+but take vitamin B6 in order to reduce prolactin levels
+从而减少了不应期的持续时间  
+and thereby reduce the duration of the refractory period,
+但是这个问题
+but getting at this question
+就是睾丸激素和性行为  
+about testosterone and sexual behavior,
+重要的是要区分
+it's important to distinguish
+在这些不同的繁殖阶段之间
+between these different phases of reproduction
+或生殖行为  
+or reproductive behaviors,
+因此有研究表明性行为本身
+so there are studies showing that sexual behavior itself
+可以增加睾丸激素  
+can increase testosterone,
+2011年发表了一项研究
+there was a study published in 2011
+来自ESCASA等Escasa等人  
+from Escasa et al., E-S-C-A-S-A,
+这是教科书上的东西  在PubMed上  
+this is the stuff of textbooks, this is on PubMed,
+这些是高质量研究  
+these are quality studies,
+表明那些观察性的男人  
+showing that men who observe sex,
+所以我想这是观察色情作品  
+so I guess this would be observing pornography,
+睾丸激素会稍微增加
+will have slight increases in testosterone
+在观察过程中  
+during the observation,
+这些人实际上愿意在看色情片时
+these people actually were willing to have blood draws taken
+被抽血
+while watching pornography,
+他们的睾丸激素增加非常温和  
+they had increases in testosterone that were very modest,
+大约10％
+of about 10%,
+而当人们参与性生活时
+whereas when people participated in sex,
+所以他们真的是找了人们抽血进行这项研究
+so they actually did this study where people had blood draws
+抽血的时候他们与伴侣发生了真正的性关系  
+and they had real sex with their partners,
+他们的睾丸激素增加了70％  
+and they had 70% increases in testosterone,
+所以睾丸激素在性行为过程中
+so there are increases in testosterone
+增加了
+that are quite significant
+非常多  剧烈增加
+during the physical act of sex
+而在观察性爱时则少得多
+and far less so during observing sex.
+那么  我经常遇到的问题是
+Now, the question that I often get,
+实际上  这是我最常遇到的问题之一
+in fact, it's one of the questions I get most often
+在YouTube上的评论中  
+in the comments on YouTube,
+我不知道为什么
+I don't know why that is,
+射精是否可以调节睾丸激素水平  
+is whether or not ejaculation adjusts testosterone levels,
+事实证明  我可以找到两项研究
+and it turns out, there are two studies that I could find
+在PubMed上进行的质量研究可以解决这个问题  
+that were quality studies on PubMed that address this,
+性和射精本身
+that sex and ejaculation itself
+不会降低睾丸激素水平
+does not reduce testosterone levels
+虽然会增加催乳素的水平
+although it will increase prolactin levels
+出于我刚才描述的原因  
+for the reasons I described a moment ago,
+但是  禁欲或没有射精的性行为
+however, abstinence or sex without ejaculation
+一个星期或更长时间
+for a week or more
+可使睾丸激素水平增加至400％  
+will increase testosterone levels up to 400%,
+所以答案实际上很复杂
+so the answer is actually complicated,
+这并不简单  
+it's not straightforward,
+这意味着性本身会增加睾丸激素  
+what it means is that sex itself increases testosterone,
+但是  节制也会增加睾丸激素
+however, abstinence also increases testosterone
+更多地增加  
+even further,
+所以这是一个很微妙的答案  
+so it's a nuanced answer,
+我希望这能满足你们的需要  没有双关语  
+and I hope this is satisfactory, no pun intended,
+对于那些一直问我的人  
+to those of you that have been asking me,
+性和射精之间有什么关系
+what is the relationship between sex and ejaculation
+还有睾丸激素和多巴胺之间什么关系？
+and testosterone and dopamine?
+是细微的差别  你必须了解细微差别
+It is nuanced, and you have to understand that nuance
+如果你想了解
+if you want to understand
+某些行为如何影响荷尔蒙
+how certain behaviors impact hormones
+以及激素如何影响这些行为
+and how hormones impact those behaviors.
+正如我之前提到的  在女性中  
+As I mentioned before, in females,
+睾丸激素也激发了寻找性行为的动机  
+testosterone also primes the motivation to seek out sex,
+性本身也会增加睾丸激素  
+and sex itself also increases testosterone,
+但它也会增加催乳素  
+but it also increases prolactin,
+所以无论是男人还是女人
+so in both men and women,
+性别会增加性激素催乳素  
+sex increases prolactin post-sex,
+这只是系统运作的方式  
+it's just the way that the system works,
+就是睾丸激素和多巴胺增加
+it's that testosterone and dopamine increase
+在寻找和性行为中  
+in the seeking-out and the behavior of sex,
+然后性交后  催乳素水平上升  
+and then after sex, prolactin levels go up,
+有点寂静  
+there's kind of a quiescence,
+整个神经系统都趋于平静  
+the whole nervous system is promoted towards calm,
+这实际上可能与两人间的连接感有关
+and this may actually have something to do with pair-bonding
+和互相的鼓励
+and the encouragement of individuals
+花更多的时间在一起
+to spend more time together
+交换不同的气味和荷尔蒙  
+to exchange different smells and hormones,
+甚至信息素  
+and maybe even pheromones,
+我们稍后将讨论信息素
+and we're going to talk about pheromones in a moment.
+几年前  刮起了一阵大风
+A few years ago, there was a lot of excitement
+关于激素DHEA  
+about the hormone DHEA,
+这主要是由肾上腺产生的
+which is mainly made by the adrenals,
+DHEA已被推广为一种万能药 
+DHEA has been promoted as kind of a catch-all
+用于增加睾丸激素和雌激素
+for increasing testosterone and estrogen
+在男性和女性中
+in males and females,
+确实  DHEA会增加
+and indeed, DHEA will increase
+睾丸激素和雌激素
+both testosterone and estrogen,
+这是要注意的事情
+this is something to be mindful of
+如果你正在考虑服用DHEA
+if you're thinking about taking DHEA
+或你已经服用DHEA
+or you're taking DHEA already.
+DHEA会同时增加睾丸激素和雌激素  
+DHEA will increase both testosterone and estrogen,
+以及它增加两种激素的程度
+and the extent to which it increases one or the other
+取决于你在开始时
+will depend on whether or not you're starting off
+是雌激素比睾丸激素更多
+with more estrogen than testosterone
+还是说
+or whether or not you're starting off
+睾丸激素比雌激素多
+with more testosterone than estrogen
+以及你是否有很多芳香化酶  
+and whether or not you have a lot of aromatase,
+因此  对于具有大量芳香化酶的个人
+so for individuals that have a lot of aromatase
+由睾丸或体内脂肪制成  
+being made by the testes or by body fat,
+如果你服用脱氢表雄酮  则很有机会
+if you take DHEA, there's a good chance
+那相当一部分
+that a fair portion of that
+将被运用于雌激素的生产
+is going to be shuttled towards estrogen production
+而不是去生产睾丸激素
+and not towards testosterone production,
+而在具有
+whereas in individuals that have
+首先是低水平的睾丸激素
+low levels of testosterone to begin with,
+高水平的雌激素
+high levels of estrogen,
+DHEA有很大的可能性
+there's a good chance that the DHEA
+将主要促进雌激素的产生  
+is going to promote mainly estrogen production,
+至少那是我所能找到的
+at least that's what I could find
+从我检查过的研究中
+from the research studies that I examined.
+因此  考虑脱氢表雄酮的方法  
+So the way to think about DHEA,
+它是性类固醇激素的一种全球促进剂  
+it's a kind of global promoter of the sex steroid hormones,
+其具体效果将取决于
+and its specific effects are going to depend
+关于你从哪里开始的一点
+a little bit on where you started
+以及你是否有卵巢或睾丸
+and whether or not you have ovaries or testes.
+所以就像有行为
+So just as there are behaviors
+可以增加睾丸激素  
+that can increase testosterone,
+有些行为会降低睾丸激素  
+there are behaviors that can decrease testosterone,
+而人类中最有特色的人物之一
+and one of the most well-characterized ones in humans
+就是正在成为父母的人  准父母
+is becoming a parent.
+因此  比如说准爸爸  
+So expecting fathers have an almost 50% decrease
+他们游离和结合的睾丸激素水平减少了近50％
+in testosterone levels, both free and bound testosterone,
+以及他们的皮质醇水平  压力荷尔蒙  
+as well, their cortisol levels, a stress hormone,
+下降了近三倍  这简直令人难以置信  
+drop by almost three-fold, which is incredible,
+他们的雌二醇水平增加了一倍  
+and their estradiol levels double,
+所以他们的雌激素水平增加了一倍
+so their estrogen levels double,
+所以准爸爸  很多人都知道
+so expecting fathers many people have known
+会涨额外的体重
+put on additional body weight,
+每个人都以为这是因为他们在吃东西
+everyone always thought that it's because they're eating
+与他们怀孕的妻子同时  
+in parallel with their pregnant wife,
+但事实证明  降低睾丸激素的这些作用  
+but it turns out that these effects of reduced testosterone,
+雌二醇增加  皮质醇减少
+increased estradiol, and reduced cortisol
+可以用催乳素增加来解释  
+can all be explained by an increase in prolactin,
+因此不仅在人类中  而且在其他物种中  
+so not just in humans, but in other species as well,
+当那个物种的雄性和雌性
+when the male and female of that species
+怀上了小宝贝之后 
+are expecting young,
+他们增加了更多的身体脂肪  
+they lay down more body fat,
+说是这是为了准备
+the assumption is that this is to prepare
+漫长的不眠之夜  
+for long nights of no sleep,
+它发生在许多物种中  而不仅仅是在人类中  
+which occurs in many species, not just in humans,
+因此  这种激素  催乳素  
+so it's really interesting that this hormone, prolactin,
+可以开始抑制所有种类的激素  
+can start suppressing whole categories of hormones,
+性类固醇激素  
+sex steroid hormones,
+并可以开始增加其他类别的整个类别  
+and can start increasing whole categories of other ones,
+所以我们听说过“爸爸肚”
+so we hear about the dad bod,
+爸爸肚有很多解释
+there are a lot of explanations for the dad bod
+这个超过了此播客节目的知识范围
+that extend well beyond this podcast episode,
+但这是一个众所周知的现象
+but it is a well-known phenomenon
+睾丸激素会下降  
+that testosterone is going to drop,
+催乳素会增加  
+prolactin's going to increase,
+雌二醇的激素含量将增加
+estradiol's going to increase in males and females
+同时在那些怀上孩子的父母两人身上
+that are expecting children.
+那么  持续多长时间非常有趣  
+Now, how long that lasts is very interesting,
+实际上与多少接触有关
+it actually has to do with how much contact
+以及有多少气味接触
+and how much contact with smells
+婴儿  后代
+of the baby, of the offspring,
+父亲接触到他们的气味
+the father happens to have,
+所以他有多有空陪孩子
+so how available or unavailable he is
+实际上会影响他的荷尔蒙水平  
+will actually impact his level of hormones,
+那么  我绝对不是这个意思  也不想推广这个想法
+now, I'm definitely not promoting the idea
+父亲或母亲要花时间远离他们的后代 
+that fathers or mothers take time away from their offspring
+来保持高睾丸激素水平 
+in order to keep their testosterone levels high
+或恢复他们的高睾丸激素水平  
+or to restore them,
+那根本不是我要说的
+that's not what I'm saying at all,
+我只想指出这个结论  这很有趣
+it's just interesting to point out
+这些进化机制将我们推向
+that these evolutionary mechanisms push us toward
+或使我们偏向特定类别的行为
+or bias us toward particular categories of behaviors
+通过影响我们的荷尔蒙  
+by influencing our hormones,
+然后反馈
+which then feed back
+并推广更多这种特殊行为
+and promote more of that particular behavior
+因为就像我之前提到的
+because as I mentioned before,
+男性和女性睾丸激素的峰值
+peaks in testosterone in males and females
+导致个人寻求性行为  而不是促进育儿  
+cause individuals to seek sex, not promote parenting,
+而减少睾丸激素  
+whereas reductions in testosterone,
+催乳素增加  皮质醇减少
+increases in prolactin, and decreases in cortisol
+使两性个体趋向育儿行为
+move individuals of both sexes toward parenting behavior
+少了生殖行为
+and less toward reproductive behavior.
+明显减少睾丸激素的其他行为
+The other behavior that markedly reduces testosterone
+男性和女性身上都是这样
+in both males and females
+不管是明显减少了追求性的欲望
+and markedly reduces the desire
+还是减少性行为  这都是疾病  
+for seeking sex and sex itself is illness,
+你们中许多人可能会说  
+and many of you might say,
+“嗯  当人们感到不适时  
+"Well, duh, when people feel sick,
+“他们不想寻找伴侣  
+"they don't feel like seeking out mates,
+“他们不想做爱  ”
+"they don't feel like having sex,"
+但是你是否想过为什么呢？
+but have you ever wondered why that actually is?
+好吧  事实证明它可以解释
+Well, it turns out that it can be explained
+通过释放所谓的炎性细胞因子  
+by the release of what are called inflammatory cytokines,
+所以细胞因子与免疫系统有关  
+so cytokines are related to the immune system,
+他们在淋巴和血液中传播  
+they travel in the lymph and in the blood,
+他们攻击细菌和病毒等入侵细胞  
+and they attack invader cells like bacteria and viruses,
+在生病的情况下
+and under conditions of illness,
+我们制造许多不同的细胞因子  
+we make a lot of different cytokines,
+其中一些是抗炎药  
+some of them are anti-inflammatory,
+但其中一些是促炎的  
+but some of them are pro-inflammatory,
+和最著名的例子
+and the best-known example
+炎性细胞因子中的一种是IL-6  
+of a pro-inflammatory cytokine is IL-6,
+众所周知  当IL-6注入个体时  
+and it's known that IL-6, when injected into individuals,
+会减少性欲
+will decrease the desire for sex
+最终会减少
+and eventually will reduce
+睾丸激素和雌激素的水平
+levels of testosterone and estrogen
+独立于糟糕的感觉  
+independent of feeling lousy,
+所以人们生病时不想做爱的原因
+so the reason why people don't want sex when they're sick
+是因为IL-6的水平增加了
+is because levels of IL-6 are increased.
+那么  这很重要
+Now, this is important
+因为当我们开始思考不同的
+because as we start to think about the different ways
+调节性类固醇激素的方式时
+to modulate the sex steroid hormones,
+所谓的“优化激素  ”
+so-called optimize the hormones,
+保持低水平的IL-6
+keeping levels of IL-6 low
+对他们发挥作用很重要  
+is going to be important for them to exert their effects,
+那么  IL-6不仅前往性腺
+now, IL-6 doesn't just travel to the gonads
+并关闭性腺  
+and shut down the gonads,
+它实际上具有与某些受体相互作用的方式
+it actually has ways to interact with some of the receptors
+类固醇激素  
+that the steroid hormones,
+雌激素和睾丸激素结合  
+estrogen and testosterone, bind to,
+并影响那些受体
+and impact those receptors
+这样性类固醇激素就不会起作用
+so that the sex steroid hormones can't have their effect.
+简而言之  
+In short and put simply,
+炎性细胞因子  如IL-6
+inflammatory cytokines like IL-6
+对性类固醇激素有害  
+are bad for sex steroid hormones,
+因此  我们将讨论如何调节IL-6
+and so we're going to talk about how to modulate IL-6
+朝着你想要的方向
+in the direction that you would want
+以及如何增加另一种称为IL-10的细胞因子  
+and how to increase another cytokine called IL-10,
+这是消炎的
+which is anti-inflammatory
+以有助于促进或至少支持的方式
+in ways that can help promote, or at least support,
+性类固醇激素
+the sex steroid hormones.
+因此  随着我们的前进  
+So as we move forward,
+我们现在要开始考虑
+we're going to now start to consider
+什么样的行为习惯  
+what sorts of behavioral practices,
+以及其他东西  
+as well as other things,
+可以调节性类固醇激素
+can modulate the sex steroid hormones
+按照你希望的方向增加或减少
+in the directions that you want them to go,
+但是在我们这样做之前  
+but before we do that,
+为了为此做好准备  
+and in order to set the stage for that,
+你应该问自己
+you should be asking yourself,
+在机制层面上  它如何或为什么
+how is it, or why is it, at a mechanistic level,
+行为可以去完全调节激素？
+that behaviors can modulate hormones at all?
+如果你仔细想一下  这有点奇怪
+If you think about it, it's kind of strange
+那仅仅是做父母或做父母的行为
+that just the mere act of being a parent or parenting
+可以极大地改变睾丸激素水平
+can change testosterone levels so dramatically
+或极大地改变雌二醇水平  这是为什么？
+or estradiol levels so dramatically, what is it?
+是婴儿的汗水吗？
+Is it the sweat of the baby?
+是他们的唾液吗？
+Is it their saliva?
+是婴儿的视线吗？
+Is it the sight of the baby?
+是抱着婴儿  还是所有这些东西？
+Is it holding the baby, or is it all those things?
+事实证明  其中许多影响
+It turns out that many of those effects
+是因为气味
+are because of smell,
+甚至在某些情况下甚至可能是信息素
+or in some cases, even possibly pheromones.
+那么  我谈论激素
+Now, I talked about hormones,
+激素又是一种化学物质  会在体内传播  
+hormones, again, are a chemical, travels in the body,
+影响身体其他部位的组织和细胞  
+impacts tissues and cells elsewhere in the body,
+信息素是一种被释放的化学物质
+a pheromone is a chemical that's released
+由一个物种的一个成员
+by one member of a species
+会影响其他地方的成员  
+that goes and impacts members elsewhere,
+但属于同一物种  甚至其他物种
+but of the same species, or even of other species.
+那么  信息素的作用已完全确立
+Now, pheromone effects are absolutely well-established
+在许多动物物种中
+in lots of animal species,
+但它们在人类中引起很大争议
+but they are very controversial in humans.
+今天我要谈
+Today, I'm going to talk
+这个理论已经完全成熟建立的一些物种  
+about some of the well-established ones in animals,
+我之前已经提到其中一两个
+I've mentioned one or two of these before
+在以前的播客中  
+on previous podcasts,
+但我没有提到其中的几个
+but I haven't mentioned several of them,
+我将谈论
+and I'm going to talk about the evidence
+用于已证明并建立在人类身上信息素的证据
+for pheromones in humans that are well-established.
+所以讨论的动物主要
+So the main ones in animals that are discussed
+被称为李布特效应  惠顿效应  
+are called the Lee-Boot effect, the Whitten effect,
+布鲁斯效应和范登堡效应  
+the Bruce effect, and the Vandenbergh effect,
+以发现他们的人的名字命名
+named after the people that discovered them.
+Lee-Boot效应是
+The Lee-Boot effect is when
+你安置了物种的雌性而没有雄性  
+you house females of a given species together with no males,
+它们开始显示更长的时间  即所谓的发情周期  
+they start displaying longer, what are called estrus cycles,
+在许多物种中  它们没有月经周期  
+in many species, they don't have menstrual cycles,
+也就是通常的28天  
+which are 28 days,
+他们的发情周期通常为四天
+they have estrus cycles which tend to be four days
+个体有差异
+or some variant thereof.
+这是一个有趣的现象  因为它意味着
+It's an interesting phenomenon because what it means
+男性本身的存在  单这一点
+is that the presence of the male itself
+就会改变排卵周期
+is changing the ovulation cycle.
+那么  外面有很多人  
+Now, many people out there,
+我想大多数人都在排卵
+I imagine mostly the people that are ovulating out there
+会说：“当然  我注意到我排卵的方式不同  
+will say, "Of course, I notice I ovulate differently,
+“或者当我在伴侣面前时我的周期发生变化
+"or my cycle changes when I'm in the presence of my partner
+“或者我不是  ”
+"or I'm not,"
+但是信息素的作用
+but the pheromone effect
+反映了人类的这种Lee-Boot效应
+that mirrors this Lee-Boot effect in humans
+尚未真正被确认  
+has still not really been identified,
+没有人知道确切的化学物质是什么  
+nobody knows what the exact chemical is,
+但是  尽管如此  这对某些动物还是有很强的作用
+but nonetheless, this is a strong effect in some animals.
+另一个是布鲁斯效应  
+The other one is the Bruce effect,
+这是非常戏剧性的效果
+and this is a very dramatic effect
+从而使怀孕的动物流产或重吸收胎儿
+whereby a pregnant animal will abort or reabsorb her fetus
+如果那些动物的父亲
+if the dad of those animals,
+围着一窝的父亲  
+the father that sired the litter,
+因为它们是动物  所以它们是一窝
+because these are animals, they're litters,
+这父亲被移走  并且在她附近放置了一个新男性
+is removed and a novel male is placed in her vicinity
+大约48个小时  
+for about 48 hours,
+有趣的是这发生这个的原因
+and what's interesting is the way that this happens
+是来自男性尿液的信息素
+is a pheromone that comes from male urine
+激活促性腺激素释放激素系统
+activates the gonadotropin-releasing hormone system
+并导致发情周期的重新引入
+and causes a reintroduction of the estrus cycle
+并自然流产胎儿
+and a spontaneous abortion of the fetus.
+那么  很多人都采取了布鲁斯效应
+Now, a lot of people have taken the Bruce effect
+有点极端
+kind of to its extreme
+问人类流产是否
+and asked whether or not in humans,
+也是由信息素引起的
+miscarriages are caused by detecting the pheromones
+检测到新男性的气味  即非爸爸男性  
+or odors of novel males, meaning the non-dad male,
+这仍然是一个悬而未决的问题  
+and that's still an open question,
+没有人知道那是真的  
+nobody knows if that's true or not,
+所以我想强调一下
+so I want to emphasize that.
+另一个是范登堡效应  
+The other one is the Vandenbergh effect,
+这是我提到的
+and this is one I alluded to
+在播客的上一集中
+in a previous episode of the podcast,
+就是可以加快女性的青春期
+which is that puberty in females can be accelerated
+通过安置一个新的具有性能力的男性
+by placing a novel sexually competent male
+和一个没有青春期的年轻女性在一起
+in with a young female who has not undergone puberty.
+还有一个版本  我没有描述  
+There's also a version of this, which I haven't described,
+这是青春期的延迟
+which is delay of puberty
+你带幼小的雌性动物
+where you take juvenile female animals
+没有青春期的人
+that have not undergone puberty
+然后把它们和更成熟的雌性放在一起
+and you put them with more mature females
+同一物种
+of the same species,
+而且引进更多女性会导致延误  
+and that introduction of more females will cause a delay,
+青春期开始明显延迟
+a significant delay in the onset of puberty.
+这些都是信息素的作用  
+So these are all pheromone effects,
+而且我们知道它们是信息素效应
+and we know they're pheromone effects
+因为他们没有意识
+because they're not conscious,
+他们也不需要实际联系
+they also don't require actual contact
+与给定物种的其他成员  
+with the other members of a given species,
+这些都是可以介导的效果
+these are all effects that can be mediated
+通过给定物种的尿液
+by the urine from a given species
+或由于特定物种的汗水  
+or by the sweat of a given species,
+说到汗水  一种信息素的作用
+and speaking of sweat, the one pheromone effect
+我从已出版的文献中非常了解
+that I'm very aware of from the published literature
+是1998年发表的论文
+is a paper that was published in 1998
+斯特恩和麦克林托克
+by Stern and McClintock
+这是在问这个问题
+which was getting at this question
+月经周期同步
+of synchronization of menstrual cycles.
+那么  同步月经周期的整个想法
+Now, the whole idea of synchronization of menstrual cycles
+很有争议
+is pretty controversial,
+人们说  很长一段时间  
+for a long time, people said,
+“哦  这绝对是一个很明显的现象  ”
+"Oh, this is absolutely a well-characterized phenomenon,"
+宿舍里的人
+people in dormitories,
+她们的月经周期会同步  
+their menstrual cycles would synchronize,
+人们一起生活在环境中
+people living in environments together,
+她们的月经周期会同步  
+their menstrual cycles would synchronize,
+然后一些研究出来了
+and then some studies came out
+这种削弱了这些数据
+that kind of undercut those data
+说不  实际上不会发生  
+and said no, this actually doesn't happen,
+这有点争议
+and it was kind of controversial,
+但是效果很明显
+but there is a very clear effect
+斯特恩（Stern）和麦克林托克（McClintock）描述了
+that was described by Stern and McClintock,
+他们实际上所做的是把女性带走了  
+what they did actually was they took females,
+他们绘制了周期图
+they charted their cycles,
+然后他们让其他女性在腋窝里戴着小垫子
+and then they had other females wear pads in their armpits
+它们从这些雌性身上吸了汗  
+and they collected sweat from those females,
+然后实验者从那些垫子上吸了汗
+and then they took the sweat from those pads
+从那些女性的腋下去出
+in those female's armpits,
+然后把它们带给
+and they introduced them to women
+从未与流汗的人接触过的女人
+who had never had contact with the people who had sweated,
+她们只是与汗水接触  
+they only had contact with their sweat,
+实际上  她们在鼻子下面擦拭它  
+in fact, they swabbed it underneath their nose,
+听起来很恶心  但可以用酒精将其稀释  
+and if that sounds gross, they dilute it in alcohol,
+如此之多  以至于他们实际上无法检测到
+so much so that they can't actually detect
+汗水的气味  
+the odor of the sweat,
+这实际上非常重要  因为它不是气味  
+that's actually very important because it's not the smell,
+这是信息素本身
+it's the pheromone chemical itself,
+结果证明了信息素本身
+and it turns out the pheromone chemical itself
+可以调节月经周期
+can modulate the menstrual cycle,
+尽管不一定同步
+although it doesn't necessarily synchronize it
+和汗水 
+with the sweater,
+它所做的是改变
+what it does is it changes
+排卵的时间和方式
+the duration and the pattern of ovulation
+相对于所谓的卵泡期
+relative to the so-called follicular phase,
+长话短说
+long and short of this
+是女性的汗水和信息素
+is that the sweat and pheromones of females
+可以调节月经周期
+can modulate the menstrual cycle patterns
+其他成年女性
+of other adult females,
+这只是她们是否同步的问题  
+it's just a question of whether or not they synchronize,
+如果你现在快睡出来了
+and if you're kind of rolling your eyes now
+然后说：“当然  他们会这么做
+and saying, "Well, of course they do,
+“这真的很详细  ”
+"and this is really detailed,"
+这就是科学的完成方式  
+this is how the science is done,
+以及人们如此怀疑的原因
+and the reason why people are so skeptical
+关于人类中信息素效应的存在
+about the presence of pheromone effects in humans
+是因为  我们没有明确的信息素器官  
+is that there's no well-identified pheromone organ,
+你知道  我们有一个鼻子区域
+you know, we have an area of our nose
+这是造成气味的原因  这是公认的
+that's responsible for smelling, that's well-established,
+在核磁共振成像中已经观察到很多次了  
+it's been observed in MRIs many, many times,
+在尸体中  看到过很多次
+in cadavers many, many times,
+在几乎所有的人中  
+in pretty much all individuals,
+但是犁鼻器
+but the vomeronasal organ,
+是信息素检测器官
+which is the pheromone-detecting organ,
+在人类中尚未真正发现  
+hasn't really been found in humans,
+有个叫雅各布森的器官
+there's something called Jacobson's organ,
+被认为是鼻子的器官
+which is thought to be the organ in the nose,
+它实际上是在嘴顶的顶部
+it's actually on the top of the roof of the mouth
+像鼻梁一样
+and in the kind of back of the nose,
+这是给你的品酒师  
+this is for you wine tasters,
+我永远不会发音
+I never can pronounce this,
+他们叫什么  侍酒师  之类的  随便啦
+what are they called, sommelier, whatevers,
+善于喝酒的人
+the people that are excellent at drinking
+他们闻葡萄酒的香气
+and detecting the essences of wine
+你必须通过所有这些测试
+that you have to go through all these tests
+才能考出一个证之类的 
+in order to get certified as one of them,
+我真的不知道
+somebody tell me,
+他们可能正在使用类似的机制
+they are using probably a similar mechanism
+混合味道和气味  
+of mixing taste and smell,
+还有雅各布森器官  如果存在的话  
+and Jacobson's organ, if it exists,
+人类的犁鼻等效物  
+the vomeronasal equivalent in humans,
+被认为是气味和味道的结合
+is thought to be a combination of smell and taste.
+那么  更加奇怪和酷的事情
+Now, it gets even weirder and cooler
+当你考虑在人类中完成的一项给定研究时
+when you think about a given study that was done in humans
+如果你从男友那里买几百件T恤  
+where if you take hundreds of t-shirts from boyfriends,
+将它们分开
+keep them separate,
+你拿那些T恤  
+you take those t-shirts,
+你分别洗了很多遍
+you wash them many times separately,
+然后把它们提供给女友  
+and then you offer them to the girlfriends,
+这些家伙的长期伙伴  
+the long-time partners of those guys,
+你会发现那个女友
+and what you'll find is that the girlfriend
+可以挑选男朋友的T恤
+can pick out her boyfriend's t-shirt
+在其他数百种T恤中  
+among hundreds of other t-shirts,
+不是因为闻起来不一样
+not because it smells different,
+但是因为有种感觉似乎有所不同  
+but because something about it seems different,
+可能跟她闻起来不一样
+it might smell different to her
+在某种程度上  即使是她也无法察觉  
+in some way that's kind of imperceptible even to her,
+以及检测该T恤的准确性水平  
+and the level of accuracy in detecting that t-shirt,
+她伴侣的T恤  
+her partner's t-shirt,
+远高于统计上的重要阈值  
+is way above statistical significant thresholds,
+如此之多  以至于你几乎不得不说
+so much so that you almost have to say
+其中的原因
+there's something about these effects
+好像真的是信息素效应  
+that are real pheromone effects,
+尽管人们仍然争论
+although people still argue
+在人类中没有信息素的作用  
+that there are no pheromone effects in humans,
+都是通过嗅觉  
+that it's all through olfaction,
+我认为这些很有趣并且很重要
+I think these are interesting and important to understand
+因为这意味着很多事情
+because it means that a lot of things
+通过我们的鼻子
+coming through our nose,
+不管是信息素还是气味  
+whether or not it's pheromones or smells,
+影响激素和我们的记忆力
+are impacting hormones and our ability to attach memories
+以及对同伴和其他人的认可  
+and kind of recognition of mates and other people,
+包括我们的孩子  而不仅仅是我们的同伴  
+including our children, not just our mates,
+当然  香水制造商
+and of course, perfume manufacturers
+真正了解了信息素的想法
+have really picked up on the idea of pheromones
+并建立了整个实验室
+and have entire laboratories set up
+将化合物制成香水
+to build chemical compounds into perfumes
+旨在吸引其他同伴  
+that are designed to attract other mates,
+这是一个成熟的  有据可查的现象
+this is a well-established and well-documented phenomenon.
+最后我要介绍的信息素
+And the last point I'll make about pheromones
+是味道和气味的结合
+is that this combination of taste and smell
+在动物界如此真实
+is such a real thing in the animal world
+有一种叫做flehmen反应的东西  
+that there's something called the flehmen response,
+在不同动物的交配季节  
+during the mating seasons for different animals,
+实际上  你甚至可以在马匹中看到这一点  
+you can actually even see this in horses,
+但是对于季节性的动物  
+but for animals that are seasonal maters,
+他们会做所谓的flehmen反应
+they'll do something called the flehmen response
+他们实际上张开嘴唇和嘴巴的地方
+where they actually open their lips and their mouth
+他们露出牙龈
+and they expose their gums
+这样他们就可以捕获信息素
+so that they can capture pheromones
+在环境中随风飘扬的信息素
+that are floating in the wind in the environment,
+他们实际上是在寻找伴侣
+they actually are looking for mates
+用他们的嘴和周围的嗅探
+using their mouth and kind of sniffing around.
+如果你有狗
+If you own a dog
+你会看到狗闻闻的方式
+and you watch the way that the dog will sniff around
+选择他们想要小便的地方  雄性和雌性都这样
+selecting where they want to urinate, males and females,
+他们将分子带入他们的鼻子  
+they're bringing molecules into their nose,
+我知道这听起来有点恶心  闻着尿液  
+I know it sounds kind of gross, sniffing urine,
+但是动物尿液中有很多信息素  
+but there are a lot of pheromones in urine of animals,
+许多在风中移动的信息素  
+a lot of pheromones that are traveling in the wind,
+再说一次  不管这是否发生在人类中  
+again, whether or not this is happening in humans,
+我不知道  但是后来你想到了香水  
+I don't know, but then you think about the perfume thing,
+人们在这里把这些气味放在自己身上
+and here people are putting these scents on themselves
+包含推定的信息素  人类信息素
+that contain putative pheromones, human pheromones,
+并四处走走  希望他们的气味
+and walking around hoping that their scents
+会引起寻求伴侣的行为
+are going to evoke mate-seeking behavior
+来自同一人类的其他个体  
+from other individuals of the same human species,
+所以我们是这种行为中的动物
+so we are among the animals in this behavior,
+与你是否相信无关
+independent of whether or not you believe
+存在信息素效应
+pheromone effects exist.
+让我们回到行为
+So let's get back to behaviors
+可以帮助优化激素水平
+that can help optimize hormone levels.
+已显示的主要行为之一
+One of the main behaviors that's been shown
+在有卵巢的人身上
+to be associated with poor levels of estrogen
+  随着年龄变化 雌激素水平低下
+relative to age-match controls for people with ovaries
+或对于有睾丸的人来说
+or lower levels of testosterone
+更低水平的睾丸激素
+compared to age-match controls
+  是呼吸暂停  
+for people with testes, is apnea,
+呼吸暂停与呼吸不足有关
+apnea has everything to do with under-breathing
+体内积聚了太多的二氧化碳  
+and the buildup of too much carbon dioxide in the body,
+呼吸暂停也有其他作用  
+there are other effects of apnea as well,
+但如果整个故事都有一致的文献
+but if there's a consistent literature in this whole story
+关于衰老和激素减少
+about aging and reductions in hormones
+以及一般的健康状况和激素的减少  这就是呼吸暂停
+and general health and reductions in hormones, it's apnea.
+我深入研究了更年期的文献  
+I went deep into the literature on advanced menopause,
+或更年期症状加剧时  
+or when menopausal symptoms are exacerbated,
+然后我进入了有关更年期的文献  
+and I went into the literature on andropause,
+或更早的男性更年期
+or early-onset andropause,
+或睾丸激素水平
+or levels of testosterone
+远低于给定年龄段的数值  
+that are far lower than they should be for a given age,
+在每种情况下  你都可以找到多篇论文
+and in every case, you could find multiple papers
+表明呼吸暂停或呼吸效率低下
+that show that apnea, or poor efficiency of breathing
+并在体内积聚过多的二氧化碳
+and buildup of too much carbon dioxide in the body
+是一个问题  
+was a problem,
+大部分是睡眠呼吸暂停
+mostly sleep apnea,
+尽管总体上显示呼吸暂停是一个比较大的问题
+although apnea in general was shown to be an issue
+会对荷尔蒙产生负面影响
+negatively impacting hormones.
+那么  这种效果的方向性尚不完全清楚  
+Now, the directionality of this effect isn't entirely clear,
+雌激素减少可能导致呼吸暂停  
+it could be that reductions in estrogen cause apnea,
+实际上  有一些原因
+and actually, there's some reason
+相信可能是这样  
+to believe that might be the case,
+我发现至少有一篇论文
+I found at least one paper
+表明存在雌激素受体
+showing that there are estrogen receptors
+在实际上支配肺部的某些神经元上
+on some of the neurons that actually innervate the lungs
+并允许感知
+and allow for the perception
+肺有多丰满或多空
+of how full or empty the lungs are,
+换句话说  雌激素的减少可能会调节呼吸
+in other words, reductions in estrogen may adjust breathing
+通过改变我们对自己肺部的敏感性  
+by changing our sensitivity to our own lungs,
+那么  男性和女性都是如此  
+now, that was true for males and females,
+请记住  雌激素在男性和女性体内都有  
+remember, estrogen is both males and females,
+但同时  我发现了减少睾丸激素的论文
+but as well, I found papers in which testosterone reductions
+与呼吸暂停有关
+were associated with apnea,
+还发现了睾丸激素受体
+and testosterone receptors are also found
+在所谓的内脏的许多细胞上
+on a lot of cells in the so-called viscera,
+包括肺
+including the lungs,
+同样  效果的方向性尚不清楚  
+so again, the directionality of the effect isn't clear,
+但是真正有趣的是
+but what's really interesting
+有很清楚的方法
+is that there are very clear ways
+在哪种呼吸方式下
+in which patterns of breathing,
+尤其是睡眠中的呼吸方式
+especially patterns of breathing in sleep,
+可以调节激素
+can modulate hormones
+可以立即采取行动的方式
+in ways that are immediately actionable
+并可以同时优化雌激素和睾丸激素
+and can serve to optimize both estrogen and testosterone
+不管你是否有卵巢或睾丸
+regardless of whether or not you have ovaries or testes.
+那么什么是呼吸暂停呢？
+So what is apnea?
+呼吸暂停不足  
+Apnea is under-breathing,
+或主要是在睡眠中停止呼吸  
+or mainly, cessation of breathing during sleep,
+人们屏住呼吸  
+so people are holding their breath,
+然后他们会突然醒来  
+and then they'll suddenly wake up,
+其实我说的是生理上的叹息
+and actually I've talked about the physiological sigh
+在此播客的前几集中  
+on previous episodes of this podcast,
+两次吸气然后呼气的模式
+of this pattern of double inhales followed by exhales
+可以有意识地减轻压力和焦虑
+that one can do consciously to reduce stress and anxiety
+并减少二氧化碳的排放
+and offload carbon dioxide,
+那种呼吸
+that pattern of breathing
+每当我们在睡眠中出现呼吸暂停发作时 
+is actually what kicks in spontaneously
+ 实际上生理叹息是会自发地发生
+anytime we have an apnea episode in sleep,
+尽管在许多患有呼吸暂停的人中
+although in many people who have apnea,
+他们没有生理上的叹息
+they don't engage the physiological sigh.
+超重的人
+People who are dramatically overweight
+在睡眠中也会遭受呼吸暂停的困扰  
+also suffer a lot from apnea during sleep,
+实际上体内的二氧化碳
+there's actually a lot of buildup
+有很多积累
+of carbon dioxide in the body,
+这会导致白天过度困倦  
+and that can lead to excessive sleepiness during the day,
+无法进入更深层次的睡眠  
+inability to access the deeper phases of sleep,
+有充分的理由进入深度睡眠
+and it's well-established that going into deep sleep
+并获得正确的模式
+and getting the proper patterns
+慢波睡眠和快速眼动睡眠
+of slow-wave sleep and REM sleep
+对激素优化很重要
+are important for hormone optimization.
+我谈到了如何调节睡眠和优化睡眠
+I talked about how to modulate sleep and optimize sleep
+在“HubermanLab播客”的第一个月  
+in the first month of the "Huberman Lab Podcast,"
+因此  如果你有睡眠问题  请查看这些播客
+so please check out those episodes if you have sleep issues
+或者你想睡个好觉  
+or you want to work on your sleep,
+还可以查看马特·沃克（Matt Walker）的绝妙著作《Why We Sleep》
+also check out Matt Walker's terrific book, "Why We Sleep,"
+这将帮助你找到各种协议
+and that will help you find various protocols
+为了帮助你优化睡眠  
+to help you optimize your sleep,
+但是呼吸本身的问题
+but the issue of breathing itself
+可以在白天的醒来时间进行调整
+can be adjusted in the daytime waking hours
+可以强烈影响睡眠的方式  
+in ways that can powerfully impact both sleep,
+减少睡眠呼吸暂停的发生  
+reduce incidents of sleep apnea,
+显然是从一些新兴的文学作品中
+and apparently from some emerging literature,
+还可以帮助优化各种激素
+can also help to optimize various hormones
+即使只是在醒着时以特定方式呼吸
+even just by breathing in particular ways while awake.
+接下来讲一下它的工作原理  
+So here's how this works,
+现在有很多文献
+there's now a lot of literature
+表现出通过鼻子呼吸
+showing that breathing through the nose,
+不能通过嘴巴
+not through the mouth,
+在改善很多事情方面功能强大  
+is powerful for improving lots of things,
+首先  它有美容功能
+first of all, it improves cosmetic features
+下巴和脸
+of the jaw and face,
+这是我在斯坦福大学的同事们首先建立的
+this was first well-established by my colleagues at Stanford
+在一本名为《下巴：隐藏性流行病的故事》的书中  
+in a book called "Jaws: The Story of a Hidden Epidemic,"
+这是桑德拉·卡恩（Sandra Kahn）和保罗·埃里希（Paul Ehrlich）的作品  
+this is by Sandra Kahn and Paul Ehrlich,
+他们都是斯坦福大学的老师
+who are both faculty at Stanford,
+罗伯特·萨波斯基（Robert Sapolsky）写了序  
+has a forward by Robert Sapolsky, the great Robert Sapolsky,
+而且它还具有很强的前期认可
+and it also has a heavy endorsement upfront
+由《枪支  病菌和钢铁》的作者Jared Diamond撰写  
+by Jared Diamond, the author of "Guns, Germs, and Steel,"
+普利策奖得主  
+the Pulitzer winner,
+所以这本书的“ Jaws”上有很多重量级作者
+so a lot of heavy hitters on this book, "Jaws."
+这本书不是很多人
+It's not a book that a lot of people
+不幸的是知道
+know about, unfortunately,
+但是它确实描述了鼻呼吸的好处
+but it really describes the benefits of nasal breathing
+以及人们在发生可怕的事情时
+and the terrible things that happen when people,
+特别是儿童  但成年人也
+in particular children, but adults also,
+是沉重的口呼吸  
+are heavy mouth-breathers,
+所以口呼吸有变化
+so mouth-breathers have changes
+对他们的脸和下巴的美容功效
+in the cosmetics of their face and jaw
+就吸引力而言  这确实很糟糕  
+that are really bad in terms of attractiveness,
+这是在双胞胎研究中完成的
+and this was done in twin studies,
+你可以在书中查看并看到其中的一些内容  
+you can look in the book and see some of this,
+真是戏剧性  口呼吸
+it's really dramatic how being a mouth-breather
+容易使下巴退回上颌骨后方  
+tends to make the chin drop back behind the upper mandible,
+脸上拉长  眼睛下垂  
+there's a lengthening in the face, a drooping of the eyes,
+它可能非常戏剧化或温和的变化
+it can be quite dramatic or modest
+取决于呼吸多少
+depending on how much mouth-breathing.
+那么  有时候我们不得不用嘴呼吸  
+Now, sometimes we have to breathe with our mouths,
+但也有很多数据和研究
+but there's also a lot of data and studies
+本书中描述的“下巴”
+described in this book, "Jaws,"
+描述在清醒和睡眠中鼻呼吸如何
+that describe how nose-breathing in wakefulness and in sleep
+促进各种积极的事情
+promotes all sorts of positive things
+不仅与美容有关  
+related to not just cosmetics,
+而且改善了气体交换
+but also the improvement of gas exchange
+体内的二氧化碳和氧气
+of carbon dioxide and oxygen in the body,
+而且  它可以修改级别
+and as well, it can modify levels
+不同的神经递质和神经调节剂
+of different neurotransmitters and neuromodulators
+以对荷尔蒙产生积极影响的方式
+in ways that positively can impact hormones,
+信不信由你  做个鼻呼吸
+so believe it or not, being a nasal-breather
+并避免成为口呼吸
+and avoiding being a mouth-breather
+实际上可以对荷尔蒙产生积极影响  
+can actually positively impact hormones,
+特别是荷尔蒙睾丸激素和雌激素  
+and in particular, the hormones testosterone and estrogen,
+虽然这样做的方式
+although the way that it does that
+是通过让你成为更好的睡眠者
+is by making you a better sleeper,
+这可以让你产生更多的睾丸激素
+which allows you to produce more testosterone
+以及适量的睾丸激素和雌激素  
+and the appropriate amounts of testosterone and estrogen,
+但这部分是通过间接机制实现的
+but it does that in part through indirect mechanisms
+因为深度睡眠支持性腺  
+because deep sleep supports the gonads,
+卵巢和睾丸
+the ovaries and the testicles
+细胞的周转和细胞的产生  
+and their turnover of cells and the production of cells,
+记住  在卵巢中  特定的细胞
+remember, in the ovary, particular cells
+卵泡本身会产生雌激素
+and the egg follicles themselves make estrogen,
+在睾丸中
+and in the testicle,
+sertoli细胞和Leydig细胞 
+that the sertoli cells and the Leydig cells
+对精子的形成很重要
+are important for the formation of sperm
+对睾丸激素也很重要
+and for testosterone, respectively.
+那么  这意味着什么？
+So what does this all mean?
+这意味着我们必须呼吸正常  
+This means we have to be breathing properly,
+听起来好像有点创新  
+it almost sounds kind of like, kind of new-agey,
+就像  哦  你必须适当呼吸
+like, oh, you have to breathe properly
+使你的荷尔蒙正确
+to get your hormones right,
+但没有  你必须呼吸正常
+but no, you have to breathe properly
+呼吸和睡眠良好
+to get your breathing and sleep right
+这样你的睡眠就可以足够深
+so that your sleep can actually be deep enough
+而且你没有进入呼吸暂停状态  
+and you're not entering apnea states,
+然后将支持性腺功能  
+and then that will support gonad function,
+而且我先把这个事情讲出来
+and I wouldn't be putting this out
+是因为它将是预先的主要行为工具之一
+as one of the main behavioral tools upfront
+因为真的
+if it weren't for the fact
+呼吸暂停对这些激素的影响
+that the effects of apnea on these hormones
+非常之大  并且很可怕
+are dramatic and terrible,
+正确呼吸对于这些激素的积极作用
+and the positive effects of getting breathing right
+睾丸激素和雌激素
+on these hormones, testosterone and estrogen,
+生动而精彩
+are dramatic and wonderful,
+因此  让我们简要地谈谈其中的一些研究
+so let's talk about a few of those studies briefly
+所以我可以强调适当呼吸的价值
+so I can underscore the value of proper breathing
+为了优化激素
+in order to optimize hormones.
+所以我至少找到了四项质量研究
+So I was able to find at least four quality studies
+表明当呼吸暂停减少或消除时  
+showing that when apnea is reduced in sleep, or eliminated,
+男性的睾丸激素显着增加
+there are significant increases in testosterone in males
+在雌性中雌激素与睾丸激素的比例适当时  
+and in proper estrogen to testosterone ratios in females,
+它的运作方式非常有趣
+and the way that it works is very interesting,
+显然  它的作用是减少皮质醇  
+apparently, it works by reductions in cortisol,
+那么  皮质醇是一种压力激素
+now, cortisol is a stress hormone
+当我们早上醒来时发布
+that is released early in the day as we wake up
+并在保护我们免受感染方面发挥健康作用  
+and serves healthy roles in protecting us against infection,
+减轻炎症等
+reducing inflammation, et cetera,
+但是你不希望皮质醇过高  
+but you don't want cortisol to be too high,
+而且你当然不希望它升高太长时间
+and you certainly don't want it elevated too long
+在白天和黑夜中  
+throughout the day and night,
+所以我们都知道
+and so we all know,
+因为在过去十年左右的时间里  我们被告知很多  
+because now we've been told a lot in the last decade or so,
+保证充足的睡眠很重要
+that getting proper sleep is important
+对于健康的所有这些方面  
+for all these aspects of health,
+充足的睡眠确实可以抵消
+getting proper sleep can really offset
+所有睾丸激素和雌激素的减少
+all the reductions in testosterone and estrogen
+和发生的生育力下降
+and reductions in fertility that occur
+如果我们睡眠不足
+if we don't get enough sleep,
+但很少讨论如何睡觉
+but seldom is it discussed how sleep
+才能实际去调节睾丸激素和雌激素
+actually adjusts things like testosterone and estrogen,
+它是通过修饰皮质醇来实现的  
+and it does it by modifying cortisol,
+所以分子胆固醇
+so the molecule cholesterol
+可以转化成睾丸激素或雌激素
+can be converted into testosterone or estrogen,
+但是有比赛
+but there's a competition
+胆固醇会变成皮质醇
+whereby the cholesterol will turn into cortisol
+而不是睾丸激素  
+and not testosterone,
+否则会变成皮质醇而不是雌激素
+or it'll turn into cortisol and not estrogen
+如果压力太高  
+if stress levels are too high,
+所以这个简单的版本
+so the simple version of this
+在醒着的时候呼吸正好  
+is getting your breathing right during the waking hours,
+主要是指  除非你非常努力
+meaning primarily, unless you're working out really hard
+或还有其他原因  
+or there's some other reason why,
+你可能在吃饭或说话
+you're maybe eating or speaking,
+你需要通过嘴呼吸  
+that you need to be breathing through your mouth,
+你应该是一个鼻呼吸  
+you should be a nose-breather,
+现在确实有很好的证据  
+there's really good evidence for that now,
+而在睡眠中  你也想成为鼻呼吸
+and in sleep, you also want to be a nose-breather
+因为那会增加氧气的量
+because that's going to increase the amount of oxygen
+你要带入系统中
+that you're bringing into your system
+以及你要卸载的二氧化碳量  
+and the amount of carbon dioxide that you're offloading,
+它也有其他积极作用  
+there are other positive effects of it as well,
+但你基本上是在减少呼吸暂停  
+but you're basically reducing apnea,
+屏住呼吸导致二氧化碳积聚
+breath-holding in sleep leads to buildup of carbon dioxide
+并导致皮质醇增加  
+and leads to increases in cortisol,
+然后减少睾丸激素并减少雌激素
+which then decrease testosterone and decrease estrogen
+是非常不好的  所有性别都是这样  好吗？
+in negative ways across all sexes, okay?
+所以这个简单的版本可以让你呼吸正常  
+So the simple version of this is get your breathing right,
+那么你该怎么做  如何正确呼吸呢？
+so how do you do that, how do you get your breathing right?
+好吧  对于某些患有严重睡眠呼吸暂停的人  
+Well, for some people that have severe sleep apnea,
+他们将需要CPAP机器  
+they are going to need the CPAP machine,
+这是一台你实际戴在脸上的仪器
+this is a machine that you actually put on your face
+它可以帮助你在睡眠中正确呼吸
+and it helps you breathe properly in sleep.
+但是  许多人开始做这件事
+Many people, however, are starting to do this thing
+把嘴用某种方法封上
+of taping their mouths shut,
+那么  这听起来有点极端  
+now, this sounds a little bit extreme,
+而且你当然不想这样做
+and you certainly don't want to do this
+以任何危险的方式
+in any way that's dangerous.
+詹姆斯·内斯特（James Nestor）在他的书中谈到了这一点  
+James Nestor talked about this in his book,
+“呼吸：失去的艺术的新科学”  
+"Breath: The New Science of a Lost Art,"
+只是拍拍就合上嘴巴  
+that simply taping shut the mouth,
+用一些胶带可以让你
+with some tape that will allow you
+如果真的需要张开嘴  
+to open your mouth if you really need to,
+睡觉时可以让人们转移
+during sleep can allow people to shift over
+从成为口鼻呼吸者和打者到鼻息者
+from being mouth-breathers and snorers to nose-breathers.
+在白天  锻炼鼻呼吸的最佳方法
+In the daytime, the best way to get good at nasal-breathing
+就是扩大鼻腔  
+is to dilate the nasal passages,
+因为很多人很难去
+'cause a lot of people have a hard time
+通过他们的鼻子呼吸
+breathing through their nose,
+做到这一点的一种方法
+and one way to do this
+就是更多地通过鼻子呼吸  
+is to just breathe through your nose more,
+锻炼的一种方法是当你运动时
+and one way to do that is when you exercise,
+特别是心血管运动
+in particular, cardiovascular exercise,
+在大多数情况下  只要你不花力气  
+most of the time, provided you're not in maximum effort,
+你应该用鼻呼吸
+you should be nasal-breathing.
+那么  对于很多人来说
+Now, for a lot of people,
+刚开始锻炼时  鼻呼吸很难  
+nasal-breathing during exercise is hard at first,
+但是当你这样做的时候  
+but as you do it,
+因为鼻窦有能力随着时间的流逝而扩张  
+because the sinuses have a capacity to dilate over time,
+你会做得更好
+you'll get better at it,
+鼻窦  如果你从未握过头骨  
+the sinuses, if you haven't ever held a skull for,
+因为我作为神经科学家的工作  
+because of my job as a neuroscientist,
+我已经抓了很多头骨
+I've held a lot of skulls,
+从许多头骨中夺走了很多大脑  
+taken a lot of brains out of a lot of skulls,
+我教神经解剖学  为此  
+I teach neuroanatomy, and I've done that for,
+天哪  天知道我解剖过多少种……
+goodness, god knows how many species
+包括人类在内  
+I've done that for, including human,
+但是罪恶是他们实际上是
+but what the sinuses are is they're actually,
+你拥有的是这些小门户
+what you've got are you got these little portals
+在那骨头里  你知道  在这里和在这里  
+in the bone that run, you know, up here and down here,
+鼻子后面和下巴  
+behind the nose and into the jaw,
+如果你感冒了  并且鼻窦塞满了  
+if you ever had a cold and your sinuses are stuffed up,
+你觉得你在这里和这里都拥挤
+you feel like you have congestion here and here
+在你的耳朵  脸颊和脸上
+and around your ears and in your cheeks and in your face,
+那是因为鼻窦
+and that's because the sinuses
+实际上是骨骼融合在一起的门户
+are actually portals where the bones are fused together
+并像这样交叉
+and interdigitated like this,
+但它们当然衬有粘液膜
+but they're lined, of course, with mucus membranes,
+随着你开始鼻呼吸  
+and as you start to nasal-breathe more,
+鼻道会开始扩张更多  
+the nasal passages will start to dilate more,
+别担心  你不会有巨大的鼻孔  
+don't worry, you're not going to get giant nostrils,
+但是最终会发生什么
+but what's going to end up happening
+你会过得更轻松吗
+is you're going to have an easier time
+醒来只是通过鼻子呼吸  
+breathing through your nose just from waking,
+所以我的建议是
+so my advice would be
+锻炼时通过鼻子呼吸
+breathe through your nose while exercising
+除非你正在冲刺
+unless you're in maximum effort,
+很快  你会发现
+pretty soon, what you'll find
+你真的可以创造更多的气体输出
+is you actually can create more output
+比起你用嘴呼吸时要多
+than you would if you were breathing through your mouth,
+当然  也有例外
+and of course, there are exceptions to this,
+如果你正在游泳  请遵循该呼吸协议  
+if you're swimming, follow that breath protocol,
+对于战士和武术家来说  
+for fighters and martial artists,
+有理由去做
+there's reason to do
+那种通过嘴呼吸的呼气  
+the kind of exhale breathing through the mouth,
+那样的事情  
+that shh kind of thing,
+你知道  这样做是有原因的
+you know, there are reasons to do that sort of thing
+对于特定的运动  
+for particular sports,
+但是对于大多数
+but for most people who are
+一种娱乐性的运动员或运动者  
+kind of recreational athletes or exercisers,
+学会做鼻呼吸  
+learn to be a nasal-breather,
+它具有积极的美容效果  
+it has positive cosmetic effects,
+它减少了呼吸暂停  减轻了二氧化碳的负担  
+it reduces apnea, it offloads more carbon dioxide,
+它增加了肺活量  扩张了鼻窦  
+it increases lung capacity, it dilates the sinuses,
+它可以防止睡眠中的呼吸暂停
+and it prevents apnea in sleep,
+因此  除非你患有严重的呼吸暂停并需要CPAP  
+so unless you have severe apnea and you need the CPAP,
+变成鼻呼吸
+becoming a nasal-breather
+可以产生各种各样的积极影响
+can have all sorts of positive effects
+通过减少皮质醇  减少呼吸暂停  
+by reducing cortisol, reducing apnea,
+间接地增加睾丸激素和雌激素
+and indirectly, raising testosterone and estrogen
+以适当的比例  
+in the proper ratios,
+因此  这似乎是基础的和间接的  
+so this might seem kind of foundational and indirect,
+但是当你进入科学文献时  
+but when you go into the scientific literature,
+它是最强大的东西之一
+it comes through as one of the most powerful things
+你可以做到的是零成本  
+that you can do that is zero cost,
+需要一点努力  但成本为零  
+takes a little effort but it's zero cost,
+并具有所有这些积极影响  
+and it has all of these positive effects across the board,
+你知道  美容啊
+you know, both cosmetic
+睡眠啊  荷尔蒙等等
+and in sleep and hormonal, et cetera,
+所以这是第一条行为建议
+so that's the first piece of behavioral advice.
+第二条行为建议
+The second piece of behavioral advice
+与光的观察有关  
+relates to the viewing of light,
+你们当中许多人以前听过我谈论过这个话题  
+and many of you have heard me talk about this before,
+而且我不会太在意这一点
+and I'm not going to belabor the point
+在醒来的头一个小时内看到明亮的光线  
+that viewing bright light within the first hour of waking,
+是否来自人造光
+whether or not it's from artificial light
+或理想情况下  在阳光下
+or ideally, from sunlight,
+对睡眠和清醒有这些强大的影响  
+has these powerful effects on sleep and wakefulness,
+但是我们必须回到这个
+but we have to return to this
+如果你想了解光如何影响荷尔蒙
+if you want to understand how light can impact hormones
+因为荷尔蒙  光和多巴胺
+because hormones, light, and dopamine
+有着非常紧密的联系
+have a very close-knit relationship,
+如此之多  以至于你的视线行为
+so much so that your light-viewing behavior
+实际上可以产生直接影响
+can actually have a direct effect
+在激素水平和生育力上  
+on hormone levels and fertility,
+它可以直接影响激素水平和性欲  
+it can have a direct effect on hormone levels and libido,
+它可以直接影响激素水平
+it can have a direct effect on hormone levels
+和你快速康复的能力  
+and your ability to heal quickly,
+我不是在谈论闪耀的光芒
+and I'm not talking about shining light
+在特殊伤害下  
+on particular injuries,
+可能会或可能不会产生积极影响  
+that may or may not have positive effects,
+我们可以在随后的播客中争论这一点  它可能会
+we can argue about that on a subsequent episode, it may,
+但是我说的是用眼睛看光
+but what I'm talking about is viewing light with your eyes,
+所以现在让我们谈谈
+so let's talk about that now
+因为关于这方面的科学文献是可靠的
+because the scientific literature on this are robust
+他们可以追溯到几十年前
+and they extend back several decades,
+但是  我认为大多数人不是很了解
+and yet, I think most people don't really understand
+这种关系有多强大
+how powerful this relationship is
+在光  多巴胺  激素之间
+between light, dopamine, hormones,
+以及性类固醇激素所做的所有超棒的事情
+and all the great things that the sex steroid hormones do
+当它们以适当的比例存在于你的体内时
+when they're available in your body in the proper ratios.
+为了了解光线
+In order to understand the powerful effects
+对性类固醇激素产生的强大作用
+that light can have on the sex steroid hormones,
+我们需要了解季节性繁殖动物
+we need to understand seasonal breeding animals,
+人类不是季节性繁殖者  
+now, humans are not seasonal breeders,
+但是如果你了解生物学
+but if you understand the biology
+光线如何影响各种神经递质和激素  
+of how light impacts various neurotransmitters and hormones,
+你将有深刻的了解  改变自己
+you'll set yourself up for a deep understanding
+你应该如何进行光观察行为
+of what you should do with your light-viewing behavior.
+有几种动物  
+So several species of animals,
+实际上  许多动物种类  例如兔子和狐狸  
+many species of animals, in fact, like rabbits and fox,
+还有各种鼬类动物  例如雪貂和大白鼬  
+and various mustelids, like ferrets and ermines,
+随季节改变其皮毛颜色  
+change their pellage color across the seasons,
+这可能有点不对劲  
+this might be kind of a duh,
+但是冬天的狐狸通常是白色或浅灰色  
+but fox in winter are often white or light gray,
+而那些相同的动物将是棕色或深色
+and those same animals will be brown or darker-colored
+在夏季和春季
+in the summertime and spring months.
+那么  这些动物在春天繁殖  
+Now, those same animals breed in the spring,
+它们停止了繁殖  
+and they shut down breeding,
+它们实际上关闭了排卵  
+they actually shut down ovulation,
+它们经常关闭睾丸激素的生产
+they often shut down testosterone production
+在冬季  
+in the winter months,
+所以现在我只是将皮毛的颜色
+so right now I'm just correlating color of fur
+与繁殖的倾向  想联系起来
+with tendency to breed,
+我们知道  繁殖趋势是与
+tendency to breed, as we know, is going to be related
+性类固醇激素的水平相关
+to the levels of sex steroid hormones,
+雌激素和睾丸激素
+estrogen and testosterone.
+那么  为什么要将这两件事联系起来？
+Now, why would these two things be linked?
+好吧  事实证明  多巴胺是它们之间的联系  
+Well, it turns out that dopamine is the link between them,
+所以多巴胺有一个前体  那个前体是酪氨酸  
+so dopamine has a precursor, that precursor is tyrosine,
+是氨基酸  来自食物
+which is amino acid, comes from food,
+正如我前面提到的  当多巴胺水平很高时  
+and when dopamine levels are high, as I mentioned before,
+有一种促性腺激素释放激素的趋势  
+there's a tendency for more gonadotropin-releasing hormone,
+黄体生成素  促卵泡激素  
+luteinizing hormone, follicle-stimulating hormone,
+所有的激素
+all the hormones that come
+从下丘脑-垂体轴
+from the hypothalamic-pituitary axis
+刺激雌激素和睾丸激素释放
+and stimulate estrogen and testosterone release
+从卵巢和睾丸中释放
+from the ovary and testes,
+多巴胺基本上可以增加所有这些
+dopamine basically increases all of that.
+多巴胺的前体是酪氨酸  
+The precursor to dopamine is tyrosine,
+但是很多东西的先驱
+but the precursor to a lot
+细胞中产生黑色素的成分
+of the melanin-producing elements of cells
+产生色素沉着  包括头发颜色的色素
+that give pigmentation, including for the hair,
+是酪氨酸和酪氨酸酶  一种酶  
+is tyrosine and tyrosinase, an enzyme,
+是的  基于氨基酸的相同途径  
+so yes, the same amino acid-based pathway,
+以及许多与多巴胺相同的酶
+and many of the same enzymes that are devoted to dopamine
+和多巴胺增加性类固醇激素
+and dopamine increasing the sex steroid hormones
+致力于使头发和皮肤色素沉着  
+are devoted to giving pigmentation to the hair and skin,
+这就是为什么在夏季  当日子更长的时候  
+and this is why in the summer months, when days are longer,
+动物繁殖更多  
+animals are breeding more,
+这也是为什么在冬季
+and this is also why in the winter months
+当日子较短时  动物的繁殖就更少了
+when days are shorter, animals are breeding less,
+这也是为什么在人类中  很多人  而不是所有人  
+this is also why in humans, many people, not all,
+在春季和夏季的几个月中  心情会变好
+feel an elevation in mood in the spring and summer months
+因为阳光越来越多
+because of the amount of sunlight they're getting
+相对于冬季而言有所增加
+is increased relative to the winter months.
+那么  有些人可能会说
+Now, some of you may be saying,
+“我爱秋天  我爱冬天  ”
+"I love the fall, I love the winter,"
+这些多巴胺系统对光的敏感性
+sensitivity to light in these dopamine systems
+有很强的遗传成分
+has a strong genetic component,
+所以你去了世界的某些地方  
+so you go to some areas of the world,
+我有斯堪的纳维亚人的亲戚  
+I have relatives who are Scandinavian,
+在斯堪的纳维亚半岛的某些地区  
+and in some areas of Scandinavia,
+人们知道
+people know that there's
+一种季节性的情感障碍  
+a kind of seasonal affective disorder,
+有一种季节性的抑郁症
+there's kind of a seasonal depression
+人们在冬天变得更悲伤更安静  
+and people get sadder and more quiescent in the winter,
+出门少了
+there's actually less going out,
+因此  性行为较少
+and therefore, there's less sexual behavior,
+这样的聚会少了  
+there's less partying and things of that sort,
+但是其他人会说
+but other people will say,
+“不  在冬季  我感觉很棒
+"No, during the winter months, I feel great
+“而且我喜欢冬天前后的假期  ”等
+"and I love the holidays around winter," et cetera,
+所以有很多差异
+so there's a lot of variation,
+但总的来说  途径如下
+but in general, the pathway is the following,
+增加对阳光的观察  必须要注意眼睛  
+increased viewing of sunlight, and it has to be to the eyes,
+不是皮肤
+it's not to the skin,
+增加对阳光的观察
+increased viewing of sunlight
+增加大脑中的多巴胺水平  
+increases dopamine levels in the brain,
+动物和人类体内多巴胺水平升高
+increased dopamine levels in animals and humans
+增加这些黑色素细胞的数量
+increases the amount of these melanocytes
+这些产生黑色素的细胞的活性
+and the activity of these melanin-producing cells,
+会给皮肤和头发带来色素沉着  
+which give pigmentation to the skin and hair,
+间接增加
+and indirectly, increase the amount
+睾丸激素和雌激素
+of testosterone and estrogen,
+然后增加  生殖行为
+and thereby, reproductive behavior,
+幸福感  社交互动  
+feelings of well-being, social interactions,
+减少焦虑等
+reductions in anxiety, et cetera,
+所有这些都应该说得通
+all of which should make sense
+根据我们已经讨论的内容
+based on what we've talked about already
+在生物学方面
+in terms of the biology
+以及这些类固醇激素的影响
+and the impact of these steroid hormones
+在身心的各个方面
+on various aspects of the mind and body.
+那么这如何转换为一种方法呢？
+So how does this translate to a protocol?
+这转化为以下方法：
+This translates to the protocol of,
+如果你想优化睾丸激素和雌激素  
+if you want to optimize testosterone and estrogen,
+你需要正确地进行光观察行为  
+you need to get your light-viewing behavior correct,
+这不仅是为了优化你的睡眠  
+it's not just about optimizing your sleep,
+当然这也很重要
+which is also important,
+就是要让你的眼睛获得足够的光线
+it's about getting sufficient amount of light in your eyes
+所以你有足够的多巴胺水平
+so you have sufficient levels of dopamine,
+所以我之前回顾过的简单协议  
+so the simple protocols for that I've reviewed before,
+但这意味着要花2到10分钟
+but it means getting anywhere from 2 to 10 minutes
+在你的眼睛中暴露在明亮的光线下  
+of bright light exposure in your eyes early in the day,
+戴墨镜做这件事是不够的
+it is not sufficient to do this with sunglasses
+除非出于安全原因必须这样做  
+unless you have to do that for safety reasons,
+戴处方眼镜和隐形眼镜没关系 
+it's fine to wear prescription lenses and contacts,
+如果你由于任何原因无法得到阳光  
+if you can't get sunlight for whatever reason,
+你可以使用明亮的人造光  
+you want to use bright artificial light,
+但这绝对是至关重要的
+but that is absolutely critical
+为了定时释放皮质醇  
+for timing the cortisol release properly,
+将皮质醇释放限制在一天的早期  
+limiting cortisol release to the early part of the day,
+多巴胺的增加将促进
+getting increases in dopamine that are going to promote
+睾丸激素和雌激素的产生
+the production of testosterone and estrogen
+达到健康水平
+to healthy levels,
+视线行为的另一方面
+the other aspect of light-viewing behavior
+这是非常重要的
+that's extremely important
+是为了避免强光照射到你的眼睛
+is to avoid bright light exposure to your eyes
+在半夜  
+in the middle of the night,
+如果你在半夜观看明亮的灯光  
+if you're viewing bright light in the middle of the night,
+你正在抑制多巴胺的释放  
+you are suppressing dopamine release,
+如果你要抑制多巴胺的释放  
+if you're suppressing dopamine release,
+你正在抑制睾丸激素水平
+you are suppressing testosterone levels
+如此之多  以至于我会觉得
+so much so that I would wager
+睡眠不足的主要影响
+that a major effect of sleep deprivation
+在减少睾丸激素和雌激素
+on reducing testosterone and estrogen
+不一定是因为缺乏睡眠本身  
+is not necessarily because of the lack of sleep per se,
+而是因为通常当人们
+it's because usually when people
+睡眠不足  
+are not getting enough sleep,
+他们的眼睛光线太强
+they're getting too much light in their eyes
+也是在半夜
+in the middle of the night as well,
+对此的研究尚未完成  
+a study on this has not been completed yet,
+但在“细胞”和“神经元”中发表了两项研究  
+but there are two studies published in "Cell" and "Neuron,"
+两种Cell Press期刊  优秀期刊  
+both Cell Press journals, excellent journals,
+显示出用眼睛观看明亮的光
+showing that viewing bright light with the eyes
+在昼夜中
+in the middle of the circadian night
+对多巴胺有不利影响  
+has a detrimental effect on dopamine,
+因此对一些激素也有不利影响
+and therefore has a detrimental effect
+诸如睾丸激素和雌激素之类的  
+on things like testosterone and estrogen,
+所以你甚至不能开始谈论补品
+so you can't even begin to talk about supplements
+和其他优化睾丸激素的方法  
+and other ways to optimize testosterone,
+饮食及其对睾丸激素和雌激素的影响
+diet and its effects on testosterone and estrogen
+与生育力和生殖行为等
+and fertility and reproductive behavior, et cetera,
+除非你已经呼吸正常  
+until you get your breathing right,
+已经获得正确的视光行为这些东西  
+until you get things like your light-viewing behavior right,
+一天早晨接受明亮的光线
+so bright light early in the day
+或者整天接受  都很棒
+and throughout the day is great,
+尽可能多地看明亮的光线  最好是阳光
+view as much bright light, ideally sunlight, as you can,
+安全的前提下  尽你所能
+as much as you safely can,
+你显然不想烧伤你的视网膜
+you obviously don't want to burn your retinas
+或损害你的视网膜  
+or damage your retinas,
+所以永远不要看任何特别亮的光
+so never look at any light
+特别亮那种  会让你觉得很痛苦  
+that's so bright it's painful to look at,
+但是多让光进到你的眼睛里
+but getting a lot of light in your eyes
+不只是要调整你的睡眠觉醒节奏  
+is not just about adjusting your sleep-wake rhythms,
+这也与优化你的性类固醇激素有关
+it's also about optimizing your sex steroid hormones,
+并在半夜里避开强光
+and avoiding bright light in the middle of the night
+不只是不破坏你的睡眠  
+is not just about not disrupting your sleep,
+这也与优化性类固醇激素有关
+it's also about optimizing the sex steroid hormones,
+现在你明白了
+and now that you understand
+性类固醇激素的工作原理
+a bit of how the sex steroid hormones work
+以及它们在减轻焦虑方面有多强大
+and how powerful they are for reducing anxiety
+以及所有其他影响  
+and all these other effects,
+这应该很简单
+this should be straightforward to do,
+或希望它启发了你
+or hopefully it's inspired you
+关于你的接受光的行为
+to get your light-viewing behavior
+并且让你的呼吸行为变得正确
+and your breathing behavior correct.
+实际上  在考虑工具时  
+In fact, in thinking about tools,
+对于许多遭受苦难的人
+for many people that are suffering
+从低水平的雌激素  如果他们想要更高的水平
+from low levels of estrogen if they want higher levels
+或低水平的睾丸激素  如果他们想要更高的水平  
+or low levels of testosterone if they want higher levels,
+只是获得呼吸和视线行为  
+just getting the breathing and light-viewing behavior,
+这将间接支持睡眠行为  
+which will indirectly support sleep behavior,
+可以产生巨大而积极的影响
+can be a huge and positive effect
+在性类固醇激素的水平上
+on levels of sex steroid hormones.
+我已经可以预料到  听到这个消息  
+I can already anticipate that in hearing this,
+你可能想知道观看光是否会   
+you might wonder whether or not viewing light
+例如  将在当你想要增加雌激素时
+is going to, for instance, increase your testosterone a lot
+  大大增加你的睾丸激素
+when in fact you want your estrogen increased,
+或者当你想要增加睾丸激素时  
+or it's going to increase your estrogen a lot
+会大大增加雌激素
+when you want your testosterone increased,
+我在这里描述的一切都是针对人的  
+everything I'm describing here is for people,
+不管是什么染色体  性腺背景  
+regardless of chromosomal or gonadal background,
+所以我想要提供基本上所有这些信息
+so I'm trying to basically offer all this information
+一口气说完
+in one swoop,
+但基本上  如果你是自然有卵巢的人
+but basically, if you're somebody who naturally has ovaries
+并且雌激素水平比睾丸激素高  
+and has higher levels of estrogen than testosterone,
+然后在清晨看明亮的光线  
+then viewing bright light early in the day,
+由于多巴胺的作用  
+because of dopamine's effects,
+将促进更多的雌激素
+is going to promote more estrogen
+和睾丸激素的微妙增加  
+and subtle increases in testosterone,
+而如果你是一个开始的人
+whereas if you're somebody who starts off
+含有更多的睾丸激素和较低的雌激素  
+with more testosterone and lower estrogen,
+所以大概是拥有睾丸的人
+so somebody presumably who has testes
+也许你正在补充睾丸激素
+or maybe you're supplementing with testosterone
+通过其他来源  无论出于何种原因  
+through other sources for whatever reason,
+观看强光
+bright-light viewing
+会同时增加睾丸激素和雌激素  
+is going to increase testosterone and estrogen in parallel,
+但是你仍然要保持
+but you're still going to maintain
+睾丸激素与雌激素的比例  
+the ratio of testosterone to estrogen,
+简而言之  你不必担心
+in short, you don't have to worry
+你会增加错误的荷尔蒙  
+that you're going to increase the wrong hormone,
+这都是关于优化荷尔蒙的比例
+this is all about optimizing the ratios of hormones
+你已经有
+that you already have.
+好吧  所以我们谈到了呼吸
+Okay, so we've talked about breathing,
+我们谈论光  
+we've talked about light,
+让我们谈谈第三个要素
+let's talk about a third element
+最近似乎风有些大
+that there seems to be some excitement about lately
+由于其他原因
+for other reasons
+但这实际上可以有
+but that can actually have
+对激素水平有一些非常深远的影响  
+some pretty profound influences on hormone levels,
+那就是热和冷  
+and that's heat and cold,
+因此  一如既往  不仅仅是提供工具  
+so as always, rather than just offer a tool,
+我要告诉你基础科学
+I'm going to tell you the underlying science
+与自然现象有关
+as it relates to naturally occurring phenomena
+因为  在了解到
+because, in understanding that
+并了解其机制  
+and understanding the mechanism,
+你会处于一个更好的位置
+you're going to be in a far better position
+了解工具和机制
+to understand the tools and mechanisms
+以及你可能希望如何针对自己的生活进行调整
+and how you might want to adjust them for your own life.
+所以现在你了解了这种
+So now you understand the relationship
+在光  日长  多巴胺和激素水平之间的关系 
+between light, day length, dopamine, and hormone levels,
+每个人都应该意识到
+and everyone should realize
+温度和一天的长度是相关的  
+that temperature and day length are linked,
+我可以肯定地说
+and I'm sure as I say that,
+你可能在想  “哦  当然了”
+you're probably thinking, "Oh, of course."
+在夏天  当阳光多时  
+In summer, when there's more sunlight,
+日子越长  夜晚越短  
+days are longer, nights are shorter,
+通常  它趋向于变暖  
+in general, it tends to be warmer out,
+在冬天  夜晚更长  白天更短  
+and in winter, when nights are longer, days are shorter,
+它往往会变冷  
+it tends to be colder out,
+在冬季  
+and in the winter months,
+睾丸激素和雌激素往往较低
+testosterone and estrogen tend to be lower
+在许多动物和人类中  
+in many animals and in humans,
+在夏季  
+and in the summer months,
+因为多巴胺的作用
+because of the role of dopamine
+在促进性类固醇激素方面  
+in promoting the sex steroid hormones,
+当日子更长  天气变暖时  
+when days are longer and it's warmer,
+人类倾向于产生更多的雌激素和睾丸激素
+humans tend to make more estrogen and testosterone
+相对于一年中的其他月份
+relative to the other months of the year.
+那么  这些效果可能会有些微弱并且可以调节
+Now, these effects can be somewhat weak and modulated
+不同于季节性繁殖的动物
+as opposed to in seasonally breeding animals
+它们真的差别很大  好吗？
+where they're really dramatic, okay?
+但关键是温度
+But the point is that temperature
+以及日照和日照  
+and day length and sunlight,
+这些都息息相关
+those are all intimately related
+因为我们发展了系统  对吗？
+because of the systems that we evolved in, right?
+所以在我们使用人造光之前
+So before we had artificial light
+以及人工加热和人工冷却  
+and artificial heating and artificial cooling,
+我们的生物学是在系统下进化的
+our biology evolved under systems
+温度  日长和激素
+where temperature, day length, and the hormones
+相互关联  
+were correlated with one another,
+因此  如今  人们对使用感冒很感兴趣
+so nowadays, there's a lot of interest in using cold
+作为刺激睾丸激素的一种方式
+as a way to stimulate testosterone,
+这主要是因为在体育界  
+this is mainly because in the sports community,
+特别是在健美界  
+in particular, in the bodybuilding community,
+他们一直在寻找方法
+they are always seeking ways
+最大化睾丸激素  二氢睾丸激素
+to maximize testosterone, dihydrotestosterone,
+保持最低水平的雌激素
+keep estrogen to its minimum required
+仍然有性欲和皮肤弹性
+to still have a libido and still have skin elasticity
+而且身体还包着保鲜膜走来走去
+but also walk around with Saran-wrap skin,
+然后那个行业发生的所有这种极端的事情
+then all this kind of extreme stuff that happens there
+导致了最近的运动  不管你信不信  
+has led to a recent movement where, believe it or not,
+我听到了  我简直不敢相信  我去查了一下  
+I heard this and I couldn't believe it, I went and checked,
+但是我没有买  
+but although I didn't buy them,
+在亚马逊上  你实际上可以找到  
+that on Amazon, you can actually find,
+他们真的是生产了有冰袋的内衣  
+they're literally underwear that have ice packs,
+所以我认为它们是冰袋内衣  
+so I think they are ice pack underwear,
+这样人们就变得很冷
+so that people are making themselves cold
+在性腺的水平
+at the level of the gonads
+为了尝试增加睾丸激素和性欲  
+in order to try and increase testosterone and libido,
+听起来很疯狂
+sounds pretty crazy,
+但信不信由你
+but believe it or not,
+那和冰浴和冷水淋浴之类的东西
+that and things like ice baths and cold showers
+对性类固醇激素有积极作用  
+can have positive effects on the sex steroid hormones,
+睾丸激素  主要是男性  
+both testosterone, mainly in males,
+和雌激素  主要是女性
+and estrogen, mainly in females,
+你可能会说：“等等  我觉得很冷
+and you might say, "Wait, I thought cold
+使生殖轴有点关闭
+"makes the reproductive axis kind of shut down a bit
+或减少睾丸激素和雌激素”
+"or reduces testosterone and estrogen,"
+但事实证明  这实际上不是“冰冷感”
+but it turns out it's not actually the cold
+在人们身上产生了这些影响  
+that's having these effects in people,
+诸如冰浴  冷水淋浴  冷水游泳  
+things like the ice bath, cold showers, cold-water swims,
+这些冰内衣或其他东西  
+these ice underwear or whatever they are,
+不能相信居然有这些  但是它们确实存在  
+can't believe that these actually exist, but they do exist,
+发生的事情是血管舒张反弹
+what happens is there's a rebound in vasodilation
+冷却后  所以冷却会引起血管收缩  
+after cooling, so cooling causes vasoconstriction,
+然后在冷却后  出现了反弹性血管舒张
+and then after the cooling, there's a rebound vasodilation
+而且性腺中有更多的血液注入
+and there's more infusion of blood into the gonads.
+还有一种神经性的效果  
+There's also an effect that's neural,
+所以让我解释一下这是如何工作的
+so let me explain how this works
+因为对此只有很少的研究  
+because there are only a few studies on this,
+没有一个人看着冰冻的内衣  
+none of which looking at the frozen underwear,
+但是看了冷暴露
+but that have looked at cold exposure
+和雄激素和雌激素的水平  
+and levels of androgens and estrogens,
+这很有意思  
+and it's kind of interesting,
+所以你要记住性腺  
+so you have to remember that the gonad,
+卵巢和睾丸  它们都大量血管化
+the ovaries and the testes are heavily vascularized.
+记住  即使在大脑的水平  
+Remember, even at the level of the brain,
+GnRH  促性腺激素释放激素  
+GnRH, gonadotropin-releasing hormone,
+来自神经元
+comes from neurons that, believe it or not,
+在发育初期就从你的鼻子开始  
+start off in your nose early in development,
+移入下丘脑
+migrate into the hypothalamus.
+我没有瞎说  它们从你的鼻子开始
+I'm not making that up, they started off in your nose
+并迁移到下丘脑
+and migrated to the hypothalamus.
+这些神经元扩展了过程  我们称它们为轴突  
+Those neurons extend processes, we call them axons,
+进入垂体并释放GnRH到垂体中
+into the pituitary and release GnRH into the pituitary.
+垂体内部有很多血管形成  
+There's a lot of vascularization within the pituitary,
+所以现在这些激素或GnRH  
+so now those hormones, or GnRH,
+可以刺激促卵泡激素
+can stimulate follicle-stimulating hormone,
+黄体生成素
+luteinizing hormone,
+然后释放出来并进入血液
+which then are released and travel into the bloodstream.
+然后这些激素到达卵巢或睾丸  
+Then those hormones reach the ovary or testes,
+它们必须进入卵巢和睾丸  
+and they have to get into the ovary and testes,
+它们这样做的方式是通过血管系统  
+and the way they do that is through the vascular system,
+人们都忘了  但是血管系统
+and people forget, but the vascular system
+以及血管收缩或扩张的程度
+and how constricted or dilated vessels are
+是由神经元控制的  好吗？
+is controlled by neurons, all right?
+我们在关于压力的讨论中讨论了这一点
+We discussed this during the discussion about stress
+在压力那期中
+in the stress episode,
+但这是神经科学家众所周知的
+but it's well-known to neuroscientists
+关闭神经元的最佳方法是冷却神经元  
+that the best way to shut down neurons is to cool them,
+所以有很多这样的例子
+so there are a lot of examples of this
+在科学文献中  
+in the scientific literature,
+但是大多数人都不知道
+but most people aren't aware of it
+因为你不会在这些论文的方法部分  
+because you're not digging around
+一直看啊看
+in the method section of these papers,
+但是当我们想关闭神经元时  
+but when we want to shut down neurons,
+我们可以做诸如注射药物之类的事情  
+we can do things like inject drugs that will do that,
+就像利多卡因  让你麻木的东西
+like lidocaine, you know, the stuff that makes you numb
+在牙医那里  
+at the dentist,
+或者你可以使用其他抑制剂  
+or you can use different inhibitors,
+但是实验性地做的最好方法之一
+but one of the best ways to do it experimentally
+其实就是冷却神经元  
+is to just cool neurons,
+当你使神经元发冷时  
+when you make neurons cold,
+因为有温度依赖性
+because there's a temperature dependence
+什么时候神经元可以活跃  什么时候不活跃  
+of when neurons can be active and when they can't,
+神经元关闭
+the neurons shut down,
+所以  为什么冷暴露
+so the most plausible explanation for why cold exposure,
+比如1到10分钟的冰浴或冷水淋浴
+either through 1 to 10-minute ice bath or cold shower
+或冰内裤的东西  
+or the ice underpants thing,
+会增加睾丸激素或增加雌激素  这个最合理的解释
+would increase testosterone or increase estrogen
+就是你在冷却神经元
+is that you're cooling the neurons
+控制血管收缩和血管舒张
+that control vasoconstriction and vasodilation
+并阻止血液的进入  
+and shutting down the entry of blood,
+或至少减少它  
+or at least reducing it,
+和激素进入性腺  
+and hormones into the gonad,
+然后当性腺和周围区域
+and then when the gonad and the surrounding area
+再次变热
+heats up again,
+你会出现反弹性过度血管舒张
+you're getting a rebound hyper-vasodilation
+提供了过多而不是过多的
+that delivers excessive levels of, not excessive,
+但GnRH和其他激素水平升高
+but increased levels of GnRH and other hormones
+以及载体和载体蛋白等
+and carriers and carrier proteins and so forth
+然后会刺激性腺
+that would then stimulate the gonad
+释放更多的睾丸激素
+to release more testosterone
+或会刺激性腺释放更多的雌激素  
+or would stimulate the gonad to release more estrogen,
+这是我可以提出的最合理的解释  
+that's the most plausible explanation I can come up with,
+没有很多研究
+there aren't a lot of studies
+看温度对性腺的直接影响  
+looking at direct effects of temperature on the gonad,
+这将是一项艰巨的研究
+and it's going to be a difficult study to carry out
+在任何情况下  因为除非是在培养皿中体外进行  
+in any case because unless it were done in vitro in a dish,
+消除所有其他事情非常困难
+it's very hard to eliminate all the other things
+像血管收缩和血管扩张  
+like vasoconstriction and vasodilation,
+简而言之  我们不知道是否冷热
+put simply, we don't know whether or not cold and heat
+直接影响睾丸激素和雌激素的产生  
+directly affect the production of testosterone and estrogen,
+我们只知道冷热会调节这些  
+we only know that cold and heat can modulate those,
+可能是通过间接机制
+probably through indirect mechanisms
+像控制血流量一样
+like controlling the amount of blood flow
+通过关闭或激活神经元
+by way of shutting down or activating the neurons.
+现在有很多知识
+Now, there's a lot of lore
+周围的性腺加热过多  
+around heating up the gonads too much,
+实际上有一套
+there's actually a whole set
+伪科学网页上说：
+of pseudoscience webpages out there saying,
+“好吧  如果你想要一个女孩  
+"Well, if you want a girl,
+“你应该在这个室温下孕育孩子  
+"you should conceive the child at this room temperature,
+“如果你想要一个男孩  
+"and if you want a boy,
+“你应该在这个室温下孕育孩子”
+"you should conceive the child at this room temperature."
+我不认为真的有
+I don't think there's really
+任何有力的科学证据  这两个观点都没有证据
+any firm scientific evidence for that, for either one,
+但是有一些有趣的文学
+but there's some interesting literature
+关于激素产生的温度依赖性  
+about temperature dependence of production of hormones,
+我认为这可能与
+and I think that it probably relates
+这些血管舒张机制
+to these mechanisms of vasodilation
+以及血管扩张的神经控制  
+and neural control over vasodilation,
+当然  热量过高
+and of course, excessively high heat
+对睾丸不好
+is not good for the testes,
+为了生产精子或为了精子健康  
+for sperm production, or for sperm health,
+精子的帽子里有各种各样的蛋白质  
+sperm have all sorts of proteins in the cap,
+Pentraxins之类的东西和其他东西
+things like pentraxins and other things
+导致他们游泳更快
+that cause them to swim faster
+当他们在正确的位置正确表达时  
+when they're expressed properly and in the right locations,
+热量实际上会改变位置和功能
+and heat actually alters the location and the function
+其中许多蛋白质对热非常敏感  
+of a lot of those proteins, they're very heat sensitive,
+这就是为什么过热
+and so that's why excessive heat
+确实不利于生育  
+is truly not good for fertility,
+这可能与热的作用无关
+which may be independent of heat's roles
+促进雌激素或睾丸激素
+in promoting estrogen or testosterone.
+好的  现在我们谈论呼吸
+Okay, so now we've talked about breathing,
+光和温度
+light, and temperature,
+我们谈论了父母考虑的  谈论了竞争  
+we talked about parenthood, we talked about competition,
+我们讨论了一些信息素的作用  
+and we talked about some pheromone effects,
+现在让我们谈谈特定形式的运动
+now let's talk about particular forms of exercise
+以及它们如何调节类固醇激素  
+and how they modulate the steroid hormones,
+然后我们将讨论各种补品  
+and then we're going to talk about various supplements,
+两者都涉及睾丸激素
+both in reference to testosterone
+以及雌激素
+and in reference to estrogen.
+因此  现在让我们谈谈如何以各种形式进行锻炼  
+So now let's talk about how exercise in its various forms,
+体重训练  耐力工作  
+weight training, endurance work,
+进行重量训练直至失败  或进行较少强度的重量训练
+weight training to failure, or less intense weight training
+会影响睾丸激素水平
+can impact testosterone levels,
+但我想提醒你  我们在谈论睾丸激素
+but I want to remind you that we're talking about testosterone
+无论是男性还是女性  都是适用的
+both in males and females,
+并根据你从该集的开头了解到的信息  
+and based on what you know from earlier in the episode,
+睾丸激素可以有很多积极的作用
+testosterone can have numerous positive effects
+男性和女性都想让他们的睾丸激素都处于最佳范围内
+in both males and females provided they're in optimal range.
+因此  如果你浏览网络  
+So if you look on the web,
+人们会说：“哦  你知道  
+people will say, "Oh, you know,
+“重量训练可增加睾丸激素  
+"testosterone is increased by weight training,
+“这些大而重的复合运动  ”
+"you want to do these big, heavy compound movements,"
+深蹲  硬拉之类的训练
+squats and deadlifts and chins and things of that sort,
+但是科学研究呢？
+but what about the scientific studies?
+像这样的实际依据是什么？
+Like, what's the actual basis for this?
+因为如果你退后一步
+Because if you just take a step back
+从科学家的角度来看这个
+and look at this from the perspective of a scientist,
+你会说  好吧  深蹲是什么？
+you'd say, okay, what is a squat?
+蹲在杠铃上举起一堆重物
+A squat is loading up a bunch of weights on a bar
+然后  你知道  本质上就是坐下来  
+and then, you know, sitting down, essentially,
+并一遍又一遍地站起来
+and standing up over and over again.
+什么是硬拉？
+What's a deadlift?
+它正在从地面举起沉重的重物
+It's lifting heavy weights from the ground.
+为什么会增加睾丸激素  对吗？
+Why would that increase testosterone, right?
+这是举重训练中通常没有讨论的内容
+This is what's often not discussed in the weight training
+甚至运动科学界  
+or even the exercise science community,
+什么会真正刺激睾丸激素的释放
+what would actually stimulate the release of testosterone
+从肾上腺和/或睾丸开始  
+from the adrenals and/or testes,
+肾上腺或睾丸或两者兼而有之？
+and which one is it, adrenals or testes or both?
+而且通常没有讨论过  
+And that's often not discussed,
+但是作为神经科学家  
+but as a neuroscientist,
+这些是我们思考的事情
+these are the kinds of things we think about
+因为我们一直认为基因不会创造行为  
+because we think always that genes don't create behavior,
+免疫系统自己不知道何时被激活  
+immune systems don't know when to be activated,
+肺部自己不知道何时应该吸气或呼气  
+lungs don't know when to inhale or exhale,
+心脏自己不知道何时该跳动
+hearts don't know when to beat
+除了从神经元获得的信息之外  
+except for the information that it gets from neurons,
+神经系统控制着所有这些  
+the nervous system controls all of that,
+所以实际上答案必须在神经系统中
+and so really the answer has to be in the neural system
+与这些特定类型的
+that's related to these particular types
+负重锻炼有关
+of weight-bearing exercises.
+因此  当你阅读这些文献时  
+So when you go into this literature,
+很难找到真正的机制  
+it's kind of hard to find real mechanism,
+你会看到很多影响  
+you see a lot of effects,
+你会听到诸如雄激素受体含量之类的信息  
+you'll hear things like, androgen receptor content,
+意思是睾丸激素及其衍生物  
+meaning testosterone and its derivatives,
+高强度运动后的受体含量
+receptor content following heavy-resistance exercise,
+你会发现一些例子
+and you'll find some examples
+例如  他们做肌肉活检  
+that, for instance, you know, they do muscle biopsies,
+他们实际上可以看到受体增加  
+they can actually see receptor increases,
+看着大批量
+looking at either high-volume
+或少量的非常激烈的运动  
+or low-volume really intense exercise,
+你可以找到很多  但没有很多机制
+and you can find a lot of that but not a lot of mechanism
+关于神经系统将如何做到这一点  
+about how the nervous system would do this,
+以及你想知道如何做到的原因
+and the reason you'd want to know how it can do it
+是你可能会建立更好的协议
+is that you could potentially build better protocols
+或弄清楚这些动作到底是怎么回事
+or figure out exactly what about these movements
+引发增长
+is triggering increases
+在雄激素受体和睾丸激素
+in androgen receptors and testosterone.
+所以有趣的是  当你开始挖掘
+So what's interesting is when you start digging
+进入关于机制的研究时
+into the more mechanistic studies,
+你发现的是重量训练  
+what you find is that heavy weight training,
+所以这是重量训练
+so this is weight training where the sets
+可以完成1到8次(rep)范围内的任何动作
+are done with anywhere from kind of one to eight rep range,
+这会转变成不同的
+and this translates differently
+根据肌纤维类型的比例等等  
+depending on ratio of muscle fiber type and so forth,
+但基本上人
+but where basically people are
+可以在其最大重量的70％到95％之间做这个动作 
+working at anywhere from like, 70% to 95% of their maximum,
+甚至有时
+or sometimes even going
+一直到他们的一遍重复最高
+right down to their one-repetition maximum,
+真的是最大的重量
+really kind of max effort,
+你发现的是使用神经系统
+what you find is that using the nervous system
+以他们搬运重物的方式
+in a way in which they're moving heavy loads,
+这样我就说
+so that I would translate to recruitment
+高阈值电机单元
+of high-threshold motor units,
+对你的肌肉生理学家来说  
+for you muscle physiologists,
+肌肉生理学有一个规律
+and there's a rule in muscle physiology
+关于运动肌肉的神经元募集
+about the neuron recruitment for moving muscles
+你基本上在哪里使用
+where you basically use
+神经元运动单位的最小数量
+the minimum number of motor units of neurons
+尽可能地激活肌肉  
+to activate muscle as you possibly can,
+随着负载的增加  你必须招募
+as loads increase, you have to recruit
+越来越多的神经元  
+more and more neurons,
+你总是会听到有关募集肌纤维的信息  
+you always hear about recruiting muscle fibers,
+但实际上  它正在招募更多的神经元
+but really, it's recruiting more neurons
+调动更多的肌纤维  
+to recruit more muscle fibers,
+而你会发现  重量训练  
+and what you find is that heavy weight training,
+但也不是做不动的重量训练
+but not weight training to failure
+在不可能完成重复的地方  
+where completion of a repetition is impossible,
+导致最大的睾丸激素增加
+leads to the greatest increases in testosterone.
+那么  我确定有一堆
+Now, I'm sure there are a bunch
+健身爱好者
+of exercise jockeys out there
+举一堆例子来找我
+that are going to come at me with a bunch of things
+哦  我想要让肌肉变大
+where, oh, yeah, but high volume and this,
+训练失败  当然  
+and training to failure and that, sure,
+如果你愿意将各种东西放在一起  
+if you're willing to kind of put things side by side,
+调整外源性睾丸激素治疗
+adjust for exogenous testosterone treatment
+还有很多其他的  
+and all the rest,
+在这些研究中完成的
+which was done in these studies,
+你发现的一般情况
+what you find in general
+负重训练
+is that weight training with heavy loads,
+只要是一次最大重量
+so anywhere from one-rep maximum
+到能做六到八次重复的重量  这个范围内
+to somewhere in the six to eight repetition range,
+在男性或女性中  
+in males or females,
+这会显着增加睾丸激素  
+increases testosterone significantly,
+大约持续一天  有时长达48小时  
+and it does it for about a day, sometimes up to 48 hours,
+我发现的研究
+and the studies that I found
+似乎是最严谨或最重量级的一篇论文
+which seem to hold the most rigor or weight
+根据它们的发布平台
+based on where they're published
+不是什么
+as opposed to being published
+“从未听说过”的期刊中出版的
+in the journal of "Never Heard of It,"
+他们在高质量
+they're published in good-quality
+运动生理学期刊中出版
+exercise physiology journals,
+例如Ratamess的论文  
+for instance, the paper by Ratamess,
+RATAMESS等  
+R-A-T-A-M-E-S-S et al.,
+于2005年出版  
+which was published in 2005,
+讨论雄激素受体含量的调节
+which talks about modulations in androgen receptor content
+经过剧烈的阻抗运动后  
+after heavy resistance exercise,
+也就是可能冲不上去的那组
+looks at going to failure and not to failure,
+Izquierdo等人的工作于2006年出版  
+the work of Izquierdo et al. published in 2006,
+“力量训练的不同效果
+"Differential Effects of Strength Training
+导致运动失败与否
+"Leading to Failure Versus Not Failure
+这时荷尔蒙反应  力量和力量获得”  
+"on Hormonal Responses, Strength, and Power Gains,"
+你知道  这里有很多研究
+you know, there are a lot of studies here
+我当然会将这些链接放在标题中  
+and I will certainly put the links to these in the caption,
+其中许多实际上包括Duncan French  
+many of these actually include Duncan French,
+他经营着UFC培训中心
+who runs the UFC training center
+我有幸见到过
+who I've had the privilege of meeting
+并与他讨论了其中的一些  
+and discussing some of this with before,
+当然还有其他作者
+as well as other authors, of course,
+但他们都指出了事实
+but they all point to the fact
+关于神经元的参与
+that there's something about the engagement of the neurons
+在肌肉中募集高阈值的运动单位
+that recruit high-threshold motor units in muscle
+当举重 并且成功举起时  
+when moving heavy loads, but not to failure,
+必须提供某种反馈信号  
+that has to provide some sort of feedback signal,
+要么性腺产生更多的睾丸激素  
+either to the gonad to produce more testosterone,
+或正在增加体内受体的活性
+or is increasing the activity of receptors in the body.
+那么  为什么要这样说呢？
+Now, why do I say that?
+好吧  这是难题  对不对？
+Well, this is the puzzle, right?
+一个特定的动作如何  
+How is it that a particular movement,
+就像和孩子互动一样  
+just like how is it that interacting with your child,
+让它增加或者减少睾丸激素？
+is increasing or decreasing testosterone?
+这是一种基本的问题
+This is the kind of fundamental question
+在机制方面  
+at the mechanistic level,
+我们回答了孕育孩子的问题  
+and we answered the question for child-rearing,
+可能与气味和信息素有关  
+it has probably something to do with smell and pheromones,
+尽管我敢肯定还有其他刺激  
+although I'm sure there are other cues as well,
+但显然有影响
+but there's clearly a influence
+在神经层次上的积极参与
+of hard work at the neural level
+然后在肌肉水平增加睾丸激素  
+and then at the muscular level for increasing testosterone,
+而且显然还有其他的参与
+and there's also clearly an effect of working too hard
+并且大概增加了皮质醇  
+and presumably increasing cortisol too much,
+尽管我在推测
+although I'm speculating there,
+在减少睾丸激素方面  
+in terms of reducing testosterone,
+所以我们对此变得越来越具体的原因
+and so the reason we're getting nitty-gritty about this
+是因为最终  我们真的很想了解  
+is because ultimately, we'd really like to understand,
+最佳协议是什么？
+what are the optimal protocols?
+你知道  在文献中  
+You know, out there in the literature,
+你会听到  举重以增加睾丸激素  
+you hear, move heavy objects to increase testosterone,
+其中一些将被转换
+some of that will be converted
+到更强大的雄激素DHT  
+to the more powerful androgen, DHT,
+通过5-α还原酶等
+by 5-alpha reductase et cetera,
+但是我们真的还不明白
+but we really don't understand yet
+这些特殊行为如何增加睾丸激素
+how these particular behaviors increase testosterone
+以及它是否正在这样做
+and whether or not it's doing that
+通过调节受体
+by modulating the receptors
+或者直接调节睾丸激素的释放  
+or it's modulating testosterone release directly,
+大概是睾丸激素直接释放
+presumably, testosterone release directly
+感受器的敏感性
+and sensitivity of the receptors,
+大多数肌肉生理学研究
+that what most of the muscle physiology studies
+我能够找到指向
+that I was able to find point to,
+但这基本上可以归结为
+but this basically boils down
+特定的方法
+to a particular set of protocols
+如果你想增加睾丸激素  
+where if you want to increase testosterone,
+不管出于什么原因
+for whatever reason,
+成功做完一组最大负重训练
+that weight training with heavy loads but not to failure
+似乎是最受支持的
+seems to be the best-supported,
+至少得到科学上的支持  对此的解决方案  
+at least scientifically supported, solution to that,
+那么  它可能不会让你随心所欲地
+now, it may not raise your testosterone levels
+提高你的睾丸激素水平
+as high as you want,
+但这绝对是朝正确的方向发展
+but it's definitely taking things in the correct direction.
+那么  你们中许多人可能是耐力运动员
+Now, many of you might be endurance athletes
+或也喜欢运动
+or also enjoy exercise
+除了负重运动  
+besides heavy-weight-bearing exercise,
+有几项研究
+and there are several studies
+探索是否有耐力活动
+exploring whether or not endurance activity
+可以增加或减少雄激素水平
+can increase or decrease androgen levels
+以及你合并
+and whether or not you combine
+耐力运动和体重训练  
+endurance activity and weight training,
+你是先做耐力运动   这种顺序
+whether or not that has any effect
+是否有相应的效果
+if you do the endurance activity first or second,
+而这一切的收获
+and the takeaway from all of this
+如果是先进行耐力活动  
+was that endurance activity, if performed first,
+导致睾丸激素减少
+leads to decreases in testosterone
+在举重训练中
+during the weight training session
+与首先进行的同一重量训练相比
+as compared to the same weight training session done first
+然后是耐力运动
+followed by endurance activity,
+换句话说  如果你想优化睾丸激素水平  
+in other words, if you want to optimize testosterone levels,
+似乎是首先进行重量训练
+it seems to be the case that weight training first
+然后进行心脏型耐力运动
+and doing cardio-type endurance activity afterward
+是正确的业务顺序
+is the right order of business.
+那么  当这些分别完成后  
+Now, when these are done on separate days,
+它似乎没有效果  
+it doesn't seem to have an effect,
+没有统计上的结果 
+they showed no statistical interaction,
+但似乎如果你要执行这些操作
+but it seems that if you're going to do these
+在同一场锻炼中
+in the same workout episode
+首先做重量训练
+that it's move heavy loads first,
+然后做心肺运动  
+then do cardiovascular exercise,
+所以有一点数据
+so there's a little bit of data
+专门研究耐力运动
+looking specifically at how endurance exercise
+如何影响睾丸激素及其衍生物  
+impacts testosterone and its derivatives,
+很明显  高强度间歇训练
+and it's very clear that high-intensity interval training,
+短跑等等
+sprinting et cetera,
+有点模仿神经活动
+which somewhat mimics the neural activity
+在举重时发生的情况
+that occurs while moving heavy weight loads,
+将增加睾丸激素
+is going to increase testosterone
+文献中有足够的证据
+and there's ample evidence for that in the literature,
+耐力运动超过75分钟
+and that endurance exercise that extends beyond 75 minutes
+将开始导致睾丸激素减少  
+is going to start to lead to reductions in testosterone,
+大概是由于皮质醇的增加  
+presumably by increases in cortisol,
+但是当然  运动的强度
+but of course, the intensity of the exercise
+也很重要
+is going to be important too,
+你知道  我认为没有人真正相信
+you know, I don't think anyone really believes
+徒步三个小时
+that hiking for three hours
+将减少你的睾丸激素  
+is going to reduce your testosterone,
+而我认为如果有人要出去
+whereas I think if one were to go out
+努力跑三个小时
+and run hard for three hours
+你可以想象睾丸激素会减少
+that you can imagine there'd be reductions in testosterone
+通过增加皮质醇  
+by way of increases in cortisol,
+因此  尽管这一领域当然需要更多的研究  
+and so while this area certainly needs more research,
+很明显  限制耐力运动
+it's pretty clear that limiting the endurance exercise
+到75分钟或更短的时间  不要太紧张  
+to 75 minutes or less, not making it too intense,
+是阻止皮质醇升高的一种方法  
+is one way to keep cortisol from going through the roof,
+但我在以前的播客中已经谈过
+but I've talked on previous episodes,
+还有很多其他人在说
+and there are a lot of others who have talked out there
+关于如何夹持皮质醇  
+about how to clamp cortisol,
+如何使皮质醇进一步降低  
+how to keep cortisol more reduced,
+这也是你可以想象的原因之一
+this is also one of the reasons why, you can imagine,
+每个人都有差异
+that various individuals,
+出于竞争或仅出于自己的目的  
+either for competition or just for their own purposes,
+依靠睾丸激素疗法  外源性睾丸激素  
+rely on testosterone therapy, exogenous testosterone,
+不仅用于体重训练  还用于耐力锻炼  
+not just for weight training, but for endurance exercise,
+因此  这就是为什么每隔一段时间会出现一些新闻的原因之一  
+so this is one of the reasons why every once in a while,
+就是专业的自行车手会被爆出
+professional cyclists will get popped
+使用提高运动表现的药物  
+for performance-enhancing drugs,
+也就是他们被抓到使用违禁药物  
+meaning they'll get caught,
+不只是它们增加了红血球
+and it's not just that they're increasing red blood cells
+通过EPO和类似的东西  
+through EPO and things of that sort,
+通常他们也服用睾丸激素
+oftentimes they're also taking testosterone
+不是因为他们想让肌肉变大
+not because they want to be large
+或有肥大的肌肉  
+or have massively hypertrophied muscles,
+但是因为他们正在注射睾丸激素  
+but because they're injecting testosterone,
+然后他们就不必担心
+they don't have to worry
+皮质醇引起的睾丸激素减少  
+about cortisol-induced reductions in testosterone,
+他们可以一直保持住
+and they can just clamp,
+保持高水平睾丸激素
+or keep their testosterone levels high,
+我不推荐
+not something I'm recommending,
+但我只是在说明他们这么做的理由
+but I'm just justifying the rationale
+一个耐力运动员从根本上  为什么想这样做
+for why an endurance athlete would want to do that at all.
+所以现在让我们转到谈论雌激素  
+So now let's switch over to talking about estrogen,
+所以有很多人
+so there are many people
+正在努力优化自己的雌激素水平  
+who are trying to optimize their estrogen levels,
+也是经常被问到的一个事情
+and one of the places where this shows up a lot
+我收到了很多关于更年期的问题  
+and I get a lot of questions about is menopause,
+就像我前面提到的那样  更年期
+so menopause, as I mentioned earlier,
+血液循环中雌激素的数量
+is this fairly massive reduction in the amount of estrogen
+减少了
+that is circulating in one's blood
+主要是因为卵巢
+mainly because the ovary
+开始消耗了一些自身的雌激素
+is now depleted of some estrogen production of its own,
+卵子不被生产  
+the eggs are not being produced,
+已经被耗尽  等等
+they've been depleted, et cetera.
+因此  更年期的特征是多种症状  
+So menopause is characterized by a variety of symptoms,
+而且它是多方面的  
+and it's multifaceted,
+可能值得一整集  
+probably deserves an entire episode on its own,
+但是像潮热  情绪波动之类的东西  
+but things like hot flashes, things like mood swings,
+头痛  尤其是偏头痛  
+things like headaches, in particular migraine headaches,
+可能会有很多脑雾  
+there can be a lot of brain fog,
+对人们而言  这可能是非常非常具有破坏性的
+it can be very, very disruptive for people.
+那么  你有时会听到关于更年期的信息  
+Now, you sometimes hear about andropause,
+被认为是更年期的类似物  
+which is thought to be the kind of analog to menopause,
+但是更年期有一定的特点
+but menopause has certain characteristics
+对大多数女性来说  这是一个非常稳定的现象  
+that make it a very robust phenomenon for most women,
+而对于男人  
+whereas for men,
+更年期有时会发生  有时不会发生  
+andropause is going to sometimes happen, sometimes won't,
+实际上  无需赘述
+in fact, without going into the details
+图和数据
+of the graphs and the data,
+正如我前面提到的  这非常清楚  
+it's very clear, as I mentioned earlier,
+一些男人维持体内雄激素水平
+that some men maintain levels of circulating androgens
+很高
+that are quite high,
+甚至和青春期一样
+even as similar as they were in puberty
+他们20岁以下的青少年时期  
+and their teen years and 20s,
+到60岁  70  80岁  保持比较稳定的水平
+well into their 60s, 70s, and 80s
+如果他们正在优化很多其他事情  
+if they're optimizing a lot of other things,
+也许遗传学也起着作用  
+and probably genetics plays a role as well,
+而有些男性则不会
+whereas some males won't,
+但在女性人口中  
+but within the female population,
+或有卵巢的个体的人口  
+or population of individuals that have ovaries,
+有一个非常刻板和特色
+there's a very stereotyped and characteristic
+就是随着卵子数量的减少  
+reduction in estrogen levels
+雌激素水平降低
+as the number of eggs becomes depleted,
+这就是我们所认为的更年期
+and that's what we think of as menopause.
+那有没有什么办法
+So what are the various things
+让女性用来应对更年期
+that one can do for menopause?
+好吧  最常见的一种
+Well, one of the most common ones
+是医师会开出补充雌激素的处方  
+is that physicians will prescribe supplemental estrogen,
+所以这是激素疗法
+so this is hormone therapy
+有人服用口服雌激素
+where somebody takes either their oral estrogen
+或者他们会使用补丁或小球  
+or they'll use a patch or a pellet,
+将雌二醇分泌到系统中的某种方法  
+some way to secrete estradiol into the system,
+根据个人的不同  成功的程度也各不相同  
+and that has varying success depending on the individual,
+有些人对此反应很好  
+some people respond very well to it,
+有的人有些困难
+other people really have challenges with it,
+而且有很多副作用
+and there are a lot of side effects associated with it
+对于某些人  而不是其他人  
+for some people, not others,
+另外  总有一个顾虑
+in addition, there's a concern always
+关于补充雌激素
+about supplementing estrogen
+当家里有乳腺癌的背景时
+when there's a breast cancer background in the family
+或出于任何原因担心乳腺癌
+or there's concern about breast cancer for any reason
+因为这些癌症中有很多是雌激素依赖性的  
+because a lot of those cancers are estrogen-dependent,
+这就是为什么他莫昔芬和阿那曲唑等药物的原因
+and that's why drugs like tamoxifen and anastrozole
+以及能阻止任何芳香化酶的药物
+and drugs that block either aromatase
+或直接封锁  请原谅我  雌激素受体
+or block, excuse me, estrogen receptors directly
+是最初开发的
+were initially developed,
+你在互联网上经常看到他们  
+you see them a lot on the internet,
+再次  对于所有体育人士
+again, for all the sports folks
+谁试图增加睾丸激素  减少雌激素  
+who are trying to increase testosterone, reduce estrogen,
+但请记住  这些药物最初是开发出来的
+but remember, those drugs were initially developed
+作为防止雌激素与雌激素受体结合的方法
+as ways to prevent estrogen binding to the estrogen receptor
+作为癌症的治疗方法
+as cancer treatments,
+所以我想很清楚
+so I want to be very clear
+我已经说了很多遍了
+and I've said this many times,
+当然  我们总是将其放在每集的标题中
+we always put it in the caption of each episode, of course,
+我不是医师  我不是医学博士  
+that I'm not a physician, I'm not an M.D.,
+我什么都没订
+I don't prescribe anything,
+我是教授  我自称东西  
+I'm a professor and I profess things,
+我是来翻译科学文献的
+I'm here to translate the scientific literature
+并指出可能是什么
+and point to what might be
+一些有用的探索途径
+some useful avenues for exploration,
+但这只是出于信息目的  
+but this is just for information purposes,
+你一定要和你的医生谈谈
+you should definitely talk to your doctor
+关于我现在正在谈论的任何事情
+about anything that I'm talking about now
+或任何播客
+or in any episode, for that matter.
+因此  如果你看一下有关更年期的文献
+So if you look at the literature on menopause
+除了标准的雌激素疗法外  
+outside of just standard estrogen therapy,
+有一些非常有趣的化合物
+there are some very interesting compounds out there
+已经使用过的
+that have been used
+并得到了高质量的同行评审研究的支持  
+and that are supported by quality peer-reviewed studies,
+再一次  我会再次推荐你
+and again, I'll refer you once again
+到这个了不起的网站inspect.com  
+to this amazing website, examine.com,
+基本上可以放在任何条件下
+where you can put in essentially any condition
+或任何补充  
+or any supplement,
+它将指出你的人为作用矩阵  
+and it will point you to the human effect matrix,
+不是动物研究  
+not animal studies,
+但是人类研究已经探索了这些东西
+but human studies that have explored these things.
+那么  这里有各种各样的东西
+Now, there are a huge variety of them here
+所以我不会去研究所有的人
+so I won't go into all of them,
+但是一些促雌激素化合物
+but some of the pro-estrogenic compounds
+被证明是强大的
+that have been shown to be powerful
+在更年期的背景下  
+in the context of menopause,
+以及其他条件
+as well as other conditions
+雌激素低于人们想要的水平
+where estrogen is lower than one would like,
+在一些文献中包含描述  
+include a description in some of the literature,
+一会儿  我会讲到这一点  
+I'll get into this in a moment,
+像黑升麻一样
+of something like black cohosh,
+我认为那是正确的发音  
+I think that's the correct pronunciation,
+字面上是黑色  然后是COHOSH  
+it's literally the word black and then C-O-H-O-S-H,
+这很有趣
+and it's very interesting,
+有13个经过同行评审的研究
+there are 13 peer-reviewed studies
+已经突出
+that have reached prominence
+在那种商业景观中
+in the kind of commercial landscape
+这种物质  黑升麻  
+where this substance, black cohosh,
+已经被推广为增加雌激素的一种方法  
+has been promoted as a way to increase estrogen,
+原来效果是一致的
+turns out that the effects are consistent
+但是还很小
+but are fairly minor,
+雌激素的增加很小
+fairly minor increases in estrogen,
+所以这确实是一个真实的效果  
+so it does seem to be a real effect,
+它对安慰剂的作用很重要  
+it is significant over the placebo effect,
+但还有明显的安慰剂作用
+but there's also a significant placebo effect
+在其中一些研究中  
+in some of these studies as well,
+所以当你看这些研究时有趣的是
+so what's interesting when you look at these studies
+是其中许多被执行了吗
+is that many of them were carried out
+在六个多月的时间里  
+over a period of six-plus months,
+他们是双盲研究  等等
+they're double-blind studies, et cetera,
+几乎所有这些都会导致雌激素的适度增加
+and almost all of them lead to modest increases in estrogen
+更年期相关症状的减轻
+and modest decreases in menopause-related symptoms.
+那么  有关这些研究的一些其他细节  
+Now, a few additional details about these studies,
+通常是针对45至64岁的女性进行的  
+they were generally carried out on women age 45 to 64,
+在某些情况下  他们专门针对女性
+in some cases, they look specifically at women
+临床上肥胖或超重的人  
+that were clinically obese or overweight,
+尽管并非总是如此  
+although not always,
+主题大小池很大  
+the subject size pools are pretty big,
+你知道  从50到87  
+you know, anywhere from 50 to 87,
+这些是体面的大小  有132个主题  等等
+these are decent size,
+132 subjects, et cetera,
+所以这些看起来像是质量研究  
+so these look to be like quality studies,
+他们基本上指出了黑升麻的事实
+and they basically point to the fact that black cohosh
+对改善更年期症状可能有适度的作用
+can have a modest effect in improving menopause symptoms.
+另一个是人参
+The other one is Panax ginseng,
+所以PNAAX人参  
+so P-N-A-A-X ginseng,
+已经显示出可以减轻某些症状
+has been shown to decrease some symptoms
+与绝经有关  主要与性欲有关  
+associated with menopause, mostly related to libido,
+尽管其他效果不可靠
+although the other effects were unreliable.
+其他东西  例如玛咖  
+Other things, like maca,
+已知它实际上会增加多巴胺  
+which is known to increase dopamine actually,
+有轻微的影响  
+had minor effects,
+像这样的名字
+things like, the names here
+有点难以发音  所以请原谅我  
+are a little hard to pronounce, so forgive me,
+像缬草
+things like Valeriana officinalis
+表明可以有所改善
+has shown that there can be some improvement
+在潮热症状
+in the hot flash symptoms
+以及与此相关的一些失眠  
+and some of the insomnia associated with that,
+因此可能值得探索  
+so that might be worth exploring,
+再次与你的医生讨论  
+again, discuss with your doctor,
+但都是100分以上
+but these were both 100-subject plus,
+45至64岁的人  
+age 45 to 64 individuals,
+双盲安慰剂对照研究
+double-blind placebo-controlled studies
+表现出显着但适度的效果
+that showed significant but modest effects.
+只有一种物质
+There was one substance
+在看过的化合物的画廊中
+in the gallery of the compounds that was looked at
+事实证明  这特别有趣  
+that turns out to be particularly interesting,
+而且这句话也很难发音  
+and this one is also particularly difficult to pronounce,
+是葛根葛根
+and it's Pueraria mirifica,
+所以我要为你讲清楚
+so I'm going to spell this out for you,
+是PUERARIA  葛根  
+it's P-U-E-R-A-R-I-A, Pueraria,
+mirifica  MIRIFICA  
+mirifica, M-I-R-I-F-I-C-A,
+对此化合物有四项研究
+and there are four studies on this compound
+在任何情况下都表明它非常有力  
+that show, in every case, it to be very potent,
+实际上  与雌激素疗法相比  
+in fact, comparable to estrogen therapy,
+雌激素替代疗法
+estrogen replacement therapy,
+在减少更年期症状方面  
+in reducing the symptoms of menopause,
+所以这很惊人
+so this was pretty striking
+因为当你完成这些研究时
+because when you go through these studies
+然后你再看一次
+and you look again
+他们似乎控制得很好  
+that they seem to be pretty well controlled,
+据我所知  
+as far as I could tell,
+他们探索了一个相当广泛的主题库  
+and they explored a pretty wide subject pool,
+而且似乎这些研究中的每一项  
+and it seems that every single one of these studies,
+当并排看葛根葛时  
+when looking side by side at Pueraria mirifica,
+也称为
+which is also called,
+那么  这真的很难发音  Kwao Krua Kao  
+now this is really hard to pronounce, Kwao Krua Kao,
+我猜这就是他们在各个国家/地区使用的名称  
+I guess that's the name that they use in various countries,
+与雌激素替代疗法相当  
+that it was comparable to estrogen replacement therapy,
+我之所以提到这是因为很多人都与我联系
+so I mentioned this because a lot of people contacted me
+并说：“更年期的失眠呢？
+and said, "What about the insomnia in menopause?
+“更年期的头痛呢？”
+"What about the headaches in menopause?"
+那么  我不建议你用光
+Now, I'm not suggesting you run out
+并立即开始服用这些化合物中的任何一种  
+and immediately start taking any of these compounds,
+请告诉你的医生  
+please talk to your doctor,
+你知道  任何激素相关的化合物
+you know, any hormone-related compound
+是一个认真的考虑
+is a serious consideration
+由于与乳腺癌的关系  
+because of the relationship to breast cancers,
+但一般来说  这些化合物是
+but just in general, these compounds are,
+雌激素和睾丸激素非常强大
+estrogen and testosterone, are exceedingly powerful
+在控制我们的精神和身体状态方面  
+in terms of controlling our mental and physical states,
+所以你要谨慎对待他们  
+and so you want to approach them with caution,
+但我认为特别有趣的是
+but I thought that that one in particular was interesting
+并且有很多PubMed记录在案  
+and for which there are quite a few PubMed-documented,
+高质量期刊中的同行评审研究
+peer-reviewed studies in quality journals.
+好吧  现在让我们谈谈
+Okay, so now let's talk
+关于特定化合物的作用  
+about the role of specific compounds,
+其中一些  其中许多可以采取
+some of which, many of which can be taken
+以补充形式或从饮食和营养中提取
+in supplementation form or extracted from diet and nutrition
+为了优化性类固醇激素  
+in order to optimize sex steroid hormones,
+再一次  我只想强调
+and again, I just want to emphasize
+我不建议任何人带任何东西
+that I'm not suggesting anyone take anything
+或停止服用任何东西  
+or stop taking anything,
+这纯粹是为了提供信息  
+this is purely for informational purposes,
+但是关于这些的一些数据
+but some of the data on these
+是非常惊人和令人印象深刻的
+is quite striking and impressive.
+很清楚
+It's very clear
+某些养分的收集是有用的
+that certain collections of nutrients are useful
+用于促进睾丸激素和雌激素的产生
+for promoting testosterone and estrogen production
+以适当的比例  
+in their proper ratios,
+这些就是我所说的
+and those things are what I would call
+那种通常的嫌疑犯  
+the sort of usual suspects,
+维生素D  这很重要
+vitamin D, which is important
+具有如此众多的生物学功能
+for so many biological functions,
+包括内分泌功能
+including endocrine functions,
+锌  镁等
+zinc, magnesium, et cetera,
+如果你想更深入地研究这个问题
+and if you want to look into this more deeply
+你想了解
+and you want to understand
+到底是什么负面影响
+exactly what the negative effects are
+没有足够的锌和镁  
+of not having sufficient zinc and magnesium,
+以及这些水平实际上可能是什么  
+and what those levels might actually be,
+有可用的论文  你可以在PubMed上进行  
+there's a paper that's available, you can go on PubMed,
+我不能说这个姓氏  很抱歉  
+I can't pronounce this last name, I'm sorry,
+在我看来  它就像Wrzosek  但它是WRZOSEK  
+it looks to me like Wrzosek, but it's W-R-Z-O-S-E-K,
+我希望我不会那么糟  Wrzosek等 2020年
+I hope I didn't butcher that too badly, Wrzosek et al. 2020
+在《内分泌与代谢评论》中
+in "Endocrinology and Metabolism Review,"
+所以这是一篇优秀的  经过同行评审的期刊上的最新论文
+so this is a recent paper in a good, peer-reviewed journal
+主要谈论
+that talks mainly about
+下丘脑-垂体-肾上腺轴如何
+how the hypothalamic-pituitary-adrenal axis
+和性类固醇激素
+and the sex steroid hormones
+受到镁缺乏的负面影响  
+are negatively impacted by deficiencies in magnesium,
+维生素D和锌的缺乏  
+deficiencies in vitamin D, and deficiencies in zinc,
+但是  这并不指向水平
+however, that doesn't point to the levels
+为了优化而应该采取的措施
+that one should take in order to optimize,
+所以并没有说要摄取X量的锌
+so it doesn't say take X amount of zinc
+或X量的镁或X量的维生素D  
+or X amount of magnesium or X amount of vitamin D,
+对于这些信息  
+for that information,
+因为它是如此依赖于上下文和依赖于个体  
+because it's so context-dependent and individual-dependent,
+我极力建议你访问inspect.com  
+I highly recommend you go to examine.com,
+你可以放入锌或镁或维生素D  
+you can put in zinc or magnesium or vitamin D,
+他们会给你剂量范围
+and they will give you ranges of dosages
+受到特定研究的支持  
+that are supported by specific studies,
+同样  这些信息对你完全免费  
+again, that information is completely free to you,
+这对于弄清这一点非常有用
+and it's very useful in figuring that out.
+我个人有补充
+I personally have supplemented
+含有锌  镁和维生素D多年  
+with zinc, magnesium, and vitamin D for years,
+但是其他很多人也这样做
+but many other people do that as well,
+问题总是  多少钱？
+and the question is always, how much?
+这就是为什么我支持完成血液工作的原因
+And that's why I'm a proponent of getting blood work done
+因为那是你知道的
+because that's how you know
+无论你的雄激素水平如何  
+whether or not your androgen levels,
+以及维生素D等的水平  
+as well as things like vitamin D levels, et cetera,
+足够高
+are sufficiently high,
+所以这些研究的重点
+so the takeaway from these studies
+找出造成缺陷的原因
+looking at what deficiencies cause
+在睾丸激素和雌激素缺乏方面
+in terms of deficits in testosterone and estrogen
+确实指向
+really point in the direction of,
+确保获得足够的锌  镁和D3
+make sure you're getting adequate zinc, magnesium, and D3
+除非你希望降低这些类固醇激素的水平
+unless you want these steroid hormone levels to be reduced
+无论出于什么原因
+for whatever reason.
+一次又一次显示的一件事
+One of the things that's been shown time and time again
+对性类固醇激素产生非常不利的影响  
+to have very negative effects on sex steroid hormones,
+睾丸激素主要是男性  雌激素主要是女性  
+testosterone mainly men, estrogen mainly in women,
+是阿片类药物
+is opioids.
+当然  这是整个问题
+There's this whole issue, of course,
+关于阿片类药物的流行  值得一整集  
+of the opioid epidemic, it's deserving of an entire episode,
+我们将与成瘾专家讨论
+we are going to talk about that with experts in addiction
+还有治疗疼痛的人等等
+and people that treat pain and so forth,
+但阿片类药物大大减少
+but the opioids dramatically reduce
+睾丸激素和雌激素的水平
+levels of testosterone and estrogen,
+他们这样做主要是通过破坏受体
+and they do that mainly by disrupting the receptors
+在促性腺激素释放激素神经元上
+on gonadotropin-releasing hormone neurons,
+下丘脑内的这些神经元
+these neurons within the hypothalamus
+与垂体沟通  
+that communicate to the pituitary,
+实际上  服用大量阿片类药物的人
+and in fact, people that take large amounts of opioids,
+甚至长时间服用低剂量的阿片类药物  
+or even take low levels of opioids for long periods of time,
+会发展出各种内分泌综合症
+will develop all sorts of endocrine syndromes,
+一遍又一遍地显示出来  
+that's been shown over and over again,
+男性乳房发育或男性乳房发育  
+gynecomastia, or male breast development in males,
+女性卵巢破裂  
+disruptions to the ovary in females,
+这确实是一个非常糟糕的情况  
+it's really a quite terrible situation,
+所以过量的阿片类药物非常成问题
+so excessive opioids are very problematic
+对于性类固醇激素  
+for sex steroid hormones,
+我认为没有人会有任何麻烦
+I don't think anyone will have any trouble
+找到任何有关这方面的文献  
+finding any literature on that,
+你可以进入PubMed  
+you can just go into PubMed,
+你可以放阿片类药物  睾丸激素或阿片类药物  雌激素  
+you can put opioids, testosterone, or opioids, estrogen,
+但主要的作用实际上是在下丘脑中
+but the major effect is actually way up in the hypothalamus
+关闭GnRH的生产  
+to shut down the production of GnRH,
+刺激激素
+the very hormone that stimulates
+睾丸激素和雌激素的释放
+testosterone and estrogen release.
+那么  整个行业都致力于补充
+Now, there's an entire industry devoted to supplements
+人们可以接受的各种事物
+and various things that people can take
+增加睾丸激素  
+to increase testosterone,
+其中一些拥有科学数据来支持它们  
+some of which have scientific data to support them,
+其中一些不
+some of which do not,
+其中一些有传闻的支持
+and some of which have anecdotal support
+有些则没有
+and some of which do not.
+范围如此广泛  
+This ranges so broadly,
+我的意思是  像鹿角一样的东西  
+I mean, things like the material off deer antlers,
+大概是IGF1
+which is high in, supposedly, IGF1,
+在生长激素途径中
+which is in the growth hormone pathway,
+一直到公牛睾丸的实际消耗  
+all the way to actual consumption of bull testes,
+你现在可以上亚马逊
+you can go on Amazon right now,
+我当然不建议你这样做  
+I certainly don't suggest that you do this,
+你实际上可以从奶牛那里购买碎的睾丸  
+and you can actually buy ground up testes from cows,
+你可以吃掉那些
+and you can consume those,
+那么  很多事情将在肠道中分解  
+now, a lot of that's going to be broken down in the gut,
+我当然不建议你这样做  
+I'm certainly not suggesting you do that,
+但要指出的是  这是一本浩如烟海的文学作品  
+but just the point out this is a huge and vast literature,
+实际上可以追溯到几百年前
+and it actually dates back hundreds of years
+即使很久以前才发现睾丸激素
+even though testosterone wasn't discovered that long ago
+作为一种特定的激素分子
+as a specific hormone molecule
+然后进行表征  然后重新合成  
+and characterized and then resynthesized,
+它有一个巨大的产业
+it has a huge industry
+由于它具有强大的作用  
+because of the powerful effects that it has,
+同样是雌激素
+likewise with estrogen,
+避孕药的发展
+the development of the birth control pill
+只有通过了解结构才有可能
+was only made possible by understanding the structure
+雌激素和雌二醇
+of estrogen and estradiol,
+我们将讨论所有有关节育的内容
+and we're going to talk all about birth control
+及其运作方式及其对其他各种途径的影响
+and how it works and its influence on various other pathways
+在未来的一集中
+in a future episode,
+但是有这些补充化合物
+but there are these supplement compounds
+科学文献支持的
+that are supported by the scientific literature
+就其调节雄激素的能力而言  
+in terms of their ability to adjust androgens,
+像睾丸激素和二氢睾丸激素
+things like testosterone and dihydrotestosterone.
+其中之一
+One of the ones that has
+肌酸是一个很好的证据  
+really good evidence for it is creatine,
+很明显  关于肌酸的东西  
+it's very clear that something about creatine,
+尽管机制还不十分清楚  
+although the mechanism isn't exactly clear,
+要么增加5-α还原酶
+either increases 5-alpha reductase
+或使睾丸激素分子更易感
+or makes the testosterone molecule more susceptible
+对某些酶反应
+to certain enzymatic reactions
+导致DHT升高  
+that leads to increases in DHT,
+DHT  二氢睾丸激素  
+DHT, dihydrotestosterone,
+正如我在上一集中提到的
+as I mentioned in the previous episode,
+在创造过程中扮演着重要角色
+has this dramatic role in creating
+产前大脑的一种男性化  
+a kind of masculinization of the brain prenatally,
+它也定义了主要的性别特征
+it also defines the primary sex characteristic
+阴茎的生长等等
+of the growth of the penis, et cetera,
+以及婴儿期  幼儿期和以后的生活  
+and beyond infancy and early childhood and later in life,
+它在产生秃顶方面具有强大的作用  
+it has powerful effects in creating balding,
+在胡须生长等方面  
+in beard growth, et cetera,
+对雄激素受体有更高的亲和力
+and it has a much higher affinity for the androgen receptor
+比睾丸激素
+than does testosterone,
+所以肌酸可以增加DHT  
+so creatine can increase DHT,
+这意味着如果你服用肌酸
+which means that if you take creatine
+而且你很容易被DHT感染  
+and you're very DHT-susceptible,
+那你可能会掉头发
+then you might experience some hair loss,
+这已经引起了广泛的争论  肌酸会导致脱发吗？
+this has been heavily debated, does creatine cause baldness?
+这要取决于
+It's going to depend,
+这取决于你有多少5-α还原酶
+it's going to depend on how much 5-alpha reductase you have
+以及你有多容易脱发
+and how prone to hair loss you are,
+有些人可以服用肌酸而没有任何问题
+some people can take creatine without any problem
+在脱发方面
+in terms of hair loss,
+有些人不能  他们开始脱发
+some people cannot, they start losing their hair
+至少对他们来说不舒服
+to levels that, at least for them, aren't comfortable.
+还有其他一些事情可以增加睾丸激素
+There are a few other things that can increase testosterone
+这与方式有关
+and it has to do with the way
+睾丸激素以其游离形式和结合形式存在  
+that testosterone exists in its free and its bound form,
+所以睾丸激素  这个分子是总睾丸激素的一种  
+so testosterone, the molecule is kind of total testosterone,
+通常是要测量的
+that's usually what's measured,
+这是通常抛出的那种级别
+this is the kind of levels that are typically thrown around
+是300到900之间的自然范围
+of anywhere from 300 to 900 being the kind of natural range,
+然后是超生理的
+and then supraphysiological,
+上升到1,200  1,600范围  
+getting up into 1,200, 1,600 range,
+但是睾丸激素不是
+but testosterone isn't
+只是在血液中自由地漫游  
+just roaming around free in the blood,
+至少大部分不是  
+at least most of it isn't,
+大多数都绑定了
+most of it is bound
+性激素结合球蛋白  SHBG或白蛋白的结合  
+to either sex hormone binding globulin, SHBG, or to albumin,
+他们需要作为运输者
+they're needed as transporters
+使睾丸激素进入细胞
+to get testosterone into cells
+这样睾丸激素可以对基因表达产生影响
+so that testosterone can have its effects on gene expression
+以及细胞内的其他途径  
+as well as other pathways within the cells,
+所以人们谈论游离睾丸激素的水平
+so people talk about that the level of free testosterone
+真的很重要
+is really what's important
+而你想优化游离睾丸激素  
+and that you want to optimize free testosterone,
+这有点棘手  
+that's a little bit of a tricky statement,
+有点像  是真的  
+that's kind of like, it's true,
+然而  这并不是真正的反思
+and yet, it's not really reflective
+彻底了解
+of a thorough understanding
+这些结合球蛋白是如何工作的  
+of how these binding globulins work,
+记住  这些结合球蛋白
+remember, these binding globulins
+不是在那里吸收所有的睾丸激素
+aren't there to soak up all your testosterone
+只是让你很难释放睾丸激素
+just to make it hard for you to free up testosterone
+而且你知道  在体育馆或其他任何地方都可以赚钱  
+and you know, make gains in the gym or whatever it is,
+或性欲增加  
+or have increases in libido,
+他们在那里实际运输睾丸激素
+they're there to actually transport testosterone
+到特定的组织  以将它们穿梭到特定的组织
+to specific tissues, to shuttle them to specific tissues
+并设定结合和未结合睾丸激素的比率
+and to set the rate of bound and unbound testosterone
+所以这不是一次全部解除绑定  
+so that's it's not all unbound at once,
+而且你知道  这总是很有趣
+and you know, it's always interesting
+看文献
+to look in the literature
+看看每个人都想要
+and see how everyone wants
+释放他们的睾丸激素  使其起作用
+to free up their testosterone so that it can work,
+但是性激素结合球蛋白
+but sex hormone binding globulin
+会结合过多的睾丸激素
+can bind up too much testosterone
+到对性欲产生负面影响的地步
+to the point where it's having negative effects on libido
+或关于肌肉生长和脂肪流失之类的事情  
+or on muscle growth and fat loss and things of that sort,
+男性和女性都是如此  
+this is true in males and females,
+或者它可以完全按照预期的方式工作  
+or it can be doing exactly what it's supposed to do,
+这是穿梭睾丸激素
+which is shuttling testosterone
+到适当的组织和器官
+to the proper tissues and organs
+它具有所有这些作用  包括大脑
+where it has all these effects, including the brain.
+所以有补品  
+So there are supplements,
+特别是东革阿里  
+in particular, tongkat ali,
+也就是这个名字
+which is, it has this other name,
+这就是所谓的tongkat ali  
+it's something called tongkat ali,
+有时被称为
+sometimes it's called,
+并原谅我很难发音  
+and forgive me that it's hard to pronounce,
+但是Eurycoma longifolia Jack  
+but Eurycoma longifolia Jack,
+他们似乎总是有这些名字
+they always seem to have these names
+那种暗示雄激素的特征  
+that kind of allude to androgenic features,
+就像我不知道为什么  longifolia Jack  
+like I don't know why, longifolia Jack,
+我不知道  我认为这很明显
+I don't know, I think it's kind of obvious
+为什么听起来有点雄激素
+why that sounds sort of androgenic.
+多项研究表明了这一点  
+This has been shown in several studies,
+你可以在inspect.com上找到它们  
+and you can find these on examine.com,
+或者你也可以去PubMed  我已经看过这些了  
+or you can go to PubMed if you like, I've looked at these,
+它似乎确实有一定的生育能力  
+that it does seem to have some pro-fertility,
+不含睾丸激素的促效剂和微妙的壮阳作用  
+pro-free testosterone, and subtle aphrodisiac effects,
+它似乎也有轻微的抗雌激素作用  
+it does also seem to be a slight anti-estrogen,
+所以这个的报告是
+so the reports of this are,
+人们每天服用400至800毫克  
+people take this anywhere from
+400 to 800 milligrams a day,
+再一次  我不建议你这样做  
+again, I'm not suggesting you do that,
+但这就是那种
+but that's kind of what's out there,
+并且有一些不错的科学文献
+and there is some decent scientific literature
+支持它解放的事实
+to support the fact that it liberates
+一些结合的睾丸激素
+some of the bound testosterone
+并提供更多免费的睾丸激素  
+and allows more free testosterone to be available,
+一些报道的引用-取消引用的副作用
+some of the reported quote-unquote side effects
+是过度警觉和失眠之类的事情
+are things like excessive alertness and insomnia
+如果一天来得太晚等等
+if it's taken too late in the day and so forth,
+但我鼓励你进一步探索这一点  
+but I encourage you to explore that further if that's,
+如果增加游离睾丸激素
+if increasing free testosterone
+是你感兴趣的事情
+is something that you're interested in doing.
+Examine.com还包含许多其他内容
+Examine.com includes a lot of other things
+可以增加睾丸激素  
+that can increase testosterone,
+已经发生的事情之一
+one of the things that's been
+据说可以释放血液中的睾丸激素
+purported to free up testosterone in the blood
+荨麻  刺荨麻  
+are things like nettles, stinging nettles,
+尽管我应该指出文学
+although I should point out that the literature
+指向荨麻
+points to stinging nettle
+也有一些相当有效的作用
+also having some fairly potent effects
+在前列腺和肝脏上  
+on the prostate and on the liver,
+所以这可能是一个棘手的分子
+and so it might be a tricky molecule
+也许对人们来说没有吸引力
+and maybe not an attractive one for people to take.
+所以我们谈到了肌酸  我们谈到了东革阿里  
+So we talked about creatine, we talked about tongkat ali,
+很明显  硼很有趣  
+it's clear that boron, which is really interesting,
+信不信由你  我想硼来自
+believe it or not, I think boron comes from,
+我认为这些就像流星降落在地球上一样
+I think these were like, meteors that landed on Earth
+现在他们提取硼
+and now they extract boron,
+这是这些疯狂的故事之一  当你看着它时  
+it's one of these crazy stories that, when you look at it,
+你会说：“怎么可能？”
+you go like, "How could that possibly be?"
+但实际上是这样的  
+but there's actually, that's how it works,
+硼  有一些科学上的支持
+that boron, there's some scientific support
+因为它释放了更多的睾丸激素  
+for it freeing up more testosterone,
+再一次释放睾丸激素
+and again, freeing up testosterone
+可能正是你想要的  
+may be exactly what you want,
+我只是不认为我们应该
+I just don't think that we should
+妖魔化这些载体蛋白  例如白蛋白和SHBG  
+demonize these carrier proteins like albumin and SHBG,
+其实白蛋白很重要
+in fact, albumin is very important
+使睾丸激素能够进入大脑
+for testosterone to be able to make it into the brain
+产生一些促雄激素作用
+to have some of the pro-androgenic effects
+对睾丸激素的认知作用
+on the cognitive effects of testosterone
+因为无论是男性还是女性  
+because in both males and females,
+睾丸激素可以改变这些行为  例如寻求伴侣  
+testosterone can shift these behaviors, like mate-seeking,
+减少焦虑等
+reductions in anxiety, and so forth,
+我们之前讨论过的
+that we talked about before,
+只有进入大脑
+only by making it into the brain,
+有一个叫做血脑屏障的东西  
+and there is this thing called the blood-brain barrier,
+令人着迷
+which is fascinating
+并且值得一整集  
+and deserving of an entire episode also,
+并使分子穿过血脑屏障  
+and getting molecules across the blood-brain barrier,
+即使它们是性脂固醇激素
+even if they're sex steroid hormones, which are lipophilic
+并可以穿过细胞膜  需要载体  
+and can pass through cell membranes, requires carriers,
+这些载体通常会结合或包含白蛋白  
+and those carriers often are bound to or include albumin,
+因此  释放所有睾丸激素并不是目的  
+and so it's not the goal to free up all your testosterone,
+但将游离睾丸激素纳入研究范围
+but getting free testosterone into a range
+可以满足你的特定目标和需求
+that works for your particular goals and needs
+是一个吸引人的人  
+is an attractive one,
+这就是我们讨论这些特定工​​具的原因
+and that's why we're discussing these particular tools.
+人们摄取的硼的量  
+The amounts of boron that people take,
+你可以在PubMed或Examine中再次找到它  
+and you can find this, again, on PubMed or Examine,
+但是人们每天要服用几克  
+but people take a couple grams of it a day,
+我不知道有任何特定的副作用  
+I'm not aware of any specific side effects,
+但是你总是  总是  总是想检查
+but you always, always, always want to examine
+对于特定的副作用
+for the particular side effects
+以及有不同背景和条件的人  
+and people with different backgrounds and conditions,
+正如我们谈到的更年期和雌激素
+as we talked about for menopause and estrogen,
+一定要小心
+have to be careful
+因为当你开始调节激素时  
+because when you're starting to modulate hormones,
+你开始调节的不仅仅是组织
+you're starting to modulate not just the tissues
+通过结合这些激素而蓬勃发展  
+that thrive on binding of those hormones,
+但请记住  乳腺癌如此之多的原因
+but remember, the reason why there's so much breast cancer
+还有一个原因就是睾丸癌如此之多
+and there's a reason why there's so much testicular cancer
+是任何经历快速繁殖的组织
+is that any tissue that undergoes rapid reproduction
+特定的细胞
+of particular cells,
+所以细胞繁殖很多
+so there's a lot of reproduction of cells
+在子宫内膜脱落
+in shedding of uterine lining
+以及卵巢中细胞和卵的繁殖  
+and the reproduction of cells and eggs in the ovary,
+在睾丸中  有生产
+and in the testes, there's the production
+Leydig和sertoli细胞   of Leydig and sertoli cells,
+而且这种类型的精子正在不断地产生  
+and there's this kind of ongoing production of sperm,
+这就是为什么这些组织特别脆弱的原因
+that's why those tissues are particularly vulnerable
+对癌症的发展  
+to the development of cancers,
+而且其中许多癌症都是对雄激素敏感的  
+and many of those cancers are androgen-sensitive,
+这就是为什么主要的治疗方法之一
+that's why one of the major treatments
+用于前列腺过度生长或前列腺癌
+for prostate overgrowth or prostate cancer
+是要给抗雄激素药好吗？
+is to give anti-androgenic drugs, okay?
+不只是关闭所有事物
+It's not just to shut down all things
+与被雄化有关
+related to being androgenized,
+真的是要预防睾丸激素
+it's really about trying to prevent testosterone
+从鼓励肿瘤生长  
+from encouraging growth of tumors,
+所以我要特别强调一下
+so I want to really emphasize the caution there
+因为思考的时候很容易
+because it's easy when thinking
+关于优化雌激素和睾丸激素
+about optimizing estrogen and testosterone
+只是想  哦  越多越好  
+to just think, oh, more is better,
+绝对不是更好  
+more is definitely not better,
+不只是因为它们可以加香
+and it's not just because they can aromatize
+或转化为其他东西  
+or convert into other things,
+因为癌症
+it's because cancers,
+或任何具有大量细胞周转的组织  
+or any tissue that has a lot of turnover of cells,
+会在雄激素上蓬勃发展  
+is going to thrive on androgen,
+任何促进增长的东西
+anything that promotes growth
+会在雌激素上蓬勃发展  
+is going to thrive on estrogen,
+记住  脑组织的翻转不多  
+remember, brain tissue doesn't turn over that much,
+实际上并没有太多的新神经元产生  
+there isn't really much production of new neurons,
+脑癌发生了  但很罕见  
+brain cancers happen but they're kind of rare,
+当它们发生时  
+and when they do happen,
+他们往往是神经胶质细胞  
+they tend to be glial cells,
+有很多扩散
+which have a lot of proliferation,
+胶质细胞可以增殖  
+glial cells can proliferate,
+成人神经元不会创造更多自己的东西  
+adult neurons don't create more of themselves,
+他们不会创造更多的神经元  
+they don't create more neurons,
+一般而言  除了大脑和身体的一些地方  
+in general, except in a few places in the brain and body,
+因此  任何自身回收的组织都容易患癌症  
+so any tissue that recycles itself is prone to cancers,
+那些组织在雄激素和雌激素上壮成长
+and those tissues thrive on androgens and estrogens
+产生更多的肿瘤  
+to create more tumor,
+所以你要小心点
+so you have to be careful
+每当你调节激素时  
+anytime you're modulating hormones,
+特别是雄激素和雌激素  
+especially androgens and estrogens,
+在我的文学搜寻中
+and in my scouring of the literature
+并看看那里有什么
+and looking at kind of what's out there
+以及人们在谈论什么
+and what people are talking about,
+在科学文献中  我的意思是  
+and I also mean in the scientific literature,
+无论如何  对我来说是新事物之一
+one of the things that is new to me, anyway,
+可能对那里的许多健身老鼠来说都不是新鲜事  
+probably not new to a lot of the gym rats out there,
+或在YouTube影片上花费大量时间的人
+or the people that spend a lot of time on YouTube videos
+谈论雄激素  
+talking about androgens,
+这些  请原谅我再次屠杀这个名字  
+are these, forgive me for butchering the name again,
+这些蜕皮类固醇  
+are these ecdysteroids,
+所以蜕皮类固醇是分子
+so ecdysteroids are molecules
+来自菠菜之类的东西  信不信由你  
+that come from things like spinach, believe it or not,
+与胆固醇分子有很多相似之处
+that have a lot of similarity to the cholesterol molecule,
+现在正在讨论很多的那个
+the one that's being discussed a lot out there right now
+是所谓的turkesterone  
+is something called turkesterone,
+我希望我知道为什么它被称为turkesterone  
+I wish I knew why it was called turkesterone,
+有人告诉我为什么叫turkesterone  
+someone tell me why it's called turkesterone,
+它和火鸡有关系吗？
+does it have anything to do with turkeys?
+我不知道为什么叫turkesterone
+I don't know why it's called turkesterone,
+也许有人会知道
+perhaps someone will know.
+无论如何  这些蜕皮激素
+In any case, these ecdysteroids
+足够类似于胆固醇
+are similar enough to cholesterol,
+记住  胆固醇是前体
+and remember, cholesterol is the precursor
+去睾丸激素  皮质醇和雌激素
+to testosterone, cortisol, and estrogen,
+而且似乎有些蜕皮类固醇
+and it appears that some of these ecdysteroids
+确实具有生物利用度
+do have bioavailability,
+或其代谢物具有生物利用度  
+or their metabolites are bioavailable,
+多年以来  
+and this was something that, for many years,
+人们谈论昆虫激素是否
+people talked about whether or not insect hormones
+或其他物种的激素
+or hormones from other species
+实际上可以被人类使用
+could actually be used by humans
+或者它是否会产生任何作用  
+or whether or not it would have any effect at all,
+根据一项研究很明显
+and it's pretty clear based on a study
+我能够找到  
+that I was able to find,
+在2019年有一篇论文发表了
+there's a paper that came out in 2019,
+这是《毒理学档案》中的一项比较研究  
+it's a comparative study in the "Archives of Toxicology,"
+这是艾森曼（Isenmann）等人  艾森曼（ISENMANN）等人  
+this is Isenmann et al., I-S-E-N-M-A-N-N et al.,
+谈论蜕皮激素
+that talks about the ecdysteroids
+它是结合在一起给出的
+and it was given in conjunction
+接受力量训练或没有力量训练  
+with strength training or no strength training,
+这是一个十周的干预  
+this was a 10-week intervention,
+他们的结论是这些蜕皮激素
+and their conclusion is that these ecdysteroids
+有一个相当重要的安慰剂对照  
+had a fairly significant, above placebo controls,
+增加肌肉质量  力量  肥大作用  
+increases in muscle mass, strength, hypertrophy effects,
+人们会期望的各种各样的事情
+all the sorts of things that one would expect
+随着雄激素的增加  
+with increases in androgen,
+他们对这项研究的结论不是我的结论  
+their conclusion of this study is not my conclusion,
+尽管我可能同意也可能不同意  
+although I may or may not agree with them,
+这不是我的意见  
+this isn't about my opinions,
+只是  我想清楚一点  
+it's just, I want to be clear,
+这些是他们的话  不是我的  
+these are their words, not mine,
+但是他们用他们的话说
+but they say that, in their words,
+引用“我们的结果强烈建议
+quote, "Our results strongly suggest
+“蜕皮类固醇的纳入
+"the inclusion of ecdysteroid
+“在禁止使用的物质清单中”
+"in the list of prohibited substances."
+所以他们说这些东西是如此强大
+So they're saying these things are so powerful
+它们应该在违禁物质清单中  
+that they should be on the list of banned substances,
+这可能使某些人不高兴  
+which might be upsetting to some,
+或你们中的某些人可能在想  谁在乎？
+or some of you might be thinking, well, who cares?
+运动中增加激素的整个问题
+The whole issue of augmenting hormones in sports
+是一个非常有趣的问题  
+is a very interesting issue,
+实际上  如果你只想了解一点轶事  
+in fact, if you just want a little anecdote about that,
+我当然不能在这里透露姓名  
+I can't reveal names here, of course,
+但是我最近学到的东西对我来说非常令人惊讶
+but what I learned recently was very surprising to me
+这是很多从事专业运动的运动员
+which is that many athletes in pro sports
+正在服用睾丸激素  
+are taking testosterone,
+他们能够合法地做到这一点
+and they are able to do that legally
+不只是因为它可以通过处方获得  
+not just because it's available by prescription,
+但他们被允许这样做
+but they are allowed to do that
+在他们的运动规则下
+under the rules of their sport
+精美的印刷品  包括我在内  没有人见过  
+in the fine print that no one, including me, had ever seen,
+如果他们受伤了
+if they've had an injury,
+所以如果运动员受伤  那就打开门
+so if athletes are injured, then it opens up the door
+用于某些形式的睾丸激素增强
+for certain forms of testosterone augmentation
+和其他类型的扩充
+and other types of augmentations
+如果他们没有受伤  他们将无法获得这些东西  
+that are not available to them if they're not injured,
+这总是让我感到奇怪
+which always makes me wonder now
+当我看到他们受伤时
+when I see them getting injured
+是否试图获得一些支持
+whether or not that's an attempt to get some of the support
+因为绝对没有问题
+because there's absolutely no question
+雌激素和睾丸激素调节基因表达  
+that estrogens and testosterones modulate gene expression,
+调节力量  调节大脑的运作方式  
+modulate strength, modulate the way the brain works,
+调节我们与努力和焦虑的关系  等等
+modulates our relationship to effort and anxiety, et cetera,
+当我们谈论补充时  
+and while we're talking about supplementation,
+补充的效果  
+the effects of supplementation,
+我会说  在某些人中可能会非常戏剧化  
+I would say, in some individuals can be quite dramatic,
+但他们永远  永远  永远
+but they're always, always, always,
+除非在极端情况下  否则会变得更加微妙  
+except in extreme cases, going to be far subtler,
+对不起  更微妙的是  
+excuse me, far more subtle,
+使用适当的英语  
+to use the proper English,
+比现在要微妙得多
+far more subtle than would be,
+例如  只是注射睾丸激素
+for instance, just in injecting testosterone
+或注射雌激素等
+or injecting estrogen, et cetera,
+因此  我认为我们应该对此诚实和坦率
+so I think we should just be honest and upfront about that.
+到目前为止  在谈论优化激素方面
+So thus far in terms of talking about optimizing hormones
+在补充的讨论中  
+and in the discussion of supplementation,
+我还没有真正谈论过事情
+I haven't really talked about things
+实际上直接影响大脑  
+that actually affect the brain directly,
+增加了脑垂体的输出和类似的东西  
+that increase the pituitary output and things of that sort,
+我们主要是在谈论事情
+we've mainly been talking about things
+释放睾丸激素或增加雌激素
+that free up testosterone or that increase estrogen
+在外围的水平  
+at the level of the periphery,
+但是如果你还记得回来的路
+but if you remember way back
+到这集的开始  
+to the beginning of this episode,
+激素是在人体的不同部位产生的
+hormones are made in different locations in the body
+还有激素
+and there are hormones
+促进激素的释放和产生
+that promote the release and the production of hormones
+来自身体其他组织
+from other tissues in the body,
+也是其中的主要激素之一
+and one of the main hormones for that
+是促黄体激素  
+is luteinizing hormone,
+黄体生成激素又来自垂体  
+luteinizing hormone, again, comes from the pituitary,
+循环  要么去卵巢
+circulates and either goes to the ovary
+促进卵子成熟的各个方面
+to promote various aspects of egg maturation
+以及雌激素的产生
+as well as production of estrogen,
+并向睾丸推广
+and to the testes to promote
+睾丸激素和精子的产生  
+testosterone and sperm production,
+和处方版本
+and the prescription version
+黄体生成素的增加
+of increasing luteinizing hormone
+是一种叫做hCG或人类绒毛膜促性腺激素的物质  
+is something called hCG, or human chorionic gonadotropin,
+已经合成
+which has been synthesized
+现在可以作为处方药使用
+and is now available as a prescription drug,
+在各种情况下都采取了这种措施以增加生育能力
+it's taken in various contexts for increasing fertility
+无论是男性还是女性  
+both by males and by females,
+由于现在所有有意义的原因  它可以增加  
+it can increase, for all the reasons that now make sense,
+它可以增加精子的产量  
+it can increase sperm production,
+它可以产生排卵频率  
+it can produce ovulation frequency,
+它可以产生卵子的数量  甚至
+it can produce the number of eggs, even,
+排卵期
+that are deployed in a given ovulation,
+尽管这并不总是一件好事  
+although that's not always a good thing,
+基本上就是生育
+it basically is pro-fertility,
+睾丸激素  雌激素
+pro-testosterone, pro-estrogen
+根据你的背景  
+depending on your background,
+有趣的是
+and what's interesting is
+hCG最初是合成的 hCG was initially synthesized,
+从孕妇的尿液中收集和合成的  
+collected and synthesized from pregnant women's urine,
+在合成之前先信不信
+and believe it or not, before it was synthetically made
+并作为处方药出售  
+and sold as a prescription drug,
+孕妇尿液实际上有一个黑市
+there was actually a black market for pregnant women's urine
+人们会在哪里买尿  
+where people would buy the urine,
+我不知道  我猜他们可能
+I don't know, I'm guessing that they probably
+刚刚吃掉了  这很奇怪  
+just consumed it, which is weird,
+但无论如何  人类绒毛膜促性腺激素
+but in any case, human chorionic gonadotropin
+现在可以作为处方药
+is now available as a prescription drug
+这是很多人使用的东西之一
+and it's one of the things that many people use
+增加睾丸激素或雌激素
+to increase testosterone or estrogen
+为了增加生育力
+for increasing fertility,
+在某些情况下  我认为它已被使用
+in some cases I think it's used
+提高运动表现
+to increase sports performance
+或当人们关闭性腺时
+or when people have shut down their gonads
+出于任何原因  因为过度的激素治疗
+for whatever reason because of excessive hormone therapies
+或者他们有某种
+or they have some sort of,
+有时实际上垂体有病变  
+sometimes there are actually lesions to the pituitary,
+有时人们的脑垂体有肿瘤  
+sometimes people have a tumor in the pituitary,
+这实际上并不常见  
+it's actually not common,
+但是在脑瘤和神经瘤中
+but among brain tumors and neural tumors,
+这是较常见的一种
+it's one of the more common ones,
+然后你会发现LH和FSH的缺陷  
+and then you get deficiencies in LH and FSH,
+因此人们会服用hCG来刺激性腺  
+and so people will take hCG to stimulate the gonads,
+所以有多种原因
+so there are a variety of reasons
+为什么创造这些毒品  
+why these drugs were created,
+但是有一些补品  不是很多  
+but there are certain supplements, not many,
+显然可以增加促黄体激素
+that apparently can increase luteinizing hormone
+从而增加睾丸激素和雌激素  
+and thereby can increase testosterone and estrogen,
+证据更丰富的一种是Fadogia agrestis  
+and one of the more well-documented one is Fadogia agrestis,
+那是FADOGIA  
+that's F-A-D-O-G-I-A,
+单独的单词  AGRESTIS  
+separate word, A-G-R-E-S-T-I-S,
+至少根据文献
+which, at least according to the literature
+我能够找到  
+that I was able to find,
+可以增加促黄体激素水平
+can increase levels of luteinizing hormone
+因此  睾丸激素水平或雌激素水平  
+and thereby levels of testosterone or levels of estrogen,
+再一次  如果一个人要服用Fadogia agrestis  
+and again, if an individual were to take Fadogia agrestis,
+他们可能会发现什么
+what they would probably find
+是睾丸激素和雌激素会增加
+is that testosterone and estrogen would increase
+在任何具有染色体或性腺背景的人中  
+in anyone of any chromosomal or gonadal background,
+但请记住  这是两者的比率  
+but remember, it's the ratio of both,
+如果某人的雌激素水平低而睾丸激素水平高  
+if someone has low estrogen and high testosterone,
+举例来说  他们有睾丸  
+let's say they have testes just by way of example,
+那么这两个指标都有望增加  
+then both of those would be expected to increase,
+如果某人的雌激素水平高  睾丸激素水平低  
+and if someone has high estrogen and low testosterone,
+并说有卵巢
+and let's just say has ovaries,
+然后两者都会增加
+then both of those would increase
+通过服用Fadogia agrestis
+by taking Fadogia agrestis.
+Fadogia agrestis的副作用
+The side effect profile of Fadogia agrestis
+尚未真正记录在案  
+hasn't really been documented,
+所以还不清楚
+so it's a little unclear,
+我只想强调
+I just want to emphasize
+任何时候有人要开始服用补品  
+that anytime someone's going to start taking supplements,
+或修改性类固醇激素  
+or modifying sex steroid hormones,
+完成血液工作非常重要
+getting blood work done is extremely important
+出于安全原因  
+for safety reasons,
+而且还只是想知道事情是否在起作用  
+and also just to know whether or not things are working,
+而且因为所有这些事情
+and because all of these things
+受到负面反馈  
+are subject to negative feedback,
+之前在上一集中谈到了这一点  
+talked about this previously on a previous episode,
+但是如果睾丸激素升高或升高  
+but if testosterone goes high, or too high,
+它可以反馈并关闭黄体生成素  
+it can feed back and shut down luteinizing hormone,
+然后  这将进一步关闭睾丸激素的生产  
+which will then shut down further testosterone production,
+同样地  如果雌激素水平过高
+likewise, if estrogens are going too high
+或是在周期的各个阶段过高
+or they're going too high at various phases of the cycle,
+可以开始抛出其他各种激素  
+that can start to throw off various other hormones,
+包括FSH  孕酮  LH  
+including FSH, progesterone, LH,
+月经周期本身
+the menstrual cycle itself
+绝对是绝妙的平衡
+is a just absolutely exquisite balance
+黄体生成素的反馈保持较低且恒定  
+of feedback of luteinizing hormone kept low and constant,
+至少在周期的前14天  
+at least for the first
+14 days of the cycle,
+然后是周期的中间  有一个高峰
+then mid cycle, there's a peak,
+通常是在排卵的时候
+and that's typically when ovulation occurs,
+这就是为什么最有可能怀孕的原因
+that's why pregnancy is most likely
+在28天周期的中间  
+during the middle of the 28-day cycle,
+FSH在开始的14天里先涨后跌  
+FSH kind of goes up and then down across the first 14 days,
+所以采取任何措施或进行真正的修改
+so taking anything or really modifying
+一个人的雌激素或睾丸激素
+one's estrogens or testosterone
+在月经周期的背景下
+on that background of the menstrual cycle
+确实会破坏这些事物相互作用的方式  
+is really going to disrupt the way those things interact,
+就是如此精致的反馈循环  
+and it's just such an exquisite feedback loop,
+所以我不是说不要那样做  
+so I'm not saying don't do that,
+但你绝对想知道自己在做什么  
+but you definitely want to be aware of what you're doing,
+抽血是做到这一点的一种方法  
+and blood draws are one way to do that,
+监测排卵周期
+monitoring cycles for ovulating females
+是另一种方式
+is another way to do that,
+在男性中  有一个很好的窗户
+and in males, having a good window
+了解睾丸激素  DHT的情况  
+into what's going on with testosterone, DHT,
+芳香化酶  雌二醇  LH等
+aromatase, estradiol, LH, et cetera,
+至关重要
+is just vital,
+这确实是实践的一部分
+and it's really part and parcel with the practice
+考虑优化这些不可思议的事情
+of thinking about optimizing these incredible things
+我们称之为性类固醇激素  
+that we call sex steroid hormones,
+雌激素和睾丸激素及其衍生物
+estrogen and testosterone and their derivatives.
+补充剂和分子列表
+The list of supplements and molecules
+可以调节雌激素和睾丸激素  
+that can adjust estrogen and testosterone is vast,
+我只涉及了其中一些  
+and I only touched on a few of these,
+我真的很想强调那些
+I really tried to emphasize the ones
+有人类研究的
+for which there are human studies
+或大部分是人类研究的
+or that have mostly human studies,
+甚至只是一项人类研究  
+or maybe even just one human study,
+还有其他事情
+there are other things out there
+有科学数据
+for which there are scientific data,
+像Bulpine natalensis这样的东西
+things like Bulbine natalensis,
+肯定支持增加睾丸激素
+which definitely has support for increasing testosterone
+但是所有的研究都是在老鼠身上进行的
+but all the studies were in rats,
+我认为人类有一些证据
+I think there is some evidence in humans
+但证据主要以形式
+but the evidence mainly comes in the form
+我们所说的赞助研究
+of what we call sponsored research,
+所以公司为研究付费  
+so companies paying for research,
+与独立研究不同
+which is different than independent research
+那些对结果没有偏见的人  
+by people who are not biased in terms of the outcome,
+和我没有的原因
+and the reason I didn't
+扔掉像娜娜花一样的东西
+throw out things like Bulbine natalensis
+他们似乎有肝毒性吗
+is they seem to have liver toxicity
+类似于高水平的合成代谢外源性类固醇  
+similar to high levels of anabolic exogenous steroids,
+他们有一些问题
+there's some problems associated with them
+这使他们很重要  需要思考
+that make them, you know, important to think about
+如果你对这个领域和内分泌学感到好奇  
+if you're curious about this area and the endocrinology,
+但也有些pre可危  
+but also somewhat precarious,
+而且那是一类
+and you know, that's one category,
+所以人类没有很多证据的东西  
+so stuff that doesn't have a lot of evidence in humans,
+可能实际上很危险  
+might actually be dangerous,
+另一类事物
+the other category of things
+已经证明可以提高
+that has been shown to improve levels of,
+或增加  我应该说  我不想说改善
+or increase, I should say, I don't want to say improve
+因为是否取决于你
+because it's up to you whether or not
+你想增加或减少雌激素和睾丸激素  
+you want to increase or decrease estrogen and testosterone,
+那是非常个人的  我怎么知道  
+that's highly individual, how could I know,
+是一些家政服务
+are the things that are kind of housekeeping
+用于生产雌激素和睾丸激素  
+for production of estrogen and testosterone,
+像镁  像D3  像锌
+things like magnesium, things like D3, things like zinc,
+你知道的  那是这些
+you know, those are the things
+将会创造一个整体的环境
+that are going to create an overall milieu
+产生正常内源水平的机会
+of opportunity to produce normal endogenous levels
+而不是进一步增加内源性水平  
+rather than increasing endogenous levels further,
+所以我真的想强调
+and so I really want to highlight
+拿东西有区别
+that there's a difference between taking something
+创造一种普遍支持的背景
+to create a kind of backdrop of general support
+并采取一些将导致大拐弯的东西
+and taking something that's going to create a big inflection
+在给定的激素水平
+in the levels of a given hormone.
+再次  我们涵盖了
+So once again, we covered
+大量的信息  
+a tremendous amount of information,
+我们涵盖了一些激素和信息素的基础科学  
+we covered some basic science of hormones and pheromones,
+雌激素和睾丸激素及其衍生物  
+estrogen and testosterone and their derivatives,
+我们谈到了补充和行为  
+we talked about supplementation and behaviors,
+竞争和养育子女  
+competition and parenting,
+以及所有这些事物如何相互作用  
+and how all these things interact,
+我希望你能摆脱这个
+and I hope that you'll come away from this
+具有更深的机械理解
+with a deeper mechanistic understanding
+大脑和身体如何相互作用
+of how the brain and body are interacting
+控制输出
+to control the output
+以及这些不可思议的事情的方式
+and the ways in which these incredible things
+我们称之为性类固醇激素起作用并影响我们  
+that we call sex steroid hormones work and influence us,
+我希望你也能提出一些想法
+I hope you'll also come away with some ideas
+你可以做的事情
+of things that you can do,
+特别是可以改善睡眠的行为习惯
+in particular, behavioral practices that can improve sleep
+以及你与光的关系等等
+and your relationship to light, et cetera,
+因为那些东西真的奠定了基础
+because those things really set the foundation
+不只是为了健康的类固醇激素输出  
+not just for healthy steroid hormone output,
+但对健康有种种影响
+but for all sorts of health effects
+对于心理学和生物学
+and for both the psychology and the biology
+你的神经系统
+of your nervous system,
+所以我敢肯定会有很多问题  
+so I'm sure there'll be many questions,
+今天有很多我无法企及的事情  
+there are many things that I couldn't get to today,
+我确实尝试将这些播客限制在90分钟左右  
+I do try and limit these episodes to about 90 minutes,
+这是学习的最佳超循环
+which is the optimal ultradian cycle for learning,
+很多信息  
+it's a lot of information,
+但是我们为你加盖了时间戳  
+but we've timestamped everything for you,
+所以随时查看它的各个部分
+so feel free to look over it in parts
+或圈出你可能需要更深入了解的地方  
+or circle back where you might want deeper understanding,
+并将你的问题放在下面的评论部分中  
+and please put your questions in the comments section below,
+请为以后的播客提出建议
+please put suggestions for future episodes
+与激素有关的事物
+and things that relate to hormones
+在下面的评论部分中  我们会看看
+in the comments section below, we do look at those
+我们确实使用它们来告知内容
+and we do use them to inform the content
+对于后续播客
+for subsequent episodes.
+如果你喜欢这个播客并从中学习  
+If you're enjoying and learning from this podcast,
+请在YouTube上订阅  
+please subscribe on YouTube,
+或者  如果你愿意  请在Apple和/或Spotify上订阅
+or if you prefer, please subscribe on Apple and/or Spotify.
+在苹果  你有机会
+At Apple, you have the opportunity
+还让我们得到了五星级的评价
+also to leave us up to a five-star review
+并在评论部分中发表评论
+and to leave a comment in the review section.
+还请告知你的朋友  家人  同事  
+Please also inform your friends, family, coworkers,
+你认为可能也会受益的任何人
+anyone that you think might also benefit
+根据我们所涵盖的信息  
+from the information that we're covering,
+确实可以帮助我们扩大受众群体
+that really helps us grow our audience
+并为你带来更多信息
+and bring more information to you.
+另外  请查看我们的赞助商
+As well, please check out our sponsors
+在每一集的开头提到
+mentioned at the beginning of each episode,
+我们还有Patreon  
+and we also have a Patreon,
+那是patreon.com/andrewhuberman
+that's patreon.com/andrewhuberman.
+在Patreon  你可以帮助支持播客
+At the Patreon, you can help support the podcast
+你喜欢的任何水平
+at any level that you like.
+此外  我们还与索恩（Thorne）  索恩（THORNE）  
+As well, we've partnered with Thorne, T-H-O-R-N-E,
+这是一家补品公司  
+which is a supplement company,
+我们与索恩合作的原因
+the reason we partner with Thorne
+是他们的严格程度最高
+is that they have the highest levels of stringency
+就他们制作的补品的质量而言
+in terms of the quality of the supplements that they make
+以及各个成分的数量  
+and the quantity of the individual ingredients,
+并非总是如此
+something that's not always the case
+与各种补品公司  
+with various supplement companies,
+但是索恩非常好
+but Thorne is exquisitely good
+关于他们产品的严格程度  
+about the stringency of their products,
+他们与梅奥诊所合作
+they partner with the Mayo Clinic
+和所有主要的运动队
+and all the major sports teams.
+如果你想退房索恩
+If you want to check out Thorne
+看看我服用的补品  
+and see the supplements that I take,
+你可以访问thorne.com/u/huberman  
+you can go to thorne.com/u/huberman,
+如果你这样做  可以看到我服用的营养补品  
+and if you do that, you can see the supplements I take,
+但同时  你也可以享受20％的折扣
+but as well, it will allow you to get 20% off
+这些补品中的任何一个
+any of those supplements
+或索恩（Thorne）制造的任何其他补品  
+or any of the other supplements that Thorne makes,
+那是索恩  索恩  
+that's Thorne, T-H-O-R-N-E,
+.com / u / huberman
+.com/u/huberman
+可获得20％的Thorne补品折扣
+to get 20% off any Thorne supplements.
+最后  希望你能离开今天的一集
+In closing, I hope you'll leave today's episode
+对机制有更丰富的了解
+with a much richer understanding of the mechanisms
+控制内分泌和神经系统
+that control the endocrine and nervous system
+在雌激素和睾丸激素的情况下  
+in the context of estrogen and testosterone,
+以及带走各种工具
+as well as take away various tools
+你可能会选择申请  
+that you might choose to apply,
+下周  我们将再来一集
+and next week, we'll be back with another episode
+关于激素的作用
+about the role of hormones
+及其与神经系统的重要相互作用  
+and its important interactions with the nervous system,
+那当然  
+and that will, of course,
+同时包括机制和工具  
+include both mechanisms and tools as well,
+一如既往  感谢你对科学的关注
+and as always, thank you for your interest in science.
+[欢快的音乐]
+[upbeat music]

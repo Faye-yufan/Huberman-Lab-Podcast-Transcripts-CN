@@ -1,0 +1,5284 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到Huberman Lab播客
+- [Andrew Huberman] Welcome to the Huberman Lab Podcast
+我们在这里讨论科学
+where we discuss science
+和用于日常生活的基于科学的工具
+and science-based tools for everyday life.
+[欢快的音乐]
+[upbeat music]
+-我是Andrew Huberman  我是神经生物学和眼科教授
+- I'm Andrew Huberman, and I'm a professor of neurobiology
+在斯坦福医学院
+and ophthalmology at Stanford School of Medicine.
+此播客是单独于
+This podcast is separate
+我在斯坦福大学的教学和研究职位
+from my teaching and research roles at Stanford.
+但是  这是我渴望和努力的一部分
+It is however, part of my desire and effort
+为消费者提供有关科学的零成本信息
+to bring zero cost to consumer information about science
+以及面向大众的与科学相关的工具
+and science related tools to the general public.
+与该主题保持一致
+In keeping with that theme
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是InsideTracker
+Our first sponsor is InsideTracker.
+InsideTracker是一个个性化的营养平台
+InsideTracker is a personalized nutrition platform
+分析你的血液和DNA的数据
+that analyzes data from your blood and DNA
+帮助你更好地了解自己的身体
+to help you better understand your body
+并达到你的健康目标
+and reach your health goals.
+我一直很喜欢做血液检查
+I've long been a fan of doing blood tests
+最近  由于已经开发出DNA检测技术
+and more recently as they've been developed also DNA tests.
+原因是很多因素
+And the reason for that is that so many of the factors
+影响我们的即时和长期健康
+that impact our immediate and longterm health
+并告知我们的健康选择
+and that inform our health choices
+只能通过血液或DNA测试进行分析
+can only be analyzed by way of blood or DNA tests.
+InsideTracker的伟大之处
+The great thing about InsideTracker
+它们使血液和DNA测试变得异常容易
+is they make getting the blood and DNA test extremely easy.
+如果你愿意  他们会来你家
+They'll come to your home if you like,
+或者你可以去一个可以
+or you can go to a place where you can
+抽血  然后将DNA拭子吸到那里
+get your blood drawn and your DNA swab taken there.
+同样  一旦你获得信息
+As well once you get the information back
+来自InsideTracker  这很容易理解
+from InsideTracker, it's very easy to understand
+怎么处理这些信息
+what to do with that information,
+如何解释它
+how to interpret it.
+这就是InsideTracker真正与众不同的地方
+And that's really what sets InsideTracker apart
+我相信来自其他血液和DNA
+I believe from other blood and DNA
+测试工具和公司
+testing tools and companies.
+大多数信息来源和公司都会给你提供信息
+Most sources and companies will give you information back
+关于你的荷尔蒙水平
+about what your levels of hormones are,
+和代谢因素等等
+and metabolic factors, et cetera,
+但没有明确的指令去做
+but no clear directives about what to do
+用这些信息来获得这些标记
+with that information to get those markers
+在你想要的范围内
+in the ranges that you want
+为了优化你的健康
+in order to optimize your health.
+InsideTracker使一切变得非常容易
+InsideTracker makes that all very easy.
+它为你提供有关锻炼的指导
+It gives you directives about exercise,
+关于营养
+about nutrition,
+关于你可能想也可能不想服用的各种补品
+about various supplements you may or may not want to take.
+再一次  只有通过血液和DNA测试
+And once again, only through blood and DNA tests
+你可以访问该信息吗？
+can you access that information?
+如果你想尝试InsideTracker
+If you want to try InsideTracker
+你可以访问insidetracker.com/huberman
+you can visit insidetracker.com/huberman
+如果你那样做
+And if you do that
+你将获得任何InsideTracker计划的25％折扣
+you'll get 25% off any of InsideTracker plans.
+那是insidetracker.com/huberman可获得25％的折扣
+That's insidetracker.com/huberman to get 25% off
+并在结帐时输入Huberman
+and enter Huberman at checkout.
+今天的一集也由运动绿色带给我们
+Today's episode is also brought to us by Athletic Greens.
+运动果岭是多合一的
+Athletic Greens is an all-in-one
+维生素矿物质益生菌饮料
+vitamin mineral probiotic drink.
+自2012年以来  我一直在参加运动果岭比赛
+I've been taking Athletic Greens since 2012.
+因此  我很高兴他们赞助播客
+And so I'm delighted that they're sponsoring the podcast.
+我开始服用运动果岭
+I started taking Athletic Greens
+而且我还是每天运动一次或两次
+and I still take Athletic Greens once or twice a day
+因为它涵盖了我所有的营养  维生素  矿物质
+because it covers all my nutritional, vitamin, mineral
+和益生菌的基础
+and probiotic basis.
+当然  你可以获得维生素和矿物质
+Of course, you can get vitamins, and minerals,
+和食物中的益生菌
+and probiotics from food,
+但是包括我在内的我们很多人都很难做到这一点
+but many of us including me find it hard to do that
+在一致的基础上
+on a consistent basis.
+尤其是在我工作很多的时候
+Especially when I'm working a lot,
+当压力和睡眠没有得到优化时  等等
+when stress and sleep aren't optimized, et cetera.
+与运动果岭
+With Athletic Greens
+我确保得到我需要的所有东西
+I make sure to get all the things I need
+然后我服用的所有其他补品或所吃的东西
+and then all the other supplements I take or what I eat
+我可以考虑额外的保险
+I can consider additional insurance.
+运动绿色的伟大之处在于它的味道很棒
+The great thing about Athletic Greens is it tastes great.
+我喜欢把我的和水混合
+I like to mix mine with water
+还有一点柠檬汁
+and a little bit of lemon juice.
+我一天早上吃一次
+I take it once early in the day
+然后有时又在下午
+and then sometimes again in the afternoon.
+它包含益生菌的事实
+The fact that it includes probiotics
+对我来说真的很重要
+is really important to me.
+现在有太多数据指向事实
+There are so many data now pointing to the fact
+益生菌和肠道大脑健康
+that probiotics and gut brain health,
+肠道健康通常对新陈代谢非常重要
+and gut health generally are very important for metabolism,
+用于激素输出  用于神经递质的产生
+for hormone output, for neurotransmitter production,
+太多与我们的健康有关的重要事物
+so many vital things related to our health,
+运动果岭可以轻松确保
+Athletic Greens makes it easy to make sure
+我得到了我需要的一切
+that I'm getting everything that I need
+在维生素矿物质和益生菌部门
+in the vitamin mineral and probiotic department.
+如果你想尝试运动绿色
+If you'd like to try Athletic Greens,
+你可以去sportsgreens.com/huberman
+you can go to athleticgreens.com/huberman
+并享有特别优惠
+and claim a special offer.
+他们会给你五个免费旅行包
+They'll give you five free travel packs,
+加上一年供应的维生素D三K两
+plus a year supply of vitamin D three K two.
+现在也有大量数据
+There's now a ton of data as well,
+指向一个事实  维生素D三和K2
+pointing to the fact that vitamin D three and K2
+对于众多与健康相关的因素都很重要
+are important for a huge number of health related factors,
+包括激素  代谢因子
+including hormones, metabolic factors,
+神经递质等
+neuro-transmitters et cetera.
+因此他们一年中都有维生素D的供应量三
+So they have the year supply of vitamin D three
+完全免费以及你的运动果岭优惠
+completely free along with your Athletic Greens offer,
+你将获得五个免费旅行包
+and you get the five free travel packs.
+因此  如果你想尝试一下
+So if you'd like to try that
+你去agenicalgreens.com/huberman
+you go to athleticgreens.com/huberman
+并要求此特价
+and claim this special offer.
+今天的一集也由Headspace带给了我们
+Today's episode is also brought to us by Headspace.
+顶空是一种冥想应用程序  可简化冥想过程
+Headspace is a meditation app that makes meditation easy.
+我很多年前开始冥想
+I started meditating many years ago,
+但是我发现很难保持一致
+but I found it was difficult to stay consistent
+与我的冥想练习
+with my meditation practice.
+事实上  当我感到压力或非常忙碌时
+In fact when I would get stressed or really busy
+那时候我可能需要
+that's when I probably needed
+冥想练习最多
+the meditation practice the most.
+那就是我倾向于放弃冥想练习的时候
+And that's when I tended to drop the meditation practice
+并四处奔波做其他事情
+and run around doing other things.
+因此  这确实是一个陷阱22
+So it was really a kind of catch 22.
+几年前我了解了顶空
+I learned about Headspace a few years ago
+当他们将它们包括在内时  乘坐捷蓝航空的航班
+on Jet Blue Flights when they had them included
+作为是否看电影的一种选择
+as an option of whether or not to watch a movie,
+或电视节目  或冥想
+or a television show, or do meditation.
+我尝试了冥想  我真的很喜欢它
+I tried the meditation and I really liked it.
+顶空冥想非常容易遵循
+Very easy to follow along with a Headspace meditation.
+他们在“顶空”应用程序中包含的冥想
+The meditations that they include on the Headspace app,
+也得到了数十位同行评审的支持
+are also backed by dozens of peer reviewed
+质量独立研究
+quality independent studies.
+当然  现在有成千上万
+And of course there are now thousands
+同行评审的质量研究
+of peer reviewed quality studies
+指向一个事实  冥想练习
+pointing to the fact that a meditation practice
+为了改善睡眠是有益的
+is beneficial for sake of improved sleep,
+为了减轻压力
+for reducing stress,
+以及许多其他健康指标
+and a number of other health metrics,
+心血管疾病  风险等
+cardiovascular disease, risk, et cetera.
+顶空的伟大之处
+The great thing about Headspace
+能让我保持真正的一致性吗
+is it's allowed me to stay really consistent
+与我的冥想练习
+with my meditation practice.
+他们的冥想时间不同
+They have meditations of different duration
+和不同的类型  所以你永远不会感到无聊
+and different type, so you never get bored.
+我真的很期待我的冥想练习
+I actually look forward to my meditation practice
+它继续使我受益
+and it continues to benefit me.
+实际上  自从启动Headspace以来
+In fact, since starting Headspace,
+我已经很长时间地与冥想保持一致
+I've been consistent with meditation for much longer
+比我以前有过
+than I ever had previously.
+如果你想尝试顶空
+If you want to try Headspace
+你可以去headspace.com/specialoffer
+you can go to headspace.com/specialoffer
+你将获得一个月的免费试用
+and you'll get a free one month trial
+拥有Headspace完整的冥想库
+with Headspace's full library of meditations
+对于每种情况
+for every situation.
+那是headspace.com/specialoffer
+That's headspace.com/specialoffer
+获得一个月的免费试用
+to get one month free trial,
+那是目前他们最好的报价
+that's their best offer out there right now.
+然后你可以尝试他们完整的冥想资料库
+And then you can try their full library of meditations
+对于每种情况
+for every situation.
+今天  我们将继续关于激素的讨论
+Today, we're going to continue our discussion about hormones
+我们将专注于特定的荷尔蒙
+and we're going to focus on how particular hormones
+影响我们的能量水平和免疫系统
+influence our energy levels and our immune system.
+那么  我最后提到的最后一集
+Now, last episode I mentioned at the end
+我们结束了“激素之月”
+that we were concluding our month on hormones,
+但我们决定安可一下 多加一集
+but we decide to include this additional episodes,
+所以这是第五集
+so this would be the fifth episode
+在有关激素的作用系列中
+in the sequence of episodes about hormones.
+因为有两种至关重要的激素
+Because there are two hormones which are vitally important
+具有大量的生物学功能
+for a huge number of biological functions
+今天我们要谈一谈
+that we will talk about today,
+但这对能量水平
+but that are particularly important for energy levels
+和你的免疫系统特别重要
+and your immune system.
+这是我经常被问到的问题
+This is something that I get asked about a lot.
+因此  与其跳到下一个大主题
+So rather than skip to the next general topic,
+今天我们要谈论激素
+today we're going to talk about the hormones
+皮质醇和肾上腺素
+cortisol and epinephrine also called adrenaline.
+你不必听
+You do not have to have heard
+激素的前几集
+the previous episodes on hormones
+才能了解和消化今天的内容
+in order to understand and digest the material
+从今天的播客中
+from today's podcast.
+如果我提到与前几集有关的任何内容
+If I mentioned anything related to previous episodes,
+我保证会快速提供一些背景知识
+I promise to give a little bit of quick background
+使每个人都跟上节奏
+to get everyone up to speed.
+今天  我们将讨论皮质醇的生物学
+Today, we're going to talk about the biology of cortisol.
+我们将讨论肾上腺素的生物学
+We're going to talk about the biology of epinephrine.
+一如既往  我们将讨论机制
+As always we'll talk mechanism
+并且将会有很多工具
+and there are going to be a lot of tools.
+如果你是一个压力很大的人
+If you're somebody who struggles with stress
+能量水平很高的人
+and energy levels,
+那么平衡压力和能量水平
+and balancing stress and energy levels,
+今天的一集对你来说至关重要
+today's episode is going to be vital for you.
+如果你是一个在睡眠方遇到困难的人
+If you're somebody who has challenges with sleep
+或者你是一个没有办法
+or you're somebody who has challenges
+全天提高能量水平的人
+getting your energy level up throughout the day,
+想要睡觉时降低能量水平
+and getting your energy level down when you want to sleep
+今天的播客也适合你
+today's episode is also for you.
+我们将讨论免疫系统
+And we're going to talk about the immune system
+以及如何增强免疫系统的功能
+and how to enhance the function of your immune system.
+我们还将探讨一些有趣的话题
+We're also going to get into some fun topics
+与学习和记忆有关
+related to learning and memory
+以及如何利用皮质醇
+and how you can leverage cortisol
+特别是肾上腺素
+and epinephrine in particular,
+来让你学习更快
+in order to learn faster.
+我们将谈论所谓的益智药
+we're going to talk about so-called nootropics,
+智能药物及其作用方式
+smart drugs and how they work,
+因为有几个点
+because there's several of them
+直接关系到肾上腺素系统
+that tap into the epinephrine system
+但很少被讨论到
+that aren't often discussed
+并且你能够利用起来
+and that you have access to.
+我们要谈谈咖啡因的含量
+We're going to talk about how caffeine
+实际上可以使你的大脑好转或变坏
+can actually rewire your brain for better or for worse.
+我们将谈论“爽心美食”的生物学
+And we're going to talk about the biology of comfort foods
+以及它们为何如此出色  以及它们起的作用是什么
+and why they work so well, and what they're doing.
+并且在了解到那之后
+And in understanding that
+你将能够更好地了解你的食物选择
+you'll be able to better understand your food choices
+因为它们与短期和长期能源有关
+as they relate to short-term and long-term energy.
+所以我们有很多要讲的
+So we have a lot to cover,
+一切都会加上时间戳
+everything will be timestamped.
+我只想提醒人们  我们每集都会给字幕加上字幕
+I want to just remind people that we caption every episode
+用英语和西班牙语
+in English and in Spanish.
+字幕需要一两天才能在YouTube上弹出
+The captions take a day or two to pop up on YouTube.
+因此  如果你没有看到那些
+So if you're not seeing those
+在头几天之内
+within the first couple of days,
+请耐心等待我们
+please be patient with us,
+为了获得实际阅读的字幕
+in order to get captions that actually read
+与我所说的相似
+similarly to what I'm saying.
+我们通过字幕服务
+we go through a captioning service,
+所以我们由专家来完成
+and so we have them done by experts
+这需要一点额外的时间
+and that takes a little bit of additional time.
+同时  如果你有任何疑问
+Meanwhile if you have any questions
+随着播客的发展  请写下来
+as the episode evolves please write them down.
+请把它们放在评论部分
+Please put them in the comment section.
+如果你还没有订阅  请订阅该频道
+Please subscribe to the channel if you haven't already,
+让我们开始谈论
+and let's get started talking about
+如何增加精力
+how to increase your energy,
+并提高和增强你的免疫力
+and improve and increase your immunity
+通过利用皮质醇和肾上腺素的生物学作用
+by leveraging the biology of cortisol and adrenaline.
+在我们深入生物学之前
+Before we dive into the biology
+增加能量和免疫系统的能力
+of increasing energy and your immune system,
+我想讲三个主题
+I want to cover three topics
+我在前几集保证我之后会提到的
+that I promised I would mention from previous episodes.
+第一个涉及间歇性禁食
+The first one relates to intermittent fasting.
+第二个问题与你的胃咕噜咕噜叫有关
+The second one relates to why your stomach grumbles.
+上一次我忘记讲了其中的生物学
+I forgot to mention the biology of that last time.
+第三是增加生长激素的有力方法
+And the third is a powerful way to increase growth hormone,
+对增加新陈代谢有强大的作用
+which is powerful for increasing metabolism,
+脂肪燃烧和组织修复等
+fat burning, and tissue repair, et cetera.
+那不涉及桑拿
+That doesn't involve a sauna
+或用塑料袋包裹自己
+or wrapping yourself in plastic bags
+去慢跑
+and going for a jog.
+首先讲一下间歇性禁食
+So first intermittent fasting.
+上一集  我谈论了很多有关生长激素
+Last episode I talked a lot about growth hormone
+和甲状腺激素的话题
+and thyroid hormone,
+我提到了桑拿  运动和睡眠之类的东西
+and I mentioned things like sauna and exercise, and sleep,
+以及它们如何增加生长激素的水平
+and how they can increase levels of growth hormone
+在健康范围内
+within the healthy ranges.
+以及为什么增加生长激素会非常有益
+And why increasing growth hormone can be very beneficial
+因为它可以燃烧掉体内脂肪
+because it can burn off body fat,
+它可以改善肌肉和一般组织的健康状况
+it can improve muscle and general tissue health,
+软骨等
+cartilage, et cetera.
+我们往往会输
+And we tend to lose,
+或我们的生长激素水平随着年龄的增长而降低
+or our levels of growth hormone are reduced as we age.
+很多人问我
+Many people asked me,
+“好吧  禁食呢？”
+"well, what about fasting?"
+每个人都曾在社交媒体上声称
+Everyone's been promised on the internet
+间歇性禁食
+that intermittent fasting
+可以让生长激素大量增加
+leads to these big increases in growth hormone.
+我没有提及的原因
+The reason I didn't mention it
+是我找不到研究
+is that I couldn't find a study
+可以实际地指出其中潜在机制的
+that actually pointed to the underlying mechanism.
+我看到了很多主张  很多播客
+I saw lots of claims, lots of podcasts.
+带着很多学位的专家们
+Lots of degrees behind people's names,
+有时是生物学家
+sometimes biologists,
+有时完全不同的领域在谈论这个
+sometimes entirely different fields talking about this,
+但很少有研究
+but very few studies.
+然后  我找到了要考虑的研究内容
+And then I found what I would consider the study.
+我们将链接到此研究
+We will link to this study.
+事实证明  禁食确实会增加生长激素水平
+Turns out that fasting does increase growth hormone levels
+它的实现方式令人着迷
+and the way that it does it is fascinating.
+我在上一个播客中提到
+I mentioned in a previous podcast
+关于饥饿和用餐时间以及饥饿时间
+about hunger and timing of meals and timing of hunger,
+当你饿的时候
+that when you're hungry
+你会在体内释放一种叫做生长素释放肽的激素
+you release a hormone in your body called ghrelin,
+有时实际上称为ghrelin
+sometimes actually called ghrelin.
+谢谢你们所有的ghrelinisters
+Thanks for all of you ghrelinisters, or ghrelinisters
+纠正了我的发音
+that corrected my pronunciation,
+都是ghrelin 两者都可以读
+it's both ghrelin or ghrelin, either one works.
+Ghrelin让你饿
+Ghrelin makes you hungry,
+当你的血糖很低时
+when blood glucose, your blood sugar is low,
+饥饿素被分泌出来  使你饿了
+ghrelin is secreted and makes you hungry.
+事实证明  生长素释放肽
+And it turns out that ghrelin,
+这种饥饿激素实际上会结合
+this hunger hormone actually binds
+到大脑中的受体
+to the receptor in the brain
+通常会绑定所谓的
+that normally binds what's called
+生长激素释放激素
+growth hormone releasing hormone.
+所以信不信由你
+So believe it or not the hunger hormone
+可以像生长激素释放激素一样起作用
+can act like growth hormone releasing hormone
+从而刺激生长激素
+and thereby stimulate growth hormone.
+现在生长激素的水平
+Now the levels of growth hormone
+通过这种生长素释放肽系统促进禁食
+that fasting promotes through this ghrelin system
+相当丰富
+are pretty substantial.
+这是关于处于清醒状态时生长激素水平增加一倍
+It's about a doubling of growth hormone levels
+的情况
+in the waking state.
+因此  我们知道你可以在睡眠中释放生长激素
+So we know that you can release growth hormone in sleep,
+事实证明 间歇性禁食
+intermittent fasting it turns out
+可以增加生长激素
+can increase growth hormone
+通过将生长素释放肽与生长激素结合
+by binding ghrelin to the growth hormone,
+释放激素受体
+releasing hormone receptor
+而且白天也一样
+and it does it also during the daytime.
+所以是的  确实 禁食可以增加生长激素
+So yes indeed fasting can increase growth hormone,
+但不会特别多
+not to the super levels
+不像服用生长激素那样增加它
+that taking growth hormone would increase it,
+或桑拿那样增加它
+or that a sauna could increase it,
+但它确实会增加生长激素
+but it does seem to increase growth hormone.
+今天晚些时候
+Later in today's episode
+我们将谈论很多
+we're going to talk a lot about
+不同的禁食和进食方式
+different patterns of fasting and eating
+可以用来控制肾上腺素
+that can control epinephrine.
+因此  我们将讨论禁食多长时间的细节
+And so we will turn to specifics about how long a fast.
+你需要禁食两三天或二十三个小时吗？
+Do you need to fast for two or three days, or 23 hours?
+对于像我这样喜欢吃东西的人来说 有一个好消息
+Fortunately for people like me who love to eat,
+就是不需要这样子禁食
+that's not the case.
+因此  我们将讨论特定的禁食协议
+So we'll talk specific fasting protocols
+在播客的后面
+later in the episode.
+我们还说过  我们将谈论肚子咕噜叫
+We also said, we're going to talk about tummy grumble,
+当你的肚子叫的时候
+when your stomach growls
+这不是因为肚子里的流食在流动
+it is not because of fluid sifting around in there.
+很多人认为
+A lot of people think,
+哦  你知道那是流动的养分
+Oh, you know it's fluid sifting around.
+其实是 你的肚子
+Turns out that your stomach
+两侧有平滑的肌肉
+has smooth muscle that lines it sides
+当你吃东西或不吃东西时
+and when you eat something or you don't
+每隔一段时间你的胃就会紧绷
+every once in a while your stomach cinches off
+在两端像一个袋子
+at the two ends like a bag
+两端都有软管
+with a hose on either end,
+因为这实质上就是你的消化系统
+'cause that's essentially what your digestive system is.
+如果那里什么也没有
+And if there's nothing in there what happens is
+那么 腹部两侧的肌肉
+the muscles that line the sides of your stomach
+它们在胃周围延伸
+they kind of extend around the stomach
+和这些肌肉
+and these cables,
+这些总是在那里  如果你肚子里有食物
+those are always there and if you have food in your stomach,
+它们要做的是搅动你的胃
+what they do is they churn your stomach.
+它们实际上会改变你的胃部肌肉
+They literally turn the muscles of your stomach
+捏成一个不倒翁一样 来帮助分解食物
+like a tumbler to help break up the food
+大概你咀嚼得不够好
+that presumably you didn't chew well enough
+因为你吃得太快了
+'cause you were eating too fast.
+当你肚子里没有食物的时候
+When you don't have any food in your stomach
+搅动仍在继续
+that churning continues.
+肌肉的收缩
+And that contraction of the muscle,
+转弯  实际上是你的肌肉翻转
+the turning, literally turning over of your muscles
+它们不会完全翻身
+they don't flip over completely,
+但是翻过来的肌肉
+but the turning over the muscles,
+这就是引起胃部不适的原因
+that's what causes the stomach growling.
+如果你不想成为会议中
+If you don't want to be the person in the meeting,
+或坐在一个安静的剧院里
+or sitting there at a in a quiet theater
+肚子咕噜叫的很大声的那个人
+whose stomach is growling,
+好好咀嚼食物吧
+chew your food better.
+那是简单的解决方案
+That's the simple solution.
+最后一集  我谈论了很多关于桑拿的方法
+And last episode, I talked a lot about how sauna,
+控制下的安全热疗
+controlled safe hyperthermia
+会导致生长激素释放的大量增加
+can cause huge increases in growth hormone release
+从300到500%不等
+anywhere from 300 to 500,
+甚至增加了1600％的生长激素释放
+even 1600% increases in growth hormone release.
+确实是惊人的高增长
+Really staggeringly high increases.
+我指出很多人
+I pointed out that many people
+在院子或家中没有桑拿房
+don't have saunas in their yard or in their homes,
+他们将采取其他措施
+and they would go through some other measures
+安全地增加他们的身体热量
+to increase safely their body heat.
+在他们的浴室里建一个蒸汽室
+You know, creating a steam room in their bathroom,
+或多汗奔跑
+or jogging with extra sweats on this kind of thing.
+你们中的许多人都问过热水澡
+Many of you asked about hot baths,
+热袋会增加生长激素
+hot bags will increase growth hormone,
+但是你需要的温度
+however the temperatures that you need
+为了增加生长激素
+in order to increase growth hormone
+得足够高  而那样你就有烧伤的危险
+are high enough that you run the risk of burn.
+所以我真的无法提出任何建议
+And so I really can't make any recommendations
+关于热水澡
+about hot bath,
+但是如果你能忍受一个较高温的热水澡
+but if you can tolerate a nice hot bath
+你将释放一些生长激素
+you are going to get some growth hormone release.
+但是  桑拿浴室具有以下优势
+However, the sauna has this advantage of
+你能够进入175华氏度
+you being able to enter 175 degree,
+或200度的环境
+or 200 degree environment,
+前提是你没有怀孕
+provided you're not pregnant,
+你不是一个年幼的孩子  等等
+you're not a young child, et cetera.
+你可以安全地做到这一点
+You can do that safely.
+增加生长激素的大量增加
+And getting big increases in growth hormone.
+热水澡会导致
+The hot bath will lead to
+生长激素的增加较少
+lesser increases in growth hormone.
+未来播客中我们将谈论很多
+We're going to talk a lot about
+温度调节
+temperature regulation in a future episode,
+但是一如既往  如果你要
+but as always if you're ever going to
+开始玩热疗或体温过低的游戏
+start playing with hyperthermia or hypothermia,
+冷浴  冰浴  热水淋浴  热水浴
+cold baths, ice baths, hot showers, hot baths
+如果超出了人们所能接受的标准范围
+that are beyond the kind of norm of what's comfortable,
+那你要非常小心
+you have to be extremely careful
+并请教医生
+and please consult a doctor.
+可以这么说
+I think it's fair to say
+大多数人想要
+that most people would like to have
+白天有很多精力
+a lot of energy during the day,
+如果你白天工作
+if you work during the day.
+他们希望自己的精力在晚上逐渐减少
+And they'd like their energy to taper off at night.
+可以这么说
+And I think it's fair to say
+大多数人不喜欢生病
+that most people don't enjoy being sick.
+没有人想生病
+Nobody wants to get sick.
+换句话说  你想拥有能量
+In other words, you want to have energy,
+而你希望你的免疫系统运作良好
+and you want your immune system to function well,
+抵御各种感染
+to ward off infections of various kinds,
+细菌感染  病毒感染等
+bacterial infections, viral infections, et cetera.
+结果发现是这两种激素
+And it turns out that the two hormones
+在主导那些过程
+that dominate those processes
+拥有足够的能量并拥有健康的免疫系统
+of having enough energy and having a healthy immune system
+那就是皮质醇和肾上腺素
+are cortisol and epinephrine.
+Epinephrine和Adrenaline其实是一回事
+Epinephrine is the same thing as adrenaline.
+在体内  我们倾向于将肾上腺素称为Adrenaline
+In the body we tend to call adrenaline adrenaline,
+在大脑中  我们倾向于将肾上腺素称为epinephrine
+and in the brain we tend to call adrenaline epinephrine.
+真是不好意思
+And I'm sorry for that
+我没有创建这个命名系统
+I didn't create this naming system.
+而且其背后的故事是无趣的
+And the story behind it is uninteresting
+而且不值得我们花费时间讲
+and not worth our time.
+我将使用两个名词
+I will use the words adrenaline and epinephrine
+但这两个名词在今天的播客重视可以互换的
+interchangeably today.
+皮质醇是皮质醇
+Cortisol is cortisol.
+我只想介绍一下
+And I just want to cover a little bit about
+什么是皮质醇和肾上腺素？
+what cortisol and epinephrine are?
+它们在身体和大脑中释放在哪里？
+Where they are released in the body and brain?
+因为如果你能理解
+Because if you can understand that
+你将更好地了解如何控制它们
+you will understand better how to control them.
+首先  皮质醇是类固醇激素
+First of all, cortisol is a steroid hormone
+很像雌激素和睾丸激素
+much like estrogen and testosterone
+因为它来自胆固醇
+in that it is derived from cholesterol.
+现在可能是你所食用的胆固醇
+Now that could be cholesterol that you eat,
+可能是肝脏产生的胆固醇
+it could be cholesterol that's produced by the liver.
+你们中许多人可能知道
+As many of you probably know
+饮食中胆固醇
+the relationship between dietary cholesterol,
+与你所吃的脂肪和血液中的胆固醇之间的关系
+the fats that you eat and blood cholesterol,
+是一个非常有争议的话题
+and liver cholesterol is a very controversial one.
+这是一个经久不衰的话题
+It's a barbed wire topic.
+有些人声称
+There are people that claim
+饮食中胆固醇的影响为零
+that dietary cholesterol has zero impact
+来自肝脏的循环胆固醇
+on circulating cholesterol coming from the liver,
+有些人认为完全相反
+and there are people who argue the exact opposite,
+我要说的是  两者都有良好的数据
+both with good data in hand I would say.
+这个想法有一些问题
+There are some problems for the idea
+你所有的胆固醇水平
+that all your cholesterol levels
+由饮食摄入量决定
+are determined by dietary intake.
+即那个厌食症
+Namely, that anorexics
+他们的肝脏经常产生有很高的胆固醇水平
+often have very high levels of cholesterol that their liver produces,
+即使他们吃得很少
+even though they are eating very little
+有时根本不吃饭
+and sometimes not eating at all.
+因此  请了解胆固醇是前体分子
+So understand that cholesterol is a precursor molecule,
+意思是它是很多东西的底物
+meaning it's the substrate from which a lot of things
+比如睾丸激素和雌激素
+like testosterone and estrogen are made.
+还请你了解胆固醇
+Please also understand that cholesterol
+可以制成雌激素  睾丸激素或皮质醇
+can be made into estrogen, or testosterone, or cortisol.
+那皮质醇是
+And that cortisol is sort of the competitive partner
+雌激素和睾丸激素的竞争合作伙伴
+to estrogen and testosterone.
+这是什么意思
+What this means is,
+不管你正在吃或产生多少胆固醇
+no matter how much cholesterol you're eating or you produce,
+无论是低还是高
+whether or not it's low or it's high,
+如果你承受更多的胆固醇
+if you are stressed more of that cholesterol
+将致力于制造皮质醇
+is going to be devoted toward creating cortisol,
+这确实是一种压力荷尔蒙
+which is indeed a stress hormone.
+但是  压力这个词不应该使你感到不适
+However, the word stress shouldn't stress you out,
+因为你需要皮质醇
+because you need cortisol,
+皮质醇至关重要
+cortisol is vital.
+你不希望皮质醇水平过低
+You don't want your cortisol levels to be too low.
+这对免疫系统功能非常重要
+It's very important for immune system function,
+为了记忆  不要沮丧
+for memory, for not getting depressed.
+你只是不希望皮质醇水平过高
+You just don't want your cortisol levels to be too high
+而你不希望他们被过分提高
+and you don't want them to be elevated
+甚至在一天中的错误时间达到正常水平
+even to normal levels at the wrong time of day.
+因此  我们将讨论如何控制
+So we're going to talk how to control
+皮质醇的时机和水平
+the timing and level of your cortisol.
+肾上腺素也被妖魔化了
+Epinephrine or adrenaline has also been demonized a bit.
+我们认为它是压力荷尔蒙
+We think of it as the stress hormone,
+这件事使我们感到焦虑  战斗或逃跑
+this thing that makes us anxious, fight or flight.
+你知道  我们曾经被狮子追赶
+You know, we used to get chased by lions
+和老虎  还有熊  现在我们没有被追赶了
+and tigers, and bears, and now we don't.
+这是古代遗传下来的 但是这是完全错误的
+and it's this ancient hangover, that's all wrong.
+事实是肾上腺素
+The fact of the matter is the epinephrine
+是你免疫力最好的朋友
+is your best friend when it comes to your immunity,
+在保护你免受感染方面
+when it comes to protecting you from infection.
+我们将讨论原因
+And we're going to talk about why,
+肾上腺素是你最好的朋友
+and epinephrine adrenaline is your best friend
+在记忆方面
+when it comes to remembering things
+学习和激活神经可塑性方面
+and learning and activating neuroplasticity.
+我们也将讨论这一点
+We're going to talk about that as well.
+再一次  这是一个多少和多长时间的问题
+Once again, it's a question of how much and how long
+以及释放的具体时间
+and the specific timing of release
+皮质醇和肾上腺素
+of cortisol and epinephrine,
+并不是说皮质醇和肾上腺素好 或者坏
+as opposed to cortisol and adrenaline being good or bad.
+当它们受到监管时  它们真是棒极了
+They're terrific when they're regulated,
+如果管制不当  它们会很糟糕
+they are terrible when they're misregulated.
+我们会为你提供许多工具来更好地对其进行监管
+And we will give you lots of tools to regulate them better.
+皮质醇生物学101  不到两分钟的简要讲解
+Cortisol biology 101 in less than two minutes.
+你的大脑产生 我们称之为"释放激素"的东西
+Your brain makes what we call releasing hormones
+在这种情况下  有促肾上腺皮质激素释放激素
+and in this case, there's corticotropin releasing hormone.
+CRH是由你大脑中的神经元产生的
+CRH is made by neurons in your brain,
+它导致垂体
+it causes the pituitary,
+这个腺体
+this gland that sits about
+在你的嘴顶前方一英寸
+an inch in front of the roof of your mouth
+和大脑的底部释放ACTH
+and the base of your brain to release ACTH.
+然后ACTH进入并导致你的肾上腺
+ACTH then goes and causes your adrenals,
+在腰部  位于肾脏上方
+which sit above your kidneys in your lower back
+释放皮质醇
+to release cortisol.
+所谓的压力荷尔蒙
+A so-called stress hormone,
+但我希望你想起皮质醇的时候
+but I would like you to think about cortisol
+不是把它想成压力荷尔蒙  而是作为能量荷尔蒙
+not as a stress hormone but as a hormone of energy.
+它会在大脑和身体中产生一种感受
+It produces a situation in the brain and body
+让你想要移动
+whereby you want to move,
+不想休息
+and whereby you don't want to rest,
+这样一来  你至少一开始就不想吃东西
+and whereby you don't want to eat at least at first.
+接下来 肾上腺素101  不到两分钟的时间
+Epinephrine or adrenaline 101 in less than two minutes.
+当你感觉到压力时
+When you sense a stressor with your mind
+或者你的身体感觉到压力时
+or your body senses a stressor
+从伤口或类似的东西
+from a wound or something of that sort.
+信号被发送到神经元
+A signal is sent to neurons
+在你的身体中间
+that are in the middle of your body.
+它们被称为同情链神经节
+They are called the sympathetic chain ganglia.
+名称不一定重要
+The name doesn't necessarily matter.
+他们很快释放去甲肾上腺素
+They release Norepinephrine very quickly.
+几乎就像是洒水系统
+It's almost like a sprinkler system
+只是用肾上腺素给你的身体打气
+that just hoses your body with epinephrine.
+那会增加心率
+That will increase heart rate,
+会增加呼吸频率
+will increase breathing rate.
+在某些情况下  它会收缩你的血管
+In some cases it will constrict your blood vessels,
+这也将增加血管和动脉的大小
+it will also increase the size of vessels and arteries
+使血液流向你的重要器官
+that are giving blood flow to your vital organs.
+这就是为什么在压力重重时  四肢会发冷的原因
+This is why your extremities get cold when you're stressed
+而且你的心脏跳动更快
+and your heart is beating faster.
+更多的精力投入到了你的核心
+More of that energy is being devoted toward your core.
+你还可以从肾上腺 释放肾上腺素
+You also release adrenaline from your adrenals,
+也就是在你的肾脏上方  再说一次
+again riding on top of your kidneys.
+那些是第二系统
+Those are second system
+从而使你的系统充满肾上腺素
+whereby your system gets flooded with adrenaline in pulses.
+因此  你可以得到一个脉冲  你可以得到10个脉冲
+So you can get one pulse, you can get 10 pulses.
+我们将讨论如何调节脉冲数
+We'll talk about how to regulate the number of pulses
+然后从大脑的某个区域释放它
+and you release it from an area of your brain
+叫做蓝斑
+called locus coeruleus,
+并在你的大脑中产生警觉
+and that creates alertness in your brain.
+如果你想了解更多有关压力反应的信息
+If you want to learn more about the stress response
+以及所有的细节
+and all the details of that,
+包括一些有关如何调节压力的协议
+including some protocols of how to regulate stress
+请参阅我们有关压力的一集
+please see our episode about stress.
+我在那儿讲了很多细节
+I go into a lot of detail there.
+我今天将讨论一些相同的主题
+I will touch on some of the same themes today,
+但我真的很想介绍能量和免疫系统
+but I really want to cover energy and the immune system.
+如果你非常感兴趣
+And if you're very much interested
+在压力和压力调节方面
+in stress per say and stress regulation,
+请参阅有关压力的播客
+please see the episode on stress.
+好的所以我们有皮质醇和肾上腺素
+Okay. So we have cortisol and we have epinephrine,
+它们的净效果是增加能量/精力
+and their net effect is to increase energy.
+首先  我想给你一个工具
+So first of all, I want to give you a tool
+这将帮助你调节皮质醇
+that will help you regulate cortisol
+还可以帮助避免
+and can also help stave off
+某些类型的精神疾病
+certain patterns of mental illness.
+那么  它当然不会自己治愈精神疾病
+Now of course it's not going to cure mental illness on its own,
+但它可以支持健康的心理状态
+but it can support healthy state of mind,
+并有助于减少不健康的心理状态
+and can help reduce unhealthy states of mind,
+包括抑郁症
+including depression.
+所以第一个工具是确保
+So the first tool is to make sure
+你早晨起床时 皮质醇是处于最高水平的
+that your highest levels of cortisol are first thing in the morning when you wake up.
+每24小时一种或另一种方式
+One way or another every 24 hours
+你的皮质醇会增加
+you will get an increase in cortisol.
+那是不可商议的  它被写入你的基因组中
+That is non-negotiable that is written into your genome.
+皮质醇的增加可以唤醒你
+That increasing cortisol is there to wake you up
+为了使你保持警觉
+and to make you alert,
+是为了从睡眠中刺激运动
+it's to stimulate movement from being sleep,
+大概是水平的
+presumably horizontal,
+起床并开始移动你的一天
+to getting up and starting to move about your day.
+我已经说过了  但我会再说一遍
+And I've said it before, but I will say it again
+刺激的最好方法
+the best way to stimulate that
+在适当的时间增加皮质醇
+increase in cortisol at the appropriate time
+醒来后不久
+is that very soon after waking
+醒来后30分钟左右
+within 30 minutes or so after waking,
+外面看些阳光
+get outside view some sunlight,
+即使是阴天
+even if it's overcast,
+外面看些阳光  没有墨镜
+get outside view some sunlight, no sunglasses.
+永远不要看任何特别明亮的光
+Never look at any light so bright
+可能会伤害你的眼睛
+that it could damage your eyes,
+但要花2到10分钟
+but do that for two to 10 minutes.
+如果很亮  两分钟
+If it's very bright two minutes,
+如果不是很亮10分钟
+if it's not so bright 10 minutes.
+这样做是因为在一天的早期
+Do that, because in the early part of the day
+你有机会定时释放皮质醇
+you have the opportunity to time that cortisol release
+在一天的早期
+to the early part of the day,
+将会改善
+which will improve,
+这已经得到同行评审研究的支持
+this has been backed by peer reviewed studies,
+它会改善你的注意力
+it will improve your focus,
+它将改善你的能量水平
+it will improve your energy levels,
+它将全天改善你的学习
+and it will improve your learning throughout the day.
+它还可以防止皮质醇增加的后移
+It will also prevent a late shift in cortisol increase.
+过一会儿皮质醇改变了
+And late shifted cortisol,
+表示皮质醇在8:00或9:00 PM左右增加
+meaning cortisol that increases around 8:00 or 9:00 PM
+是许多抑郁症的标志性特征
+is a signature feature of many depressive disorders,
+包括严重的抑郁症  焦虑症
+including major depression, anxiety.
+那当然是相关的
+And that of course correlates
+像失眠之类的事情
+with things like insomnia, et cetera.
+所以这是一个关键工具
+So that's a key tool,
+我不知道你们中有多少人会失眠
+and I don't know how many of you are already doing that,
+但是这是至关重要的
+but it is vital to do.
+现在我提到即使在阴天也有阳光
+Now I mentioned sunlight even on cloudy days
+这是有特定原因的
+and there are specific reasons for that.
+所以我只想简单介绍一下数据
+So I want to just briefly cover the data
+因为在讲睡眠的那期播客中
+because in the episodes on sleep,
+我谈到光的亮度
+I talked about brightness of light
+在调节皮质醇和睡眠中
+in regulating cortisol and sleep.
+我谈到了如何测量照度  亮度
+And I talked about how to measure lux, brightness,
+但我不够具体  我意识到
+but I was not specific enough I realized
+根据我收到的问题
+based on the questions that I've received
+从那一集开始
+since that episode.
+现在讲一下它的工作原理
+So here's how it works,
+到外面去晒太阳
+going outside and getting some sunlight
+要求我也告诉你多久
+requires that I also tell you how long
+在什么条件下
+and under what conditions.
+我说过透过窗户看不太好
+I've said looking through a window is not as good,
+需要50倍的时间
+it takes 50 times longer
+以获得尽可能多的光线  等等
+to get as much light, et cetera, et cetera.
+很多很多问题告诉我
+Many, many questions have told me
+我还不够具体
+that I'm not being specific enough.
+所以我要给你数据
+So I'm going to give you the data
+并从数据中你将了解
+and from the data you will understand
+确切地说  你每天需要执行多长时间
+exactly how long you need to do this each day.
+在晴天  所以是没有云遮盖
+On a sunny day, so no cloud cover,
+前提是太阳还没有到头顶
+provided that the sun is not yet overhead.
+在低空的地方
+It's somewhere low in the sky
+可能刚刚跨过地平线
+could have just crossed the horizon,
+或者如果你稍后再醒来
+or if you wake up a little bit later
+天空可能有些低
+it could be somewhat low in the sky.
+基本上是光的强度  亮度
+Basically the intensity of light, the brightness,
+大约是100,000勒克斯
+is somewhere around 100,000 Lux.
+照度只是亮度的度量
+Lux is just a measurement of brightness.
+如果你要下载光度计应用程序
+If you want to download the app Light Meter,
+那是一个免费的应用程序  它将使你能够做到这一点
+that is a free app that will allow you to do that.
+你可以将手指按住那里的小按钮
+You can hold your finger down on the little button there
+你可以四处移动
+and you can move it around,
+它将不断为你提供Lux读数
+and it will continuously give you a Lux read out.
+它不是完美的  不是精确的  但是已经非常好了
+It's not perfect, it's not exact, but it's pretty good.
+这是零成本
+and it is zero cost.
+我和这个公司没有关系
+I have no relationship to Light Meter the company.
+在阴天  大约是10,000勒克斯
+On a cloudy day it's about 10,000 Lux.
+好的因此减少了十倍
+Okay. So tenfold reduction.
+但是人造光
+But bright artificial light,
+非常明亮的人造光
+very bright artificial light
+在1000勒克斯左右
+is somewhere around 1000 lux.
+普通房间的光线约为100-200 lux
+And ordinary room light is somewhere around 100-200 lux.
+这与存在多少光散射有关
+And it has to do with how much light scatter there is.
+因此  即使你的灯泡非常明亮
+So even if you have a very bright bulb
+就在你旁边
+sitting right next to you,
+那是行不通的
+that's not going to do the job.
+在一天中的早些时候  光看你的手机 是不行的
+Your phone will not do the job not early in the day
+不能让你在适当的时间释放皮质醇
+to get the cortisol released at the appropriate time
+你需要出去
+you need to get outside.
+因此  让我们只设置几个常规参数
+So let's just set a couple general parameters.
+如果外面很亮而且没有云层
+If it's bright outside and no cloud cover
+光线可以是间接的
+that light can be indirect.
+你不必盯着太阳
+You don't have to be staring into the sun,
+请不要伤害你的眼睛
+please don't damage your eyes.
+我们还不能再生这些神经元
+We can't regenerate those neurons yet
+不能恢复丢失的视力
+and restore vision that's lost,
+但是如果你必须眨眼  那就意味着它太亮了
+but if you have to blink, that means it's too bright.
+当然可以眨眼  如果需要的话  请这样做
+It's fine to blink of course, please do if you need to.
+出门呆十分钟
+Get outside for 10 minutes,
+五分钟就足够了
+or five minutes should suffice,
+但是十分钟就足够了
+but 10 minutes is sure to suffice.
+如果是阴天  密云
+If it's a cloudy day, dense overcast,
+你可能需要大约30分钟
+you're probably going to need about 30 minutes.
+如果是轻云碎云盖
+If it's light cloud broken cloud cover
+它可能会在10到20分钟之间
+it's probably going to be somewhere between 10 and 20 minutes.
+如果你不能出去
+And if you can't get outside
+或者你在飞机上  头顶上光亮
+or you're on an airplane and it's bright overhead,
+人造灯或普通房间灯
+artificial lights or ordinary room lights
+这将花费你大约六个小时的时间
+it's going to take you about six hours of light.
+随着时间的流逝  你到达一天之中
+And by time you reach the middle of your
+有点清醒的时期  为时已晚
+sort of wakeful period, it's too late.
+你将无法改变时钟
+You won't be able to shift your clock
+然后你的皮质醇将逐渐开始漂移
+and your cortisol will start drifting later and later.
+这就是为什么定期亮起这一点至关重要的原因
+This is why it's vital to get this light on a regular basis,
+以便在当天早些时候释放皮质醇
+to get that cortisol released early in the day.
+这可以使你获得最佳的能量水平
+That sets you up for optimal levels of energy,
+它使你有充足的睡眠
+it sets you up for great sleep.
+但是今天不是真的讲睡眠
+But today's not really about sleep
+更多的是讲皮质醇脉冲  能量
+it's more about energy that cortisol pulse
+以及你在一天中可能会感到的压力
+and the stress that you might feel early in the day
+拥有一点额外的能量
+from having a little bit extra energy.
+那就是你想要的能量
+That is the energy that you want
+为了运动和学习  并做各种各样的事情
+in order to move about and learn, and do various things.
+那是健康的能量水平
+That is a healthy level of energy.
+因此  请尝试获得阳光
+So please try and get that sunlight.
+如果这样做符合你的协议
+If it's within your protocols to do that,
+并尝试获得足够的阳光
+and try and get sufficient sunlight
+早上的第一件事
+first thing in the morning,
+在第一个小时内再次出现
+again within the first hour.
+那是确保
+That's the best way to make sure
+你适当地选择皮质醇的时间
+that you time your cortisol appropriately.
+现在全天
+Now throughout the day
+你将经历不同的事情
+you're going to experience different things.
+你们中的大多数人并没有整日度过
+Most of you are not spending your entire day
+试图优化你的健康
+trying to optimize your health.
+你们当中有些人可能是
+Some of you might be,
+但是你们大多数人都有工作  有家庭
+but most of you have jobs and you have families,
+并且你有各种责任
+and you have commitments.
+生活是重心  给你提供压力
+Life enters the picture and provides you stressors,
+这些压力源  无论它们可能是什么
+and those stressors, whatever they may happen to be,
+一个难搞的同事
+a difficult coworker,
+对某事有些失望
+some disappointment about something,
+你没有得到你期望的加薪
+you didn't get the raise you expected,
+或者你没有得到你期望的假期
+or you didn't get the vacation that you expected.
+这些将导致皮质醇和肾上腺素的增加
+Those will cause increases in cortisol and epinephrine.
+了解这一点很重要
+This is important to understand,
+你没有今天早上
+you don't have the luxury
+没有得到皮质醇脉冲
+of just having this morning cortisol
+然后逐渐减小
+and then having a taper off.
+你要在一天中的主要皮质醇
+You want that major cortisol early in the day
+但是你可以期待
+but then you can expect,
+你应该预期整天内 皮质醇和肾上腺素会增加
+you should expect increases in cortisol and adrenaline throughout the day
+基于你不愉快的事件
+based on events that are unpleasant to you.
+所以对我来说  最让我不愉快的事件
+So for me, the events that are most unpleasant to me
+是交通堵塞之类的东西
+are things like traffic,
+要求我填写表格的电子邮件
+emails that ask me to fill out a form
+结果找不到链接
+for which I can't find the link.
+这些事情使我感到压力
+These kinds of things stress me out,
+我是人
+I'm a human being.
+我不会因为这些事情失去冷静
+I don't lose my cool over them
+但我能感觉到我的警惕程度提高
+but I can feel my level of alertness
+并增加了挫败感
+and kind of frustration increased.
+压力常有的事情
+The normal kind of things that go with stress
+有点紧张
+tense up a little bit.
+关键是皮质醇和肾上腺素的这些脉冲 峰值
+The key is these blips in cortisol and epinephrine
+需要缩短 很短
+need to be brief.
+你不能让他们这么频繁或持续这么长时间
+You can't have them so often or lasting so long
+你处于慢性皮质醇升高状态
+that you are in a state of chronic cortisol elevation
+或慢性肾上腺素升高
+or chronic epinephrine elevation.
+设计这种压力系统
+This system of stress was designed
+增强警觉性 并贯彻你的生活
+to increase your alertness and mobilize you towards things,
+那让你沮丧
+get you frustrated,
+并提供改变行为的机会
+and provide the opportunity to change behavior.
+那就是他们被设计要做的
+That's what they were designed to do.
+因此  如果你发现自己感到压力重重
+So if you find yourself getting stressed
+一直处于压力状态
+and staying stressed,
+在压力那集中  我们提供了很多出色的工具
+there are great tools that we provide in the stress episode
+与两次吸气呼气有关
+that relate to things like the double inhale exhale,
+所谓生理上的叹息
+the so-called physiological sigh.
+你可以合并NSDR
+You can incorporate NSDR,
+在非睡眠深度休息  等等
+in non sleep deep rest protocol, et cetera.
+但要了解能量
+But understand that the energy
+你在压力中经历过的
+that you experienced during stress,
+警觉性和注意力突然增加
+that sudden increase in alertness and attention
+那是因为看到困难
+that comes from seeing something difficult.
+那是一个健康的荷尔蒙系统
+That is a healthy hormonal system
+和有效的神经系统
+and neural system that's working.
+它起作用的原因是皮质醇
+And the reason it works is that cortisol
+当它释放到血液中时
+when it's released into the bloodstream
+它实际上可以与大脑中的受体结合
+it actually can bind to receptors in the brain.
+它可以结合杏仁核中的受体
+It can bind receptors in the amygdala,
+恐惧中心和威胁检测中心
+fear centers and threat detection centers,
+还有涉及到的大脑区域
+but also areas of the brain that are involved
+在学习  记忆和神经可塑性方面
+in learning, and memory, and neuroplasticity.
+这就是为什么我说神经可塑性
+And this is why I say that neuroplasticity,
+大脑通过经验
+the brain's ability to change itself
+来改变自己的能力
+in response to experience
+首先受到关注和专注的刺激
+is first stimulated by attention and focus
+经常伴随着低水平的激动状态
+and often a low-level state of agitation.
+所以要明白
+So understand that,
+而且你不会因此而烦恼
+and you won't be quite so troubled about
+轻微的压力增加
+the little stress increases
+一整天都在发生
+that you experience throughout the day.
+那么  有种方法可以利用压力
+Now, there are ways to leverage stress,
+肾上腺素和皮质醇以为你服务的方式
+epinephrine and cortisol in ways that serve you
+并以故意的方式做到这一点
+and to do it in a deliberate way.
+还有一些方法可以做到这一点
+There are also ways to do that
+但会增加你的压力阈值水平
+that increase your level of stress threshold,
+表示他们降低了
+meaning they make it less likely
+肾上腺素和皮质醇将被释放的可能性
+that epinephrine and cortisol will be released.
+所以我想谈谈这些实践的科学
+So I want to talk about the science of those practices,
+因为我经常被问及这些做法
+'cause I get asked about these practices a lot.
+Wim Hof呼吸之类的东西
+Things like Wim Hof breathing
+这也称为“ tummo呼吸”
+which is also called tummo breathing.
+像冰浴之类的东西
+Things like ice baths.
+诸如高强度间歇训练HIIT之类的事情
+Things like high intensity interval training.
+所有这些东西都有实用性
+All of those things have utility.
+问题是你如何使用它们
+The question is how you use them
+以及你使用它们的频率
+and how often you use them.
+这些工具就像生活中的压力一样
+Those tools just like stress from a life event
+可以增强免疫力或耗尽免疫力
+can either enhance your immunity or deplete it.
+没错  明明是同样做
+That's right those same practices
+冰浴  tummo呼吸
+of ice baths, tummo breathing,
+高强度间歇训练或任何形式的训练
+high intensity interval training, or training of any kind
+可能耗尽你的免疫系统  也可能改善免疫系统
+can deplete your immune system or it can improve them.
+可以改善它
+Excuse me, they can improve it,
+表示它们可以改善你的免疫系统
+meaning they can improve your immune system.
+关键是你使用它们的频率以及何时使用
+The key is how often you use them and when,
+所以我现在想回顾一下
+and so I want to review that now
+根据科学文献
+in light of the scientific literature,
+因为这样做可以建立起如何实践
+because in doing that you can build practices
+加入你的日常或隔日日常
+into your daily or maybe every other day routine
+确实可以帮助你缓冲
+that can really help buffer you
+对抗不健康水平的皮质醇和肾上腺素
+against unhealthy levels of cortisol and epinephrine.
+意思是如果皮质醇的增加太多了
+Meaning cortisol increases that are much too great,
+或持续太久
+or that lasts much too long.
+肾上腺素的增加太多了
+Epinephrine increases that are much too great,
+或持续太久
+or that last much too long.
+当然  我们将讨论所有因为过多的皮质醇
+And of course we'll talk about all the negatives
+肾上腺素过多会持续太长时间
+that go along with having too much cortisol,
+而产生的负面影响
+too much epinephrine for too long.
+但是你听到的很多
+But you hear about those a lot.
+你可能听说过库欣综合症
+You hear about Cushing syndrome,
+腹部脂肪堆积
+you hear about abdominal fat accumulation.
+睡眠障碍
+You hear about sleep disturbances.
+我想先说一些工具方法  你该怎么做
+I want to arm you with the tools first
+然后我们可以谈谈阴暗的一面
+and then we can talk about the dark side,
+以及所有
+and all the things that hopefully
+希望你将能够完全避免的坏事情
+you'll be able to avoid entirely,
+或者一旦掌握了工具
+or that you can get yourself out of
+你可以让自己摆脱困境
+once you have the tools in hand.
+假设有人告诉你一些令人不安的事情
+Let's say somebody tells you something very troubling,
+或你看手机时看到一条短信
+or you look at your phone and you see a text message
+这真的让你很沮丧
+that's really upsetting to you.
+这将立即导致
+That will cause an immediate increase in
+大脑和身体中的肾上腺素的增加  升高
+epinephrine adrenaline in your brain and body.
+而且基本上
+And chances are it's going to increase
+你的皮质醇水平也会增加
+your levels of cortisol as well.
+假设你进入冰浴或冷水淋浴
+Let's say you get into an ice bath or a cold shower,
+即使你喜欢寒冷
+even if you love the cold,
+或者  如果你讨厌寒冷
+or if you hate the cold,
+这将导致同等
+that will cause an equivalent increase
+在肾上腺素和皮质醇的增长
+in epinephrine and cortisol.
+我们不知道确切的水平
+We don't know the exact levels
+但这大概是一样的
+but it's probably about the same.
+假设你出门参加高强度间歇训练
+Let's say you go out for high intensity interval training,
+你决定要进行一些冲刺
+you decide you're going to run some sprints,
+你做一组重复的动作
+you do some repeats,
+或者你要去健身房举重
+or you're going to do some weightlifting in the gym
+而且你喜欢在健身房举重
+and you love lifting weights in the gym.
+也许你喜欢举重之类的
+Maybe you like the power lifting thing,
+或者你决定要做一些热瑜伽
+or you decide that you want to do some hot yoga,
+或你真正喜欢或讨厌的东西
+or some thing that you really enjoy, or you hate,
+这都会增加你的
+you're going to increase your
+肾上腺素和皮质醇水平
+epinephrine and cortisol levels.
+这你没办法控制
+There's simply no way around this.
+假设你决定坐下
+Let's say you decide to sit down
+然后你将进行深呼吸
+and you're going to do some deep breathing.
+我们都听说过深呼吸的好处
+We all hear about the benefits of deep breathing.
+吸气  呼气  吸气  呼气
+So inhale, exhale, inhale, exhale.
+你将获得
+You're going to get big increases
+肾上腺素和皮质醇的大幅增长
+in epinephrine and cortisol.
+来自多项研究的数据支持了这一点
+The data from multiple studies support this.
+所有这些都是“压力源”
+All of those are stressors in air quotes.
+现在有一种方法  你可以在认知上重新构架
+Now there is a way that you can cognitively reframe
+那些是什么
+what those are.
+你可以告诉自己我爱高强度
+You can tell yourself I love high intensity
+间歇训练  或者我喜欢减肥训练
+interval training, or I love weight training.
+我个人喜欢运动
+I personally love exercise.
+我不是特别喜欢寒冷
+I'm not crazy about the cold,
+虽然我不时地做一些冷暴露的东西
+I do some cold exposure stuff now and again,
+我们将在下一集中谈论很多有关如何做到这一点的内容
+and we're going to talk a lot about how to do that
+以最佳方式做到
+in the optimal way in an upcoming episode.
+但是  对我来说  受凉对我来说并不好
+But you know, getting into the cold doesn't feel good to me.
+我告诉自己对我有好处
+I tell myself it's good for me
+我在某个时候喜欢它
+and I enjoy it at some point
+通常在我出去的时候我还挺喜欢的
+usually when I'm getting out.
+所有这些都会增加肾上腺素  然后
+All of those increase epinephrine and guess what,
+它们会增加你的精力和警觉水平
+they increase your levels of energy and alertness.
+所以如果你是一个在精力
+So if you're somebody who struggles
+和机敏性方面有困难的人  那可能是有益的
+with energy and alertness it can be beneficial,
+只要你得到医生的许可
+provided you get clearance from your doctor
+在你的一天中做一些事情
+to have some sort of protocol built into your day
+故意地来增加肾上腺素的水平
+where you deliberately increase your levels of epinephrine
+和你的皮质醇水平
+and your levels of cortisol.
+我想特别强调这一点
+And I want to put the emphasis on deliberately.
+那你该怎么做呢？
+So how would you do that?
+好吧  让淋浴变冷很容易
+Well, it's quite easy to turn the shower cold
+你只要站进去
+and get into that,
+那会唤醒你的
+that will wake you up.
+真的就是唤醒你
+And it literally wakes you up
+因为肾上腺素增加
+because of increases in epinephrine.
+你可以做那种深呼吸
+You can do deep breathing of the sort
+你反复吸气和呼气25或30次
+where you inhale and exhale repeatedly 25 or 30 times,
+也许屏住呼吸几秒钟
+maybe hold your breath for a few seconds
+呼气  然后重复
+on an exhale and then repeat,
+所谓的Wim Hoff或tummo型呼吸
+so-called Wim Hoff, or tummo type breathing.
+许多肾上腺素释放到你的系统中
+Lots of adrenaline is released into your system
+当你这样做的时候
+when you do that.
+之后你将拥有更多能量/精力
+You will have more energy afterwards.
+因此  了解这一点非常重要
+So it's really important to understand
+身体无法区分
+that the body doesn't distinguish
+在令人不安的短信  冰块  tummo呼吸
+between a troubling text message, ice, tummo breathing,
+或高强度间歇训练
+or high intensity interval training,
+或其他任何形式的锻炼  都是压力
+or any other kind of exercise, it's all stress.
+认知地重新定义并告诉自己
+Cognitively reframing that and telling yourself
+我喜欢这个  我喜欢它
+I like this, I enjoy it.
+不会改变那个分子的方式
+Is not going to change the way that that molecule
+影响你的身体和大脑
+impacts your body and brain.
+我有点笑  因为很多人经常会说
+I sort of chuckle because people would love to tell you
+你要做的就是暗示自己
+that all you have to do is say,
+“哦  这对我有好处”  不是的
+"Oh, this is good for me." No.
+告诉自己  对自己有好处
+What it does to tell yourself that it's good for you
+或你喜欢它
+or that you enjoy it.
+这种方法实际上发生的是  它释放了其他分子
+Is that it liberates other molecules
+比如说多巴胺和5-羟色胺
+like dopamine and serotonin
+帮助缓冲了肾上腺素的反应
+that help buffer the epinephrine response.
+那么  其中的原理是什么
+Now, the way that it does that,
+我在上一集中谈到过
+I've talked about in previous episode,
+但我只想提一下
+but I'll just mention
+多巴胺是肾上腺素的前体
+that dopamine is the precursor to epinephrine.
+肾上腺素是由多巴胺制成的  好吗？
+Epinephrine, adrenaline is made from dopamine, okay?
+皮质醇是由胆固醇制成的
+Cortisol is made from cholesterol.
+肾上腺素由多巴胺制成
+Epinephrine is made from dopamine.
+这就是为什么如果你告诉自己
+And that's why if you tell yourself
+你正在享受一些东西
+you're enjoying something,
+因为多巴胺太主观了
+and because dopamine is so subjective
+你可以通过某些方式
+that you can in some ways,
+只要你不完全对自己撒谎
+as long as you're not completely lying to yourself,
+你可以得到更多的肾上腺素
+you can get more epinephrine,
+你获得更多里程或更多能力
+you get more mileage or more ability
+推动某些事情
+to push through something.
+你可以对其进行重新构架
+And you can sort of reframe it,
+但这并不是真正的认知重塑
+but it's not really cognitive reframing.
+认知部分是触发因素
+The cognitive part is the trigger,
+但这是化学物质
+but it's a chemical substance
+那实际上是在那里发生的
+that's actually occurring there.
+多巴胺能给你更多肾上腺素
+It's dopamine giving you more epinephrine,
+肾上腺素释放幅度更大
+A bigger amplitude epinephrine release,
+它给了你一些控制感
+and it gives you some sense of control.
+所以这是任何人都可以使用的方法
+So here's a protocol that anyone can use.
+如果你想提高能量水平
+If you want to increase levels of energy,
+如果你白天白天精力不足
+if you suffer from low energy during the daytime,
+或只要你想保持警惕
+or whenever it is that you'd like to be alert.
+选择一种可以相当一致地进行的练习
+Pick a practice that you can do fairly consistently,
+也许每天
+maybe every day,
+但也许每三天或每四天
+but maybe every third day or every fourth day,
+也许是冰浴或冷浴
+maybe it's an ice bath or a cold bath.
+也许是冷水淋浴
+Maybe it's a cold shower.
+也许是循环呼气法
+Maybe it's the cyclic inhale exhale,
+我描述的呼吸方案
+breathing protocol I described,
+如果不清楚  人们总是要求演示
+if that wasn't clear and people always ask for a demo,
+我现在不会做整一套
+I'm not going to do the whole thing right now,
+但我愿意演示一下
+but I'm willing to do a few rounds of this,
+我应该说是几个周期
+or a few cycles I should say.
+所以就是 吸气
+So it's inhale.
+我会做得更深入  像这样
+I would do that more deeply, more like.
+你重复执行25次  30次
+You do that 25, 30 times repeatedly
+你将开始感到温暖
+you will start to feel warm.
+瑜伽界的人们
+People in the yoga community,
+他们会说你在生热
+they say you're generating heat.
+你不会产生热量  不会释放肾上腺素
+You're not generating heat, releasing adrenaline.
+吸气和呼气  吸气呼气25或30次
+Inhale and exhale, inhale exhale 25 or 30 times,
+你会感到一点烦躁和压力
+you will feel agitated and stressed.
+那是因为你在体内释放肾上腺素
+That's because you're releasing adrenaline in your body
+那是因为你要释放
+and that's because you're releasing
+大脑中的去甲肾上腺素
+norepinephrine in your brain,
+这样你会更加警觉
+and you'll be more alert.
+然后  你可以遵循25或30个呼吸周期
+Then you can follow that 25 or 30 breath cycles
+呼气的时候
+with an exhale hold,
+屏住呼吸15到30秒
+and hold your breath for 15 to 30 seconds.
+请大家  要在干燥的陆地上这样做
+Always, always, always do this on dry land.
+切勿在驾驶  操作重型机械时做
+Never while driving, operating heavy machinery,
+遵守所有标准安全协议
+all the standard safety protocols.
+请永远不要靠近水
+Never near water please,
+已经有人在水里这么做
+people have passed out and died doing this
+昏倒了  死了
+with breath holds in water.
+已经出现了一些与之相关的死亡案例
+There are several deaths associated with it,
+在陆地上  与你的医生确认可能更安全
+on land it's probably safer, clear with your doctor,
+但是25到30屏气呼气
+but 25, 30 breaths exhale hold,
+25、30个呼吸再次呼气
+25, 30 breasts again exhale hold,
+25 30个呼吸再次呼气
+25 30 breasts again exhale hold.
+然后  如果你愿意  可以吸气并保持
+And then if you like you can do an inhale and hold
+如果在你的安全范围内
+if that's within your margins of safety.
+因此  如果所有这些协议
+So if all these protocols,
+所有这些活动都是等同的
+all these activities are just equivalent,
+他们只是压力
+they're just stress.
+那我们如何使它们对我们有益呢？
+Then how do we make them good for us?
+我们实际上如何从中受益？
+How do we actually benefit from them?
+那么  当然寒冷本身
+Now, of course the cold itself
+可以起到一些促进健康的作用
+can have some health promoting effects.
+它可以增加棕色脂肪的生热和新陈代谢
+It can increase brown fat thermogenesis and metabolism,
+高强度间歇训练
+high intensity interval training,
+或其他形式的锻炼
+or other forms of exercise
+当然有心血管作用
+of course has cardiovascular effects
+对我们有好处
+that can be good for us
+重量训练等
+as does weight training, et cetera.
+但是我们在这里谈论的是
+But what we're talking about here
+是增加能量并教我们的大脑和身体的方法
+are ways to increase energy and to teach our brain and body
+教自己如何调节压力反应
+to teach ourselves how to regulate the stress response.
+所以除了实际做法的好处
+So in addition to the benefits of the actual practices
+我们正在谈论的是建立一个系统
+what we're talking about is building a system
+这样当你体验
+so that when you experience
+生活事件中肾上腺素和皮质醇的增加
+increases in epinephrine and cortisol from life events
+你可以更好地缓冲这些
+you're able to better buffer those.
+而且我们也在谈论
+And we are also talking about
+总体上可以增加能量/精力的方法
+ways that you can increase energy overall.
+因为这就是今天的播客要讲的内容
+'Cause that's what today's episode is all about,
+能量和免疫系统
+energy and the immune system.
+的确  我们将谈论
+And indeed, we will talk about
+如何实际利用特定方法
+how you can actually leverage specific protocols
+增强你的免疫系统需求
+to increase your immune system on demand.
+有大量的科学数据
+There's great scientific data
+支持人可以做到这一点
+to support that one can do that.
+所以有一个非常重要的生物学机制
+So there's a biological mechanism that's very important
+如果你想做那些事
+if you want to do those things,
+按需增加能量和免疫系统
+increase energy and your immune system on demand.
+学会实时缓解需求压力
+Learn to buffer stress on demand in real time.
+这意味着采用这些方法
+And it means taking these protocols,
+不管是冷水还是这些做法
+these practices whether or not it's cold water,
+或冰浴或运动  或其中任何一项
+or ice bath, or exercise, or any of those
+进行一次很小但非常有力的调整
+and making one small but very powerful adjustment
+通过你做的方式
+in how you perform them.
+但是为了进行调整
+But in order to make that adjustment,
+我不能只告诉你调整
+I can't just tell you the adjustment.
+我要告诉你机制
+I have to tell you the mechanism
+这样你就可以知道自己是否正确执行了操作
+so that you know if you're doing it correctly or not.
+事实就是这样
+This is really a case where
+如果你能了解一些机制
+if you can understand a little bit of mechanism,
+你将比仅仅采用方法要好得多
+you will be far better off than just adopting protocols.
+因此  如果你从本集中别无其他选择
+So if you take away nothing else from this episode
+除了我要告诉你的
+except what I'm about to tell you
+请带走我要讲的这些信息
+please take away the information I'm about to tell
+我提到的皮质醇是从肾上腺释放的
+Cortisol as I mentioned is released from the adrenals
+它可以与受体结合
+and it can bind to receptors.
+它可以在身体和大脑中起作用
+It can have action, both in the body and in the brain.
+实际上  它可以绑定到所谓的
+In fact, it can bind to the so-called
+大脑中的威胁检测中心
+threat detection center in the brain,
+或其中之一是杏仁核
+or one of them which is the amygdala,
+也称为恐惧中心
+also called the fear center.
+可以这样做是因为皮质醇
+It can do that because cortisol
+可以穿越血脑屏障
+can cross the blood brain barrier.
+它可以在体内释放并交叉
+It can be released in the body and cross
+这种生物屏障
+this biological barrier.
+就像栅栏一样  使大脑无法进入其他物质
+It's like a fence that keeps things out of the brain
+但皮质醇拥有通过的权利  它可以通过
+but cortisol has passing rights, it can go through.
+肾上腺素不能
+Epinephrine cannot,
+肾上腺素是极化的
+epinephrine is polarized,
+它的形状是这样的
+the shape of it is such that
+它不能通过血脑屏障
+it can't make it through the blood brain barrier.
+这就是为什么你肾上腺和大脑上
+That's one of the reasons why it's released both
+都会释放肾上激素的原因之一
+from the adrenals in your body
+或者从这个脑干区域释放出来
+and released from this brainstem area,
+大脑中的蓝斑
+the locus coeruleus in your brain.
+那是很强大的事情  因为这意味着
+That's a powerful thing, because what it means is that
+身体可以进入准备状态和警觉状态
+the body can enter states of readiness and alertness
+而头脑保持平静
+while the mind remains calm.
+从生物学上讲是可能的
+That is biologically possible,
+这不仅仅是心理上的把戏
+it's not just a psychological trick.
+并且有一些方法可以做到这一点
+And there are ways that one can do that.
+所以我想在这一点上
+So I'm presuming at this point
+你得到晨光
+that you're getting your morning light
+到你的皮质醇增加的时候
+to time your cortisol increase.
+我想你想要更多的能量/精力
+I'm presuming that you want more energy
+或者你想增强免疫力
+or that you want to increase your immune system,
+它对抗各种感染
+its function and its ability
+的功能和能力
+to combat infections of various kinds.
+我的建议是
+And what I'm suggesting is that
+你从之前讲过的方法中挑选
+you pick from the pallet of exercises that are out there,
+或增加肾上腺素的工具
+or tools that are out there to increase epinephrine.
+有很多方法可以做到这一点
+There are a lot of ways to do that.
+你可以像我提到的那样通过冷水来做到这一点
+You can do that as I mentioned through cold water,
+通过运动
+through exercise.
+你甚至可以做到
+You can even do that
+通过与其他人对抗
+by having confrontations with other people.
+从生物学的角度来看  原理是相同的
+At a biological level, it is identical.
+所以如果你想上网
+So if you like to go online
+并发表那种评论
+and place the kind of comments
+或阅读各种不顺眼东西
+or read the kinds of things,
+或看看引起你愤怒的事物
+or look at the kinds of things that agitate you,
+如果你愿意  可以将其视为机会
+you can if you like look at that as an opportunity,
+我不建议你那样做
+I'm not suggesting you do that,
+我想看到人们照顾自己
+I'd like to see people taking care of themselves
+坦率地说  彼此之间的破坏力要小得多
+and each other in much less destructive ways frankly.
+但前提是要增加
+But the prerequisite here is getting an increase
+从体内释放出的肾上腺素
+in adrenaline released from the body.
+那么  最简单的方法来描述如何做到这一点
+Now the simplest way to describe how to do that
+将在冷水浴
+would be in the context of cold water
+或呼吸方法
+or a breathing protocol,
+因为那样我就不必处理
+because then I don't have to deal with the
+未知的生活环境 刺激你
+unknown life circumstances that get you triggered,
+或者我可以说是什么让我被刺激
+or I could say what gets me triggered
+阻止这种情况
+but I'm not going to.
+因此  让我们假设冷水
+So let's presume cold water.
+假设你决定要洗个冷水澡
+So let's say you decide you're going to take a cold shower.
+你进入冷水淋浴  如果天气足够冷
+You get into the cold shower and if it's cold enough,
+那会很压力
+that will be stressful,
+你的肾上腺素会增加
+you will experience an increase in epinephrine,
+它将提高你的警觉性
+it will increase your alertness.
+现在你将其用作练习
+Now you're using this as a practice,
+作为一种构建工具  你可以将其称为弹性工具
+as a tool to build you could call it resilience,
+但是保持头脑冷静的能力
+but the ability to stay calm in the mind
+在身体受到压力的同时
+while being stressed in the body,
+肾上腺素在体内
+epinephrine is in the body.
+你可以通过主观地尝试使自己平静下来来做到这一点
+And you do that by subjectively trying to calm yourself.
+那么  你可以通过告诉自己对自己有好处来做到这一点
+Now you can do that by telling yourself it's good for you
+通过强调你的呼气
+by emphasizing your exhales.
+你可以采取任何措施尝试保持冷静
+Anything that you can do to try and stay calm
+尽管你处在一个
+despite the fact that you are in a heightened
+高度警觉的状态
+state of alertness.
+你通过运动做到这一点
+You do this with exercise,
+你可以通过音乐来做到这一点
+you can do this with music.
+几乎所有可以给你的东西
+Pretty much anything that will give you
+真正提高警觉的状态
+a really heightened state of alertness
+为你提供尝试在大脑部位保持冷静的机会
+offers you the opportunity to try and stay calm in the mind.
+你正在尝试在机制层面上做的事情
+What you're trying to do at a mechanistic level
+是要从肾上腺  释放肾上腺素
+is to have adrenaline released from the adrenals,
+但没有达到脑干中肾上腺素释放
+but not have adrenaline, epinephrine released
+的那种程度
+from the brain stem to the same degree.
+所以你不只是试图缓冲它
+So you're not just trying to buffer this,
+你并不是要说：“哦  这对我有好处
+you're not trying to say, "Oh, this is good for me,
+这对我有好处  多生产”
+this is good for me, I'm going to grind this out."
+不是越多越好
+You're not trying to grind it out,
+而是要从容应对
+you're trying to move through this calmly
+同时保持警觉性
+while maintaining alertness.
+你并不一定要进行区域划分
+You're not trying to zone out necessarily,
+尽管也许有帮助
+although maybe that helps.
+你不是想分散自己的注意力
+You're not trying to distract yourself,
+你想做的是
+what you're trying to do is
+从认知上将你的关系转变为躯体关系
+shift cognitively your relationship to the somatic,
+对身体的压力反应
+to the body stress response.
+现在我敢肯定你们当中有些人在说
+Now I'm sure some of you out there are shouting,
+“是的  那就像是什么  什么什么其他东西”
+"Yeah, that's exactly like whatever, whatever, whatever."
+我同意
+I agree.
+在许多方面  这是自我指导的
+This is in many ways a self-directed
+一种压力接种
+kind of stress inoculation,
+但是我们并不是说这是压力接种
+but we're not talking about this as stress inoculation.
+我们正在谈论这种方式
+We're talking about this as a way
+是为了增加精力和注意力
+to increase energy and focus.
+原因是肾上腺素
+And the reason is that epinephrine
+在体内释放时
+when released in the body
+对免疫系统有深远的影响
+has a profound effect on the immune system.
+而当在大脑中释放时
+And when released in the brain has a profound effect
+会对学习和记忆信息的能力   并保持警惕
+on the ability to learn and remember information
+产生深远的影响
+and to be alert.
+因此  我们正在谈论拆分位置
+And so we're talking about splitting the location,
+分开的位置
+separating the location from which
+你有肾上腺素释放
+you have epinephrine, adrenaline released.
+好的因此  假设你正在执行此练习
+Okay. So let's say you are doing this practice
+只是为了清醒
+simply to wake up,
+好吧  冷水洗澡就可以了
+okay, cold shower will do that,
+运动也能够做到这一点
+exercise will do that.
+保持冷静的能力
+The ability to stay calm in mind
+同时增加肾上腺素水平
+while having heightened levels of adrenaline
+以及体内的皮质醇
+and presumably cortisol as well in the body.
+但是皮质醇将在各处传播
+But the cortisol is going to circulate everywhere.
+稍后我们将进一步讨论皮质醇
+We'll talk a little bit about cortisol more in a moment.
+你可以通过某种自我舒缓的镇定方式来做到这一点
+You could do that through some self soothing calming way,
+这将是高度个性化的
+that's going to be highly individual.
+你可以通过告诉自己喜欢它来做到这一点  等等
+You can do it by telling yourself you enjoy it, et cetera.
+但是你需要了解的是
+But what you need to understand
+是在这种做法之后的近期内
+is that in the immediate period following that practice
+你的系统  整个大脑和身体都不同
+your system, your entire brain and body are different.
+实际上  你的身体已准备好抵抗感染
+Your body is actually primed to resist infection,
+当你的肾上腺素含量高时
+when you have high levels of epinephrine in it
+在短时间内
+for short periods of time.
+因此  科学研究探索了如何
+So the scientific study that explored how
+体内肾上腺素增加
+increasing adrenaline in the body
+可以提高免疫抵抗力
+can improve immune resistance is grounded
+在一个众所周知的现象中
+in a well-known phenomenon
+压力增加
+that increases in stress
+真正保护你免受感染
+actually protect you against infection
+在短期内
+in the short term.
+所以我想先看一下经典数据
+So I want to look at the classic data first,
+描述所做的事情
+describe what was done.
+然后我想谈谈最近的研究
+And then I want to talk about the more recent study
+立即采取行动
+which is immediately actionable.
+确实有一些经典的研究基础
+There are classic set of studies that are really based
+主要是关于布鲁斯·麦克尤恩（Bruce McEwen）的工作
+mainly on the work of somebody named Bruce McEwen,
+他曾在纽约洛克菲勒大学任教
+who was at the Rockefeller University in New York.
+布鲁斯几年前去世
+Bruce passed away a few years ago,
+但他有数十年难以置信的影响力
+but he had many decades of incredibly impactful
+他这样做的时候就在他的皮带下工作
+work under his belt when he did.
+接下来我要谈论的工作
+The work that I'm going to talk about next
+已经在人类身上完成了
+has been done in humans
+并已在动物身上完成
+and has been done in animals,
+并真正探讨了如何诱发压力
+and has really explored how inducing stress
+可以增强免疫系统的功能
+can enhance the function of the immune system
+在短期内
+in the short term.
+当我的意思是短期的时候
+And when, I mean short term,
+我的意思是大约一到四天
+I mean about one to four days.
+我不会仔细研究这项研究的所有细节
+I'm not going to go through all the details of the study,
+但本质上他们在做什么是在暴露主体
+but essentially what they were doing was exposing subjects
+某种感染
+to some sort of infection,
+细菌或病毒感染
+either bacterial or viral infection,
+并引起压力
+and inducing stress.
+听起来像是双重打击  对吧？
+It sounds like a double whammy, right?
+你可能以为可能会受到一些电击
+You'd think that maybe getting a little electric foot shock,
+或冷水暴露
+or cold water exposure,
+或增加压力的东西
+or something to increase your levels of stress
+和肾上腺素会
+and adrenaline would just make
+感染的后果更糟
+the effects of the infection worse,
+但不  恰恰相反
+but no, quite the opposite.
+短暂的压力回弹
+Brief bouts of stress,
+现在你应该在考虑什么
+which now you should be thinking about
+在皮质醇和肾上腺素释放方面
+in terms of cortisol and epinephrine release
+我们实际上能够增强免疫系统的功能
+we're actually able to increase immune system function.
+现在那不应该让你感到惊讶
+Now that shouldn't surprise you
+如果你懂一点
+if you understand a little bit
+关于肾上腺素如何在人体和大脑中起作用
+about how epinephrine works in the body and in the brain.
+本质上是信号
+It essentially is the signal
+通过它神经系统可以通知免疫器官
+by which the nervous system can inform immune organs,
+脾脏和其他器官之类的东西
+things like the spleen and other organs
+可以制造各种杀伤细胞
+that make killer cells of various kinds,
+B细胞和T细胞 B cells and T cells,
+去抵抗感染
+to go in combat infections,
+细菌和病毒
+bacteria, and viruses.
+你的免疫系统还怎么知道
+How else would your immune system know
+有感染吗？
+that there was an infection?
+你的免疫系统可以识别外来入侵者
+Your immune system can recognize foreign invaders
+但是神经系统提供了信号
+but the nervous system provides the signal,
+释放杀手细胞的警报信号
+the sort of alarm signal that liberates the killer cells,
+告诉他们有问题
+that tells them there's a problem
+可以这么说去解决问题
+and to go seek out the problem so to speak.
+所以这里的持续时间真的很重要
+So the duration here is really important
+因为如果压力持续太久太久
+because if stress stayed too high for too long,
+那是的  确实压力会阻碍免疫反应
+then yes indeed stress can hinder the immune response.
+但是大约一到四天的时间
+But for a period of about one to four days,
+它实际上可以保护你
+it actually can protect you
+通过增加免疫反应
+by way of increasing the immune response.
+那么  我可以肯定地说
+Now, I can say with certainty
+这种作用是由肾上腺素控制的
+that that effect is governed by epinephrine,
+从肾上腺释放肾上腺素
+adrenaline released from the adrenals
+而不是来自大脑
+and not from the brain,
+因为他们实际上探索了
+because they actually explored
+效果是否存在
+whether or not the effect exists
+在所谓的肾上腺切除术的存在下
+in the presence of what's called an adrenalectomy,
+或去除肾上腺
+or removing the adrenals.
+所以我应该说没有肾上腺
+So I should just say, without the adrenals
+你没有得到效果
+you don't get the effect.
+所以我们知道那种效果
+So we know that that effect
+来自体内的肾上腺素
+comes from adrenaline in the body.
+这对你意味着什么？
+What does that mean for you?
+这意味着如果你想增加
+That means if you want to increase
+短期内你的免疫系统
+your immune system in the short term
+你想在短期内增加肾上腺素
+you want to increase your epinephrine in the short-term.
+这就是为什么剧烈运动会短暂发作的原因
+That's why short bouts of very intense exercise
+每天可能不超过一个小时
+probably no more than an hour per day,
+只要你做的其他事情都正确
+provided you're doing everything else right,
+睡眠和营养等等
+sleeping and nutrition, et cetera,
+也许短时间的激烈运动
+maybe even shorter bouts of intense exercise
+或暴露在冷水中
+or exposure to cold water,
+或我之前所说的循环呼吸法
+or that cyclical breathing that I talked about before,
+因为它们增加肾上腺素
+because they increase epinephrine
+它们会增强免疫系统
+they will bolster the immune system.
+而且我们不时听到这些报告
+And we all hear these reports every once in a while,
+似乎是这样的事情
+it seems to be the thing that
+偶尔会有一篇关于如何
+every once in a while there'll be an article about how
+咖啡可以改善你的免疫系统
+coffee can improve your immune system,
+或类似的东西
+or something like that.
+确实咖啡因可以增加肾上腺素
+Indeed caffeine can increase epinephrine
+和多巴胺在某种程度上
+and dopamine to some extent,
+但大多数人都在长期饮用
+but most people are drinking it chronically.
+所以它的作用可能是由于肾上腺素的增加
+So its effects are probably due to increases in epinephrine
+可能还有像咖啡之类的东西
+and probably whether or not something like coffee
+或其他形式的咖啡因可以改善
+or other forms of caffeine can improve
+或降低你的免疫系统
+or degrade your immune system
+可能取决于是否
+will probably depend on whether or not
+你正在以某种方式使用它
+you're using it in a way
+它会增加你的肾上腺素
+that it increases your adrenaline as a spike,
+只有当你很少喝的时候
+that happens rarely,
+比如说  每两三个月喝一次
+you know, once every two or three months,
+假设你感染了病毒
+let's say you have an infection coming on,
+确实是的
+yes, indeed.
+这些数据可能意味着
+What these data probably mean
+就是喝一些含咖啡因的热茶
+is that drinking some hot caffeinated tea
+甚至一些热咖啡
+or some hot coffee even
+只要你不脱水
+provided you don't get dehydrated from it
+因为你也在喝水
+because you're also drinking some water
+这样可以改善你的免疫系统功能
+can probably improve your immune system function,
+通过增加肾上腺素释放
+by way of increasing adrenaline release.
+但是呼吸也可以  冷暴露也可以
+But so can the breathing, so can cold exposure,
+可以运动
+so can exercise.
+这里的机制是关键
+The mechanism here is what's key,
+我一直说
+and I keep saying that
+因为这意味着
+because what it means is that
+根本上来讲  你甚至不必知道特定的方法
+you don't actually have to know the specific protocol.
+我并不是要说要执行此特定方法
+I'm not trying to say, do this particular protocol.
+你要弄清楚
+You have to figure out,
+而且应该很容易弄清楚
+and it should be easy to figure out
+是什么行为短期增加肾上腺素
+what short term adrenaline increasing behavior
+你愿意每天定期做
+you're willing to do on a regular basis every day,
+或一周两次或三次
+or two or three times a week.
+现在你可以说  嗯  我没有病
+Now you could say, well, I'm not sick.
+我应该经常做这些事情吗？
+Should I be doing these things often?
+我会说  每周至少两次或三次
+I would say, two or three times a week at a minimum
+如果你的目标是保持免疫系统调优
+if your goal is to keep your immune system tuned up
+而且你在很多地方
+and you are in the presence of a lot of
+例如孩子
+children for instance,
+很多情况就不适用于他们
+which carry a lot of bugs,
+因为他们的免疫系统尚未发育
+because their immune system isn't developed,
+或者你在医疗机构工作
+or you work in a healthcare setting,
+或者你只是一个容易生病的人
+or you're simply somebody who's prone to get sick.
+我只能说一句
+I can just say anecdotally,
+我猜有人现在称这为anecdata
+I guess someone now calls this anecdata
+我不喜欢那句话
+which I don't like that phrase,
+因为有点...
+because it's sort of...
+我不希望轶事数据成为现实
+I don't want anecdotal data to ever be
+搞的是什么真的数据一样  不是的 经验就是经验
+misunderstood as anything but anecdotal data.
+有趣的是  我可以说我已经
+Anecdotally, I can say that I've had
+我感到喉咙发痒的情况
+instances where I've felt a throat tickle coming on
+或一些鼻窦感染
+or some sinus infection,
+我将执行我之前描述的循环呼吸
+I will do the cyclic breathing that I described before.
+25-30呼吸呼气
+25, 30 breasts exhale hold,
+25-30次呼吸呼气气息  25-30次呼吸呼气气息
+25 30 breasts exhale hold, 25, 30 breaths exhale hold,
+然后大吸气 屏气
+and then big inhale hold.
+而且大多数时候我都没有生病
+And most times I didn't get full blown sick,
+但我也采取其他预防措施
+but I also take other precautionary measures
+睡觉等等
+to get sleep, et cetera.
+因此  无论是否有因果关系
+So whether or not it was causal,
+还是它只是相关的  我不知道
+or whether or not it's just correlated I don't know.
+但是  有一项人类研究
+However, there's a human study
+我绝对想向你指出
+that I definitely want to point out to you,
+因为它是最近出版的
+because it was published more recently
+比McEwen的作品还重要
+than the McEwen work.
+它发表在《议事录》上
+It was published in the Proceedings
+美国国家科学院的
+of the National Academy of Sciences for the USA,
+因为其他国家也有
+because there are Proceedings
+国家科学院院刊
+of the National Academy of Sciences for many other countries as well.
+论文的标题是
+The title of the paper is
+“交感神经系统的自愿激活...
+"Voluntary activation of the sympathetic nervous system."
+那是引起战斗或逃跑的压力的系统
+That's the system that causes fight or flight AKA stress,
+并导致肾上腺素释放
+and causes release of adrenaline.
+...减弱了人类的先天免疫反应”
+"And attenuation of the innate immune response in humans."
+这是Kox等 PNAS
+This is Kox et al. PNAS,
+美国国家科学院院刊  2014年
+Proceedings to the National Academy of sciences, 2014.
+而且它们结合了著名的Wim Hof呼吸
+And they incorporate the ever famous Wim Hof breathing
+Wim Hof呼吸很像呼吸方法
+Wim Hof breathing is much like the breathing protocol
+我在此播客中已经描述了好几次了
+that I've described several times now in this podcast.
+这也称为“ tummo呼吸”
+It's also called tummo breathing.
+来自其他文化和社区的其他人
+Other people from other cultures and communities
+称它为其他东西
+have called it other things.
+命名确实并不重要
+The naming really isn't important.
+虽然我确实认为Wim是先锋
+Although I do think Wim is a pioneer
+将这些做法
+in trying to bring these practices
+带向了广大公众
+to the general public more broadly
+并参与了这项研究
+and was involved in this study.
+该研究在荷兰完成
+The study was done in the Netherlands.
+它是由耶鲁大学的Tamas Horvath博士主导的
+It was communicated by Dr. Tamas Horvath at Yale,
+我提到了所有这些
+I mentioned all that.
+霍瓦斯（Horvath）是一位了不起的科学家
+Horvath is a terrific scientist,
+我熟悉他多年的工作
+I'm familiar with his work over many years.
+这就是他们所做的
+Here's what they did.
+他们给人们注射了大肠杆菌
+They injected people with E. coli
+他们有一些团体
+and they had groups that either
+做了我一直在描述的呼吸
+did the sorts of breathing I've been describing
+增加肾上腺素的释放
+that increase adrenaline release.
+虽然我应该说
+Although I should say,
+我不认为你需要呼吸
+I don't think you need that breathing
+获得肾上腺素释放
+to get adrenaline release.
+你可以通过冷暴露来做到这一点
+You could do it with cold exposure,
+你可以用其他东西做
+you could do it with other things,
+高强度间歇训练也是如此
+high intensity interval training as well.
+他们发现的是
+And what they found was that
+对大肠杆菌的反应是完全不同的
+the response to the E. coli was quite different
+在有方法的人中
+in the people that had a protocol,
+在这种情况下  呼吸会增加肾上腺素
+in this case breathing to increase adrenaline.
+所以这是一项了不起的研究
+So this is a remarkable study
+因为他们发现发烧  呕吐
+because what they found was that the fever, the vomiting,
+大肠杆菌的所有负面影响
+the all the negative effects of E. coli,
+他们很多  有些情况下  全部
+many of them and some cases all of them
+被大大衰减
+were greatly attenuated
+因为通过使用肾上腺素系统
+by way of engaging the adrenaline system.
+在这个实验中  受试者使用了呼吸法
+In this case using breathing.
+他们研究了炎性细胞因子
+They looked at inflammatory cytokines,
+像IL-6这样的东西
+things like IL-6,
+我在这个播客中已经提到过很多次了
+which I've mentioned many times on this podcast.
+这是经典的炎性细胞因子
+This are classic inflammatory cytokine were reduced.
+减少像IL-10这样的东西
+Things like IL-10
+也就是抗炎药  让IL-10增加
+which are anti-inflammatory were increased.
+有一些炎症细胞因子增加
+There were some inflammatory cytokines that were increased.
+这里有什么意义？
+What's the point here?
+关键是你可以控制自己的免疫系统
+The point is you can control your immune system,
+通过寻找增加肾上腺素的方法
+by finding a way that you can increase adrenaline.
+这与我们一直听到的情况背道而驰
+And this runs counter to what we always hear,
+压力不要太大  否则你会生病
+which is don't get too stressed or you will get sick.
+学习控制肾上腺素  将其打开和关闭
+Learn to control adrenaline, turn it on and turn it off.
+学习控制皮质醇
+Learn to control cortisol,
+早上把它打开
+turn it on with light in the morning,
+随着一天的过去
+try and turn it off
+尝试将其关闭
+and then when it spikes because of life events learn to turn it off.
+学习开启和关闭肾上腺素
+Learning to turn on and off adrenaline, AKA epinephrine,
+学习打开和关闭皮质醇
+and learning to turn on and off cortisol
+使你能够打开精力并集中
+affords you the ability to turn on energy and focus
+在你的免疫系统中
+in your immune system.
+这是今天播客中最重要的一点
+That's the most important point from today's podcast
+一定要理解
+and understanding that it doesn't matter
+不管你使用什么方法
+what protocol you use.
+也许是一杯咖啡
+Maybe it's a cup of coffee
+跑上跑下五六次
+and running up a hill five or six times,
+可以改善你的免疫系统功能
+that will improve your immune system function
+如果你的系统中想要有肾上腺素
+if you get adrenaline in your system.
+你可以用冰浴
+You can use an ice bath,
+你可以洗个冷水澡
+you can use a cold bath,
+真的没关系
+it really doesn't matter.
+你吵个架
+You get into an argument,
+虽然我不建议你这样做
+but I'm not suggesting you do that,
+真的没关系
+it really doesn't matter.
+重要的是你可以关闭
+What's important is that you're able to then shut off
+该回应
+that response.
+我们将讨论一些方法
+And there are ways to do that we will talk about,
+但我想谈谈其他一些好处
+but I want to talk about some of the other benefits
+肾上腺素和皮质醇
+of epinephrine and cortisol
+发生是因为它们对大脑的作用
+that occur because of their actions on the brain.
+因为这些很多而且功能强大
+Because these are many and they are powerful,
+它们不仅与能量有关  而且与学习能力有关
+and they relate to energy, but also the ability to learn.
+如果我还没有说服你
+If I haven't already convinced you
+那天早上见光
+that seeing light early in the day
+对定时释放你的皮质醇是好的
+is good for timing your cortisol.
+我还应该提到另一种激素
+I should also mention that another hormone
+我讨论的最后一集是甲状腺激素
+that I discussed last episode which is thyroid hormone
+这对设定新陈代谢的水平至关重要
+and is critical for setting your level of metabolism
+这些生物节律机制部分地控制了
+is controlled in part by these circadian mechanisms
+和皮质醇本身
+and cortisol itself.
+简短的结论就是
+The short takeaway on this
+如果你在一天中的早些时候释放皮质醇
+is that if you get your cortisol release early in the day
+它会全天增加你的精力
+it will increase your energy throughout the day,
+它也将使你的甲状腺正常释放
+it will also time your thyroid release properly.
+所以还有另一个原因
+So there's yet another reason
+为什么你想得到那个
+why you would want to get that light exposure
+在一天的早些时候的曝光
+early in the day.
+对我来说  这是无法商量的做法
+For me that's a non-negotiable practice.
+如果我在飞机上  我会尽力而为
+If I'm on a plane, I'll try and get it any way I can.
+即便没有手电筒
+I'm not shining flashlights in my eyes yet,
+但我真的很努力地
+but I really try hard to get that light exposure
+不受日光照射的影响
+from sunlight early in the day without fail.
+甲状腺的增加与以下事实有关：
+And the thyroid increase has to do with the fact that
+你的昼夜节律时钟本身受皮质醇调节
+your circadian clock itself is regulated by cortisol
+而甲状腺激素的释放是根据昼夜节律时钟
+and the circadian clock times the release of thyroid hormone.
+我不想在这里说太多
+I don't want to go too far off in that direction,
+但是有很多研究
+but there are a number of studies,
+Kalsbeek等
+Kalsbeek et al.
+Kalsbeek等 2012
+Kalsbeek et al. 2012.
+如果你想在PubMed上查找它  那是一个很棒的选择
+If you want to look it up on PubMed is a great one,
+它描述了皮质醇的分泌
+that describes how cortisol secretion
+在睡眠期间开始上升
+begins to rise during sleep
+并在醒来后不久或之前达到峰值
+and peaks shortly after waking or immediately before.
+在生物钟中有一组神经元
+And that times a set of neurons in the circadian clock
+然后触发释放
+that then trigger the release of the
+释放和刺激甲状腺激素
+releasing and stimulating hormones for thyroid.
+所以一个非常重要的机制
+So a really important mechanism,
+甲状腺也倾向于与能量相关
+and thyroid will also tend to correlate with energy
+但主要是新陈代谢
+but mostly metabolism.
+检查甲状腺非常重要
+Very important to have thyroid in check.
+现在让我们谈谈肾上腺素和皮质醇
+Now let's talk about epinephrine and cortisol,
+以及 学习与记忆
+and learning and memory.
+每个人都有一个关于如此压力的故事
+Everyone has a story about being so stressed
+他们不记得知识点了
+they couldn't remember something.
+你知道  坐下来参加考试
+You know, sit down to an exam.
+一次参加考试  我实际上发生了这种情况
+I actually had this happen once sat down to an exam
+大脑就是一片空白  一片空白
+and just blanked, just blanked.
+它只发生了一次  我不知道发生了什么
+It only happened once, I don't know what happened.
+我不认为这是睡眠不足
+I don't think it was sleep deprivation
+但是我大脑完全空白
+but I just completely blanked.
+对我来说很难
+And it was very hard for me
+把自己从沟里拉出来
+to pull myself out of that ditch.
+我确实做到了  但这是一次令人恐惧的经历
+I did manage to do it, but it was a scary experience.
+所以我认为大多数人都在考虑压力
+So I think most people think about stress
+并且无法执行
+and an inability to perform.
+但是  大多数时候肾上腺素会增加
+However, most of the time increases in epinephrine
+只要他们不过高
+provided they are not through the roof
+可以让我们的学习能力提高
+lead to improved performance.
+那么  这已经在记忆力测试中一遍又一遍地显示了
+Now this has been shown over and over again on memory tests,
+学习新信息  身体表现方面的知识
+on learning new information, on physical performance.
+当肾上腺素的血液水平低时
+That when blood levels of epinephrine are low
+你表现不佳
+you don't perform very well.
+当肾上腺素的血液水平很高时
+When blood levels of epinephrine are very high
+高达约1500至1700 pg / mL
+up to about 1500 to 1700 pg/mL.
+有人 实际上测量过这些东西
+If anyone's out there, who's actually measuring this stuff
+但你不一定是这个数
+but I doubt you are,
+记忆能力提高
+performance goes way up.
+当你警觉时  学习/记忆能力会提高
+Performance gets better when you are alert
+当你有点压力的时候
+and when you're a little bit stressed.
+绝对是一次又一次地展示
+Absolutely shown again, and again, and again.
+如果你压力太大  那是精神方面
+If you get too stressed, it's the mental side,
+大脑中的肾上腺素引起人们
+it's the epinephrine in the brain that causes people
+要么过多地专注于他们的身体反应
+to either focus on their somatic response too much.
+就像他们觉得自己在流汗一样
+Like they feel like they're sweating,
+他们专注于身体反应
+and they're focused on their bodily response,
+他们没有专注于他们想做的事情
+they're not focused on what it is they're trying to do,
+或说  或执行   或学习等等
+or say, or perform, et cetera, or learn.
+但是肾上腺素是促智药
+But epinephrine is a nootropic,
+这是我们所有人内部制造的聪明药
+it is a smart drug that we all make internally,
+皮质醇也一样
+and cortisol is as well.
+现在这是转折
+Now here's the twist
+那并不意味着你要肾上腺素
+that does not mean that you want epinephrine
+考试期间一定要很高
+high during the exam necessarily.
+记忆  学习和表现实际上
+Memory and learning and performance are actually favored,
+肾上腺素的增加最好是学习后的立即升高
+they are enhanced by epinephrine increases
+学到的东西才会增强
+immediately after learning.
+那是很少讨论的东西
+And that's something that's rarely discussed,
+但至关重要
+the timing is vital.
+因此  如果你了解一些信息
+So if you learn some information,
+进行了一段对话
+you have a conversation
+你正在尝试学习一种新的语言  一种新的运动技能
+you're trying to learn a new language, a new motor skill.
+无论你要学习什么
+Whatever it is that you're trying to learn,
+紧随其后的肾上腺素增加
+the increase in epinephrine that occurs just afterward
+那才会巩固信息
+is what's going to consolidate the information.
+这将确保正确的脑回路
+It's going to ensure that the proper circuits
+和大脑中神经可塑性的机制
+and mechanisms in the brain for neuroplasticity
+那天晚上晚些时候在睡眠中
+are engaged during sleep later that night
+或第二天晚上  才是真正的重新组成
+or the next night which is when the real rewiring occurs.
+你可能会说：“那太疯狂了  为什么会这样呢？”
+And You might say, "That's crazy, why would that happen?"
+好吧  我们必须记住
+Well, we have to remember,
+这些机制都没有发展
+none of these mechanisms evolved
+让我们做自己想做的事  学习我们必然要做的事
+for us to do what we want and learn what we want necessarily
+尽管它们将使我们能够做到这一点
+although they will allow us to do that.
+我们以前曾经历过
+We've experienced this before,
+我们可能起床  走到外面  坐上我们的车
+we might have gotten up, gone outside get in our car,
+开车去上班或去别人家
+drive to work or to somebody's house
+你根本没有想太多
+you're not thinking about much at all,
+然后突然间  你看到了道路上的事故
+and then all of a sudden you see an accident on the road.
+你的戒备已准备就绪
+Your alertness is primed
+如果碰巧是特别血腥的事故
+if it happens to be a particularly gory accident,
+那里会有很多感官信息
+there's going to be a lot of sensory information there.
+突然肾上腺素增多
+All of a sudden the adrenaline, epinephrine
+被释放到你的大脑和身体
+is released into your brain and body.
+你猜怎么着？
+Guess what?
+你不仅会忘记那件事
+Not only will you not forget that event,
+但你会记住导致该事件的所有事件
+but you will remember everything that led up to that event
+具有自适应功能
+which has an adaptive function,
+因为你的大脑和身体
+because your brain and body's
+首先要注意的是安全性  对吗？
+primary concern is safety, right?
+这是神经生物学的解释
+This is the neuro-biological explanation
+因为Maslow的需求等级是安全第一
+for Maslow's hierarchy of needs is safety first.
+因此  你提高了警觉性和警觉性
+And so you have heightened awareness and alertness
+对于之前的一切
+for everything that preceded
+肾上腺素和皮质醇上升
+that spike in adrenaline and cortisol.
+所以思考这个问题的方法是
+So the way to think about this is
+如果你需要学习更好的东西
+if you need to learn something better,
+如果你要服用Adderall
+if you're taking Adderall,
+否则你事先要喝很多咖啡
+or you're taking a lot of coffee beforehand
+你实际上是在错误的方向上推动这一过程
+you're actually driving the process in the wrong direction.
+你正在增加肾上腺素以确保确定
+You're increasing epinephrine for learning sure,
+但超过了某个点
+but past a certain point
+你实际上在贬低学习和绩效
+you're actually degrading learning and performance.
+这样做的时间快要结束了
+The time to do that is toward the end
+或在学习之后
+or immediately after the learning,
+因为这种机制不仅仅致力于
+because this mechanism is not simply devoted to
+负面事件  例如车祸或外伤
+negative events like a car crash or a trauma,
+它可以确保海马体
+it works to make sure that the hippocampus
+编码记忆的组织
+that encodes memories
+内存和编码机制的一部分已准备就绪
+as part of the memory and coding mechanisms is primed.
+告诉你你刚刚经历的事情很重要
+That it's told what you just experienced is important,
+你稍后将需要该信息
+you're going to need that information later.
+所以我之前谈论过很多次
+And so I've talked many times before about
+使用非睡眠深度休息NSDR
+using non sleep deep rest NSDR,
+或确保学习后睡个好觉
+or ensuring good night's sleep after learning.
+但是我们在说什么
+But what we're also talking about
+随着学习活动逐渐减少（即将退出学习）
+is as the learning event tapers off, as you're exiting that,
+确保你的肾上腺素水平
+to make sure that your epinephrine levels
+也没有逐渐减少
+are not tapering off as well.
+这可能是90分钟周期的原因之一
+And this may be one of the reasons why the 90 minute cycle,
+所谓的学习工作的超级周期
+the so-called ultradian cycle for learning works,
+因为要花几分钟
+because it takes a few minutes
+进入学习节奏
+to get into rhythm of learning.
+你可以保持这种警觉状态约90分钟
+You can maintain that alertness for about 90 minutes,
+这些播客通常都是巧合
+it's no coincidence that these podcasts are typically
+大约90分钟长
+about 90 minutes long.
+当你退出那90分钟
+And as you exit that 90 minutes
+你将开始感到疲劳
+you're going to start to feel fatigued.
+你将无法继续
+You're not going to be able to continue
+以相同水平分泌肾上腺素
+to secrete epinephrine at the same level.
+所以我不会在这个播客的结尾告诉你
+So I'm not telling you that at the end of this podcast
+你应该吓自己一下
+you should give yourself a foot shock,
+或者你应该跳入冰浴
+or that you should jump into an ice bath.
+虽然我会说
+Although I will say,
+如果你要增加肾上腺素
+if you were to increase your epinephrine
+在这集的结尾
+at the end of this episode
+可以用呼吸或冷水淋浴
+by breathing or by way of cold shower,
+我愿意打赌  基于大量已发表的研究
+I'm willing to bet based on numerous published studies
+信息的存储空间将得到增强
+that the memory for the information would be enhanced.
+由于这种追溯作用
+Because of this retroactive effect
+肾上腺素和皮质醇
+of epinephrine and cortisol.
+简而言之  你可以更好地记住事情
+Put simply you can remember things better
+如果你提高警觉性
+if you increase your alertness,
+也就是你的肾上腺素和皮质醇水平之后
+AKA your level of epinephrine and cortisol after,
+在你要学习的东西之后立即
+immediately after something that you want to learn.
+因此  在Huberman Lab播客中  这里的人提醒我
+So I'm reminded by people here at the Huberman Lab Podcast
+因此  最佳策略是
+that the optimal strategy therefore would be
+90分钟的集中精力或学习
+a 90 minute session of focus or learning
+然后在冷水淋浴或通气式呼吸后
+then immediately after cold shower or tummo type breathing,
+或冰浴或类似的东西
+or ice bath or something of that sort,
+也许是一次冲刺
+maybe a hard run,
+或者做一次HIIT
+or hit training if you can't get access to the other things.
+然后冲个澡  做个NSDR
+And then shower up and do a non sleep deep rest,
+然后睡个好觉
+and then get a good night's sleep.
+这些将是用于增强学习的最佳工具
+Those would be the optimal tools and the organization of tools for enhanced learning.
+当然可以使用咖啡因
+And of course you could use caffeine
+在学习播客的尾部
+to prime the whole process by drinking the caffeine
+通过喝咖啡因来引发整个学习过程
+towards the tail of the learning episode,
+至少对我来说这是违反直觉的
+which is counter-intuitive at least to me.
+我应该提到  因为你们中的许多人都使用咖啡因
+I should mention since many of you use caffeine
+我用咖啡因
+and I use caffeine.
+我喝咖啡
+I do drink coffee,
+我喜欢蘑菇咖啡
+I love mushroom coffee.
+我爱马黛茶
+I love mate.
+我喝咖啡因和各种形式
+I drink caffeine and various forms.
+最近有一项研究
+There was a study that came out recently
+与我们有关精力
+that is relevant to our discussion about energy
+和机敏  学习的讨论有关
+and alertness, and learning.
+这项研究刚于2021年3月发布
+And the study came out just recently March 2021,
+是Maglhaes等
+it's Maglhaes et al.
+MAGALHAES
+So MAGALHAES.
+并发表在《分子精神病学》
+And it was published in molecular psychiatry
+这是一本很好的期刊  是同行评审期刊
+which is a fine journal, a peer review journal.
+标题几乎把它给丢了
+And the title pretty much gives it away,
+“习惯性的咖啡饮用者表现出独特的模式
+"Habitual coffee drinkers display a distinct pattern
+脑功能传导性的问题”
+of brain functional conductivity."
+长期喝咖啡会改变大脑的传导能力
+Chronically drinking coffee changes brain conductivity.
+它以多种方式做到这一点
+And it does it in a number of ways
+但是这项研究的主要收获是
+but the key takeaways from this study,
+与脑回路的功能有关
+as it relates to sort of what the circuits do
+与我相反  只是列出了一些脑回路
+as opposed to me just listing off a bunch of brain circuits,
+在这次对话中这毫无意义
+which is kind of meaningless in this conversation
+是每天习惯喝咖啡的人
+is that people who drank coffee habitually every day
+他们的大脑回路发生了变化
+had changes in their brain circuitry,
+从而使焦虑感发生了转变或偏见
+such that there was a shift or a bias toward anxiety
+即使他们不摄取咖啡因
+even when they don't ingest caffeine.
+所以很多时候我们认为
+So a lot of times we think,
+哦  咖啡因会增加你的焦虑程度
+Oh caffeine increases your levels of anxiety.
+确实  如果你长期使用它  它确实会出现
+And indeed it appears it does if you use it chronically,
+不仅限于咖啡因
+but not just to caffeine,
+它不仅会增加你的焦虑基线
+it doesn't just raise your baseline of anxiety
+因为你的血液循环
+because of what circulating in your bloodstream.
+它实际上增加了连通性
+It actually increases connectivity
+与焦虑有关的大脑区域之间
+between the brain areas that relate to anxiety.
+现在那可能是好事或坏事
+Now that could be a good thing or a bad thing
+取决于你如何看待它
+depending on how you look at it.
+对于那些容易遭受慢性恐慌发作的人
+For people that have are prone to chronic panic attacks
+或焦虑症的发作将不会是一件好事
+or anxiety attacks that's not going to be good.
+有些人可能以健康的方式使用咖啡因
+Some people might use caffeine in healthy ways.
+我相信我是为了
+I believe I do in order to
+只是提高整体警觉性
+just increase overall levels of alertness.
+虽然现在我不仅要开始延后
+Although now not only am I going to start delaying
+我的咖啡因摄入时间  直到我醒来后两个小时
+my caffeine intake till two hours after I wake up
+由于我在前几集中提到的原因
+for reasons I've talked about in previous episodes,
+但我也要开始
+but I'm also going to start drinking it
+稍后在学习和集中讨论之后再喝
+later in learning and focus sessions
+作为增强可塑性的一种方式
+as a way to enhance plasticity
+围绕这些学习和重点会议  而不是学习之前喝
+around those learning and focus sessions, not before.
+如此有趣的研究  它是免费的
+So interesting study, it's free online.
+你可以在线访问全文
+You can access the full paper online,
+我们也会放置一个链接
+we will put a link as well.
+我想提一提益智药
+I want to mention this issue of nootropics,
+所谓的聪明药
+so-called smart drugs.
+这不是我特别喜欢的话题
+Which is not a topic that I particularly enjoy
+因为我不喜欢这个名字
+because I don't like the name.
+我不喜欢促智的想法
+I don't like the idea of a nootropic,
+因为什么是聪明药？
+because what is a smart drug?
+嗯  有各种各样的聪明人
+Well, there's different kinds of smart,
+有创造力  有任务切换能力
+there's creativity, there's task switching,
+他们的战略制定  战略实施
+their strategy building, their strategy implementation.
+还有大多数的促智药
+And most of the nootropics that are out there
+只是一堆不同的东西的混合物
+just cocktails of a bunch of different things
+根本不是为个人量身定做的
+that aren't tailored to the individual at all.
+他们似乎都含有咖啡因
+They all seem to have some caffeine,
+或一些刺激等等
+or some culinary trick stimulation, et cetera.
+但是有一个重要的框架
+But there's an important way to frame this
+根据今天的谈话
+in light of today's conversation.
+促智药通常分为两类
+Nootropics generally fall into two categories,
+一类是能增加血糖的促智药
+one category are nootropics that increase blood glucose.
+这些是人们服用的化合物
+So these are compounds that people take
+他们增加血糖
+they increased blood glucose
+并增加血糖
+and increasing in blood glucose
+将提高学习/记忆能力
+will improve performance,
+并在某些情况下可以增强学习
+and can enhance learning in some situations.
+我不是在建议大家吃这些东西
+I'm not suggesting people take these things,
+但这只是其中一些的列表
+but here's just a list of a few of those.
+其中一些是合法的
+Some of them are legal,
+其中一些是灰色地带
+some of them are gray market,
+其中一些是非法的
+some of them are illegal.
+吡乙酰胺  奥拉西坦
+piracetam, oxiracetam,
+阿尼西坦  所有的泰姆斯  好吧
+aniracetam, all the Tams, okay.
+升高血糖就是它们的工作方式
+Elevate blood glucose that's how they work.
+你听到的神经效应是继发性或三级的
+The neural effects that you hear are secondary or tertiary
+他们只是增加了血糖这一事实
+to the fact that they just increased blood glucose.
+我们知道  因为如果你阻止血糖作用
+We know that because if you block the blood glucose effect
+你可以阻止促智作用  好吧
+you block the nootropic effect, okay.
+其他包括  绝对不要接受这些
+Others include, and definitely don't take these please,
+苯丙胺  可卡因
+amphetamine, cocaine.
+这些将在短期内增加学习
+Those will increase learning in the short term
+特别是剂量
+in particular dosages,
+但是因为它们会增加血糖
+but because they increase blood glucose.
+然后  当然  诸如刺激性疼痛之类的东西
+And then of course, things like painful stimuli
+或压力会改善学习
+or stress will improve learning
+通过增加血糖
+by way of increasing blood glucose.
+现在与之相关的压力和肾上腺素
+Now stress and epinephrine that's associated with it
+在学习过程中不仅提高了学习/记忆能力
+not only improve performance during the learning about,
+但正如我之前提到的
+but as I mentioned before
+之后激发肾上腺素的升高
+having epinephrine come up afterward
+将增加该信息/知识的保留
+will increase the retention of that information
+在长期
+in the longterm.
+当然  有一整类
+And then of course, there's a whole category of
+不会影响血糖的促智药
+nootropics that don't impact blood glucose,
+通过增加胆碱能系统的活性来起作用
+that work by increasing the cholinergic system activity.
+这些就是胆碱  卵磷脂
+And these are things like choline, lecithin,
+毒扁豆碱  它是一种处方药
+Physostigmine, it's a prescription drug,
+磷酸二酯酶
+phosphodiesterase.
+所以有增加能量的方法
+So there're ways to increase energy
+不需要增加血糖
+that don't require increase in blood glucose,
+这是至关重要的
+and this is a vitally important.
+我们谈论肾上腺素和皮质醇的原因
+The reason we're talking about epinephrine and cortisol
+增加能量和免疫系统功能
+for increasing energy and immune system function
+是因为它们在很大程度上与血糖无关
+is because they are largely independent of blood glucose.
+当然  他们与该系统进行交互
+Of course, they interact with that system,
+但我们听说成长如此之快  你需要吃能量
+but we heard so much growing up you need to eat for energy,
+但是我们今天谈论的能量
+but the energy that we're talking about today
+实际上是一个更强大的
+is actually a much more powerful one
+而不是你从食物中得到的那一种
+than the one that you derive from food,
+我们可以称其为神经能
+We could call it neural energy.
+是神经递质引起机敏
+It's neurotransmitters that create alertness,
+和专注力  以及行动的意愿和能力
+and focus, and the willingness and the ability to move.
+以及免疫系统的意愿和能力
+And the willingness and ability for immune system
+响应入侵者而行动
+to move in response to intruders.
+所以我认为我们经常将食物视为能源
+So I think we all too often think about food as energy
+很好  因为它是
+which is great because it is,
+但是还有其他能源是神经性的
+but there are other sources of energy that are neural
+它们与这些激素系统有关
+and they relate to these hormone systems,
+皮质醇和肾上腺素
+cortisol and epinephrine.
+这就是我们今天重点关注的原因
+And that's why we're focused on today.
+所以直到现在我们一直在谈论
+So up until now we've been talking about
+增加能量并增强免疫系统
+increasing energy and increasing the immune system
+通过皮质醇和肾上腺素
+by way of cortisol and epinephrine,
+但如果我不涵盖  我将完全被解雇
+but I'd be totally remiss if I didn't cover
+如果长期升高皮质醇和肾上腺素
+how cortisol and epinephrine if chronically elevated,
+或如果升高得太高
+or if elevated too high
+会产生很多不利影响
+can have a lot of detrimental effects.
+这些是我们通常听到的事情
+These are the things we normally hear about.
+我将描述其中的一些事情
+I'm going to describe some of those things
+但我还将讨论改善它们的方法
+but I'm also going to talk about ways to ameliorate them.
+你可以调节皮质醇水平的方法
+Ways that you can adjust the cortisol levels,
+即使你有压力
+even if you're stressed.
+你可以调节肾上腺素水平的方法
+Ways that you can adjust epinephrine levels
+即使你有压力
+even if you're stressed
+从而减少负面影响
+so that they have less of a negative impact.
+我不必一路列出来
+I don't have to list off all the ways
+压力很可怕  慢性压力很可怕
+that stress is terrible and chronic stress is terrible
+我想你知道
+I think you know.
+失眠  随着时间的流逝  你的免疫系统会遭受重创
+Insomnia, your immune system over time will get battered
+而且你也无法抵抗感染  对吧？
+and you won't be able to fight infection off as well, right?
+你不想长时间承受压力
+You don't want to be stressed for too long.
+你可以开始放下
+You can start laying down the sort of
+皮质醇诱发人体脂肪的经典模式
+classic pattern of cortisol induced body fat.
+实际上  有很多关于爽心美食的文献
+In fact, there's a whole literature related to comfort foods
+以及为什么我们要食用“爽心美食”
+and why we want to consume comfort foods
+在慢性压力下
+under conditions of chronic stress.
+实际上  这很有趣
+And it's quite interesting actually,
+因为它揭示了一些东西
+because it reveals something
+关于慢性应激的生物学
+about the biology of chronic stress
+这对如何预防它很有帮助
+that's informative for how to prevent it,
+或在发生慢性压力时降低其压力
+or to down regulate chronic stress once it's occurred.
+因此  让我们先谈一谈“爽心美食”
+So let's talk for a second about comfort foods
+和我要参考的工作
+and the work that I'm going to refer to
+是一位非常出色的科学家完成的工作
+is work that was done by a very impressive scientist
+以玛丽·达尔曼（Mary Dallman）的名字命名
+by the name of Mary Dallman.
+她的工作可以追溯到几十年前
+Her work goes back decades.
+她曾在加利福尼亚大学旧金山分校
+She was at University of California San Francisco,
+她问了这个问题
+and she asked this question
+表面上看起来很明显
+that on the face of it seems kind of obvious,
+但尚无机制
+but for which there was no mechanism known
+直到玛丽和她的实验室人员来了
+until Mary and her lab personnel came along.
+问题是
+And the question was,
+为什么我们要寻找高脂或高糖食品
+why do we seek high-fat and or high sugar foods
+什么时候有压力？
+when we are stressed for awhile?
+为什么会这样呢？
+Why would that be?
+原因是所谓的糖皮质激素
+And the reason is that the so-called glucocorticoids
+其中皮质醇是糖皮质激素
+of which cortisol is a glucocorticoid.
+正如我们之前提到的
+It's caused as we've mentioned before,
+通过从大脑释放激素
+by releasing hormones from the brain,
+和垂体等的促肾上腺皮质激素
+and ACTH from the pituitary, et cetera.
+但通常高水平的糖皮质激素会关闭
+But normally high levels of glucocorticoid shut off
+大脑和垂体中的释放激素
+the releasing hormones in the brain and in the pituitary,
+它们在所谓的负反馈回路中关闭
+they shut down in a so-called negative feedback loop.
+所以就像睾丸激素或雌激素过高一样
+So just like if testosterone or estrogen get too high
+被读出或被看到可以这么说
+that's read out or that is seen so to speak
+垂体和大脑中的神经元
+by neurons in the pituitary and brain
+然后我们停止生产
+and then we shut down our production of
+雌激素和睾丸激素
+estrogen and testosterone.
+如果皮质醇水平太高
+If cortisol levels get too high,
+如果皮质醇过多
+if there's too much cortisol
+漂浮在我们的血液中
+floating around in our bloodstream,
+有一个负面的反馈回路
+there's a negative feedback loop,
+以及大脑和垂体关闭  CRH和ACTH
+and the brain and pituitary shutdown, CRH and ACTH
+否则会刺激更多的皮质醇
+which would otherwise stimulate more cortisol,
+因此皮质醇水平下降
+so cortisol levels go down.
+因此  这是一个美丽的负面反馈回路
+So it's a beautiful negative feedback loop.
+但是  长期压力
+Chronic stress however,
+持续超过四到七天的压力
+stress that lasts more than four to seven days
+有一种思考的方法
+and there's a way to think about
+慢性压力实际上是可以采取行动的
+what chronic stress really is in an actionable way,
+导致反馈回路发生变化
+'causes changes in the feedback loop
+在肾上腺和大脑以及垂体之间
+between the adrenals and the brain and the pituitary.
+这样现在大脑和垂体
+Such that now the brain and the pituitary
+对高水平的糖皮质激素皮质醇有反应
+respond to high levels of glucocorticoids cortisol
+通过释放更多
+by releasing more of them.
+变成正反馈回路
+It becomes a positive feedback loop
+那很不好
+and that's bad
+它实际上已经降到了基因调控的水平
+it actually gets right down to levels of gene regulation
+以及转录和翻译
+and transcription and translation.
+因此  你真的不想要长期压力
+And so you really don't want chronic stress,
+因为它是级联的
+because it's a cascade of
+压力等于更多压力等于更多压力
+stress equals more stress equals more stress.
+这就是为什么它非常重要的原因
+So this is why it's very important
+学习关闭压力反应
+to learn to turn off the stress response.
+你不希望它升高太长时间
+You don't want it elevated for too long.
+所以有一项研究  达曼和她的同事们做了
+So there's one study that Dallman and her colleagues did
+他们刺激慢性压力的地方
+where they stimulate chronic stress
+通过增加皮质类固醇  皮质醇
+by increasing corticosteroids, cortisol.
+他们发现
+And they found that subjects
+会增加糖和脂肪的消耗
+would increase their consumption of sugar and fat.
+实际上他们甚至会吃猪油
+In fact they would even eat lard
+听起来很恶心
+It's sounds disgusting,
+但是他们愿意只吃更多的脂肪和更多的糖
+but they were willing to just eat more fat and more sugar.
+这导致了各种各样的事情
+And that led to all sorts of things
+像二型糖尿病
+like type two diabetes
+导致肾上腺输出功能障碍等
+that led to dysfunction in the adrenal output, et cetera.
+所以真正的关键是学习
+And so the real key is to learn
+切断压力反应
+to shut off the stress response.
+因为有趣的是
+Because the interesting thing is,
+那是主要的同事吗
+is that dominant colleagues
+根据他们的工作进行的一些研究发现
+and some studies that followed up on their work found that
+如果系统启动时间过长
+if the system was kicked into motion for too long,
+整体上  焦虑症发生了巨大的变化
+then there was a tremendous shift overall towards anxiety,
+因为事实证明体内脂肪本身
+because it turns out that body fat itself
+接受神经支配
+receives neural innervation.
+神经元实际上在谈论体内脂肪
+Neurons actually talked to body fats
+所以现在你体内的脂肪会释放某些激素
+so now you have body fat releasing certain hormones,
+你的肾上腺释放皮质醇
+you've got the adrenals releasing cortisol,
+所有这些都回馈大脑
+and all of that is feeding back to the brain
+让你想要更多的糖和高脂肪的食物
+to make you want more sugar and fatty foods.
+这就是所谓的“爽心美食”的工作方式
+So that's how the so-called comfort foods work.
+而且你应该注意自己
+And you should watch yourself
+下次你遇到压力时
+next time you experience stress.
+如果这是短期的压力
+If it's a short-term about of stress,
+通常它可以阻止饥饿
+typically it blocks hunger.
+如果压力更大
+If it's a longer about of stress
+通常会引发饥饿
+typically it triggers hunger,
+特别是对于这些所谓的“爽心美食”
+in particular for these so-called comfort foods,
+含糖和高脂肪的食物
+sugary and fatty foods.
+这很有趣
+And it's kind of interesting
+短期压力如何实际上可以阻止饥饿
+how short-term stress can actually block hunger.
+它通过激活来实现
+It does that by activating
+或与称为bombesin系统的系统进行交互
+or interacting with a system called the bombesin system.
+轰炸素是一种肽激素
+Bombesin is a peptide hormone.
+我认为它是以某种爬行动物命名的
+I think it was named after some sort of reptiles
+或两栖动物  对不起  某种蟾蜍
+or amphibians, excuse me, some sort of toad.
+我认为它最初是从蟾蜍来的
+I think it was initially sequenced from the toad
+在后来被人类发现之前
+before it was later discovered in humans.
+我认为蟾蜍的拉丁文名字叫Bombina bombina
+And I think the Toad's Latin name is Bombina bombina,
+或类似的东西
+or something of that sort.
+因此  他们决定将其称为“轰炸机”
+And so they decided to call this thing bombesin,
+但它减少进食并释放压力素
+but it reduces eating and stress liberates bombesin
+让你想少吃点东西
+and makes you want to eat less.
+但是长期的压力导致所有这些
+But chronic stress causes all these
+正向反馈变化  不是积极的
+positive feedback changes, which are not positive.
+我称他们为正向
+I'm calling them positive
+因为它们一遍又一遍地放大了压力反应
+because they amplify the stress response over and over
+不是因为它们对你有好处
+not because they are good for you.
+所以短期压力很大
+So short-term stress great,
+长期压力真的  真的很糟糕
+long-term stress really, really bad.
+我们可以谈论的压力的其他不利影响
+Other bad effects of stress that we can talk about
+而且我不会列出太多这样的东西
+and I won't list off too many more of these,
+因为你了解其中的很多知识  所以你会听到有关它们的信息
+because you know so many of them, you hear about them.
+你真的想知道如何控制他们
+You really want to know how to control them I'm guessing
+是的  压力确实可以使你头发变白
+is that yes indeed stress can make you go gray.
+人们头发变白的速度  即白发
+The rates at which people go gray, meaning gray hair,
+在某些情况下  还有灰白色的头发
+some cases gray body hair as well
+取决于某些遗传因素
+depend on some genetic factors.
+有两种方法可以使我们头发变白
+There are a couple of ways that we can go gray.
+实际上有一个STEM单元
+There's actually a STEM cell,
+他们在每个卵泡中称之为利基
+what they call niche in every follicle.
+所以你的卵泡中有STEM细胞
+So you have STEM cells in the follicle
+可以产生越来越多的给定毛细胞
+that can produce more and more of the given hair cell.
+它们实际上是过氧化物基团
+And they're actually peroxide groups.
+你知道我们听说过用过氧化物漂白头发
+You know we hear about bleaching hair with peroxide,
+至少在80年代是这样
+at least in the 80s that was a thing,
+但是你可以用双氧水漂白东西
+but you can use hydrogen peroxide to bleach things,
+你可以在毛囊中产生自己的过氧化物
+and you can produce your own peroxide in the hair follicle,
+那会导致头发变白
+that will cause the hairs to go gray.
+除了染发
+In addition pigmentation of hair,
+就像皮肤的色素沉着一样
+just like pigmentation of skin
+是受黑素细胞控制的
+is controlled by melanocytes,
+我们的老朋友  黑素细胞
+our old friends, the melanocytes.
+我说老朋友  是因为前几集
+And I say old friends 'cause on previous episodes
+我谈到了为什么阳光和充足的阳光
+I talked about why sunlight and getting ample sunlight
+可以增加某些物质的水平
+can increase levels of certain things
+像黑色素细胞刺激激素
+like melanocytes stimulating hormone
+减少饥饿感
+which reduce hunger.
+它可以改善睾丸激素和雌激素水平
+It can improve testosterone and estrogen levels
+以及所有的原因
+and all the reasons for that.
+好吧  事实证明
+Well, it turns out that activation
+激活所谓的交感神经系统
+of the so-called sympathetic nervous system,
+这真的只是它的另一个名字
+which is really just another name for
+从肾上腺  释放肾上腺素的系统
+the system that liberates adrenaline from the adrenals
+以及 脑干释放的肾上腺素
+and epinephrine in the brain
+驱动头发干细胞中黑素细胞的消耗
+drives depletion of melanocytes in hair stem cells.
+所以确实有一定的老化率
+So indeed there's a rate of aging
+我们将根据自己的遗传学经历
+that we will undergo based on our genetics,
+但是压力会使我们头发变白
+but stress will make us go gray.
+还有你应该看的论文
+And the paper that you should look to
+如果你想了解更多有关此的信息
+if you want to read more about this
+最近才出来的
+came out very recently.
+这是Zang等人  ZHANG等人在《自然》发表
+This is Zang et al, Z H A N G et al. Nature.
+神话般的期刊  绝对是顶尖期刊之一  2020年
+Fabulous journal, definitely one of the apex journals, 2020.
+因此  本文表明压力的激活
+So this paper showed that the activation of stress
+以各种形式会消耗掉这些黑素细胞干细胞
+in various forms will deplete these melanocytes stem cells.
+你不必担心冰浴
+You do not have to worry about an ice bath,
+或剧烈运动或呼吸
+or hard exercise or breathing,
+增加压力水平
+increasing your levels of stress
+到使你头发变白的地步
+to the point where it's going to make you go gray.
+我们再次谈论慢性压力
+We're talking again about chronic stress.
+如果你想抵消压力的影响
+And if you want to offset the stress effects
+在头发变白的时候  你可以做到
+on graying of hair you can do that
+通过练习
+by either having a practice
+帮助你持续调节压力
+that helps you regulate stress on a consistent basis.
+因此  诸如NSDR或冥想之类的事情
+So something like non sleep deep breath, or meditation.
+你可以去享受一场很棒的按摩或假期
+You can get access to massages or vacations those are great,
+但要练习以保持压力
+but having a practice to keep stress clamps
+这样它不会长期升高
+so that it's not chronically elevated,
+那也将很棒
+that will be great as well.
+这是阳光的另一种情况
+This is another case where sunlight
+我们知道会刺激黑素细胞
+we know stimulates melanocytes,
+不仅在皮肤上  而且在头发上
+not just in skin, but in hair.
+因此  获得充足的阳光
+And so getting ample sunlight,
+有练习调节压力的方法
+having a practice to regulate stress
+将抵消压力引起的头发纹理
+will offset the stressed induced grain of hairs
+通过应激诱导黑素细胞耗竭
+by way of stress induced depletion of melanocytes.
+如果黑色素细胞听起来很像黑色素  那是对的
+And if melanocytes sounds a lot like melanin you're right.
+那是因为任何与色素沉着有关的东西
+That's because anything involved with pigmentation
+在大脑和身体中一般都有“黑素”
+in the brain and body generally has "melano"
+以某种方式位于单词的开头
+up in the front of the word in some way or another.
+因此  如果长期压力如此严重
+So if chronic stress is so bad
+因为它对肾上腺素和皮质醇有影响
+because of its effects on epinephrine and cortisol
+过量了太久
+being elevated for too long
+那么问题就变成了
+then the question becomes of course,
+那么  慢性压力是什么？
+well, what's chronic stress?
+我怎么知道慢性压力
+How do I know the difference between chronic
+和短期压力的区别？
+and acute stress?
+我该如何避免长期压力？
+And how do I keep chronic stress at bay?
+由于所有这些负面影响
+Because of all these negative effects,
+我甚至没有列出其他的数目
+I didn't even list out the number of other ones,
+对抑郁症的影响
+the effects on depression,
+这当然与皮质醇升高有关
+which certainly has a correlate with elevated cortisol.
+甲状腺激素
+Thyroid hormone.
+甲状腺激素低与抑郁症有关
+Low thyroid hormone is associated with depression.
+甲状腺不适时  再次  让光线
+Mistimed thyroid, once again getting your light
+还有你的饮食  运动和睡眠
+and your feeding and your exercise and your sleep
+作息一致 规律作息
+on a consistent schedule or consistent ish
+将是你可以做的最强大的事情
+is going to be the most powerful thing you can do
+为了缓冲自己
+in order to buffer yourself
+防止对心理健康的负面影响
+against negative effects on mental health
+和身体健康
+and physical health for that matter.
+有些事情可以采取
+There are things that one can take
+补充剂  处方药等
+supplements, prescription drugs, et cetera.
+你们当中有些人可能有
+Some of you out there may have
+或可能认识患有库欣病的人
+or may know people that have Cushing's,
+这是皮质醇的长期升高
+which is chronically elevated cortisol.
+我们将谈论一些处方药
+There are prescription drugs that we will talk about
+可以使用的
+that can be used.
+但是大多数人正在面对这样的情况
+But most people are dealing with a situation where
+生活变得压力重  压力减轻
+life gets stressful then less stressful,
+压力大  然后压力小
+stressful then less stressful.
+我想说  根据McEwen和其他人的数据
+I would say, based on the data from McEwen and others,
+鲍勃·萨波斯基（Bob Sapolsky）的实验室已有很多年了
+Bob Sapolsky's Lab over many years.
+我会说持续的压力
+I would say any stress that lasts
+如果超过一两天或三天
+more than a day or two days, or three days
+会开始成为慢性压力
+is starting to become chronic stress.
+确实没有严格的限制
+There's really no strict cutoff
+因为我们没有测量每个人的皮质醇
+because we're not measuring everybody's cortisol
+时不时地
+from moment to moment.
+我的实验室做了实验
+My lab has done experiments
+随着时间的推移  我们可以衡量人们的压力
+where we measure stress in people over time.
+人们千差万别
+People vary tremendously
+他们有能力度过非常艰难的一天
+in their ability to have a really hard day
+然后睡着了
+and then fall deeply asleep.
+这将是最终的重置
+That's going to be the ultimate reset
+睡个好觉的能力
+is the ability to sleep well
+每晚或多或少不受干扰
+more or less undisturbed each night,
+尽管在夜间醒来一两次
+although one or two wake ups during the night,
+可能不会太有害
+probably not going to be too detrimental
+只要时间不太长
+provided they're not too long,
+而且你没有看光
+and you're not viewing light
+被唤醒 或看你的手机
+during those wake-ups or your phone.
+但是你可以拿走的东西
+But the things that you can take,
+如果你觉得自己长期处于压力之下
+if you feel like you're chronically stressed
+而你正在转向
+and you're veering toward
+压力的一些负面影响很多
+some of the negative effects of stress are many.
+人们可以做一些简单的事情
+There are some simple things that people can do
+在补充方面
+in terms of supplementation.
+当然所有补品
+All supplements of course
+必须检查你的安全剂量
+have to be checked out for their safety margins for you,
+因为人与人之间会有所不同
+because there going to differ from person to person.
+你有责任确保它们对你安全
+You're responsible for making sure they're safe for you
+如果你决定使用它们
+if you decide to use them.
+最常见的一种是Ashwagandha
+One of the most common ones is Ashwagandha
+具有强大的抗焦虑抗焦虑作用
+and it has a powerful anxiolytic anti-anxiety effect.
+欢迎你访问省钱网站www.examine.com  费用为零
+You're welcome to go to examine.com and for zero cost
+你可以看到他们所谓的人类影响矩阵
+you can see their so-called human effect matrix.
+Ashwagandha有很多用途
+Ashwagandha has many uses,
+它被用来增强运动员的力量输出
+It's been used to enhance power output in athletes
+它已经显示出适度增加睾丸激素
+it has been shown to modestly increase testosterone.
+事实证明  它可以适度地调整诸如
+It has been shown to modestly adjust things like
+低密度脂蛋白胆固醇
+low density lipoprotein cholesterol,
+所谓的“坏胆固醇”
+the so-called bad cholesterol in quotes.
+它对焦虑有深远的影响
+It has a profound effect on anxiety
+在九项研究中已经证明了这一点
+that's been shown in nine studies.
+九位同行评审了独立研究
+Nine peer reviewed independent studies,
+指由没有既得利益的组织资助
+mean funded by organizations that have no vested interest
+在答案中
+in the answer.
+它对皮质醇本身具有非常强的作用
+It has a very strong effect on cortisol itself.
+有多强？
+How strong?
+人体中皮质醇的减少
+The decrease in cortisol noted in humans
+减少14.5至27.9％
+is 14.5 to 27.9% reduction
+在健康但压力重重的人类中
+in otherwise healthy but stressed humans.
+那太棒了
+That's great.
+六项研究
+Six studies.
+它提到有一个更大的
+And it mentions there's a significantly larger
+比许多其他补品
+than many other supplements.
+那么  有人会说
+Now, some people will say
+长期服用Ashwagandha可能不好
+that taking Ashwagandha chronically may not be good.
+如果你听说过
+If you've heard about that,
+或者你可以指向特定的研究
+or you can point to specific studies
+确切说明了为什么它不好
+that indicate exactly why it's not good,
+请发送到评论部分或让我知道
+please put in the comment section or let me know.
+最好在YouTube的评论
+In the comment section on YouTube would be best.
+我指的研究确实探讨了两种性别
+The studies that I'm referring to did explore both genders.
+受试者人数相当多  达到64位或更多
+The number of subjects was reasonably high, 64 or more.
+一到六个月的学习
+One to six months study,
+因此  这些都是长期研究
+so these were long-term studies.
+太好了  你希望看到
+That's great, you like to see that
+不只是在一项急性研究中
+not just in an acute study.
+因此  男性和女性的年龄各不相同
+So males and females lots of different ages
+超重和非超重
+overweight and non overweight.
+他们抽了皮质醇的血
+They did blood draws of cortisol
+这将要结束  以及唾液测试
+which is going to end and as well as saliva test.
+唾液实际上是测量游离皮质醇的最佳方法
+Saliva is actually the best way to measure free cortisol.
+你还可以从耳垢中测量出来
+You can also measure it from ear wax it turns out
+这听起来很恶心 确实
+which sounds pretty gross and kind of is.
+但是  那是皮质醇积聚的地方
+But nonetheless that's where cortisol will accumulate
+耳垢和唾液中的游离皮质醇
+in earwax and in saliva, the free cortisol.
+但这是六个非常高质量的研究
+But that's six very quality studies,
+独立支持所有指向这些的观点
+independently supported that all points to these
+你知道  减排幅度非常大  为14.5％至27.9％
+very significant, you know, 14.5 to 27.9% reductions
+在其他健康的成年人中
+in otherwise healthy adults.
+因此  如果你是正在应对慢性压力的人
+So if you're somebody who is dealing with chronic stress,
+这是你生活中的压力时期
+it's a stressful period in your life
+而你想避免压力带来的负面影响
+and you want to stave off the negative effects of stress.
+那么ashwagandha可能会
+Well then ashwagandha may,
+我想强调一点  可能适合你
+I want to highlight, may be right for you.
+它还确实会降低总皮质醇
+It also does tend to lower total cortisol
+这很有趣
+which is interesting.
+它可以将抑郁症降低到最小程度
+It can lower depression to at somewhat minimal degree,
+并可以像我之前提到的那样降低
+and can lower as I mentioned before things like
+低密度脂蛋白
+low density lipoprotein.
+我认为ashwagandha听起来有点
+I think ashwagandha comes through is kind of
+像是杀手锏补品
+the heavy hitter in department.
+现在有趣的是
+Now what's interesting also
+是ashwagandha的其他影响
+is the other effects of ashwagandha
+在减轻慢性压力和皮质醇的下游
+that are downstream of reducing chronic stress and cortisol,
+因为皮质醇有很多作用
+'cause cortisol has so many effects,
+全身和大脑都有皮质醇受体
+there're receptors for cortisol all over the body and brain.
+因此  我将快速列出这些内容
+And so I'll just list these off quickly,
+我不会列出每项研究
+I'm not going to list off each study
+或详细讨论几个主题
+or talk about how many subjects in detail.
+再说一遍  如果需要  你可以访问examine.com
+Again, you can go to examine.com if you want,
+并把它放到Ash​​wagandha中
+and just put it in Ashwagandha.
+参见反应性蛋白
+See reactive protein,
+这是各种负面健康影响的标志
+which is a marker of all sorts of negative health effects.
+心血管健康  甚至黄斑变性
+Cardiovascular health, even macular degeneration
+明显减少
+is notably reduced.
+心悸明显减少
+Heart palpitations notably reduced.
+血清T3和T4  我们来自甲状腺激素的老朋友
+serum T3 and T4, our old friends from the thyroid hormones
+从上一集开始增加
+from a previous episode are increased.
+强迫症症状减轻
+Symptoms of OCD decreased,
+痴迷和强迫症
+both the obsessions and the compulsion's
+痴迷是头脑
+right obsessions are of the mind
+强迫是行为
+compulsions are of behavior.
+所以有很多事情在下游
+So there are a lot of things that are downstream
+减少皮质醇
+of reducing cortisol.
+降低心率  降低失眠率
+Lowered heart rate, lowered rates of insomnia,
+记忆力略有改善
+slightly improved memory.
+我不知道为什么会这样
+Why that would be, I don't know,
+因为短期内皮质醇可以增加记忆力
+because cortisol in the short term can increase memory,
+我猜是因为睡眠增加了
+I'm guessing it's from increased sleep.
+减轻疼痛  提高你的知觉质量...
+Decreased pain, increased quality of you know...
+减少反应时间  诸如此类
+Decreased reaction times, things of that sort.
+因此  说不完
+So the list goes on and on,
+但是所有这些东西都在
+but all of those things stem downstream
+皮质醇减少的现象下
+of decreased cortisol.
+因此  如果要决定服用ashwagandha
+So if one were to decide to take ashwagandha
+为了减少皮质醇
+in order to reduce cortisol,
+鉴于早晨的皮质醇释放
+given that you want cortisol early in the day
+能让你全天都有能量
+to have energy throughout the day,
+所以服用时间大概在一天的晚些时候
+the time to take it as probably later in the day
+或在晚上
+or in the evening.
+我从未听说过它会阻止睡眠
+I've never heard of it preventing sleep
+或引起任何形式的失眠
+or causing insomnia of any kind.
+那当然没有列出
+That certainly wasn't listed
+作为对examine.com的主要影响之一
+as one of the major effects on examine.com.
+我会不时服用ashwagandha
+I will take ashwagandha from time to time
+如果我长期受到压力
+if I'm chronically stressed,
+还是如果我的睡眠不如预期
+or if I'm not sleeping as well as I ought to.
+你可能会以我的全部知识
+You might think that with all my knowledge
+关于睡眠和睡眠方法
+about sleep and sleep protocols
+我每天晚上都会睡个好觉
+that I would sleep perfectly every night,
+但不幸的是我有一条狗
+but unfortunately I have a dog that has
+狗生涯的落幕  它有痴呆症了
+a canine form of of sundowners, of dementia,
+所以这些天他整夜都醒着
+so he's up much of the night, these days.
+所以没有办法
+And so there's no way
+我最近要睡个好觉
+I'm getting a solid night of sleep lately.
+因此  我将补充ashwagandha
+And so I will supplement with ashwagandha
+通常我会在睡前服用
+and typically I'll take it before sleep
+也许还有我今天的最后一餐
+and maybe also with my last meal of the day,
+我至少要在入睡的两个小时前
+which is at least two hours before I go to sleep.
+同样  你必须决定是否适合你
+Again you have to decide if it's right for you.
+剂量可以相差很大
+The dosages can vary tremendously.
+我就去买
+I would just go buy
+知名品牌的瓶子上有什么
+what's on the bottle from a reputable brand.
+我也要检查一下examine.com
+I would also check out examine.com,
+因为它提到了一系列剂量
+because it mentions a range of dosages
+人们使用过的
+that people have used.
+并在各种研究中得到不同的效果
+And in various studies to different effects.
+那么  那里有东西
+Now, there is something out there
+你们当中有些人可能实际上正在摄取或摄取
+that some of you may actually be taking or ingesting
+可以增加皮质醇
+that can increase cortisol
+并非偶然
+and not so incidentally
+可以减少雌激素和睾丸激素
+can decrease estrogen and testosterone.
+因为记得皮质醇
+Because remember cortisol
+由胆固醇分子制成
+is made from the cholesterol molecule
+雌激素和睾丸激素也是如此
+so is estrogen and testosterone.
+雌激素和睾丸激素也一样  对不起
+So are estrogen and testosterone, excuse me,
+而且很有竞争力
+and it's competitive.
+所以你要么制造更多的皮质醇
+So you're either making more cortisol,
+要么制造更多的性类固醇激素
+or you're making more of the sex steroid hormones,
+雌激素和睾丸激素
+estrogen and testosterone.
+信不信由你  甘草
+Believe it or not liquorice,
+我一直以为是种糖果
+which I always thought of as a candy,
+但是甘草精含有一种我无法发音的物质
+but liquorice contains a substance that I can't pronounce.
+甘草N.
+G L Y C Y R R H I Z I N.
+甘草甜素是植物的草属植物
+Glycyrrhizin, which is of the glabra species of plant,
+其实是因为它的化学作用
+actually because of its chemistry,
+这种18-β-羟基胆酸
+this 18-beta-hydroxy-cholenoic acid,
+你不需要了解所有这些
+you don't need to know all that.
+甘草  黑甘草中含有一种物质
+Liquorice, black liquorice contains a substance
+会增加皮质醇
+that increases cortisol,
+增长幅度不大  但意义重大
+and it's increases not huge, but it is significant.
+在18至29岁的女性中已经看到了这一点
+This has been looked at in females age 18 to 29,
+18至29岁的男性和女性
+males and females age 18 to 29,
+30岁的人
+people age 30.
+这些是单独的研究
+These are separate studies
+我列出了不同年龄段的人
+where I'm listing off the different ages,
+30至64岁
+ages 30 to 64.
+原来  你可以看到
+It turns out that you can see
+血清皮质醇显着增加
+pretty substantial increases in serum cortisol
+并减少睾丸激素和雌激素
+and decreases in testosterone and estrogen.
+对我来说  也是一个新的知识点
+So that was complete news to me.
+血压也会升高
+Also increases in blood pressure
+那是相当可观的
+that are pretty substantial.
+那将是皮质醇的下游
+That's going to be downstream of cortisol,
+皮质醇升高  血压升高
+increasing cortisol increase blood pressure
+为了参与压力反应
+in order to engage the stress response
+作为压力反应的一部分
+as part of the stress response.
+其他激素增加
+Increased hormones of other kinds
+与压力有关
+that are associated with stress.
+谁知道？
+Who knew?
+我不知道也许你知道
+I didn't know maybe you knew,
+以前如果你原谅我
+previously if you did forgive me
+但是甘草和黑色甘草中的一些化合物
+but licorice and some of the compounds in black licorice
+实际上会增加压力
+can actually increase stress.
+可能不是要摄取的东西
+Probably not the thing to be ingesting
+在慢性压力时期
+during periods of chronic stress.
+是否有人产生了积极的影响
+Whether or not anyone has had positive effects
+用它来增加皮质醇和其他情况
+of using it to increase cortisol and other contexts,
+让我知道
+let me know,
+但非常有趣的是  甘草的化学成分
+but very interesting that the chemistry of licorice
+增加压力荷尔蒙
+increases stress hormones,
+因此  你可能想要
+and therefore you would probably want to,
+几乎可以肯定  我们要避免这种情况
+almost certainly we want to avoid it
+在慢性压力的情况下
+in conditions of chronic stress.
+另外  如果你要优化睾丸激素和雌激素
+Also, if you're trying to optimize testosterone and estrogen
+甘草精似乎是个坏主意
+liquorice seems like a bad idea.
+我想你可能要使用甘草的一种情况
+I suppose one instance where you might want to use licorice
+如果你在旅行
+would be if you're traveling
+而你正试图在特定位置醒来
+and you're trying to wake up at a particular location,
+因为甘草对皮质醇有这些作用
+because licorice has these effects on cortisol
+皮质醇与清醒现象有关
+and cortisol is associated with the waking phenomenon
+和机敏和精力
+and alertness and energy,
+你可以在这方面使用它
+you could use it in that regard.
+但是  我会定时
+However, I would be careful to time it
+这样你就不会在一天中
+so that you're not getting
+有两个皮质醇增加  两个高峰
+two cortisol increases throughout the day, two peaks.
+所以你要确保
+So you're going to want to make sure
+你正在做所有其他可以纠正时差的事情
+that you're doing all the other things correct for jet lag
+并调整时差
+and adjusting to jet lag.
+如果你想知道这些东西是什么
+And if you want to know what those things are,
+包括定时进食
+including timing your feeding,
+用温度  用运动
+using temperature, using exercise,
+用光来更快地调整时差
+using light to adjust to jet lag more quickly,
+请看我们在时差和班次工作所做的一集
+please see the episode that we did on jet lag and shift work
+我将详细介绍所有这些方法
+where I cover all those protocols in detail.
+我认为值得关注的其他化合物
+The other compound that I think deserves attention
+是芹菜素
+is apigenin.
+芹菜素  芹菜素
+A P I G E N I N, apigenin.
+这是在洋甘菊中发现的
+which is what's found in chamomile.
+我之前已经讨论过的芹菜素
+Apigenin I've talked about previously.
+它有多种作用  一种是温和的抗雌激素
+It has various effects one is it is a mild anti-estrogen
+在各种研究中都显示出了这一点
+that's been shown in various studies,
+而且确实有抗焦虑作用
+and it does have a bit of an anxiolytic effect
+减轻焦虑
+of reducing anxiety.
+我睡前服用50毫克
+I take it before bedtime, 50 milligrams.
+同样  你必须决定
+Again, you have to decide
+或弄清楚这是否对你安全
+or figure out if that's safe for you or not.
+我不建议你服用
+I'm not suggesting you take it.
+作用的主要来源是使神经系统平静
+The major source of action is to calm the nervous system.
+它主要是这样做的
+And it does that primarily
+通过调整GABA和氯离子通道之类的东西
+by adjusting things like GABA and chloride channels
+但它在减少皮质醇方面也有温和的作用
+but it also has a mild effect in reducing cortisol.
+因此  阿什瓦甘达（Ashwagandha）和芹菜素（Apigenin）在一起
+So Ashwagandha and Apigenin together,
+我认为最有效的
+I would consider the most potent
+补充的商业化合物
+commercial compounds that are in supplement
+可以使用的非处方形式
+non-prescription form that one could use
+如果他们有兴趣减轻长期压力
+if they were interested in reducing chronic stress,
+特别是在傍晚
+especially late in the day
+通过减少一天中的皮质醇
+by way of reducing cortisol late in the day.
+因此  你可能会得到以下印象：
+So you're probably getting the impression that
+皮质醇和肾上腺素有点像一把双刃剑
+cortisol and epinephrine are a bit of a double-edged sword.
+你希望它们升高  但不要持续太久或太多
+You want them elevated, but not for too long or too much.
+你不希望他们持续好几天  好几天
+You don't want them up for days and days, and days,
+但你确实想练习
+but you do want to have a practice
+为了在短期内增加他们
+in order to increase them in the short term.
+所以我们应该谈谈方法
+So we should talk about protocols
+可以为皮质醇和肾上腺素奠定基础
+that can set a foundation of cortisol and epinephrine
+走向最佳
+that is headed towards optimal.
+优化始终是一系列的
+Optimization is always going to be a series
+每天进行的常规练习
+of regular practices that you do every day.
+所以在某些时候睡觉
+So sleeping at certain times,
+在特定时间点食物  在特定时间点食物
+light at specific times, food at specific times.
+某些食物等等  这些都是高度个体化的
+Certain foods, et cetera, and that's highly individual,
+但是有一些共性
+but there are some universals
+在今天的讨论中  我们已经讨论了很多
+and we've covered a number of those in the discussion today.
+进餐时间  在能量水平上具有深远的影响
+Meal timing, meal schedules has a profound effect on energy levels.
+正如我之前提到的
+And as I mentioned before
+我指的不是葡萄糖能量
+the energy I'm referring to is not glucose energy.
+它不是在跑步或酮燃烧时燃烧碳水化合物
+It's not burning carbs while running or ketones.
+我说的是神经能量
+What I'm talking about is neural energy,
+肾上腺素和皮质醇
+epinephrine and cortisol.
+禁食和定时吃饭
+Fasting and timing one's eating
+是同一枚硬币的两个面
+are two sides of the same coin.
+因此  即使你每天要吃一顿标准的三餐
+So even if you're on a kind of standard three meal a day
+在饮食之间加一些零食
+with a couple of snacks in between diet
+或营养方案
+or nutrition regimen,
+你睡觉的时候都在禁食
+you are fasting whenever you're asleep,
+或你没有摄取任何卡路里
+or you're not ingesting any calories.
+因此  除非你迷上了静脉注射葡萄糖
+So unless you're hooked up to an IV of glucose
+你在睡觉时禁食
+you are fasting while you're sleeping.
+有几种不同的禁食
+There are several different kinds of fasting
+可能与肾上腺素和皮质醇有关
+that can relate to epinephrine and cortisol.
+我将整集介绍如何优化食物摄入量
+I will do an entire episode on optimizing food intake
+在运动环境中的表现
+for performance in the sports context.
+即将到来  但与此同时
+That's coming up but in the meantime,
+我只想谈一谈
+I'd like to just talk about
+空腹作为肾上腺素的来源
+fasting as a source of epinephrine.
+任何时候我们的血糖低
+Anytime when our blood glucose is low
+皮质醇和肾上腺素将上升
+cortisol and epinephrine are going to go up.
+如果我们禁食太久  那就是压力
+If we fast for too long, that is stress.
+没有办法解决
+There's no way around that.
+现在这并不意味着它没有
+Now that doesn't mean it doesn't have
+其他有益效果
+other beneficial effects.
+跑马拉松是压力
+Running a marathon is stress,
+但是如果那是你的事  它也会产生积极的影响
+but it can also have positive effects if that's your thing.
+因此  压力已被妖魔化为一个名词
+So stress has been demonized as a term,
+但是我们要机制地考虑压力
+but we want to think about stress mechanistically,
+如肾上腺素和皮质醇
+as epinephrine and cortisol.
+然后  如果我们这样做
+And then if we do that
+我们可以考虑如何调整时间
+we can think about how to regulate its timing.
+所以任何时候我们四到六个小时没吃东西
+So anytime we haven't eaten for four to six hours,
+肾上腺素和皮质醇的水平
+levels of epinephrine and cortisol
+将会大幅上升
+are going to go up pretty substantially.
+有一个例外
+There's an exception to that,
+如果你习惯于吃饭
+which is if you are used to eating
+每两个小时或每小时一次
+on the clock every two hours or every hour
+迟到了半小时
+being half hour late,
+甚至比原定计划晚10分钟
+or being even 10 minutes late on that schedule
+会引起压力
+will induce stress.
+大多数的心理压力
+Most of that psychological stress,
+而且还会释放诸如ghrelin之类的东西
+but also the release of things like ghrelin
+会让你饿
+that are going to make you hungry,
+因为他们在那个吃饭的钟上
+'cause they're on that eating clock.
+因此  很多人都从中受益匪浅
+So one thing that many people do to great benefit
+他们遵循所谓的昼夜节食时间表吗？
+is they follow a so-called circadian eating schedule.
+他们只有在太阳升起的时候才进食
+They eat only when the sun is up,
+他们在太阳下山时停下来
+they stop when the sun is down.
+或多或少
+More or less.
+考虑这个的另一种方式
+The another way to think about this
+他们在睡觉前几个小时就停止进食了吗
+is they stop eating a couple hours before sleep
+他们醒来或多或少地吃东西
+and they eat more or less upon waking
+假设他们正在醒来
+assuming that they're waking up
+在日出的时候或多或少
+more or less around the time of the sunrises,
+大概正负两个小时
+maybe plus or minus two hours.
+好的所以有点典型的时间表
+Okay. So sort of typical schedule.
+那么  假设你决定做我要做的事
+Now, let's say you decide to do what I do,
+我不吃早餐
+which is I skip breakfast.
+我喝水
+I drink water,
+我将咖啡因延迟90分钟到两个小时
+I delay my caffeine for 90 minutes to two hours,
+然后我喝咖啡因
+and then I drink my caffeine.
+然后我的第一顿饭通常是在午餐时间
+And then my first meal is typically around lunchtime,
+11:30或12:00
+11:30 or 12:00.
+是的  偶尔我会吃点别的
+And yes, occasionally I throw back
+一些杏仁或核桃  在当天早些时候
+some almonds or walnuts or something earlier in the day.
+我不时这样做
+I do do that from time to time
+如果我够饿的话
+if I get hungry enough,
+或者如果我碰巧看到它们
+or if I just happen to see them.
+被饿死鬼附体了
+I'm kind of a drive by eater,
+如果我看到蓝莓或坚果之类的东西
+if I see blueberries or nuts or something
+我只是看到  就会要把它们捡起来放在嘴里
+I'm just going to pick them up and put them in my mouth.
+我尽量不要在别人的盘子面前那样做
+I try not do that off other people's plates,
+但是我只是有不时这样做的习惯
+but I just have that habit of doing that from time to time.
+但是通常我要到中午才吃东西
+But typically I don't eat until about noon.
+所以我的皮质醇增加了
+So I've got a cortisol increase
+我早上会去吸收阳光
+I've got my sunlight in the morning.
+因此  在一天的早些时候  我得到了很大的动力和精力
+So I'm getting a big pulse and energy early in the day.
+是的  有点激动
+And yes, there's a little bit of agitation,
+有时候我很饿  有时不饿
+I am hungry sometimes early in the day sometimes no,
+但是我的生长素释放肽系统习惯于
+but my ghrelin system is used to
+正午时分开始分泌
+kicking in right around noon.
+在我吃饭的地方
+At the point where I eat
+只要我不吃碳水化合物
+as long as I don't eat carbohydrate
+就我而言  我知道我的肾上腺素水平
+in my case, I know that my epinephrine levels
+会保持很高的水平
+are going to stay pretty high.
+所以对我来说  通常是肉和沙拉
+So for me, it's usually meat and salad,
+或类似的东西  或鱼和沙拉
+or something of that sort, or fish and salad.
+虽然我不特别喜欢吃鱼
+although I don't particularly like eating fish
+因为味道
+because of the taste,
+但我假设是低碳水化合物或酮类
+but I'm assuming low carb or ketones ish
+吃一整天
+throughout the day.
+所以我可能全天处于肾上腺素和皮质醇稍微升高的状态
+So I'm probably in a slightly elevated state of epinephrine and cortisol throughout the day.
+你们中有些人禁食的时间更长
+Some of you are fasting even longer.
+你要推迟到4:00 PM或8:00 PM
+You're pushing out till 4:00 PM or 8:00 PM,
+甚至你甚至全天都在禁食
+or maybe you're even fasting around the clock.
+任何时候你禁食
+Anytime you're fasting
+你正在增加肾上腺素和皮质醇的释放
+you're increasing epinephrine and cortisol release.
+你可以做世界上所有的冥想
+You can do all the meditation in the world
+保持头脑冷静
+to keep your mind calm,
+但你更接近压力的边缘
+but you are closer to that edge of stress.
+而且你更接近峰值应力的边缘
+And you're closer to that edge of peak stress.
+所以这是很重要的要了解的东西
+So that's something that's just important to understand
+关于“爽心美食”和皮质醇的描述
+the description about comfort foods and cortisol
+是一种极端的情况
+was one of kind of an extreme case
+皮质醇系统
+where cortisol systems
+进入正向反馈循环
+kick over to a positive feedback loop.
+但是我们都吃抑制皮质醇和肾上腺素
+But we all eat to suppress cortisol and epinephrine.
+当我们饥饿时  皮质醇和肾上腺素
+When we're hungry cortisol and epinephrine
+引起不安  所以我们去寻找食物
+create an agitation so we go seek food.
+当我们摄取食物时
+When we ingest food
+通常  如果其中包含碳水化合物
+typically if it includes carbohydrate,
+皮质醇水平下降
+there's a blunting of cortisol.
+血液中的肾上腺素水平下降
+There's a blunting of epinephrine in the bloodstream.
+如果你喝太多咖啡
+If you've ever had too much coffee to drink
+然后你去吃几片面包
+and you go and have a couple of pieces of bread,
+你会感觉到...
+you will feel the...
+你可能将其描述为咖啡因
+You might describe it as the caffeine
+被系统吸收
+getting soaked up out of your system,
+但是你在做的是升高血糖
+but what you're doing is you're elevating blood glucose
+这或多或少是饱和的
+which is more or less saturating
+咖啡因对你系统的影响
+the effect of caffeine in your system.
+不完全是  但是它将产生这种效果
+Not completely, but it's going to have that effect.
+如果你压力很大  坐下来吃点东西
+If you're very stressed and you sit down to eat something
+它会使你平静下来
+it will calm you down.
+是的因为一些血液流到你的肚子
+Yes. Because some of the blood that goes to your stomach
+但更多的是由于这些影响
+but more so because of these effects
+会减弱皮质醇和肾上腺素
+in blunting cortisol and epinephrine.
+所以这里的重点是
+So the important point here is that
+如果你想保持警惕
+if you want to be alert
+你可以不吃东西来做到这一点
+you can do that by way of not eating.
+当然  请摄取液体
+Of course, please ingest fluids.
+我知道有些人在那里喝水进食
+I know some people water fast out there.
+我尚未见到有关喝水禁食的科学知识
+I am yet to see good science on water fasting
+以及为什么它可以刺激干细胞
+and why that can stimulate stem cells,
+或人们喜欢这个主意
+or people love the idea of
+自从自噬这个概念获得诺贝尔奖后
+after the Nobel prize was given for autophagy
+这个概念是我们的​​细胞可以清理碎屑
+and this idea that our cells clean up debris
+是的  这是事实
+in senescent cells, yes, that's true.
+但是喝水禁食的想法是否能够促进这一点
+But the idea that water fasting is going to promote that,
+我觉得很有趣
+I find rather amusing.
+请发送相关数据给我
+Please send me the data
+如果你知道在一本不错的期刊上有刊登过一些出色的研究
+if you know of some great study in a decent journal,
+但这几乎是我所听到的
+but pretty much this is something I hear about.
+我不认为喝水禁食是个好主意
+I don't think water fasting is a good idea,
+你也不应该喝那么多水
+nor should you be drinking so much water
+那会让你丢掉性命的
+that you kill yourself.
+实际上  你可以喝足够多的水以致死亡
+You can actually drink enough water that you die.
+所以我认为摄入健康量的水
+So I think ingesting water in healthy amounts
+是一件好事  保持水分
+is a good thing, stay hydrated.
+但是  如果你想保持机敏  请保持水分
+But if you want to be alert stay hydrated,
+咖啡因用不用都可以
+caffeine may or may not be in your regimen,
+但禁食可以确保你的能量/精力水平升高
+but fasting will make sure that your levels of energy are up
+而且你会做得很好
+and you will be primed very well for doing
+我们在此播客的早期谈论的那种方法
+a protocol of the sort that we talked about earlier in this episode.
+呼吸  冷暴露或运动
+Of breathing, or cold exposure, or exercise
+增强免疫系统功能
+to get that increase in the immune system function.
+如果你在学习之后就这样做了
+And if you do that after learning
+尝试学习一些东西之后
+after trying to learn something,
+它将增加学习
+it will increase learning
+对于那组特定的信息
+for that particular set of information,
+不管是运动还是语言
+whether or not it's motor, or language,
+或碰巧是什么其他的
+or whatever it happens to be.
+数学  程序设计
+Mathematics, programming.
+因此  禁食是多种原因的工具
+So fasting is a tool for many reasons,
+它可以增加生长激素  等等
+it can increase growth hormone, et cetera.
+但是今天我在谈论禁食作为一种工具
+But today I'm talking about fasting as a tool
+更多偏向
+to bias your system toward more
+你肾上腺素释放的系统
+epinephrine adrenaline release
+并向皮质醇释放更多
+and toward more cortisol release
+但仍然足够低  这不是长期的压力
+but still low enough that it's not chronic stress,
+不会对健康造成负面影响
+that it's not causing negative health effects.
+但是请知道  如果生活非常非常压力
+But please know that if life is very, very stressful
+如果你遇到很多压力源
+if you're experiencing lots of stressors
+而且你长期禁食
+and you're chronically fasting,
+你将自己定位于更大的
+you are positioning yourself toward a greater likelihood
+长期压力可能性下
+of being chronically stressed
+这是负面的
+in the ways that are negative.
+对生殖途径有负面影响
+Negative effects on the reproductive access,
+降低睾丸激素和雌激素
+lower testosterone and estrogen.
+对头发的负面影响  头发会变白
+Negative effects on you're hair will turn gray,
+这是有原因的
+there's reasons for that,
+你的睡眠会受到影响
+Your sleep will suffer.
+你的免疫系统会受到损害
+Your immune system will suffer.
+所以我认为虽然细微之处
+So I think while it's nuanced
+今天我们关于肾上腺素和皮质醇的讨论
+our discussion today about epinephrine and cortisol
+增强精力和抵抗力旨在帮助你
+increasing energy and immunity are designed to help you
+了解何时应该做某些事情
+understand when you should be doing certain things.
+什么时候应该“减油门”
+When you should throttle back.
+当你可能想稍微刺激一下肾上腺素时
+When you might want to kick up your adrenaline a bit,
+如果你正处于低能量状态
+if you're suffering from low energy
+因为你只是有点沮丧
+because you're just kind of feeling down
+有点没动力
+and a little bit under activated,
+那么用冰浴
+well then the practices of ice baths
+剧烈的呼吸等等
+and intense breathing, et cetera,
+可能非常有益  也可能是禁食
+could be very beneficial so might fasting.
+但是  如果你感到精疲力竭和精疲力尽
+But if you're feeling exhausted and burnt out
+有点筋疲力尽
+sort of drained and stressed
+好吧  然后禁食或进行大量的冷暴露
+well then fasting or doing a lot of cold exposure,
+或做剧烈运动
+or doing a lot of intense exercise
+那会使你越来越陷入慢性压力
+is driving you further and further into chronic stress.
+因此  因为我没有唾液检查或血液检查
+So because I don't have a saliva test or a blood test,
+或...上帝原谅我...  耳垢测试来测量你的皮质醇
+or God forbid an earwax test to measure your cortisol
+当我们一起参与讨论时
+as we're engaging in this discussion together,
+你必须自己衡量
+you have to gauge for yourself
+你是否处于未激活状态
+whether or not you are in a state of under activated
+是否需要更多的肾上腺素和皮质醇
+and need more epinephrine and cortisol,
+或你是否过度活跃
+or whether or not you are over activated,
+就皮质醇和肾上腺素而言
+in terms of cortisol and epinephrine.
+如果你需要缓冲  那么ashwagandha这些方法
+And you need ways to buffer those ashwagandha,
+也许应该是温暖的泡泡浴  而不是冰浴
+Maybe it should be a warm mellow bath not an ice bath.
+所以必须学习如何调节这些激素
+So one has to learn how to regulate these hormones
+用行为  用营养
+with behavior, with nutrition,
+也许用补剂
+perhaps with supplementation.
+当然还有处方药
+And then of course there are prescription drugs,
+我总是把这些留到最后
+and I always leave these to the end
+因为我不是医生
+because A, I'm not a medical doctor
+我不开任何处方
+I'm not prescribing anything.
+我是教授
+I'm a professor,
+我讲道理
+I'm professing a number of things
+你可以自行决定如何处理
+that you can decide for yourselves what to do with or not.
+但是当然有处方药
+But of course there are prescription drugs
+可以增加皮质醇或减少皮质醇
+that can increase cortisol or decrease cortisol
+在诸如库欣氏综合症的情况下
+in cases like Cushing's syndrome,
+如果你已诊断出该问题
+which if you have that diagnosed,
+你应该和医生谈谈
+you should talk to a physician.
+你应该理想地与内分泌学家交谈
+You should talk ideally to a endocrinologist
+但对于某种医师
+but to a physician of some sort,
+董事会认证的医师
+board certified physician.
+有可以用来治疗伤害的药物
+There are drugs that can be used to treat injury
+像皮质类固醇
+like corticosteroids,
+你可以注射以减轻炎症损伤
+that you can inject to reduce inflammation injury,
+但它们是皮质醇
+but they are cortisol.
+所以他们会让你偏向更大的压力
+So they're going to bias you towards more stress
+在其他领域
+in other domains.
+记住皮质醇可以穿过血脑屏障
+Remember cortisol can cross the blood brain barrier
+因此你将更容易遭受心理压力
+so you're going to be more prone to psychological stress.
+我也想再提一遍
+I also want to mention again,
+我认为练习有很大的好处
+that I think there's great benefit to having a practice
+也许你隔天做一次
+that perhaps you do every other day,
+但是如果你不能每隔三天或隔天
+but if you can't maybe every third day or every other day
+故意增加体内的肾上腺素
+of deliberately increasing your adrenaline in your body
+在学习保持头脑冷静的同时
+while learning to stay calm in the mind,
+让你学会分开大脑和身体的体验
+so that you learn to separate the brain body experience.
+你知道吗  我们听到了很多关于它有多好处的信息
+You know, we hear so much about how beneficial it is
+统一大脑和身体
+to unify the brain and body,
+我们都与大脑和身体失去联系
+that we're all out of touch with our brain and bodies.
+我特别不喜欢这样的说法
+I particularly dislike claims like that
+或类似的陈述
+or statements like that
+因为今天我们学到了强大的力量
+because there's great power as we learned today
+通过某种刺激来激活你的身体
+in having your body activated by some sort of stimulus,
+冷水甚至心理压力
+cold water or even psychological stress,
+但要学会保持头脑冷静
+but learning to stay calm in your mind.
+我应该提醒你  大部分
+I should just remind you that most of the
+对你和他人生命的负面影响
+negative effects on your life and on the lives of others
+是因为别人  也许你我希望不是
+are due to people perhaps you I hope not
+无法调节自己的思想
+being unable to regulate their mind
+当他们体内的肾上腺素含量高时
+when they have high levels of adrenaline in their body,
+要么因为他们在网上看了一些东西
+either 'cause they read something on a text
+或评论部分
+or a comment section,
+当然  这永远不会发生在我身上
+of course that never happens to me,
+但它可能会发生在你身上
+but it may happen to you.
+骗你们的 当然会发生在我身上
+Of course it happens to me,
+但重要的是  保持头脑冷静
+but the idea is to stay calm in your mind
+这样你就可以控制自己的行为了吧？
+so that then you can regulate your action, right?
+所以我认为有这些做法
+And so I think that there are these practices
+随着时间的流逝可以发展
+that one can develop over time
+真的很简单  零成本  对吧？
+that are really straight forward and zero costs, right?
+你可以找到许多方法
+You could find any number of ways
+增加你的肾上腺素并保持冷静
+to increase your adrenaline and stay calm.
+而且我们倾向于专注于运动之类的事情
+And we tend to focus on things like exercise
+作为我们增强精力的方式
+as the way that we get our energy up.
+但是今天  我再次谈论
+But today, again I'm talking about
+故意增加肾上腺素
+deliberately increasing adrenaline
+在精神上保持冷静的同时
+while staying calm mentally,
+因为那很有用
+because that has great utility
+当肾上腺素在不需要的事件中升高时
+when the adrenaline hits through unwanted events,
+通过我们没有发现的事情
+through things that we didn't seek out.
+因此  调节肾上腺素皮质醇的能力
+So the ability to regulate adrenaline cortisol
+关于故意诱导他们
+is about inducing them deliberately
+当你想阻止感染时
+when you want to push back on infection,
+细菌病毒的潜在感染
+potential infection from bacteria viruses.
+这是关于肾上腺素和皮质醇的撤退
+It's about pulling back on adrenaline and cortisol,
+也许通过补剂的使用
+maybe through the use of supplementation
+但肯定是通过适当使用光线和睡眠
+but certainly through proper use of light and sleep
+和我们讨论过的心理工具
+and mental tools that we talked about as well
+当他们长期升高时
+when they are chronically elevated.
+这是关于训练你的系统
+It's about training your system,
+不只是要统一在大脑和身体上
+not just to be unified at brain and body,
+听起来很不错  直到你承受压力为止
+which sounds great until you're stressed
+那太可怕了
+and then that's terrible.
+这实际上是有意分离
+It's really about having a deliberate dissociation
+肾上腺素的肾上腺素反应之间
+between the adrenaline response from the adrenals
+以及来自脑干的肾上腺素反应
+and the adrenaline response from the brainstem.
+因此  我们再次涵盖了很多材料
+So once again, we've covered a ton of material.
+我希望那么  你在想
+I hope right now, you're thinking,
+好吧  我处于慢性压力状态吗？
+okay, am I in state of chronic stress?
+我被激活了吗？
+Am I under activated?
+还是我有能力提高自己的水平
+Or could I afford to increase my levels
+肾上腺素皮质醇改善我的关系
+of adrenaline cortisol to improve my relationship
+对我的免疫系统和能量  神经能量
+to my immune system and to energy, neural energy.
+如果你喜欢今天听到的内容
+If you like the information that you heard today
+而你想记住它
+and you want to remember it,
+好吧  那么在这集的结尾
+well, then at the end of this episode,
+也许你去做点什么
+perhaps you go do something
+增加你的肾上腺素水平
+to increase your level of adrenaline.
+现在你知道其中的一些内容了
+And now you know what some of those things are,
+因为它将帮助你保留信息
+because it will help you retain the information,
+或者你可以将它应用于其他任何东西
+or you could apply that to anything else
+你学习或经历的课程
+that you learn or experience of course.
+我希望你会考虑
+And I hope that you'll think about
+皮质醇和肾上腺素的一些方法
+some of the ways in which cortisol and adrenaline
+无论好坏  压力好坏
+are not good or bad, that stresses in good or bad
+但短期压力是健康的
+but short-term stress is healthy.
+机敏和精力健康
+Alertness and energy is healthy
+即使它使你处于激动的边缘
+even if it puts you at the edge of agitation,
+那是一个机会
+that's an opportunity
+学习如何更好地控制这些激素
+to learn how to control these hormones better.
+我希望如果你处于长期压力状态
+And I hope that if you're in a state of chronic stress
+你会做的事
+that you'll do things
+开始减轻一些压力
+to start tamping down some of that stress
+并且你意识到你的神经系统
+and that you realize that your nervous system
+和你的荷尔蒙系统有联系
+and your hormone system are linked,
+但是它们以你可以控制的方式链接在一起
+but they're linked in ways that you can control,
+我们不必成为荷尔蒙的奴隶
+that we don't have to be slaves to our hormones.
+当然不是引起我们压力的激素
+And certainly not the hormones that cause us stress,
+我们可以学习控制那些
+we can learn to control those
+都有利于我们的身体
+both to the benefit of our body
+和精神上的好处
+and benefit of mind.
+如果你正在从此播客中学习
+If you're learning from this podcast
+并且你喜欢正在学习的信息
+and you like the information that you're learning,
+请在YouTube上订阅
+please subscribe on YouTube,
+确实对我们有帮助
+that really helps us,
+另外  如果你可以点击通知按钮
+and in addition if you could hit the notification button,
+当我们发行新时  这将让你知道
+that will let you know when we release new episodes.
+现在我们每个星期一早上释放它们
+Now we release them every Monday morning
+但除此之外
+but in addition to that
+我们不时地开始制作短片
+we are starting to really short clips now and again
+以及一些特殊的内容
+as well as some special content.
+所以请点击订阅按钮
+So hit the subscribe button please
+然后点击通知按钮
+and hit the notifications button.
+如果你尚未订阅Apple和/或Spotify
+If you haven't already subscribed on Apple and or Spotify,
+请这样做
+please do that.
+如果愿意  你当然可以同时订阅全部三个文件
+You can certainly subscribe to all three if you like,
+在Apple上  你可以给我们进行五星级评价
+and on Apple you can give us a five-star review
+并给我们留下评论
+as well as leave us a review.
+在YouTube上向我们发表评论和反馈的地方
+On YouTube is the place to leave us comments and feedback
+以及对未来播客的建议
+as well as suggestions for future episodes.
+我们确实阅读了所有评论
+We do read all the comments
+我知道你们中的许多人都在焦急地等待着
+and I know many of you are anxiously awaiting
+特定主题和
+particular topics and episodes,
+最终我们将全神贯注于他们
+and we will eventually get to them all,
+我什么都不去
+I'm not going anywhere.
+而且  我们确实希望对每个主题都做到透彻
+And we do want to be thorough about every topic.
+今天  我们结束了有关激素的讨论
+Today we rounded out the discussion about hormones.
+我们将不再继续讨论该主题
+We aren't going to continue with that topic any longer,
+我们正在转向一个新的主题部分
+we are moving to a new topic segment
+整整一个月左右
+for an entire month or so.
+如果你认识其他人  你认为可能会受益
+If you know of other people that you think could benefit
+从此播客中获得的信息
+from the information on this podcast,
+或者你认为喜欢听
+or that you think would enjoy listening to it
+请把它转发给他们
+please forward it along to them,
+我们真的很感激
+we'd really appreciate that.
+支持我们的另一种好方法
+Another great way to support us
+是要检查我们的赞助商
+is to check out our sponsors
+我们在播客开始时提到的内容
+that we mentioned at the beginning of the podcast.
+我们还有Patreon
+We also have a Patreon,
+是patreon.com/andrewhuberman
+it's patreon.com/andrewhuberman,
+在那里你可以支持播客
+there you can support the podcast
+你喜欢的任何水平
+at any level that you like.
+我应该提到我将回答一些问题
+I should mention that I will be answering some questions
+在YouTube的评论部分中经常出现
+that come up frequently in the comment section on YouTube
+Instagram中的内容不时出现 
+in Instagram Lives every once in a while.
+我在Twitter @hubermanlab
+I am on Twitter @hubermanlab.
+我在Instagram上  也在@hubermanlab上
+I'm on Instagram, also @hubermanlab.
+而在Instagram上不时出现
+And on Instagram from time to time coming up
+我将要讨论
+I'm going to be discussing
+这些Instagram生活中常见问题的答案
+answers to your common questions in these Instagram Lives
+并且我会确保将它们记录下来
+and I will make sure that they're recorded.
+因此  你可以查看这些内容  请关注我们的Instagram
+So you can check those out, please follow our Instagram.
+如果你尚未这样做
+If you are not already doing that
+并查看我们的Twitter（如果你在Twitter上）
+and check out our Twitter if you're on Twitter.
+今天  我介绍了许多不同类型的工具
+I covered a lot of different types of tools today,
+行为工具等
+behavioral tools, et cetera.
+但是我确实提到了补品
+But I did mention supplements.
+对于那些对补品感兴趣的人
+For those of you that are interested in supplements
+我们与索恩（Thorne）  索恩（THORNE）合作
+we've partnered with Thorne, T H O R N E,
+因为我们相信他们
+because we believe them
+具有最高水平的严格性和质量
+to have the highest levels of stringency and quality
+在补品生产方面
+in terms of supplement production,
+在补充量方面
+in terms of amounts of supplements
+等等
+in their different formulations, et cetera.
+如果你想查看我服用的营养补充品
+If you want to check out the supplements that I take
+而你想获得Thorne补品的折扣
+and you want to get a discount on Thorne supplements
+你可以访问thorne.com/u/huberman
+you can go to thorne.com/u/huberman
+可以享受20％的折扣
+and you can get 20% off
+我服用的任何补品
+any of the supplements that I take,
+或索恩为此出售的任何补品
+or any of the supplements that Thorne sells for that matter.
+那是thorne.com/u/huberman
+That's thorne.com/u/huberman
+获得20％索恩生产的商品的折扣
+to get 20% off anything that Thorne makes.
+谢谢你加入我
+Thank you for joining me
+我希望是一个内容丰富的讨论
+for what I hope was an informative discussion
+和可行的讨论
+and an actionable discussion
+关于如何增加能量和免疫系统
+about how to increase energy and the immune system
+通过皮质醇和肾上腺素
+by way of cortisol and adrenaline epinephrine.
+非常感谢你愿意学习新主题
+I really appreciate your willingness to learn new topics
+以及拥抱和思考新工具
+as well as to embrace and think about new tools
+以及它们是否适合你
+and whether or not they're right for you.
+和往常一样  感谢你对科学的兴趣
+And as always, thank you for your interested in science.
+[欢快的音乐]
+[upbeat music]

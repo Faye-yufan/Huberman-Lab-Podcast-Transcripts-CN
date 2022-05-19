@@ -1,0 +1,5314 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+-欢迎来到HubermanLab播客
+- Welcome to the Huberman Lab Podcast,
+我们在这里讨论科学和基于科学的日常生活工具
+where we discuss science and science-based tools for everyday life.
+我是安德鲁·休伯曼  斯坦福大学神经生物学
+I'm Andrew Huberman, and I'm a professor of neurobiology
+以及医学院的眼科教授
+and ophthalmology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色是分开的
+This podcast is separate from my teaching and research roles at Stanford.
+然而  这是我的愿望和努力的一部分
+It is however, part of my desire and effort
+为消费者提供零成本信息
+to bring zero cost to consumer information
+关于科学和科学相关工具
+about science and science related tools
+向公众开放
+to the general public.
+为了与这个主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一位赞助商是“InsideTracker”
+Our first sponsor is InsideTracker.
+InsideTracker是一个个性化的营养平台
+InsideTracker is a personalized nutrition platform
+分析你的血液和DNA数据
+that analyzes data from your blood and DNA
+帮助你更好地了解你的身体
+to help you better understand your body
+帮助你实现健康目标
+and help you reach your health goals.
+我做血液检查已经很多年了
+I've been getting my blood work done for many years now,
+原因很简单
+and that's where the simple reason
+只有通过高质量的血液检测
+that only through quality blood work,
+现在随着DNA测试的出现
+and now through the advent of DNA test
+我们真的能得到一个清晰的画面吗
+can one really get a clear picture
+他们的健康状况
+of what's going on with their health.
+比如代谢因素和荷尔蒙
+Things like metabolic factors and hormones,
+各种甘油三酯
+all the various triglycerides.
+这些都是只能测量的东西
+These are things that can only be measured
+验血的结果
+from a quality blood test.
+现在有了DNA测试
+And now with DNA tests,
+你可以获得额外的窗口
+you can get an additional window
+你现在的健康状况
+into your current health status
+以及你的健康轨迹
+and the trajectory of your health.
+“InsideTracker”的真正精彩之处在于
+What's really wonderful about InsideTracker
+你是说你不能只拿回数字吗
+is that you don't just get numbers back
+各种荷尔蒙的具体水平
+about the specific levels of various hormones
+和代谢因素,
+and metabolic factors,
+你也会得到很多关于
+you also get a lot of information about
+为了调整这些数字  你可以或者应该做什么
+what you could or should do in order to adjust those numbers
+让你走上健康之路
+to put you on the course to better health.
+例如  它会给出建议
+So for instance, it will give recommendations
+关于该吃或不该吃的特定食物
+about particular foods to eat or avoid,
+特定的运动方案
+particular exercise regimens
+你可能会想要收养
+that you might want to adopt
+以及这些疗法的频率
+and the frequency of those regimens
+以便将这些标记移向正确的方向
+in order to move those markers in the correct direction.
+InsideTracker还增加了一个新功能
+InsideTracker has also added a new feature
+这使得跟踪你的进步
+that makes tracking your progress
+分析你的数据会更容易
+and analyzing your data even easier.
+对于那些使用Garmin健身追踪器的人
+For those of you that use a Garmin fitness tracker
+比如Garmin手表
+such as the Garmin watch,
+现在与他们的平台兼容了
+that's now compatible with their platform.
+这样你就可以把数据和Garmin的数据结合起来
+So you can couple your data from your Garmin
+用你的血液和DNA进行更个性化的研究
+with your blood and DNA for even more personalization
+以及对你健康的看法
+and insights on your health.
+然而  如果你没有Garmin设备
+However, if you don't have a Garmin device,
+你仍然可以从“InsideTracker”那里得到很多信息
+there's still a lot that you can get from InsideTracker
+和他们的测试
+and their tests.
+如果你想试试“InsideTracker”
+If you'd like to try InsideTracker,
+你可以访问www.insidetracker.com/huberman
+you can visit www.insidetracker.com/huberman.
+如果你买了  就可以打七五折
+And if you do that, you'll get 25% off
+"InsideTracker"的任何计划
+any of InsideTracker's plans.
+在结帐时使用Huberman代码
+Use the code Huberman at checkout,
+这是www.insidetracker.com/huberman
+that's www.insidetracker.com/huberman
+可以享受"InsideTracker"计划的25%折扣
+to get 25% off any of InsideTracker's plans
+结账时使用Huberman代码
+and use the code Huberman at checkout.
+今天的播客也是如此
+Today's podcast is also brought to us
+ExpressVPN
+by ExpressVPN.
+ExpressVPN是一种虚拟专用网络
+ExpressVPN is a virtual private network
+保证你的数据安全和隐私
+that keeps your data secure and private.
+它通过路由你的互联网活动来做到这一点
+It does that by routing your internet activity
+通过他们的服务器进行加密
+through their servers and encrypting it,
+这样就没人能看到或出售你的数据了
+so that no one can see or sell your data.
+我很熟悉不保护我的数据的后果
+I'm familiar with the effects of not securing my data
+很好
+well enough.
+几年前  我的银行账户被黑了
+A few years back I had my bank accounts hacked.
+我不知道具体是怎么发生的  但确实发生了
+I don't know exactly how it happened, but it happened.
+工作量太大了
+And it was a terrible amount of work
+把它倒过来并固定好
+to have that reversed and secured.
+ExpressVPN最棒的地方就是我都没注意到
+The great thing about ExpressVPN is I don't even notice
+这是跑步
+that it's running.
+我电脑里有
+I have it on my computer,
+我在家工作的时候就会打开它
+I turn it on anytime I work at home
+或者在旅行时  或者在机场的咖啡馆里
+or when traveling or in a cafe airport anywhere,
+它在后台运行
+and it runs in the background,
+它不会改变任何关于接口的内容
+it doesn't change anything about the interface
+用我的电脑或无线网络
+with my computer or the wifi.
+它保护了我的数据和所有信息
+It just secures my data and it secures any information
+我碰巧在找什么  等等
+about what I happen to be searching for, et cetera.
+我觉得我没有什么特别要隐瞒的
+I don't feel like I have anything particular to hide
+除了我的银行账户密码之类的东西
+except my bank account passwords and things of that sort.
+但有了ExpressVPN  一切都变得安全了
+But with ExpressVPN, it basically makes everything secure,
+你不会被追踪  也没人能进入
+you can't be tracked and no one can access
+或者窃取你的数据  这太棒了
+or steal your data, which is terrific.
+所以  我在旅行和在家的时候都会用到它
+So again, I use it when I'm traveling and when I'm at home.
+如果你想开始保护你的互联网活动
+If you want to start protecting your internet activity
+使用ExpressVPN  你可以登录www.expressvpn.com/huberman
+using ExpressVPN, you can go to www.expressvpn.com/huberman
+而且你还可以额外免费三个月
+and you'll get an extra three months free
+为期一年
+on a one-year package.
+在www.expressvpn.com/huberman上可以免费3个月
+That's www.expressvpn.com/huberman to get three months free
+在他们的任何一年的计划
+on any of their one-year packages.
+今天的播客也是由Athletic Greens提供的
+Today's podcast is also brought to us by Athletic Greens.
+运动绿是一种综合性维生素
+Athletic Greens is an all-in-one vitamin,
+矿物,益生菌饮料,
+mineral, probiotic drink,
+这给了你一个完整的维生素和矿物质基础
+that gives you a total foundation of vitamins and minerals
+和益生菌来支持你的健康和幸福
+and probiotics to support your health and wellbeing.
+我从2012年开始使用Athletic Greens
+I've been using Athletic Greens since 2012.
+所以我很高兴他们能赞助这个播客
+And so I'm delighted that they're sponsoring the podcast.
+我开始使用Athletic Greens
+I started using Athletic Greens
+我仍然每天使用一到两次Athletic Greens
+and I still use Athletic Greens once or twice a day
+因为这是最简单最直接的方法
+because it's the simplest and most straightforward way
+来补充重要的维生素和矿物质
+to get my basis of important vitamins, minerals
+益生菌也没有了
+and probiotic taken care off.
+所有这些东西结合起来支持各个方面
+All of those things combined to support various aspects
+我的健康,
+of my health,
+比如大脑健康  比如肠道健康
+such as brain health, such as gut health.
+例如  现在有大量的证据
+For instance, there's a tremendous amount of evidence now
+表明益生菌支持肠道健康
+showing that probiotics support gut health
+肠道大脑的通路对一些事情很重要
+and that the gut brain access is important for things like
+专注和认知  以及免疫功能
+focus and cognition, as well as for immune function
+以及身体健康的各个方面  比如新陈代谢
+and various aspects of physical health, like metabolism.
+这样的例子不胜枚举
+The list sort of goes on and on.
+绿色运动,
+With Athletic Greens,
+它含有所有这些维生素和矿物质
+it has all these vitamins and minerals
+以及其他对我有好处的东西
+and various other things that are good for me,
+我真的很喜欢它的味道
+and I actually really liked the way it tastes.
+所以我每天用一次
+So the way I use it is once a day,
+有时一天两次
+sometimes twice a day,
+我把它和水混合
+I'll mix it up with water,
+我加一点柠檬或酸橙汁
+I add a little bit of lemon or lime juice.
+我觉得不加柠檬或酸橙汁的味道很好
+I think it tastes great without the lemon or lime juice.
+但当我加进去的时候  我觉得真的很好吃
+But when I add that, it's truly delicious to me.
+我今天第一件事就是喝它
+And I'll drink that first thing in the day,
+上午有时相反
+mid-morning sometimes instead
+有时下午晚些时候再来一次
+and sometimes again in the later afternoon.
+我今天晚些时候还能喝杯绿色运动饮料
+I'm able to drink Athletic Greens late in the day
+别让它让我睡不着
+and not have it keep me awake.
+如果你想试试绿色运动
+If you want to try Athletic Greens,
+你可以登录www.athleticgreens.com/huberman
+you can go to www.athleticgreens.com/huberman,
+如果你这样做了  你可以要求一个特别优惠
+and if you do that, you can claim a special offer.
+他们会给你五个免费的旅行包
+They'll give you five free travel packs,
+是什么混合在一起的
+which make mixing up Athletic Greens
+当你在路上的时候  真的很简单
+while you're on the road, really simple and easy.
+他们会给你一年的维生素D3+K2
+And they'll give you a year supply of vitamin D3+K2.
+维生素D3  大家都知道
+Vitamin D3, as many of you know,
+你可以从太阳
+you can get from the sun,
+但是很多人  即使他们已经
+but many people even if they're already getting
+大量的阳光照射
+a lot of sun exposure,
+维生素D3水平仍然很低
+still have vitamin D3 levels that are too low.
+维生素D3非常重要
+And vitamin D3 is very important
+大量的心血管免疫
+for a huge number of cardiovascular, immune,
+新陈代谢和健康的其他方面
+metabolic and other aspects of health.
+再一次  如果你去www.athleticgreens.com/huberman
+So once again, if you go to www.athleticgreens.com/huberman,
+你会得到五个旅行包
+you'll get the five travel packs
+以及一年的维生素D3+K2供应
+and a year supply of vitamin D3+K2.
+今天是我们系列播客的第三集
+Today is the third episode in our series of episodes
+关于身体和运动技能的表现
+about physical and athletic skill performance
+和技能学习
+and skill learning in general.
+今天我们要讲的是
+And today we're going to talk about the science of tools
+减脂的科学
+for fat loss.
+减脂是很重要的
+And fat loss is something
+这引起了很多人的兴趣
+that interests a large number of people.
+很多人想减肥
+Many people want to lose fat,
+很多运动员都需要减肥
+many people are athletes who need to lose fat.
+一般来说  我们知道身体脂肪百分比太高
+And in general, we know that having body fat percentages
+对我们是不健康的
+that are too high is unhealthy for us.
+大多数人都在努力减肥
+And most people struggle to lose fat.
+大多数人都在努力减肥
+Most people struggled to lose weight generally,
+但大多数人尤其难以减掉身体脂肪
+but most people especially struggled to lose body fat
+也就是我们所说的脂肪组织
+or what we call adipose tissue.
+那么  这是互联网上的一个大话题
+Now, this is a huge topic on the internet.
+有很多争议
+There's a lot of controversy.
+今天  我们将讨论一些事情
+Today, we're going to talk about some things
+与减肥有关
+related to fat loss,
+这对减肥很有帮助
+and that are powerful for fat loss
+我猜你们大多数人以前都没听说过
+that I'm guessing most of you have never heard about before.
+你可能听说过其中一些
+You may have heard about a few of them,
+但我猜你还没听说过全部
+but I'm guessing you haven't heard about all of them.
+这一集将会有很多基于科学的工具
+This episode is going to be rich with science-based tools
+都是从各个方面收集的
+that are gleaned from a variety of aspects
+的文献
+of the literature,
+包括冷的使用
+including the use of cold,
+包括棕色脂肪
+including brown fat,
+包括一种叫米色脂肪的东西
+including something called beige fat.
+我们要讲一个叫NEAT的东西
+We're going to talk about something called NEAT.
+我们会讲到减肥的各个方面
+We're going to talk about all sorts of aspects of fat loss
+由你的神经系统控制
+that are governed by your nervous system.
+我认为这是一个重要的差距
+And this is I think an important gap
+现在社会中  关于减肥的讨论中很多都没有讨论到这个
+that's missing in the discussion about fat loss.
+你在其他地方可能听到很多信息
+You can hear a lot of information out there
+胰岛素的作用
+about the role of things like insulin
+还有各种饮食  比如生酮饮食
+and various diets like ketogenic diets
+或素食饮食或地中海饮食
+or vegan diets or Mediterranean diets.
+其中一些确实很棒很有用
+And there's some great stuff out there,
+但也有一些非常可怕的信息
+and there's some really terrible information out there,
+有很多争议
+and there's a lot of controversy.
+我们做了几集播客
+We did a number of episodes talking
+关于激素在新陈代谢中的作用
+about the role of hormones on metabolism
+以及食物对情绪和健康的作用
+and the role of food on mood and wellbeing.
+如果你对这些话题感兴趣
+So if you're interested in those topics,
+请查看一下
+please check them out.
+今天我要讲一点荷尔蒙
+I will touch a little bit on hormones today.
+像胰岛素和瘦素  只是一点点
+Things like insulin and leptin, just a little bit.
+但今天的播客主要是
+But today's episode is mainly going to be focused on,
+神经系统  神经元
+how the nervous system, neurons,
+它们与一些细胞合作
+and some of the cells they collaborate with,
+比如胶质瘤和巨噬细胞
+like glioma and macrophages,
+它们是如何促进或能够促进加速减肥的
+how those encourage or can encourage accelerated fat loss.
+因为事实证明他们可以
+Because it turns out they can.
+记住你的神经系统包括你的大脑
+Remember your nervous system which includes your brain
+还有你的脊髓
+and your spinal cord and all the connections
+以及与身体的器官的所有连接
+that they make with the organs of the body,
+支配一切
+governs everything.
+它是免疫系统的开关
+It's the on switch and the off switch for immune system.
+这是开开关和关开关
+It's the on switch and the off switch.
+这也有助于脂肪燃烧
+It turns out also for fat burning.
+还有神经系统和大脑的作用
+And so the nervous system and the role of the brain
+而其他神经元则被大大忽视了
+and other neurons has been vastly overlooked
+在减肥的讨论中
+in the discussion about losing fat.
+那么  如果我忽略了其中的一点
+Now, I would be remiss
+可能会被很多人喷
+and I'd probably come under a pretty considerable attack,
+那就是
+if I didn't just acknowledge upfront
+代谢科学的核心真理
+a core truth of metabolic science
+坦白说  神经科学也是如此
+and also of neuroscience, frankly,
+也就是摄入的卡路里和消耗的卡路里
+which is that calories in versus calories out,
+也就是说你摄入了多少卡路里
+meaning how many calories you ingest,
+以及你燃烧了多少卡路里
+versus how many calories you burn
+就是最基本和最重要的公式
+is the fundamental and most important formula
+在减肥这一行
+in this business of fat loss
+以及体重管理
+and weight management in general.
+这是无法回避的事实
+There's simply no way around the fact
+如果你摄入的卡路里远远超过你消耗的卡路里
+that if you ingest far more calories than you burn,
+你可能会发胖
+you're likely to gain weight.
+增重的很大一部分
+And a good portion of that weight
+很可能是脂肪组织的脂肪
+is likely to be adipose tissue fat.
+如果你摄入更少的卡路里
+It's also true that if you ingest fewer calories
+比消耗的更少
+than you burn,
+你就能减肥
+that you will lose weight,
+这是很大一部分
+and that a significant portion
+其中一部分来自身体脂肪
+of that will come from body fat.
+什么部分?
+What portion?
+这取决于很多因素
+Depends on a number of factors.
+但这个简单的公式很重要
+But that simple formula is important.
+在之前的一集播客里  我提到了并发症
+On a previous episode, I mentioned the complications
+卡路里就是卡路里
+with the statements of a calorie is a calorie.
+确实有证据  比如
+And indeed there is evidence from for instance
+Robert Lustig  他是儿科内分泌学家
+Robert Lustig, who's a pediatric endocrinologist
+加州大学旧金山分校的教授
+at UC San Francisco has talked
+关于深度加工食品如何改变这种
+about how highly processed foods change the way
+我们利用食物的方式
+that we utilize food,
+会导致更高的肥胖发病率
+and can lead to higher incidences of obesity
+以及其他的代谢综合症
+and other metabolic syndromes that go against the idea
+都与“一卡路里就是一卡路里  仅此而已”这个观点相悖
+that a calorie is a calorie and that's it.
+所以卡路里是能量单位
+So a calorie is a calorie as a unit of energy,
+我们需要接受并承认这些卡路里
+and we need to accept and acknowledge this calories in,
+也就是摄入的卡路里和燃烧的卡路里
+meaning calories ingested versus calories burned formula.
+但是卡路里燃烧部分受到很大影响
+But the calories burn portion is strongly influenced
+受到你可以控制的很多事情
+by a number of things that you can control
+这可以大大加速
+that can greatly accelerate
+或者增加脂肪组织的数量
+or increase the amount of adipose tissue
+或者脂肪组织的比例
+or the proportion of adipose tissue
+通过运动消耗和摄入之中的卡路里
+that you burn in response to exercise and food.
+所以你的荷尔蒙很重要
+So your hormones are important.
+你的产热的环境
+Your thermogenic milieu,
+意思是你的身体有多热或多冷?
+meaning how warm or how cold your body is?
+你使它多么寒冷
+How cold you make it,
+你让它有多暖和?
+how warm you make it?
+还有你的新陈代谢水平
+But also your level of metabolism.
+你的甲状腺激素水平
+Your levels of thyroid hormone
+这是很少有人讨论的话题
+and something that's hardly ever discussed,
+但却得到了科学文献的有力支持
+but is well supported by the scientific literature,
+神经支配多少?
+how much innervation?
+意味着有多少连通性
+Meaning how much connectivity there is,
+在你的神经系统和脂肪之间
+between your nervous system and fat.
+今天  我们来谈谈这个事实
+Today, we're going to talk about the fact
+你身体的各种脂肪
+that your body fat of various kinds,
+身体脂肪有好几种
+and there are several kinds of body fat
+实际上是由神经元支配的
+are actually innervated by neurons.
+神经元与你的身体脂肪相连
+Neurons connect to your body fat
+可以改变
+and can change the probability
+身体脂肪是否会被燃烧的概率
+that that body fat will be burned or not.
+所以你的神经系统是这个过程的主控制器
+So your nervous system is the master controller of this process,
+它在卡路里输出中发挥着重要作用
+and it plays a strong role in the calories out,
+燃烧的卡路里成分
+the calories burned component.
+和往常一样  我们将讨论一些科学知识
+So as usual, we're going to discuss a little bit of science.
+我保证不会深入讲解脂解
+I promise I won't go too deep into lipolysis
+以及所有与脂肪氧化有关的事情
+and all sorts of things related to fat oxidation.
+我们将分解这个过程
+We're going to break down that process
+分成两个重要步骤
+into two important steps.
+如果你能理解这两个重要的步骤
+And if you can understand those two important steps
+剩下的工具就很简单了
+then the rest of the tools will be very straightforward
+去理解和管理
+to understand and manage.
+我相信今天你会
+And I do believe that today you will walk away
+了解到有许多新的工具  你可以合并
+with many new tools that you could incorporate
+加入任何一种减肥方案
+into any kind of fat loss regimen
+这将大大加快这一进程
+that will greatly accelerate that process,
+因为它是建立在高质量的同行评议科学基础上的
+because it's grounded in quality peer-reviewed science.
+整个播客,
+Throughout the episode,
+我要讲一些行为工具
+I'm going to talk about some behavioral tools.
+事实上  我主要讲的是行为工具
+In fact, I'll mostly talk about behavioral tools.
+我还会讲到化合物  补充剂
+I will also talk about compound, supplements.
+你们很多人都喜欢补充剂
+Many of you are into supplements.
+有些人不喜欢  这没关系
+Some of you aren't, and that's fine.
+对于那些喜欢补充剂的人
+For those of you that are into supplements,
+这是补充剂讨论中的一个重要问题
+an important issue in a discussion about supplements
+对于减脂或其他的目的
+for fat loss or otherwise is going to be the quality
+就是这些补品质量的准确性
+of those supplements and the accuracy
+那些补品瓶和药片里有什么
+about what's in those supplement bottles and tablets,
+等等
+et cetera.
+我通常会在播客的最后提到这一点
+I usually mention this at the end of the podcast,
+但在这个播客中  我们和索恩合作  T-H-O-R-N-E
+but this podcast we've partnered with Thorne, T-H-O-R-N-E.
+因为我们认为索恩
+Because Thorne we believe has the highest levels
+在化合物质量方面的严格程度的级别最高
+of stringency in terms of the quality of the compounds
+以及这些化合物的含量
+in their supplements and the amounts of those compounds.
+如果你想看我服用的补品
+If you want to see the supplements I take,
+你可以登录www.thorne.com/u/huberman
+you can go to www.thorne.com/u/huberman.
+你可以看到我服用的补品
+You can see the supplements that I take,
+还可以打八折
+that will also allow you to get 20% off
+任何一种我吃的补充剂
+any of those supplements,
+以及索恩做的其他补品  都打八折
+or 20% off any of the other supplements that Thorne makes.
+索恩与梅奥诊所合作
+Thorne has partnered with the Mayo Clinic
+和所有主要的运动队
+and all the major sports teams.
+所以他们的严格是有很强的基础的
+So there's a very strong basis for their stringency.
+同样  你不需要服用补充剂
+Again, you don't need to use supplements.
+我当然不鼓励任何人服用补充剂
+I'm certainly not encouraging anyone to use supplements
+如果这不是你的菜
+if that's not your thing,
+但如果你要服用补充剂
+but if you're going to use supplements,
+确保你的补充剂来源
+make sure that your supplement source
+是一种非常高的品质
+is one a very high quality.
+说到这里  我想开始正题
+With that said, I want to get started
+我们来谈谈减肥的各种方法
+and talk about the various tools for fat loss
+以及神经科学   神经元是如何控制脂肪减少的
+and how neuroscience, neurons control fat loss.
+在这之前
+Before I do that,
+我想要正确地设置上下文
+I want to set the context correctly
+并从之前的播客中提取一些关键信息
+and extract some of the key takeaways from previous episodes,
+因为如果你的健康基础
+because if your foundation of health
+和荷尔蒙的基础
+and your foundation of hormones
+你的新陈代谢基础不正常
+and your foundation of metabolism isn't right,
+想要得最好的减脂效果是非常困难的
+it's going to be very hard to get the most
+任何形式的运动或减脂计划
+out of any kind of exercise or fat loss protocol.
+在之前的播客中  我谈到了所有的科学
+In previous episodes, I talked all about the science
+以及具体工具方法的细节
+and the details going into particular protocols.
+我们现在没时间了
+We don't have time to do that now,
+我想开始新的内容
+and I want to get to the new material.
+然而  有几个点
+However, there are a couple bins,
+有几件事你要确定
+a couple items that you should make sure
+你要正确
+you're getting correctly.
+如果你在这些方面不完美  不要担心
+And if you're not perfect about these, don't worry about it,
+大多数人都不是完美的
+most people are not perfect about them,
+我自己当然也不是完美的
+I'm certainly not perfect about them.
+但我们都应该努力获得高质量
+But we should all be striving to get quality
+和充足的睡眠
+and sufficient sleep.
+我做了整整四集关于睡眠的播客
+I did four full episodes on sleep
+以及如何提高睡眠质量
+and how to get better at sleeping
+通过光线暴露  温度
+through things like light exposure, temperature,
+根据你所谓的睡眠类型正确地安排睡眠时间
+timing your sleep correctly for your so-called chronotype,
+如果你是个夜猫子或早起的人
+if you're a night owl or a morning person.
+这是头四集或者五集
+That's the first four or I think five episodes
+HubermanLab播客
+of the Huberman Lab Podcast.
+好好睡一觉
+Get your sleep right,
+正确的光照
+get your light exposure right,
+当你想睡觉时
+avoid bright light in your eyes
+避免眼睛受到强光照射
+at times you wanted to be asleep,
+有时你想保持清醒
+and get bright light in your eyes
+让亮光照进你的眼睛
+at times you want to be awake.
+所以好好睡一觉
+So get your sleep right.
+另一种是必需脂肪酸
+The other thing is essential fatty acids.
+我在“EP11 食物和营养如何控制我们的情绪” 那一集讲过
+I talked about this in the food and mood episode,
+但我也在讲荷尔蒙的时候说过
+but I also talked about it during the hormones episodes.
+我们需要脂肪酸
+We need fatty acids.
+它们对我们健康的许多方面都至关重要
+They are vital to so many aspects of our health.
+你不需要从补充剂中获得它们
+You don't have to get them from supplements.
+如果你想也可以吃补剂
+You can, if you want to,
+但你得从食物中摄取
+but you need to get them from your food.
+它们是至关重要的
+They are essential.
+这里它重要是有原因的
+There's a reason there's an E the essential part there.
+脂肪酸的含量
+Of the fatty acids,
+有很多种
+there are multiple kinds,
+但它有抗抑郁的效果
+but for the antidepressant effects
+能促进好心情的脂肪酸水平
+where the levels of fatty acids that will promote good mood
+以及健康的新陈代谢
+and also healthy metabolism
+我们将开始把讲解放到正确的方向
+and we'll start to shift the needle in the right direction
+关于血液传播等的心血管因素
+on bloodborne cardiovascular factors.
+关键是要知道摄入EPA的水平
+The key thing is to get the levels of EPA
+每天摄入量超过1000毫克
+that you ingest above 1000 milligrams per day.
+这并不意味着只摄入1000毫克
+So that doesn't mean just taking a thousand milligrams
+或者说是鱼油或磷虾油
+or more of say fish oil or krill oil
+或者任何你喜欢的来源
+or whatever your preferred source is.
+这意味着要摄入超过1000毫克的EPA
+It means getting above a thousand milligrams of EPA
+这可能需要你摄入更多的必需脂肪酸
+which may require that you ingest more essential fatty acids
+而不仅仅是每天1000毫克
+than just a thousand milligrams per day.
+这当然可以通过食物来源来实现
+That of course can be done through food sources,
+比如脂肪多的鱼
+things like fatty fish,
+或者如果你不喜欢吃鱼
+or if you're not into eating fish,
+用草养的优质肉类就可以做到
+you've quality meats that are grass raised can do that.
+必需脂肪酸还有其他来源
+There are other sources of essential fatty acids,
+当然还有植物来源
+of course also from plant sources.
+去上网搜搜
+So look, those up online.
+真的很容易找到
+It's really easy to find.
+但研究和文献表明
+But the research and the literature shows
+你最好摄入量超过1000毫克
+that you want to get above a thousand milligrams
+EPA
+of EPA per day,
+因为那是你最能支持新陈代谢的量
+because that's when you can best support your metabolism
+为减肥做好准备
+and position yourself for good fat loss.
+对于那些有进食问题的人来说
+As well for people who have cravings issues,
+他们总是想吃甜食
+they crave sweets all the time,
+我在EP16那一集讲过这个
+I talked about this in the gut-brain episode
+荷尔蒙和食物
+and hormones and food.
+你的肠道里有神经元在渴望
+That you have neurons in your gut that are craving,
+他们在寻找必需脂肪酸
+they're seeking essential fatty acids
+他们渴望从你的食物中寻找氨基酸
+and they're craving and seeking amino acids from your food.
+这些并不是他们渴望的补品
+Now, these are not supplements that they crave per se,
+他们渴望这些东西
+they're craving those things
+因为那是你的身体和大脑所需要的
+because that's what your body needs and your brain needs.
+但这些神经元也会对糖做出反应
+But those same neurons will respond to sugars.
+很多人都想吃糖
+And so many people who are craving sugar
+能通过给予神经元来满足对糖的渴望
+can satisfy that sugar craving by giving the neurons
+也就是他们真正想要的
+so to speak what they actually want,
+也就是氨基酸和必需脂肪酸
+which are amino acids and essential fatty acids.
+包括EPA  还有谷氨酰胺
+That includes EPA, but also things like glutamine
+以及能真正减少对糖的渴望的氨基酸
+and amino acid that can really reduce sugar cravings
+如果你拿一茶匙
+if you take a teaspoon of that,
+或者一天吃几次一汤匙
+or even a tablespoon of that a few times a day.
+你得慢慢来
+You have to ease into that a little bit,
+因为有些人可能会有一点肠胃不适
+because some people can get a little bit of GI distress
+因为谷氨酰胺过多
+from too much glutamine.
+但谷氨酰胺也被证明可以
+But glutamine has also been shown to improve symptoms
+改善肠漏症状
+of leaky gut.
+它是一种功能强大的氨基酸
+It's a powerful amino acid.
+是的  你也可以从食物中获得
+And yes, you can also get it from food.
+白软干酪之类的东西谷氨酰胺含量很高  等等
+Things like cottage cheese are high in glutamine, et cetera.
+最后  你无法真正得到好的减脂效果
+And then finally you can't really position yourself
+如果你的碘水平很高的话
+to have a strong metabolism if your iodine levels
+碘水平不对
+aren't correct,
+你的甲状腺也不正常
+and your thyroid levels aren't correct.
+碘可以过量
+You can overdo iodine.
+所以你不想这样做
+So you don't want to do that.
+很多食盐中都加入了碘
+A lot of table salt has iodine added to it,
+但有些人需要加碘
+but some people need to add iodine,
+通过摄入海带等东西
+by ingesting things like kelp, et cetera..
+但这是支持甲状腺系统最好的方法之一
+But one of the best ways to support the thyroid system
+和新陈代谢
+and metabolism in general,
+确保你摄入了足够的硒
+is to make sure you're getting enough selenium.
+有时也叫硒
+Sometimes called selenium each day.
+最简单的方法就是消化
+Simple way to do that is to ingest
+硒含量最高的食物
+the highest concentration of selenium food
+也就’是巴西坚果
+that I'm aware of, which is Brazil nuts,
+每天吃一到三颗
+one or two or three of those per day.
+你会有足够的硒
+You'll have more than enough selenium
+以满足甲状腺的需要
+to meet the thyroid needs.
+你不想硒含量太高
+You don't want your selenium to be too high,
+你不希望饮食中任何东西的含量都太高
+you don't want a diet too high in anything.
+所以  睡眠  充足的epa
+So again, sleep, sufficient EPAs,
+谷氨酰胺如果你有肠漏的问题
+glutamine if you have issues with leaky gut
+或者对糖的渴望会有帮助
+or sugar cravings can really help.
+获取肠道微生物群  对吧?
+Get your gut microbiome, right?
+我可能没说这一点
+I may have missed saying that,
+但是让你的肠道微生物群保持正确
+but get your gut microbiome right.
+这并不一定意味着
+That does not necessarily mean
+你需要摄入益生菌
+you need to ingest probiotics.
+你可以  如果你想
+You can, if you want to,
+但你也可以简单地每天吃
+but you can also just simply ingest a serving
+一到两份发酵食品
+or two of fermented foods per day,
+这可以很好地评估
+that can greatly assess.
+比如德国泡菜  韩国泡菜
+So things like sauerkraut, kimchi,
+每种文化都有不同的来源
+every culture has a different source
+或发酵食品的来源
+or sources of fermented foods,
+它们真的可以帮助肠道微生物群
+those can really help the gut microbiome,
+然后确保你的甲状腺激素
+and then make sure that your thyroid hormone
+是通过摄入
+is supported through the ingestion
+足够的碘来支持 但不要太多
+of sufficient iodine not too much
+以及足够的硒  不要太多
+and sufficient selenium, not too much.
+好吧?
+Okay?
+睡眠  EPA  谷氨酰胺  发酵食品
+Sleep, EPA, glutamine, fermented foods,
+碘和硒
+iodine and selenium.
+这些事情都是基础
+That sets the basis for how things
+比如运动  寒冷和一些化合物
+like exercise, cold and some of the compounds
+以及我们今天要讲的其他内容
+and other things that we're going to talk about today
+我想这对你们很多人来说都是全新的
+that are I'm guessing going to be truly new to many of you
+这真的会增加你平时的消耗因子
+that can really increase the burn factor in the equation
+摄入的卡路里和消耗的卡路里
+of calories in versus calories burned.
+好吧?
+Okay?
+所以  一方面  我们有这个现实的卡路里
+So on the one hand we have this reality of calories in,
+与卡路里消耗
+versus calories burned.
+但是  如果我没有提到接下来的研究  那也是我的失职
+However, I would also be remiss if I didn't mention
+我的同事做了一项不可思议的研究
+an incredible study that was done by my colleague,
+斯坦福大学的Alia Crum
+Alia Crum at Stanford.
+她是一名老师
+She's a faculty member,
+心理学系的教授
+professor in the psychology department.
+看看信念如何影响
+Looking at how belief affects,
+光是思考就能影响事情的效果
+just thinking can impact the effects of things
+比如运动减肥
+like exercise on weight loss.
+这些都是令人难以置信的结果
+These are just incredible results.
+他们所做的就是选择实验对象
+What they did was they took subjects
+负责打扫酒店的酒店服务人员
+who were hotel service people that would clean the hotels
+然后进来换床单  等等
+and come in and change the linens and so forth.
+把他们分成两组
+Divide them into two groups.
+其中一组被告知要四处走动
+One group, they were told moving around
+做好本职工作
+and doing your duties for your job,
+符合美国活动指南的标准
+meet the standards for US guidelines for activity
+还有运动等等
+and movement, et cetera.
+以及一个关于运动的基本课程
+And a basic lecture about how movement
+对你有好处等等
+is good for you, et cetera.
+但主要是他们的日常活动
+But mostly just that their daily activities
+达到了美国的标准
+met the standards for the US.
+而另一组则得到了一堆信息
+The other group, however, was given a bunch of information
+关于他们的运动和日常生活
+about how movement and their daily routine
+对心血管健康很有好处
+was very good for cardiovascular health,
+它可能有助于减肥  等等
+it could be good for weight loss, et cetera.
+然后他们追踪这些受试者
+And then they tracked these subjects
+在几个星期的时间里
+over a period of many weeks.
+这项研究的关键信息
+The take home message from this study
+只是被告知运动对你有好处
+was that simply being told that movement is good for you
+可以减肥  等等
+can lead to weight loss, et cetera.
+导致身体脂肪明显减少
+Led to significantly more body fat loss,
+腰臀比上发生了变化
+waist-to-hip ratio changes in the direction
+大多数人都想要的效果
+that most people would want.
+本质上是一种瘦身
+But essentially a slimming down, if you will.
+以及其他各种积极的影响
+And all sorts of other positive effects
+比如心血管健康
+on things like cardiovascular health.
+仅仅靠运动和锻炼的知识
+Simply by the knowledge that movement and exercise
+可以帮助各种健康标记
+can help various health markers.
+这很了不起  也很有说服力
+So this is remarkable and it speaks
+神经系统的力量
+to the power of the nervous system
+以及信仰控制我们身体各个方面的力量
+and the power of belief in governing aspects of our body
+以及我们的生理机能
+and our physiology that one would otherwise think
+我们超出了意识的控制范围
+we're outside our conscious control.
+那么  当然  你们中任何一个从科学角度思考的人
+Now, of course, any of you that think scientifically
+如果你看了这个播客
+which I imagine if you watch this podcast
+或者你们现在都在听这个播客
+or listen to this podcast is all of you by now
+可能会想,
+probably thinking,
+也许他们只是搬得更多了
+well, maybe they just moved around more,
+或者他们经常站着坐着
+or maybe they stood up and sat down more,
+也许他们做了其他不同的事
+maybe they did something else that was different.
+确实有很大的可能性
+And indeed there's a strong possibility
+他们做事情的方式与另一组不同
+that they did things differently than the other group,
+但是仅仅知道运动对你有好处
+but the mere knowledge that exercise is good for you,
+这个动作对你有好处
+that movement is good for you,
+改变了他们的行为和生理反应
+shifted their behavior and their physiology
+在增强减肥的方向
+in the direction of enhanced weight loss,
+减肥  等等
+fat loss, et cetera.
+我们脑子里如何看待一组给定的活动
+So how we think about a given set of activities
+会影响我们进行这些活动的方式
+affects how we perform those activities.
+我们如何思考和执行这些活动
+And how we think about and perform those activities
+真的会对我们的生理机能有影响
+has a real effect on our physiology.
+所以在硬性规定
+So somewhere between the hard and fast rule
+也就是控制着脂肪和体重的减少
+that governs fat loss and weight loss,
+如果你摄入的卡路里比燃烧的多
+which is if you ingest more calories than you burn,
+你要么保持体重  要么体重增加
+you'll either maintain or gain weight.
+通常情况下  你会增重
+Typically, you'll gain weight,
+虽然不总是这样
+although not always.
+如果你摄入的卡路里和燃烧的一样多
+If you ingest about as many calories as you burn,
+一般来说  你会保持体重
+you'll maintain weight, typically.
+如果你摄入的卡路里比燃烧的少
+And if you ingest fewer calories than you burn,
+通常情况下  你会减肥
+typically you'll lose weight.
+这就是减肥的法则
+That's the kind of rule of fat loss.
+然而我们也有这些信念效应
+And yet we also have these belief effects which show,
+这已经被重复实验了一次又一次
+and this has been replicated again and again,
+我们如何看待一个过程
+that how we think about a process,
+不管是我们觉得这是有益的
+whether or not we think it's beneficial
+能改变我们的生理机能
+can change our physiology in ways
+以对我们有益的方式
+that can be beneficial to us.
+介于这两个极端之间
+Somewhere in between those two extremes
+核心代谢科学
+of hardcore metabolic science
+以及信念效应
+and belief of why a bunch of protocols
+在生理学上  以高质量的同行评议科学为基础的 一堆工具方法
+that are grounded in quality peer-reviewed science
+你可以利用它
+and in physiology that you can leverage
+来加快脂肪减少的速度
+to increase the rates of fat loss.
+这就是我们今天要讲的内容
+And so that's what we're going to talk about today.
+我喜欢这个话题  但不是说
+I love this topic and it's not
+我痴迷于减肥
+that I'm so obsessed with fat loss,
+而是我从事的第一个科学项目
+but rather the first the project I ever worked on in science
+是生热和减脂
+was thermogenesis and fat loss.
+我本科时加入了一个实验室
+I joined a laboratory as an undergraduate,
+我的导师喜欢探索新的化合物
+and the guy I worked for loved to explore new compounds
+以及它们是如何影响生热作用的
+and how they impacted thermogenesis.
+所以我们研究了MDMA/摇头丸
+And so we looked at how things like MDMA/Ecstasy,
+抗精神病药物、抗抑郁药物
+how antipsychotics, antidepressants,
+市场上有各种各样的减肥药
+various weight loss drugs that were on the market.
+这些是如何影响体温的
+How those impacted body temperature
+脂肪减少和新陈代谢呢?
+and fat loss and metabolism?
+我们的研究做得很开心
+And we just had so much fun doing it.
+所以如果你发现我脸上有笑容
+So if you detect a smile on my face,
+是因为我想到了那段时光
+that's what that's about.
+我也学到了很多
+And I also learned a lot,
+我也开始真正欣赏
+and I also came to really appreciate
+我们身体的这个组织
+that this tissue of our bodies,
+脂肪组织和脂肪
+adipose tissue and fat,
+我们认为这是一种不好的东西
+we think of as just this unfortunate thing
+就像我们被告知的那样  它是核心能源
+that's like we're told it's a core energy source
+如果我们进入饥荒  这都是真的  等等
+if we ever entered a famine and that's all true, et cetera.
+你开始意识到我们体内的细胞
+You come to realize that the cells in our body,
+它们是我们身体熔炉的燃料
+they are there as fuel for the furnace of our body,
+这熔炉就是我们的新陈代谢
+which is our metabolism.
+但还有第三个玩家
+And there's a third player.
+这才是真正有趣的地方
+And that's where it really gets interesting.
+神经系统  神经元有机会
+That the nervous system, neurons has the opportunity
+提高炉子的强度
+to turn up the intensity of that furnace.
+它有机会增加热量
+It has the opportunity to increase the amount of heat
+也就是我们所产生的能量
+that we produce and therefore the amount of energy
+我们燃烧
+that we burn.
+我也对一件事很感兴趣
+And I was also really intrigued by something which is that,
+从小到大  我想我们都认识一种人
+growing up, I think we all know people
+他们吃得很好  身体似乎永远不会增肥
+who can eat a tone and never seem to gain any body fat.
+或者似乎吃得很少的人
+Or people who seem to eat very little
+而且似乎很容易发胖
+and seem to gain body fat very easily.
+我一直对此很感兴趣
+And I was always intrigued by that.
+事实证明有很多不同的因素
+And it turns out there are a number of different factors
+与此相关
+that relate to that.
+但是神经系统是
+But the nervous system is the one
+我们真正可以控制的东西
+that we can really control.
+通过行为和我们吃的东西
+Both through behaviors and what we eat,
+同时也涉及到我们所说的生热作用
+but also in terms of this thing that we call thermogenesis.
+有一个特别的故事我想讲一下
+There was one particular story I want to relate to,
+这并不意味着有任何工具方法
+that does not suggest any protocol.
+事实上  我要阻止你
+In fact, I'm going to discourage you
+不要去用这个工具方法
+from following this protocol.
+请不要尝试我将要描述的化合物
+Please do not try the compound that I'm about to describe.
+这是我们在实验室最喜欢做的事情之一
+One of the favorite things that we like to do in that lab
+就是找到稀有化合物并测试它们
+was to find rare compounds and test them.
+那时我正在读关于生热作用的书
+And at the time I was reading about thermogenesis
+我了解到一种化合物
+and I learned about a compound
+那是在军械库工厂发现的
+that was actually discovered in the armory factories
+第二次世界大战
+of World War II.
+它被发现是因为女性
+And it was discovered because women in particular
+在这些工厂工作的女性
+who were working in these factories
+会把刷子浸在化合物里
+would take a brush and dip it in a compound
+或者应该说是一种涂料
+or a paint rather,
+然后她们会用模版把数字画出来
+and they would then paint the numbers with a stencil
+比如炸弹和各种弹药
+onto things like bombs and ammunition of various kinds.
+结果她们都疯狂地瘦了
+And they were losing weight like crazy.
+事实证明  她们偶尔会舔一下刷子
+It turns out that occasionally they'd lick the brush,
+然后她们会返回去画  舔一下可以让刷子笔画更清晰
+and then they would go back just to get a sharper point on the brush,
+然后她们会在这些不同的子弹上作画
+and then they would paint onto these various bullets
+导弹等等
+and missiles and so forth.
+炸弹等等
+Bombs and so forth.
+她们开始减掉身上所有的脂肪
+And they started shedding all their body fat.
+她们中的很多人  不好意思  减了很多体重
+And many of them losed, excuse me, lost a lot of weight,
+体重的很大一部分
+a significant portion of their weight
+前提在不改变她们正在做的任何事情的情况下
+without changing anything else that they were doing,
+比如她们吃什么  等等
+what they were eating, et cetera.
+结果是那个化合物
+It turned out that that compound
+叫做二硝基酚  DNP
+is something called Dinitrophenol, DNP.
+多年来  二硝基苯酚  DNP越来越受欢迎
+And over the years Dinatrophenol, DNP has gained popularity
+在一些利基文化中
+in some niche cultures,
+主要是健美运动员  甚至模特行业
+mainly bodybuilders, athletes even in the modeling industry.
+它对任何人来说都是一种可怕的化合物
+It is a absolutely terrible compound for anyone to use,
+因为如果你的体温变得过高
+because it's highly fatal if your body temperature
+那会是致命的
+goes too high.
+体温过高会害死你的
+Hyperthermia will kill you.
+确实有很多人死于二硝基苯
+And indeed many people have died using Dinatrophenol
+作为一种减肥药或尝试
+as a weight loss drug or attempting
+用来做减肥药
+to use it as a weight loss drug.
+但二硝基苯酚确实说明了一个原理
+But Dinitophenol really illustrates a principle
+你的新陈代谢包括了
+which is that your metabolism includes things
+比如甲状腺激素和生长激素等等
+like thyroid hormone and growth hormone, et cetera.
+但是你的体温
+But your body temperature
+以及你利用能源的方式
+and the way you utilize energy
+是由你的神经系统控制的
+is controlled by your nervous system.
+苯二酚的作用方式是通过改变神经元
+And the way Dinatrophenol works is by changing the neurons
+以及神经元连接脂肪的方式
+and the way that the neurons that connect to fat
+改变脂肪燃烧的方式
+change the way fat burns up.
+所以我们不会说
+So we are not going to suggest,
+我不是建议你使用二硝基苯酚
+I am not suggesting that you use Dinatrophenol.
+然而  还有其他事情
+However, there are other things
+你可以改变这段关系
+that you can do that can change the relationship
+在这些神经元和身体脂肪之间的关系
+between these neurons and the fat of your body
+可以加速脂肪的减少
+in ways that can powerfully accelerate fat loss.
+我不知道为什么我们不经常听到这些事
+And I don't know why we don't hear about these things more,
+但可能是因为你所看到的
+but probably because most of what you see
+在互联网上的焦点
+out there on the internet focuses
+更多关注在你可以吃什么和应该吃什么
+more on what you could eat and should eat
+或者不应该吃
+or shouldn't eat.
+它专注于运动养生
+It concentrates on exercise regimens
+我们也会讲到
+which we will also talk about.
+但是燃烧因素
+But the burn factor,
+你的生热环境是
+your thermogenic environment is one of the,
+在减肥这一行  即便不是最重要
+if not the most important factors
+也是非常重要的因素
+in this business of fat loss.
+因为我是一个神经科学家
+And since I'm a neuroscientist
+这就是我们要讲的
+that's what we're going to talk about.
+我们来谈谈脂肪的利用
+So let's talk about fat utilization.
+让我们来谈谈脂肪是如何转化为能量的
+Let's talk about how fat is converted into energy
+有时也被称为脂肪燃烧
+which is sometimes also called fat burning.
+我想让你知道的是
+What I'd like you to know
+这是一个分为两部分的过程
+is that this is a two-part process.
+好吧?
+Okay?
+事实上  有许多生化步骤
+In reality, there are many biochemical steps.
+如果你上网
+And if you log onto the internet,
+或者你打开一本课本  想要了解
+or you open up a textbook and you want to learn about
+脂肪的利用
+fat utilization,
+你们会看到很多化学反应
+you're going to see a lot of chemistry.
+如果你愿意  我很乐意深入探讨这种化学反应
+And I'm happy to go deep into that chemistry if you like.
+但我想你们大多数人可能都感兴趣
+But I think most of you are probably interested
+杠杆点是什么?
+in what are the leverage points?
+你可以在哪些方面对这个过程施加控制
+Where can you exert control over this process in ways
+让其有利于你的目标?
+that benefit you?
+所以我主要讲这些
+So I'm going to focus mainly on those.
+好吧?
+Okay?
+这并不是为了让狂热者感到不安
+This is not to upset the aficionados
+我会加上一些术语  但我们开始吧
+and I will put in some nomenclature, but here we go.
+这个过程分为两部分
+There's two parts to this process.
+一是脂肪动员
+One, is fat mobilization.
+第二个是脂肪的氧化或利用
+And the second is fat oxidation or utilization.
+好吧?
+Okay?
+所以身体脂肪首先要做的是
+So the first thing that has to happen for body fat
+燃烧或使用或减少
+to get burned up or used and reduced
+它必须动员起来
+is that it has to get mobilized.
+这个过程叫做脂解
+And that's a process called lipolysis,
+但我不在乎你知不知道脂解这个名词
+but I actually don't care if you know the name lipolysis,
+主要是它的意思  就是说把脂肪从这个位置移开
+you just have to move that fat out of the position
+从它进去的地方
+that it's in.
+你必须把它从脂肪细胞中取出来
+You have to get it out of the fat cells.
+脂肪细胞可以在内脏器官周围
+Fat cells can be visceral around our visceral organs
+也可以是皮下的
+or they can be subcutaneous under our skin.
+当大多数人想到脂肪的时候
+Most people are thinking about subcutaneous fat
+他们想到的是皮下脂肪
+when they think about fat.
+事情是这样的
+So here's the deal.
+如果你想知道更多细节
+And if you want more detail,
+很好  我一会儿会讲到
+great, I'll touch on that in a bit.
+但基本上储存的脂肪有两部分
+But basically stored fat has two parts
+与我们的讨论是相关的
+that are relevant here.
+它含有脂肪酸部分
+It's got the fatty acid part,
+这是你身体可以使用的部分
+and that's the part that your body can use.
+它连着一种叫甘油的东西
+And that's attached to something called glycerol
+它们由主干连接
+and they're linked by a backbone.
+对你们来说  可能已经有太多的化学反应了
+So already, probably too much chemistry for both of you.
+但你想要的是折断主干
+But what you want is you want to break the backbone.
+所以如果你能记得调动脂肪
+So if you just can remember to mobilize fat,
+你得折断
+you got to break the backbone
+在甘油和这些脂肪酸之间的主干
+between glycerol and these fatty acids.
+好吧?
+Okay?
+这是由一种叫做脂肪酶的酶完成的
+That's accomplished by an enzyme called lipase,
+但如果你想的话  你可以把这些都忘掉
+but you can forget all that if you want.
+记住  我们只是在努力调动脂肪
+Remember, we're just trying to mobilize fat.
+第一步是得到这些脂肪酸
+So the first step is to get those fatty acids
+在血液中移动
+moving around in the bloodstream
+把它们从脂肪细胞中取出来
+to get them out of those fat cells.
+然后它们就可以流动并被用作能源
+And then they can travel and be used for energy.
+第二部分
+And that second part,
+第一部分是动员
+remember first part is mobilization.
+第二部分是氧化
+The second part is oxidation.
+然后是那些脂肪酸
+Is then those fatty acids,
+这些都是潜在的燃料
+those are potential fuel.
+它们只是潜在的燃料
+They're just potential fuel,
+但你还没把脂肪烧掉
+but you haven't burned the fat yet,
+你只是把它从脂肪细胞中移了出来
+you've just moved it out of your fat cells.
+它们会进入可以利用它们提供能量的细胞
+They're going to go into cells that can use them for energy.
+一旦它们进入这些细胞
+And once they are inside those cells,
+它们还没有被烧毁
+they're still not burned up.
+你需要氧化它们
+You need to oxidize them.
+把氧化想做是消耗的部分
+Think oxidation is the burnup part.
+它们需要被转移到线粒体中
+They need to be moved into the mitochondria
+然后它们可以转化成ATP转化成能量
+and then they can be converted into ATP into energy.
+我们再缩小一下
+So just to really zoom out again to make sure
+我没有漏讲任何一点
+I don't lose anybody.
+你得调动脂肪
+You got to mobilize the fat,
+然后你需要氧化脂肪
+then you have to oxidize the fat.
+换句话说  你必须调动它
+In other words, you have to mobilize it,
+然后你要把它转化成能量
+then you actually have to convert it into energy.
+如果你把它调动起来
+If you just mobilize it,
+你不能把它转化成能量
+and you don't convert it into energy,
+你不会氧化它
+you don't oxidize it,
+它可以变成身体脂肪
+it can be returned to body fat.
+神经系统能做的很多事情
+And many of the things that the nervous system can do,
+就是增加脂肪的动员
+is to increase the mobilization of fat,
+还有脂肪的氧化作用
+but also the oxidation of fat.
+好吧?
+Okay?
+所以你有两个机会燃烧更多的脂肪
+So you have two opportunities to burn more fat,
+这两种机会都是
+and both of those opportunities are governed
+受你的神经系统控制的
+by your nervous system.
+通过神经元发送小神经
+By neurons that literally send little wires
+轴突转化成脂肪并释放化学物质
+that we call axons into fat and release chemicals
+为更多的脂肪提供了刺激
+that provide a stimulus for more of that fat
+去动员,
+to be mobilized,
+之后会有更多的脂肪被燃烧
+and then later for more of that fat to be burned up.
+我们可以深入研究这个问题
+So we could go really deep on this,
+但我不会讲得更深入
+but I'm not going to go much deeper than that,
+因为这不是生物化学
+because this isn't a biochemistry
+脂肪酸代谢讲座
+of fatty acid metabolism lecture.
+这是关于如何利用你的神经系统燃烧脂肪
+This is about how to burn fat using your nervous system.
+但要记住  这里有一个动员
+But remember, there's a mobilization step,
+然后是氧化反应
+and then there's an oxidation step.
+我想你们中的任何人
+I think anyone of you,
+你们所有人都应该能够内化它
+all of you should be able to internalize that.
+动员然后氧化
+Mobilize then oxidize.
+好吧?
+Okay?
+动员然后氧化
+Mobilize then oxidize.
+那么这些连接脂肪的神经元在做什么呢?
+So what are these neurons that connect a fat doing?
+它们到底释放了什么?
+What are they releasing exactly?
+它们是如何增加脂肪流动的呢?
+How do they actually increase fat mobilization?
+它们是如何增加脂肪氧化的?
+And how do they increase fat oxidation?
+燃烧脂肪
+Burning of fat.
+它们会释放一些东西
+Well, there are a couple of things that they release
+这鼓励了这个过程
+that encourage that process.
+你需要知道的最主要的是肾上腺素
+And the main one that you need to know about is epinephrine
+这些脂肪酸转化成ATP的过程
+The conversion of these fatty acids into ATP
+在细胞的线粒体中  肾上腺素占优势
+in the mitochondria of cells is favored by adrenaline.
+好吧?
+Okay?
+肾上腺素的释放有两个来源
+And adrenaline is released from two sources.
+肾上腺素从肾上腺释放出来
+Adrenaline is released from the adrenal glands,
+它在我们的肾脏和下背部的顶部
+which set a top our kidneys and our lower back.
+它也从另一个地方释放
+And it's also released
+来自所谓的交感神经系统
+from the so-called sympathetic nervous system.
+虽然这个名字有点用词不当
+Although that name is a bit of a misnomer,
+因为这和同情无关
+because it has nothing to do with sympathy,
+它和刺激警觉性有关
+has to do with stimulating alertness
+以及对身体动作有促进作用
+and promoting action of the body.
+文献里有个很大的错误
+There's a big mistake in the literature
+那些知道的人终于纠正了这一点
+that is finally being corrected among those who know.
+文献中的错误是肾上腺
+The mistake in the literature is that the adrenal glands
+肾上腺素的释放是促使脂肪减少的原因
+and the release of adrenaline is what stimulates fat loss
+和脂肪氧化
+and fat oxidation.
+事实上  很长一段时间以来  人们都在思考这个问题
+In fact, it was thought for a long time
+肾上腺素在你体内游走
+that adrenaline swimming around in your body
+当你禁食的时候
+of when you're fasted,
+因为禁食会增加肾上腺素
+because fasting can increase adrenaline
+或者当你在进行剧烈运动的时候
+or when you're engaging in intense exercise
+或者当你有压力的时候会促进脂肪氧化
+or when you're stressed is going to promote fat oxidation.
+事实并非如此
+That's actually not the case.
+刺激脂肪氧化的肾上腺素
+The adrenaline that stimulates fat oxidation,
+让脂肪燃烧的肾上腺素
+the burning of fat is coming from neurons
+实际上从脂肪相连接的神经元中释放
+that actually connect to the fat,
+而不是像肾上腺素这样的荷尔蒙
+not hormones like adrenaline that are swimming around
+在你的系统里游走
+in your system.
+这是一个局部过程
+It's a local process.
+这很重要  因为这意味着
+And this is very important because it means that,
+你做什么  具体的动作模式
+what you do, the specific patterns of movements
+以及你所创造的特定环境
+and the specific environment you create
+可以刺激这些特定的神经元来激活脂肪
+that can stimulate these particular neurons to activate fat,
+去释放脂肪
+meaning to release fat,
+调动它  然后消耗它
+to mobilize it and then to burn it,
+这会成为你可以使用的有力的关键
+is going to be a powerful lever that you can use
+以增加脂肪的减少
+in order to increase fat loss.
+到目前为止我们说了什么?
+So what have we said so far?
+我们说过  你必须动员起来  你必须燃烧脂肪
+We've said that you've got to mobilize and you got to burn fat
+你的神经系统控制着这个过程
+and that your nervous system is in control of that process.
+这不仅仅是卡路里亏损的问题
+It's not just about calorie deficit.
+好了  我们来谈谈如何激活
+Okay, so let's talk about how to activate
+神经系统以促进
+the nervous system in ways that it promotes
+更多的激素释放、运动、动员脂肪
+more liberation, movement, mobilization of fat
+和更多的脂肪氧化
+and more oxidation of fat.
+这是刺激肾上腺素最有效的方法之一
+So one of the most powerful ways to stimulate epinephrin
+也叫肾上腺素
+which is also called adrenaline from these neurons
+和神经元脂肪的连接有关  从而刺激
+that connect to fat and to thereby stimulate
+更多的脂肪动员和氧化  这种方法就是通过“动”
+more fat mobilization and oxidation is through movement.
+但我说的不是锻炼
+But I'm not talking about exercise.
+我所指的这种运动
+The type of movement that I'm referring to,
+是非常微妙的
+is extremely subtle.
+你们中的一些人可能对这种运动很熟悉
+And some of you may be familiar with this type of movement,
+但我猜你可能不太熟悉
+but I'm guessing you're probably not familiar
+我要告诉你的事
+with what I'm about to tell you,
+颤抖或颤抖是一种强烈的刺激
+which is that shiver or shivering is a strong stimulus
+为了将肾上腺素释放成脂肪
+for the release of adrenaline epinephrin into fat
+以及脂肪氧化和动员的增加
+and the increase in fat oxidation and mobilization.
+但颤抖不仅仅是由寒冷引起的
+But shiver is not just induced by cold,
+还有其他微妙的运动形式
+and there are other subtle forms of movement
+这能极大地促进脂肪代谢和脂肪流失
+that can greatly increase fat metabolism and fat loss.
+在20世纪60年代和70年代的英格兰有一个团体
+There was a group in England during the 1960s and 70s
+发现了微妙的运动形式的途径
+that discovered a pathway by which subtle forms of movement
+可大大增加脂肪的流失
+can greatly increase fat loss.
+这是罗思韦尔和斯托克的研究作品
+This is the work of Rothwell and Stock.
+它在生热文献中很有名
+It's very famous in the thermogenesis literature.
+我很早就知道
+And I learned about this early on,
+当我还是本科生的时候  我问
+when I was an undergraduate and I asked,
+他们是怎么发现的?
+how did they come across this?
+故事是这样的
+And here's how the story goes.
+他们意识到有些人吃得过多
+They were aware that some people overeat
+但依然不会发胖
+and yet don't put on weight.
+有些人甚至吃多了一点点
+Other people overeat even just a little bit
+它们似乎会积聚额外的脂肪组织
+and they seem to accumulate extra adipose tissue.
+这比所有其他的讨论都要早得多
+Now, this is long before all the discussions
+比微生物群和激素因素等早得多
+about microbiome and hormone factors, you know
+那是很久以前
+it was long before many of the hormone factors
+甚至在发现胰岛素之前
+besides insulin had even been discovered.
+他们做的是检查那些吃得过多
+What they did was they examined people who overate
+并且体重没有增加的人
+and did not gain weight.
+他们观察到这些人
+And what they observed was that those people engaged
+在一天中有很多微妙的动作
+in lots of subtle movement throughout the day.
+换句话说  他们坐立不安
+In other words, they were fidgeters.
+他们就是这么报告的
+And that's what they call them.
+我不会用英式口音说“坐立不安”
+I'm not going to do the British accent version of fidgeters.
+但罗斯和斯托克是英国人
+But Roth and Stock were British.
+他们发现吃得很多
+What they found were people that overeat
+并且没有因此增加体重的人
+but don't gain weight as a consequence.
+事实上  很多人体内脂肪含量很低
+And in fact, many people who had low levels of body fat
+有很多静息性震颤
+had a lot of resting tremor,
+不是帕金森氏症
+not of the Parkinsonian type,
+但他们坐着的时候会弹跳膝盖
+but they would bounce their knee while they were sitting,
+当他们交谈时
+when they would talk,
+它们会进行非常有角度的运动
+they would engage in very angular movements,
+他们有点像触电一样
+they were sort of electric.
+事实上  在科学领域
+In fact, now in science,
+我一边讨论这部文献
+I was chuckling about this as I was diving back
+一边暗自发笑的原因是
+into this literature,
+因为前几天我听了一场精彩的演讲
+because the other day I heard a wonderful lecture
+和我的一个同事谈了一个完全不同的话题
+on a totally different topic from a colleague of mine
+我们都崇拜他
+and we all adore him.
+他在欧洲
+He's over in Europe
+他是一位非常成功的科学家
+and he's this tremendously successful scientist.
+所以我们喜欢取笑他
+So we like to poke fun at him.
+他的每一个动作都充满了电
+And every one of his movements is incredibly electric
+富含断点
+and staccato.
+他很瘦  但吃起来像匹马
+And he's rail thin and he eats like a horse.
+所以他这个人就是验证了这个发现
+And so it fits very well into the discovery
+罗斯威尔和斯托克的发现
+of Rothwell and Stock who discovered
+那些坐立不安的人  抖腿的人
+that fidgeters people that bounce their knee,
+在听别人说话的时候
+people that have a head bob while they're listening,
+经常点头的人
+people that nod a lot,
+那些整天站一会儿坐一会儿的人
+people that stand up and sit down a lot throughout the day,
+有这种生活速度的人
+and people that pace burn anywhere from 800
+比对照组多消耗800-2500卡路里
+to 2,500 calories more than the control group
+在他们观察的实验中
+in the experiments that they looked at.
+事实上  这是一个现代的视角
+And indeed, there's been a modern look into all this,
+这些数字证实了
+and these numbers check out
+只是四处走动
+that simply moving around a lot,
+即使这些是微妙的动作
+even if those are subtle movements,
+会大大增加你消耗的能量
+greatly increases the amount of energy that you burn.
+吃的很多的人
+And people who overeat,
+能吃到第二个或第三个甜甜圈的人
+the people who can have the second or the third doughnut
+经常吃甜甜圈  体重似乎也没有那样子增加
+or doughnuts at all and don't seem to put on weight to the same degree,
+他们是即使坐着也会到处动的人
+they are people that move around a lot even when seated.
+他们是经常活动四肢
+They're are people that will often move their limbs
+非常快的人
+very quickly as well.
+甚至有研究探索了其他东西
+There even have been studies that have explored other things
+这与细微动作有关
+that correlate with fidgeters.
+一节课结束时  坐立不安的人会很快站起来
+Fidgeters stand up very quickly at the end of a lecture
+或者他们开始很快地收集东西
+or they start to gather their things very quickly,
+而不坐立不安的人则不然
+whereas non fidgeters don't.
+所以像我的斗牛犬科斯特洛这样的狗  绝对不会坐立不安
+So dogs like my bulldog Costello, definitely not a fidgeter.
+每一个动作都非常缓慢和从容
+Every movement is incredibly slow and deliberate.
+坐下来是一个漫长的过程
+Sitting down as a process,
+如果你让他坐下  然后他好像在做慢动作
+if you ask him to sit down and sort of a slow motion.
+你叫他起来
+You ask him to get up
+他看着你  叹了口气  站了起来
+and he kind of looks at you sighs and stands up.
+坐立不安的人正好相反  对吧?
+The fidgeter is the opposite of that, right?
+你说  你怎么样?
+You say, how are you doing?
+他们说,好
+They go, great.
+所以有时他们的讲话速度也会加快
+So even sometimes their speech will be accelerated
+虽然不总是正确的
+although not always.
+但是断点的动作  细微动作等等
+But staccato movements, fidgeting, et cetera.
+在2015年和2017年
+And in 2015, and again in 2017,
+已经有研究对此进行了探索
+there've been studies that have explored this,
+使用一些现代代谢追踪
+using some modern metabolic tracking
+事实上  仅仅是移动了很多
+and indeed simply moving a lot,
+当坐立不安的人  摇晃膝盖
+being a fidgeter, bouncing your knee,
+站起来  踱步几次
+standing up and pacing several times
+或者一天中多次
+or many times throughout the day
+减少了大量的脂肪和体重
+led to considerable amounts of fat loss and weight loss
+而且前提是人们摄入了等量的食物
+when people were ingesting the same amount of food,
+如果他们吃多了  他们能够补偿
+if they overate, they were able to compensate
+然后把食物热量消耗掉
+and burn off that food.
+如果他们想减肥
+And if they were trying to lose weight
+他们采用了细微动作的方法
+and they incorporated this fidgeting protocol
+故意坐立不安
+of deliberately trying to fidget more
+在白天四处活动
+and move around during the day,
+踱步  快点站起来
+pace, stand up more quickly,
+多坐下来
+sit down more often,
+更经常地坐下来和站起来
+sit down and stand up more often rather.
+他们发现他们的减重大大增加了
+They found that they greatly increased their weight loss
+20%到30%的增长
+anywhere from 20 to 30% increases.
+在某些情况下  总有那么几个人
+And in some cases, you know, there always those few people
+消耗得更多的人
+who burned a lot more.
+它似乎对一种人最有效
+It seems to work best in people
+就是那些已经稍微超重了
+who are already slightly overweight.
+所以对于超重的人来说
+So for people that are overweight,
+不喜欢运动的人
+who are kind of averse to exercise,
+细微动作可能是一个很好的切入点
+fidgeting might actually be a good entry point.
+800到2500卡路里是相当可观的
+And 800 to 2,500 calories is a considerable amount
+你可以认真考虑一下
+of calories when you really think about it.
+我为什么要告诉你这些?
+Now, why am I telling you this?
+显然有一个工具可以从这里提取出来
+Well, there's clearly a tool to export from this,
+那就是你可以增加卡路里的燃烧量
+which is that you can increase the amount of calories burned
+不需要进行额外的长距离跑步
+without having to go on additional long runs.
+我确实希望人们能定期锻炼
+I do hope that people are exercising regularly
+因为它对大脑的其他方面
+because it's so important for other aspects of brain
+对身体健康非常重要
+and body health.
+但无论如何  我们的时间都是有限的
+But nonetheless, we are all time limited
+我们并不是所有人都准备好接受锻炼
+and we are not all so ready to embrace exercise.
+我有一个家庭成员  他被慢慢地哄着
+I have a family member who has been slowly coaxed
+开始锻炼了
+into exercise,
+但如果我告诉她  比如说
+but if I were to tell her, for instance,
+你得多动动  细微动作  她可能会同意的
+you need to fidget more, she'd probably go for it.
+所以这是增加卡路里消耗的有效方法
+So this is a powerful way to increase the calories that are burned.
+那么  这太好了
+Now, that's great.
+你可以考虑一下这个工具方法
+And you can think about the protocols.
+但我想嵌套那个工具方法
+But I want to nest that protocol
+与我之前说的联系起来
+in what I said before,
+也就是   脂肪是由这些神经元控制的
+which is that, fat is controlled by these neurons
+以及它们释放的肾上腺素
+and the epinephrin they release.
+你可能会说  这些微小的动作
+You might say, well, how could these little micro movements
+导致这么多卡路里的燃烧?
+lead to so much caloric burn?
+这才是真正有趣的地方
+And that's where it really gets interesting.
+罗思韦尔  斯托克和其他与他们合作的人
+Rothwell and Stock and others that they worked with,
+后来发现  这些小小的烦躁动作
+subsequently found that these little fidgety movements,
+我们肌肉组织某些方面的参与
+the engagement of certain aspects of our musculature
+这和锻炼一点都不像
+that are nothing like exercise.
+不是那些协调或有节奏的大型的身体动作
+It's not these large coordinated or rhythmic body movements,
+而是非常微妙的一点点不安的动作
+but rather subtle little bits of fidgety movement.
+这里我做了很多不安的动作作为例子
+And here I am doing a lot of fidgety movement as an example,
+敲笔之类的
+tapping the pen, this kind of thing.
+我可能是班里大多数时候的那个孩子
+I was probably that kid in class most of the time.
+我想  我尽量不去激怒别人
+And I was like, I try not to do it to irritate people,
+但我绝对是个抖腿的人
+but I was definitely a knee bouncer.
+我不是特别瘦
+I'm not particularly lean or not.
+但我绝对是…
+But I was definitely...
+这对我来说是很常见的活动
+This is a common activity for me.
+做这种事的人
+People that do that sort of thing,
+事实证明  这并不是那种
+it turns out that it's not the kind of caloric burn
+我们通常认为的热量消耗
+that we normally think of,
+比如  跑步  举重
+of like, oh, you'll running, lifting weights,
+游泳  瑜伽  等等
+swimming, yoga, et cetera.
+我们核心肌肉组织的微妙运动
+Those subtle movements of our core musculature,
+不只是核心  还有我们所有的四肢
+not just the core, but all our limbs
+我们的肌肉组织,
+and our musculature,
+那些低水平的运动
+those low level movements,
+它们会触发这些神经元释放肾上腺素
+they trigger epinephrin release from these neurons,
+它们刺激脂肪的流动
+and they stimulate the mobilization of fat.
+然后脂肪以更高的速度被氧化
+And then that fat is oxidized at higher rates.
+我觉得这很有趣
+And I find this fascinating.
+我希望更多的人知道它
+I wish more people knew about it,
+所以我今天才告诉你
+which is why I'm telling you about it today.
+这和在传统形式的锻炼没有任何关系
+This has nothing to do with exercise in the traditional form,
+但每天却有800到2500卡路里的热量被消耗
+and yet 800 to 2,500 calories per day.
+这是相当多的脂肪被氧化了
+That's a considerable amount of fat oxidized.
+如果你处于卡路里维持模式
+If you are in a calorie maintenance mode
+或者如果你是低热量的
+or if you're sub caloric,
+这还会增加额外的脂肪损失
+that's going to add to it still additional fat loss.
+这方面的数据非常多
+The data on this are tremendous.
+我会链接一些研究
+I'll link to a few studies.
+如果你真的对学习感兴趣的话
+If you're really interested in learning
+关于所谓的NEAT
+about what's called neat.
+N-E-A-T 也就是  非运动活动生热作用
+N-E-A-T which is non-exercise activity thermogenesis.
+NEAT
+那么工具方法是什么?
+So what's the protocol?
+细微动作
+Fidget.
+如果你真的想燃烧卡路里的话
+If you're really interested in burning calories
+你已经锻炼了
+and you already exercise,
+你想燃烧更多卡路里
+you want to burn more
+或者你没有机会锻炼
+or you don't have the opportunity to exercise
+或者你因为某种原因不愿意锻炼
+or you're averse to exercise for whatever reason,
+坐立不安  动作  断奏动作
+fidgeting, movements, staccato movement,
+站起来  四处走动  踱步
+standing up, walking around, pacing,
+诸如此类的神经活动
+all the sort of nervous activities
+有的时候会对部分人
+that were so critical of other people
+有时在我们自己身上非常重要
+and sometimes in ourselves
+实际上是在动员和氧化
+are actually mobilizing and oxidizing
+大量脂肪和能量
+a lot of fat and a lot of energy.
+虽然这可能无法弥补
+And while this probably won't compensate
+慢性暴饮暴食,
+for chronic overeating,
+由此产生的热量消耗仍然相当大
+the caloric burn from this is considerable,
+很可能还能抵消一顿
+and very likely can offset a meal
+含有过多的卡路里的饭
+that had excessive calories
+或者是一种吃得太多的稳定状态
+or a kind of steady state of eating too much.
+它也开始打开各种各样的想法与讨论
+And it also starts to open up all sorts of thoughts
+你旅行的时候
+and discussion about when you travel,
+你倾向于吃外面的食物
+you tend to eat foods that are kind of outside
+正常的人
+your normal ones.
+我们往往会吃一些对身体不好的食物
+We tend to eat foods that aren't so great for us,
+我们也更倾向于久坐
+we also tend to be a little bit more sedentary
+当我们旅行时  我们在飞机上  等等
+when we travel we're on the plane, et cetera.
+但撇开这些不说
+But all of that aside,
+只是使用一些低强度的动作
+just the use of something like low-level movement.
+就像在颤抖
+And it's almost like a tremor,
+但也有选择短的  小的烦躁的动作
+but also these select short, small fidgety movements.
+我今天特意做了很多
+I'm intentionally doing a lot of these today.
+这都是一些例子  你们可以用
+So you have examples that you can use
+可以选择
+to select from if you like.
+这些对减肥有很大的影响
+These can have a major effect on fat loss
+这引出了第二个工具
+and it raises a second tool.
+如果这些低  意味着这些小的运动
+If these low, meaning these small movements
+触发肾上腺素的释放
+that we engage in trigger epinephrin adrenaline release
+来自交感神经系统的神经元
+from these neurons of the sympathetic nervous system
+刺激脂肪并增加
+that innervate fat and increase
+脂肪动员和氧化
+fat mobilization and oxidation.
+那么  我们应该明白为什么
+Now, it should make sense why shivering
+发抖是最强烈的刺激之一
+is one of the strongest stimuli
+它可以促进脂肪的减少
+that one can incorporate to stimulate fat loss.
+发抖几乎总是和寒冷联系在一起
+Now, shivering is almost always associated with cold.
+我们想到发抖  想到寒冷
+We think shivering, we think cold,
+因为当我们冷的时候  我们会发抖
+because when we get cold, we shiver.
+发抖可以通过两种方式减脂
+And there are two ways that shivering can increase fat loss.
+有几种方法可以使用颤抖
+And there are several ways that you can use shivering,
+你可以利用颤抖
+you can leverage shivering
+你可以利用寒冷来加速脂肪的减少
+and you can leverage cold to accelerate fat loss.
+但你必须正确地去做
+But you have to do it correctly.
+大多数使用冷的人
+And most of the people that are using cold
+坦白地说
+and frankly suggesting cold
+作为一种增加新陈代谢的方法来减肥
+as a means to increase metabolism fat loss
+提出了完全错误的方案
+are suggesting the exact wrong protocol.
+事实上  我要推荐的是180度
+In fact, the one I'm going to recommend is 180 degrees
+与典型工具方法的方向相反
+in the opposite direction to the typical protocol
+你会听到的
+that you'd hear about.
+我们来谈谈如何使用寒冷
+So let's talk about how to use cold
+以及如何利用颤抖作为一种特别强大的刺激
+and how to leverage shiver as a particularly strong stimulus
+通过动员和氧化来增加脂肪的流失
+to increase fat loss through mobilization and oxidation
+这些脂肪酸
+of these fatty acids.
+所以近年来  人们的兴趣越来越浓厚
+So in recent years there's been a growing interest
+用冷来达到各种目标  比如
+in the use of cold for various things like,
+提高抗压力能力
+improving stress tolerance,
+改善新陈代谢  从运动中恢复
+improving metabolism, recovery from exercise.
+我已经在本播客中讲过很多
+I've talked about a number of those things
+关于寒冷的用法
+and the uses of cold on this podcast.
+事实上  之前做过一集关于如何提高运动性能的播客
+In fact, did an episode on how to supercharge performance
+通过 冷却手掌
+through palmer cooling, cooling the palms
+或者是脚的底部
+in specific ways or the bottoms of the feet.
+如果你对此感兴趣
+And if you're interested in that,
+以及如何提高耐力和力量
+and how to improve performance in endurance and strength,
+你可以看看那集EP 19
+you can check out that episode.
+但大多数人都使用冷暴露
+But most people out there are using cold exposure
+通常是洗冷水澡
+typically by taking cold showers
+或者进入另一种冷水中
+or by getting into cold water of some other kind,
+一个湖或一条河或一个冷水浴或冰浴
+a lake or a river or a cold bath or an ice bath.
+他们这样做的目标可能有好有坏
+And they are doing that probably with mixed goals,
+这意味着他们都想加快新陈代谢
+meaning they both would like to increase their metabolism
+燃烧脂肪  同时提高心理弹性
+and burn fat, as well as improve mental resilience.
+但因为今天我们讨论的是加速减肥
+Since today, we're talking about accelerating fat loss
+通过使用基于科学的工具
+through the use of science-based tools.
+我想强调一项发表在《自然》杂志上的研究
+I want to emphasize a study that was published in nature
+就在几年前
+just a couple of years ago,
+展示了寒冷如何促进新陈代谢和脂肪减少
+showing exactly how cold increases metabolism and fat loss.
+好吧?
+Okay?
+我们有好几种脂肪
+So we have several kinds of fat.
+实际上有三种
+Three kinds in fact.
+我们有白色脂肪  白色脂肪组织
+We have white fat, white adipose tissue,
+我们有棕色脂肪或棕色脂肪组织
+and we have brown fat or brown adipose tissue.
+第三种是米色脂肪组织
+And there's a third kind which is beige adipose tissue.
+白色脂肪是我们传统的脂肪类型
+White fat is the type that we traditionally
+就是我们所熟知的脂肪  皮下脂肪
+think of as fat, subcutaneous fat.
+而且它并不富含线粒体
+And it is not particularly rich in mitochondria.
+它是作为一个能量储存场所
+It is there as an energy storage site
+我们必须调动脂肪
+and we have to mobilize the fat out
+就像我们之前说过的  把它消耗了
+as we talked about before and burn it up elsewhere.
+棕色脂肪主要存在于肩胛骨之间
+Brown fat largely exists between our shoulder blades
+在我们脖子后面  肩胛骨之间
+and on the back of our neck, between the scapulae.
+它富含线粒体
+And it's rich with mitochondria
+这就是为什么它被称为棕色脂肪
+which is why it's called brown fat.
+棕色脂肪有一个特殊的生化级联
+And brown fat has a particular biochemical cascade
+它可以吸收食物能量
+whereby it can take food energy,
+它基本上可以消化食物
+it can take food, basically,
+在细胞内将其分解并转化为能量
+break it down and convert it into energy within those cells.
+还有一些额外的步骤
+And there's some additional steps involved,
+但与白色脂肪中的脂肪酸不同
+but unlike fatty acids from white fat
+白色脂肪要去别的地方游走
+which have to travel elsewhere
+在线粒体中分解
+get broken down in mitochondria
+转化成ATP  等等
+and convert into ATP, et cetera.
+由其他细胞的线粒体使用
+Used by the mitochondria rather.
+棕色脂肪是产热的
+Brown fat is thermogenic.
+它实际上可以直接使用能源
+It can actually use energy directly.
+它跳过了一步  我不想被转移
+It skips a step, and I don't want to get diverted
+这边不去研究它的生物化学
+by going into all the biochemistry of it.
+米色脂肪介于两者之间
+Beige fat is sort of in between.
+是白色脂肪  但可以是棕色脂肪
+It's white fat that could be brown fat,
+因为它有一些线粒体
+because it has some mitochondria in it,
+但没有棕色脂肪多
+but not as many as brown fat.
+暴露在寒冷中有几个作用
+Now, cold exposure does several things.
+让自己变冷可以让我们
+Making ourselves cold can allow us to build up
+增强心理弹性  因为任何形式的寒冷
+mental resilience because getting into cold of any kind,
+不管它是冷冻室
+doesn't matter if it's a cryochamber,
+就算天冷
+doesn't matter if it's a cold day
+你忘了带毛衣或皮大衣  也可以
+and you forgot your sweater or your parka.
+就算是冰浴也没关系
+It doesn't matter if it's an ice bath
+或者你躺在雪地里
+or you're lying down in the snow.
+寒冷会导致肾上腺素的释放
+Cold causes the release of adrenaline from your adrenals.
+它会导致从这些连接脂肪的神经元中
+And it causes the release of epinephrin
+释放出肾上腺素
+from these neurons that connect to fat.
+那么  寒冷对新陈代谢和脂肪消耗的巨大影响
+Now, the big effects of cold on metabolism
+有两种途径
+and fat burning are going to be through two routes.
+第一  如果你把自己暴露在寒冷中
+One, is that if you expose yourself to cold,
+你就有机会激活棕色脂肪
+you have the opportunity to trigger activation of brown fat
+也能将更多的米色脂肪转化为真正的棕色脂肪
+as well as to convert more beige fat into true brown fat.
+所以你实际上创造了一个更强或更热的熔炉
+So you essentially create a stronger or a hotter furnace.
+这就是棕色脂肪的概念
+That's the way to think about brown fat.
+就像火炉一样
+It's like a furnace.
+这个原则也是如此
+And so with this principle
+我们从摄入卡路里和燃烧卡路里开始
+that we started with a calories in versus calories burned.
+你所做的是在增加
+What you're doing is you're increasing the amount
+消耗的量
+of burning,
+你增加了能量的燃烧
+you're increasing the burn of energy
+通过增加你体内的热度
+by increasing the intensity of the heat inside you
+可以这么说
+so to speak.
+好吧?
+Okay?
+我只是打个比方
+I'm talking here kind of metaphorically.
+怎么做呢?
+Now, how can you do that?
+好吧  如果你在冷水里
+Well, if you get into cold water
+或者冰浴  或者寒冷的一天
+or an ice bath or a cold day,
+你试着保持冷静  抵抗颤抖
+and you try and remain calm and resist shivering,
+实际上就是破坏
+you actually short circuit
+增加棕色脂肪生热作用的机制
+this mechanism for increasing brown fat thermogenesis.
+发表在《自然》杂志上的论文显示
+The paper published in nature shows
+发抖本身
+that it is shivering itself
+这会导致棕色脂肪增加消耗
+that causes the brown fat to increase your burning,
+你的消耗速度和新陈代谢
+your burn rate and your metabolism.
+它是这样运作的
+And it works like this,
+当你感到寒冷和颤抖时
+when you get into cold and you shiver,
+肌肉的低水平运动
+the shivering that low level movement of the muscle,
+这些小的运动触发了一个分子的释放
+those small movements triggers the release of a molecule
+琥珀酸
+called succinate.
+S-U-C-C-I-N-A-T-E,琥珀酸
+S-U-C-C-I-N-A-T-E, succinate.
+琥珀酸会对棕色脂肪起作用
+And succinate acts on the brown fat
+增加棕色脂肪的生热作用和整体脂肪燃烧
+to increase brown fat thermogenesis and fat burning overall.
+它实际上增加了身体的热量
+It actually increases body heat
+通过这个棕色脂肪生热途径
+through this brown fat thermogenesis pathway.
+随着时间的推移  它还会增加棕色脂肪的数量
+And it also over time can increase the amount of brown fat
+通过将米色脂肪转化为真正的棕色脂肪
+by converting beige fat into true brown fat.
+那么  要多少寒冷暴露呢？  多久一次?
+Now, how much cold exposure and how often?
+这是关键
+That's the key.
+但在我给出细节之前
+But before I give that detail or set of details.
+记住  如果你抵抗住颤抖
+Remember if you resist the shiver,
+你不会得到增加新陈代谢的效果
+you are not going to get the increased metabolic effect,
+因为你不会得到琥珀酸的释放
+because you are not going to get the succinate release.
+所以如果你想获得身体的热量
+So if you want to get your body heat,
+让你的生热水平上升
+your thermogenic level to go up,
+你需要颤抖
+you need to shiver.
+现在我们有了NEAT
+So now we have the NEAT,
+非运动活动生热作用
+the non-exercise activity thermogenesis.
+正如我之前所描述的低水平活动
+So low levels of activity as I described before,
+都跟低温没什么关系
+which are done away from cold,
+也可以冷着做
+maybe do them in cold as well.
+也会因为寒冷而颤抖
+As well as shiver in response to cold.
+因此  颤抖本身是有价值的
+And so the shiver itself is valuable
+可以触发琥珀酸的释放
+for triggering the release of succinate.
+事实上  琥珀酸正在
+In fact, succinate is being evolved now
+被不同的药品制造商采用
+by various drug manufacturers
+作为一种潜在的治疗肥胖症的方法
+as a potential treatment for obesity.
+虽然它还没有真正进入市场
+Although it hasn't really hit the market
+没有一个最终形式
+in its final form yet.
+琥珀酸对棕色脂肪有很好的效果
+Succinate is powerful for its effects on brown fat.
+那么你一周需要几次
+So how many times a week do you need
+把自己暴露在寒冷中呢?
+to expose yourself to cold?
+取决于你想减掉多少脂肪
+Will depend on how much fat you're trying to lose,
+以及你想要增加多少新陈代谢
+and how much you're trying to increase your metabolism.
+有一些研究描述了减肥的积极效果
+There are studies that describe positive effects on fat loss
+把自己暴露在寒冷中
+of exposing yourself to cold,
+可以用冷水浴  也可以用冰浴
+either through cold shower or through ice bath
+或其他冷水
+or other cold water.
+里面不一定要有冰
+It doesn't have to actually have ice in it,
+只要天气够冷  随时随地
+provided it's cold enough for anytime, anywhere,
+一周1-5次
+excuse me, between one and five times per week.
+但事实证明每周只有一次
+But it turns out that just one exposure per week
+可以是有价值的
+can be valuable.
+现在的问题是  我们要坚持多久
+The question then is how long to get
+在那种寒冷的环境中?
+into that cold environment?
+环境应该有多冷?
+And how cold should that environment be?
+首先  我们来谈谈
+So first let's talk about how long
+在那种寒冷的环境中呆多久?
+to get into that cold environment?
+答案可能
+The answer here might be a little bit different
+与你想象的有点不同
+than you might imagine.
+你们大多数人可能会想
+Most of you might think,
+如果一分钟好  三分钟更好
+oh, well if one minute is good, three minutes is better,
+那么十分钟肯定比三分钟效果更好  是最好的
+and if three minutes is better than 10 minutes is best.
+但要记住  我们的目标是让你颤抖
+But remember the goal is to get the shiver induced
+触发琥珀酸的释放
+release of succinate,
+琥珀酸会引发棕色脂肪
+so that succinate can trigger the brown fat.
+事实证明  如果你想引发颤抖
+It turns out that if you want to trigger the shiver,
+你想做的就是进入寒冷的环境
+what you want to do is to get into the cold
+然后从寒冷中走出来  通常不要擦干
+and then get out of the cold and typically not dry off,
+然后回到寒冷的地方  又从寒冷中出来
+and then get back into the cold and out of the cold,
+那肯定会刺激更多的颤抖
+that will definitely stimulate more shivering
+而不是直接进入寒冷的环境
+than just getting into the cold itself.
+我指的不是
+So what I'm not referring to,
+进入寒冷的环境  比如说冰浴
+is getting into the cold environment like an ice bath
+等待直到你颤抖  呆在那里发抖
+and waiting until you shiver and staying there shivering.
+好吧?
+Okay?
+你也不想体温过低
+You also don't want to get hypothermic.
+我想澄清一下
+And I want to be clear.
+你需要得到医生的批准
+You want to get approval from your doctor
+在你做这些之前
+before you do any of this.
+当你进入冰冷的水中
+When you get into cold water,
+有两个因素会决定
+there are two factors that will dictate
+你是否会颤抖
+whether or not you shiver.
+可能三个
+Probably three,
+但我们只讨论主要的两个
+but let's just talk about the main two.
+一是水有多冷
+One, is how cold it is.
+那么应该有多冷呢?
+So how cold should it be?
+看  如果你进入水里  那是非常非常冷的
+And look, if you get into water, that's very, very cold.
+它可以直接让你的心脏一怔
+It can actually shock your heart.
+它会让你心脏病发作
+It can actually give you a heart attack
+如果真的很冷
+if it's truly, truly ice cold,
+而你却不适应
+and you're not adapted to that.
+所以请谨慎行事
+So proceed with caution, please.
+我不是医生  我不想看到任何人受伤
+I'm not a physician and I don't want to see anyone get hurt.
+冷到让人不舒服
+Just cold enough to be uncomfortable
+是一个很好的开始
+is a good place to start.
+对你们中的一些人来说是60华氏度（约16摄氏度）
+So for some of you that's going to be 60 degrees,
+对你们中的一些人来说是55华氏度  （约13摄氏度）
+for some of you that's going to be 55 degrees,
+对你们中的一些人来说是30多华氏度（30华氏度约等于-1摄氏度）   好吧?
+for some of you it's going to be high thirties, right?
+这取决于你对寒冷的适应程度
+Depends on how cold adapted you are,
+人们对寒冷的耐受性也各不相同
+and people vary in terms of how well they tolerate the cold.
+所以你要做的就是找到一个温度
+So what you need to do is find a temperature
+你可以一周进入1-5 次
+that you can get into one to five,
+应该是一周1-3次
+probably one to three times a week.
+如果你真的想加速减肥的话
+If you really want this to accelerate fat loss.
+你要进去  直到你开始发抖
+And you want to get in until you just start to shiver,
+然后你要出去  不要弄干
+and then you want to get out and not dry off,
+等待一到三分钟不等
+wait anywhere from one to three minutes
+然后再回到寒冷的地方
+and then get back into the cold.
+那么  你会注意到当你回到寒冷的地方
+Now, you'll notice when you get back into the cold,
+这几乎会让人感到舒适
+it'll almost seem soothing,
+它实际上可能不会导致颤…
+it might actually not induce shiv...
+可能不会让你再颤抖了
+It might take away the shiver that you had.
+这是一种潜在的可重复的方案
+So here's a potential kind of sets reps protocol
+你可以使用的
+that you can play with.
+找到一个温度  然后诱导你颤抖
+Find a temperature then induce a shiver for you.
+这取决于你的耐寒性
+That's going to vary depending on your cold tolerance
+以及你对寒冷的适应能力
+and how cold adapted you are.
+一周1-3次,
+One to three,
+也许一周五次
+maybe five times a week,
+进入那个环境  直到你……
+get in until you...
+或者进入冲凉什么的
+Or get under the shower or whatever it is,
+直到你开始颤抖
+until you start to shiver.
+真正的颤抖
+Genuinely shiver.
+大约一分钟后  出去
+Then after about a minute or so, get out,
+出去一到三分钟  但不要擦干
+spend one to three minutes out, but don't dry off,
+回去待上一到三分钟
+get back in for anywhere from one to three minutes,
+但再试着进入颤栗点
+but try and access the shiver point again.
+你可以重复三次
+And you might do three repetitions of that.
+所以总共是3次进3次出
+So it's three times in and three times out total.
+这是一个很好的开始
+That's a great starting place.
+而你最好不要  很快就建立起忍耐力
+And what you don't want to do is build up your tolerance
+忍受寒冷
+to cold so fast,
+很快你就能抵抗住颤抖
+that pretty soon you're able to resist the shiver,
+因为记住  那个颤抖
+because remember the shiver
+是琥珀酸释放的来源
+is the source of the succinate release
+这会引发棕色脂肪的生热作用
+that will trigger brown fat thermogenesis.
+所以如果你想看详细的方案
+So if you'd like to see this protocol spelled out,
+你可以在网站上零成本地访问它
+you can access it zero cost at a website
+这是www.thecoldplunge.com
+which is www.thecoldplunge.com.
+Cold Plunge是一家生产冰水浴的公司
+The Cold Plunge is a company they make cold plunges,
+他们好心地给了我一个
+and they were kind enough to gift one
+给了HubermanLab播客一个冰水浴
+to the Human Lab Podcast.
+但我想强调的是  这些工具方法是免费的
+But I want to emphasize that these protocols are free of cost.
+Cold Plunge的人不仅感兴趣
+The folks at the Cold Plunge are not just interested
+营销他们的产品
+in marketing their product,
+但他们的主要兴趣之一是鼓励人们
+but one of their main interests is encouraging people
+对特定的时候暴露在寒冷中
+to engage in cold exposure for particular end points
+为了减肥、恢复力等目标
+and goals like fat loss, resilience, et cetera.
+抵抗炎症等
+Resisting inflammation.
+但他们的主要目标是为人们提供方案
+But their main focus is providing people protocols
+并鼓励人们使用各种冷暴露
+and encouraging people to use cold exposure of various kinds
+不仅仅是通过他们的产品
+not just through their products,
+而是穿过冰冷的河流  跳入大海
+but through cold rivers and jumps in the ocean
+比如洗冷水澡
+and things like cold showers,
+只要最方便就行
+whatever is most convenient
+对不同的人来说都是方便的
+and accessible for various people.
+所以我们需要一个可以
+And so we needed a place where we could house
+永久使用这些方案的地方
+these protocols in a permanent way,
+不仅仅是这一集
+and not just for this episode.
+但他们同意做的是
+But so what they've agreed to do is,
+在那里发布了各种方案
+to post the protocols there,
+应该很容易在他们的网站上找到
+they should be very easy to find on their website.
+我们指的是这个方案
+This particular protocol we're referring
+为脂肪消耗优化方案
+to as the fat loss optimization protocol
+因为没有更好的名字
+for lack of a better name.
+这是建立在寒冷的基础上的
+And it's really grounded in how cold
+它可以用来诱发颤抖
+it can be used to induce shiver.
+再说一次  这并不重要
+And again, it doesn't really matter
+你是如何得到寒冷的
+how you're accessing that cold,
+只要你能得到那个颤栗
+provided you access to the shiver,
+你从寒冷的环境中走出来
+and you're moving from the cold environment
+到一个稍微暖和一点的环境
+to a slightly warmer environment.
+洗完冷水澡
+So getting out of the cold shower
+或者从冰浴里出来  等等
+or getting out of the ice bath, et cetera,
+或者从冰冷的深渊中走出来
+or out of the cold plunge,
+然后再回来
+and then back in.
+因为事实证明冷却
+Because it turns out that the cooling
+身体重新升温的过程是颤抖的开始
+and rewarming process of the body is where shiver kicks in.
+这是截然不同与
+And so that's distinctly different
+仅仅是试图进入寒冷的环境
+than just trying to get into the cold
+尽可能长时间呆在寒冷的地方  这两者是不一样的
+and stay in the cold for as long as possible.
+如果你缩小一点
+And if you zoom out a little bit
+想想生活中的一些例子
+and think about some examples in life,
+你就会明白为什么会这样
+you'll understand why that must be the case.
+例如  经常在冷水中游泳的人
+For instance, people who do a lot of cold water swims,
+有这些“北极熊”俱乐部
+you have these polar bear clubs,
+我想他们是这样称呼自己的
+I think they call themselves.
+他们在冷水中游泳
+They do these cold water swims.
+我有时会看到这些人游来游去
+I would sometimes see these people swimming back and forth
+去恶魔岛之类的地方  这看起来很冒险
+to Alcatraz and stuff like that, which it seems risky.
+他们告诉我这很刺激
+and they tell me it's very stimulating
+对于精神和身体
+for the mind and body.
+太好了
+Great.
+有时这些人很瘦
+Sometimes those people are very lean,
+通常他们不瘦
+oftentimes they're not,
+他们暴露在寒冷中
+and they're getting a lot of cold exposure.
+发生的一件事是
+And one of the things that happens is,
+如果你一次又一次地暴露在寒冷中
+if you expose yourself to cold over and over,
+你会适应
+you adapt,
+你变得适应寒冷
+you become cold adapted.
+当你这样做的时候
+And when you do that,
+你不再得到肾上腺素
+you no longer get the epinephrine,
+因为寒冷释放出来的肾上腺素
+the adrenaline release from the cold
+因此你不会得到琥珀酸的释放
+and therefore you don't get the succinate release
+还有颤抖和棕色脂肪的生热效应
+and the shivering and the brown fat thermogenic effect
+并不会那么强烈
+quite as intensely.
+所以如果你想用冷来做其他事情
+So if you want to use cold for other reasons,
+当然  在冷水中游泳也很有趣
+and certainly cold water swims can be fun.
+你知道  只要你能安全地做
+And there's, you know, long as you can do them safely,
+这些运动非常好
+they're great.
+我曾经在冷水中
+I've gotten into cold water swimming
+游泳过一段时间
+for some period of time.
+你可以用冷来恢复身体  等等
+You can use cold for resilience, et cetera.
+但如果你想利用寒冷来减脂
+But if you want to use cold to increase fat loss,
+那么要用这种降温过程
+then getting this shiver process going the cooling
+受冷 再回暖  会加速
+and rewarming which accelerates the amount of,
+或者增加颤抖的程度
+or increases the amount of shiver.
+这才是正确的方法
+That's going to be the way to go.
+一个关于寒冷和一些
+One note about cold and some of the factors
+它释放的物质
+that it releases.
+几年前  有很多令人兴奋的研究
+A few years back there was a lot of excitement
+一种叫做鸢尾素的荷尔蒙
+about this hormone called irisin, I-R-I-S-I-N,
+这与寒冷有关
+which was associated with cold.
+大家都在研究这个
+And there was a lot of excitement
+关于它在促进新陈代谢方面的潜在作用
+about its potential role in increasing metabolism
+以至于人们开始探索
+so much so that people were starting to explore
+这是一种潜在的减肥药物
+this as a potential fat loss drug.
+据我所知  这毫无意义
+To my knowledge that went nowhere.
+科学最终转向了琥珀酸
+The science eventually shifted over to succinate
+它才是冷致生热的主要因素
+as the main factor in cold induced thermogenesis
+通过这个棕色脂肪通道
+through this brown fat pathway.
+但如果有人知道
+But if anyone out there is aware
+鸢尾素的积极作用
+of any positive effects of iricin
+或者任何我在这里忽略的鸢尾素的科学迹象
+or of any signs of irisin that I'm overlooking here,
+或者我说错了什么  请让我知道
+or that I'm speaking about incorrectly, please let me know.
+我很想知道
+I'd be very curious to learn.
+那么  我想再多谈谈棕色脂肪
+Now, I want to just talk about brown fat a little bit more,
+谈谈你生命中的一段时期
+and talk about a period in your life
+你体内富含棕色脂肪
+in which you were rich with brown fat,
+你体内有大量棕色脂肪
+you had a ton of brown fat,
+那是你还是个婴儿的时候
+and that's when you were a baby.
+婴儿不能颤抖
+Babies can't shiver.
+这些将肾上腺素释放出来到脂肪的神经元
+These neurons that release epinephrin into fat
+还没有完全形成
+are not wired up and really aren't present
+不在足够的水平或数量上
+at sufficient levels or in sufficient numbers
+当你还是个婴儿的时候
+when you are a baby.
+所以婴儿一样颤抖
+And therefore you can't shiver as a baby,
+在寒冷的环境中  婴儿也无法让自己很好地暖和起来
+and you can't warm yourself up in cold environments very well
+为了弥补这点
+To compensate for that,
+大自然赋予了我们所有人生命
+mother nature installed in all of us
+在生命早期棕色脂肪过多
+an excess of brown fat early in life
+它又出现在上背部
+that exists again in the upper back,
+还有后面的中间和脖子后面
+and the middle of the back and the back of the neck.
+如果我们不把自己暴露在寒冷的环境中
+Over time if we don't expose ourselves to cold environments
+或者做其他让人发抖的事情
+or do other things that make a shiver,
+我们减掉了很多棕色脂肪
+we lose a lot of that brown fat,
+但有趣的是棕色脂肪
+but what's interesting about brown fat
+有证据表明
+is that there's some evidence
+棕色脂肪和白色脂肪一样
+that brown fat just like white fat
+都可以增大尺寸
+can both increase in size,
+也可以添加新的细胞
+but that you can also add new cells.
+那么  有一点争议
+Now, there's a little bit controversial.
+人们总是说你无法改变脂肪细胞的数量
+People always say you can't change the number of fat cells,
+你可以缩小它们或增加它们的大小
+you can just shrink them or increase their size.
+结果发现肾上腺素释放了
+Well, it turns out that epinephrin released
+从这些褐色脂肪的小神经末梢
+from these little nerve endings in brown fat
+和琥珀酸在体内循环可能
+and succinate circulating in the body may
+我想强调一下“可能” 会有效果
+and I want to underscore may have the effect
+增加棕色脂肪细胞的数量
+of increasing the amount of brown fat cells
+可能是通过将这些米色脂肪细胞转化为棕色脂肪
+probably by converting these beige fat cells into brown fat.
+这让我们变得和早年一样
+So that allows us to become much as we were early in life,
+我们疯狂新陈代谢的青春期
+where we metabolized like crazy
+我们会让自己暖和起来  而不会发抖
+and we'd heat ourselves up without shivering.
+有些人把冷的东西发挥到了极致
+Some people have taken the cold thing to the extreme,
+把冰袋放在脖子后面
+putting ice packs on the back of their neck
+整整一天
+throughout the day.
+做了一集关于睾丸激素和雌激素的播客
+Did a episode all about testosterone and estrogen,
+这就是我们所说的  小众市场
+and there's this, let's just call it a very niche,
+我不得不说  是非常小众的
+I have to imagine very, very niche culture of people
+我没开玩笑
+who are wearing literally, I'm not joking.
+就是这些很冷的冰袋内裤
+They are these cool pack ice pack underpants.
+它们的名字我就不重复了
+They go by a name that I'm not going to repeat on here,
+但你可以在亚马逊上找到
+but you can find them on Amazon.
+这些人在身上使用冰袋
+Those are people that are using cold packs on the body
+在腹股沟上  试图增加一些东西
+and on the groin to try and increase things
+像睾丸激素之类的
+like testosterone.
+同时也试图增加生热作用
+But as well to try and increase thermogenesis
+并试图提高它们的新陈代谢
+and trying to increase their metabolism.
+只要记住  如果你适应了寒冷
+Just remember if you become cold adapted,
+你不会得到燃烧脂肪的效果
+you're not going to get the fat burning effects
+到同样的程度
+to the same degree.
+所以寒冷是减肥的有力工具
+So cold is a powerful tool for fat loss,
+但是你不想去适应
+but you don't want to adapt.
+这让人想起了一条规则
+This is reminiscent of a rule
+你在耐力训练中
+that you hear about in endurance exercise
+在力量锻炼中经常会听到的
+and in strength exercise as well,
+那就是  你想要使用小重量的有效刺激
+which is, that you want to use the minimal effective stimulus
+促进肌肉成长或进步
+to promote growth or progress.
+肌肉的生长或耐力的提高
+So growth of a muscle or improvements in endurance.
+如果你跑得更远或快  高于10%
+If you go 10% further on a run or 10% faster,
+你可能会看到性能的改善
+you will likely see an improvement in performance
+只要你下次继续的时候  能康复
+provided your recovery the next time you come back
+然后做同样的练习
+and do that same round of exercise.
+你就能做更多的训练
+You'll be able to do more work
+或者更容易地完成训练  等等
+or complete the work more easily, et cetera.
+你已经适应了
+You've adapted.
+如果你增加20%的距离或20%的重量
+If you do 20% more distance or 20% more weight,
+你不一定会看到跟10%小重量
+you won't necessarily see the same
+同样的结果  获得或改善的程度
+commiserate level of gain or improvement.
+寒冷也是如此
+And so likewise with cold,
+如果你要把30秒的寒冷
+if you're quickly moving from 30 seconds of exposure
+增加至10分钟
+to 10 minutes of exposure,
+你就错过了  通过以较小的增量来获得最大的脂肪损失
+you're overlooking the opportunity to get the most fat loss
+和加速新陈代谢
+and increase in metabolism by stepping it up
+的机会
+in smaller increments.
+好吧?
+Okay?
+这也说明了理论基础
+And this also speaks to the rationale
+利用冷暴露加速减肥
+for using cold exposure to accelerate fat loss
+对于特定的时期,
+for certain periods,
+但不要一年到头都这样做
+but then maybe not doing it year round.
+只要你的目标是减肥
+If fat loss is your goal,
+可能两三个月试一次
+maybe use it for two, three months at a time
+然后停两三个月
+and then stop for two, three months at a time,
+因为它是如此有力的刺激
+because it is such a potent stimulus
+只要你打个哆嗦就行
+provided you engage in the shiver.
+接下来我想谈谈锻炼以及具体的时间安排
+Next I'd like to move to exercise and how particular timing
+以及不同类型的可以极大的减脂的运动
+and types of exercise can vastly improve fat loss.
+在这之前
+Before I do that,
+我想提一个非常重要的参考资料
+I just want to mention a really important reference
+如果你们有兴趣了解更多
+for those of you that are interested in learning more about
+神经元是如何与脂肪连接的?
+how neurons connect to fat?
+这是一篇你们可以去看的论文
+This is certainly a paper that you'd want to look at,
+如果你有兴趣深入研究科研论文
+if you're interested in diving deep into the literature
+阅读各种各样的研究
+and reading all the various studies.
+这是一个评论性刊物
+It's a review.
+题目是白色脂肪组织的
+And the title of the review is neural innervation
+神经支配和脂肪分解的控制
+of white adipose tissue and the control of lipolysis.
+“白色脂肪组织的神经支配和脂肪分解的控制”
+That's neural innervation of white adipose tissue and the control of lipolysis.
+该研究发表在《神经内分泌学前沿》杂志上
+It was published in Frontiers in Neuroendocrinology.
+你可以在网上免费找到
+You can find that free online.
+他们有全文
+They have the full text available.
+第一位作者是Bartness, B-A-R-T-N-E-S-S
+The first author is Bartness, B-A-R-T-N-E-S-S.
+这是一篇很棒的评论
+It's a great review.
+我讲过很多东西
+And I've talked about a number of things
+都在这篇评论中提到
+that are mentioned in the review.
+参考那篇评论中的参考文献
+Follow the references in that review
+我们所说的参考线索
+and the reference trail as we say,
+如果你有兴趣了解更多
+if you're interested in learning more about
+神经元如何控制棕色脂肪
+also how neurons control brown fat.
+在我开始讲锻炼之前
+And before I moved to exercise,
+我还想强调一点
+I also just want to highlight something
+每隔几年就会出现一次
+that comes up every few years
+现在大部分被认为是错误的
+and has largely been considered myth now,
+但这实际上
+but that is actually more interesting
+比大多数人想的要更有趣
+than most people might think,
+这就是“局部瘦身”
+which is this issue of spot reduction.
+在八九十年代
+You know, in the 80s and 90s,
+有很多广告
+there were a lot of commercials,
+深夜商业信息广告
+late night infomercials,
+他们会讨论局部瘦身
+where they would talk about spot reduction.
+比如说  如果你做仰卧起坐  你可以减掉腹部脂肪
+If you do sit ups, will you lose abdominal fat?
+如果你做臀部抬高或臀大肌抬高
+If you do hip raises or glute raises,
+你可以减掉臀部的脂肪
+will you lose gluten hip fat.
+我想现在每个人都相信
+And I think everybody knows now believes that,
+了解脂肪代谢
+and understands that fat metabolism
+是全身系统发生的事情
+is something that happens systemically throughout the body.
+有些身体脂肪与其他部位相比
+That some body fat is quote unquote more stubborn
+更顽固
+than others.
+每个人储存脂肪的地方都不一样
+Everyone varies in where they tend to store fat
+或者最后减肥
+or lose fat last.
+影响它的因素很多
+Number of factors that influence that,
+尤其是荷尔蒙受体
+and in particular hormone receptors.
+但现在至少在科学文献中
+But now at least in the scientific literature,
+局部瘦身
+spot reduction and the possibility of real
+以有针对性的方式减脂的可能性
+true spot reduction reductions in fat in a targeted way,
+有针对性的身体部位或身体区域
+a body part or body area targeted way
+正在变得越来越现实  可能很快就会成为现实
+is becoming more of a reality and may be a reality soon,
+因为锻炼会触发激活
+because exercise that triggers the activation
+这些神经纤维
+of these nerve fibers,
+这些支配脂肪的神经元
+these neurons that innervate fat.
+理论上  如果你能增加肾上腺素的含量
+In theory, if you can increase the amount of epinephrin
+被释放在所谓的"脂肪垫"上
+released at those particular fat pads as they're called,
+它们实际上在科学文献中
+they're actually called fat pads
+叫做"脂肪垫"
+in the scientific literature.
+理论上  你可以增加
+In theory, you could increase mobilization
+特定的身体脂肪部位的动员
+from those particular body fat sites.
+因为新的观点  现代的理解
+So because the new view that the modern understanding
+肾上腺素系统不是在系统地释放
+is that it's not adrenaline released systemically
+不是覆盖住你的全部脂肪组织
+kind of bathing all your fat tissue,
+而是释放肾上腺素的局部神经元
+but rather its neurons releasing adrenaline
+理论上
+epinephrin locally that in theory,
+刺激肾上腺素释放的运动
+exercise that stimulates the release of epinephrin
+或者运动时伴有颤抖
+or exercise coupled with things like shiver
+或者轻微的震动运动
+or low grade shaking movement,
+或者NEAT  非运动生热作用
+or the NEAT, the non-exercise activity thermogenesis
+理论上能导致局部增强
+could in theory lead to local enhancement
+脂肪组织的动员
+of mobilization of fat tissue.
+所以我认为  局部瘦身
+So I think that spot reduction
+实际上很快就会成为可能
+actually will soon be something that's possible
+使用适当的技术
+using the appropriate technology.
+这对你来说意味着什么?
+What does this mean for you now?
+你现在能拿这个信息做什么呢?
+What could you possibly do with this information now?
+我觉得按照事实来说
+Well, I think it speaks to the fact
+如果一个人要参加锻炼
+that if one is going to engage in exercise
+做一些涉及到
+that doing exercises that involve
+很多不同的身体部位和动作
+lots of different body parts and movements
+可能会促进并维护
+is likely to encourage the maintenance
+这些神经元的生长
+and or growth of these neurons
+支配全身的脂肪
+that innervate fat throughout the body.
+这意味着改变锻炼模式
+What this means is changing up the pattern of exercise,
+进行新颖的运动
+engaging in novel types of movements
+可能是一种途径
+may actually be one way that one can access
+去让这些所谓的顽固体脂垫
+these so-called stubborn body fat pads.
+那么  在我的陈述中
+Now, there's a little bit of speculation
+是带有一点猜测的
+in the statement that I'm making,
+但如果你仔细想想  这是有道理的
+but if you think about it it makes sense.
+如果你变得非常适应一种特定的锻炼模式
+If you become very adapted to a particular pattern
+某种锻炼
+of exercise,
+不管你是不是低热量的
+whether or not you're subcaloric or not,
+你需要维持热量
+you're on maintenance calories are not,
+你总是在氧化一些脂肪
+you are oxidizing some fat always,
+你在利用支配脂肪的神经元
+and you're utilizing the neurons that innervate fat
+有规律地
+in a regular way.
+很快  神经支配就会关闭
+And pretty soon this innervation is going to shut off,
+因为没有理由神经支配脂肪
+because there's no reason why this neural innervation of fat
+应该继续释放肾上腺素吗
+should continue to release epinephrin
+除非你给它强烈的刺激  比如冷
+unless you give it a strong stimulus like cold
+或者细微动作  或者在这个例子中
+or the fidgeting or in this case
+做一些新奇的运动
+to do novel forms of exercise.
+这里有一些轶事证据
+And there's some anecdotal evidence
+我甚至不想称之为数据
+and I don't even want to call it data,
+但坊间证据表明
+but anecdotal evidence that people who have,
+顽固的身体脂肪
+quote on quote stubborn body fat,
+如果他们开始采用新的锻炼模式
+if they start to adopt new patterns of exercise,
+他们就会开始调用那些顽固的脂肪垫
+they can start to access those stubborn fat pads.
+再说一次  脂肪垫是正确的说法
+And again, fat pads is the correct way
+在科学文献中引用这些
+to refer to these in the scientific literature.
+所以我们今天关注的是事实
+So what we're focusing on today is the fact
+脂肪确实会被调动和氧化
+that fat indeed will be mobilized and oxidized
+是对卡路里不足的反应
+in response to a deficit in calories.
+而是神经元控制脂肪垫的方式
+But that the way that neurons control those fat pads
+身体的脂肪储存
+and those body fat stores,
+提供给你更多的控制
+affords you a lot more control
+也许比你以前想的要多
+than perhaps you ever previously thought.
+我们来谈谈运动
+So let's talk about movement.
+更传统的运动
+And the more traditional kinds of movement,
+也就是“锻炼”   被证明会增加
+aka exercise has been shown to lead to increases
+在新陈代谢和脂肪流失方面发挥更大的作用
+in metabolism and fat loss to greater degrees
+取决于各种因素
+depending on whether or not for,
+不管你是否禁食
+instance you're fasted when you do it or not,
+是否先做有氧运动
+whether or not you do your cardio first
+或者先进行抵抗力训练
+or your resistance training first.
+这也在文献中出现过
+And this is again in the literature
+对此有很多争议
+for which there's a lot of controversy,
+但通过对这些研究的深入研究
+but in digging through all the studies on this,
+我们终于开始达成共识
+we're finally starting to arrive at a consensus of,
+什么时候锻炼最好?
+when is best to do exercise?
+如果你的目标是减脂  你应该做什么运动?
+And what types of exercise to do if your goal is fat loss?
+运动这个话题是有争议的
+The topic of exercise is a kind of controversial one,
+没有营养和饮食那么有争议
+not as controversial as nutrition and diet
+我们一会儿会讲到
+which we will talk about in a few minutes.
+但这是一个特别有趣的问题
+But it's a particularly interesting one,
+因为不同类型的运动
+because different types of exercising gauge
+让身体的肌肉组织  心脏和肺
+the musculature of the body and the heart and the lungs
+以不同的方式参与进去
+in different ways,
+对身体的影响会有很大的不同
+and can have vastly different effects on things
+比如荷尔蒙和新陈代谢  取决于是否
+like hormones and metabolism depending on whether
+是高强度的
+or not it's of high intensity,
+中等强度或低强度
+moderate intensity or low intensity.
+所以与其考虑重量训练
+So rather than think about weight training
+心肺锻炼
+versus cardiovascular exercise,
+我认为想要流畅地讨论运动
+I think the most simple way,
+用最简单的话来讲
+the most fluid way to have this conversation about exercise
+就是 减脂主要有三种训练方式
+and fat loss is in terms of three general types of training.
+不管它是用负重还是自重来训练
+Whether or not it's done with weights or body weight
+其实并不重要
+doesn't really matter.
+这些都是高强度间歇训练
+And those are high intensity interval training.
+这似乎很受欢迎
+Something that's seems to have gained a lot of popularity
+近年来
+in recent years.
+所谓的HIIT  ,H-I-I-T
+So-called HITT, H-I-I-T.
+高强度间歇训练
+So high intensity interval training.
+Sprint间歇训练
+Sprint interval training.
+这是非常高强度的训练   SIT
+So that's going to be very high intensity or SIT,
+或中等强度持续训练  M-I-C-T
+or moderate intensity continuous training, M-I-C-T.
+我们有HIIT, SIT和MICT, M-I-C-T
+So we've got HIIT, SIT and MICT, M-I-C-T.
+如果你愿意  我们可以更精确一点
+And we can get a little bit more precise if you'd like.
+我不是那种在锻炼的时候会测量自己最大摄氧量的人
+I'm not somebody who measures my VO2 max or anything while I exercise.
+我一般都知道我是否在做一些
+I generally know whether or not I'm doing something
+我可以坚持很长一段时间的运动
+I could continue for a very long time,
+或者我是否在做
+or whether or not I'm doing something
+我意识到这将是短暂的
+that I realize is going to be of short duration
+高强度的运动
+high-intensity.
+但如果你想把它映射到最大VO2 SIT
+But if you'd like to map this to VO2 max SIT,
+这个短跑间歇训练被定义
+this sprint interval training was defined
+要一直大于100%的VO2
+as all out greater than 100% of VO2 max
+持续8到30秒的活动
+bursts of activity that lasts eight to 30 seconds
+与强度较低的恢复阶段穿插进行
+intersperse with less intense recovery periods.
+所以这是向前跑
+So this would be sprinting downfield
+在8到30秒内
+for eight to 30 seconds,
+然后再走回去一两分钟
+then maybe walking back for about a minute or two
+然后再次冲刺  然后继续
+and then sprinting again and then continuing.
+这就是SIT
+So that would be SIT.
+HIIT, H-I-I-T定义为次极大值
+HIIT, H-I-I-T is defined as submaximal,
+所以80%到100%的VO2最大爆发
+so 80 to a hundred percent of VO2 max bursts of activity
+持续60到240秒
+that lasts 60 to 240 seconds
+与强度较低的恢复阶段穿插进行
+intersperse with less intense recovery periods.
+在标准的400米赛道上
+So on a standard 400 meter track,
+让我们直观地了解一下
+just to give this a little bit of a visual,
+4分钟一英里对大多数人来说已经是很好的成绩了
+a four minute mile would be fantastic for most people,
+当然  有的人跑得更快
+although people run faster than that of course.
+这是4个60秒的圈
+So that's four 60 seconds laps,
+但这是连续的
+but that's back to back to back.
+我想在我状态最好的时候或者在梦里
+I think in my best shape or maybe it was in my dreams,
+我不记得了  我能做60秒一圈
+I don't recall which I was able to do 60 seconds
+在跑道上
+around the track,
+但我当然不能在持续进行第二圈
+but of course I couldn't get that on the second
+第三或第四圈  如果我这么做了  那肯定是
+or third or fourth if I did that was certainly
+在幻想而不是现实中
+in the fantasy land and not reality.
+但60秒大概是跑一圈的
+But 60 seconds would be about one revolution
+400m跑道
+around the track,
+也许90秒  取决于一个人跑得有多快
+maybe 90 seconds, depending on how fast a one is running.
+60到240秒
+So 60 to 240 seconds.
+MICT
+MICT okay.
+这种中等强度的持续训练
+This moderate intensity continuous training
+稳定状态的有氧运动有时也被称为Zone2有氧运动
+is steady state cardio sometimes called Zone 2 cardio
+现在在互联网上有的人会这么称这个运动
+these days on the internet,
+也就是连续了20 ~ 60分钟
+which has performed continuously for 20 to 60 minutes
+在中等强度下  VO2 最大值为40 ~ 60%
+at moderate intensity of 40 to 60% of VO2 max
+或者  达到55到70%的你的最高心率
+or if you prefer heart rate 55 to 70% of max heart rate.
+我们可以把它们想成高  中
+So we can think about high, medium
+以及低强度运动
+and low intensity exercise.
+虽然低强度通常意味着
+Although low intensity usually means
+你可以进行对话
+that you could carry on a conversation,
+或者你可能每走几步就得喘口气
+or maybe you have to gasp every few steps or so,
+一边说话一边跑
+while trying to talk and run.
+我认为这是最有用的方法
+That's I think going to be the most useful way
+我们现在的播客
+to have this conversation that we're having now,
+因为有很多不同形式人们所做的锻炼
+because there's so many different forms of exercise
+而强度是很重要的
+that people do and intensity is important.
+让我们问一个我想很多人都想问的问题
+Let's ask the question that I think many people
+大家都好奇
+are wondering about,
+哪个更好?
+which is, is it better?
+也就是说  如果你禁食锻炼  你会燃烧更多的脂肪吗?
+Meaning do you burn more fat if you do your exercise fasted?
+在这里禁食的意思是
+And fasted in this respect could be that you wake up
+第二天早上你醒来
+in the morning,
+你整晚都在禁食
+you've been fasting all night,
+你只需要补充水分  然后就去锻炼身体了
+you just hydrate and you exercise
+或者有时人们会摄入咖啡因
+or sometimes people will ingest caffeine,
+关于这一点  存在着争议
+there's controversy as to whether or not that quote on quote
+喝咖啡是否中断了禁食
+breaks the fast.
+这与你是否适应咖啡因有关
+It has to do with whether or not your caffeine adapted
+另一集的东西
+something for another episode.
+无论如何都要禁食
+In any case that would be fasted.
+所以可能什么都没吃
+So probably not having eaten anything
+3到24小时  甚至更久
+for anywhere from three to 24 hours or maybe even more.
+你也可以在下午禁食
+As you could also be fasted in the afternoon.
+如果你在中午吃午饭  现在是四点
+If you had lunch at noon and it's four
+或者下午5点或6点
+or five or 6:00 p.m.
+那么  你会燃烧更多脂肪吗？
+Is it, will you burn more fat
+前提是不吃任何东西就锻炼
+if you exercise without an eating anything first,
+没有摄入任何热量
+without ingesting any calories first?
+人们试图在这个问题上刨根究底
+And people have tried to really split hairs on this,
+人们总是说
+every which way people say,
+嗯  你可以很快地变胖
+well, you can fat fast,
+因为脂肪和蛋白质
+because fat and protein doesn't lead
+不像胰岛素和其他物质一样会大幅增加
+to as great increases in insulin as other things,
+也许你可以吃几颗杏仁  然后继续训练
+maybe you can have a few almonds and then still train.
+胰岛素确实可以防止脂肪氧化
+And indeed insulin will prevent fat oxidation.
+我想澄清一下
+I want to be really clear.
+细胞中燃烧脂肪的部分
+The burning part of fat in the cell,
+脂肪酸的运动进入线粒体
+the movement of the fatty acid and into mitochondria
+变成ATP   胰岛素的转换会抑制这个过程
+and the conversion ATP, insulin inhibits that process.
+然而  科研已经证明了
+However, it's been shown
+至少对于短期的训练
+that it least for short periods of training,
+你在训练之前吃不吃
+it doesn't really seem to matter whether or not you eat
+似乎并不重要
+before training or you don't,
+如果你的目标是脂肪氧化
+if your goal is fat oxidation.
+那么  我想在这个言论旁边放一个星号
+Now, I want to put an asterix near that,
+因为有一些例外
+because there are some exceptions.
+但有几项研究是这样做的
+But there were several studies done that,
+其中最经典的一种
+and the kind of the classic ones of these,
+我来念给你听
+I'll read out to you.
+他们所做的就是给人们葡萄糖  糖
+What they basically did is they gave people glucose, sugar,
+在训练前提高他们的血糖
+to increase their blood sugar before training or not.
+这方面最经典的研究是阿尔·博格
+And the kind of classic study of this is Al Borg at all.
+1976年  这要追溯到很久以前
+So in 1976, so it goes way back,
+葡萄糖可以减脂燃烧和运动
+which is that glucose reduces fat burning and exercise.
+还有一些其他的研究如果你想查的话
+And then some other studies if you want to look these up,
+在PubMed上很容易找到
+they're very easy to find on PubMed.
+你输入1999年  Horowitz
+You put in Horowitz 1999,
+Lee 等人  是另外一个研究者
+is another one where they have people
+喝含葡萄糖的牛奶
+drink milk with glucose in it.
+比如运动前喝甜牛奶等等
+So sweet sugary milk before exercise, et cetera.
+你可以找到一些例子
+And you can find a number of examples
+运动前吃东西
+where eating before exercise reduces the amount of fat
+会减少在运动过程中会被氧化的脂肪量
+that's oxidized during the exercise.
+你也可以发现很多研究表明
+And you can also find a lot of studies showing that,
+在运动期间或运动前进食
+eating during exercise or prior to exercise
+不会减少被氧化的脂肪量
+will not reduce the amount of fat that is oxidized.
+然而  锻炼的类型
+However, the types of exercise
+无论是中等强度还是高强度
+whether I was medium intensity or high intensity
+或者低强度  在每个研究中都非常不同  都有
+or low intensity is all over the map for these studies.
+所以很难找到一个理想的方案
+So it's very hard to target an ideal protocol.
+如果你深入研究文献
+And then if you look really deep in the literature,
+你开始发现元分析
+you start to find meta analysis
+人们把所有的发现都汇总在一起
+where people have actually aggregated all the findings
+以及它所指向的现代研究
+and some modern studies where it points
+一些非常具体和有用的工具方法
+to some very specific and useful protocols.
+接下来我讲一下规则或方案
+And so here's the rule that or the protocol
+我从文献中提取的
+that I extracted from that literature.
+每次90分钟左右
+At a period of about 90 minutes
+中等强度的运动
+of moderate intensity exercise,
+我想说清楚
+I want to be clear,
+大约90分钟中等强度运动后
+at about or after 90 minutes of moderate intensity exercise.
+有一个切换点
+There's a switchover point
+如果你在运动前吃了东西
+whereby if you ate before the exercise,
+你会减少  不好意思
+you will reduce, excuse me,
+从90分钟开始  你会消耗更少的脂肪
+you will burn far less fat from the 90 minute point onward
+如果你在训练前禁食的话  情况就不同
+than you would if you had gone into the training fasted.
+我重复一下
+So let me repeat that.
+如果是中等强度
+If it's moderate intensity,
+所谓的Zone2有氧运动
+so-called zone two cardio type exercise,
+90分钟的时候
+at the 90 minute point,
+如果你在运动前吃了东西
+if you happen to have eaten before the exercise
+在运动前一到三个小时内
+within one to three hours prior to the exercise,
+那么90分钟后  你就会减少你要燃烧的脂肪量
+then you reduce the amount of fat that you will burn from 90 minutes onward,
+然而  如果你在运动前禁食
+whereas if you had fasted prior to the exercise,
+你已经三个多小时没吃东西了
+you hadn't eaten anything for three hours or more prior
+90分钟时  锻炼90分钟后
+At the 90 minute point, 90 minutes of exercise
+你会开始燃烧更多的脂肪
+you will start to burn more fat than you would
+相比于你进食的情况
+had you eaten.
+90分钟中等强度的运动已经很多了
+Now, 90 minutes of moderate intensity exercises is a lot.
+这是一段相当长的时间
+So that's a pretty long run.
+即使你以相当慢的速度跑步
+Even if you're running at a pretty slow pace
+比如10或12分钟一英里  那也是很多跑步
+like a 10 or 12 minute mile, that's a lot of running,
+那是很多的游泳
+that's a lot of swimming.
+所以要走很多路
+So that's a lot of walking,
+那是很多的徒步旅行
+that's a lot of hiking.
+然而  也有人整天都在徒步旅行
+However, there are people who are going out hiking all day
+或者整天跑步或散步
+or running all day or walking all day.
+如果你想在单位时间内燃烧更多脂肪
+And if you want to burn more fat per unit time,
+如果你想氧化更多的脂肪  你最好是禁食
+you want to oxidize more fat then you would do that fasted.
+那么  也有研究指出了这个事实
+Now, there are also studies that pointed the fact
+你不需要等90分钟
+that you don't have to wait to 90 minutes
+为了达到燃烧脂肪的效果
+in order to get this enhanced fat burning effect.
+我能找到的研究
+The studies I was able to find
+在我看来  这是高质量的同行评议研究
+and that looked to me like quality peer-reviewed studies
+不含有商业公司的偏见  也没有任何产品偏见
+with no company bias or no product bias of any kind.
+这些研究大部分都是有资金支持的
+These are studies that were largely funded
+由联邦政府出资  在大学中进行的
+by the federal government in the university context
+他指出  如果一个人进行高强度训练
+pointed the fact that if one does high-intensity training,
+甚至是高强度的训练
+or even the very high intensity forms of training
+比如短跑、下蹲或硬举
+like sprints or squats or deadlifts
+或者任何无法维持的活动
+or any kind of activity that can't be maintained
+不止这些
+for more than these, you know, eight
+8-60秒
+or I would say up to 60 seconds.
+所以一组举重动作重复  重复
+So a set of lifting weights repeated, repeated,
+如果这样持续了20分钟
+if that's done for anywhere from 20 minutes,
+重量训练或力量举重
+so weight training or power lifting
+或者像这样的事  或者是壶铃
+or these kinds of things or kettlebell swings
+或者最多60分钟
+or up to 60 minutes,
+然后我们来看看转换点
+we'll then the switchover point
+你可以燃烧更多的脂肪
+in which you can burn more fat,
+如果你训练前禁食  这个转换点会更快到来
+if you go into that fasted comes earlier.
+这说得通  因为这个90分钟没有特殊的
+And this makes sense because there's nothing holy
+中等强度运动
+about the 90 minute point for a medium intensity
+Zone2有氧运动
+Zone 2 cardio.
+那90分钟就是
+That 90 minute point is the point
+在这个过程中  身体从主要消耗糖原的状态  开始转换
+in which the body shifts over from mainly burning glycogen,
+基本上是来自肌肉或肝脏的糖
+basically, sugar that comes from muscles or the liver
+意识到这种情况已经持续了一段时间
+and realizes this is going on for a while,
+我要把燃料转移到储存地点
+I'm going to shift over to a storage site fuel
+需要一些储备 比如身体脂肪
+that is in reserve like body fat.
+这种情况会持续一段时间
+This is going to happen for a while,
+所以我要开始利用身体脂肪储备
+so I'm going to start tapping into body fat stores.
+那么  脂肪没有大脑
+Now, fat doesn't have a little brain there.
+它受神经元支配  但没有思想
+It is innervated by neurons, but it doesn't have thoughts.
+你不能用你的思想来控制这个开关
+And you don't actually control this switch with your mind.
+这和环境有关
+This is something that has to do with the milieu
+各种激素
+of various hormones.
+需要做的是  胰岛素必须降得足够低
+What has to happen is insulin has to go down far enough.
+如果你在运动前吃了东西
+So if you ate before the exercise,
+胰岛素会增加
+you'd have an increase in insulin,
+如果你吃碳水化合物
+if you ate carbohydrates
+你的胰岛素  脂肪和蛋白质会有更大的增加
+you'd have a bigger increase in insulin, fat and proteins
+事实上  你会有更少的胰岛素
+indeed you'll have lower amounts of insulin
+禁食会给你提供最低量的胰岛素
+and fasting will give you the lowest amount of insulin.
+那么转换点就会提前
+Well, then that switch over point is going to come earlier
+在运动中
+in the exercise.
+你仔细想  如果你要做
+And if you think about if you were to do something
+高强度训练20 30 40分钟
+high intensity for 20, 30, 40 minutes,
+比如说是举重  然后进入Zone2有氧运动
+so maybe lift weights and then get into Zone 2 cardio.
+文献上说  如果你禁食了
+If you are fasted, the literature says
+单位时间内会燃烧更多的脂肪
+that you're going to burn more body fat per unit time
+比运动前或运动中吃东西的人要多
+than if you had eaten before or during the exercise.
+这意味着什么呢?
+So what does this mean?
+这意味着如果你想燃烧更多的身体脂肪
+This means if you want to burn more body fat,
+如果这是你们的工具方法
+if it's in your protocols
+你已经被批准可以安全地做这件事了
+and you have been approved to do this safely,
+剧烈运动20到60分钟
+exercise intensely for 20 to 60 minutes,
+强度越高  很明显
+the higher the intensity obviously the shorter
+转换点会越快地到来
+that about is going to be,
+然后进入Zone 2 有氧运动
+and then move over into Zone 2 cardio.
+如果你禁食或中等强度的有氧运动
+And if you do that fasted or the medium intensity cardio
+我应该说
+I should say.
+如果你禁食的话
+And if you do that fasted,
+这样你就可以燃烧更多的脂肪
+then indeed you will burn a higher percentage of body fat.
+如果你需要吃东西或者你喜欢在训练前吃东西
+If you need to eat or you like to eat before you train
+这也可以实现
+that also can work.
+如果你的训练强度很大
+And if you train very intensely,
+你很可能也会更快的转向脂肪燃烧模式
+you're likely to shift over to the fat burning pattern more quickly as well.
+再说一次  问题不是在
+So again, this isn't really an issue
+你锻炼了多长时间
+of how long you exercise.
+这是你运动强度的问题
+It's an issue of how intensely you exercise
+也就是你所使用的燃料来源
+and therefore what fuel source you're drawing from.
+希望我已经讲清楚了
+So hopefully I've made that clear,
+但基本上你需要消耗糖原
+but basically you need to deplete glycogen
+或者通过高强度运动
+or through high intensity exercise
+然后进入稳定状态的练习
+and then move to a steady state exercise
+这会让你燃烧更多的脂肪
+that will allow you to burn more fat.
+或者你需要中等强度的训练
+Or you need to perform a medium intensity
+或者长时间的低强度运动
+or low intensity type exercise for a long period of time
+在你转向燃烧脂肪之前
+before you shift over to burning fat.
+事实上  似乎所有这些都指向了
+And indeed it seems that going into all that fasted
+禁食会促进脂肪的燃烧
+will facilitate the burning of more fat overall.
+但如果你连锻炼都做不到
+But if you can't even get to the exercise,
+如果你根本不能接受训练
+if you're somebody who just can't do the training at all,
+你不愿意或者你没有能力训练
+you're unwilling to or you're incapable of training,
+除非你吃点东西
+unless you eat something,
+显然吃点东西才是最合理的
+then obviously eating something makes the most sense.
+运动前吃什么
+And what you eat prior to exercise,
+这完全是另一个人们争论的话题
+that's a whole other biz that people argue about
+大家都在吵
+and fight about whether or not you should go
+要低碳水化合物 还是高碳水化合物  所有这些
+into it with low carbohydrates or higher carbs, all of that.
+但总的来说  主题很简单
+But in general, the theme there is very simple.
+你希望胰岛素水平很低
+Which is that you want insulin levels to be pretty low
+如果你的目标是减脂
+if your goal is body fat reduction,
+如果你想氧化身体脂肪
+if you want to oxidize body fat.
+在某些情况下禁食
+So fasting in some cases,
+禁食减肥等案例
+fat fasting and other cases
+你只是在摄入脂肪
+where you're just ingesting fats.
+脂肪和蛋白质  在某些情况下或者对某些人来说
+Fat and protein, in some cases or for some people
+就是吃碳水化合物
+it will be eating carbohydrates.
+我来这里不是要规定一种特定的营养养生法
+I'm not here to dictate a particular nutrition regimen.
+这就是这些东西的荷尔蒙平衡
+That's just how the hormone balance of these things
+还有脂肪氧化  就是这么起作用的
+and fat oxidation works.
+那么  有一件事很有趣
+Now, one thing that's very interesting
+而不可忽视的一个问题
+and cannot be overlooked is this issue
+就是你在运动中和运动后消耗了多少能量
+of how much energy you burn during and after the activity.
+你们中的一些人可能已经知道了
+And some of you probably already know about this,
+但是卡路里摄入和卡路里消耗之间的关系
+but the whole business of calories in versus calories out,
+人们计算卡路里的数量
+and people counting the number of calories
+他们在有氧运动过程中会燃烧
+they burn during their aerobic session
+或者在他们的各种运动期间
+or during their whatever session
+只是问题的一半
+is only one half of the equation
+它掩盖了更重要的问题
+and it really eclipses the more important issue,
+也就是  在某项运动之后
+which is how much of an increase in metabolism
+它在代谢的增加上  产生了多少效果?
+does a given exercise create after the exercise?
+我们可以聊上几个小时
+And we could talk for hours about this,
+但最简单的方法是
+but the simple way to view this is that,
+高强度训练  无氧训练
+high intensity training, anaerobic training
+举重训练  短跑  波比跳  等等
+of weight training, sprints, burpees, any kind of thing.
+我不知道最近  我听说你不应该做波比跳
+I don't know these days I hear that you're not supposed
+人们认为波比跳很危险
+to do burpees that people think burpees are dangerous.
+所以我并不是在推荐什么特定的动作
+So I'm not suggesting any particular movements here.
+你得决定什么最适合你
+You have to decide what's right for you.
+我自己会做波比跳
+I do burpees.
+我似乎并没有因此受伤
+I don't seem to be injured from them,
+但我听说它们对一些人来说很可怕
+but I hear that they're terrible for some people.
+不管怎样  俯卧撑  仰卧起坐
+So anyway, push-ups, sit-ups,
+不管是什么无氧运动
+whatever it happens to be that anaerobic exercise
+也就是更高强度的运动  或者冲刺
+that's of higher intensity or sprints
+在运动过程中利用储存的糖原
+taps into glycogen stores during the movement
+单位时间内会消耗更多的能量
+and we'll burn more energy per unit time
+中等强度
+than moderate intensity.
+高强度燃烧比中等强度燃烧的更多
+High intensity burns more than modern intensity.
+这很好理解
+That's straightforward.
+有趣的是  所有的研究
+What's interesting is that all the studies
+我所能找到的
+that I was able to find on what happens
+在那种类型的锻炼之后
+after that type of exercise showed
+就是你燃烧的脂肪的百分比
+that the percentage of fat that you burn
+高强度运动后的效果实际上更大
+after high intensity exercise is actually greater.
+换句话说  你消耗了大量的糖原
+In other words, you burn a lot of glycogen
+在高强度运动中
+during the high intensity exercise.
+然后在锻炼之后
+And then after the exercise,
+运动后耗氧量
+the post exercise oxygen consumption
+它会上升
+as it sometimes called goes up.
+经过高强度训练后  我们知道这一点
+We know this after you train intensely
+运动后耗氧量增加
+that post exercise oxygen consumption goes up
+有时长达24小时
+sometimes for up to 24 hours.
+就是在那段时间
+And it is during that period of time
+你氧化了更多的脂肪而不是糖原
+that you oxidize more fat not glycogen.
+有趣的是反过来也是正确的
+Now, what's interesting is that the reverse is also true,
+对于那些长期处于
+for people that do long bouts of low
+低强度或者中等强度的运动的人来说
+or moderate intensity exercise.
+典型的例子是跑步
+So typically this would be things like running,
+游泳  骑自行车等等
+swimming, biking, et cetera.
+60分钟  90分钟  2小时
+So 60, 90 minutes, two hours
+甚至可能是那些正在为马拉松训练的人
+maybe even people that are training for marathons
+或半马拉松,
+or half marathons,
+当他们停止训练时
+when they stop training,
+它们消耗更多糖原  更多碳水化合物
+they burn more glycogen, more carbohydrate,
+即使他们在单位时间内燃烧了更多的脂肪
+even though they were burning more body fat per unit time
+在低强度运动中
+during the low intensity exercise.
+所以这是一种倒置
+So there's this kind of inversion.
+高强度运动会消耗更多的糖原
+High-intensity burns more glycogen during the activity,
+更多的身体脂肪
+more body fat afterwards.
+中等到低强度的燃烧百分比更高
+Moderate to low intensity burns more percentage-wise
+被氧化的体脂比糖原多
+more body fat is oxidized than glycogen
+在实际的运动之后  更多的是糖原
+during the actual exercise afterward it's more glycogen.
+我不想把它弄得太复杂
+So I don't want this to get too complicated.
+重点是你应该选择你喜欢的运动
+The point is you should pick exercise that you like,
+你能经常做的运动
+that you're going to do regularly,
+但似乎高强度运动
+but it does seem that the high intensity exercise
+其次是中等强度的运动
+followed by moderate intensity exercise
+是燃烧脂肪的最佳方式
+is going to be optimal for fat burning overall.
+因为当你观察身体脂肪燃烧的百分比时
+Because when you look at the percentage of body fat burned,
+你可以看到在中高强度训练中
+and you look at the overall increase
+基础代谢率
+in basal metabolic rate,
+在整体上的增长
+moderate and high intensity training
+最后是低强度训练
+followed by low intensity training
+或者只是接着回归日常生活中去
+or even just followed by going back into life
+是继续燃烧身体脂肪的最好方法
+is going to be the best way to continue to burn body fat
+因为中高强度训练增加了基础代谢率
+because of the ways that it increases basal metabolic rate.
+这可以提炼成一个简单的方案
+This could be distilled into a simple protocol
+每周三到四次
+whereby three or four times a week
+你做高强度训练  练完之后要么什么都不做
+you do high intensity training followed by either nothing
+或随后进行低强度训练
+or followed by low intensity training
+尤其是如果你能禁食的话
+especially if you're able to do that fasted.
+我想说的是  这些关于禁食的方案
+And I should just mention that none of this stuff
+与运动的表现没有任何关系
+about fasted is about performance.
+如果你想表现得很好
+If you want to perform really well,
+这是出于运动表现的考虑
+this is for reasons of performance
+比如说某一项运动或比赛
+and you want to, you know, it's for a sport or a competition,
+这时候就不是为了减少身体脂肪了
+it's not for body fat purposes.
+好吧  那么所有这些都不成立
+Well, then all of this kind of falls away
+你需要根据理想的运动表现对饮食进行调整
+and is modified by what's ideal to eat for performance.
+但我们今天要讲的是
+But what we're talking about today
+就是如何优化身体的脂肪消耗
+is how to optimize body fat loss.
+所以要进行中等强度到高强度的训练
+So train moderately to very high intensity
+然后是中等强度到低强度
+and then moderate to low intensity,
+或者进行中等强度到高强度的训练
+or train moderate to high intensity,
+然后继续生活
+and then go about life.
+事实上  我有个朋友就用这种方法
+And in fact, I have a friend who uses this strategy.
+他非常喜欢高强度运动
+He likes the train intensely
+但不会经常锻炼  因为他是个很忙的人
+and not that often protocol cause he's a very busy person.
+所以他会进行20到30分钟的高强度训练
+So he'll train for 20 or 30 minutes intensely
+通过举重或者只是自重的运动
+with weights or just body weight movement doing a lot,
+他做俯卧撑  波比跳  仰卧起坐和引体向上
+he does burpees and push-ups and sit-ups and pull-ups
+是一种移动和循环训练
+and just kind of moving and kind of circuit type training.
+但是当他呼吸非常困难的时候
+But where he's breathing really hard,
+他常说的目标是
+the goal he always says is,
+我想每天用力呼吸30分钟
+I want to breathe hard for 30 minutes every day.
+然后他补充水分  喝咖啡
+And then afterwards he hydrates and drinks coffee
+然后开始他的一天
+and moves into his day.
+他到处走动  接电话
+And he's walking around and taking calls
+带着他的孩子
+and carrying around his children
+做这些事情
+and doing all these kinds of things
+开始忙自己的事情
+that keep him really busy
+这有点像低强度的工作
+which is kind of like low intensity work.
+我想你们现在明白了
+So I think you get the principle now.
+但你们都应该问问自己
+But you should all be asking yourselves
+作为你们自身的科学家
+as scientists of yourselves.
+为什么是特定的锻炼模式
+Why would it be that certain patterns of exercise
+会导致更多还是更少的脂肪减少?
+would lead to more or less fat loss?
+我是说  这不只是能量消耗的问题
+I mean, it can't just be about the energy burn.
+我们已经确定了
+We already established that.
+同样  这与神经元有关
+And again, it has to do with the neurons.
+这与我们如何激活神经系统有关
+It has to do with how we engage the nervous system.
+因此  当非运动活动引起的生热作用  也就是NEAT
+So while non-exercise activity induced thermogenesis, NEAT,
+细微动作和寒冷会引起生热
+the fidgeting and cold can induce thermogenesis
+通过颤抖、紧张或低水平的动作
+by engaging shiver tight movement or low-level movements.
+高强度的大运动
+Big movements that are of very high intensity,
+这意味着需要付出很多努力
+meaning they require a lot of effort,
+从我们的神经元中释放大量的肾上腺素
+deploy a lot of adrenaline epinephrin from our neurons
+并对特定类型的脂肪发出信号
+and signal particular types
+产生生热作用  脂肪氧化
+and amounts of fat thermogenesis, fat oxidation,
+而低强度运动
+whereas low level intensity exercise,
+低或中等强度的运动
+low or moderate intensity exercise,
+走路、跑步、骑自行车
+walking, running, biking
+你可以很容易地做到
+where you can do that easily,
+肾上腺素释放不多
+there's not very much adrenaline release.
+肾上腺素
+So adrenaline aka epinephrin
+真的是任何形式的运动
+is really the final common path
+在神经系统间最终汇集的通路
+by which movement of any kind,
+不管是不是低水平的颤抖
+whether or not it's low level shiver,
+不管是举杠铃  还是冲刺上坡
+whether or not it's lifting a barbell sprinting up a hill
+或者骑很长时间的自行车
+or doing a long bike ride.
+肾上腺素是减肥的效应器
+Adrenaline is the effector of fat loss.
+这是触发端  这是执行器
+It's the trigger end, it's the effector.
+现在我想把注意力转到化合物上
+So now I want to turn our attention to compounds
+能增加肾上腺素的化合物
+that increase epinephrin and adrenaline,
+以及在外部使用的化合物
+as well as compounds that work outside
+能提高肾上腺素
+the adrenaline epinephrin pathway
+来提高脂肪减少的速度
+to increase the rates of fat loss.
+我几乎总是保留化合物和补充剂
+I almost always save compounds and supplements
+诸如此类的事情一直到最后
+and things of that sort to the end,
+因为我认为人们应该先建立起
+because I do believe that people should look first
+对行为工具和科学的理解
+towards behavioral tools and an understanding of the science
+在他们看补品之前
+before they look toward a supplement
+或者是一种他们可以从饮食中提取的特殊物质
+or a particular thing that they can extract from diet.
+这主要是试图不让大家觉得
+This is mainly to try and shift people away
+会有某种”神奇药丸“现象
+from the kind of magic pill phenomenon or the idea
+觉得有神奇的药丸  因为真的没有
+that there is a magic pill because there really isn't.
+坦白说  永远不会有
+And frankly, there never will be.
+但是有一些化合物
+But there are some compounds
+这会大大增加脂肪的氧化和动员
+that can greatly increase fat oxidation and mobilization.
+了解哪些化合物会增加氧化
+And understanding which compounds increase oxidation
+或者动员是非常有用的
+or mobilization can be very useful
+如果你的目标是加速减肥
+if your goal is to accelerate fat loss.
+有些东西是人们可以消化的
+There are things that people can ingest
+这会让他们氧化更多的脂肪
+that will allow them to oxidize more fat.
+这主要是通过增加
+And that occurs mainly by increasing the amount
+由神经元释放的肾上腺素的数量来实现的
+of epinephrin that is released from neurons
+也就是连接脂肪组织的神经元
+that innovate fat tissue.
+其中一个比较常见
+One of the more common ones is one
+你可能已经在使用了  就是咖啡因
+that you may already be using which is caffeine.
+众所周知  咖啡因可以提高运动表现
+It's well-established that caffeine can enhance performance,
+如果你已经适应了咖啡因
+if you're caffeine adapted.
+我在之前的一集里讲过
+I talked about this in an earlier episode
+所以我想确保我讲得很清楚
+so I want to make sure I'm very clear about this.
+如果你不习惯喝咖啡因
+If you are not used to drinking caffeine
+然后你突然决定
+and you suddenly decide I'm going to drink
+训练前喝一大杯咖啡
+a big cup of coffee before training,
+你的血管会收缩  你的运动表现会受到限制
+you will vasoconstrict and you will limit performance.
+这是运动表现
+So that's performance.
+如果你适应了咖啡因
+If you're caffeine adapted however,
+有一种有趣的现象
+there's this kind of interesting phenomenon
+也就是你摄入的咖啡因
+where ingestion of caffeine
+更多的是作为运动表现提升物
+serves more as a performance enhancer,
+通过提高警觉性
+both by increasing alertness,
+也可以通过扩张血管
+but also by way of dilating vasculature
+允许更多的血液流动
+of allowing more blood flow.
+那么  咖啡因可以燃烧更多的脂肪进行氧化
+Now, caffeine for burning more fat for oxidizing
+调动更多的脂肪是一个有趣的问题
+and mobilizing more fat is an interesting one.
+如果想要有效  剂量要达400毫克
+It can be effective at dosages up to 400 milligrams.
+如果你对咖啡因敏感  那就得小心了
+You have to be careful if you're caffeine sensitive.
+有些人只摄入一点点咖啡因
+Some people have just the littlest bit of caffeine
+脑子就跟炸了一样
+and their mind goes crazy,
+他们很不舒服
+and they're very uncomfortable.
+它可能对一些人的心血管有影响
+It can have cardiovascular effects for some people
+或者高血压等等
+or hypertension, et cetera.
+所以请咨询你的医生
+So please check with your doctor.
+但400毫克大约相当于一杯半咖啡
+But 400 milligrams is roughly a cup and a half a coffee
+或者两杯咖啡
+or two cups of coffee.
+我们生活的当下  咖啡中含有更多的咖啡因
+Nowadays, there's a lot more caffeine in coffee.
+如果你去一家普通的咖啡馆
+So if you go to a typical cafe
+你要一杯中杯的
+and you were to get their medium-sized
+大概含有一克咖啡因
+that would have close to a gram of caffeine,
+这就是为什么  如果你经常喝咖啡
+which is why, if you're a regular caffeine consumer
+如果某一天你得不到那克咖啡因
+and you don't get that gram of caffeine
+你会感到头痛
+in your coffee each day, you will get a headache.
+它能引起血管的收缩和扩张
+It can cause constriction and dilation of blood vessels
+这很复杂
+in ways that's complicated,
+但是你可能会头疼的
+but you'll get a headache.
+有些人喜欢喝咖啡的感觉
+Some people like the way they feel drinking
+100到200,300或者400毫克的咖啡因
+100 to 200, 300 maybe 400 milligrams of caffeine
+在训练之前
+before training.
+事实上  这会导致脂肪氧化增加
+And indeed that will lead to increase fat oxidation.
+这是因为你会释放更多的肾上腺素
+It will do that because you will release more epinephrin
+和肾上腺素
+and adrenaline.
+让我们把它放在
+So let's just place this in the context
+我们之前讨论的背景下
+of what we said previously.
+假设你通常做Zone 2 有氧运动
+Let's say you normally do Zone 2 cardio,
+所以比如你去做一次中等强度的跑步
+so you're going out for a moderately intense run
+30到60分钟左右
+for 30 to 60 minutes or so.
+我认为美国目前的建议指导方针
+I think the current recommendation guidelines in the States
+是人们要在每周五天中
+are that people engage in 30 minutes
+参与30分钟的中等强度的锻炼
+of moderate intensity exercise five days a week
+那是150分钟
+for that's 150 minutes.
+如果他们的目标是提高
+If their goal is to improve
+或维持心血管系统的健康
+or maintain health of the cardiovascular system.
+80%的美国人都没有做到
+80% of people in the United States fail to do that,
+甚至都没有靠近这个目标
+or anything close to it.
+我们远低于政府
+We are way below threshold for what the government
+建议的门槛
+has recommended.
+在这种情况下  政府建议
+In this case, the government recommendations,
+我觉得非常好
+I think are pretty good.
+当然  我们总可以做得更好
+That's one could always do better of course.
+但80%的人根本就不这么做
+But 80% of people aren't even doing that.
+但是  仅仅使用逻辑
+However, just using the logic
+了解了肾上腺素是如何
+and the understanding of how epinephrin adrenaline
+影响脂肪的氧化过程
+is affecting this fat oxidation process.
+如果你出去15分钟
+If you were to go out for 15 minutes
+你去之前喝了咖啡因
+and you drank caffeine before you went,
+是的  单位时间内你可能会氧化更多的脂肪
+yes, you'll probably oxidize more fat per unit time.
+仅仅通过喝咖啡因
+Can you compensate for the exercise
+就能弥补你没有做的运动吗？
+you're not doing just by drinking caffeine?
+嗯  可能吧  如果你只是在谈论减肥
+Well, probably if you were just talking about fat loss,
+如果咖啡因让你经常坐立不安  对吧?
+if that caffeine makes you fidget a lot, right?
+你在30分钟的跑步中消耗的卡路里
+The amount of calories that you burn in a 30 minute run,
+除非跑得很激烈
+unless the run is very intense
+你穿着重量背心  爬坡
+and you're wearing a weight vest and it's up a hill,
+感觉没那么好  对吧?
+it's not that great, right?
+最终消耗的能量
+Then you probably get you in somewhere
+大概是400到500卡路里的燃烧
+into the 400, 500 calories burned area.
+但我之前说过  现在有很多数据
+But I said earlier, and there are a lot of data now
+都支撑了  一天中的细微动作
+to support that fidgeting for a day
+每天可以燃烧800到2500卡路里
+can burn anywhere from 800 to 2,500 calories a day.
+所以你可能会说  细微动作比跑步好
+So you might say, well, fidgeting is better than running,
+但它不会触发激活
+ah, but it doesn't trigger the activation
+对心血管系统的
+and the positive health effects
+健康的积极影响
+of the cardiovascular system.
+所以  单独来看坐立不安是很好的
+So fidgeting alone can be great,
+但你需要锻炼还有其他原因
+but you need exercise for other reasons.
+咖啡因会增加脂肪消耗
+Caffeine can enhance the amount of fat
+在任何时间的运动中都是这样
+that you burn in any duration of exercise.
+它可以改变你氧化的
+And it can shift the percentage of fat
+脂肪与糖原的比例
+that you oxidize compared to glycogen.
+除非你喝了咖啡因  它让你兴奋了很多
+Unless you take that caffeine and it ramps you up so much
+你训练得非常非常高强度
+that you're training really, really intensely.
+底线是
+The bottom line is,
+如果你喜欢咖啡因  并且可以安全地使用
+if you like caffeine and you can use it safely,
+摄入100-400毫克的咖啡因
+ingesting somewhere between 100-400 milligrams of caffeine
+锻炼前的30到40分钟
+prior to exercise somewhere between 30 to 40 minutes
+可以有益
+before exercise can be beneficial
+前提是我们说的是脂肪氧化  燃烧更多的身体脂肪
+if we're talking about fat oxidation burning more body fat.
+这是咖啡因
+So that's caffeine.
+还有很多其他的事情
+There are a number of other things
+多年来一直存在于这一途径中
+that have existed over the years that are in this pathway,
+像麻黄碱  现在在大多数州都是非法的
+things like ephedrine which is now illegal in most states,
+我想可能是所有州
+I think maybe an all states
+因为有人因为服用麻黄碱而死亡
+because people were dropping dead from taking ephedrine,
+因为它会让人体的问题升的太高
+because they were heating up too much.
+有趣的是它对心脏没有直接影响
+It's interesting it wasn't direct effects on the heart
+导致心脏病
+causing heart attack.
+它可以通过肾上腺素能受体来触发
+It could trigger by way of adrenergic receptors.
+如果你想知道
+If you'd like to know,
+体温和热量的增加
+increases in body temperature and heat.
+那么  那些药物被证明是危险的
+Now, those drugs turned out to be dangerous,
+因为人们过热而死亡
+because people were overheating and dying.
+当时还掀起了一股芬芬热
+There was also the big Fen-Phen craze.
+那是一种被释放的药物芬氟拉明
+That was a drug that was released fenfluramine
+其实这种药
+which actually was quite effective
+作为一种抗肥胖药物  是有效的
+as an anti obesity drug,
+治疗肥胖   也必须被禁止
+a treatment for obesity that had to be outlawed as well.
+原本FDA的批准被取消了
+It was FDA approval was removed
+人们因为这些药物而死亡
+because again people were dying
+因为对心血管的影响
+because of cardiovascular effects.
+我不知道是不是也会让体温过高
+I don't know if people were overheating on it as well.
+那么解决方案是什么呢?
+So what is the solution?
+如果咖啡因是大多数人的切入点
+If caffeine is the kind of the entry point for most people
+使用化合物来提高减脂速率
+of using compounds to increase the rate
+或在运动甚至休息时减少脂肪
+or percentage of fat loss in exercise and even at rest,
+还有其他有用的东西吗
+what are some of the other things that are useful
+和有趣的吗?
+and interesting?
+从可操作的工具来看
+Well, in terms of tools that are actionable
+并有合理的安全边际
+and have reasonable safety margins,
+我之前讲过GLP-1
+I've talked before about something called GLP-1.
+这是可以被触发的
+This is something that can be triggered
+通过摄入马黛茶  一种茶
+by the ingestion of yerba mate, which is a tea,
+我想因为我有一半阿根廷血统
+and I guess because I'm half Argentine,
+我们是喝马黛茶长大的  伙计
+we grew up drinking mate.
+我想从那时起我就开始喝马黛茶了
+I think I was drinking mate from the time
+我当时大概三四岁
+I was about three or four years old.
+我不建议孩子们这样做
+I don't suggest that for kids.
+我觉得孩子们不应该摄入咖啡因
+I don't think kids should be ingesting caffeine.
+但不管怎样  我依然从小就开始喝马黛茶了
+But anyway I did it and I still ingest mate.
+马黛茶增加GLP-1
+Mate increases GLP-1.
+GLP-1是胰高血糖素通路
+GLP-1 is in the glucagon pathway.
+让我们快速回到我们的生物化学
+So let's just quickly return to our biochemistry.
+正如你们所记得的  脂肪是从体内脂肪储备中被调动的
+As you recall, fat is mobilized from body fat stores
+然后它就被消耗了
+and then it's burned up.
+它在细胞内被氧化
+It's oxidized in cells.
+它实际上需要转化成ATP
+It actually needs to be converted into ATP.
+这些脂肪酸基本上转化成了ATP
+And those fatty acids are essentially converted into ATP
+在细胞的线粒体中
+in the mitochondria of the cell.
+高胰岛素可以防止这种情况发生
+High insulin prevents that from happening
+胰高血糖素促进了这个过程
+and glucagon facilitates that process.
+胰高血糖素促进了这一过程
+Glucagon facilitates that process
+通过增加GLP-1
+through increases in GLP-1.
+简单地说  马黛茶会增加GLP-1
+The short takeaway is mate increases GLP-1
+是的  它会增加你燃烧的脂肪比例
+and yes, increases the percentage of fat that you will burn.
+它会增加脂肪燃烧
+It increases fat burning.
+这尤其正确
+And that is especially true,
+从科学文献来看
+it turns out from the scientific literature,
+如果你在任何形式的运动前摄入马黛茶
+if you ingest mate prior to exercise of any kind.
+所以  如果你想燃烧更多的脂肪
+So if you want to burn more fat drinking mate
+锻炼前喝马黛茶是好的
+before exercise is good.
+当你不运动的时候  在休息的时候喝
+Drinking it at rest when you're not exercising
+也会改变你的新陈代谢
+will also help shift your metabolism
+通过增加脂肪氧化来促进脂肪燃烧
+toward enhanced burning of fat by increasing fat oxidation.
+那么  有一个完整的药品类别
+Now, there's a whole category of pharmaceuticals
+现在正在开发中
+that's being developed right now
+现在处于后期试验阶段
+that are in late stage trials
+或者用于治疗糖尿病
+or are in use for the treatment of diabetes
+利用GLP-1通路
+which capitalize on this GLP-1 pathway.
+它们有不同的名字
+They go by various names
+网上有很多人
+and there are people on the internet
+在卖这些东西
+who are selling these things.
+它们是处方药
+They are prescription drugs
+我想强调的是  它们是处方药
+and I want to emphasize that they are prescription drugs
+你显然不想用
+and you obviously wouldn't want to use
+没有处方和要求的这些药
+any of these without a prescription and a requirement.
+它们似乎确实有效
+It does seem that they are effective
+用于治疗某些类型的糖尿病
+for the treatment of certain kinds of diabetes
+并能显著减轻体重
+and lead to fairly significant weight loss
+食欲减退
+and reduction in appetite.
+这是GLP-1的现代版本
+So this is kind of the modern version of GLP-1
+GLP-1代谢药物
+is pharmaceuticals of GLP-1 metabolism
+是药物  如...
+are drugs such as somatical,
+我永远不会发这个音
+I can never pronounce this.
+我好像很多东西都不会发音
+I can't seem to pronounce many things it seems.
+我叫它Semaglutide
+Semaglutide is the way I would pronounce it.
+S-E-M-A-G-L-U-T-I-D-E
+S-E-M-A-G-L-U-T-I-D-E.
+Semaglutide  但不是这个发音
+Semaglutide but that's not the way you pronounce it.
+但Semaglutide是这样描述的
+But Semaglutide is the way that it's been described
+在互联网上
+on the internet.
+在任何情况下  这种化合物都会增加GLP-1
+In any case, this compound increases GLP-1.
+在某些情况下  它实际上是GLP-1的类似物
+It's actually a GLP-1 analog in some cases,
+它们有各种各样的商品名称
+and they go by various types of trade names.
+所以GLP-1途径很有趣
+So the GLP-1 pathway is interesting.
+大多数人  包括我自己
+Most people, including myself,
+对服用处方药不感兴趣
+are not interested in taking a prescription drug
+增加GLP-1,
+to increase GLP-1,
+我通过喝马黛茶来做到这一点
+I do it through the ingestion of mate.
+我只需要把马黛茶叶倒在上面  然后把它喝了
+I just get the mate leaves, pour water over it and drink it.
+有趣的是
+What's kind of interesting,
+这并不常被讨论
+that's not often discussed
+你可以增加GLP-1的量
+is that you can increase the amount of GLP-1 by,
+你可以重复使用这些茶
+you can essentially reuse the tea.
+第一次喝的时候会非常非常浓
+The first time you drink it it can be very, very intense.
+事实上  有些人觉得马黛茶
+And in fact, some people find that mate
+尝起来几乎像烧焦的叶子
+almost tastes like burnt leaves.
+太浓了
+It's too intense.
+你不希望水太热
+You don't want the water to be too hot.
+但这是我从一个朋友那里学来的
+But I learned this trick from a friend.
+你可以反复使用这些叶子
+You can reuse the leaves over and over again,
+大概一整天
+probably for about a day before they go bad.
+在这样做的过程中  你开始从马黛茶中提取越来越多的东西
+And in doing that, you start to extract more and more
+增加GLP-1的化合物
+of the compounds from the mate leaf that increased GLP-1.
+这很酷
+So it's kind of cool.
+你可以获得更大的效果
+You can kind of get an increased effect.
+我通常会做16到30盎司
+So what I'll typically do is make a about 16 to 30 ounces
+每天都要喝一小口
+and just sip it throughout the day,
+我在训练前确实很喜欢
+and I do like it before I train.
+有些人不喜欢马黛茶
+Some people who don't like mate
+可能更喜欢像guayusa这样的东西
+might prefer something like guayusa,
+G-U-A-Y-U-S-A
+which is spelled G-U-A-Y-U-S-A.
+G-U-A-Y-U-S-A, guayusa来自厄瓜多尔
+G-U-A-Y-U-S-A, guayusa which is from Ecuador,
+尽管它名字以USA结尾
+despite the USA ending to it.
+它来自厄瓜多尔
+It's from Ecuador.
+这种茶的味道更甜
+And it's a sweeter tasting tea.
+里面没有任何甜味剂
+It doesn't have any sweetener in it,
+但是guayusa的叶子更甜
+but the leaf of the guayusa plant is sweeter
+比马黛茶叶更甜
+than the mate plant.
+我有时会把这两者混在一起
+I sometimes will mix the two
+然后用它来泡茶
+and then make the tea with that.
+播客没有马黛茶 瓜尤萨的赞助商
+There's no mate or guayusa sponsor of the podcast.
+这些只是增加GLP-1和脂肪氧化的工具
+These are just tools to increase GLP-1 and fat oxidation.
+Semaglutide是处方药
+And again, the Semaglutide is the prescription version
+这是一种强力GLP-1兴奋剂
+of the that's kind of the heavy artillery GLP-1 stimulant,
+这也只能通过处方来使用
+and again should be only explored with a prescription.
+这些就是化合物
+So those are the compounds
+直接增加了脂肪的氧化
+that really increase fat oxidation directly.
+影响胰岛素的因素有很多
+There are going to be a number of things that impact insulin
+胰高血糖素会改变身体
+and glucagon that are going to shift the body
+让更多的脂肪燃烧
+toward more fat burning.
+我们在之前讲了很多
+We talked about a lot of these during the episode
+关于荷尔蒙的
+on hormones.
+我们谈过了
+We talked about it.
+我们做了一整集关于荷尔蒙和新陈代谢的播客
+We did a whole episode on hormones and metabolism.
+比如  小檗碱
+And so for instance, berberine,
+一种来自植物或二甲双胍的化合物
+which comes from a plant or metformin are compounds
+现在越来越多的人在使用
+that are now in kind of growing use
+来降低血糖
+for reducing blood glucose.
+它们在降低血糖方面非常有效
+They are very potent at reducing blood glucose,
+从而会降低胰岛素
+which will reduce insulin because the job
+胰岛素的主要作用是控制葡萄糖
+of the hormone insulin is to essentially manage glucose
+在血液中
+in the bloodstream.
+所以有一个巨大的化合物集合
+So there are a huge gallery of compounds
+这会降低胰岛素
+that will reduce insulin
+从而增加脂肪氧化
+and thereby can increase fat oxidation.
+这是因为  正如我之前提到的
+And that's because, as I mentioned before,
+脂肪氧化  这是脂肪酸转化为ATP的过程
+fat oxidation, this conversion of fatty acids into ATP
+在线粒体中的这个过程   被胰岛素抑制
+in the mitochondria is inhibited by insulin.
+所以如果你保持低胰岛素水平
+So if you keep insulin low,
+你会增加这个过程
+you're going to increase that process.
+我们又回到了原点
+Which brings us full circle back
+关于饮食和营养的问题
+to the issue of diet and nutrition.
+斯坦福大学的加德纳实验室有确凿的证据
+There is really solid evidence from the Gardner Lab
+和其他实验室的研究表明
+at Stanford and from other labs showing that,
+当你观察不同的饮食时
+when you look at different diets,
+看看低脂饮食
+you look at low fat diets,
+高脂肪饮食,
+high fat diets,
+生酮饮食  间歇性禁食
+keto diets, intermittent fasting,
+只要人们坚持自己的饮食习惯
+provided people stick to their particular diet,
+你遵循哪种饮食习惯并不重要
+it doesn't really matter which diet you follow.
+你仍然会出现热量不足
+You can still get a caloric deficit
+你的体重减轻了
+and you get weight loss.
+然而  坚持始终是一个问题
+Adherence however is always an issue.
+所以我总是说
+And so what I always say is,
+你要使用的饮食计划
+that you want to use the eating plan
+显然要对你的健康有好处
+that is obviously beneficial to your health,
+是要能让你坚持下去的饮食计划
+but the one that allows you to adhere
+不管具体的营养方案是什么
+to whatever it is that the particular nutrition protocol is,
+对吧?
+right?
+如果你不能坚持做某件事
+If you can't stick with something,
+那就不值得了
+then it's not very worthwhile.
+但从纯科学的角度来看
+But from the purely scientific standpoint,
+保持低胰岛素水平也有好处
+there's also an advantage to keeping insulin low.
+这并不一定意味着
+Now, that doesn't necessarily mean
+碳水化合物为零
+you go to zero carbohydrate.
+我之前讲过我喜欢的饮食方式
+I've talked before about my preferred way of eating
+白天中摄入低碳水化合物  或者不摄入碳水化合物
+is to go lower or no carbohydrates throughout the day
+保持警觉  释放肾上腺素  集中注意力
+for alertness to get that adrenaline release and the focus
+所有这些  等等
+that goes with it, et cetera,
+以及思考和行动的能力
+and the ability to think and move
+在白天做我需要做的所有事情
+and do all the things I need to do during the day.
+然后我晚上吃碳水化合物
+And then I eat carbohydrates at night
+因为它有助于睡眠
+'cause it facilitates the transition to sleep.
+这对我很有效
+That's what works for me.
+但当胰岛素水平低时
+But when insulin is low,
+你确实让你的身体系统处于一个可以氧化更多脂肪的位置
+you do place your system in a position to oxidize more fat.
+这就是为什么我认为很多人确实看到了好处
+And so that's why I think a lot of people do see benefit
+低碳水化合物或中度碳水化合物饮食
+from lower carbohydrate or moderate carbohydrate diets,
+因为当胰岛素水平低时
+because when insulin is low,
+你可以氧化更多的脂肪
+you are in a position to oxidize more fat.
+无论是在运动还是休息时
+Both from exercise and at rest.
+我应该提一下  因为我经常提到
+And I should mention, because I often mention
+提到它是恰当的
+and it's appropriate to mention
+如果你对效果感兴趣的话
+that if you're interested in looking at the effects
+咖啡因  马黛茶, guayusa之类的东西
+of caffeine, of mate, guayusa things of that sort,
+GLP-1  你想了解更多
+GLP-1 you want to learn more about those.
+你可以去这个很棒的网站
+You can go to this wonderful website
+这是免费的www.examine.com
+which is free www.examine.com.
+你可以输入  马黛茶
+You can put in yerba mate,
+它将查出这三个研究
+it will describe the three studies
+都显示出  在运动和休息时
+that show increased fat oxidation,
+增加了脂肪氧化
+both during exercise and at rest,
+其结果并不奇怪  而且还能增加
+and as a consequence not surprisingly and increase
+代谢率
+in metabolic rate.
+马黛茶有一个有趣的地方
+One thing that's interesting about mate
+它会导致心率轻微下降
+is it causes a slight decrease in heart rate
+原因我还是不知道
+for reasons that still escape me.
+有一项研究表明
+There's a single study showing
+心率略有降低
+that heart rate is slightly reduced
+这很好  因为如果
+which is kind of nice because if,
+当我喝了太多的咖啡因
+when I drink too much caffeine
+我的心跳加速
+my heart rate goes up,
+也许这会增加我的细微动作和脂肪燃烧
+maybe that would increase my fidgeting and my fat burning,
+但我不喜欢我的基础心率
+but I don't like the feeling of having my basal heart rate
+太高了
+being up too high.
+我喜欢在运动时心率提高
+I like my heart rate elevate during exercise,
+但不是在我休息的时候
+but not when I'm just kind of resting
+或者整天工作
+or working and throughout the day.
+出于某种我不明白的原因
+And for some reason that I don't understand
+马黛茶既能够增加脂肪氧化的效果
+there's an effect of mate of increasing fat oxidation
+又能稍微降低心率
+but reducing heart rate just slightly.
+这是有趣的
+So that's interesting.
+这些可能会
+And it probably lends itself [indistinct]
+解释了主观经验
+explains the subjective experience
+我对他的感觉有点好
+that I've had of that mate has kind of a little nice
+甚至成熟的兴奋剂
+even mellow stimulant.
+它不是像咖啡因那样的超级兴奋剂
+It's not this really supercharged stimulant like caffeine
+从咖啡或其他来源
+from coffee or other sources.
+不过如果你喝多了马黛茶 
+Although if you drink too much mate
+这也会让你紧张不安
+it will also make you jittery.
+还有一种化合物我认为我们应该讨论一下
+And there's one more compound that I think we should discuss
+在减脂方面
+in terms of increasing fat loss,
+这就是肉碱或乙酰肉碱
+and that's carnitine or acetyl-L-carnitine,
+它们在同一条路径上
+they lie in the same pathway.
+我们现在可以回到基本的脂肪动员知识上来
+We can return to our basic knowledge now of fat mobilization
+和氧化
+and oxidation.
+在脂肪被调动并使其进入细胞之后
+After fat is mobilized and makes it into cells
+需要被氧化
+and needs to be oxidized.
+也就是脂肪的燃烧
+So the literally the burning of fat
+并将其转化为能量
+and conversion of it into energy
+这是完成和促进的
+that is accomplished and is facilitated
+胰高血糖素升高
+by the presence of glucagon being elevated,
+GLP增加了这一过程  导致胰岛素水平降低
+GLP increases that process and insulin being low.
+我们讲了一些管理胰岛素的方法
+And we talked about some ways to manage insulin
+这一集和上一集都有
+both in this episode and in previous episode.
+左卡尼汀和乙醯左旋肉碱
+L-carnitine and acetyl-L-carnitine
+尤其有利于脂肪的氧化
+in particular facilitates fat oxidation.
+它有助于将脂肪酸转化为ATP
+It helps convert fatty acids into ATP.
+事实上  补充左旋肉碱可以增加脂肪的减少
+And indeed supplementing L-carnitine can increase fat loss.
+这是被证明
+That's been shown.
+什么剂量?
+At what dosages?
+人们从任何地方摄取500毫克
+Well, people ingest anywhere from 500 milligrams
+每天两克  通常是分剂量服用
+to two grams per day in divided doses typically.
+有些人真的很极端
+Some people who are really extreme
+会注射左旋肉碱
+are taking injectable L-carnitine,
+我当然没试过
+I've certainly not tried that.
+我承认我经常用的是药片的形式
+I confess I have used it in pill form from time to time
+但在某种程度上  由于脂肪的氧化作用
+but in part, because of the fat oxidation effects,
+还因为它可能产生的其他影响
+but also because of the other effects that it tends to have.
+所以在探索乙酰左旋肉碱的作用时
+So in exploring the effects that acetyl-L-carnitine has,
+它对细胞的新陈代谢有各种各样的影响
+it has a huge variety of effects on cellar metabolism.
+它可以减少血液中的氨
+It can reduce ammonia in the blood
+这实际上是一个相当强的影响
+that is actually a quite strong effect.
+它可以减少c反应蛋白
+It can reduce things like C-reactive protein,
+c反应蛋白水平
+which is you want to C-reactive protein levels
+最好在一定范围内
+to be managed.
+你不希望它们太高
+You do not want them too high.
+可轻微降低血糖
+Can slightly reduce blood glucose.
+我可以稍微增加HDLC
+I can slightly increase HDLC,
+血脂的良好状态
+the good form of the blood lipid
+并稍微降低整体胆固醇
+and slightly reduce overall cholesterol.
+正如我提到的  它可以稍微调整
+And as I mentioned, it can slightly modify
+胰高血糖素的通路
+the pathway involving glucagon,
+这样你就能得到相当大的效果
+such that you get a considerable effect,
+对脂肪氧化的影响不大
+not a huge effect on fat oxidation,
+所以它可以提高脂肪的氧化速率
+so it can improve pat oxidation rates.
+它还有其他一些影响
+It has a number of other effects,
+其中一些我在谈荷尔蒙的那个月讲到过
+some of which I talked during the month on hormones
+诸如此类的事情
+and that sort of thing.
+它对怀孕率有很大的影响
+It has strong effects on rates of pregnancy
+和精子质量
+and sperm quality.
+显然肉碱有很多作用
+So clearly carnitine is doing lots of different things
+作用于很多不同的细胞
+and lots of different cells.
+它影响了精子的活力
+It's impacting sperm motility.
+大量的研究都支持这一观点
+They're in a large number of studies supporting that.
+血压轻微下降
+Slight reductions in blood pressure
+对在运动中减少疲劳
+and has these interesting effects on reducing fatigue
+有挺有趣的效果
+during exercise,
+减少炎症标志物  如白细胞介素6
+reducing inflammatory markers like interleukin 6.
+所以总的来说  它有很多影响
+So it has a number of effects that on the whole
+是”正面“的  还是至少是正面的
+are quote unquote positive or at least in the direction
+是你可能想要的效果
+of things that you may want.
+我应该强调”可能“
+And I should emphasize may.
+你当然不需要乙酰左旋肉碱
+You certainly don't need a acetyl-L-carnitine
+为了减肥
+in order to lose fat,
+但既然你了解了细胞的过程
+but now that you understand the cellular process
+脂肪被调动和氧化
+by which fat is mobilized and oxidized,
+如果左旋肉碱
+it should make sense that if L-carnitine
+对将脂肪酸转化为能量很重要
+is important for converting fatty acids into energy,
+那么补充左旋肉碱就说得通了
+then supplementing L-carnitine make sense.
+乙酰左旋肉碱是左旋肉碱的一种
+Acetyl-L-carnitine is the type of L-carnitine
+或者说左旋肉碱的形式
+or the form of L-carnitine I should say,
+它最容易被身体运输和利用
+that is transported and utilized most easily by the body.
+这就是为什么有时我们会区分
+And so that's why sometimes we distinguish
+左旋肉碱和乙酰肉碱之间的关系
+between L-carnitine and acetyl-L-carnitine.
+再一次  我们讲了大量的材料
+So once again, we've covered an enormous amount of material.
+我们已经讨论过减肥的科学
+We've talked about the science of fat loss
+特别是  我们已经
+and in particular, we've explored this topic
+从神经系统的角度来探讨了这个话题
+from the perspective of the nervous system.
+特别是神经元是如何释放物质的
+How neurons and in particular the release of things
+比如肾上腺素  肾上腺素也能促进脂肪动员
+like adrenaline, epinephrin can facilitate fat mobilization
+和氧化
+and oxidation.
+我们讲过NEAT 细微动作
+We talked about NEAT, fidgeting,
+这种非运动类型的运动
+this non-exercise type movement
+这样可以大大增加热量的燃烧
+that can greatly increase caloric burn.
+以及为什么会这样
+And why that is.
+我们谈到了颤抖
+We talked about shiver,
+这是另一种非运动形式
+another form of non-exercise movement
+这会增加卡路里的消耗
+that can really increase both caloric expenditure
+由于颤抖  由于运动
+due to the shiver, due to the movement,
+以及增加生热作用  使身体升温
+as well as increase thermogenesis the heating up of the body
+通过棕色脂肪
+through things like brown fat,
+甚至白色脂肪转化为棕色脂肪
+and even the conversion of white fat to brown fat
+如果你想氧化脂肪  这是件好事
+which is a good thing if you want to oxidize fat.
+我们说过寒冷是一种特殊的刺激
+We talked about cold as a particular stimulus
+使人颤抖  以及如何使用
+to induce shiver and how to use getting into,
+从寒冷中来回转换的方法来刺激颤抖
+an out of cold as a way to stimulate shiver
+避免冷适应  这样你才能继续
+and avoid cold adaptation so that you continue
+氧化和燃烧脂肪  如果这是你的目标的话
+to oxidize and burn fat, if that's your goal.
+如果你想看看治疗方案
+If you want to check out the protocols for that,
+在www.thecoldplunge.com
+there at www.thecoldplunge.com
+在接下来的几周  我们会增加
+and in weeks to come we're going to be adding
+更多的方案到那个网站
+more protocols to that website
+不仅仅是为了减肥
+not just for fat loss,
+但是对于韧性这样的东西
+but for things like resilience,
+减少炎症  等等
+reducing inflammation, et cetera.
+所以一定要去看看
+So be sure to check those out again,
+这些都是完全免费的
+those are totally cost-free.
+谈到运动
+Talked about exercise.
+不从心肺运动或者重量训练
+How rather than thinking about cardiovascular
+这个角度去考虑
+or weight training exercise,
+也许我们应该透过
+that we should perhaps look through the lens
+肾上腺素系统是如何相互作用在脂肪含量上去看
+of this adrenaline system and how it interacts with fat stores 
+低  中等
+and think about low, medium
+或者高强度运动
+or high intensity exercise.
+不管我们去不去禁食
+Whether or not we show up to that fasted or not.
+事实证明  禁食是有用的
+Turns out showing up to that fasted can be useful,
+如果你开始做高强度的运动
+if you start with high intensity movements
+然后进行低强度的运动
+and then move into lower intensity type exercise.
+如果你要持续很长时间
+If you're going to go long duration,
+这可能并不重要  除非你锻炼的时间更长
+it probably doesn't matter unless you're exercising longer
+超过90分钟  不管你吃不吃
+than 90 minutes, whether or not you eat or not.
+我们说过咖啡因是一种兴奋剂
+We talked about caffeine as a stimulant
+刺激肾上腺素的释放
+and a stimulus for epinephrin and adrenaline release
+作为一种促进脂肪代谢的方式
+as a way to access more fat metabolism.
+我们讨论过化合物
+And we talked about compounds
+来自马黛茶和guayusa茶
+that come from things like yerba mate and guayusa tea,
+这种GLP-1通路可以触发脂肪氧化增加
+this GLP-1 pathway that can trigger increased fat oxidation
+以至于制药公司
+so much so that the pharmaceutical companies
+现在正在开发专门的化合物
+are now developing compounds specifically
+增加GLP-1用于糖尿病和肥胖的治疗
+to increase GLP-1 for treatment of diabetes and obesity.
+但你依然可以利用GLP-1通路
+But you can leverage the GLP-1 pathway
+通过摄入像马黛茶这样的东西
+through the ingestion of things like mate
+如果你感兴趣的话  也可以去看看guayusa
+or guayusa if that's of interest to you.
+然后我们讨论了左旋肉碱
+And then we talked about L-carnitine
+以及左旋肉碱本身的重要性
+and how L-carnitine itself is critical
+用于单个细胞内的脂肪氧化
+for the fat oxidation within individual cells.
+脂肪酸转化为能量的过程
+The conversion of fatty acids to energy.
+以及为什么你的胰岛素水平低
+And why having your insulin low
+左旋肉碱和胰高血糖素水平
+and things like L-carnitine and glucagon levels
+高或充足  至少能方便你更好的燃烧脂肪
+high or sufficient at least can facilitate the burning of fat,
+氧化脂肪
+ fat oxidation.
+所以我们讲了很多材料
+So we covered a lot of material.
+我意识到有很多方案没有…
+That's a lot of protocols I realize that didn't...
+我刚才列的清单
+The little list I just gave right there
+还没开始讲细节呢
+didn't even begin to get into all the details
+很多小角落都没有触及到
+and corners that we discussed.
+我希望你觉得这次播客很有趣
+I hope you found this conversation interesting
+不管是为了理解脂肪的减少
+both for sake of understanding fat loss
+还是如何更快地减掉脂肪  减掉更多
+and how to lose fat more quickly and to lose more of it,
+如果这是你的目标的话
+if that's your goal.
+以及简单地理解生物学
+As well as simply to understand the biology
+从不同的角度研究脂肪代谢
+of fat metabolism from a different perspective,
+从神经系统的角度来看
+from the perspective of the nervous system.
+如果你喜欢这个播客
+If you're enjoying this podcast
+你从这些信息中获益
+and you're benefiting from the information
+你有学到东西
+that you're learning,
+请在YouTube上订阅
+please subscribe on YouTube.
+这对我们帮助很大
+That really helps us a lot.
+还有一个通知按钮  你可以点击
+There's also a notifications button that you can hit
+它会在我们发布新内容时通知你
+that will notify you anytime we release new content.
+我们每周一都会发布新一集
+We release new episodes every Monday,
+但有时我们会在这两集之间放出额外的材料
+but sometimes we release additional material in between.
+所以请在YouTube上订阅
+So please do subscribe on YouTube.
+如果你能订阅苹果或Spotify
+As well if you could subscribe on Apple and or Spotify
+这太棒了  对我们很有帮助
+that's terrific and really helps us.
+在苹果  你可以给我们五星评价
+And at Apple, you can give us a five star review.
+如果你觉得我们值得五星评价
+If you think we deserve a five-star review.
+你也有机会
+As well as you have the opportunity
+在苹果给我们反馈
+to give us feedback at Apple.
+YouTube上的评论区就是最好的地方
+The comment section on YouTube is the place
+给我们反馈  不管你是否喜欢一集
+to give us feedback whether or not you like an episode,
+不管你是否喜欢一集
+whether or not you don't like an episode.
+你特别喜欢的方面
+Aspects that you particularly liked,
+对未来内容的建议
+suggestions for future content.
+我们读过  我读过所有的评论
+We do read, I do read through all the comments.
+我花了一些时间
+It takes me some time.
+我有时会落后一点
+I sometimes fall a little bit behind
+要看其他的工作
+depending on other duties,
+但我读了所有的评论
+but I read all the comments
+我也会把这些内容
+and I do take them into account
+放入我们的考虑范围内
+when developing this material
+以及纳入材料结构的构思中
+and the structure of the material.
+所以请在评论区提供反馈
+So please do provide feedback in the comment section.
+我们真的很感激
+We really appreciate it.
+其他支持播客的方式
+Other ways to support the podcast
+就是去看看赞助商
+are to check out the sponsors
+我们在播客开始时提到过
+that we mentioned at the beginning of the podcast.
+这是支持我们的好方式
+That's a terrific way to support us.
+我们还有一个Patreon
+As well we have a Patreon.
+这是www.patreon.com/andrewhuberman
+It's www.patreon.com/andrewhuberman.
+在Patreon  你可以支持播客
+And at Patreon that will allow you to support the podcast
+任何你喜欢的水平
+at any level that you like.
+我在播客中提到过补充剂
+I've mentioned supplements during the podcast.
+如果你有兴趣服用补充剂
+If you're interested in taking supplements,
+你也许该去看看索恩
+you might want to check out Thorne.
+T-H-O-R-N-E
+T-H-O-R-N-E.
+我们和索恩是搭档
+We've partnered with Thorne
+因为他们的严格程度是最高的
+because they have the highest levels of stringency
+就他们使用的食材质量而言
+in terms of the quality of the ingredients they use,
+以及他们使用的原料的数量
+and the amounts of the ingredients that they use.
+如果你想看我服用的补品
+If you want to see the supplements that I take,
+你可以去找索恩
+you can go to Thorne,
+thorne.com/u/huberman
+thorne.com/u/huberman.
+任何补品都可以打八折
+And you can get 20% off any of the supplements
+还有索恩做的任何补品都可以
+as well as any of the supplements that Thorne makes.
+这是thorne.com/u/huberman
+That's thorne.com/u/huberman
+索恩做的任何补品都可以打八折
+to get 20% off any of the supplements that Thorne makes.
+最后但同样重要的是
+And last but not least,
+我想感谢你们今天的时间和注意力
+I want to thank you for your time and attention today.
+谢谢你对科学的兴趣
+And thank you for your interest in science.
+(欢快的音乐)
+[upbeat music]

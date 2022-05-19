@@ -1,0 +1,4272 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到HubermanLab播客
+Welcome to the HubermanLab Podcast,
+我们讨论日常生活中的科学和基于科学的工具
+we discuss science and science based tools for everyday life.
+我叫Andrew Huberman
+My name is Andrew Huberman
+是斯坦福医学院神经生物学和眼科学的教授
+and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+本播客与我在斯坦福大学的教学和研究角色是分开的
+This podcast is separate from my teaching and research roles at Stanford.
+然而
+It is,
+这却是
+however,
+我的愿望和努力的一部分
+part of my desire and effort to bring zero cost.
+目的是让大众获得  零成本的关于科学和科学相关工具的消费者信息
+A consumer information about science and science related tools to the general public.
+为了与这个主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们今天的第一位赞助商是锡拉·贡
+Our first sponsor to day is Thera Gun.
+他们的枪是一种可以缓解深层肌肉紧张的手持渐进疗法设备
+Their gun is a handheld progressive therapy device that releases deep muscle tension.
+我是在2017年的一次实验室考察中第一次被介绍到他们的枪前的
+I was first introduced at their gun in two thousand and seventeen while on a laboratory expedition.
+我们在太平洋中央
+we were in the middle of the Pacific Ocean,
+用虚拟现实技术为我的实验室恐惧研究拍摄大白鲨
+filming great white Sharks for my laboratory studies on fear using virtual reality,
+我们夜以继日地努力工作
+we are working very hard around the clock,
+我和其他同行的人正在接电话
+and I and other people on the trip were picking up.
+很多疼痛都是一种慢性疼痛
+A lot of aches and pains are just kind of chronic soreness.
+随着少年受伤的爆发 因为所有的努力工作和缺乏睡眠
+Come with the lad injuries that were flaring up because of all the hard work and lack of sleep.
+有人有一把彻底的枪
+Someone had a thorough gun,
+很快 它就流传开来 成为船上最令人垂涎的设备
+And pretty soon it was getting passed around and became the most coveted device on board.
+每个人都用它来治疗不同部位的疼痛
+Everyone was using it to work on these different sites of soreness,
+我真的爱上了它
+and I really fell in love with the thing,
+所以当我回来的时候
+so much so that when I got back,
+我立即买了一个 我几乎每天都用 因为我用它来治疗肌肉酸痛
+I immediately purchased one and I've used it almost daily ever since I use it on muscles that are sore,
+我用它来缓解压力 改善组织质量等等
+I use it on areas that are really working on to release tension and improve tissue quality and so forth.
+他们的枪最棒的地方是
+The great thing about their gun is,
+很安静
+it's really quiet,
+所以你可以在谈话或看电影的时候使用它 它完全不会干扰你的活动
+so you can use it while you're in a conversation or while you're watching a movie and it doesn't disrupt those activities at all.
+如果你想试试法拉冈
+If you want to try faragon,
+你可以去他们的枪支网站试试
+you can try that are gone by going to their gun dotcom,
+slashhuberman去找你的第四代阿拉贡
+slash huberman to get your Gen fourth Aragon,
+它们的起价是199美元
+they start at one hundred and ninety nine dollars.
+但如果你仔细想想
+But if you think about it,
+一个按摩
+a massage,
+也就是一小时或九十分钟
+which is an hour long or ninety minutes long,
+通常都在这个成本范围内
+is typically in that range of cost.
+这是你每天都可以使用的东西 无论你想什么时候 甚至在享受其他活动的时候
+and this is something you can use every day whenever you want and even while enjoying other activities,
+那是他们的枪
+so that's their gun.
+comslash人类
+Dot com slash human.
+今天播客的第二位赞助商是insidetrackerinsidetracker
+The second sponsor of today's podcast is inside tracker inside trackers,
+一个个性化的营养平台 分析你的血液和DNA数据 帮助你更好地了解你的身体 帮助你达到你的健康目标
+a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals.
+insidetracker的好处在于它提供给你可以理解的数据
+The great thing about inside tracker is that it gives you data that you can make sense of.
+我一直以来都相信要采集血样
+I have long been a believer in getting blood samples taken,
+而最近
+and more recently,
+我已经开始相信采集DNA样本是为了了解激素水平的变化
+I've become a believer in getting DNA samples taken in order to understand what's going on at the level of hormones,
+代谢因素和其他影响我们近期和长期健康的因素
+metabolic factors and other things that profoundly influence our immediate and longterm health.
+问题一直是如何获取这些样本
+The problem always has been getting those samples taken,
+在追踪器里找到这些样本会让一切变得简单
+and making sense of those samples inside tracker makes all of that really easy.
+他们甚至会到你家里取样本
+They'll even come to your home to take the samples.
+然后你就得到了信息
+Then you get the information back.
+虽然通常在得到信息后
+and while typically after getting information back,
+有一长串的数字
+there's these long lists of numbers,
+没人知道该拿它们怎么办
+and nobody knows what to do with them.
+内部追踪器让我们很容易理解这些数字的含义
+Inside tracker makes it really easy to interpret what those numbers mean,
+它指出了生活方式方面的问题
+and it points to things in terms of lifestyle,
+锻炼
+exercise,
+营养等等
+nutrition and so forth.
+他们可以帮助你调整一些数字 你可能需要降低或提高到适当的正常范围
+They can help you adjust some of the numbers that you might need to bring down or up to put into the appropriate normal range.
+所以我发现这整个过程对指导我的健康选择非常有价值 也让我了解到我的身体和健康的其他部分在内心是如何运作的
+So I find this whole process to be immensely valuable for guiding my health choices and also just for giving me a piece of mind about how my body and the rest of my health are doing internally,
+不做血液和DNA测试你是不可能知道的
+something you just can't know without a blood and DNA test.
+如果你想试试内部追踪器
+If you want to try inside tracker,
+你可以进入tracker com
+you can go to inside tracker Dot com,
+和休伯特的乐趣 你可以得到25%的折扣 任何你想要人类的节目
+slash Hubert Fun and you'll get twenty five per cent off any of their programs you want to put Huberman at.
+退房
+check out.
+这就是insidetracker 网络公司和Huber的人在任何insidetracker上都能降价25%
+So that's inside tracker dotcom slash Huber men to get twenty five per cent off any of inside trackers,
+计划并把人类置于检查之外
+plans and put Huberman at check out.
+今天播客的第三位赞助商是athleticgreens
+The third sponsor of today's podcast is athletic greens.
+运动型绿色蔬菜并不都包含在一种维生素矿物质益生菌饮料中
+Athletic greens isn't all in one vitamin mineral probiotic drink.
+我在2012年开始使用运动绿地
+I started using athletic greens in two thousand and twelve.
+所以我很高兴播客的回应
+So I'm delighted that the response of the podcast,
+我开始服用运动绿色蔬菜的原因我每天服用一到两次的原因是我发现很难知道我需要服用哪些维生素和矿物质通过饮用运动绿色蔬菜
+The reason I started using athletic greens and the reason I still take it once or twice per day is that I find it very hard to know what vitamins and minerals I need to take and by drinking athletic greens,
+我把这些都放在了一个简单又美味的配方里
+I get it all in one easy to consume great tasting formula.
+我真的很喜欢它的味道
+I really do like the way it taste.
+我将它与水和一点柠檬或酸橙汁混合
+I mix mine with water and a little bit of lemon or lime juice.
+对我来说
+And to me,
+它是美味的
+it's delicious.
+另一件关于运动绿色的事是我非常喜欢的益生菌
+The other thing about athletic greens that I really like are the probiotics.
+现在有很多数据告诉我们 我当然相信
+there is so much data out there now telling us and I certainly believe,
+根据我所看到的数据 益生菌对支持肠道微生物群非常重要
+based on the data that I've seen that probiotics are really important for support of the gut microbiome,
+肠脑轴
+the gut brain axis,
+免疫系统和我们生物学的许多其他方面
+the immune system and many other aspects of our biology.
+运动绿地
+So with athletic greens,
+我得到维生素
+I get the vitamins,
+矿物质和我需要的益生菌
+minerals and the probiotics that I need.
+如果你想尝试运动绿地
+If you want to try athletic greens,
+你可以去运动草地
+you can go to athletic greens.
+点com
+dot com,
+削减Huber男人
+slash Huber men,
+如果你这么做了
+and if you do that,
+它们还能提供你一年的维生素D3k2 比维生素D3
+they'll also give you a year's supply of vitamin D three K to vitamin D3
+我们也知道它对免疫系统非常重要在代谢支持中 所以运动绿色植物 slash人类获得运动绿色植物 一年供给维生素D 3 k 2 今天他们会给你五个免费旅行包
+We also know is really important for things like immune system in metabolic support so that athletic greens dot com slash Huberman to get athletic greens the year supply of vitamin D three K two and they'll give you five free travel packs today.
+今天我们要谈论的都是情感
+Today we're talking all about emotions.
+情绪是我们整个生活经历的中心
+Emotions are central to our entire experience of life.
+我们是快乐 还是悲伤  是沮丧  还是愤怒  都是我们的生活经历
+Whether or not we're happy or sad or depressed or angry is our life experience.
+但我认为 鉴于我们对情感的重视
+And yet I think with all the importance that we've placed on emotions,
+很少有人真正理解情绪是如何在大脑和身体中产生的
+very few people actually understand how emotions arise in their brain and body.
+我提到大脑和身体是因为  正如你们现在所看/听到的
+And I mentioned brain and body because as you'll see today,
+情绪真的能决定大脑和身体的关系
+emotions really capture the brain body relationship.
+我们不能说情感仅仅来自于我们头脑中发生的事情
+We cannot say that emotions arise just from what happens in our head.
+它还涉及到一些反应
+It also involves events,
+生物反应
+biological events,
+我们体内的化学反应
+chemical events within our body.
+关于情绪的另一件事是
+The other thing about emotions is that
+现在大家对于什么是好的情绪 什么是坏的情绪 并没有真正的共识
+there's no real agreement as to what's a good emotion or a bad emotion today,
+我们将讨论产生情绪的化学物质和途径的生物学
+we're going to talk about the biology of the chemicals and pathways that give rise to emotions,
+我将给你们介绍一些工具方法 不是很多
+and I'm going to equip you with several if not many tools that
+但这些工具可以让你们控制 改变和控制你们的情绪
+will allow you to regulate and change and steer your emotions should you want,
+但不是大家之前都听说过的那种建议
+but not using the typical advice you know everyone's probably heard of this thing.
+哦
+Oh,
+
+如果你感到沮丧
+if you're feeling depressed,
+笑就行
+just smile,
+因为你知道吗 笑的时候是不可能抑郁的
+You know what it's impossible to be depressed while smiling look,
+如果这是真的
+if that were true,
+那就不会有任何抑郁的人了  因为抑郁的人都不想抑郁
+we wouldn't have any depressed people because depressed people don't want to be depressed.
+简单的微笑并不能扭转抑郁或悲伤
+and it is not the case that simply smiling will reverse depression or sadness,
+微笑并不能抑制悲伤
+and it's simply not the case that smiling can inhibit sadness.
+事实就是这样
+It just doesn't work that way.
+然而
+However,
+我们身体里确实发生的某些事情
+it is the case that certain things that are happening in our body
+影响了我们大脑的运作方式和释放的化学物质
+influence how our brain functions and the chemicals that are released.
+今天我们要讲的是在食物和营养的背景下
+And today we're going to talk a lot about how the brain and body interact
+大脑和身体是如何相互作用的  产生这些被称为情绪的东西
+to create these things called emotions in the context of food and nutrition.
+我们这么做的原因不是因为我在鼓吹特定的饮食养生法
+And the reason we're doing that is not because I am beating the drum about particular diet regimens
+或其他什么
+or anything.
+事实上
+In fact,
+我不会这么做
+I'm not going to do any of that.
+我要做的是回顾一些最重要的科学数据
+What I'm going to do is I'm going to review some of the most important scientific data
+这些数据指出了如何摄入某些营养物质
+that point to how ingesting certain nutrients.
+像蛋白质  脂肪  碳水化合物
+Both macro nutrients like proteins,
+这样的宏观营养素
+fats and carbohydrates,
+以及微量营养素
+as well as micro nutrients,
+会影响我们大脑中的化学物质 这些化学物质会
+can impact the chemicals in our brain that give rise to the feelings of
+让你感到快乐和悲伤  也能让你在特别警觉的时候让你感到困乏  或者反过来
+being happy or sad or sleepy or alert when you want to be sleepy or sleepy when you want to be alert.
+所以这肯定是一个很广泛的讨论
+So this is sure to be a broad discussion.
+但是我们会非常具体地了解情感是什么
+And yet we're going to get very specific about what emotions are,
+它们是如何在体内产生的
+how they arise in the body,
+人们可以用来更好地控制情绪的工具方法
+tools that one can use in order to better control their emotions,
+人们可以用这些工具来  真的 让自己感觉更快乐或更平静
+tools that people can use to believe it or not feel happier or feel calmer.
+那是因为在过去的二十年左右
+And that's because in the last twenty years or so,
+探索大脑和身体之间如何交互来支持特定的神经化学物质
+There's been an explosion of scientific studies exploring how the brain and body interact to support certain
+这种科学研究如雨后春笋般涌现  让我们清醒  快乐  沮丧 的神经化学物质
+neural chemicals that give us these feelings of being alert and happy or depressed or certain
+让我们的人生变得可怕  或特定的 或者伟大的
+that our life is going to be terrible or certain that our life is going to be great,
+所以尽管这些听起来很神秘 也很让人困惑
+so as mysterious as all that might sound and confusing,
+可能会这样
+as all that might sound,
+但我们今天会讲得很清楚
+we're going to make it very clear today,
+在这次播客之后 你会得到很多可以立即付诸行动的工具方法
+and you're going to come away from this conversation with a lot of tools that you can act on immediately.
+这些工具都是以科学数据为基础的
+And those tools are grounded in scientific data.
+我们将提供其中几个研究的链接
+We are going to provide links to several of the studies.
+在接下来的课程中我会提到其中的一些研究
+and I'm going to mention some several of those studies as we go along.
+总的来说
+Overall,
+今天的目标是让你理解情绪和情感 在你的大脑和身体产生的不同通路
+the goal today is for you to understand how moods and emotions arise and the different pathways in your brain
+是什么让它们能够产生  以及如何使用这些通路改变这些情绪
+and body that allow them to happen and how you can use those pathways to change those emotions and
+也会讲到具体的工具方法  让您可以依赖于以特定的方式改变情绪  比如说有点抑郁的时候  让自己更快乐
+the tools that you can rely on in very specific ways to shift from being say slightly depressed to feeling happier.
+其实有很多方法可以让你从警觉到焦虑再到平静
+There actually are ways to do that or from feeling to alert and anxious to feeling calmer.
+这些工具不同于我在之前的播客里讲过的工具
+And these are tools that are distinct from the tools I've talked about in previous episodes.
+关于情感的讨论由来已久
+The discussion around emotions has a long and rich history going
+可以追溯到达尔文 甚至在达尔文之前很久
+back to Darwin and even long before Darwin.
+这是哲学家和科学家几百年来一直在讨论的话题
+This is a conversation that philosophers and scientists have been having for hundreds.
+即便没有几千年 也有几百年
+If not thousands of years.
+达尔文提出的 在过去的一百年里非常吸引人的观点是
+The idea that Darwin put forth and that was really attractive for about the last hundred years was that
+情绪是普遍的  一些围绕情绪的面部表情是普遍的
+emotions are universal and that some of the facial expressions around emotion or universal
+其他人发扬了这一观点
+and other people have capitalized on that idea.
+在某种程度上 这是真的
+And to some extent it's true.
+我的意思是
+I mean,
+我认为最有力的两个例子是  当我们看到一些东西
+I think that the two most robust examples of that would be when we see something,
+或者在我们喜欢的地方闻到味道
+Or we smell something where we take something that we like.
+我们确实会有倾斜的姿势
+there does tend to be a postural leaning in.
+我们倾向于吸入空气
+We tend to inhale air.
+在那个时候
+At that time.
+我们倾向于把当下更多的化学物质带入自己的身体
+we tend to bring in more of whatever chemical substances there.
+所以我们倾向于这些...
+So we tend to these oohs and you know,
+身体倾向这些吸引我们的东西
+I'm kind of leaning closer to things that are attractive to us,
+当我们看到我们不喜欢的事物时
+and when we see an experienced things that we don't like,
+有时反应会比较温和
+sometimes it's a milder version,
+我们会向后靠  或者看向别处
+we just kind of lean back or look away.
+其他时候
+Other times,
+可能会产生一种强烈厌恶 我们倾向于畏缩
+it's an intense aversion of disgust and we tend to cringe our face.
+我们倾向于避免吸入任何化学物质
+We tend to avoid inhaling any of the chemicals.
+这可能源于古老的生物机制
+This probably has roots in ancient biological mechanisms.
+我们身体在防止自己摄入对我们有害的东西
+Art to prevent us from ingesting things that are bad for us,
+可能有毒的化合物和味道
+chemical compounds and taste that might be poisonous.
+所以任何关于情感的讨论的基础
+So much of the foundation of any discussion about emotion has to
+都是围绕着这种  对事物的吸引或厌恶 靠近和远离
+center around this kind of push-pull of attraction to things or aversion from things.
+这是思考情绪的一种非常基本的方式
+Now that's a very basic way of thinking about emotions,
+但如果你仔细想想
+but if you think about it,
+它适用于很多不同的环境 并且适用于大脑各处
+it works for a lot of different circumstances and in the brain everywhere,
+从大脑的深层回路  到我们所谓的高级进化的大脑中心
+from the deep circuits of the brain to the more kind of what we call higher order evolved centers of the brain.
+有着这个推拉的动作
+We have this push-pull thing,
+我之前讲过
+where either the previous episode I talked about.
+Go回路让你强调动作  然后基底神经节回路中的nogo回路
+Go the circuits that allow you to emphasize action and then nogo circuits the circuits in the basal ganglia
+让你降低强调动作和预防动作的发生
+that allow you to deemphasize action and preventive action.
+我们说过这是一个“推拉”
+We talked about how that's a push-pull.
+所以厌恶和吸引是一种“推拉”  对快乐  开心  或兴奋
+so aversion and attraction is a push-pull to delight or happiness or excitement
+是对某些事物和想法的吸引
+are attractions to certain things and ideas,
+歌曲
+songs,
+人
+people,
+地方
+places,
+食物
+foods,
+一种是身体倾倒过去
+a version is a leaning out.
+这有待讨论
+It's a discussed,
+这是一种逃避
+it's an avoidance,
+所以我们可以把关于情绪的讨论  分解成这种简单的版本
+And so we can break down the discussion about emotions into these simpler versions of themselves.
+但吸引或厌恶的核心是一个  你们应该已经意识到的重要主题
+But at the core of that of attraction or aversion is an important theme that you might realize already.
+但大多数人往往会忽视
+But most people tend to overlook,
+也就是说 在任何时候 你要么在前进
+which is that there's an action there you're either moving forward
+要么在远离某物
+or you're moving away from something at any time.
+是神经系统中的行为  是运动行为
+You're talking about action in the nervous system you're talking about motor behaviors you're talking about,
+从字面上说 肌肉的收缩使你在任何时候朝向或远离
+literally the contraction of muscles to move you toward or away from things at any time
+也就是神经到肌肉的动作
+you're talking about nerve to muscle and action.
+你说的是大脑和身体因为大脑不能自己移动
+you're talking about the brain and the body because the brain can't move itself.
+大脑控制身体 所以所有内脏以及身体可以移动   身体也可以控制大脑
+The brain has a body so that the organism can move and the body has a brain
+所以你的身体可以靠近或远离 你认为对你有好处或坏处的东西
+so that the organism you can move toward her away from things that you deem to be good or bad for you.
+
+其中一些是我们被吸引  而另一些则是我们避免的
+some of these things that we're attracted to in some of them that we avoid
+或者我们称之为先天的 或者与生俱来的  当我们尝到苦的东西时
+or what we call innate or hardwired when we taste bitter compounds.
+我不是说苦味
+I'm nothing about bitter like you.
+比如酒里有一些苦味之类的
+like a little bit of bitter in your drink or something like that.
+而是非常苦的化合物
+a really bitter compounds.
+我们倾向于避免这些 因为它们往往与毒药有关
+We tend to avoid those because they're associated with poisons.
+当我们品尝甜味或咸味的东西时
+When we taste things that are sweet or that are savoury,
+我们倾向于追求更多  我们向那些靠近
+we tend to pursue more of those we tend to lean toward those,
+可以这么说
+so to speak,
+我们往往不会避开它们
+and we tend to not avoid them.
+所以大脑中有一个回路  来识别对事物的吸引力和厌恶感
+So there are circuits in the brain for a version and for attraction toward things,
+身体在很大程度上控制着这些
+and the body is governing a lot of that.
+所以马上
+and so immediately.
+在这段讨论中
+in this conversation,
+我想提出一个关于神经通路的很重要的观点    很多很多人都听说过
+I want to raise an important point which is about a nerve pathway that many many people have heard of.
+人们一直在讨论这个问题
+that gets discussed all the time.
+这是最严重的一种误解
+And that is one of the most kind of oversold for the wrong reasons and undersold,
+不幸的是
+unfortunately,
+因为它强大之处并不如人们想的那样
+for its real power,
+就是迷走神经
+which is the vaguest nerve.
+迷走神经虽然不是唯一的
+So the vagus nerve is one not the only.
+但确实是我们的大脑和身体连接  并调节我们情绪状态的一种方式
+but one way in which our brain and body are connected and regulates our emotional states.
+你们很多人可能听说过自主神经系统的多重迷走理论
+Now many of you have probably heard about The Poly-Vagal Theory.
+我今天要讲的就是这个
+I'm going to talk about this today.
+自主神经系统的多重迷走理论是由史蒂芬·波格斯推广的
+Poly Legal Theory was popularized by Steven Porges.
+这是一个有趣的理论
+And it's an interesting theory.
+它的某些方面有科学坦白地证明了其中的原理
+Certain aspects of it frankly hold up to the science,
+但有些不是
+but some of it doesn't.
+今天我将讨论所有这些
+And I'm going to discuss all of that today.
+有很多关于迷走神经的讨论 以及迷走神经的火热
+A lot of the vagus and the excitement about the vagus V U.
+是因为它在某种程度上进入了大众的头脑   迷走神经是用来让我们平静下来的
+S is because it's somehow got into the mind of the public that the vase is involved in calming us down.
+那么其中最大的神经是什么呢
+So what is the biggest nerve?
+好
+Ok,
+我们要做的很简单
+we're going to make this really simple,
+特别是对那些只是在听的人
+particularly for those that are just listening.
+你们可以想象一下  对于那些正在观看的人 我会指出不同的区域
+You can just imagine this for those either watching I'll point to the various areas.
+但基本上迷走神经是第十脑神经
+But basically vagus is the tenth cranial nerve,
+这基本上意味着 这些迷走神经元的控制中心就在颈部附近
+which basically means that the neurons that the kind of the control center of each of those neurons in the
+迷走神经的一个分支进入大脑
+vaguest lives just kind of near the neck and a branch of the vagus goes into the brain.
+它们向大脑发送了一根电信号
+They sent a wire into the brain.
+另一个分支进入末梢周围
+The other branch goes into the periphery,
+但不仅仅是肠道
+but not just the gut.
+它进入胃里
+It goes into the stomach,
+肠道
+the intestines,
+心脏
+the heart,
+还进入肺和免疫系统  所以迷走神经神经是不可思议的
+The lungs and the immune system so that this vagus nerve is incredible
+因为它从身体中获取信息它有两个方向
+because it's taking information from the body and it has two directions.
+第一个是我们称之为感官的
+The first is what we call sensory,
+所以它能感应到在肠道和肺部发生的事情
+so it's sensing things that are happening in the gut in the lungs.
+所有事情
+Everything,
+例如
+for example,
+在肺里 当我们的肺膨胀时 迷走神经神经感觉到
+in the lungs when our lungs are distended the vagus nerve senses that
+并把信息发送到大脑
+and sends that information up into the brain.
+它感知到内脏
+It also consents things in the gut.
+比如你的胃有多胀多空
+Like how distended or empty your stomach happens to be,
+它可以感知心率
+it can sense heart rate.
+它可以感知你的免疫系统
+It can sense your immune system,
+不管你的身体里是否有细菌或其他东西入侵
+whether or not you have bacteria or things invading you in your body,
+所以它会把信息发送到大脑
+so it sends that information up to the brain,
+所以这是一条双向通道 感官信息会到达大脑
+so it's a two way street and sensory information is going up to the brain.
+这就是迷走神经
+That's all vagus,
+这就像一条高速公路 感应信息从一个方向传递到另一个方向由运动控制
+so it's like a superhighway sensory information going one way and in the other direction his motor control.
+所以迷走神经不仅仅是用来感知事物的
+So the vagus is not just for sensing things,
+它实际上是用来控制事物的
+it's actually for controlling things.
+它在运动路径中有一个感觉路径
+It's got a sensory pathway in a motor pathway.
+这是我认为每个人都应该知道的关于迷走神经的第一件事
+So that's the first thing I think everyone should know about the vagus.
+事实上
+In fact,
+这太重要了 我觉得这和大家知道走路
+it's so important that I feel like this is as important as people.
+需要屈肌和广泛的运动一样重要
+knowing that walking involves flexors and extensive.
+如果你觉得这不重要
+And if you don't think that's important,
+坦率地说 这和走路一样重要
+it's as important as walking frankly,
+因为在迷走神经你可以控制大脑和身体的联系
+because the vagus is the way in which you can govern the brain body connection
+在你可以控制你的情绪和健康的各个方面
+and in which you can steer various aspects of your mood and well being.
+但大多数人就是不知道如何使用它
+But most people just don't understand how to use it.
+首先
+So first,
+你得明白那是什么
+you've got to understand what it is.
+所以感官信息从身体的不同器官到达大脑
+So you've got sensory information coming from all these different organs of the body up to the brain,
+肠道运动信息从大脑传回身体
+gut motor information going from the brain back to the body,
+这样你就有了一条内在的高速公路
+and so you've got this superhighway within you.
+那么是什么在控制迷走神经呢
+Now what actually regulates the vagus?
+你经常会听到这样的话
+Oftentimes you'll hear things like,
+哦
+Oh,
+这种特殊的行为
+you know this particular behavior,
+用特定的方法改变你的脸  或者以特定的方式呼吸
+rubbing your face at a particular location or breathing in a particular way,
+或者你洗个热水澡 或者其他刺激迷走神经的东西
+or you're warm bath or something stimulates the vagus well right now.
+我想让每个人都知道这句话
+I want everyone to know that Quote Unquote.
+广义上来说 “刺激迷走神经”是一种糟糕的看待迷走神经的方式
+Stimulating the vagus broadly speaking is a terrible way to think about the vagus,
+因为你知道如果你体内有污染物会怎么样吗
+Because did you know what if you have a contaminant Inside your body?
+迷走神经察觉到了并将信息投射到你的大脑
+The vagus senses that and projects that information to your brain
+你会开始发烧  你开始试图杀死你体内的污染物
+and you start to generate a fever you start to try and kill that contaminant in your body.
+所以我不说什么“刺激”迷走神经  作为今天的主题
+So I don't know that you want to stimulate the vagus just as a general theme today,
+我们将具体了解如何激活特定的电路
+we're going to get specific about how you can activate particular circuits,
+从特定的器官到大脑的特定通路 以便感觉更好或缓解特定的状况
+certain pathways from certain organs to the brain in order to feel better or relieve certain conditions.
+但你肯定不想现在就刺激迷走神经
+But you certainly don't want to just stimulate the vagus now.
+对迷走神经感到兴奋的部分原因是
+Excitement about the vagus in part is because of what I'm quite honestly was
+说实话 这是一个关于迷走神经的相当超前的理论
+a fairly pioneering theory about the vagus,
+这就是自主神经系统的多重迷走理论
+which is Polly legal theory.
+所以多重迷走理论
+So Polly Vehicle.
+Poly这个词的意思是很多  很酷  因为它代表迷走神经有很多不同的分支机构
+The word Poly means many is cool because it acknowledges that the vagus has a lot of different branches.
+这不是一个分支
+It's not just one thing,
+所以我真的很喜欢
+and so I really like that.
+我喜欢用多重迷走这个名字
+I like the naming Poly Vehicle.
+波特提出的观点是背侧迷走神经  有点像在脊髓后部运行
+The idea that porters put forward was that there's a dorsal vagus which is kind of runs the back of the spinal cord,
+它涉及到警觉性和激活  以及战斗  逃跑
+which is involved in alertness and activation and kind of fight or flight.
+有一个腹侧通道
+Type stuff and that there's a ventral pathway,
+这涉及到更多的移情行为
+and then that's involved in more kind of empathic behaviors.
+这和现代解剖学不太一致
+That is not quite in agreement with the modern anatomy,
+但你知道 他已经用他当时的能力做到了最好
+but you know he was doing the best with what he had at the time.
+所以
+So,
+好
+OK,
+多重迷走理论 的问题在于它的讨论方式
+the problem I have with the Poly legal Theory is the way that it's discussed.
+人们常说
+People often say,
+哦
+Oh,
+
+如果你的背侧迷走神经过于活跃 你往往是一个有点过于紧张的人
+if your dorsal vagus is too active than you tend to be someone who is a little too keyed up,
+有些人处于一种静止的状态 或者是一种平静的状态 或者是一种不怎么活跃的状态
+and people who are kind of in a state of freeze or kind of placid and kind of you know like just not really active,
+他们昏昏欲睡
+and they're just lethargic.
+那么这个通道是低活性的
+Within that pathway is Hypo Active.
+它应该更加活跃
+It should be more active,
+关于心理学如何映射到迷走神经有很多理论
+So there are a lot of theories about how psychology maps onto the vagus that,
+据我所知
+as far as I know,
+不符合任何真正的生理机能
+don't map to any real physiology.
+
+多重迷走理论讨论的另一个问题是
+The other problem with this kind of the way that the Poly legal Theory is discussed,
+可能不是真正的专家在讨论 而是很多人
+probably not by the real experts but by a lot of people,
+人们诊断出不同的心理和生理表现
+is that people start to diagnose different psychological and
+通过迷走的表现他们会说些什么
+physical manifestations through the vagus they would say things like,
+哦
+Oh,
+这个人的关节非常灵活 因此他们的背侧迷走神经不够活跃
+you know this person is hyper flexible at the joints and therefore their dorsal vagus isn't active enough or something like that,
+而且已经远远超出了车道线
+and it's really kind of gone way outside the lane lines.
+所以今天我们要清理很多错误的观点
+So today we're going to clean up a lot of that.
+让我们简单说说迷走神经是怎么运作的
+Let's make it really simple about how the vagus actually works,
+至少就我们今天在2021年所理解的这样
+at least as we understand it today in two thousand and twenty one.
+首先
+First of all,
+正如我提到的
+as I mentioned,
+你有感觉信息 就像你用眼睛探测光线一样
+you have sensory information in the same way that you detect light with your eyes,
+或者你用耳朵听声音
+or you hear sounds with your ears.
+你的内脏中有受体 可以发送你的内脏有多饱或有多空
+You have sensors in your gut that sends how full or empty your gut is.
+它还能感知肠道的酸性程度
+It can also sense how acidic your gut is.
+它同意你内脏里的各种事情
+It consents various things within your gut.
+你的心脏也在这样做
+your heart is doing the same.
+它告诉大脑你的心跳有多快
+It's informing the brain how fast your heart is beating,
+你肺部的充盈程度和你免疫系统的状态都已经被告知了
+how full your lungs are has been communicated and then the status of your immune system.
+所以看待迷走神经的方式和我看待眼睛的方式是一样的
+So the way to think about the vagus is the same way I would think about the eyes.
+眼睛注视着颜色
+The eyes are looking at colors,
+看到外界的运动
+they're looking at motion,
+眼睛在看
+they're looking,
+世界有多亮 每一个东西
+how bright it is and each one of those things,
+这些特征告诉大脑一些不同的东西 大脑可以决定什么时候清醒 什么时候睡觉
+those features is telling the brain something different that the brain can decide when to be awake or asleep,
+不管它看的是有吸引力的人还是没有吸引力的人
+whether or not it's looking at somebody attractive or unattractive.
+迷走神经也在分析身体的许多特征并告诉大脑如何感受和做什么
+The vagus nerve is also analyzing many features within the body and informing the brain of how to feel about
+我认为一个很好的例子是  一个令人兴奋的例子  它与糖有关
+that and what to do so a really good example that I think is an exciting one is as it relates to sugar,
+所以我们都知道甜味的东西通常味道很好
+so we all know that sweet things generally tastes good.
+我不是特别喜欢吃非常甜的甜食
+I'm not particularly a fan of very sweet things,
+
+我宁愿吃那些
+I'd much rather have you.
+奶酪 披萨 汉堡牛排
+cheese or pizza or hamburger steak.
+我喜欢咸的的高脂肪食物
+I like savoury fatty foods.
+但我也喜欢甜食
+But I do like sweet foods.
+大多数人觉得甜食很有吸引力
+and most people find sweet foods to be attractive,
+他们想要吃
+they want them.
+他们可能会
+They might,
+或者他们可能无法控制自己的行为
+or they might not be able to regulate their behavior around them,
+但是他们想要
+but they want them.
+有趣的是 几百年来
+And what's really interesting is that for hundreds of years,
+人们认为这是因为甜的味道
+people have thought that that's because of the way that sweet,
+甜食的味道
+too sweet foods taste,
+那也讲得通对吧？
+so I'll make sense right?
+你吃一些甜的东西
+You eat something that tastes sweet,
+你想要吃更多
+you want more of it.
+
+事实证明 这比吃甜的东西更有趣
+it turns out that it's much more interesting than that when you eat something sweet.
+在你的胃
+Within your stomach,
+你有细胞
+you have cells,
+感知含糖食物存在  而不受味道影响的神经元会向大脑发出信号
+neurons that sense the presence of sugary foods independent of their taste and signal to the brain.
+这些受体
+so those sensors,
+这些神经元
+those neurons,
+把信息从迷走神经传送到你的大脑  经过一系列的站点
+send information up the vagus to your brain goes through a series of stations.
+然后释放多巴胺
+and then you release dopamine.
+这种分子会让你想要更多你刚摄入的东西
+This molecule that makes you want more of whatever it is that you just ingested.
+事实上
+In fact,
+这种通路非常强大 有人在实验中完全麻木了试验者嘴里的
+this pathway is so powerful that they've done experiments where they completely numb
+味道和感觉
+all the taste and feeling in somebody's mouth.
+被蒙上眼睛
+they're blindfolded,
+他们不知道自己吃的是什么  他们吃的是含糖或不含糖的食物
+so they don't know what they're eating and they're eating a food that's either sugary or not sugary.
+他们发现 即使人们尝不出含糖食物的味道
+and what they find is that even though people can't taste the sugary food,
+他们会更渴望含糖的食物 因为肠道中有感应糖的受体
+they crave more of the food that contain sugar because of the sensors in the gut that sense sugar.
+换句话说
+So to put this differently,
+实际上 你的身体里有一些受体
+you actually have sensors within your body that
+它们让你渴望糖 而且并不依赖于糖的甜味
+make you crave sugar independent of the sweet taste of those things.
+这太不可思议了
+Now that's incredible and what it does,
+它告诉我们的是 我们的身体里有一些回路
+and what it tells us is that we have circuits in our body that are
+驱使我们做出某些行为 让我们感觉良好
+driving us towards certain behaviors and making us feel good,
+即使我们现在无法感知它们
+Even though we can't perceive them now
+对于那些对肠道直觉感兴趣的人来说
+for those of you that are really interested in gut intuition and kind of gut feelings,
+这是一种肠道直觉
+this is a gut feeling,
+只不过这是一种化学上的肠道感觉
+except this is a chemical gut feeling.
+这是一组特殊的神经元 检测你体内的某些东西有特定的特征
+This is a particular set of neurons detecting that something in your body has a particular feature in this case,
+糖的存在  并向大脑发送信息来控制你的行为
+the presence of sugars and sending information to the brain to essentially to control your behavior.
+我觉得这很了不起 因为这意味着我们所谓的吸引力
+And I find this remarkable because what it means is that what we call attractive
+并不总是来自我们的想法或感觉 甚至是我们的感知
+isn't always coming from our thoughts about that or our feelings are even our perception.
+我们会被特定的食物所吸引 也会被特定的人所吸引
+We are drawn to particular foods and were drawn to perhaps also to particular people,
+因为信息来自我们的身体
+places and other things because of information that's coming from our body,
+我们将讨论如何利用这些信息
+and we're going to talk about one what one can do with this information.
+我知道很多人关心或担心糖
+I know many people are thoughtful or concerned about sugars.
+特别是最近
+These days,
+都在想着
+thinking,
+我们都摄入了太多的糖分
+you know we all adjust too much sugar.
+我们吃的所有东西都含有糖分
+Their sugar snuck into all the things we we eat.
+的确如此
+and indeed that's true.
+我的意思是
+I mean,
+这应该会完全改变我们对所谓的“隐藏糖”和食物的看法
+this should completely reframe the way that we think about the sort of so called hidden sugars and foods.
+也就是说 即使一种食物非常美味
+What this means is that even if a food is very savory,
+比如一块披萨 一块面包 甚至是沙拉酱
+like a piece of pizza or up or piece of bread or even like a salad dressing,
+即使你尝不出里面有糖
+if their sugar snuck into that and you can't taste it,
+你仍然会对它产生更多的渴望 即便你不知道你渴望它是因为它含有糖
+you will still crave more of that thing without knowing that you crave it because it has sugar.
+换句话说
+In other words,
+你可能会发现自己想吃某些食物 却不知道为什么想吃这些食物
+you might find yourself wanting certain foods and not knowing why you want those foods.
+所以我觉得这是我们生物学中一个很吸引人的方面
+So I find this to be a fascinating aspect of our biology.
+是的
+and yes,
+它与情绪和情感有关
+it relates to mood and emotion.
+我们一会儿会讲到这是怎么回事
+and we'll talk about how that is in a moment.
+让我们回过头来问一个问题  为什么我们要吃一些特定的东西？
+So let's just back up a bit and ask the question Why do we eat certain things?
+为什么某些食物让我们感觉良好？ 而其他食物实际上会让我们感到焦虑？
+and why do certain foods make us feel good and other foods actually make us feel anxious,
+认为有些人可能对此很熟悉
+thinks some people may be familiar with this.
+其他人可能不会
+other people might not.
+大多数人都没有意识到 当你快要吃东西的时候
+Most people don't realize that as you approach eating,
+会随之产生一种焦虑
+there's an anxiety associated with that.
+这是一种警觉
+It's an alertness.
+记住在之前的讨论中
+Remember in the previous discussions,
+即使你不知道 之前没听过
+or even if you don't and you haven't seen those.
+就是  你所有的情绪和感觉都是建立在警觉和平静的连续统一体上的
+All of your moods and feelings of well being are anchored on this continuum of alertness versus calmness,
+我们经常听到“休息和消化”
+and we hear so often about rest and digest.
+你知道的
+You know that.
+哦
+Oh,
+我们吃后
+after we eat,
+我们感觉很好
+we feel really nice in full,
+很有可能是舒服的饱了或者依然不饱了 很放松
+hopefully comfortably full or not to full and were relaxing.
+我们感到满足
+and we feel satiated.
+它与血清素有关
+It's associated with serotonin,
+这个满足的分子
+this molecule of satiation.
+这都是真的
+That's all true,
+但大多数人不知道的是 在大脑深处有一个下丘脑区域
+but what most people don't know is that there's an area of the hypothalamus so deep in the brain,
+在中间
+kind of in the middle,
+大脑深处被称为外侧下丘脑
+deep portion of the brain called the lateral hypothalamus
+外侧下丘脑非常有趣 因为它控制着进食
+and the lateral hypothalamus is really interesting because it controls.
+而且会阻止进食
+Feeding but it inhibits feeding it,
+它阻止我们进食  大脑中还有另一个区域
+it stops us from feeding and there's another area in the brain.
+如果你想知道名字
+If you want names,
+我给你
+I'll give them to you.
+如果你不想知道名字
+If you don't want names,
+忽略它们
+just ignore them,
+从你的记忆和意识中删除它们 称之为“蓝斑”
+delete them from your from your memory and awareness called the locus coeruleus
+
+蓝斑位于脑干的后面
+the locus coeruleus sits back further in the brain stem.
+它会释放去甲肾上腺素
+and it releases norepinephrine,
+它本质上是肾上腺素 让我们感到警觉
+which is essentially adrenaline and makes us feel alert.
+蓝斑释放在大脑中有很多不同的功能
+that Lucas release has a lot of different functions in the brain.
+我们吃饭的时候
+But when we are going to eat,
+假设我们走进一家餐馆
+let's say we walk into a restaurant.
+我们坐下来或正在准备一顿饭
+we sit down or were preparing a meal locus.
+众所周知蓝斑会在大脑中释放去甲肾上腺素
+Sirius is known to release noradrenalin in the brain.
+它创造了一种警觉性
+It's creating a kind of alertness.
+这有古老的效用
+This has ancient utility,
+蓝斑创造了这种警觉性
+but it's creating this alertness.
+对很多人来说 当他们接近食物时 他们的感受是压力和焦虑
+and for many people they experience that as they approach food as stress as anxiety.
+但有趣的是 当我们接近食物时
+But what's interesting is that as we approach food,
+蓝斑
+locus,
+释放的所有这些分子  让我们感到更焦虑和警觉
+Sirius as releasing all these molecules that make us feel more anxious and alert.
+有时感觉是兴奋
+Sometimes it felt as excitement.
+我问的大概是我们对食物的感觉
+and I asked probably to do with how we feel about food generally.
+我们对自己与食物的关系是否满意
+Are we happy with our relationship to food?
+我们是在试图把我们的关系限制在食物或来吃晚餐的人身上吗？
+Are we trying to restrict our relationship to food or people coming over for dinner?
+所有这些都将发挥作用
+All that will play in,
+当然
+of course.
+在接近食物的过程中会有一定的压力和焦虑  当我们接近食物的时候
+There's a certain stress and anxiety on approach to food and as we approach food,
+我们认为 蓝斑以一种抑制进食的方式激活外侧下丘脑
+and we feel that anxiety locus cerulean activates the lateral hypothalamus in a way that inhibits feeding.
+这让我们不想吃东西
+That makes us not want to eat.
+所以很多有额外焦虑 或对食物焦虑的人
+so a lot of people who have kind of premium anxiety or anxiety around food,
+他们似乎无法平静下来 好好吃一顿饭 以获得稍后的休息和消化
+and they can't seem to just calm down and have a good meal to access that later rest and digest.
+很多
+A lot of.
+这是因为在获取食物和很多工具方面的压力越来越大
+That is because of this heightened stress upon approach to food and a lot of the tools that are out there,
+对饮食失调和普通大众都有帮助
+both for eating disorders and for just kind of the general public.
+没有患上饮食失调的人
+Who isn't suffering from eating disorders.
+比如吃饭时的专注力
+Things like mindfulness around meals,
+他们总是告诉你
+you know they always tell you,
+压力大的时候不应该吃东西
+you know you should never eat when stressed,
+我很抱歉
+I'm sorry,
+但是我的生活并不是很有条理 真那样我永远不会正确的进食了
+but my life is not organized in a way that I can't do that I would never eat right
+因为我在醒着的时候 我不知道我是否有压力
+because I eat when I'm awake and I don't know if I'm stressed,
+但是我
+but I,
+我想我不是
+I don't think I am,
+我倾向于
+but I tend to.
+白天经常跑来跑去
+You'll run around a lot during the day.
+我通常不会在吃饭前花时间做两到三次深呼吸
+I don't generally take time to do two or three deep breaths before I eat.
+我一般就这么吃了
+I generally will just keep it will eat.
+这可能是健康的  也可能是不健康的
+That can be healthy or unhealthy,
+这取决于你的消化能力
+depending on the quality of your digestion.
+我认为以消化为指导是好的
+I think using digestion as a guide is good,
+但是很多人没有意识到这种
+but a lot of people aren't aware that this interaction between locusts,
+蓝斑释放和外侧下丘脑的相互作用是一个基本的机制
+release and lateral hypothalamus is a basic mechanism where
+我们应该在吃饭的时候变得有点警觉和焦虑
+we are supposed to get a little bit alert and anxious around meal time and then as we eat.
+镇定和满足的机制应该会起作用
+The mechanisms for calming and satiation are supposed to kick in.
+这些机制包括
+and those mechanisms involve.
+正如我之前提到的
+As I mentioned earlier,
+有两件事  一件是食物是如何在口中消化
+two things one is how things taste digestion starts in the mouth.
+当然
+Of course,
+我们在品尝我们的食物
+we're taste our food.
+每个人都告诉我们应该多咀嚼食物
+everyone tells us we should chew our food more.
+是的
+Yes,
+我们吃东西的时候不应该喝太多的液体
+that can improve digestion were not supposed to drink too many fluids as we eat.
+这是真的
+That's true too,
+但我们吃东西时和吃完后的感觉  很大程度上都是因为这个迷走神经
+but a lot of how we feel while we eat and after we eat is because of this vagus,
+在感知我们内脏里的东西
+sensing of what's in our gut,
+一直在发送信息的是  它们是糖？
+it's sending information all the time is their sugar,
+它们是脂肪？  还是坏的物质？
+are their fats are they're contaminants?
+在我们的大脑中有很多所谓的平行通路
+There are a lot of information the so called parallel pathways that
+它们在调控我们是否想要吃更多的东西
+are going up in our brain that regulate whether or not we want to eat more of something or not.
+还有加速器
+And there are accelerators,
+让我们吃得更多的东西 比如糖和脂肪
+things that make us one eat more like sugar and fats,
+因为这些都是富含营养的 而且通常都有帮助
+because those are nutrient dense and they helps generally,
+至少在短期内有帮助
+at least in the short term,
+支持动物的生存 还有氨基酸
+support the survival of of animals but also amino acids.
+这一点非常重要
+and this is very important.
+有很多数据
+There are a lot of data,
+但是大部分来自人们吃什么和吃多少的信息
+but much of what comes from the data on what people eat and how much they eat is from
+是来自对氨基酸的数量和排列的含义的潜意识检测
+a subconscious detection of how many amino acids and what the array meaning.
+氨基酸的排列
+The constellation of amino acids,
+在特定的食物中
+is in a given food.
+可以这么说 这些研究的总和指向了一个方向
+And it's fair to say that the sum total of these studies point in the direction
+即人们基本上会一直吃到  不是他们的胃饱了
+where people will basically eat not until their stomach is full,
+而是
+but until.
+直到大脑感知到他们摄入了足够的氨基酸
+The brain perceives that they have adequate intake of amino acids.
+这个对话是在酮基的背景下进行的
+Now this is a conversation that comes up in the context of you know the meat only the Quito,
+间歇性进食法
+the kind of a zone diet,
+地中海饮食
+the Mediterranean Diet,
+素食饮食
+the Vegan Diet.
+今天我基本上不去管那些严格的饮食方式
+I'm largely going to ignore the kind of strict camps today.
+我会稍微讲一下  因为我认为每一种方法都能触及大脑
+I will talk a little bit about it because I think each one of them actually
+与身体关系的一些重要方面而其他方法没有触及
+taps into something important about this brain body relationship that the other ones don't.
+但我不想讨论动物
+But I don't want to get into a discussion about the ethics of the ethics of different foods of animal based
+和非动物食品的伦理问题
+or non animal base,
+这不是今天的主题
+because that's not the topic today.
+这期是关于营养感知
+It's really about nutrient sensing.
+氨基酸感应
+an amino acid sensing,
+所以我们通常会吃 直到我们的肠道告诉我们的大脑我们有足够的这些氨基酸
+so we generally will eat until our gut tells our brain that we have adequate amounts of these amino acids.
+氨基酸
+Amino acids,
+当然了
+of course,
+氨基酸很重要 因为它们是短肌肉
+are important because they are the building blocks of short muscle
+和我们身体中其他需要修复的东西的组成部分
+and the other things in our body that need repair.
+但是大多数人没有意识到的是氨基酸
+But what most people don't realize is that amino acids,
+或者大脑中的神经化学物质是由什么组成的
+or what the neuro chemicals in the brain are made from.
+这一点至关重要
+This is vitally important.
+好吧
+OK,
+我们已经知道多巴胺是一种让你感觉良好的分子
+So we've heard dopamine is a molecule that makes you feel good.
+实际上
+Actually,
+多巴胺是一种让你感觉良好的分子
+dopamine is a molecule that makes you feel good.
+它在大脑中被释放出来 感觉很好
+It's released within the brain and it does feel good,
+多巴胺的释放是由惊喜和兴奋引起的
+very good when you have dopamine release dopamine release is caused by surprise excitement,
+你所期待的事情终于发生了
+events that you're looking forward to in that turn out.
+
+当你期待的事情没有发生的时候  它会被抑制
+it is inhibited by events you're looking forward to that don't work out
+当有人说他们会打电话给你 然后你真的
+when someone says they're going to call that you're really,
+真的很兴奋
+really excited to talk to him,
+结果他们没打  那多巴胺就被抑制了  你觉得一部电影很棒
+then they don't where you thought a movie was going to be really great,
+结果它不是 或者你希望一顿饭非常美味 它无处不在 我们实际上有一个名字
+and it's not or you expect a meal to be really delicious and it's kind of air and we actually there's a name for that.
+这被称为奖励预测错误
+It's called reward prediction error.
+所以如果你真的可以在饮食和计划中使用这个方法
+So if and you can actually use this in the context of meals and plans in a way
+这对你自己和别人都很有用
+that's very useful with yourself and people,
+
+从本质上讲
+Essentially,
+如果你期望某件事真的很棒
+if you expect something to be really terrific.
+它确实在化学层面上提出了更高的期望
+It really does place a higher expectation at the chemical level,
+所以如果你没有从某件事中获得足够多的多巴胺
+so if you don't get as much dopamine as you're expecting from something
+比如你就会听说有一家很棒的餐厅  我自身情况是这样的
+so you you hear about a really great restaurant to replace that as a really in my case,
+我会称之为上瘾
+I would call it an addiction.
+我更愿意称之为牛角包的痛苦
+I would call it more of an affliction for croissants,
+最好的食物
+the best vegetable,
+当然了
+of course,
+就是牛角面包
+is the croissant.
+如果有人告诉我有个地方的牛角特别好吃  那我会很兴奋
+and I get really excited about the fact that someone will tell me?
+哦
+Oh,
+有个地方有超赞的牛角包
+there's this place and have incredible croissants.
+你得去那里试试
+you gotta go there,
+所以我们会感到很兴奋
+so we get really excited,
+我会去那边 然后他们告诉我这将会非常棒
+I'll go and just them telling me that it's going to be really terrific.
+这就提出了一个期望
+Raises an expectation,
+多巴胺的期望
+a dopamine expectation,
+除非那些牛角包很好吃
+and unless those croissants are amazing,
+很有可能
+chances are,
+我会觉得它们不那么好好吃
+I'm going to experience them as less good,
+没达到我的预期
+less satisfying.
+那我会释放更少的多巴胺
+I will truly release less dopamine.
+然后我就会让他们说
+then I would have they just said,
+哦
+Oh,
+是的
+yeah,
+我觉得街上有牛角面包
+I think that they're croissants down the street,
+或者我只是随机尝试一个
+or if I just tried one at random.
+这是因为这种奖励预测误差
+And that's because this reward prediction error,
+你对某事的期待会释放多巴胺 而实际事件也会释放多巴胺
+your expectation of something releases dopamine and the actual event releases dopamine.
+如果事件与此相关
+And if the event related,
+多巴胺不会超过或至少与预期相匹配
+dopamine does not exceed the expectation or at least match it.
+现在的可能是 你不会再追求那件事了
+There's a much higher tendency that you won't pursue that thing again.
+所以多巴胺非常强大
+So dopamine is really powerful,
+多巴胺不仅仅是奖励的分子
+and it's not just the molecule of reward.
+它还是欲望的分子
+it is the molecule of desire.
+这是一种想要的分子  而不仅仅是一种拥有的分子  有一本书
+It's the molecule of wanting not just a molecule of having and a book,
+因为大家经常要求推荐书籍
+since people often ask for book recommendations.
+我个人并不认识这本书的作者
+I don't know the author personally,
+但我喜欢这本书的名字
+but I love the book it's called.
+<The Molecule of More>是一本很棒的书
+The molecule of More is a terrific book.
+坦白讲  我真希望我能写出那么好的书
+I wish I had written it frankly.
+但如果你想了解更多关于多巴胺的知识
+But if you want to learn more about dopamine,
+在多巴胺如何调节你的情绪和动机生活的各个方面  奖励预测错误
+reward prediction error in how dopamine regulates various aspects of your emotional and motivational life,
+这是一本很棒的读物
+it's a terrific read.
+多巴胺会让我们想吃更多的东西  或不想吃更多的东西
+Dopamine is what's going to lead us to want to eat more of something or to not want more of something,
+因为多巴胺真的与渴望有关
+because dopamine really is about craving.
+这联系着动机和欲望
+It's about motivation and it's about desire.
+正如我提到的
+And as I mentioned,
+我们肠道中的这些氨基酸受体正在检测氨基酸的数量
+these amino acid sensors in our gut are detecting how many amino acids,
+但它们也在探测
+but they're also detecting,
+有一种特殊的氨基酸  叫做酪氨酸
+which amino acids and there's a particular amino acid called El Tyrosine,
+来自食物
+which comes from food,
+你可以上网查
+you can look up online,
+哪些食物含有酪氨酸  不是肉类
+which foods contain all tyrosine it isn't meats,
+不是坚果
+it isn't nuts.
+它存在于一些植物性食物中
+It is also in some plant based foods.
+L-酪氨酸是其他一些分子的前体 比如ElDopa
+l tyrosine is the precursor to a couple other molecules like El Dopa,
+等
+etc.
+这是多巴胺的原料
+that make dopamine,
+所以有一种误解  认为大部分血清素都是后天获得的
+and so there is a misconception out there that most of the serotonin is an are gotten.
+大部分多巴胺存在于我们的肠道中 因此我们的情绪也存在于肠道中
+Most of the dopamine is in our gut and therefore our mood is in our gut.
+事情不是这样的
+That's not quite the way it works.
+好吧
+OK,
+我们一会儿会谈到血清素
+we'll talk about serotonin in a moment,
+但是多巴胺是由你吃的氨基酸合成的
+but dopamine is synthesized from the amino acids that you eat.
+然而
+However,
+多巴胺神经元会产生良好的感觉 想要更多的感觉 欲望和动力
+the dopamine neurons that give rise to these feelings of good or wanting more or desire and motivation.
+它们存在于大脑中
+Those reside in the brain,
+我们不想弄得太复杂
+So we don't want to get too confused.
+我们要尊重肠道的力量和这条合法途径
+We want to respect and honor the power of the gut and this legal pathway,
+但实际上是你大脑中的神经元驱动着你的追求和做决定
+but it's really neurons within your brain that drive the pursuit and decisionmaking.
+这意味着什么呢
+So what does this mean?
+
+有些人会分泌两种多巴胺
+some people make two little dopamine.
+有些人产生的多巴胺太少 以至于他们需要服药多巴胺
+Some people make so little dopamine that they need prescription dopamine,
+他们需要吃al dope
+they need al dope.
+但是帕金森患者服用左旋多巴和其他化合物来增加多巴胺
+But people with Parkinson's take l dopa and other compounds to increase dopamine.
+因为帕金森氏症与运动障碍有关 它始于震颤
+Because Parkinson's is associated with deficits in movement starts as a tremor.
+当她开始做其他有趣的事情时
+As she starts at some other things that are interesting,
+我们一会儿再讨论
+We'll talk about in a moment.
+但是帕金森是一种抑郁症
+But Parkinson's is a depression,
+这实际上是一种动机和情绪的钝化
+it's a blunting of motivation and mood in effect,
+这是一种震颤
+and it's a tremor,
+最终在恶劣的条件下
+and then eventually in severe conditions,
+它在说话和走路方面的挑战 有一些著名的例子  比如 拳王 默罕默德·阿里
+its challenges in speaking and walking so that some famous examples would be your Muhammad Ali,
+迈克尔·J·福克斯
+Michael J Fox.
+伟大的拳击教练
+The great boxing trainer,
+Freddie Roach
+Freddie Roach,
+就像这些患有帕金森症的人
+like these people have Parkinson's,
+他们
+and they,
+至少在他们后来的生活中
+at least later in their life,
+说话有困难
+had challenges speaking now,
+并不是只有拳击者 或者战斗的人  才会患上帕金森症
+it's not just fighters that develop Parkinson's.
+据我所知
+As far as I know,
+迈克尔·J·福克斯不是不是一个斗士
+Michael J Fox wasn't wasn't a fighter.
+人们可以产生这种
+People can develop.
+帕金森病是大脑中多巴胺神经元的耗竭
+Parkinson's and Parkinson's is a depletion of dopamine neurons in the brain,
+不仅仅是动作挑战还有情绪挑战
+and it's not just movement challenges its challenges with mood.
+
+希望你们大多数人都没有帕金森症
+hopefully most of you all of you don't have Parkinson's.
+但很明显 饮食中的L-酪氨酸支持了多巴胺等物质的健康生产
+But it's clear that dietary al tyrosine supports the healthy production of things like dopamine
+以及大脑中的其他物质的产生
+and as well as other factors within the brain.
+有些人马上就问了
+Now some people immediately asked.
+
+我需要补充L-酪氨酸吗
+should I supplement l tyrosine?
+我们来讨论一下 因为这将会涉及到充分披露
+So let's just talk about that because that's going to come up full disclosure.
+我有时吃L-酪氨酸
+I sometimes take l tyrosine.
+我现在不吃
+I'm not taking it right now,
+但我只是偶尔服用
+but I take it only occasionally.
+你可以买到它的胶囊
+You can buy this in capsule form.
+它确实能提高情绪 提升和警觉性
+It does increase kind of mood and elevation and alertness.
+这是非处方药  药店里就可以买到的 但你必须先和医生沟通
+It is over the counter you have to check with your doctor.
+我不负责你的健康
+I'm not responsible for your health care,
+我不是医生
+and I'm not a doctor,
+我不知道对你是否安全
+whether or not safe for you.
+患有躁狂症等高多巴胺能性疾病的人  也许不应该服用L-酪氨酸
+People with preexisting hyper dopaminergic conditions like mania should probably not take l tyrosine.
+服用所有酪氨酸的另一件事是  会出现崩溃
+The other thing about taking all tyrosine is there is a crash.
+好吧
+OK,
+如果你服用适当的剂量 并且它适合你 就不会有大的崩溃
+it's not a massive crash if you take it an appropriate doses and it's right for you.
+但它会在昏睡状态下产生崩溃 在第二天左右的时间里产生一种云里雾里的感觉
+But it can produce a crash in a lethargy and a kind of brain fog after the next day or so,
+所以
+and so.
+但是
+L Tyrosine,
+L-酪氨酸
+however,
+可以通过食物或补剂摄入
+can be ingested through foods or through supplementation,
+增加众所周知的多巴胺水平
+to increase dopamine levels that's well known.
+如果长期服用
+Taking chronically,
+然而
+however,
+它会破坏多巴胺通路
+it can disrupt those dopamine pathways.
+现在有其他药物也会增加L-酪氨酸和多巴胺
+Now there are other drugs that will increase l tyrosine and dopamine as well.
+但这些症状很严重 通常会让人上瘾
+But those are severe enough that they generally tend to have addictive properties,
+所以像甲基苯丙胺和可卡因这样的东西是很可怕的
+so things like methamphetamine and things like cocaine are terrible
+因为它们真的增加了多巴胺系统
+because they really ramp up the dopamine system so much that
+以至于人们真的不能通过任何其他机制获得多巴胺释放
+people really can't achieve dopamine release through any other mechanisms.
+但是食物和L-酪氨酸的摄入对我们的多巴胺水平有深远的影响
+But food and the ingestion of al Tyrosine has a profound effect on our levels of dopamine.
+这需要一点时间
+It takes a little while,
+但这真的会影响情绪水平
+but that really will impact level of mood.
+某些抗抑郁药属于多巴胺能抗抑郁药的范畴
+Certain antidepressants fall into the category of dopaminergic antidepressants.
+其中最著名的一个
+One of the most famous ones,
+当然
+of course,
+就是发展起来的安非他酮  因为很多其他的抗抑郁药
+is well buran wellbutrin with developed because a lot of the other antidepressants
+会让人感觉昏昏欲睡
+tend to make people feel kind of lethargic,
+有他们不喜欢的副作用
+They had side effect profiles that people didn't like.
+所以他们发明了一种通用名称不同的东西
+So they developed this thing that the generic name is different,
+但它通常被称为安非他酮
+but it's generally called wellbutrin.
+融合激活了多巴胺和肾上腺素
+While fusion activates dopamine and epinephrine,
+是多巴胺的底物
+Which is a substrate of dopamine,
+这两者都与动机 警觉性和努力有关
+and both of those are involved in motivation and alertness and effort.
+你可能会说
+So you might say,
+哇
+Wow,
+听起来像是一种很棒的药
+that sounds like a great drug.
+然而
+However,
+这种药
+this drug,
+副作用往往是那些与提高情绪和警觉性有关的东西
+the side effect profile tends to be the things that are associated with elevated mood and alertness.
+所以这并不是说  吃一些L-酪氨酸
+So this isn't like taking some ill tyrosine.
+这和吃富含酪氨酸的食物不一样
+This isn't like eating some tyrosine rich food.
+这是多巴胺和去甲肾上腺素的大量释放
+This is really a much greater release of dopamine and norepinephrine.
+它会增加焦虑
+and it increases things like anxiety,
+导致出汗  会使瞳孔放大
+sweating the pupils dilate,
+它对某些癫痫患者有一定的效果
+it has certain effects on particular people with epilepsy.
+它在戒烟方面已经取得了一定的成功
+It's been used somewhat successfully for smoking cessation.
+但也不是每个人都适合
+But again it's not for everybody,
+我现在并不是在
+and I'm not here.
+鼓励人们使用这些东西
+To encourage the use of these things.
+我只是在描述这些药物开发的生物学原理
+I'm just describing the biology and the rationale for why these drugs were developed so.
+让我们倒回去一点
+Let's back up a second.
+我们来评估一下我们现在的情况
+Let's just kind of take stock of where we're at.
+我们有一个大脑和身体的联系
+We have a brain body connection.
+有很多
+There are many of them.
+其中最主要的是迷走神经
+but one of the main ones is the vagus nerve.
+迷走神经收集了很多信息
+The vagus collects information about a lot of things,
+呼吸 心率以及内脏中发生的变化
+breathing heart rate stuff that's happening in the gut,
+等
+etc.
+包括胃
+and got by the way includes the stomach,
+然后肠道把信息发送到大脑
+and the intestines sends that information up to the brain.
+大脑利用这些信息来做决定
+The brain is using that information to decide.
+朝某物移动或远离某物中的一种也可以暂停
+One of two things moved toward something or move away can also pause,
+但真的是暂停  不是前进
+but essentially pausing is not moving toward.
+这就是多巴胺通路富含酪氨酸的食物  通常会让我们情绪高涨
+So that's the dopamine pathway and foods rich in El Tyrosine generally give us an elevated mood
+让我们想要做更多我们正在做的事情以及其他事情
+and make us want to do more of whatever it is that we happen to be doing as well as other things.
+动机可以概括为其他事情
+Motivation generalizes to other things.
+这并不是摄取食物所特有的
+It's not unique to just ingesting foods,
+但是那些能让我们产生多巴胺的食物会让我们渴望更多的食物
+but foods that give us a big pulse of dopamine will make us crave more of that food.
+它会使我们渴望更多的活动 导致摄入的食物
+It will make us crave more of the activity that led to the ingestion of that food.
+而且
+and,
+正如我之前提到的
+as I mentioned earlier,
+很多事情都发生在你的潜意识里 你甚至没有意识到
+A lot of that is happening at a subconscious level that you're not even aware of,
+这就是为什么我认为隐藏的糖分和过量摄入糖分的问题是严重的
+and this is why I think the concern about hidden sugars and over ingestion of sugars is serious
+因为不仅仅是糖分会影响我们的血糖和一些负面影响
+because it's not just that the sugars are impacting our blood glucose and negative ways.
+虽然经常是这样
+Although often it is.
+这不仅仅导致了正在发生的肥胖危机
+It's not just the obesity crisis that's happening,
+这也是扰乱我们多巴胺系统
+it's also the fact that is disrupting our dopamine systems.
+这并不意味着所有的糖都是不好的
+Now that doesn't mean all sugar is bad.
+有些人与糖有着健康的关系
+some people have a quite healthy relationship to sugar,
+但我认为大多数人都没有意识到糖不仅仅是在味道层面起作用
+but I think most people are just not aware that sugar isn't just operating at the level of taste,
+它在神经化学物质的水平上运作
+it's operating at the level of neural chemicals,
+而且是下意识的
+and it's doing it subconsciously.
+所以我想谈谈大脑和身体之间调节我们情绪和情感的其他途径
+So I'd like to talk about some of the other pathways between brain and body that regulate our moods and emotions,
+但也具有可操作性  所以在迷走神经中
+but also are actionable so the other neuromodulators
+另一种有趣的神经调节物质是血清素
+that's really interesting in the context of the vagus is serotonin,
+血清素
+serotonin,
+提醒大家一下 它是一种神经调节剂
+just to remind you is a neuromodulator.
+因此
+Therefore,
+它产生了一种偏见  大脑和身体中的特定神经元会被激活
+it creates a bias in which neural circuits which neurons in the brain and body are going to be active,
+这就降低了其他分子活跃的可能性
+And it makes it less likely that other ones are going to be active.
+我想在没有测量过的情况下可以这么说  我的牛头犬
+I think it's fair to say without ever having measured it that my bulldog,
+科斯特洛
+Costello.
+一定是他的大脑和身体都沉浸在血清素中 因为他很冷静 而且吃得很多
+It must just his brain and body must be swimming in serotonin because he's very calm and he eats a lot.
+他通常都觉得很满足
+But he generally feels pretty sated.
+他是一种痴迷于舒适的动物
+He's kind of an animal that's obsessed with comforts.
+他是一个快乐主义者 血清素的升高会让我们感到非常舒服
+He's a bit of a hedonist and serotonin when its elevated tends to make us feel really comfortable
+也会让我们在任何地方都感到幸福
+and how to blissed out wherever we are.
+这与多巴胺和去甲肾上腺素形成对比
+And that contrast with dopamine and norepinephrine,
+后两者主要是让我们去追求东西
+which mainly put us in pursuit of things,
+动机是追求
+motivation is pursuit.
+血清素更多的是让我们感到舒适
+Serotonin is more about feeling really comfy where we are.
+是关于大脑 身体关系  情绪
+The conversation around the brain,
+对于血清素多年来的讨论
+body relationship and mood and serotonin for many years was well.
+你吃一顿大餐
+You eat a big meal.
+肠道需要忍受一会儿
+The gut is to stand it,
+你得到了你需要的所有营养你休息和消化 血清素被释放出来
+You've got all the nutrients you need you rest and digest and serotonin is released.
+这是真的
+That's sort of true,
+但还有很多事情在发生 很多很多
+but there's a lot more going on and a lot more.
+这很有趣 也很可行
+that's interesting and actionable.
+首先
+That's going on first of all,
+你们中的一些人
+some of you.
+但也许不是所有人都听说过 我们体内90%以上的血清素都在肠道中
+But perhaps not all have heard that more than ninety per cent of the serotonin that we make is in our gut.
+我们的肠道中确实有很多血清素
+and indeed we have a lot of serotonin in our gut.
+我们的肠道中有神经元并产生血清素
+We have neurons in our gut and makes serotonin.
+我们的大脑中有神经元
+We've neurons in our brain.
+它们产生血清素
+They make serotonin.
+但事情是这样的
+But here's the deal.
+大多数影响我们情绪和精神状态的血清素并不在我们的肠道中
+Most of the serotonin that impacts our mood and our mental state is not in our gut.
+大部分都存在于大脑的一个叫做RAF的区域的神经元中
+Most of it is in the neurons of the brain in an area called the RAF,
+大脑的一个核
+a nucleus of the brain.
+只有很小的一块地方
+There are few other locations to,
+这些是神经元
+and those are the neurons that control.
+控制着 我们是否感到满足
+whether or not we feel satiated or not.
+我们是否感到快乐和平静
+Whether or not we feel happy and calm.
+当然  在讨论血清素的时候 不可能避开抗抑郁药不谈
+You can't have a discussion about serotonin without having a discussion about antidepressants.
+因为在80年代末90年代初
+Because during the late eighties and early nineties,
+处方药的数量出现了爆炸式增长
+there was this explosion in the number of prescription drugs that were released.
+首先  也是最著名的一个是百忧解
+Things like the first one and most famous one is Prozac,
+左洛复和帕罗西汀
+Zoloft and Paxil.
+其他一些被称为SSRI “选择性血清素再摄取抑制剂”
+A number of other ones that are so called s s are a selective serotonin reuptake take inhibitors.
+这是一个很长的缩略语
+That's a long acronym.
+但基本上这些药物的工作原理是防止血清素被吞噬
+but basically those drugs work by preventing the gobbling up of.
+或释放后再摄取到神经元的血清素
+Serotonin or re uptake of serotonin into neurons after it's been released,
+会导致更多的血清素
+which leads to more serotonin overall,
+也就是提高血清素水平
+which means to elevate serotonin.
+事实上
+And indeed,
+这些药物对抑郁症患者和其他临床疾病患者来说
+those drugs were and can be very useful for certain people to feel better in cases of depression
+都是非常有用的
+and some other clinical disorders as well.
+所以我真的不想因为它们对大家没用或危险而不去考虑它们
+So I really don't want to dismiss them as useless or dangerous for everybody.
+它们对很多人来说都很有用
+They can be quite useful for many people.
+不是每个人都能很好地回应他们
+not everyone responds well to them,
+我相信你们都听说了
+as I'm sure you've all heard.
+它们的副作用包括钝化效应
+And their side effect profile has effects like blunting effect.
+它会让人感觉有点单调
+It can make people feel kind of flat kind of map.
+它可以降低食欲
+It can reduce appetite for food,
+它可以降低性欲
+it can reduce appetite for sex,
+它有各种各样的副作用
+it can do all sorts of things,
+或者  它可以很好地工作
+or it can work really well.
+有时是一剂药
+Sometimes it's a dose,
+之类的
+related issue,
+血清素是迷人的
+Serotonin is fascinating,
+然而
+however,
+因为RAF神经元的工作  受到肠道内某些因素的影响
+because how well those neurons in the RAF at work is impacted by some events within the gut.
+虽然你可能会惊讶于这些事是什么
+Although you might be surprised to find out what those events are.
+让我们再深入一点  到肠道中
+so let's go a little bit deeper into the gut and again
+肠道包括胃和大肠中的小肠
+the gut includes the stomach and then the small intestine in the large intestine,
+如果想问 肠道中的血清素发生了什么
+and asks what is going on with serotonin in the gut.
+它是如何影响大脑中的血清素的
+How is it impacting serotonin in the brain?
+让我们从提高或降低血清素水平的角度来考虑这个问题
+And let's think about this in the context of how some of us might want to increase or decrease our serotonin levels.
+据我所知
+So as far as I know,
+家里没有什么好用的
+there aren't any really good at home.
+血液检测血清素和多巴胺的工具
+blood tests for things like serotonin and dopamine.
+有一些商业产品
+There are some commercial products out there.
+但对我 对我
+But to me just to me,
+我不觉得有什么了不起
+I'm not particularly impressed.
+
+这和测量你的荷尔蒙水平或代谢因子是不同的
+it's not the same as getting your hormones levels measured or your metabolic factors measure,
+严格地做到这一点可能会让人望而生畏
+that's can be daunting to be done rigorously.
+外面有很多测试
+There are tests out there,
+甚至有些  真的
+they're even some believe it or not.
+有一些调查问卷
+There's some questionnaires you know that and I think actually.
+去年还登上了一些大报纸的头版
+last year it made some of the bigger newspapers you know.
+你更喜欢多巴胺还是血清素
+Are you more of a dopamine or a serotonin?
+你有这个还是那个？
+Are you have this or that?
+我觉得这些东西有点傻
+I find that stuff to be a little silly,
+尽管我很欣赏也很喜欢人们在思考和谈论神经调节物质
+although I do appreciate and like the fact that people are thinking about and talking about neuromodulators,
+但大众并没有很好的方法来衡量这些东西
+there aren't really great ways to measure these things.
+外面的诊所
+Outside the clinic.
+你可以在医院里或者从内分泌和神经学家那里得到一些很好的临床工具
+there are some great clinical tools that you can get inside of a hospital or from a proper endocrinologist and neurologist,
+但没有在家里也能使用的好工具
+but no great at home to also made.
+对你们中的一些人来说 这是在召唤你们
+That's a call to arms for some of you.
+富有创意的企业家们  可以研发这些测试工具
+entrepreneurial folks out there to create these tests.
+准确的测试
+accurate tests.
+可以让大家在家里完成
+please that could be done at home,
+
+有些人觉得他们太焦虑了 或者他们总是处于一种积极的状态
+some people feel like they're too anxious or they're always in a motivated state
+他们试图调整他们的血清素
+and they're trying to adjust their serotonin.
+许多人通过吃更多的食物来调节他们的血清素
+Many people adjust their serotonin by just eating more food,
+富含碳水化合物的食物会增加血清素
+and carbohydrate rich foods will increase serotonin.
+我在之前的播客中谈到过这个问题
+I've talked about this on a previous podcast,
+但我个人很喜欢
+but I personally am a big fan,
+至少对我来说
+At least for me,
+因为我通常在一天的早些时候禁食并锻炼
+as I usually fast and exercise in the early part of the day,
+我吃高蛋白和中等脂肪的食物
+I eat a relatively high protein and moderate fat,
+在下午开始吃零碳水化合物或低碳水化合物的食物时保持警觉
+zero carb or low carb meal at launching in the afternoon to stay alert
+因为这些食物有利于多巴胺的产生
+because those foods tend to favor dopamine production,
+乙酰胆碱生产
+acetylcholine production,
+肾上腺素的产生和警觉性
+epinephrine production and alertness.
+大多数时候我的心情都很好 到了晚上
+My mood is generally pretty good most of the time and then as evening comes around,
+我担心的是睡眠  一夜好的睡眠
+and I'm concerned about sleep and a good night's sleep.
+不焦虑地去担心睡眠
+not concerned in an anxious way,
+我想睡个好觉
+but I want to get a good night's sleep.
+我不会只吃促进血清素释放的食物 因为它们包含很多东西
+I won't just foods that promote serotonin release because they contain a lot of trip to fan.
+所以如果我吃肉
+so if I do eat meat,
+比如白色的火鸡肉
+it would be like a white meat turkey meat.
+虽然我从来都不喜欢火鸡
+I don't tend to have never liked Turkey.
+我不是动物保护主义者
+I don't mind the animal,
+但我不喜欢把肉咽下去
+but I don't like ingesting the meat.
+含淀粉的碳水化合物会增加血清素
+But starchy carbohydrates will increase serotonin.
+有些人也会服用血清素
+Some people also will take serotonin,
+现在你也可以在外面买到血清素补品了
+that you can now buy five http supplements.
+但这有点棘手
+This is a little bit tricky.
+血清素补充剂当然可以增加血清素
+Five http supplements can of course increase five.
+它本应如此
+it should be.
+它是5-htp或血清素
+It is five inch deep years or serotonin.
+但这有时会导致血清素自身或自身产生的问题
+But that sometimes can create problems in indigenous or self made production of serotonin.
+所以我不喜欢在很长一段时间内服用 想要增加的神经化学物质的补剂
+So I'm never a fan of taking things very close to the chemical you're trying to increase for very long periods of time,
+也许是偶尔使用
+maybe for occasional use,
+我的问题是 如果我服用血清素补充剂
+I have the problem that if I take serotonin supplements,
+我睡着了
+five http I fall asleep to sleep.
+我的情绪会非常紧张 三四个小时后醒来
+I have is very intense and I wake up three or four hours later.
+我们知道 根据在实验室进行的睡眠研究
+And we know based on sleep studies with good measurements in the lab,
+血清素的释放往往发生在深夜
+that serotonin release tends to be in the later part of the night.
+所以在晚上早点服药
+and so by taking it early in the night,
+它真的会扰乱深度睡眠的睡眠模式
+it really can disrupt the pattern of sleep in the depth of sleep.
+尽管如此
+Nonetheless,
+有些人感兴趣的是服用血清素来获得一些更幸福的效果
+some people are interested in taking serotonin to get some of the more blissed out effects.
+你可以通过食物来达到这个目的
+You can achieve that with foods.
+正如我提到的 我们的碳水化合物很丰富
+As I mentioned that our carbohydrate rich.
+如你所见
+so as you're seeing,
+这并不是关于营养本身的讨论
+this isn't really a discussion about nutrition per se.
+这是一个关于含有氨基酸的食物的讨论
+This is a discussion about food which contains amino acids,
+氨基酸
+amino acids,
+是神经递质  以及神经递质的前体
+being the precursors to neuromodulators and neuromodulators,
+对你的警觉或冷静的整体状态有深刻的影响
+having a profound effect on your overall state of alertness or calmness,
+还有幸福
+happiness,
+悲伤  都有影响
+sadness,
+既然如此
+And well being so,
+有很多东西是可以拿走的
+there are a number of things that one can take.
+正如我提到的
+as I mentioned,
+其中之一是血清素本身
+one of them being five http itself.
+我不建议人们服用任何药物
+Now I'm not recommending people take anything,
+但如果你对它的作用感兴趣并想探索它
+but if you're interested in what this does and you want to explore this.
+当然
+Of course,
+你需要得到医生的许可
+you'd want permission from your doctor,
+你可以去这个免费网站
+you can go to this free website.
+我喜欢这个资源
+I love this resource,
+他们没给我钱啊
+they don't pay me to say that,
+但我就是喜欢这个资源网站
+but I just love this resource.
+我订阅了很长时间 这个网站叫 examine.com
+I followed it for a long time called Examined dot com.
+谢谢你们
+Thank you,
+工作人员把这些免费资源放到网上 这些资源的链接
+folks at examined outcome for putting this free resource out on the web that has a links through 通过他们所谓的 人类效应矩阵
+what they call the hu man effect matrix,
+它与所有pubmed研究有关特定化合物的特定影响的研究有联系
+so its links to all the pubmed studies for particular effects of particular compounds
+这些研究结合了令人难以置信的重要健康警告
+that one combining just incredible as well as important health warnings.
+所以我不会把所有的内容都读一遍
+So I'm not going to read through everything,
+但如果你像我现在这样去研究 可以看看examine.com
+but if you were to go to examine Dot com as I have now,
+你需要输入血清素
+and you'd put in five http,
+他们只看那些有强有力证据的文章
+there are only looking at things that have strong evidence pubmed articles.
+这些文章都在pubmed档案里
+The articles are our in the pubmed archive.
+所以
+So,
+例如
+for instance,
+我本来不知道这些
+I didn't know this.
+但血清素
+But five.
+会显著降低食欲
+each TP produces a notable decrease in appetite,
+有三个研究
+three studies and this app.
+证实这种食欲抑制是有道理的
+Appetite suppression makes sense,
+当然
+of course,
+因为我们摄取食物来获得血清素
+because we ingest foods to get serotonin,
+如果我们有足够的血清素
+and if we have enough serotonin,
+那么就没有理由摄入更多的水果了
+then there's no reason to ingest more fruits.
+它往往会削弱食欲
+it tends to have a blunting of appetite.
+它也可能通过其他机制实现这一点
+It probably does that also through other mechanisms.
+所以我不是说你应该这么做
+So I'm not saying you should do this.
+但如果有人想减少食欲的话这倒是个有趣的方法
+But if someone's trying to blunt their appetite could be interesting route.
+虽然我不建议长期服用
+Although I don't recommend chronic use.
+毫不奇怪
+Not surprisingly,
+结果就是体重下降
+There is a decrease in body weight as a consequence,
+越来越多的皮质醇
+an increasing cortisol.
+需要注意的是 当你在生物学领域工作时
+So that's kind of important to note that when you typically in biology,
+牵一发而动全身的感觉
+if you pull on one string really hard and other one moves.
+有点像木偶
+It's a little bit like a puppet.
+而且木偶上的绳子不止一条
+and there was more than one string on the puppet.
+所以这似乎确实增加了皮质醇 尽管他们报告显示影响很小
+So it does seem to increase court as although they report as a minor effect again.
+所有这些研究都有链接
+Links to all those studies are there,
+我没有把它们列出来
+which is why I'm not listing them out in,
+不在我们评论区
+our caption notes,
+但你可以去examine.com
+You can go and get them at examine,
+输入血清素
+dotcom put in serotonin,
+你们会找到这些资料 所以我觉得现在
+and you'll find that so I find it fascinating that nowadays,
+有些事情介于不做任何举措
+there are things that are somewhere between doing nothing.
+从色氨酸 食物和处方药中获取血清素
+Getting serotonin from tryptophan and foods and prescription drugs.
+还有一种补充品对于调节体内的化学物质非常有趣
+There's this other category of supplements that are really interesting for modulating these chemicals in the body,
+在继续讲下去之前  我应该提一下
+and I should mention before I move on,
+因为在之前关于多巴胺的讨论中我提到了所有的酪氨酸
+because I mentioned all tyrosine I neglected to mention earlier in our discussion about dopamine.
+如果你对多巴胺途径感兴趣 可以去examine.com
+If your interest in the dopamine pathway go to examine dotcom,
+这里有一个刺毛黧豆
+put in mucuna pruriens,
+它是一种丝绒豆 从藤蔓中生长 因为表面的血清素 摸起来很痒
+It is a velvet bean that grows from vines and is very itchy to touch due to serotonin on its surface.
+神奇的是 这种豆子的表面有血清素 确实是血清素
+amazing this bean has serotonin on its surface and indeed serotonin.
+如果你把它放在皮肤上
+and if you were to put it on,
+你的皮肤会受到一些刺激
+your skin would cause some irritation of the skin.
+神奇的是  豆里面有左旋多巴
+Amazing inside the bean is l dopa
+刺毛黧豆的外表上促进多巴胺释放的东西 不是因为什么一些奇怪的  神秘的
+Mucuna pruriens is not just something that promotes dopamine release because of some weird mystical,
+古老的传说
+ancient thing,
+或者别的什么 或者魔法
+or whatever or sorcery,
+它在化学上是多巴胺的前体
+it is chemically l dopa the precursor to dopamine.
+它还含有一些其他的分子和低水平的其他精神活性物质
+It contained some other molecules as well and low levels of other psychoactive.
+这种东西在药局上就能买到
+This stuff is available over the counter.
+难以置信
+Incredible,
+我个人认为这是不可思议的
+I personally find it incredible.
+它的效果真的很有趣
+Its effects are really interesting.
+我不打算把它们都读出来
+I'm not going to read them all off,
+但是我提到了这些影响
+but I mentioned these effects,
+不是因为我鼓励你去服用这些
+not because I'm encouraging you to take it.
+而是让你们看到  在非帕金森情况下  多巴胺急性增加的作用
+But because you get a window into what dopamine acute dopamine increase does in the non parkinsonian context,
+你可以开始认为含有酪氨酸的食物是会导致
+and you can start to think about foods that original tyrosine as biases.
+特定的某些效果
+Certain effects are not others.
+所以当你听说食物是药的时候 食物其实不是药
+So when you hear food as medicine food isn't really medicine,
+食物是食物
+food is food,
+但是食物也有这些化学效应
+but food has these chemical effects as well.
+首先
+So first,
+其中一项是三项非常严格的研究 总结来说  对精子质量的影响很小
+one listed is three studies with very high of rigor that overall have a minor effect on of all things sperm quality.
+所以是精子的运动本身
+So it appears that sperm motility itself.
+我想当他们说精子质量  精子质量的特征时
+I'm assuming when they say sperm quality on what features of sperm of quality,
+他们用精子来观察
+they looked at with sperm.
+这不是我想要的讨论
+That's not discussion I want to have,
+但我猜是运动能力  因为我对生殖生物学没什么了解
+but I'm assuming it's motility because I know enough about reproductive biology to know that sperm.
+知道精子的游泳能力取决于精子前部存在的一些蛋白质
+UBS ability to swim depends on some proteins that are present in the front of the sperm,
+等
+etc.
+还有收缩   精子活力通常与精子质量有关
+Things like contractions and sperm motility as generally associated with sperm quality sperm,
+不动的精子通常不是很有用
+they don't move are generally not very useful.
+刺毛黧豆明显改善了帕金森病的症状
+Spur symptoms of Parkinson's disease are notably degraded,
+太神奇了 这并不奇怪
+with Mucuna pruriens so fascinating that's not surprising.
+还有很多其他的影响
+and there are a lot of other effects here.
+主观感觉良好 催乳激素减少 这并不奇怪
+Feelings of subjective well being testosterone reductions in prolactin not surprising.
+催乳素是一种与牛奶有关的激素
+Prolactin is a hormone that's involved in milk.
+在哺乳期的母亲中降低
+let down in lactating mothers.
+它涉及到平静的感觉
+It's involved in feelings of peace,
+通常与两性的性欲是相克的
+and generally is antagonistic to sexual desire in both men and female.
+这真的很有趣
+So it's really interesting.
+比如刺毛黧豆的外表
+Things like Mucuna pruriens,
+也就是左旋多巴
+which are l dopa,
+减少催乳素  增加精子活力增加睾酮
+reduce prolactin increase sperm motility increased testosterone,
+主观幸福感
+subjective wellbeing.
+所以你开始看到一个苗头了
+so you're starting to see a theme right.
+多巴胺真的会让我们有动力
+Dopamine really makes us motivated,
+感觉在追求
+feel in pursuit,
+让我们感觉很好
+makes us feel good.
+血清素使我们感到更放松和平静
+Serotonin makes us feel more relaxed and calm.
+那么既然这整个月都是关于情感的
+now this whole month is about emotions.
+你可能会想
+You might be thinking well,
+等等
+wait.
+我们要说什么呢？
+Where are we going with?
+所有这一切
+All this,
+和情绪有关吗
+as it relates to emotions?
+但是记得在上一集  我说了什么吗
+But in the last episode I said something.
+我简单地重复一下
+I'm going to repeat it now briefly,
+我们所说的好情绪或坏情绪
+which is that much of what we talk about as good emotions or bad emotions,
+都有一个背景  有一个社会背景 你不能说
+there's a context of that there's a social context you can't really say.
+情绪有好有坏
+An emotion is good or bad.
+在葬礼上悲痛是健康的
+Grieving at a funeral is healthy.
+对吧
+OK,
+如果在葬礼上感到快乐 假设你爱死去的人
+being happy at a funeral assuming you loved the person that died is,
+大多数人可能不会认为这种情绪是健康的
+most people probably would think that was healthy,
+所以我们不能说悲伤 快乐 健康这些情绪
+so we can't really say that certain you know emotions like sadness or happiness or healthy.
+它的背景很重要
+Its context is important.
+文化背景很重要
+Cultural context is important.
+你们很多人都要求我推荐一些书
+Many of you have asked for book recommendations.
+这是一个再次提及另一本书的机会
+This is an opportunity to raise a mention of another book again.
+没有任何商业关系啊
+I don't have any financial affiliation or anything,
+但如果你想了解更多关于情绪以及环境和文化因素如何影响我们的情绪
+but if you want to read more about emotions and how the context and cultural things impact our emotions.
+我是丽莎·费尔德曼·巴雷特的超级粉丝
+I'm a huge fan of Lisa Feldman Barrett.
+我是从莱科斯·弗里德曼的播客上知道她的
+I learned about her from the Lex Fridman podcast.
+我在Instagram上一直和她讨论
+I've had discussions with her all my Instagram lives.
+她在东北大学
+She's at Northeastern University,
+是情感专家
+a world expert in emotions,
+她的第一本书是 <How Emotions Are Made>
+her first book as how emotions are made.
+这不是她寄给我的书
+This is not a book she sent me.
+我几年前用自己的钱买的
+I paid for this with my own money years ago bought it,
+读完了
+read it,
+在认识丽莎之前  我就很喜欢了
+loved it long before I met Lisa.
+我很高兴我们对彼此有了一些了解
+I'm just delighted that we've got to know each other a little bit.
+这是一个很有趣的对情感心理学的解读  在情感的主观性方面
+It's a really interesting read into the psychology of emotions in some of the subjectivity of emotions.
+虽然我主要讲的是情绪生物学
+So whereas I'm talking about mainly the biology of emotions,
+这也有点涉及到生物学的心理学
+this gets a little bit more into the psychology of the biology as well,
+丽莎真的非常棒
+and leases just terrific.
+她还向外界传递了很多关于情感的信息
+She's also putting a lot of information out into the world about emotions.
+如果你想了解更多
+If you want to learn more about that,
+去看一下她的书
+check out her work again.
+丽莎·费尔德曼·巴雷特的书 <How Emotions Are Made>
+It's Lisa Feldman Barrett in that book is how emotions are made.
+我希望
+Hopefully,
+她会继续写更多的书
+she'll continue to write many more books books.
+现在我希望你明白了
+So now you understand the relationship,
+食物 多巴胺食物和血清素之间的关系
+I hope between foods and dopamine foods and serotonin,
+它们都是通过迷走神经的右侧与大脑沟通的
+and that they're both being communicated to the brain via the vagus right.
+我们摄取这些食物
+We ingest these foods.
+这些补充剂是人们服用的
+These supplements are things people take,
+他们不会直接把它们输进大脑
+They don't put them directly into the brain,
+他们把它们放进我们的肠道里
+they put them in our gut.
+所以
+So,
+是的
+yes,
+这是一种肠脑联系
+there's a gut brain connection,
+但让你感到平静平静的并不是肠道中的血清素
+but it's not about the serotonin in the gut that makes you feel calm and placid.
+这与肠道中的多巴胺无关
+It's not about the dopamine in the gut.
+因为我认为这是一个非常吸引人的东西 我理解这个想法
+It's just been oversold that way because I think there's something really attractive and I understand about the idea.
+因为我们的生活经历和情感的某些事情发生在我们的身体里
+Because certain things about our experience of life and our emotions is happening in our body
+也许我们有更多的控制权因为这是一个坚硬的容器
+that maybe we have a little more control right because this thing is a hard container.
+我们不能把多巴胺塞进去
+we can't just stuff some dopamine in there.
+我不能就这么告诉你
+I can't just let you know it.
+什么可以拿一颗刺毛黧豆塞进耳朵里
+I could probably take a mccune perrine's bean and stuff it in my ear.
+请不要这样做
+Please don't do that.
+这让我这一年都很痒 因为外面的血清素
+It makes my year itchy because of the serotonin on the outside,
+但你不能把东西放进去
+but you can't get stuff in there.
+你要做的是摄取那些以特定方式代谢的东西并与大脑沟通
+What you have to do is ingest things that are metabolized in certain ways that communicate to the brain or so.
+也许它们会通过所谓的血脑屏障进入大脑
+maybe they pass into the brain themselves across what's called the blood blood brain barrier,
+或者马上讨论一下血脑屏障
+or talk about the blood brain barrier in a minute.
+它实际上叫做BBB
+It's actually called the BBB,
+所以它听起来像婴儿哈哈BBB
+so it ends up sounding like baby bbb.
+我想这就像bibi
+I guess that's like Bibi anyway.
+BBB
+B B B,
+肠道中也有神经能感知食物的营养成分 然后说
+But there are also nerves in the gut that are sensing that nutrient contents of food and then saying,
+哦
+Oh,
+你应该感觉更好 想要更多
+you should feel better and want more.
+哦
+Oh,
+有很多苦和酸的味道
+that's got a lot of bitterness and acid taste to it.
+你想要的应该少一些
+You should want less of that.
+好吧
+OK,
+所以在讨论完肠道中的多巴胺和血清素之后
+So as a transition out of the discussion about dopamine and serotonin in the gut,
+希望你已经掌握了一些可行的方法  它们就在你意料之外的地方
+hopefully you've got some actionable items they're under your belt unintended where you can
+你可以了解某些食物和某些营养物质你可以查阅这些可能会影响你的情绪
+understand how certain foods and certain nutrients and you can look these up might impact your your mood.
+如果你是一个非常焦虑和紧张的人
+If you're somebody who's really anxious and really wired,
+那么多巴胺和肾上腺素的输出路径  可能不是你想要依赖的
+will then the dopamine adrenalin pathway up an efferent pathway is probably not one that you want to lean on any harder.
+如果你是一个相当被动的人 你很难激励自己
+If you tend to be someone who's pretty passive and you're having trouble with motivation.
+
+那么考虑增加多巴胺通路
+then think about ramping up the dopamine pathway.
+我一直认为行为和正确的食物选择
+I always think behaviors and proper food choices.
+最好的开始和行为方式包括锻炼
+The best way to start and behaviors include things like exercise,
+等
+etc.
+但是关于情绪和运动或情绪和冥想的讨论的一个问题是
+But one of the problems with the discussion around mood and exercise or mood and meditation is that
+它太主观了
+it's so subjective.
+就好比我喜欢某种形式的运动
+It's like I love certain forms of exercise,
+其他一些让我反感
+and not other certain ones are aversive to me.
+有些对我很有吸引力
+Certain ones are attractive to me,
+这从来都不是很清楚
+and it's never really clear.
+没人告诉过我
+No one's ever told me,
+好
+OK,
+如果你必须在自行车上骑10分钟 每分钟骑多少多少次
+if you have to do you know ten minutes on the bike at X number of R P m,
+或者
+its or so,
+或者在滑雪时 为了提高你的多巴胺
+Or on the skier in order to get your dopamine up,
+但我们可以说 如果你摄入了更多的L-酪氨酸
+but we can actually say if you ingest moral tyrosine,
+你很有可能会产生更多的多巴胺
+there's a high probability that you're going to make more dopamine,
+我说的是通过食物或补剂摄入
+and I'm talking about ingesting it through food or through supplementation.
+如果你喜欢刺毛黧豆
+If you like Mucuna pruriens,
+我试过了
+I've tried.
+我应该提一下 对我来说是能提高多巴胺
+I should just mention it was to dopaminergic for me.
+我真的会变得很兴奋
+I really really jazzed up,
+然后第二天我遭遇了严重的下降
+and then a severe crash for me the next day,
+但我认为这是因为我在警觉性和积极性方面比较高
+but that I think because I tend to ride pretty high on the kind of alertness and motivation scale.
+我总是被说
+I'm always being told,
+比如科斯特洛  以及播客里的听众
+like Costello and other people in the podcast,
+都会想让我说话慢点的
+you'll want to slow my speech down.
+这是摄入咖啡因后的我  我的生活中可能还能多吃一点血清素
+This is me and caffeinated and I can probably afford a little more serotonin in my life.
+科斯特洛
+So whereas Costello and you get afford,
+隔几天醒来跟我们打个招呼
+you could afford to wake up every every couple of days and just say hello to us.
+这条狗比其他任何动物都睡得多
+This dog sleeps more than any other creature.
+太惊人了
+It's remarkable.
+所以我们可以做一些事情 这些事情是可以做的
+So there are things that we can do and they're actionable,
+在某些方面它们是定量的  因为你可以调节剂量   你可以调节服用多少
+and they are in some ways they're quantitative because you can regulate dosages and you can regulate a mounts,
+你可以调节服用时间
+you can regulate timing,
+每个人都可以去调节这些东西 弄清楚什么对他们来说是合适的
+and everyone has to play with these things and figure out what's right for them in terms of feeding,
+每个人都必须探索和了解什么对他们来说是安全的和正确的
+and everyone has to explore and understand what's safe and right for them.
+当然
+And of course,
+运动仍然很重要
+exercise is still very important.
+上节课我讲过社会关系对血清素的激活非常重要
+I talked about social connection in the last episode Super Important for Activation of Serotonin.
+但说到这种肠道-大脑  身体-大脑的关系
+But when it comes to this gut brain body brain relationship,
+我们吃什么对我们产生的神经化学物质非常重要
+what we eat really matters in terms of the neural chemicals that we make.
+所以 让我们再多谈谈我们摄入在身体里的东西
+So let's talk a little bit more about things that we ingest in our body
+然后让身体通知我们的大脑来改变我们的情绪
+and then allow for a body to inform our brain to shift our mood.
+这是我多年来一直在做的事情
+and this is something I've been doing for years and
+我只想说 我发现这完全改变了游戏规则
+I just want to say I've found to be a complete game changer.
+有很好的科学来支持它 我想大多数人在不同的背景下都熟悉它
+There's excellent science to support it and I think most people are familiar with it in a different context.
+但我认为大多数人都不知道这个简单的事实
+But I don't think most people know this simple fact,
+也就是omega-3和omega-6的脂肪酸比
+which is that the omega three to a mega six fatty acid ratio.
+对抑郁症有很大的影响
+has a profound effect on depression.
+它对情绪有深远的影响
+It has a profound effect on mood,
+我这边提供一个双盲安慰剂对照研究来佐证这个观点
+so much so that in a double blind placebo controlled study that I will provide,
+与此相关的研究首次发表于2008年
+the link to this is a study first published in two thousand and eight.
+但也有很多其他的研究
+But there have been many others as well.
+首先
+First of all,
+在动物实验中
+in an experiment done in animals,
+他们发现有一个习得性无助的模型  在动物身上
+they found there's a model of learned helplessness and animals.
+这实验对动物不是很友好
+It's not very kind to the animals,
+但是他们就是把老鼠放在一个罐子里
+but they put rats or mice in a jar.
+他们让老鼠游 它们就会游
+They let them swim and they'll swim,
+游
+swim,
+为了活下去  不停地游
+swim to try and save their life,
+最终他们会屈服于习得性无助
+and eventually they give up to learned helplessness.
+实验者不会让老鼠们淹死
+They don't let them drown.
+把它们取出来
+They take them out.
+调整Omega-3和Omega-6的比例  使Omega-3更高
+Adjusting the omega three and Omega six ratio so that the omega threes are higher
+这样可以导致习得性无助感更少
+led to less learned helplessness,
+这意味着这些动物游得更久
+meaning these animals would swim longer.
+好吧
+OK,
+这是一种动物
+now that's an animal,
+这是一只老鼠
+that's a rat,
+这不是一个特别的研究
+not a particularly kind study.
+同样的研究在人类身上进行
+That same study was essentially done in hu mans,
+虽然他们没有让他们游到几乎淹死的地方
+although they didn't have them swim to the point of near drowning.
+他们所做的就是
+What they did is they.
+需要临床诊断为抑郁的人
+It took people who were clinically depressed.
+抑郁症
+A major depression,
+重度抑郁症是一种严重的适应不良状态
+like major depression is severe maladaptive state,
+这意味着它抑制了人们对工作关系的兴趣
+meaning it inhibits job relationships appetite.
+还有各种对健康的负面影响
+All sorts of negative health effects.
+他们做了一个比较
+And they did a comparison.
+每天摄入1000毫克的EPA
+Have a thousand milligrams a day of EPA,
+EPA是富含omega-3的元素之一
+so EPA is one of the elements that contains high levels of omega threes.
+这是在鱼油中  以及其他来源中提取的
+That's in things like fish oil talk about other sources in a little bit,
+但不是1000毫克的鱼油
+but it wasn't a thousand milligrams of fish oil.
+而是1000毫克的EPA
+It was a thousand milligrams of EPA,
+与20毫克氟西汀相似
+compared that to twenty milligrams of fluoxetine,
+也就是百忧解
+which is Prozac.
+好吧
+OK,
+这样真的会增加血清素
+really increases serotonin.
+在对六十个人的研究中
+And in the study of sixty individuals and Ghana,
+我会提供研究的链接
+I'll provide that the links to the study.
+他们发现它们在减轻抑郁症状方面同样有效
+They found that they were equally effective in reducing depressive symptoms.
+想象一下
+So imagine that.
+食物的基础化合物 你不能没有正确的
+Food based compound that you can't make without right.
+在这种情况下 你不能自己制造Omega-3你必须从食物来源或补充剂中获得它们
+This is not a situation where you can make your own Omega three is you have to get them from food sources
+在8周的时间里 它的效果和20毫克氟西汀一样好
+or from supplementation was as effective as twenty milligrams of fluoxetine over the course of eight weeks.
+真正有趣的是
+and what was really interesting,
+此外 1000毫克的EPA和氟西汀的组合
+in addition to that is that the combination of a thousand milligrams of EPA and fluoxetine
+在降低抑郁症状方面有协同作用
+had a synergistic effect in lowering depressive symptoms.
+我觉得这很了不起
+I find this remarkable.
+我第一次听说这个的时候
+I heard about this when it first came out,
+我不知道该不该相信
+and I wasn't sure what to make of it,
+因为有很多研究已经出来了
+because there's a lot of studies that come out and I generally like to
+我通常喜欢在有很强知识根基之上 去改变我的行为习惯
+focus my changes in behavior around things where there is a large center of mass is a lot of information.
+几年后
+A couple of years later,
+事实上 我开始每天从鱼油中摄取1000毫克的EPA
+I did in fact start taking a thousand milligrams per day of EPA in fish oil.
+鱼油有一些副作用
+Now there are a few side effects of fish oil,
+有血液 有血液基因突变的人
+people who have blood who are believers who have factor five light in mutations
+或者正在采取避孕措施的女性
+or women who are taking birth control,
+这会让你
+which can make you,
+会影响血液凝结
+which can affect blood clotting.
+这类事情真的应该和你的医生谈谈
+and things of that sort really should talk to your doctor.
+确保对你是没问题的
+I'll make sure it's okay for you.
+鱼油还会有鱼腥味
+Fish oil also can give people fishy breath,
+坦白说 这很恶心
+which is pretty gross frankly,
+但现在鱼油由于胶囊封装
+but there are now fish oils that either because of the encapsulation
+或加入柠檬调味料的方式
+or because of the way they put some lemon flavoring,
+减弱了一些鱼腥味
+and there doesn't have that effect.
+在任何情况下
+In any event,
+每天1000毫克的EPA
+a thousand milligrams per day of EPA.
+我之前开始定期服用
+I started ingesting that regularly.
+我感觉好多了
+I just felt better.
+我没有临床抑郁症
+I wasn't clinically depressed,
+但是我一般
+but I generally,
+我确实觉得至少对我来说 它能增加我的情绪和情感
+I did feel at least for me an increase in mood and affect and a number of other things
+以及其他一些可以减少炎症的东西
+it supposed to reduce inflammation.
+对心血管的影响还存在争议
+The cardiovascular effects are controversial.
+很长一段时间
+For a long time.
+每个人都认为它对血小板的影响是非常棒的
+Everyone thought the effects on platelets were really terrific than
+但是有一些文章和主要报纸报道称  也许没有那么好的影响
+there were articles that came out and major newspaper saying Maybe not so much.
+但它对情绪的影响是非常深远的
+but the effects on mood are really profound.
+现在有很多研究
+and now there are lots of studies.
+如果你去pubmed 然后把EPA或鱼油
+If you go into pubmed and you were to put EPA or fish,
+还有抑郁输入进去
+oil and depression,
+你会发现有很多令人印象深刻的结果表明
+you would find that there were a number of really impressive results showing that
+它至少和某些SS产生的抗抑郁药在这些剂量下一样有效
+it's at least as effective as certain SS arise antidepressants at these dosages and
+它可以放大或改善一些低剂量的药效
+it can amplify or improve the effect of low dosages of some of these assets arise.
+所以我觉得应该让更多的人知道这件事
+So I feel like more people should know about this.
+这是营养
+This is the nutrition,
+但它深刻地影响着情绪
+but it's profoundly affecting mood.
+抑郁很可怕
+and depression is terrible,
+是的 在某些情况下 抑郁也可能是焦虑的一个组成部分
+right Depression can have a component of anxiety in some cases where people aren't,
+人们感觉很糟糕 很不确定
+they feel lousy and very uncertain.
+这就是我用焦虑来形容抑郁症的方式
+That's kind of how I talk about depression with anxiety.
+你和一个焦虑的人交谈  你告诉他们一切都会好起来的
+Is you know you talk to someone who is anxious and you can tell them everything can be okay,
+好吧
+Okay,
+他们总是担心自己可能不知道的事情
+and they are always concerned about what might they might not know.
+不知道飞机会不会坠毁
+You don't really know the plane isn't going to crash.
+不知道生活是否会顺利
+You don't really know that life is going to go OK,
+在某种意义上确实是这样
+and in some sense the right,
+没有人有水晶球  或能预测未来
+no one has a crystal ball or can predict the future.
+但他们倾向于坚持或专注于不确定性
+But they tend to perseverate or fixate on the uncertainty.
+然后
+And then,
+当然 有些版本的抑郁症涉及确定性
+of course there are the versions of depression that involve certainty.
+人们都是没精打采的 而且他们肯定自己说过
+People are lethargic and they are certain they say.
+是的
+Yeah,
+我肯定我再也找不到别的工作了
+I'm certain I'm never going to get another job.
+我确信我永远不会遇见一个人  我肯定会失败的人
+I'm certain I'm never going to meet anyone knew I'm certain I'm going to fail.
+所以在确定性和不确定性的抑郁范围中存在着这样的分歧
+So there's this kind of a divide in it in the sphere of depression around certainty and uncertainty.
+有趣的是 这1000毫克/天
+But what's interesting is this thousand milligrams per day,
+或更多的EPA  已经被证明可以缓解这两种形式的抑郁症
+or more of EPA has been shown to relieve both forms of depression.
+这是否意味着它对所有人都有效呢？
+Now does that mean it's going to work for everybody?
+不
+No,
+我不是来扮演心理医生的
+I'm not here to try and play psychiatrist.
+我想给你们指出这些方向 这样你们就可以自己做出明智的选择
+I want to point you in the direction of these manuscripts so that you can make informed choices for yourself.
+你可以与你的医生和家人讨论 让他们帮你做出适合你的选择
+You can discuss it with your doctor and family and make their choices that are right for you.
+但关于心脏的影响 特别有趣的是
+But here's what's especially interesting about the heart effects,
+因为我们听说这些Omega-3
+because we've heard that these omega threes,
+它
+Which,
+可以从其他来源得到
+of course you can get from other sources too.
+从富含脂肪的鱼类中
+You can get from fatty fish,
+亚麻籽
+their flax seeds,
+大麻种子
+hemp seeds,
+奇亚籽
+there are number of chia seeds,
+诸如此类的东西
+these kinds of things.
+但所需要的EPA含量相当高
+But the levels of EPA that are required are quite high.
+这1000毫克/天
+So this thousand milligrams per day,
+这很难从食物中得到
+that's pretty hard to get from food,
+尽管要看你吃的是什么
+although it can be done depending on what what you're eating.
+有趣的是 心脏会受到影响
+What's interesting is that the heart effects.
+这是确定的
+that are solid,
+在文献中真正具有代表性的是  我们在上一集讨论过的东西
+that really stand up in the literature have a lot more to do with something we talked about in a previous episode,
+我再提一遍
+and I'll mention again,
+也就是心率变异性
+which is heart rate variability,
+我们知道有一个非常高的心率或者非常低的心率
+so we know that having a heart rate that's really high or heart rate that's really low.
+这两个都不好
+Neither of those are good.
+会认为你只是想要低心率大搏量
+lobby will think all you just want a low heart rate big stroke volume,
+
+如果你经常跑步
+if you're running a lot,
+你每分钟可以跳三四十下
+you may thirty or forty beats per minute.
+对保持身材很好
+that's great to be in shape,
+但你仍然需要心率变异性
+but you still want heart rate variability.
+这和上次讲过的自主神经系统的张力有很大关系
+It has a lot to do with the tone of the autonomic nervous system talked about last time.
+当你吸气时  它会加速你的心率
+How when yo  u inhale,
+当你呼气时 它会降低心率
+it speeds up heart rate when you exhale.
+这被称为呼吸性窦性心律失常
+It decreases heart rate that's called respiratory sinus arrhythmia.
+这是心率变异性的基础
+It's the basis of heart rate variability.
+我们可能会就此写一篇ins
+We'll maybe do a short post about this,
+所以你没有你可以得到所有的机制和行为  这些可能对你有用
+so you don't have you can get all the mechanism and behaviors that spill out of that that might be useful for you.
+重点是心率变异性
+but the point is heart rate variability.
+这是好的
+HRV is good,
+有趣的是 2009年有一项研究显示
+And what's interesting is that there was a study in two thousand and nine that showed that
+那些饮食中没有补充维生素的的人
+people who eat a diet where there and fail to supplement in a way that there's a high.
+Omege-6比Omege-3的比例
+Oh mega Six to three ratio.
+Omege-3不够
+So not enough omega threes.
+它们不仅是炎症细胞因子的标记物
+Not only are they are markers of an inflammatory cytokines,
+如LOS6和TNFα升高
+elevated things like Ios six and tnf alpha,
+但他们往往对抗抑郁药没有反应
+but they tend to be non responders to antidepressants.
+改变Omege-3  和Omege-6的比例有一些作用
+Shifting that omega three omega six ratio did a couple things.
+首先 增加EPA的含量改变了比例
+First of all increasing the amount of EPA shifted the ratio,
+变成更高的Omege-3和Omege-6的比例
+so it was higher Omega Three and Omega six ratio,
+这是好的
+which was good,
+降低了炎症标志物 然后允许抗抑郁药即使在低剂量下也能发挥作用
+lowered the inflammation markers and then allowed antidepressants to have their effect even at low doses.
+有趣的是
+And here's the really interesting thing.
+它通过增加心率变异性起作用
+It worked by increasing heart rate variability.
+你会想  哦
+And you think well.
+这到底是怎么发生的
+How in the world would this happen?
+
+我的意思是这有很多影响
+I mean that's a ton of effects,
+但它的工作方式是因为  这些东西影响肠道和自主神经系统的方式
+but the way it works is because of the way that these things are impacting the gut and the autonomic nervous system.
+记得我之前说过的
+Remember earlier I set.
+迷走神经包括心脏的连接
+The vagus includes connections from the heart,
+向大脑发送关于心脏跳动速度的感官信息
+signaling about sensory information about how fast the heart is beating to the brain,
+不仅仅是肺里的东西
+not just stuff on the lungs,
+而是发自心脏的信息
+but information from the heart.
+然后大脑通过心率变异性来调整心跳速度
+The brain then adjust hartrey by heart rate variability.
+难以置信的是  居然有一种方法可以利用肠道
+so it's incredible that there's a way that one can use the gut.
+摄入更多EPA  通过食物或补充物
+The ingestion of more of these EPA is either through food or supplementation
+来增加心率变异性从而改善症状
+to increase heart rate variability and thereby to improve symptoms,
+也就是减少抑郁症状 甚至减少抗抑郁药的用量
+meaning reduce symptoms of depression and to even make low levels of antidepressants.
+否则就行不通了
+That wouldn't otherwise work work.
+我喜欢这个研究是因为它非常酷
+And I think I like this study so much because it's super cool.
+它连接了大脑和身体的通道
+It bridges the brain body access.
+它包含了大脑中的营养和微量营养
+It incorporates nutrition and micro nutrients in the brain,
+但也因为它确实指向了我们一直听到的东西
+but also because it really points to something that we hear all the time,
+我们的身体是一个完整的系统
+which is that our body is a whole system.
+它作为一个完整的大脑系统在大脑和头骨中并不是孤立地工作的
+It's working as a whole system of the brain isn't working in isolation up there and in the skull.
+它对体内发生的事情做出反应
+It's reacting to things that are happening in the body,
+在肠道和心率以及心率变异性中
+in the gut and in the heart rate and heart rate variability,
+我们摄入的东西会对它们产生深远的影响
+and that the things we ingest can have a profound effect on them.
+
+当然
+of course,
+我想强调的是 没有任何一种化合物
+I really want to emphasize something which is that no one compound or nutrient
+营养物质 补充剂 药物或行为是万能的
+or supplement or drug or behavior for that matter is going to be the be all end.
+所有摆脱抑郁或改善情绪或改善睡眠都是一系列的事情
+All of shifting out of depression or improving one's mood or improving sleep is a constellation of things.
+尤其当人们开始对各种补充剂和药物
+and this is especially true when people start to get excited about supplements and drugs
+以及它们在各种方面的潜力感到兴奋时
+of all kinds and their potential for various things right now.
+迷幻药在治疗方面有很多令人兴奋的地方
+there's a lot of excitement about psychedelic in their therapeutic uses.
+我觉得这当然很好
+and I think great.
+但我的一个好朋友
+But as a good friend of mine,
+他是一个医生
+who's a physician,
+他说
+Clinician says.
+通过化学物摄入改善生活  仍然需要改善生活方式
+Better living through chemistry still requires better living.
+你不能指望不管一种化合物的来源和效力如何
+You cannot expect to take a compound regardless of source or potency,
+让它完全改变你的生活体验
+and have it completely shift your experience of life
+而不必继续从事适当的行为
+without having to continue to engage in the proper behaviors,
+我们所知道的一切
+All the things we know,
+适当的睡眠
+proper sleep,
+锻炼
+exercise,
+社会联系
+social connection,
+食物
+food,
+等
+etc.
+还有很多其他的
+There are many others as well.
+所以我仍然发现这些关于大型逆冲的
+So I still find that this collection of studies about a megathrust omega,
+omega-6的比率非常重要
+six ratios to be profoundly important,
+以至于它完全改变了我对食物的看法
+so much so that it's completely changed the way that I think about food,
+我吃的食物
+the foods I eat,
+我吃的补剂
+I do supplement.
+我不认为这适合所有人
+I don't necessarily think that's for everybody,
+但我真的认为这些化合物对我们的幸福感
+but I really think it's incredible that there are these compounds that
+有如此强烈的影响是不可思议的
+have these robust effects on our feelings of wellbeing,
+还有其他的
+and there are others too,
+每天摄入1000毫克的鱼油是有益的
+so that thousand milligram per day threshold of fish oil that's beneficial
+这就要求摄入适量的omega-3
+requires that one take a reasonable amount of these things,
+无论是通过食物还是通过补充
+either through food or through supplementation.
+我承认并不是每个人都想吃鱼油
+I acknowledged that not everyone wants to take fish oil.
+人们想要避免这种情况有几个原因一个是道德原因
+There are couple of reasons why one might want to avoid that one would be for ethical reasons.
+你与环境之间的情感关系会让你不想食用与鱼类相关的产品
+You have an emotional relationship or a relationship to the environment that makes you not want to ingest fish related products.
+还有磷虾油晶体
+There's krill oil crystal.
+这个有机体是一种很小的东西 鲸鱼吃很多 而人们通常很少爱吃它
+an organism is a little tiny thing that whales eat a lot of and people generally very little love.
+所以磷虾就在那里
+so krill was out there.
+我个人来说
+I personally just me.
+我不知道为什么我对磷虾反应不好
+I don't know why I didn't react well to krill,
+我感觉不太好
+I didn't make me feel very good.
+我会感觉到皮肤瘙痒
+I had some like kind of skin itchies and things like that,
+当我停止服用时 它们也停止了
+and they stopped when I stop taking them,
+但如果这是你的偏好 我不想让你对它产生偏见
+but I don't want to bias you against it if that's your preference.
+有些人很喜欢磷虾油
+Some people really like krill oil.
+作为Omega-3的来源之一
+As a source of Omega three is,
+我确实提到了一些其他来源 比如奇亚籽和亚麻籽
+I did mention some of the other sources like Chia Seeds and  flax seeds,
+你会注意到这些东西不是我们经常摄入的
+You'll notice these are not things that we tend to ingest a lot of on a regular basis.
+如果动物吃含有大量omega-3的草
+It is possible to get omega threes from meats if the animals have grazed on grasses
+就可以从肉类中获得omega-3
+that contain a lot of omega threes.
+所以对于那些吃肉的人
+So for those of you that ingest meat,
+
+这些肉类的来源非常重要
+the source of those meats is going to be very important.
+与Omega-3的摄入直接相关
+as it relates to Omega,
+甚至鱼油也是要好好选择
+Three is even within the category of fish oil.
+人们有时会担心汞和其他污染物
+There's a concern sometimes about mercury and other contaminants.
+你要选择一个品牌 使用了真正优质的资源
+you want to go with a brand that emphasizes that they've gone to really good sources
+并且他们不顾一切地去污
+and that they decontaminate regardless.
+所以你必须找到那些品牌
+And so you have to search out those brands.
+你可以做一个测试来判断鱼油是否腐臭
+There is a test that you can do as to whether or not the fish oil is rancid or not.
+有些人以液体的形式摄入
+Some people take in liquid form.
+有些人的以胶囊的形式
+Some people day in capsule form.
+液体的形式会更便宜
+the liquid form is going to be a more affordable.
+胶囊的形式更容易  携带更方便
+The capsule form as more is a little easier in a little bit more portable.
+你可以只嚼一片凝胶片就完事了  如果它尝起来真的像鱼腥味
+You can actually just chew one of the gel tablets and if it tastes really fishing kind of rancid,
+你可能会觉得这很恶心
+you'll know it's disgusting.
+想吐出来
+You wanna spit it out.
+如果吃下去觉得可以忍受
+and if it doesn't end its tolerable,
+那就没问题
+then you'll know that that it's okay.
+不幸的是
+Unfortunately,
+为了做到这一点 你必须首先购买
+you have to buy at first in order to do that.
+虽然我不知道
+Although I don't know,
+也许你可以让他们在商店里  帮你打开瓶子然后告诉他们你想先试一下
+maybe you can get them to open up the bottle for you in the store and tell them that you don't want to try it some day,
+也许鱼油Omega-3就像在餐厅品尝葡萄酒 你可以暂时把它退回去
+Perhaps fish oil Omega three is it'll be like tasting wine in a restaurant where you can send it back for now.
+我觉得你得先买
+I think you have to purchase at first,
+但最后
+but finally,
+找到一个完全信任的
+find a brand new trust and like,
+然后看一下他们的产品
+and then and then work with them.
+如果你决定走那条路
+If you decide to go that route.
+当然
+Of course,
+还有一些化合物对提高情绪也很有趣 它们本质上就像食物一样
+there are other compounds that are also interesting for mood elevation that are essentially like foods,
+或者是基于补充剂
+or are supplement based.
+
+幸运的是
+fortunately,
+这是来自同行评议研究的  很好的数据  下一个我想提的是
+there are really good data from peer reviewed studies and the next one I want to mention,
+因为我觉得现在很有趣的是左旋肉碱
+because I think it's really interesting is l carnitine now.
+左旋肉碱已经存在很长一段时间了
+carnitine has been around a long time and it's been discussed
+在心脏健康和其他一些事情的背景下它被讨论过
+in the context of heart health and a number of other things.
+它实际上早就出现了
+It was actually in town.
+它是九十年代早期的一种减重剂
+It is a bit of a weight loss agent in the early nineties.
+事实上 左旋肉碱对抑郁症有一些非常令人印象深刻的影响
+L Carnitine actually has some really impressive effects on depression
+我们将再次关注pubmed因为研究检查结果对我来说是很重要的
+and again we will look to pubmed because looking at examined outcome is essentially for me anyway.
+查阅Pubmed
+Looking at Pubmed.
+什么是左旋肉碱
+what is l carnitine?
+好吧
+OK,
+左旋肉碱在肉类和牛肉中最为普遍
+Carnitine is most prevalent in meat and beef,
+在特定的
+in particular.
+对于素食主义者来说
+Now for the vegans,
+请记住
+please know that L.
+左旋肉碱也可以通过非肉类来源获得
+Carnitine is available through non meet sources as well,
+虽然不像动物肉的来源那么丰富
+although it's not as enriched anonymous sources,
+这是一个非常有趣的分子因为乙酰肉硷本质上是由左旋肉碱制成的
+it's a really interesting molecule because l fetal al carnitine is essentially what's made from El carnitine.
+但是被乙酰化了
+But it's acetylated,
+乙酰化在生物化学里不能怎么查到
+the fewest in the biochemistry can look that up.
+乙酰化
+It's acetylated
+可以穿越血脑屏障
+into a form that can cross the blood brain barrier.
+血脑屏障
+The blood brain barrier,
+或者血脑屏障是大脑周围的一堵墙
+or bbb is a barrier to wall around the brain.
+你有这个障碍是因为大脑太重要了
+and you have this barrier because the brain is so important.
+它有一个特点 那就是那里的神经元在受伤后不会重建自己
+and it has this feature that the neurons there don't recreate themselves after injury.
+就像身体的其他器官一样
+Like other organs of the body,
+细胞的更替并不多
+there's not a lot of turnover of cells,
+尽管你可能听说过
+despite what you might have heard.
+所以大自然创造了血脑屏障血脑屏障是为了确保某些分子  特别是大分子
+And so nature has created this bbb this blood brain barrier to make sure that certain molecules in particular
+不会穿过血脑屏障因为它会破坏这些组织
+large molecules don't get to cross the blood brain barrier because it can be damaging to those tissues.
+顺便说一下
+Incidentally,
+在其他器官周围也有一个非常坚硬或严格的屏障
+you also have a very rigid or stringent barrier around other organs
+即性腺 卵巢和睾丸
+which are the gonads are the ovaries and testes,
+大脑是身体的器官 是大自然特意保护的器官
+and the brain are the organs of the body that they that nature has gone out of its way to protect.
+再增加一层血脑屏障
+Give this additional layer of the blood brain barrier or,
+你可以想象
+as you might imagine,
+为了睾丸和卵巢
+for the testes and the ovaries.
+它会成为血液流动的天然屏障
+It's going to be the blood go natural barrier,
+所以这些障碍的存在使得你吃了东西 吃了东西
+so these barriers exist to make it such that just because you eat something just because you ingest.
+这并不意味着它会穿过血脑屏障
+It doesn't mean it's going to cross the blood brain barrier,
+但是左旋肉碱
+but al Carnitine,
+被摄入时
+when taken,
+被吸收并转换成这种形式
+is assimilated and converted into this form.
+它会穿过血脑屏障
+That gets a cross the blood brain barrier.
+它对长链脂肪酸的线粒体激活有很多影响
+And it has a lot of effects that's involved in mitochondrial activation of long chain fatty acids,
+这很拗口
+which that's a big mouthful.
+然后我们会讲到代谢率
+Then we get into some time when we're talking about metabolic rate.
+但在狭窄的一侧 它有一些有趣的影响
+But it has some interesting effects at on the narrow side,
+所以如果你去examine.com上看看
+so if you decide to check it out on examined outcome,
+你会看到一些非常有趣的东西
+you'll see some really interesting things.
+氨有很多影响
+Lots of effects on ammonia?
+C反应蛋白
+C reactive proteins,
+诸如此类的事情  血糖降低了
+things of that sort blood glucose is lowered,
+等
+etc.
+血液和末梢周围的水平对降低胆固醇有轻微的影响
+That's all stuff that the level of blood and periphery slight effects in lowering cholesterol.
+这里有一些有趣的例子
+Here are some interesting ones.
+当人们服用左旋肉碱时 怀孕率就会上升
+Rates of pregnancy go way up when people are taking al carnitine,
+父亲和母亲都是
+both the father and the mother.
+而精子和卵子的来源
+but the source of sperm and the source of egg.
+都受到有利于怀孕的影响
+are affected in ways that favour pregnancy.
+它确实增加了精子质量  男性的精子活力
+It does increase here we go again with sperm quality sperm motility in males,
+这似乎对患有多囊卵巢综合征的女性有积极的影响
+and it seems to have positive effects on females that have polycystic ovary syndrome.
+所以去查一查吧
+So check that out.
+
+影响是非常强烈的
+the effects are very strong.
+这里列出了三个研究
+There are three studies listed there.
+我知道我不是在宣传
+I get I'm not promoting this,
+但如果人们摄入左旋肉碱
+but that that people take out carnitine,
+特别是如果你想要怀孕
+especially if you're trying to get pregnant,
+需要好好检查这个 因为它影响他们的身体
+but check it out because the affects their in.
+所提到的研究都发表在同行评议严谨的  上
+The studies that are mentioned are published in peer reviewed rigorous journals.
+就这一点而言
+In terms of that,
+神经的影响
+the neural effects.
+这些都很有趣
+those are quite interesting.
+对抑郁症的影响仍在显现
+The effects on depression are still emerging,
+但它们似乎确实存在 人们感到抑郁症状明显减轻
+but they do seem to exist that people feel a notable decrease in depressive symptoms.
+根据搜索结果列出了7项研究  在各种情况下
+There are seven studies listed on examined outcome that it has a notable benefit in a variety of
+当参与者已经开始不服用左旋肉碱时 它有显著的益处
+circumstances where participants have heightened depression already they start taking no carnitine,
+他们开始感觉好些了 也谈论了剂量
+and they start feeling better and they talk about dosages.
+在这些不同的研究中
+In those various studies.
+也表明它能显著降低自闭症的症状
+It also has been shown to have a notable decrease in the symptoms of autism,
+我觉得这很有意思
+which I find fascinating.
+再一次
+also again,
+我们摄入的东西会影响我们的营地
+the things we ingest impact our camp,
+我们大脑中的化学物质以及它们如何影响我们身体的其他部分
+The chemicals in our brain and how they impact the rest of our body.
+还有其他的东西被用来治疗某些形式的酒精依赖
+There's other things has been used to treat certain forms of alcohol dependence.
+我认为这将是一个非常令人兴奋的新兴领域 我们将花一个月的时间来研究上瘾
+I think this is going to be a very exciting an emerging area we're going to do a whole month about addiction.
+我这个月有很多很棒的嘉宾
+I've got a great guests lined up for that month.
+但现在出现了一个新兴领域 即当人们试图戒掉可卡因等滥用药物时
+But there is now an emerging field about what people can take a supplement
+可以通过服用什么补充剂来帮助缓解渴望和戒断
+to help ease the cravings and withdrawal when trying to quit drugs of abuse like cocaine,
+酒精
+alcohol,
+海洛因和吸烟
+heroin and smoking,
+诸如此类的事情
+and things of that sort,
+这是一个非常有趣的领域
+so really interesting area.
+我喜欢回想起早期
+This is I like to think of the early days,
+然后我们会发现更多
+and then we're going to discover a lot more.
+这里有一大堆内容
+There's a huge list of things here.
+因为我们在之前的节目中谈到了疼痛
+Since we talked about pain on a previous episode,
+我知道很多人给我关于纤维肌痛症的留言
+and I know a lot of people have written to me about fibromyalgia.
+已经被证明可以减轻纤维肌痛的症状
+Quarantine has been shown to reduce symptoms of fibromyalgia Again,
+所有与研究的链接都在examine.com中 （咚……）
+All the links to studies are on examine.com,
+完全免费的网站
+totally free site.
+那是我的斗牛犬
+And that was my bulldog.
+它以为自己是雷神之锤
+being a battering ram.
+这只牛头犬一点也不优雅
+There's nothing graceful about this bulldog.
+他决定离开去喝点水
+He's decided he wanted to leave to go for a drink of water,
+所以请原谅我的噪音
+and so please forgive the noise.
+好吧
+OK,
+现在让我们来看看肠脑关系的另一个方面  它在某些情况下可能会让你感到震惊
+so now let's turn to another aspect of the gut brain relationship that will surprise you in some cases might
+它有一些非常酷和可行的生物学原理
+shock you and has some really cool and actionable biology.
+这就是肠道里的
+And that's the gut,
+微生物
+microbiome,
+益生菌
+probiotics and probiotics.
+我知道今天我们谈论的是情感而不是痛苦
+I know today we're talking about emotions and not pain,
+但如果我不提左旋肉碱的另一种作用那就太失礼了
+but I'd be remiss if I didn't mention another effect of a ctl.
+大家可以在网站上找到相关研究
+carnitine that's been reported and that you can find listed with linked to study on examined dot com,
+它能减轻偏头痛的症状
+which is its effect in reducing the symptoms of migraine.
+这是一项随机对照试验
+This was a randomized controlled trial with a hundred
+有133名经常偏头痛患者参加
+and thirty three participants who had frequent migraines.
+他们服用了500毫克的左旋肉碱
+they were taking five hundred milligrams of El Carnitine.
+在12周的对照实验中什么都没有
+Where nothing for twelve weeks of the control is a little bit the control experiment.
+这里有点棘手
+There is a little bit tricky,
+但它对减少每月偏头痛发作的次数有显著效果
+but it had a significant effect on reducing the number of migraine attacks per month.
+我觉得这很有趣关于这项研究还有很多内容
+So I find that really interesting and there's a lot more listed there about the study.
+我认为这些化合物很强大
+and I think these compounds are powerful.
+它们对某些人来说是有风险的
+They carry risks for certain people,
+不为别人
+not for others.
+再一次
+So again,
+你必须找出什么适合你
+you have to find out what's right for you,
+但我确实认为它们对于不同的人来说都是非常有趣的潜在疗法
+but I do think they are super interesting as potential therapeutics for various people.
+那么肠道微生物组和肠道大脑通路是怎么回事呢
+So what's the deal with the gut microbiome and the gut brain access?
+今天
+Today,
+事实上 我们已经讨论了很多关于肠道大脑轴的问题 它与微生物的居所没有任何关系
+we've actually been talking a lot already about the gut brain axis that has nothing to do with microbial homes.
+我们一直在谈论迷走神经神经
+We've been talking about this vagus nerve that
+它将感官信息从身体连接到大脑
+connects providing sensory information from the body to the brain,
+然后大脑也会发送同样的神经运动信息来控制心率的运动
+and then the brain also sends in the same nerve motor information to control the motility that got the heart rate,
+我们呼吸的速度和免疫系统的部署
+how fast we breathe and deployment of immune stuff,
+杀伤细胞之类的东西
+killer cells and things of that sort.
+但通常当我们听说这些天的肠道大脑通路时
+But oftentimes when we hear about the gut brain access these days,
+这是一个关于肠道微生物群的讨论
+it's a discussion about the gut microbiome.
+再一次
+And once again,
+我们所处的环境有着不可思议的生物学
+we're in a situation where there's incredible biology.
+我很高兴
+I'm very happy.
+关于肠道微生物群的讨论太多了
+There is so much discussion about the gut microbiome.
+我有点沮丧和担心 我听到的大部分都是假的或部分假的
+I am somewhat dismayed and concerned that most of what I hear out there is either false or partially false.
+所以我们首先要澄清一些误解
+So we're going to clear up some of the misconceptions first,
+通过理解生物学然后我们会讨论一些可行的方法
+by understanding the biology and then we're going to talk about some of the actionable items.
+我们确实有很多这样的微生物
+It is true that we have a lot of these little microbes.
+存活在我们肠道中的微生物
+Micro organisms living in our gut.
+它们去那里不是为了帮助我们
+They're not there because they want to help us,
+它们没有大脑
+they don't have brains,
+它们是自适应
+they are adaptive.
+然而
+However,
+它们努力寻找并创造环境 让它们更容易繁殖
+they try and find and create environments that make it easier for them to proliferate.
+所以它们并不在乎身体健康与否
+so they don't care about you and me,
+它们只是很乐意在我身上剥削
+but they are perfectly willing to exploit to you in me.
+为了用同样的方式产生更多的自己
+In order to make more of themselves the same way.
+病毒
+Viruses are,
+病毒没有思想
+viruses don't have a mind.
+它们感染细胞
+they infect cells,
+它们劫持了基因组
+they highjack the genome,
+它们利用这个基因组来制造更多的自己
+and they used that genome to make more of themselves.
+我们体内的微生物群沿着我们的消化道生长
+The microbiota that live in us very along the length of our digestive tract.
+但让我们退后一步 想想我们的身体计划是如何形成的
+But let's just take a step back and think about how our body plan is made.
+我们实际上是一系列的管子
+We are actually a series of tubes.
+我们的大脑实际上是一根管子
+Our brain is actually a tube.
+你看
+you see,
+外面又软又软
+it's all squishy on the outside,
+然后在脊髓中有一段很长的东西一直延伸到脊柱的底部
+and then it's got that long thing in the spinal cord that goes down to the base of the spine.
+这是中枢神经系统最初是一个管子
+That's the central nervous system that all started out as a tube.
+就像菜花  在大脑的另一端 因为
+It just looks like a cauliflower on the other end up in the brain because.
+管子太大了 必须塞进颅骨
+The tube is so big and it has to be crammed into the skull,
+所以它会起皱
+so it gets all wrinkled up.
+但如果我们要把它展示出来
+But if we were to display it out,
+你会发现只有一个大管子
+you'd find that just one big tube.
+同样的
+Similarly,
+我们气管中的消化道本质上是一个大管子
+our digestive tract in our airways are essentially one big tube.
+从嘴巴和鼻子开始
+it starts with our mouth also our nose,
+然后我们有这些其他的管子
+and then we have all these other tubes,
+它们通过我们的喉咙 然后进入我们的胃 然后进入我们的各种肠道
+they go down through our throat and then into our stomach and then into our various intestines,
+然后管子从另一端伸出去
+and then the tube ends out the other end.
+所以我们是一长两长的消化系统
+So we are one long two for digestion.
+管子的内部是粘膜层
+and inside of that tube is a mucosal lining.
+这些微小的微生物是很小的
+Is these little microbial a tiny,
+很小
+tiny,
+微小的像绒毛一样的细胞末端  能够移动和移动黏液粘膜和黏膜内壁
+tiny little like velvety ends of cells that are able to move and move things along and mucus mucosa
+内部环境决定了许多不同的东西
+and the conditions of that mucosal lining set a number of different things.
+它决定了我们消化的速度和我们消化的质量
+It sets the rate of our digestion in the quality of our digestion.
+它设定了
+It sets,
+例如
+for instance,
+我们的免疫系统
+our immune system.
+大多数人可能都没有意识到这一点
+Most people probably don't realize this.
+但环境中的大多数感染都会进入我们的身体
+but most infections in the environment will have to get into our body.
+不知何故  一些被身体吸入了
+Somehow some of them are inhaled.
+很多细菌进入口腔  并滞留在口腔粘膜内然后感染
+A lot of them go into her mouth and lodge in the mucosal lining of the mouth and then infection.
+从你可能有过这种经历
+Start there that you probably had the experience.
+不幸的是
+Unfortunately,
+你不觉得有什么东西在敲你的喉咙吗
+have you no feeling like you have a ticking your throat like something?
+它会刺激你的喉咙 然后变成伤风感冒或流鼻涕
+As irritating your throat and then it kind of migrating up into a head cold or runny nose.
+有时他们会导致头痛
+Sometimes they'll stars at headache.
+有时它不会
+Sometimes it won't,
+但我们体内的东西可以向下迁移到肠道
+but things that are in our can migrate down into the gut,
+我们一直在摄入东西
+so we're ingesting things all the time.
+想想空气中的细菌
+Think about air bacteria,
+病毒
+viruses.
+他们正在向目标前进
+they're making their way in target,
+有些细菌生活在肠道中  有些细菌倾向于肠道
+and some of those bacteria live in the gut and some of those bacteria bias.
+肠粘膜肠内的粘膜层
+The mucosal lining in the gut.
+肠道会变得
+Stomach and intestines to B.
+更酸性或更碱性 这样它们就能制造更多的自己 从而进行复制
+more acidic or more basic so that they can make more of themselves so they can replicate.
+它们喜欢某种特别的舒适环境
+they like a particular comforts,
+就好像它们喜欢一种特殊的着床环境 然后自己就能创造出更多
+like they like a particular kind of betting to lie down in and would create more themselves.
+
+它们促进的一些粘膜内壁会让我们感觉更好
+Some of those mucosal linings that they promote make us feel better,
+它们让我们更警觉
+they make us feel more alert,
+它们可以增强我们的免疫系统 而其他的则会让我们感觉更糟
+they bolster our immune system and others make us feel worse.
+第一条规则
+So first rule.
+微生物群系没有好坏之分
+The microbiome isn't good or bad.
+一些生活在我们体内的小虫子会对我们做坏事
+Some of these little bugs that live in us do bad things to us.
+它们会让我们感觉更糟
+They make us feel worse,
+降低了我们的免疫力
+they lower our immunity,
+它们以消极的方式影响我们
+they affect us in negative ways.
+有些能让我们感觉好点
+Some of them make us feel better,
+它们主要通过连锁改变我们的肠道环境来实现这一点
+and they do that mainly by chaining changing the conditions of our gut environment.
+除此之外
+In addition to that,
+他们确实会影响
+they do impact.
+肠道中的神经递质和神经元
+The neurotransmitters and the neurons that live in the gut,
+它会向大脑发出信号 影响多巴胺和血清素
+and that signal up to the brain to impact things like dopamine and serotonin
+这些我们之前已经讲过了
+that we've been talking about previously.
+所以现在有一个广阔的世界正致力于了解食物来源
+So there's a vast world now devoted to trying to understand what sources of food,
+什么样的食物对肠道菌群有益或有害
+what kinds of foods are good or not good for the gut microbiome.
+让我们来谈谈一些与同行评审的研究质量相关的一般经验法则
+So let's just talk about some general rules of thumb related to the research quality research that's peer reviewed,
+然后在之后的一集里
+and then in a future episode,
+我们将深入研究肠道微生物群和肠道大脑轴
+we will go far deeper into the gut microbiome and gut brain axis.
+这里有一些我认为你可能会感到惊讶的事情
+Here's a few things that I think you might find surprising.
+首先
+First of all,
+支持健康的肠道微生物群对心情有好处
+supporting a healthy gut microbiome is good for mood,
+对消化和免疫系统功能都有好处
+great for digestion and great for immune system function.
+然而
+However,
+这并不意味着要最大化促进微生物生长
+that does not mean maxes out,
+或者尽可能多摄入益生菌和益生元
+or taking the most probiotic and prebiotic that you can possibly manage.
+我之前多次提到  我相信益生菌
+So I mentioned many times before I do believe in probiotics,
+我也吃益生菌
+I take probiotics,
+但有研究表明 如果你摄入大量特定的益生菌
+but there are studies that show that if you take lots and lots of certain probiotics
+比如乳酸菌 你体内水平会变得更高
+like lactobacillus and you really ramp up the levels more,
+它不是
+it is not.
+越多越好
+a case of more is better.
+会有副作用  比如脑雾
+There are things like brain fog that can come from that brain.
+无法集中注意力
+Fog is just this inability to focus.
+人们的感觉并不好
+People feel really not Well.
+一般来说
+Generally,
+有些研究是有争议的
+some of those studies are a little bit controversial,
+但我认为 公平地说 如果人们真的增加了他们摄入的益生菌数量
+but I think it's fair to say that if people really increase the amount of probiotics that
+超过了一定的数量
+they're taking beyond a certain amount,
+然后他们开始感到头脑模糊
+then they start feeling foggy in the mind.
+那么多少才是太多了呢
+Now what's too much well?
+我从我之前提到的athletic greens中获得益生菌
+I get probiotics from I've mentioned before from athletic greens.
+你可以从发酵的食物中得到它们
+you can get them from fermented foods,
+比如泡菜
+like sauerkraut,
+酸黄瓜
+Pickles came,
+这些是来自世界各地的不同发酵食物
+These are different sources from around the world.
+我很想听听其他的食物来源  来自世界各地的食物
+I'd actually I'd love to hear some of the other sources that people no other foods from around the world.
+我很好奇不同的文化是如何形成这些食物的
+I'm fascinated by the way in which different cultures have all arrived at these foods
+因为它们是发酵的 所以能够提供和支持健康的微生物群
+that provide and support healthy microbiome because their fermented.
+我有一个在斯坦福的同事
+I've a colleague at Stanford,
+Justin Sonnenburg
+Justin Sonnenburg,
+他和我谈过这个
+he and I've talked about this.
+我不想引用他的原话
+I don't want to quote him inappropriately,
+但我们已经讨论过了
+but you know we've had discussions around.
+他们已经发表了论文
+They've published that.
+摄入发酵食品是维持肠道微生物群健康水平的最好方法之一
+The ingestion of fermented foods is one of the best ways to support healthy levels of gut microbiota biota
+并且不会超过阈值 否则会导致脑雾
+without exceeding the threshold that would cause things like brain fog,
+所以食物和发酵食品是最好的来源
+so foods and fermented foods are going to be the best source,
+有很多不同的方法可以做到这一点
+and there are a number of different ways that one can do that.
+有些人不喜欢发酵食品
+Some people don't like fermented foods.
+然而
+However,
+有些人补充它
+some people supplement it.
+所以它不是
+So it isn't.
+越多越好
+A case of more is better,
+因为我们知道另一个是健康的肠道微生物群
+Because we know that the other is that it is true that healthy gut microbiota have been shown to
+确实可以改善某些精神疾病的症状
+improve symptoms of certain psychiatric illnesses,
+以及某些条件 比如
+as well as certain conditions like.
+自闭症谱系中的一个特殊特征
+A particular features along the autism spectrum,
+这些效果很有趣
+which is interesting in those effects,
+可能不仅仅是因为免疫系统功能的改善 还因为感知营养的神经元
+are probably due to not just improvement of immune system function but to the conditions
+向大脑传递信息的条件以及血清素
+in which the neurons that sense nutrients convey information to the brain
+和多巴胺水平的增加
+and increased levels of serotonin and dopamine.
+因此 肠道微生物群为健康肠道和健康肠道脑轴提供了基础
+So gut microbiome provides a foundation for healthy gut and healthy gut brain axis.
+以至于有些人报告说 当他们开始吃少量的发酵食物时
+So much so that some people report that when they start eating small bits
+因为不需要大量发酵食物 他们的整体情绪会更好
+because it doesn't require a lot of fermented foods that their overall mood is better,
+就像EPA的影响一样
+not unlike the effects of EPA.
+尽管我认为它还没有被直接放在临床抑郁症的背景下研究
+Although I don't think it's been looked at directly in the context of clinical depression yet,
+如果有人知道一项研究
+and if someone knows of a study,
+请在评论中提到它 那将是非常棒的
+please mention it in the comments that would be terrific.
+你可以做一些事情来损害你的肠道微生物群
+There are some things that you can do to really damage your gut microbiome,
+这就是我想澄清的一个巨大误解
+and this is where there's a huge misconception that I want to clear up.
+<自然> 杂志上发表了一项研究
+There was a study that was published in Nature,
+它是我们在科学领域的三大顶尖  之一
+which is among the three top journals that we have in science.
+<自然>
+You on Nature.
+<科学> 和 <细胞> 被认为是三大顶尖
+Science and Cell are considered the top tops,
+这份优秀的  显示 人造甜味剂
+but excellent journal that showed that artificial sweeteners,
+但是一种特殊的人造甜味剂
+but a particular artificial sweetener,
+糖精
+which was saccharin,
+会扰乱肠道微生物群 对许多不同的健康指标有害
+can disrupt the gut microbiome in ways that is detrimental to a number of different health markers,
+当肠道微生物群失去平衡时
+increasing inflammatory site of kinds and all the other bad things
+就会出现各种各样的炎症和其他不好的事情
+that happen when the gut microbiome is thrown off kilter.
+这项研究被广泛讨论
+That study was widely discussed,
+但是还有一些重要的事情没有提到
+but there were a few things that were not mentioned there that are really important.
+那个研究是专门关于糖精的
+That study was about saccharin In particular.
+糖精不是最典型的
+Saccharin is not the most typical.
+最典型的甜味剂
+Artificial sweetener that to use the most typical sweetener,
+最典型使用的人造甜味剂是阿斯巴甜
+artificial sweeteners that are used are things like aspartame,
+被称为代糖或三氯蔗糖
+so called nutrasweet or sucralose,
+现在还有甜叶菊  罗汉果  这些都是我的认知
+or these days Stevie others monk fruits to my knowledge,
+请纠正我
+and please correct me.
+如果有人知道任何其他的研究
+if anyone knows of any studies.
+在我的认知中
+To my knowledge.
+这些人造甜味剂对肠道微生物组的负面影响仅限于糖精
+The negative effects of these artificial of artificial sweeteners on the gut microbiome were restricted to saccharin.
+糖精和我提到的其他一些物质有足够的化学相似性
+Now there is enough chemical similarity between saccharin and some of the other ones that I mentioned,
+但不是全部
+but not all of them.
+例如
+For instance,
+甜叶菊的化学成分是不同的 所以它们可能没有
+stevia monk fruit are distinct in their chemical makeup so that they probably don't have
+如果它们有的话 有较低的影响
+if they have any have lower effects.
+对肠道微生物产生负面影响
+Negative effects on the gut microbiome,
+但它仍然需要测试
+but it should still be tested.
+所以糖精真的
+So saccharin is really.
+这项研究表明
+it was shown in this study,
+其他一些研究也会产生负面影响
+and several other studies can really negatively in fact impact.
+原谅我
+Excuse me.
+肠道微生物群的质量
+The quality of the gut microbiome.
+有趣的是
+Interestingly,
+关于人造甜味剂和肠道微生物群的说法是
+the narrative around artificial sweeteners and gut microbiome is.
+不正确的
+Incorrect.
+大多数人认为
+Most people thought,
+哦
+Oh,
+糖精对微生物群有害
+saccharin is bad for the microbiome,
+它肯定杀死了微生物群
+it must kill the microbiome.
+所以你听到人们说
+and so you hear people saying,
+哦
+Oh,
+
+人造甜味剂杀死了微生物群
+Artificial sweeteners killed the microbiome.
+那根本不是真的
+That's not true at all.
+事实上
+In fact,
+在同一项发表在 《自然 》杂志上的研究中
+in that very same study published in Nature,
+他们发现 糖精对微生物组的负面影响可以通过使用抗生素来阻止或消除
+they showed that the negative effects of saccharin on the microbiome could be blocked or eliminated by giving antibiotics.
+所以其实是某些人造甜味剂
+So what happens is certain artificial sweeteners.
+特别是糖精
+In particular,
+扰乱了肠道微生物群 使肠道内的环境使粘膜内壁
+saccharin disrupt the microbiome and make the environment within the gut that mucosal lining
+更有利于细菌和微生物
+more favorable to bacteria and microbes.
+对机体不利的微生物繁殖
+biota that are not good for the organism.
+好吧
+OK,
+这是一个重要的区别
+this is an important distinction.
+这不仅仅是人们说
+It's not just that a language thing where people say,
+哦
+Oh,
+你知道它
+you know it.
+它会杀死微生物群
+It kills the microbiome.
+它不会杀死微生物群
+it doesn't kill the microbiome.
+它会改变微生物群  而微生物群中的变化可能是好的也可能是坏的
+it shifts the microbiome and shifts in the microbiome can be good or they can be bad.
+这就引出了另一个话题
+And that takes us to another topic.
+这是个热门话题
+That's a bit of a hot button topic,
+但我愿意谈谈 因为我认为它值得讨论 就是现在
+but I'm willing to go there because I think it deserves conversation which is nowadays.
+有很多这样的例子
+There are many examples out there,
+很多人已经从一种标准饮食 甚至是素食饮食 变成纯素食饮食
+Where people have switched from a kind of standard diet or even a vegetarian diet
+甚至素食主义者的饮食或素食主义者的酮饮食  而酮基
+or even a vegetarian diet to a or vegan diet to a keto diet now keto
+不一定意味着要摄取肉类  但可以
+doesn't necessarily have to mean the ingestion of meats but it can
+再变成酮基饮食 酮基并不一定意味着摄入肉类
+to a vegan diet to a Quito diet now Quito doesn't necessarily have to mean the ingestion of meats.
+他们很多都给自己带来积极的影响  但并非每一个人  我已经谈过
+and they experience positive effects for themselves not everybody and i've talked
+以前关于一些
+previously about some of the um kind of the
+呃  我认为酮的不正确营销
+uh incorrect what i believe is incorrect marketing of keto
+说什么与美容效果和睡眠方面的一些问题有关
+as it relates to the cosmetic effects and some of the challenges with sleep
+有些人有但有些人喜欢酮  它对他们很有用
+that some people have but some people love keto and it works great for them
+但生酮饮食很有趣  因为
+but the ketogenic diet is interesting because
+当人们转向生酮饮食时  肠道微生物组就会发生变化
+when one shifts to the ketogenic diet there is a shift in the gut microbiome
+有些人最终感觉更好  一些人最终感觉变得更糟
+and some people end up feeling better some people end up feeling worse
+同样  有些人是从摄取动物产物而来的
+likewise some people go from ingesting animal products
+包括肉  如果他们是素食主义者  就会从其他渠道获得
+including meat or they're vegetarian and they go to vegan
+他们会在情​​绪和情感上产生积极的转变
+and they experience positive shifts in mood and affect
+而且我们知道  过渡到更多以植物为基础的饮食
+and we know that the that the transition to a more plant-based diet
+特别是富含纤维的饮食
+and especially the enrichment of fiber that's
+这些饮食  也会使肠道微生物组发生巨大变化
+present in those diets also creates dramatic shifts in the gut microbiome
+有些人感觉更好  有些人感觉更糟  这当然是
+some people feel better doing that some people feel worse and of course it's
+取决于您是否摄入大量加工食品
+going to depend on whether or not you're ingesting a lot of processed foods or
+《细胞》 上发表过一篇论文
+There was a paper published in Cell.
+《细胞》出版
+A cell press journal,
+很明显这是一本优秀的期刊   表明摄入加工食品
+obviously excellent journal showing that ingestion of processed foods,
+不管它们是否来自动物
+regardless of whether or not they come from animal sources,
+或者非动物来源
+are non animal sources.
+加工食品本身往往会在体内产生活动
+The processed foods themselves tend to create activity within the body,
+这肯定是由于神经系统  导致了卡路里的过度消耗  或者体重的增加
+and this surely has roots in the nervous system that lead to overconsumption of calories and weight gain.
+甚至有些体重增长的情况也不能用增加的卡路里来解释
+Even some waking that couldn't be explained by increased calories.
+换句话说
+In other words,
+加工食品是不好的
+processed foods are bad,
+不管你是不是在说
+regardless of whether or not you're talking about.
+动物产品  还是非动物产品
+Animal products are non animal products,
+现在可能并不奇怪
+probably not surprising now,
+鉴于你对这些糖的了解
+given what you know about these sugar,
+感受和其他方面
+sensing and others,
+我们之前讲过的肠道中的氨基酸感应细胞
+amino acid sensing cells in the gut that we talked about earlier.
+所以这一切的重点是  我所说的  你必须找到适合你的方法
+So the point of all this is that when I say you have to find what's right for you.
+这不是随便说说
+That's not a throwaway statement,
+一些人的微生物群和粘膜的内壁
+some peoples microbiome and the lining of their of their mucosa.
+不好意思  人们喉咙下面的粘膜内壁
+Let me excuse me the Mercosur lining of their of their throat of their God.
+喉咙  鼻子  肠道的粘膜内壁
+their of their throat of their gut of their nose
+所有的一切都可以通过高度满足肉类需求的饮食来改善 不需要很多植物
+everything is improved by diets that are heavily meet based and don't have many plants.
+有些人在没有很多肉制品  或动物制品的植物性饮食中表现得更好
+Other people do much better on a plant based diet without many meat products or animal products.
+它高度个体差异
+It's highly individual,
+这可能与基因构成有关
+and this probably has roots in genetic makeup.
+这可能与人们从小所处的环境有关
+This probably has roots in what people were raised on.
+因为记住
+because remember,
+神经系统
+the nervous system,
+当然
+of course,
+是你的基因组安排的
+is set up by your genetic,
+你的基因或遗传程序
+your genes or genetic program,
+而你的神经系统
+but your nervous system.
+它在生命早期就适应了你的环境
+It adapts early in life to your conditions.
+这就是它的用途
+That's what it's for.
+你有一个神经系统的原因是  你的身体适当地移动到
+The reason you have a nervous system is to move your your body appropriately towards things that
+对你有好处的事物上 从不好的事物上离开
+are good for you in a way from things that are not but also.
+它是为了适应早期生活而设计的
+It was designed to adapt the early life period.
+我们花了整整一个月的时间来研究可塑性 它是可以改变的
+Has this incredible thing about plasticity that we spent a whole month on so that it can change so that yes,
+的确
+indeed,
+有些人可能喜欢某些食物 对某些食物的反应比其他人更好
+some people may like certain foods and react to certain foods better than others
+这是因为他们的神经系统被连接起来的方式
+because of the way that their nervous system was wired.
+肠溶
+This enteric,
+它被称为连接肠道和大脑的神经系统
+as it's called nervous system that lines the gut in that communicates with the brain.
+所以我今天讲的大部分都是非黑即白的
+So most of what I've talked about today is black and white.
+这些都存在于我们所有人体内  肠道的糖感知神经元
+These are things that are present in all of us the sugar sensing neurons of the gut,
+迷走神经的连接通路
+the way the vagus is wired.
+事实上 Omega-3和Omega-6的比率 可以提升心情
+The fact that Omega three and omega six tend to improve at the ratios
+高比例提高情绪
+tend to impact mood with high or mega three or make a sex ratio is improving mood.
+我们讨论了肠道大脑和身体大脑轴的各种东西
+We talked about all sorts of things in the gut brain and body brain axis.
+但说到微生物组
+But when it comes to the microbiome,
+关键是我们都有一个微生物群
+the key thing is that we all have a microbiome.
+你需要一个微生物群
+You want a microbiome,
+但如果你想促进生成适合你的微生物群
+but you want to promote the microbiome that is right for you,
+这可以通过摄入某些种类的食物  而不是其他种类的食物来改变和引导
+And that can be shifted and steered by ingesting certain categories of foods and not others.
+有一件事让我很沮丧 那就是当人们购物的时候
+And one thing that really frustrates me is when that people shop with an agenda
+他们会怀着  全肉主义 素食主义或生酮主义来买食物
+like you know all me to gender a vegan agenda or a Quito agenda.
+他们谈论这些关于肠道微生物组的积极事实
+And they talk about these positive facts on the gut microbiome.
+这都是真的
+and it's all true,
+坦率地说
+frankly,
+所以这是高度个体化的   这不涉及任何动物或地球的伦理问题
+and so it's highly individual now this doesn't get to any of the ethical issues around animals or the planet,
+或者你会听到关于这个的争论
+or and you hear rapid debates about that.
+你知道在两边
+you know on both sides,
+我没有资格  也没有能力谈论这些态度 主义
+and I am not qualified or equipped to talk about whether or not you know their gender vouch.
+农业
+Agriculture,
+动物产品或任何这些东西
+animal products are forming or any of these things,
+这些是如何影响环境的
+how those actually impact the environment.
+这不是我的专长
+That is not my expertise,
+但当涉及到你的健康和微生物群时
+but when it comes to your health and your microbiome,
+你想要支持微生物群
+you want to support the microbiome.
+很明显 这些发酵食品支持微生物群
+It's very clear that these fermented foods support the microbiome that
+我们每天至少应该摄入两份
+we should be investing at least two servings per day,
+这是相当多的  低水平补充是好的
+which is quite a lot that supplementation at low levels can be good.
+高水平的补充会造成这种脑雾
+Supplementation at high levels can create this brain fog,
+尽管有人说这个结果是有争议的
+Even though some people say that result is controversial,
+我自己也有过这样的经历 数据在我看来相当可靠
+I have experienced this myself and the data look to me pretty darn solid.
+这也是一个需要考虑的问题
+So that's one thing to think about as well.
+关于肠道微生物组的另一件事是
+And the other thing about the gut microbiome is that it's highly contextual,
+它与你正在做的其他事情是高度相关的
+based on other things that you're doing.
+所以即使是社交方面的锻炼
+So even things like exercise in social,
+幸福和联系
+well being and connection.
+这些也会影响肠道微生物群
+Those things are also impacting the gut microbiome.
+所以找到适合你的饮食
+So find the diet that's right for you,
+在其他对你很重要的道德和生活方式选择的背景下 这对你是有效的
+and that works for you in the context of the other ethical and lifestyle choices that are important to you.
+这是我的建议
+That's my advice.
+关于禁食的说明
+A note about fasting.
+我有一个在耶鲁的同事他是肠道微生物组方面的专家
+I have a colleague at Yale who is an expert in the gut microbiome.
+他告诉了我一件很有趣的事
+And he told me something really interesting,
+也就是我们禁食的时候
+which is when we fast.
+我们会在我们的饮食范围内  消化某些成分
+We'd actually digest certain components within our dietary tract.
+它实际上消耗了大量的肠道微生物群
+It actually depletes a good amount of the gut microbiome.
+这很有趣
+And this is interesting.
+我从
+I've had good results from,
+我猜你们会叫它间歇性禁食或者昼夜节律型禁食
+I guess you would call it intermittent or kind of circadian type fasting.
+我们从来没有做过长时间的禁食
+We have never done long fast,
+但我在几小时前就做好了第一顿饭
+but where I put out my first meal by a few hours,
+我的第一顿饭通常在午餐时间左右
+my first males generally around lunchtime or so.
+但据了解 禁食时间越长 一两天或三天
+But the longer periods of fasting they go for a day or two or three days are known
+就会在主要消耗肠道微生物群
+to deplete the gut microbiome in major ways.
+但这并不一定是一件坏事 因为当它重新被补充的时候
+And but that's not always necessarily a bad thing because when it's replenished,
+它经常以超过以前水平的水平补充
+it often is replenished at levels that exceeded its previous level.
+但是我认为一些胃肠道甚至是一些精神上的影响在进食后重新进食
+But I think that some of the GI tract and even some of the mental effects of returning to eating after feeding.
+有时候人们刚开始的时候感觉不太好 因为他们真的很想吃东西
+sometimes people don't feel so good when they started and they really want food.
+但后来他们又开始了
+But then they started again.
+他们感觉不像在禁食时那么好
+They don't feel as good as they did on the fast.
+其中一些可能与在长时间快速运动中发生的微生物组的消耗有关
+Some of that may be related to the depletion of the microbiome that occurs during long fast.
+再一次
+So again,
+这是你应该考虑  和医生讨论这些事情
+This is something to think about and talk about with your doctor.
+但禁食的想法是好的
+But the idea that fasting across the board is is good.
+这可能有一些优点
+There may be some merits to that,
+当然 在某些情况下
+and certainly in some cases,
+但它确实会消耗微生物群  这种微生物群的消耗意义重大
+but it does deplete the microbiome and that depletion of the microbiome is significant
+因为这意味着当你重新开始进食时
+because it means when you return to eating,
+你们实际上处于不同的位置
+you are actually not in the same position.
+消化和吸收这些食物这些食物
+To digest and assimilate those foods and those foods are not in the same position
+不会像禁食之前那样影响你的大脑和身体
+to impact your brain and body in the same way they were prior to the fast.
+这是
+This is,
+我认为
+I think,
+为什么人们会建议在禁食后逐步过渡到摄入营养
+why people suggest a kind of gradual transition back to consuming nutrients after a fast.
+我们总结一下
+so as we round up,
+我想和你们分享一些结果
+I want to share some results with you.
+毫无疑问 这将影响你对食物的心理甚至身体反应
+That without question will impact the way that you respond to food mentally and even physically.
+我知道这一点是因为  这是我将要告诉你们的研究的中心主题
+And I know that because that's the central theme of the studies I'm about to tell you about.
+我有个同事在斯坦福
+I have a colleague at Stanford.
+Alia Crum
+Alia Crum,
+做过一些关于心态的出色实验
+who's done some remarkable experiments on Mindset.
+有些人会认为这是安慰剂效应或信念效应
+And some people could think about these as placebo effects or belief effects,
+但实际上它们远不止这些项
+but they actually go way beyond those terms.
+Alia实验室和她的同事已经展示了许多不同的例子
+And there are a number of different examples of this that Oleah's lab and her coworkers have demonstrated.
+我特别感兴趣的两个
+Two that are particularly interesting to me.
+我现在想和你们分享 因为它们真的强调了我们的信仰
+I want to share with you now because they really emphasize how our beliefs
+是如何影响我们的大脑和身体一起工作的方式
+can really impact the way that our brain and body work together.
+我认为其中最著名的是他们做的一个实验  他们有两组人
+I think the most famous of these is an experiment they did where they had two groups of individuals.
+每人分到一杯奶昔
+They were each given a milkshake.
+他们在喝奶昔时和喝完奶昔后
+And they had some factors measured from their blood by an ivy while
+分别从血液中测量了一些因素
+they ingested the milkshake and then afterwards as well.
+他们研究的一个因素是胃饥饿素
+And one of the factors that they were looking at with something called ghrelin,
+胃饥饿素是一种随着饥饿而增加的肽
+g h r e l i n and ghrelin is a peptide that is increases with hunger.
+所以你越久不吃烤肉
+So the longer you haven't eaten that grilling goes up,
+我知道你们中的一些人会说
+and I know some of you say well,
+我禁食
+I fast,
+我禁食
+I fast,
+我最终失去了食欲  但胃饥饿素还在上升
+I fasten eventually lose my appetite while Greenland still goes up.
+然后它就下降了
+and then it dropped.
+所以如果你是那些每三小时吃一次饭的人之一
+So if you are one of these people that eat every three hours regularly,
+胃饥饿素在2小时50分钟的时候会有一点上升
+grill in kind of gets a little pulse as you get to that two hours and fifty minute mark,
+这也是一个计时器
+so it's a little bit of a timer as well.
+它真的很有趣
+It's really interesting.
+肽
+peptide.
+在任何情况下
+In any event.
+肽的作用是  给两组人奶昔
+What they did is they gave people milkshakes two groups.
+其中一组被告知热量很低
+one group got to shake that they were told was a low calorie,
+健康的奶昔
+healthy shake;
+另一组则得到了一杯被告知是非常高热量奶昔的奶昔
+the other group got a milkshake that they were told was the very decadent high calorie shake.
+我想应该是两个
+I think it was something like two,
+或者是还有一组的更多  两倍半卡路里
+or maybe even two and a half times as many calories as the other,
+甚至更多
+perhaps even more.
+我不记得细节了
+I don't recall the details,
+但是你在低热量的情况下摄入了高热量
+but you had a high calorie in a low calorie condition.
+然后他们喝了奶昔
+And then they drank the shake.
+然后他们测量了这些受试者的眩晕
+And then they measured reeling in these subjects,
+他们发现高热量的奶昔对钝化胃饥饿素
+blood and what they found was that the high calorie Shaikh had a much more robust effect on blunting
+和减少胃饥饿素有更强烈的影响
+Greenland and reducing Greenland.
+但有趣的是 你可能已经猜到了 给两组人的奶昔是完全相同的
+But the interesting thing you probably guessed already is that it was the exact same shape given to both groups.
+所以人们对事物内容的信念会影响他们的生理机能
+So people's belief about the content of something impacted their physiology.
+这就是所谓的自上而下
+and this speaks to the so called top down.
+生理机制或调节以及之前关于疼痛的那一期播客
+Mechanisms or modulation of our physiology and previous episode about pain.
+我们谈到了
+We talked about the effects of you know,
+执迷地相信  一种执迷的迷恋  爱
+obsessive believing that it was an obsessive infatuation and love on pain,
+对于疼痛反应和疼痛阈值的作用
+responses and pain thresholds.
+这是另一个例子 信仰或主观感受可以影响边缘层面的生理
+This is yet another example where beliefs or subjective feelings can impact physiology at the level of the
+因为胃饥饿素在身体的末梢周围被释放
+periphery because Greenland is released in the periphery in the body.
+
+这些信念效应超出了这样的例子
+these belief effects extend beyond examples like this.
+另一个我想分享的好例子
+Another good example that I'd like to share it.
+Alia
+Ali,
+Crum博士和她的同事们做了一个实验 他们找了一个管家酒店
+Dr crum and her colleagues did an experiment where they took housekeepers hotel.
+基本上是酒店的工作人员
+They were essentially hotel workers.
+把他们分成两组
+divide them into two groups.
+让工作人员看了一部短片
+They had them watch a short film.
+在一组中
+In one case,
+播放的影片是关于你如何清楚他们的工作  对提高人们在酒店里感觉舒适很重要
+the film was about how you know their work was important to help people feel comfortable in the hotel,
+等
+etc.
+另一组听到他们正在做的活动  工作
+The other group heard that the activity that they were doing,
+打扫和照看旅馆  工作做得很好
+cleaning and taking care of the hotel was good.
+对他们来说
+for them,
+这对他们的健康有好处
+it was good for their health,
+等等
+et cetera,
+等等
+et cetera.
+他们在研究中控制得很好
+They controlled very nicely in the study,
+对健康参数
+for health parameters,
+因为个体差异和这些人的行为
+for individual differences and for the behaviors of these people.
+在这个简短的指导之后的一段时间里 也就是他们发现的八周后
+In the period that followed this short tutorial and what they found was eight weeks later,
+被告知活动对他们有好处的那组人  血压变低了
+the group that had been told that the activity was good for them showed lower blood pressure they had,
+他们减掉了大量的体脂 而且报告说他们比另一组更喜欢自己的工作
+it lost a significant amount of body fat and they reported enjoying their work far more than the other group,
+同样的工作只是因为他们所得到的信息而在心理上产生偏差
+the same work simply biased mentally by the information that they were given,
+但它们的生理机能遵循这一信息
+but their physiology followed that information.
+这不仅仅是安慰剂效应
+And so this is not just the placebo effect.
+这是一个令人难以置信的发现 它说明了
+This is an incredible set of findings that illustrate the extent to which,
+我们相信一种食物对我们有益或有害  会产生不一样的结果
+whether or not we believe a food is going to be good for us or not good for us.
+
+当然我们也不能逃避现实
+we can't escape the reality.
+你不能告诉自己一种毒药对你有好处 然后调整身体
+You can't tell yourself that a poison is going to be good for you and adjust that poison.
+他们不想杀你
+They expected to not kill you,
+你也不能告诉自己吃
+nor can you tell yourself that eating.
+我承认我之前一下子吃过12个牛角包
+You know twelve croissants confess I've done it.
+那是在很久以前的一次长跑之后
+It was after a very long run a long time ago.
+但你不能告诉自己  这对你一定有好处
+But you can't tell yourself that that's necessarily going to be good for you,
+或者什么这能让你减肥
+or that it's gonna make you lose weight.
+这些信念效应并不是指在这些情况下对自己撒谎
+These belief effects are not about lying to yourself in these cases.
+在这些实验中
+in these experiments,
+你会注意到
+as you'll notice.
+受试者事先不知道胃饥饿素
+Subjects didn't have prior knowledge about grill in
+也不知道日常生活对减肥和血压的影响
+or about the effects of their daily routine on weight loss and blood pressure.
+所以为了让它们起作用
+So in order for them to work,
+你必须对信息很坦诚
+you have to be naive to the information right.
+你不能简单地骗自己 告诉自己你想相信什么
+You can't simply lie to yourself and tell yourself what you want to believe,
+这是很重要的
+and that's important.
+同样重要的是 大脑和身体也有这种迷人的相互作用
+Also important is that the mind and the body are in this fascinating interplay.
+今天
+In today,
+我们主要讲了它的身体以及我们把东西放进一根管子
+we've talked mainly about how the body in it and things that we put inside this tube
+从嘴里延伸到另一端的管子里来激发起大脑
+that runs from her mouth too to the other end to erect them basically,
+影响了所有的细胞
+is impacting all these cells.
+这些神经元的粘膜内膜上有微生物群
+These neurons microbiota in their mucosal lining,
+以及这些信息是如何传送到大脑来影响我们在这里的感觉的
+the heart lungs and how all that information is feeding up to the brain to impact how we feel up here.
+但是我们在这里的感觉也影响着我们身体在各个层面上的反应
+but also how we feel up here is impacting how our body reacts at levels
+这是一个非常核心的生理机能  你不能只是告诉自己这会起作用
+a very core physiology that you can't just tell yourself that this was going to work.
+但你对某些物质的看法
+But what you believe about certain substances,
+某些食物
+certain foods,
+某些营养物质的看法  确实对它们对你的作用有很大的影响
+certain nutrients does have a profound effect on the magnitude of their impact,
+有时甚至是影响的质量和方向
+and sometimes even the quality and direction of that impact.
+
+首先
+first of all,
+我要感谢大家对这期播客的支持
+I want to thank everybody for their support of this podcast.
+自新年伊始开始录制以来 我们收到了大量的反馈
+The response that we've received since releasing at the beginning of the New year has been tremendous
+我们对此非常感激
+and we're so grateful for it.
+我知道一些观众 听众
+I know some of you and people you know,
+我也说过
+I've said.
+
+有很多信息
+it's a lot of information.
+就像大学里的讲座一样
+It's like a college lecture them.
+的确
+Indeed,
+有很多信息
+there's a lot of information,
+但我坚信 如果你了解了其中的原理
+but I believe very strongly that if you learn mechanism,
+即使你听了好几遍
+and maybe even if you hear it several times over,
+最终
+eventually,
+这些机制也会嵌入到您看待整个生活的方式中
+those mechanisms become embedded into the way that you view an entire topic as well.
+我总是试着在工作中放置一些工具 你应该已经感觉到了
+I always try to put tools as I go along that you can look to immediately.
+有些可能适合你 有些不适合
+Some of them might be right for you others might not,
+
+如果你喜欢  可以试试
+try them if you like,
+如果你不愿意的话
+and don't if if you don't want to,
+如果它们对你没什么用 那就放一边吧
+and if they don't work for you than discard them.
+然而
+If,
+如果
+however,
+你会从这些信息和工具中找到好处
+you are finding benefits from the information and from the tools and you know
+其他你认为可以从中受益的人
+others that you think could benefit from it,
+请传递播客中的信息
+please pass along information about the podcast.
+请订阅Youtube频道
+Please subscribe to the Youtube channel.
+如果你还没有订阅的话
+If you haven't already,
+在Apple和Spotify上订阅我们 如果你还没有订阅
+we subscribed us on Apple and spot Defy if you haven't already
+请在Youtube的评论区留下评论
+please leave a review in the comments section here on Youtube.
+同时
+Also,
+如果你觉得我们值得
+if you feel we deserve it,
+请在苹果播客中给我们五星评价
+please give us a five star review on Apple.
+所有这些都对我们很有帮助
+All those things really help us.
+此外
+In addition,
+如果你想进一步支持我们的播客
+if you'd like to support the podcast further,
+我们设立了一个patreon账户
+we set up a patriot on account.
+patreon.com/andrewhuberman  你可以在不同层次上支持播客
+Its patriarch dotcom slash Andrew Human allows you to support the podcast at a variety of levels.
+我们有5-htp 每个月5美元
+We have the five htp serotonin for five dollars a month,
+还有科斯特洛
+The Costello,
+10美元一个月
+ten dollars a month in honor,
+以科斯特洛之名
+Costello,
+等
+etc.
+不是一定要捐款
+You don't have to,
+但如果你愿意
+but if you'd like to,
+那真的非常感谢
+that would be terrific.
+此外
+In addition,
+请查看我们在播客开始时提到的赞助商
+please check out our sponsors that we've mentioned at the beginning of the podcast.
+这是帮助我们的最好方式之一
+That's one of the best ways to help support us,
+我们非常相信我们支持的所有产品和赞助商
+and we do believe in all the products that we support and our sponsors very much.
+不然
+otherwise.
+我们就不会和他们合作了
+We wouldn't be working with them.
+所以当我提到补充剂的时候  我在整个节目中都会讲到补充剂
+So much so that when I mentioned supplements and I talk about supplements throughout the course of the episodes,
+我没有提到具体的品牌
+I don't mention specific brands.
+但如果我不提一下我们和Thorne合作的事实 那就是我的疏忽了
+But I would be remiss if I didn't mention the fact that we have partnered with Thorn T H Ow are an E.
+我们这么做是因为我们知道Thorne使用了最高水平的准则
+and we've done that because we know that thorn uses the highest levels of string and sheet
+就它们生产的产品而言
+in terms of the products they produce.
+他们说  在每个胶囊和药片里实际上是
+What they say is in each capsule and tablet actually is.
+梅奥诊所所有主要运动队都在使用它们 因为它们的强度和严重度
+They are used by the Mayo Clinic by all the major sports teams because of their level of stringency and rigor?
+如果你想知道我服用了哪些补品
+If you want to know which supplements I take,
+你可以去thorne.com/u/huberman
+you can go to Foreign dotcom,
+你可以看到我服用的补品
+and you can see the supplements that I take and you can get those
+你也可以买到其他补品和产品  可以打八折
+as well as any of the other supplements and products that thorn makes for twenty per cent off.
+所以thorne.com/u/huberman
+So it's horne.com/u/huberman
+Thorne任何补品都可以打八折
+Huber men to get twenty percent off any supplements that thorn makes.
+所以今天的节目中
+so today's episode,
+我们对大脑和身体的关系进行了全面的探讨 并讨论了许多机制和可操作的方法
+We took a full journey into the brain body relationship and discussed a lot of the mechanisms and the actionable
+如果你想进一步探索生物学和心理学的这方面
+items that you can approach if you want to explore this aspect of your biology and psychology further.
+最后但同样重要的是
+Last but certainly not least,
+我想感谢大家今天的时间和关注
+I want to thank everybody for your time and attention today
+一如既往
+and as always,
+谢谢你们对科学的兴趣
+thank you for your interest in science.

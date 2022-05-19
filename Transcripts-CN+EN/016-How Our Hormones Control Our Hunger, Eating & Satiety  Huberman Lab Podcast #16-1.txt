@@ -1,0 +1,4831 @@
+Author: Faye
+This transcript is derived from the YouTube transcript https://www.youtube.com/c/AndrewHubermanLab
+
+欢迎来到Huberman Lab播客
+- Welcome to the Huberman Lab Podcast,
+我们在这里讨论科学
+where we discuss science
+和用于日常生活的基于科学的工具
+and science-based tools for everyday life.
+我是Andrew Huberman
+I'm Andrew Huberman,
+我是神经生物学和眼科教授
+and I'm a professor of Neurobiology and Ophthalmology
+在斯坦福医学院
+at Stanford School of Medicine.
+此播客是单独的
+This podcast is separate
+从我在斯坦福大学的教学和研究职位中得出
+from my teaching and research roles at Stanford.
+但是 这是我渴望和努力的一部分
+It is however, part of my desire and effort
+为消费者提供有关科学的零成本信息
+to bring zero cost to consumer information about science
+以及面向大众的与科学相关的工具
+and science-related tools to the general public.
+为了与该主题保持一致
+In keeping with that theme,
+我要感谢今天播客的赞助商
+I'd like to thank the sponsors of today's podcast.
+我们的第一个赞助商是InsideTracker
+Our first sponsor is InsideTracker.
+InsideTracker是一个个性化的营养平台
+InsideTracker is a personalized nutrition platform
+分析你的血液和DNA的数据
+that analyzes data from your blood and DNA
+帮助你更好地了解自己的身体
+to help you better understand your body
+并帮助你实现健康目标
+and help you reach your health goals.
+我一直热衷于完成血液工作
+I've long been a fan of getting blood work done.
+原因很简单
+And the simple reason for that,
+是你想知道的大多数事情
+is that most of the things that you want to know
+关于你的健康的信息 例如激素 代谢因子
+about your health, such as hormones, metabolic factors,
+血糖水平等等
+blood sugar levels, et cetera,
+只能从血液中进行分析
+can only be analyzed from blood.
+如今 也有出色的DNA测试
+And nowadays there are also excellent DNA tests
+也可以为你提供有价值的信息
+that can also give you valuable information
+关于细胞里发生的事情 分子
+about what's going on at the cellar, molecular,
+甚至是大脑和身体内的神经回路水平
+even the neural circuit level within your brain and body.
+InsideTracker使血液和DNA测试变得容易
+InsideTracker makes getting blood and DNA tests easy.
+你可以去一个测试现场 他们在这里抽血
+You can go to a testing site where they draw your blood,
+他们会提取你的DNA样本
+they take your DNA sample,
+或者 如果你愿意 他们可以来你家
+or they can come to your home if you prefer that.
+同样 它们还有一个非常了不起的仪表板
+As well, they have a really amazing dashboard.
+仪表板让你了解
+The dashboard lets you understand
+你各种激素的水平
+what your levels of various hormones
+和代谢因子等的平均值
+and metabolic factors et cetera mean,
+以及你应该如何处理它们
+and what you should do about them.
+我认为这是主要的事情之一
+And I think that's one of the main things
+真正将InsideTracker分开
+that really separates InsideTracker
+除了其他血液和DNA测试
+apart from other blood and DNA tests.
+大多数测试可以让你获得结果
+Most tests you get the results back,
+但没有关于具体操作的指令
+but there are no directives about what to do specifically
+为了使数字进入范围
+in order to bring the numbers into the ranges
+你想要实现的目标
+that you would like for your goals.
+InsideTracker使所有这些变得非常简单
+InsideTracker makes all of that extremely simple
+而且非常清楚
+and extremely clear.
+如果你想尝试使用InsideTracker
+If you'd like to try InsideTracker,
+你可以访问insidetracker.com/huberman
+you can go to insidetracker.com/huberman,
+如果这样做 你将获得25％的折扣
+and if you do that, you'll get 25% off
+任何InsideTrackers计划
+any of InsideTrackers plans.
+结帐时使用代码Huberman
+Use the code Huberman at checkout.
+那是insidetracker.com/huberman可获得25％的折扣
+That's insidetracker.com/huberman to get 25% off
+任何InsideTrackers计划
+any of InsideTrackers plans.
+今天的一集也由运动绿色带给我们
+Today's episode is also brought to us by Athletic Greens.
+运动果岭是多合一的
+Athletic Greens is an all-in-one
+维生素 矿物质益生菌饮料
+vitamin, mineral probiotic drink.
+我从2012年开始服用运动果岭
+I started taking Athletic Greens back in 2012
+从那以后我就接受了
+and I've taken it ever since.
+因此 我很高兴他们赞助播客
+So I'm delighted that they're sponsoring the podcast.
+我开始服用运动果岭的原因
+The reason I started taking Athletic Greens
+以及我现在仍然接受的原因
+and the reason I still take it now,
+是运动果岭
+is that Athletic Greens
+真的让我涵盖了我所有的营养基础
+really lets me cover all my nutritional basis
+在维生素 矿物质和益生菌方面
+in terms of vitamins, minerals and probiotics.
+现在有很多数据
+There's so much data now
+指向肠道微生物组这一事实
+pointing to the fact that the gut microbiome
+肠脑轴对新陈代谢很重要
+and the gut brain axis is important for metabolism
+为了内分泌健康
+and for endocrine health.
+运动绿色中的维生素 矿物质和益生菌
+The vitamins, minerals and probiotics in Athletic Greens
+让我充满信心 因为我覆盖了我的所有基地
+make me feel confident that I'm covering all my bases.
+我确实服用其他补品 但搭配运动果岭
+I do take other supplements, but with Athletic Greens
+我知道我已经处理了所有基本内容
+I know that I've got all the foundational stuff handled.
+它的味道也很好
+It also tastes really good.
+本身味道不错
+Tastes fine on its own,
+你可以把它和水混合 这就是我要做的
+you can mix it with water, which is what I do.
+我加一点柠檬汁或酸橙汁
+I add a little bit of lemon juice or lime juice,
+因为我也喜欢那里的酸味
+because I like a little tartness flavor in there as well,
+但大多数人只是将它与水混合
+but most people just mix it with water,
+它超级容易混合
+it mixes up super easily.
+我每天喝一两次
+I drink it once or twice a day.
+通常是凌晨一次 下午又一次
+Usually once mid morning, and once again in the afternoon.
+如果你想尝试运动绿色
+If you'd like to try Athletic Greens,
+你可以访问sportsgreens.com/huberman
+you can go to athleticgreens.com/huberman.
+如果你这样做 可以索取他们的特别优惠
+And if you do that, you can claim their special offer
+这是一年中维生素D3K2的供应
+which is a year supply of vitamin D3K2.
+现在有大量证据表明维生素D3
+There is now a ton of evidence that vitamin D3
+参与了无数的代谢过程
+is involved in countless metabolic processes,
+重要的荷尔蒙过程
+hormonal processes that are important
+为整体健康和福祉
+for overall health and wellbeing.
+维生素D3 你当然可以从阳光中获取
+Vitamin D3, you can get from the sun of course,
+但是大多数人都缺乏维生素D3
+but most people are deficient in vitamin D3.
+因此 如果你转到sportsgreens.com/huberman
+So if you go to athleticgreens.com/huberman
+你会得到运动果岭的
+you'll get the Athletic Greens,
+你将获得一年中维生素D3和K2的供应量
+you'll get the year's supply of vitamin D3 and K2
+你将获得五个免费的旅行套票
+and you'll get five free travel packs.
+再次是sportsgreens.com/huberman
+So once again it's athleticgreens.com/huberman,
+获得运动果岭 维生素D3K2
+to get Athletic Greens, the vitamin D3K2,
+一年的供应加上五个免费旅行包
+and that's a year supply plus the five free travel packs.
+今天的一集也由Munk Pack带给我们
+Today's episode is also brought to us by Munk Pack.
+Munk Pack是一家生产可食用酮类小吃的公司
+Munk Pack is a company that makes keto-friendly snacks
+味道令人难以置信
+that taste incredible
+但只有一克或更少的糖
+but have just one gram of sugar or less.
+实际上 它们的味道令人难以置信
+And indeed they taste incredible.
+实际上 我的生产团队在Huberman Lab Podcast上
+In fact, my production team here at the Huberman Lab Podcast
+取笑我 因为我实际上必须让这些盒子
+teases me because I actually have to keep the boxes
+放在我的地下室中
+of Munk Pack bars in my basement
+因为否则我会偷吃掉所有这些
+'cause otherwise I'll tear through all of them.
+我记得我第一次品尝它的时候
+I remember the first time I tasted it, I was like,
+好吧 我们开始吧  试试看  什么是酮棒
+all right, here we go, a keto bar.
+我一般不喜欢坚果棒
+I'm not a big fan of bars in general,
+他们中的大多数对我不好
+most of them don't taste good to me.
+我尝过了Munk Pack的坚果棒
+And I tasted the Munk Pack bars,
+他们绝对很棒
+and they are absolutely awesome.
+他们有很多不同的口味
+They come in a lot of different flavors.
+我偏爱焦糖海盐之一
+I'm partial to the caramel sea salt one,
+但他们也有海盐黑巧克力
+but they also have sea salt dark chocolate,
+花生酱黑巧克力
+peanut butter dark chocolate.
+他们有很多口味
+They have a bunch of flavors.
+它们都是不可思议的 我已经尝试了所有
+They're all incredible, I've tried them all.
+这就是为什么我把它们放在地下室
+Which is why I keep them in my basement.
+正如我之前在此播客中提到的那样
+As I mentioned previously on this podcast,
+我既不是酮 也不是碳
+I'm neither keto nor carbo.
+从这个意义上说 我并不是很特别地节食
+I don't really follow a particular diet in that sense.
+我的饮食方式可以最大程度地提高我的警觉性
+I eat in a way that maximizes my alertness
+以及当我想工作的那天我的专注程度
+and my levels of focus during the day when I want to work,
+而这使我最大程度地过渡到晚上入睡
+and that maximize my transition to sleep at night.
+所以 我白天基本上吃低碳水化合物的酮菜
+So, I basically eat low carb keto-ish during the day.
+而且我知道生酮爱好者们会说我不是生酮
+And I know the ketonistas will say that I'm not in ketosis
+而且我可以设法进入酮症
+and I can manage to get into ketosis.
+但主要思想是
+But the main idea,
+是我白天保持低碳水化合物吗？
+is I keep my carbohydrates low during the day.
+然后在晚上我吃碳水化合物
+And then at night I do eat carbohydrates.
+所以对我来说 Munk Pack坚果棒是非常不错的小吃
+So for me, the Munk Pack bars are a really good snack
+通常在下午 喝杯咖啡
+usually in the afternoon, with a cup of coffee,
+特别是在那之后我要去训练的时候
+especially if I'm going to train soon after that,
+或者如果我只是想吃点零食 我将继续工作
+or if I just want to snack and I'm going to continue working.
+正如我之前提到的 它们绝对美味
+As I mentioned before, they are absolutely delicious.
+他们也没有任何对你不利的东西
+They also don't have any of the stuff that's bad for you.
+没有大豆 反式脂肪 糖 酒精 人造色素
+No soy, trans fat, sugar, alcohols, artificial colors,
+我们应该避免的所有这些东西
+all that stuff that we know we should avoid.
+如果你想尝试Munk Pack坚果棒 可以转到Munk Pack
+If you want to try Munk Pack bars, you can go to Munk Pack,
+那是MUNK MunkPack.com
+that's M-U-N-K, MunkPack.com,
+并在结帐时输入代码Huberman
+and enter the code Huberman at checkout
+首次购买即可享受20％的折扣
+and you'll get 20% off your first purchase
+任何Munk Pack产品
+of any Munk Pack product.
+那是Munk Pack MUNKPACK.com
+That's Munk Pack, M-U-N-K-P-A-C-K.com,
+并在结帐时输入代码Huberman
+and enter the code Huberman at checkout
+可获得20％的折扣
+to get 20% off your purchase.
+这个月 我们谈论激素
+This month, we're talking all about hormones.
+激素太不可思议了
+Hormones are incredible
+它们控制着大脑和身体的许多过程
+and they control so many processes in the brain and body.
+上一集 我们谈到了
+Last episode, we talked about
+雌激素和睾丸激素的作用
+the role of estrogen and testosterone.
+今天我们要谈的是
+Today we're going to talk about
+激素如何影响进食和饥饿
+how hormones impact feeding and hunger,
+以及饱腹感 你不想吃的感觉
+as well as satiety, the feeling that you don't want to eat
+或你已经吃饱了
+or that you've eaten enough.
+那么  重要的是要了解
+Now, it's important to understand
+在这种情况下 荷尔蒙不能单独起作用
+that hormones don't work alone in this context.
+今天我要讲一些激素
+Today I'm going to describe some hormones
+具有强大的作用
+that have powerful effects
+能决定你是否想吃更多或更少
+on whether or not you want to eat more or less
+或完全停止进食
+or stop eating altogether.
+但是它们不是自己做的
+But they don't do that on their own,
+他们与神经系统合作做到这一点
+they do that in cooperation with the nervous system.
+所以今天我会说很多
+So today, I would say as much
+甚至比其他任何播客都多
+or perhaps even more than any other episodes,
+我们将听到很多生物学
+we're going to hear a lot of biology
+但是我要说到多个“入口点”
+but there are multiple what I'm going to call entry points
+适用于你可以使用的工具
+for tools that you can apply
+为了调节你的饥饿程度
+in order to regulate your levels of hunger,
+你的用餐时间 饱腹感
+your meal timing, your levels of satiety
+不想多吃
+of not wanting to eat more.
+而且其中许多行为都是可行的
+And many of this is actionable with behaviors,
+但是 当然 我们还将讨论补品
+but of course, we're also going to talk about supplements
+我们实际上将要谈论
+and we're actually going to talk about
+一点脑机接口设备
+a little bit of brain machine interface devices
+实际上可以参与其中
+that can actually be involved
+处理这些不可思议的事情
+in manipulating these incredible things
+我们认为这是饥饿 食欲和饱腹感
+that we think of as hunger and appetite and satiety.
+因此 你需要了解的第一件事
+So, the first thing that you need to know
+关于神经系统方面
+about the nervous system side,
+神经控制 过度进食和饥饿
+the neural control, over-feeding and hunger,
+是你的大脑区域
+is that there's an area of your brain
+称为下丘脑
+called the hypothalamus.
+在前脑
+It's in the forebrain,
+告诉你它在你的大脑前面
+which tells you it's in the front of your brain,
+它在前脑的底部
+and it's at the base of the forebrain.
+那么  下丘脑包含
+Now, the hypothalamus contains
+许多不同种类的神经元
+lots of different kinds of neurons
+做很多不同的事情
+doing lots of different kinds of things.
+下丘脑中有神经元
+There are neurons in your hypothalamus
+控制性行为 控制体温
+controlling sexual behavior, controlling body temperature,
+控制昼夜节律
+controlling circadian rhythms,
+渴望睡觉或清醒
+the desire to sleep or be awake.
+甚至神经元控制愤怒
+Even neurons controlling rage.
+实际上有神经元 如果我们要刺激它们
+There are actually neurons that if we were to stimulate them
+会让你或任何人大发雷霆
+would send you or anyone into a rage.
+它们只是强大的控制中心
+They're just powerful control centers
+为大脑和身体
+for the brain and body.
+下丘脑有特定区域
+There's a particular area of the hypothalamus
+称为腹膜下丘脑
+called the ventromedial hypothalamus.
+这是研究人员感兴趣的一种
+And it's one that researchers have been interested
+长期以来 大家都对
+for a long time now, in terms of its relationship
+它与饥饿和进食的关系感兴趣
+to hunger and feeding.
+原因是 它造成了这些矛盾的影响
+And the reason is, it creates these paradoxical effects.
+那是什么意思
+What do I mean by that?
+他们发现有时候  一些器官损伤
+What they found was that sometimes lesioning,
+或破坏下丘脑腹侧神经元
+or disrupting the neurons in the ventromedial hypothalamus
+会使动物或人暴食
+would make animals or people hyperphasia,
+他们想吃想到疯了
+they would want to eat crazy.
+其他个体或动物的其他病变
+And other lesions in other individuals or animals
+会使他们厌食
+would make them anorexic,
+这将使他们根本不想吃东西
+it would make them not want to eat at all.
+它将使食物令人反感
+It would make food aversive.
+这样就意味着腹侧下丘脑
+So that means that the ventromedial hypothalamus
+绝对是一个有趣的控制站
+is definitely an interesting control station
+控制着饥饿 饱食和饱食
+for hunger and feeding and satiety,
+但这并不能真正告诉你发生了什么
+but it doesn't really tell you what's going on
+在更深层次上
+at a deeper level.
+实际上 这有点令人困惑或自相矛盾
+In fact, it's a little bit confusing or paradoxical.
+原来有很多那里的神经元
+It turns out that there are multiple populations
+我们将讨论这些
+of neurons in there, we're going to talk about those.
+有些促进进食
+Some are promoting feeding,
+有的抑制吃饭的欲望  或不吃东西
+and some are promoting not feeding or not eating.
+那么  所有这一切的另一个神经成分
+Now, the other neural component of all this
+你需要了解的
+that you need to know about,
+实际上与你的嘴有关
+actually has to do with your mouth.
+所以你的皮质有一个区域
+So there's an area of your cortex,
+所以这在你的大脑中更远一些
+so that's a little bit further up in your brain,
+称为岛皮质
+called the insular cortex.
+并且它处理许多不同种类的信息
+And it processes a lot of different kinds of information.
+主要是关于你内在发生的事情的信息
+Mostly information about what's going on inside you,
+所谓的互感
+so called the interoception.
+岛状皮层有神经元
+The insular cortex has neurons
+从你的嘴里得到输入
+that get input from your mouth,
+从你嘴里的触觉感受器
+from the touch receptors in your mouth.
+岛状皮层具有强大的控制能力
+And insular cortex has powerful control
+你是否在享受所吃的东西
+over whether or not you're enjoying what you're eating,
+你是否要避免吃什么
+whether or not you want to avoid what you're eating,
+你是否受够了
+whether or not you had enough,
+或者你是否要继续吃更多东西
+or whether or not you want to continue eating more.
+无论信不信 这都必须要做
+And that has to do, believe it or not,
+带有进食的感觉或感觉
+with the touch or sensation of eating.
+我对此非常熟悉
+I'm very familiar with this.
+我是这些人中的一员 我喜欢吃很多东西
+I'm one of these people, I love eating so much,
+我就是喜欢咀嚼这个动作
+that I just like the mere act of chewing.
+你知道 我足够喜欢芹菜杆
+You know, I like celery sticks enough.
+我不为他们疯狂 但你知道他们对我来说很好吃
+I'm not crazy about them, but you know they taste fine to me
+我喜欢咀嚼芹菜棒
+and I like chewing on celery sticks,
+但我实际上只是喜欢咀嚼它们
+but I actually just like chewing on them.
+我可以整天吃
+I could eat all day long
+这样做不健康
+except that it's not healthy to do that.
+但是仅仅为我咀嚼的行为是非常愉快的
+But the mere act of chewing for me is very pleasurable.
+嚼口香糖的人也有这种感觉
+People who chew gum feel this way as well.
+就口香糖或咀嚼而言
+And just as a point about gum or chewing,
+如果你选择芹菜之类的东西
+if you choose something like celery
+或黄瓜片或口香糖
+or cucumber slices or chew gum,
+只要它不含有糖或热量
+provided it doesn't have any sugar or caloric content,
+它不会增加饥饿感
+it's not going to drive increased hunger.
+通常情况并非如此
+That generally isn't the case.
+但是 如果你吃含糖的东西 我们会发现
+But if you eat something with sugar, as we'll find out,
+它在岛状皮层中有非常特殊的作用
+it has a very specific action in the insular cortex
+以及神经系统的其他部位
+and in other areas of your nervous system
+促进了多吃的欲望
+that promotes the desire to eat more.
+但是现在的关键点
+But the key point right now
+就是知道你有两个大脑区域
+is to know you've got these two brain areas,
+腹侧下丘脑
+the ventromedial hypothalamus,
+与饥饿和饱腹感有关
+that's involved in hunger and lack of hunger,
+像是某种加速器和刹车
+sort of an accelerator and a brake on feeding.
+而且你有这个岛状皮层
+And you have this insular cortex
+从你的嘴里得到输入
+that gets input from your mouth,
+并且关心咀嚼和食物的稠度
+and cares about chewing and the consistency of foods
+还有各种各样有趣的事情
+and all sorts of interesting things
+那是非常有触觉的
+that are just very tactile.
+而且我认为大多数人都会想到触摸感应器
+And I think most people think about the touch receptors on,
+不好意思 舌头上的味觉感受器
+excuse me, the taste receptors on the tongue.
+但是我们常常不考虑
+But we often don't think about
+食物的触感或触觉精华
+the touch or tactile essence of food.
+而现在想到的是
+And the thing that comes to mind just now
+我吃过寿司好几次
+is I've gone to sushi several times,
+还有一些人真的很喜欢海胆
+and some people really like the urchin.
+我不喜欢海胆
+I don't like the urchin.
+它有某种让我无所适从的口感
+There's something about it that kind of creeps me out
+关于一致性 其他人会喜欢它
+about the consistency, other people love it.
+因此 它是高度个体化的 并且可能是有经验的
+So it's highly individual and it's probably learned,
+这可能有文化背景
+and there's some probably cultural background to this
+如果你长大后正在吃海胆
+if you were raised eating urchin.
+有些人喜欢这种一致性或接触感
+Some people love that consistency or that touch.
+所以触摸有很多事情要做
+So touch has a lot to do
+是否要吃东西
+with whether or not you want to eat or not.
+那么  让我们回到腹侧下丘脑
+Now, let's get back to the ventromedial hypothalamus.
+有时候 它会使动物或人们想吃更多的东西
+Sometimes it makes animals or people want to eat more,
+有时更少 那么那里发生了什么？
+sometimes less, so what's going on there?
+有一个经典的实验已经完成
+There's a classic experiment that was done
+研究人员取了两只老鼠
+in which researchers took two rats,
+并所谓的超生物杀虫剂彼此
+and so-called parabiosed them to each other.
+那意味着他们做了一点手术
+What that meant is that they did a little surgery
+他们联系了他们的血液供应
+and they linked their blood supply
+使它们永远彼此物理联系
+so that they were forever physically linked to one another
+并可以交换血液中的因子
+and could exchange factors in the blood,
+但他们的大脑是分开的 他们的嘴是分开的
+but their brains were separate, their mouths were separate,
+他们基本上是分开做所有的事情
+and they essentially did everything separately
+但是它们被链接在一起
+except that they were linked to one another.
+所以它们必须走在一起
+So they had to walk together
+然后去相同的地方去做
+and go to the same places in order to do it.
+这个共生实验
+This parabiosis experiment
+揭示了一些非常重要的东西
+revealed something really important.
+当他们病变腹侧下丘脑
+When they lesioned the ventromedial hypothalamus
+在与另一只老鼠相连的一只老鼠中
+in one of the rats that was connected to the other rat,
+那只老鼠变得非常非常肥胖 非常肥胖
+that rat got very, very fat, just really obese,
+巨大的老鼠 超级老鼠 巨型老鼠
+huge rat, super rat, jumbo rat.
+但是 另一个非常瘦
+The other one however, got very thin,
+还轻了一点
+it actually lost weight,
+尽管两者消耗的食物量
+despite consuming the same amount of food that it had
+与在另一只老鼠患病以前相同
+prior to the other one getting the lesion.
+那这告诉我们什么呢？
+So what does this tell us?
+告诉我们血液里有东西
+This tells us that there's something in the blood
+在两种动物之间进行交换
+that's being exchanged between the two animals,
+因为是他们的血液供应联系在一起
+because it was their blood supply that was linked.
+这告诉我们有激素或内分泌信号
+And that tells us that there's hormone or endocrine signals
+与进食的欲望有关
+that are involved in the desire to eat,
+以及饥饿和食欲
+and hunger and appetite.
+接下来 我们将讨论
+And so next, we're going to talk about
+这些内分泌信号是什么
+what those endocrine signals are,
+然后我要立即指出
+and then I'm going to immediately point
+一些你可以使用的入口点
+to some entry points that you can use.
+你可以用这些
+And you can use these
+即使你对任何事物都不感兴趣
+even if you're not parabiosed to anything.
+这样可以让你安排进餐时间
+And that can allow you to time your meal frequency,
+并预测你什么时候会饿
+and predict when you're going to be hungry or not.
+以及增进食欲
+As well as a drive up appetite.
+真的  生活中总是有人
+Believe it or not, there are people out there
+想要吃更多的东西
+who are trying to eat more.
+尽管我认为更多的人正在尝试少吃点东西
+Although I think far many more people are trying to eat less
+但是  数据只会指向事实
+because nowadays, the data just point to the fact
+本质上数据显示的是糖尿病的流行
+that there is essentially an epidemic of diabetes,
+II型糖尿病和肥胖
+type II diabetes and obesity.
+现在大多数人都同意
+And most everyone agrees now,
+保持健康的体重
+that maintaining a healthy body weight
+以及体重体脂组成
+and body weight composition,
+是长寿的最佳途径之一
+is one of the best paths to longevity
+而且让人感觉很好
+and to just feeling very good
+并真正能够思考
+and actually being able to think.
+认知功能
+Cognitive functioning
+实际上与脂肪组织的水平等等有关
+is actually linked to levels of adipose tissue and so forth.
+那么 让我们谈谈内分泌因素
+So, let's talk about the endocrine factors
+调节进食 饥饿和饱腹感的因素
+that regulate feeding, hunger and satiety.
+在过去20年的饮食和食欲科学中
+One of the really exciting things to emerge
+出现的真正令人兴奋的事情之一
+in the science of feeding and appetite in the last 20 years,
+是另一个大脑区域的发现
+is the discovery of another brain area.
+不只是腹侧下丘脑
+And not just the ventromedial hypothalamus,
+但这是称为弓形核的大脑区域
+but it's an area of the brain called the arcuate nucleus.
+和弓形核
+And the arcuate nucleus
+有一些非常令人着迷的神经元
+has some really fascinating sets of neurons
+会释放出更多不可思议的分子
+that release even more incredible molecules
+以及化学物质进入血液
+and chemicals into the blood.
+这些化学物质可作为促进剂
+And these chemicals act as accelerators
+进食和食欲 或休息
+on feeding and appetite, or breaks.
+真的很酷的是
+And the really cool thing
+是你实际上可以控制这些分子
+is that you can actually control these molecules
+通过简单的行为
+through simple behaviors.
+一旦你了解了这些分子是什么
+And once you understand what these molecules are,
+你将开始理解为什么会这样
+you'll start to understand why that's the case.
+以及你现在拥有的控制点
+And the control points that you have right now
+可以控制你的食欲
+in order to control your appetite in either direction,
+增加或减少都可以
+increase or decrease.
+因此 首先 有一组神经元
+So, first of all, there are set of neurons
+在这个称为PMOC神经元的弓形核中 好吧
+in this arcuate nucleus called the PMOC neurons, okay?
+我不想深入了解首字母缩写所代表的含义
+I don't want to get into what the acronym stands for,
+但我还是会说一下
+but I'll do it anyway.
+是Proopiomelanocortin系统 好吗？
+It's the Proopiomelanocortin system, okay?
+这些就是PMOC神经元Proopiomelanocortin
+So these are PMOC neurons, Proopiomelanocortin.
+如果你听到了melano 那应该告诉你
+And if you heard melano, that should tell you
+这与色素沉着有关
+it has something to do with pigmentation
+在皮肤细胞或毛细胞中 某种色素沉着
+in skin cells or in hair cells, pigmentation of some sort,
+因为黑色素
+because of melanin.
+最后一集 我聊了一点
+Last episode, I talked a little bit
+关于轻多巴胺和黑色素之间的关系
+about the relationship between light dopamine and melanin.
+所以你应该已经在想 等一下 melano意味着
+So you should already be thinking, wait, melano means
+它可能与该系统有关
+it probably has something to do with that system,
+确实如此
+and indeed it does.
+那么  POMC神经元产生了一种叫做Alpha MSH的东西
+Now, the POMC neurons, make something called Alpha MSH.
+黑色素细胞刺激激素
+Melanocyte-stimulating hormone,
+α-黑素细胞刺激激素
+Alpha-Melanocyte-stimulating hormone.
+如果你不想记住其他任何首字母缩写词
+If you don't want to remember any of the other acronyms
+到目前为止 我所谈论的术语和术语
+and terms I've talked about, this episode so far,
+尝试记住MSH 好吗？
+do try and remember M-S-H, okay?
+鼠标 山姆 仓鼠 MSH 好吗？
+Mouse, Sam, Hamster, M-S-H, okay?
+MSH降低食欲
+MSH reduces appetite
+这是一个强大的分子 好吗？
+and it's a powerful molecule, all right?
+所以回想一下
+So just put that on the shelf,
+MSH会降低食欲
+MSH reduces appetite.
+那么  还有另一群神经元
+Now, there's another population of neurons
+在弓形核中 称为AgRP神经元
+in the arcuate nucleus, called the AgRP neurons.
+而且我真的不会读给你什么意思
+And there I'm truly not going to read you what that stands for
+因为这与老鼠的压力有关
+'cause it's related to the mouse strain
+它最初是在
+it was first identified in,
+但是人类也有这些细胞    AgRP神经元
+but humans have these cells as well, but AgRP neurons.
+AgRP神经元刺激进食
+The AgRP neurons stimulate eating.
+每当你要吃东西的时候
+And anytime you are approaching food,
+或者你对食物或焦虑感到有些兴奋
+or you feel some excitement about food or anxiety,
+因为有些人真的会经历
+because some people actually experience
+一种加剧的焦虑
+a kind of heightened anxiety.
+某些人实际上会有点静息性震颤
+Some people actually get a little bit of a resting tremor
+他们吃饭之前
+before they eat,
+即使他们没有任何饮食失调
+even if they don't have any sort of eating disorder.
+就是自主神经活动有所增加
+There's kind of a ramping up of autonomic activity.
+这主要是由于这些AgRP神经元的活动
+That's largely due to the activity of these AgRP neurons.
+因此 这些AgRP神经元的活性
+So, the activity in these AgRP neurons goes way up
+当动物或人挨饿时  疯狂上升
+when animals or people are starved.
+我不是说饿了很长时间
+And I don't mean starved for long periods of time,
+但是我的意思是当他们有一段时间没吃东西了
+but I mean when they haven't eaten for a while.
+MSH的活性 MSH的释放上升
+And the activity of MSH, the release of MSH goes up
+吃完饭后
+when we've eaten.
+但是 还有其他一些事情会刺激
+However, there are other things that will stimulate
+释放诸如MSH之类的东西
+the release of things like MSH.
+因此 只是简要的讲一下实验证据
+So, just briefly the experimental evidence,
+如果杀死AgRP神经元 动物和人就会停止进食
+if you kill AgRP neurons, animals and people stop eating.
+有皮损的人
+There are people of lesions.
+他们只是停止进食 他们会厌食
+They just stop eating, they become anorexic.
+我知道你知道  厌食症是一个临床术语
+I know you're familiar with anorexia as a clinical term,
+但这实际上是一个使用过的术语
+but that's actually a term that's used
+在科学文献中
+in the scientific literature
+关于一种行为模式 好吗？
+about a pattern of behavior, okay?
+当然还有临床术语
+As well as a clinical term of course.
+如果你要刺激AgRP神经元
+If you were to stimulate the AgRP neurons,
+动物或人会疯狂地进食
+animals or people eat like crazy.
+他们会吃到破裂的地步
+They will eat to the point where they burst.
+这听起来很可怕 但它告诉你
+Which just sounds horrible, but it just tells you
+这是饮食上的促进剂
+this is the accelerator on eating.
+是的 它与我之前提到的
+And yes, it has relationship
+腹侧下丘脑有关系
+to the ventromedial hypothalamus I talked about earlier,
+但是我现在还不想回到那里
+but I don't want to go back there just yet,
+我们会回去讲的
+we will circle back.
+所以刺激黑素细胞的激素
+So Melanocyte-stimulating hormone,
+如此有趣的荷尔蒙
+such an interesting hormone.
+这东西可以遏制进食的欲望
+This thing can shut down the desire to eat.
+黑色素细胞刺激激素
+The Melanocyte-stimulating hormone,
+从垂体内侧释放
+is released from the medial pituitary.
+我们上次谈到垂体
+We talked about the pituitary last time.
+这是一个非常紧密定位的腺体
+This is a gland that is very closely positioned
+下丘脑
+to the hypothalamus.
+实际上一些下丘脑神经元
+Actually some of the hypothalamus neurons
+实际投射他们的神经联系
+actually project their neural connections
+直接进入垂体 释放出类似
+directly into the pituitary, to release things like
+促性腺激素和促黄体激素
+gonadotropins and luteinizing hormones,
+我们上次谈论的东西
+stuff we talked about last time
+关于睾丸激素和雌激素
+in reference to testosterone and estrogen.
+但是MSH是从垂体的内侧部分释放的
+But MSH is released from the medial portion of the pituitary
+它激发了不进食 停止进食的欲望
+and it stimulates the desire to not eat, to cease eating.
+真正有趣的是
+What's really interesting,
+是刺激黑素细胞的激素
+is that Melanocyte-stimulating hormone
+被紫外线激活
+is activated by ultraviolet light.
+而且不会被照射在皮肤上的紫外线激活
+And it's not activated by ultraviolet light to the skin
+或直接照射垂体上的紫外线激活
+or directly to pituitary,
+它是由紫外线照射到眼睛激活的
+it's activated by ultraviolet light to the eyes.
+那么  如果你一直在看这个播客
+Now, if you've been watching this podcast
+或在任何时间收听此播客
+or listening to this podcast for any period of time,
+或者你在其他播客中听到了我的声音
+or you've heard me on other podcasts
+或者你订阅了我的Instagram
+or you follow my Instagram,
+我是整个晨光的忠实拥护者
+I am a big fan of this whole thing of getting morning light
+为了使昼夜节律同步 等等
+in order to synchronize circadian rhythms, et cetera,
+避免在半夜里看光
+avoiding light in the middle of the night.
+这是另一个原因
+This is yet another reason
+为什么要获得充足的光线 最好是日光
+why getting ample light, ideally sunlight,
+但这可能是眼睛产生其他紫外线的来源
+but it could be other sources of UV light to the eyes,
+刺激MSH 这已被一遍又一遍地显示
+stimulates MSH, this has been shown over and over again.
+并控制饮食或食欲的欲望
+And keeps the desire to eat or appetite in check,
+在健康范围内
+in healthy ranges.
+这也是为什么在春季和夏季
+This is also why in the spring and summer months,
+动物和人会少吃东西
+animals and people eat less.
+那么  让动物冬眠变得不一样了
+Now, for hibernating animals it's different,
+因为他们实际上冬眠
+because they bear hibernate, actually.
+阿什利（Ashley）熊在技术上并没有真正冬眠
+Ashley bears don't truly hibernate technically,
+按照科学的标准 它们不会冬眠
+by a scientific criteria they don't hibernate,
+但是它们陷入了一种麻木状态
+but they go into a kind of torpor.
+冬眠的动物他们不吃很多东西
+The hibernating animals they don't eat much
+因为他们在洞里或窝点里
+because they're in boroughs or dens,
+或只是将自己包裹在一个小球中
+or they're just wrapped up in a little ball
+冬眠动物所做的一切
+or whatever it is that hibernating animals do.
+因此 他们当然会在冬天少吃点东西
+So they're of course going to eat far less in the winter.
+但这是一个独特的例子
+But that's a unique scenario,
+我们不是在冬眠动物
+we are not hibernating animals.
+但是人类通常在寒冷的冬季
+But humans generally have greater appetite
+有更强的食欲
+in the cold winter months.
+这不仅是因为假期
+And it's not just because of the holidays
+和丰富的食物
+and the abundance of food
+我们正在展现自己
+that we're presenting ourselves with,
+但是当我们有很多阳光时 我们的食欲就会降低
+but when we get a lot of sun our appetite is reduced
+或者至少更容易控制
+or at least it's easier to control.
+这是部分原因
+And that is due in part,
+因为如果你的眼睛得到充足的阳光
+because if you're getting ample sunlight to the eyes,
+它被转换成MSH神经元的信号
+it's converted into a signal for the MSH neurons,
+释放MSH的神经元 对不起
+the neurons that release MSH, excuse me
+这些PMOC神经元释放MSH
+these PMOC neurons release MSH.
+然后MSH可以结合其受体
+And then MSH can bind its receptors,
+并可以控制食欲不振
+and can keep the break on appetite in check.
+因此 这里的速食理论  简单来讲
+So the takeaway tool from this,
+就是要确保你得到足够的光线
+is make sure you're getting enough light
+不只是在早上 而是在全天
+not just in the morning, but throughout the day.
+是的 它必须对着你的眼睛
+And yes, it has to be light to your eyes.
+但不要用阳光或人造光轰炸你的眼睛
+And blasting your eyes with sunlight or artificial light
+到造成伤害或痛苦的地步
+to the point where it's damaging or painful,
+这不会加快或改善这个过程
+won't accelerate or improve this process.
+这是要获取光子
+It's about getting photons,
+紫外线持续照射到眼睛
+ultraviolet light to the eyes consistently
+一整天
+throughout the day.
+最好不要戴墨镜
+That's best accomplished by not wearing sunglasses
+只要你可以安全地做到这一点
+provided you can do that safely.
+如果没有足够的阳光
+And if you don't have access to enough sunlight,
+那么你可以使用人造光做到这一点
+then you can do this with artificial light.
+这也再次指出了我们的老朋友
+This also points again to our old friends,
+防蓝光眼镜
+the blue blockers.
+很多人知道我不是防蓝光眼镜的忠实拥护者
+Many people know I'm not a huge fan of blue blockers
+尤其是在白天
+especially not during the daytime,
+因为它们阻挡了很多紫外线
+because they block a lot of the UV
+挡住了应该想要和需要来创造警觉的  波长更短的光
+and shorter wavelength light that you want and need
+它还会导致来自垂体内侧的MSH释放
+to create alertness, but also to create release of MSH from the medial pituitary.
+现在有人
+Now there are people out there,
+亚文化 实际上会注入了MSH
+subcultures, that actually inject MSH.
+正在服用MSH或类似的药物
+That are taking MSH or things similar to it.
+我不建议人们这样做
+I am not suggesting people do that.
+但是这样做有三个主要后果
+But there are three main consequences of doing that.
+首先 它降低了食欲 这不足为奇
+First of all, it reduces appetite, no surprise there.
+他们实际上正在将其用作减肥药
+And they're actually using it as a dieting drug.
+这是地下的黑色产业
+This is kind of in the underground.
+我不知道法律方面这什么情况
+I don't know what the legal status is.
+再说一次 我不是在提倡人们这样做
+And again, I'm not promoting that people do it.
+第二 它使它们变得非常美黑 这讲得通 对吧？
+Two, it makes them very, very tan, which makes sense, right?
+黑色素细胞刺激激素
+Melanocyte-stimulating hormone.
+第三 据称  虽然它从未被尝试过
+And the third is, it purportedly, never tried it,
+据说它会产生很高的性欲
+purportedly sends libido through the roof,
+到真正分散注意力的那种程度
+to the point where it's actually distracting
+用于其他活动
+for other activities.
+它实际上可以制造持续勃起
+It actually can create priapism,
+这是男性的一种慢性勃起
+which is a kind of chronic erection in males
+到实际上可能对身体造成伤害到生殖器的地步
+to the point where it actually can be physically damaging to the genitalia.
+所以这是一种药物
+So this is a drug,
+我不知道它是否被称为药物
+I don't know whether or not it's call it a drug.
+这是一种可以调节健康水平的物质
+It's a substance that one can regulate with healthy levels,
+要伴随阳光和人造紫外线一起使用
+with sunlight and perhaps artificial UV light.
+我对肥胖症的治疗方法知之甚少
+I have not heard much about treatments for obesity
+涉及获得充足的阳光或获得充足的紫外线
+involving getting ample sunlight or getting ample UV light,
+但对我来说 逻辑很清楚
+but to me, the logic is just very clear.
+因此 如果你追求这些途径
+And so if you're pursuing those avenues,
+你当然应该和你的医生谈谈
+you certainly should talk to your physician
+但你可能要考虑一下
+but you might want to think about
+这些逻辑如何相互联系在一起
+how some of those logic hangs together.
+绝对迷人的荷尔蒙
+Absolutely fascinating hormone,
+我认为大多数人都不知道
+I think most people aren't aware of it.
+以及意识到这一点的亚文化
+And the subcultures that are aware of it
+正在将其用于两个非常特殊的终点
+are using it for two very particular end points,
+他们正在以超级生理水平使用它
+and they're using it at super physiological levels.
+不再讲那个了 因为我真的不知道
+That's enough about that 'cause I really don't know.
+我已经和一些研究人员进行了交谈
+I've talked to a few people in research.
+真的  因为这个播客
+Believe it or not for this podcast,
+我接触到了几个人
+I reached out to a few people
+并问这些是否是“副作用”
+and asked whether or not the these are side effects
+我听说过是真的 而且确实是真的
+I've heard about are true, and indeed they're true.
+但这又是超级生理学 控制MSH
+But again, that's super physiological, controlling MSH,
+实际上是Alpha MSH水平
+it's actually Alpha MSH levels
+通过观察紫外线
+through viewing ultraviolet light
+似乎很有趣
+seems like an interesting
+机制上也是合理的事情
+and mechanistically logical thing to do,
+如果你的目标是控制食欲
+if your goal is to keep appetite in check.
+因此 MSH可以抑制饥饿
+So MSH inhibits hunger.
+接下来 让我们谈谈荷尔蒙肽
+Next, let's talk about a hormone peptide
+激发饥饿感
+that activates hunger.
+这是一个非常有趣的
+And this is a really interesting one
+因为这和你饿的时候有关
+because it relates to when you get hungry,
+除了你饿了
+in addition to the fact that you get hungry at all.
+它叫做ghrelin 拼写为GHRELIN
+And it's called ghrelin, it's spelled G-H-R-E-L-I-N.
+生长激素释放肽实际上是从胃肠道释放的
+Ghrelin is released actually from the GI tract.
+它的主要作用是增加你的饮食欲望
+And its main role is to increase your desire to eat.
+它通过多种机制来做到这一点
+And it does that through a variety of mechanisms.
+部分原因是刺激某些大脑区域
+Part of that is to stimulate some of the brain areas,
+其中的神经元 让你想吃
+the actual neurons, that make you want to eat.
+此外 它还会产生食品预期信号
+In addition, it creates food anticipatory signals
+在你的神经系统内
+within your nervous systems.
+所以你开始思考事情
+So you start thinking about the things
+你喜欢吃东西
+that you happen to like to eat
+在一天中的特定时间
+at that particular time of day.
+这很神奇
+And this is fascinating.
+Ghrelin有点像时钟
+Ghrelin is sort of like a clock,
+使你想吃的荷尔蒙钟
+a hormonal clock that makes you want to eat
+在特定时间
+at particular times.
+那么  生长素释放肽的信号是让血液中的葡萄糖水平降低
+Now, the signal for ghrelin is reduced glucose levels in the blood.
+今天我们要谈论很多关于葡萄糖和胰岛素的话题
+We're going to talk a lot today about glucose and insulin,
+管理葡萄糖和胰岛素的方法
+ways to manage glucose and insulin.
+但是  这个简单的版本
+But for now the simple version of this,
+你通常要葡萄糖的水平
+is you normally want your glucose
+处于适度范围内
+to be in a kind of modest range,
+我会解释一下范围
+and I'll explain what range is in a little bit.
+但是 如果它下降得太低 则ghrelin会从你的肠道中分泌出来
+But if it drops too low, ghrelin is secreted from your gut.
+它在不同位置激活大脑中的神经元
+It activates neurons in your brain at various locations
+包括PMOC神经元
+including the PMOC neurons,
+以及其他神经元
+and the other neurons of the wingin' it.
+它还以特定方式激活VMH
+It also activates the VMH in particular ways.
+它甚至可能激活其中一些
+And it might even activate some of these neurons
+在你嘴巴周围的神经元
+that are in the periphery in your mouth
+那实际上会让你流口水 想吃东西 对不对？
+that actually make you salivate and want to eat, right?
+那么  我们都知道著名的“巴甫洛夫”实验
+Now, we all know about the famous Pavlovian,
+巴甫洛夫犬的实验
+experiments of Pavlov's dogs.
+你知道 他们开始垂涎三尺
+You know, they start salivating to the bell.
+钟声送来食物后 你将食物取出
+After the bell was presented with food, you remove the food,
+然后只有铃铛就可以刺激流涎
+and then just the bell can stimulate the salivation.
+我们有时会叫这个实验“巴甫洛夫人”
+We become Pavlovian at times.
+但是很少有人讨论过
+But rarely is it ever discussed
+这是什么神经通路
+what the neural pathways for that are.
+结果发现这些激素
+And it turns out that these hormones
+肠道分泌的物质可以刺激神经元
+that are secreted from the gut can stimulate the neurons
+对某些食物产生刺激和渴望
+to create a sensation and a desire for certain foods
+在一天中的某些时间
+at certain times of day.
+你已经完成了该实验
+You've done this experiment.
+如果你是吃早餐的人
+If you are somebody who eats breakfast
+每天差不多在同一时间
+at more or less the same time each day,
+假设上午8:00前后20分钟
+let's say 8:00 AM plus or minus 20 minutes.
+然后你在12:30前后20分钟吃午餐
+And then you eat lunch 12:30 plus or minus 20 minutes.
+或者说你是像我这样的人
+Or let's say you're somebody like me
+通常不吃早餐
+who typically skips breakfast, and just eats lunch
+通常在11:30或12点左右只吃午餐
+usually around 11:30 or 12 or something like that.
+你的生长素释放肽分泌物将开始匹配
+Your ghrelin secretion will start to match
+当你平时吃饭时
+when you typically eat.
+它做到了
+And it does that.
+而且它可以替代低水平的葡萄糖
+And it's able to override the low levels of glucose
+在你的血液中
+in your bloodstream,
+因为ghrelin系统也得到输入
+because the ghrelin system also gets input
+从你肝脏中的时钟
+from a clock in your liver
+与下丘脑的时钟有关
+that is linked to the clock in your hypothalamus,
+在你的大脑中
+in your brain.
+这意味着 如果你在正常用餐时间进食
+And what this means is, if you eat at regular meal times,
+你会在那些用餐时间之前几分钟
+you'll start to get hungry a few minutes
+开始饿了
+before those meals times.
+如果你曾经想过为什么
+If you've ever wondered why
+你的胃开始发出咕噜咕噜的声音
+your stomach kind of starts to growl
+因为这是一天中的特定时间
+because it's a particular time of day,
+你想 哦 我必须要吃饭
+and you're like, Oh I must want to eat,
+好吧 那是ghrelin
+well, that's ghrelin.
+对于那些不知道的人
+And for those of you that don't know
+为什么你的肚子会咆哮 今天我也要告诉你
+why your stomach growls, I'll also tell you that today.
+实际上 这真的很有趣
+It's actually really interesting.
+完全不是你所期望的
+It not at all what you expect,
+不仅是胃里的液体
+and it's not just the gurgling of liquids in your stomach.
+不是那样的
+That's not what it is.
+这实际上是一种肌肉现象
+It's actually a muscular phenomenon.
+因此 生长素释放肽被分泌为食物预期信号
+So, ghrelin is secreted as a food anticipatory signal,
+让你有动力定期去吃饭
+to get you motivated to go eat at regular times.
+所以 今天有很多兴趣
+So, nowadays there's a lot of interest
+间歇性禁食
+in intermittent fasting.
+一些饮食计划和时间表   以及一般吃什么
+There's also a lot of interest in just what meal plans
+也引起了人们的极大兴趣
+and schedules and what to eat in general,
+为了使自己的健康和福祉最大化
+in order to maximize one's health and wellbeing.
+人们有各种各样的化妆上的原因
+And people have all sorts of cosmetic reasons
+和大脑原因和代谢原因
+and brain reasons and metabolic reasons
+想要控制这种东西
+for wanting to control this kind of stuff.
+因此 让它变得非常简单
+So let's make it really simple
+首先看极端
+by first looking at the extremes.
+有些人需要每两三个小时吃饭一次
+Some people need to eat every two or three hours.
+他们感到：“我需要每两三个小时吃饭”
+They feel this, "I need to eat every two or three hours,"
+否则他们的血糖会下降
+or else their blood sugar drops.
+一般来说 血糖不会下降那么低
+In general, blood sugar doesn't drop so low,
+到人真的需要吃饭
+that they truly need to eat
+来减轻血糖问题
+in order to alleviate a blood sugar issue.
+尽管有时可能会发生
+Although sometimes that can happen.
+有些人确实是低血糖 低血糖
+Some people are truly hypoglycemic, low blood sugar.
+但是大多数人随着血糖开始下降
+But most people as the blood sugar starts to head down
+朝向低迷区 生长素释放肽被分泌出来
+towards the low-ish ranges, ghrelin is secreted.
+因此 对于那些不准时吃饭的人
+And so for those people not eating on the clock,
+对他们来说是非常破坏性的
+it's very disruptive to them
+因为它激活了大脑中的这些神经元
+because it activates these neurons in the brain.
+对于每天吃一次或一天吃两次的人
+For people who eat once a day or twice a day,
+或倾向于改变他们的饮食
+or tend to shift their meals,
+你知道 他们可能会吃很多
+you know, and they might eat a lot
+但是在有限的所谓“进食窗口”内
+but during a limited so-called feeding window,
+现在人们在吃东西 谈论食物 这很有趣
+it's kind of interesting humans now eat and talk about foods
+以多年来我在课堂上听到的方式
+in ways that for years I used to hear about in classes,
+在课程中以及关于进食动物的研究讲座中
+in courses, and research lectures about feeding animals,
+你知道 进食窗口受到限制
+you know, restricted feeding windows.
+我们要感谢Satchin Panda
+And we owe a great deal of gratitude to Satchin Panda,
+我实验室在圣地亚哥时是我的同事
+who was a colleague of mine when my lab was in San Diego
+在索尔克研究所（Salk Institute） 他的确是先驱者之一
+at the Salk Institute, who really is one of the pioneers
+受限制的“进食窗口”研究
+of this restricted feeding window work
+并做了出色的工作
+and has done a beautiful work.
+他有一本叫《昼夜节律》的好书
+He has a book that's excellent called 'The Circadian Code'
+我强烈推荐
+that I highly recommend.
+他做了很多重要的工作
+And he's done a lot of important work
+在视网膜的神经元上 控制昼夜节律
+on neurons in the retina, that control circadian timing,
+还有进食窗和健康之间的关系
+but also the relationship between feeding windows and health.
+他是我应该说的“昼夜节食”  的主要支持者之一
+And he's sort of among the major proponents I should say,
+这意味着在白天进食
+of circadian eating, that means eating during the daytime,
+不在晚上或间歇性禁食
+not at night or intermittent fasting,
+限制进食窗口
+restricting feeding windows
+到4  /6/8个小时
+to anywhere from four to six to eight hours.
+我以自己为例
+I'll use myself as an example
+从常规进食时间表的过渡
+of the transition from regular feeding schedule
+断断续续的禁食
+to a more intermittent-ish fasting,
+尽管我并不是真正的间歇性禁食
+although I don't really fall into true intermittent fasting.
+所以我就是这些习惯的人之一
+So I was one of these people that just got so accustomed
+我醒来大约一个小时后醒来吃东西
+to waking up and eating about an hour after I woke up.
+每三四个小时吃一次就可以了
+That to go from eating every three or four hours
+每天午餐和晚餐吃两次
+to eating twice a day, lunch and dinner,
+也许下午有一些零食或其他东西
+maybe a couple of snacks in the afternoon or something.
+起初 这令人发指
+At first it was excruciating.
+我记得这样想
+I remember thinking like,
+这真是残酷的拒绝进食
+this is really brutal pushing out feeding.
+除非我先吃饭 否则我认为我不能运动
+I didn't think I could exercise unless I had eaten first.
+现在我们知道 在大多数形式的运动中
+We now know that during most all forms of exercise
+除非你真正专注于最佳运动表现
+unless you're really focused on optimal performance
+比如你要冲最大重量
+like you've got to hit key lifts
+或者必须以最快的速度冲刺
+or you have to sprint at your maximum speed.
+也许即使那样 你也可以不进食而更快地运动
+And maybe even then that you can exercise faster just fine,
+因为你主要依靠糖原等来源
+because you're mainly relying on sources like glycogen
+从肝脏中取出一些未消化的食物
+from the liver, some undigested food sometimes,
+看起来似乎很真实
+as gross as that may seem it's true,
+如果运动时间非常长 还需要补充体内的脂肪
+as well as body fat if the exercise about is extremely long.
+但这意味着如果你突然去
+But what that means is that if you suddenly go
+从定期吃饭到不吃一顿饭
+from eating on a very regular schedule to skipping a meal,
+或推迟用餐时间或完全转移时间
+or pushing your meal timing out or shifting at all,
+在你的身体系统中 将会产生ghrelin
+you're going to have ghrelin in your system.
+而生长素释放肽会刺激人们进食的欲望
+And that ghrelin is going to stimulate the desire to eat
+通过在你的大脑水平上行动
+by acting at the level of your brain.
+确实在那时 只是精神上的
+And it is indeed at that point, just mental.
+当我们听到关于心理 身体的信息时
+When we hear about just mental, just physical,
+这真的是同一回事
+it's really kind of the same thing
+因为这是所有化学物质 包括大脑和身体
+'cause it's all chemicals, brain and body.
+但是 预期进食的是神经元的刺激
+But it's the stimulation of neurons that anticipate feeding.
+你正在刺激弓形核神经元
+You're stimulating the arcuate nucleus neurons
+那些AgRP神经元那会让你想吃
+that make you want to eat those AgRP neurons.
+生长激素释放肽刺激AgRP神经元
+So ghrelin stimulates the AgRP neurons,
+这让你想吃
+which makes you want to eat.
+那你该怎么办呢？
+So what can you do with this?
+这是什么意思
+What this means is,
+如果你想开始改变你的进食时间表
+if you want to start shifting your feeding schedule
+到不那么频繁进食
+to one where you're not eating quite as frequently,
+而且有一些好处
+and there are some advantages to that
+不只是与生物化学和健康有关
+that aren't just in the biochemistry and health related,
+你知道 细胞健康有关的事情
+you know, cellar health related things.
+但是其中一些包括不必考虑
+But some of them include not having to think about
+还是买食物 对不对？
+or buy food, right?
+你实际上不必整天考虑食物
+You actually don't have to think about food all day
+如果你不经常吃东西
+if you're not eating so often.
+另一个是 它给你
+The other is, it gives you
+更大的社交灵活性 对不对？
+a far more social flexibility, right?
+如果需要 你可以参加中午会议
+You can go to a noon meeting if you have to
+或者你可以在特定时间外出吃晚饭
+or you can go out to dinner at a particular time.
+而且你知道 我想这很难
+And you know, I guess it makes it kind of tough
+如果你想约某人吃早餐
+if you want to meet somebody for breakfast,
+而你只能当个傻瓜
+'cause then you're the dork
+喝黑咖啡一样
+who's just like sipping black coffee
+拒绝一切早餐
+and like refusing everything.
+但是无论如何 我一直都是那个傻瓜
+But anyway, I've been that dork.
+因此 这就是你要调整的地方
+So it's one of those things you just kind of work with.
+但事实上 生长素释放肽的分泌
+But the fact of the matter is, ghrelin secretion,
+由于它与神经系统的关系
+because of its relationship to the nervous system,
+每天可以移动约45分钟
+can be shifted by about 45 minutes per day.
+那么  情况将有所不同
+Now, it's going to vary.
+你们当中有些人拥有更多的意志力
+Some of you have more so-called willpower, you know.
+但是如果你真的想开始
+But if you really want to just start
+去掉第一餐或向任何方向进行调整
+pushing that first meal out or shifting in any direction,
+有些人可能想在一天的早些时候吃东西
+some people might want to eat in the early part of the day
+而不是在晚上
+and not in the evening.
+尝试将进餐时间移出间隔
+Trying to shift the mealtimes out the spacing
+大约每天只能移动45分钟 这就是神经回路
+by about 45 minutes, is what the neural circuits
+将ghrelin系统重新连接到神经回路
+that link the ghrelin system to the neural circuits
+控制进食 在人的忍受范围内
+that control feeding, really can handle
+因为它是神经可塑性的一种形式
+because it's a form of neuroplasticity.
+所以真实情况就是
+And so what this would look like is,
+如果你通常在八点吃早餐
+if you normally you eat breakfast at eight o'clock
+前后20分钟
+plus or minus 20 minutes,
+如果你想在中午开始吃第一顿饭
+and you want to start eating your first meal at noon
+你可能要花四到五天调整
+you would take maybe four or five days
+开始把第一顿饭去掉
+and just start pushing the meal out
+每天早餐推后约45分钟到一个小时
+by about 45 minutes to an hour each day.
+因此 这并不会那么痛苦
+So it's not quite as painful.
+或者 你可以尝试一下 然后一次完成所有操作
+Or you can just take the plunge and just do it all at once.
+我有一位同事曾是斯坦福大学的神经外科医师
+I have a colleague who was a neurosurgeon at Stanford,
+通过我的实验室来 他现在在Neuralink
+came up through my lab, he's now at Neuralink,
+并且他有很好的练习
+and he has a great practice.
+他使自己的生长素释放肽系统保持随机状态
+He keeps his ghrelin system at random.
+他要做的就是每天不吃一顿饭
+What he does is he skips one meal per day
+然后他根据自己的外部时间表来决定这一点
+and he makes his external schedule dictate that.
+因此 有时他不吃早餐 有时不吃午餐
+So, sometimes he skips breakfast, sometimes he skips lunch,
+有时他不吃晚餐
+sometimes he skips dinner,
+他只是每天跳过三餐中的一餐
+he just skips one of the three major meals per day.
+而在这种情况下 ghrelin系统
+And in doing that, the ghrelin system
+就一直在变动
+has always kind of kept off kilter.
+而且可能还能让他
+And it probably also allows him
+产生很大的神经灵活性
+to have a lot of neural flexibility,
+我们称之为自上而下的控制
+what we call top-down control.
+只是知识 哦 你知道我的饥饿感
+Just the knowledge, Oh, you know the hunger I'm feeling
+不一定是缺少血糖
+isn't necessarily hypoglycemia.
+在他的情况下 可以肯定不是
+And in his case, it's almost certainly not.
+因此 我在这里的感受
+And therefore what I'm feeling here
+是这些AgRP神经元的激活
+is an activation of these AgRP neurons,
+因此 我可以推迟我的用餐时间
+and therefore I can push my meal schedule around however I want.
+那么  我应该提到自上而下的机制非常强大
+Now, I should mention that top-down mechanisms are powerful.
+信念 动力
+Belief, motivation,
+这些事情确实可以改变神经回路
+these things can really shift neural circuits.
+我们稍后再讨论更多
+We're going to talk more about that a little bit later.
+但是也有一些人真正有低血糖
+But there are also people who are genuinely hypoglycemic
+那么他们需要很好地控制血糖水平
+and they need to take really good control
+并尝试使其保持稳定
+of their blood sugar levels and try and keep them stable.
+所以 当然 你想做
+And so of course, you want to do
+医学上安全的东西
+what's medically safe for you.
+我一点也不推荐
+I'm not at all recommending
+患有低血糖症的人
+that people that suffer from hypoglycemia
+去突然破坏他们的血糖模式
+suddenly disrupt their blood sugar patterns
+在任何方向上 那都不是健康的
+in any direction, that wouldn't be healthy.
+但是对于大多数人来说
+But for most people out there
+也就是血糖水平合理的人
+who have reasonable blood glucose levels,
+这既有趣又有趣
+it's kind of interesting and kind of fun
+去摆弄这些参数
+to play with these parameters
+去优化你想做的事
+in order to optimize what you want to do.
+有时你可以一年变动一次日程表
+And sometimes that might change across the year with schedules.
+许多人发现拥有灵活性对进食有很大的好处
+Many find great benefit in having flexibility over when they eat.
+饮食规律等于生长素释放肽分泌规律
+Regularity of eating equals regularity of ghrelin secretion
+等于这些AgRP神经元的活动规律
+equals regularity of activity of these AgRP neurons,
+这意味着你会经常饿
+meaning you'll be hungry at very regular intervals.
+这就是你可以使用的东西
+So that's something that you can work with,
+植根于深层机制
+it's grounded in deep mechanism
+激素和神经系统
+of hormone and neural systems,
+而且有很多现代研究
+and there's a lot of modern research
+支持我刚才所说的
+to support what I just said.
+所以 如果MSH抑制进食 使我们想少吃
+So, if MSH inhibits feeding, makes us want to eat less
+而ghrelin让我们想多吃点东西
+and ghrelin makes us want to eat more,
+还有一种叫做CCK的激素 胆囊收缩素
+there's another hormone called CCK, Cholecystokinin,
+可以有效减少我们的饥饿感
+that is potent in reducing our levels of hunger.
+那么  我在大学的时候就了解了CCK
+Now, I learned about CCK back when I was an undergraduate.
+因此 应该是在20多年前 那时它才首次被发现
+So, well over 20 years ago, when it was first discovered.
+那时 CCK风很大
+And there was a lot of excitement about CCK at that point
+作为减肥药
+as a diet drug.
+你知道 只要有分子
+You know, anytime there's a molecule
+或在大脑或身体中发现的化学物质
+or a chemical discovered in the brain or body
+可以抑制进食 因此饮食业疯狂了
+that can suppress feeding, the diet industry just goes wild
+他们认为 这将成为“神药”
+and they think, this is going to be the thing
+这将使人们摆脱肥胖
+that's going to allow people to move from being obese
+减轻各种不健康的体重等等
+to losing all sorts of unhealthy weight, et cetera.
+瘦素被发现时  也有类似现象
+A similar phenomenon was observed with leptin.
+瘦素是一种由体内脂肪产生的激素
+Leptin is a hormone that's made by body fat
+当体内脂肪过多时 它会向大脑发出信号
+that signals to the brain when there's a lot of body fat,
+在动物体内注射瘦素
+and in animals injections of leptin
+可以使胖动物变瘦
+can make fat animals thin.
+他们失去了很多脂肪或脂肪
+They lose a lot of adipose or fat.
+在人类中 这种方式并非可行
+In humans, it didn't work out that way.
+研究仅仅显示 瘦素就成功了
+It just the studies were done and leptin was successful
+在治疗某种罕见的糖尿病时
+in treating a certain rare form of diabetes,
+但它确实不是非常有效的抗肥胖药
+but it really wasn't very potent as an anti-obesity drug.
+同样 CCK被视为肥胖药
+Similarly, CCK has been looked at as an obesity drug,
+减轻肥胖的东西
+something to reduce obesity.
+但是它有一些非常不好的副作用
+But it had some pretty unhappy side effects
+实际上造成了一些非常严重的副作用
+actually caused some pretty serious side effects.
+现在这就是毒品
+Now that's as drug.
+但是 当你的肠以正常水平释放时 CCK
+However, CCK when released at normal levels by your gut
+有强大的作用
+has a powerful effect
+可以在一段时间内抑制食欲
+in suppressing appetite for a period of time.
+并且有健康直接的方法来激活CCK
+And there are healthy and direct ways to activate CCK.
+那么  CCK在胃肠道中
+Now, CCK is in the GI tract,
+它是从胃肠道中释放出来的
+it's released from the GI tract.
+它的释放受两方面支配
+And it's release is governed by two things.
+一个是非常专有的神经元的集合
+One is a subset of very specialized neurons
+可以检测出肠道中的东西
+that detect what's in the gut,
+肠道的具体包含了什么
+the specific contents of the gut.
+根据黏膜上用于感受的某些成分
+And by certain elements of the mucosa,
+肠道粘液衬里和肠道微生物组
+of the mucus lining of the gut and the gut microbiome.
+所以真正有趣的是
+So what's really interesting,
+是CCK被脂肪酸刺激然后释放了
+is that CCK is stimulated by fatty acids
+以及我们将要讨论的特定脂肪酸
+and particular fatty acids that we'll talk about.
+氨基酸 特别是接下来要讲的氨基酸
+Amino acids, and particular amino acids
+以及糖
+that we'll talk about, as well as by sugar.
+那么  让我们将糖放一边
+Now, let's put sugar on the shelf for a moment.
+我们将谈论很多关于糖的问题
+We're going to talk a lot about sugar
+因为如果CCK抑制食欲并减少进食
+because if CCK inhibits appetite and reduces feeding,
+可能是由脂肪酸 氨基酸
+and it can be triggered by fatty acids, amino acids,
+或糖 那么你可能会说
+or sugars, then you might say,
+好吧 那么吃很多糖
+well, then in eating a lot of sugars
+应该会让我们不想多吃
+should make us not want to eat more,
+但是我们都知道吃糖
+but we all know that eating sugar
+会让我们想吃得多
+makes us want to eat far more.
+那就是很多糖的作用
+That's the role of a lot of sugars.
+这与一个单独的机制有关
+And that has to do with a separate mechanism
+我们今天等下再谈
+we'll talk about today.
+因此 肠内有哪些脂肪酸
+So, which fatty acids in the gut
+能刺激CCK释放？
+stimulate the release of CCK?
+原来是omega-3脂肪酸
+It turns out it's the omega-3 fatty acids,
+来自藻类 磷虾或鱼油的油
+the ones that come from algae or krill or fish oil.
+我在营养一集中谈到了这一点
+I talked about this in the episode on nutrition
+以及一些与肠道微生物组有关的事物
+and some of the things related to the gut microbiome.
+我现在将重新讨论这一点
+And I'm going to revisit that now.
+Omega-3脂肪酸和共轭亚油酸（CLA）
+Omega-3 fatty acids and Conjugated linoleic acid, CLA,
+无论是来自食物还是补品
+either from food or from supplements,
+都会刺激CCK的释放
+stimulate the release of CCK
+然后降低或至少钝化食欲
+which then reduces, or at least blunts appetite.
+我不是在说导致食欲不振
+And I'm not talking about blunting appetite
+到完全不想进食的厌食症水平
+to anorexic levels where you don't want to eat at all.
+我说的是调节食欲
+I'm talking about regulating appetite
+到动物和人都不会过度进食的地步
+to the point where animals and people don't over-consume.
+因此 它可以保持食欲健康
+So it's keeping appetite at a healthy level.
+我提到的另一个物质  也会激发了CCK
+The other thing that stimulates CCK that I mentioned,
+那就是氨基酸
+are amino acids.
+所以当我们吃饭时 我们有能力分解
+So when we eat, we have the ability to break down
+各种不同的常量营养素 碳水化合物 脂肪
+different macronutrients, you know, carbohydrates, fats
+或蛋白质 变成糖和葡萄糖
+or proteins, into sugars and glucose,
+然后我们可以转换为ATP
+that then we can convert to ATP
+这些高中课本上都会学到  柠檬酸循环
+and all that stuff from a Krebs cycle from high school.
+我们今天不打算讨论这一点
+We're not going to go into that today,
+这是未来的播客会讨论的内容
+that's for a future episode.
+但是氨基酸是
+But amino acids are one of the things
+我们正在吃的东西其中之一
+that we are eating for.
+氨基酸都可以用作能量
+Amino acids both can be used as energy
+通过称为“糖异生”的过程
+through a process called gluconeogenesis,
+将蛋白质转化为能量的过程
+of converting proteins into energy.
+同时  那些氨基酸可以被分解
+Or those amino acids can be broken down
+然后再改成诸如
+and then rebuilt into things like preparing, excuse me,
+修复肌肉组织
+repairing muscle tissue
+以及其他形式的细胞修复
+as well as other forms of cellar repair.
+他们参与各种各样的事情
+They're involved in all sorts of things
+都与蛋白质合成有关
+related to protein synthesis.
+这是什么意思？
+What does this mean?
+如果我们以适当的水平吃适当的氨基酸
+If we eat the proper amino acids at the proper levels,
+如果我们摄入omega-3和CLA 共轭亚油酸
+if we ingest omega-3's and CLA's, Conjugated linoleic acids
+在适当的水平 或从补充中获取它们
+at the proper levels, or get them from supplements,
+会有食欲不振
+there's a blunting of appetite.
+食欲保持控制 我们不会变得食欲亢进
+Appetite is kept clamped and we don't become hyperphagic.
+我们不会吃得过饱
+We don't overeat.
+我们倾向于在健康或正常范围内进食
+We tend to eat within healthy or normal ranges.
+所以这很重要
+So this is very important,
+因为大多数人不了解我们吃饭时
+because most people don't understand that when we're eating,
+我们基本上是寻觅脂肪和觅食氨基酸
+we are basically fat foraging and amino acid foraging.
+现在有几项研究表明
+And there are several studies now have shown,
+人和动物基本上都会一直吃
+that people and animals will essentially eat
+直到他们觉得自己已经摄取了足够的omega-3
+until they feel they've consumed enough omega-3's,
+omega-6 CLA和某些氨基酸
+omega-6's, CLA's, and certain amino acids.
+换句话说 它不是有意识的
+In other words, even if it's not conscious,
+我们一直在吃东西 直到触发CCK激活为止
+we are eating until we trigger the activation of CCK.
+那么  还有其他原因导致我们也停止进餐
+Now, there are other reasons why we shut down eating too.
+比如   我们肠道中的食物量可能很大
+Are literally, the volume of food in our gut can be large,
+我们会感到非常胀
+and we can feel very distended.
+显然 这是物理原因
+That's the physical reason obviously.
+还有其他原因
+There are other reasons,
+也许我们只有自上而下的控制
+maybe we just have top-down control.
+我们知道这顿饭差不多就到这里了
+We have knowledge that this is the end of the meal
+我们停下来 因为我们必须回去工作
+and we stop 'cause we have to go back to work
+或参加会议 或者我们告诉自己我们已经吃够了
+or to a meeting, or we tell ourselves we've had enough.
+但是在潜意识的层面上
+But at a subconscious level,
+肠道通过CCK和其他机制通知大脑
+the gut is informing the brain via CCK and other mechanisms
+当我们摄入了足够的食物之后
+when we've ingested enough of what we need.
+这些omega-3和CLA和某些氨基酸
+And these omega-3's and CLA's and certain amino acids
+对于发出我们已经受够的信号至关重要
+are vital for sending out that signal that we've had enough.
+那么  至于是哪些氨基酸呢  实际上很有趣
+Now, which amino acids is actually really interesting?
+我们有必需氨基酸
+We have essential amino acids
+还有非必需氨基酸
+and we have non-essential amino acids.
+在必需氨基酸中
+Among the essential amino acids,
+特别是有一个
+there's one in particular
+可以非常有效地触发CCK的释放
+that can trigger the release of CCK very potently,
+那就是谷氨酰胺
+and that's glutamine.
+谷氨酰胺是一种非常有趣的氨基酸
+Glutamine is a very interesting amino acid.
+首先 它已经在一些研究中显示
+First of all, it's been shown in a few studies
+在增强免疫系统中发挥作用
+to play a role in bolstering the immune system.
+它可以增加杀伤细胞的数量
+It can increase the number of killer cells
+在免疫系统中
+in the immune system.
+它被消耗 但以补剂形式
+It is consumed but in supplement form.
+比如  人们可以服用
+You know, people can take it.
+每次一茶匙的谷氨酰胺
+You know, a teaspoon of glutamine
+或有些人全天服用谷氨酰胺
+or some people take glutamine throughout the day,
+如果他们真的很喜欢它 或者出于某种原因
+if they're really into it or for whatever reason,
+他们认为自己正在与感染作斗争
+they think they're battling off an infection
+或类似的想法
+or something of that sort.
+谷氨酰胺当然也可以来源于食物
+Glutamine can also of course be derived from foods.
+然后你就可以上网
+And you can just put into the Internet,
+进行互联网搜索了
+do an Internet search
+并找出哪些食物富含谷氨酰胺
+and find out what foods are rich with glutamine.
+我意识到有些问题
+Some of the ones that I'm aware of off the top of my head
+就像奶酪 之类的东西
+are like cottage cheese, and things of that sort.
+但是其他食物也有谷氨酰胺
+But other foods have glutamine as well.
+谷氨酰胺一旦达到阈值水平
+Once a threshold level of glutamine
+和其他必需氨基酸
+and other essential amino acids are reached,
+一旦这些Alpha-3的阈值水平 说错了
+once the threshold level of these Alpha-3, excuse me,
+达到了Omega-3脂肪酸和CLA 释放了CCK
+Omega-3 fatty acids and CLA's are reached, CCK is released,
+它有助于减少
+and it helps reduce the activity
+那些促进进食的AgRP神经元的活动
+of those AgRP neurons that promote feeding.
+如你所见 进食是一种
+So as you can see, feeding is an interplay
+在大脑和身体之间的相互作用
+between brain and body.
+这是一些微量营养素
+And it's some of the micronutrients
+甚至某些营养素的分解
+and even the breakdown of particular nutrients,
+这就是加速器
+that's putting the accelerator
+或进食过程中的刹车
+or the brake on the feeding process.
+这不只是一件事
+It's not just one thing.
+因此 从可行的角度来看
+So from an actionable standpoint,
+你 我们可能都应该无论如何去尝试获取
+you, we should probably all be trying to get our omega-3,
+我们的正确omega-3/ Omega-6比例
+Omega-6 ratios correct anyway,
+因为它们是抗抑郁药
+because they are antidepressant.
+我谈到了同行评议的研究
+I talked about the peer reviewed studies on that.
+他们对肠道微生物组很健康
+They are healthy for the gut microbiome,
+我们应该寻求足够的谷氨酰胺
+and we should be seeking sufficient glutamine.
+那么  你是否决定
+Now, whether or not you decide
+是否补充谷氨酰胺 取决于你
+to supplement with glutamine or not, is up to you.
+为什么要这样做的原因之一
+One of the reasons why one might want to do that,
+再说一遍 你应该总是去看医生
+and again, you should always check with a doctor,
+特别是如果你对癌症有任何易感性
+especially if you have any predisposition to cancers
+或者你患有癌症 许多癌症和肿瘤 例如谷氨酰胺
+or you have cancer, many cancers and tumors like glutamine,
+这点需要特别注意
+so that's something to note.
+但是你可能想补充谷氨酰胺的原因之一
+But one reason why you might want to supplement with glutamine
+或考虑吃富含谷氨酰胺的食物
+or consider eating foods that are rich in glutamine,
+不只是为了保持胃口健康
+isn't just to keep your appetite in healthy ranges,
+而是因为  谷氨酰胺实际上也可以减少对糖的渴望
+but as well, glutamine can actually reduce sugar cravings.
+因此 这非常有趣
+So this is very interesting.
+我有一个朋友 他是个绝对的巧克力 糖果迷
+I have a friend, he's an absolute chocolate, sweets addict.
+他是成年人 但他吃糖果和巧克力
+He's a grown adult, but he eats candy and chocolate
+好像他像一个14岁的孩子
+as if he was like a 14 year old kid
+在当地的便利店闲逛
+hanging out at the local convenience store.
+真是不可思议
+It's really incredible.
+他可能有糖瘾
+And he has probably a sugar addiction,
+但他很清楚
+but he's very aware of this
+并且他设法戒掉了其他的瘾头
+and he's managed to kick all other addictions.
+因此 无论出于何种原因 这个糖瘾  就一直刺激他的大脑和身体
+So, for whatever reason, it stimulates his brain and body
+让他想要更多 而他讨厌这一点
+in the ways that make him want more, but he hates this.
+实际上 这让他很沮丧
+It's actually quite frustrating for him.
+他是一个非常关心自己健康的人
+He's somebody who cares a lot about his health.
+他采取了我知道很多其他人都采用的方法
+He took the approach that I know many other people have
+利用谷氨酰胺的作用
+who know about this role of glutamine,
+服用一茶匙
+of taking a teaspoon
+或几茶匙的谷氨酰胺
+or a couple of teaspoons of glutamine
+在一天中或任何时候  当他渴望糖分的时候就服用
+several times throughout the day or anytime he craves sugar.
+的确 谷氨酰胺确实减少了对糖的渴望
+And indeed, glutamine, well, reduced sugar cravings.
+一些真正处于生酮战线的人
+Some people who are really on the kind of ketogenic front,
+将其与一半和一半混合
+will mix it with a little bit of half and half
+然后
+and down that,
+我猜是因为想它使它的味道更好
+and because I guess it makes it taste better,
+有点结块
+it's a little bit chalky.
+因此 谷氨酰胺具有一些非常有趣的特性
+So, glutamine has some very interesting properties.
+但我认为对于大多数人
+But I think for most people
+没有遭受不良渴望的​​痛苦
+that aren't suffering from adverse levels of craving,
+只要确保你获得了正确的omega-3
+making sure you're getting the right omega-3's
+可能来自多种来源
+that can come from a variety of sources,
+看看我们在营养上做的那集
+check out the episode we did on nutrition
+如果你想了解更多有关此的信息
+if you want to learn more about that.
+还有CLA
+And CLA's, and making sure
+你摄入了足够的谷氨酰胺
+that you're getting enough glutamine
+将非常有利于
+is going to be important for making sure
+CCK信号通过
+that the CCK signal gets through.
+关于谷氨酰胺 我想提一件事
+The one thing I do want to mention about glutamine,
+这是次要的影响 但仅此一项就可以有小幅增长
+it's a minor effect, but it alone can have a small increase,
+对不起 单凭这一点就能增加血糖
+excuse me, it alone can increase blood sugar.
+血糖升高不是很大
+It's not a huge increase in blood glucose.
+但是因为肠子吸收蛋白质
+But because the gut takes proteins
+并将它们分解成这些氨基酸
+and breaks them down into these amino acids,
+基本上是在寻找谷氨酰胺之类的东西
+and essentially looking for glutamine and things like it,
+其他必需氨基酸也是如此
+other essential amino acids as well.
+当你摄取谷氨酰胺或支链氨基酸时
+When you ingest glutamine or branch chain amino acids,
+血糖有少量但真正的增加
+there is a small but real increase in blood glucose.
+那是因为它们本质上是食物
+And that's because they are essentially food.
+我在说补充版本
+And there I'm talking about the supplemental version.
+因此 只要知道谷氨酰胺可以稍微增加血糖
+So, just know glutamine can increase blood sugar slightly,
+特别是糖尿病患者应该知道这一点
+especially diabetics should know that.
+它可以减少食糖的渴望
+It can reduce sugar cravings.
+并且只知道你的肠道  它在本质层面上
+And just know that what your gut is doing at a core level
+一直在锻炼  等待
+is it's forging, it's waiting,
+它一直在评估omega-3脂肪酸的水平
+and it's trying to assess levels of omega-3 fatty acid,
+共轭亚油酸的水平
+conjugated linoleic acid,
+以及谷氨酰胺和其他必需氨基酸的水平
+and glutamine, and other essential amino acids.
+你基本上是想吃些营养素
+You are essentially trying to eat to get these nutrients
+然后可以将信号部署到你的大脑
+and then a signal can be deployed up to your brain,
+你对吃那么多不是很感兴趣
+that you're not really interested in eating that much more.
+每当为此播客准备时
+Whenever preparing an episode for this podcast
+我总是面临一个特殊的挑战
+I'm always faced with a particular challenge,
+我应该提供多少种工具
+which is, how many tools should I offer
+涉及做一些新的事情？
+that involve doing something new?
+你知道 一种新的行为 一种新的锻炼 补剂
+You know, a new behavior, a new exercise, supplement,
+诸如此类的东西
+something, things of that sort.
+还有多少应该不让你们做的事
+And how many should be related to not doing things,
+应该避免事情
+avoiding things.
+谈论这些我们应该避免的东西
+It's never really fun to talk about
+从来都不是一件真正有趣的事
+all the things that we're supposed to avoid,
+但其中一些是如此强大
+but some of them are so powerful
+根据给定主题的机制
+in light of the mechanisms of a given topic
+如果我不提它们的话 我就没尽到责任
+that I'd be remiss if I didn't mention them.
+所以现在你已经了解荷尔蒙
+So now you understand how hormones,
+还有CCK和Ghrelin等肽会影响食欲
+and peptides like CCK and ghrelin impact appetite.
+食物有一个特定方面
+There's one particular aspect of food
+可以极大地影响CCK
+that can powerfully impact CCK.
+我想大多数人
+And I think most people,
+我猜有99.9％的人
+I'm guessing 99.9% of people out there
+不知道这一点
+are not aware of this.
+它与高度加工的食物有关
+And it has to do with highly processed foods.
+为什么要避免高度加工的食物有很多原因
+There's a lot of reasons why one would want to avoid highly processed foods.
+实际上 如果你对该主题感兴趣
+In fact, if you're interested in that topic
+以及在这个国家中
+and the history of whole foods,
+天然食物过渡到高度加工的食物的历史
+transitioning to highly processed foods in this country,
+我强烈建议你看一个YouTube视频
+I highly recommend you listen to a YouTube video
+罗伯特·卢斯蒂格（Robert Lustig）博士
+by Dr. Robert Lustig,
+他在加州大学旧金山分校任职
+he's at university of California, San Francisco.
+只要输入  斯坦福（Stanford） 罗伯特·路斯蒂格（Robert Lustig）  很快就能找到
+It's very easy to find, put Stanford, Robert Lustig,
+这是斯坦福大学主持的演讲
+it was a talk hosted by Stanford.
+对此历史进行了漂亮的描述
+Gives a a beautiful description of the history of this,
+以及为什么食品工业开始包装
+and why the food industry started packing in
+其他糖和盐
+additional sugars and salts,
+并把食物变成商品 这真的很着迷
+and turning foods into commodities, it's really fascinating.
+它没有阴谋论 只是一切科学事实
+It has no conspiracy theory is just all scientific facts.
+这真是一场精彩的演讲
+It's really a wonderful lecture.
+播放量有数百万 应该非常容易找到
+It has millions of views, it should be very easy to find.
+我们可以提供一个链接
+We can provide a link to that, and we will.
+还有另一个原因
+There's another reason
+为了避免高度加工的食物
+to avoid highly processed foods however,
+这与所谓的乳化剂有关
+and that has to do with what's called emulsifiers.
+那么  你们中的许多人都熟悉乳化剂
+Now, many of you are familiar with emulsifiers,
+即使你不知道
+even though you don't know it.
+举个例子   当你将洗涤剂放入衣物中时
+When you put detergent in the laundry
+洗衣液就包含乳化剂 该洗涤剂的目标
+that contains emulsifiers, the goal of that detergent
+是将脂肪分子与水分子结合在一起
+is to bring together fatty molecules with water molecules
+并能够分离它们并分解它们
+and be able to dissociate them and break them up
+去除衣服和类似物品上的污渍
+to get the stains out of clothes and things of that sort.
+加工食品中有很多乳化剂
+There are a lot of emulsifiers put into processed foods.
+这些乳化剂允许某些化学反应
+And those emulsifiers allow certain chemical reactions
+会延长这些食品的保质期
+to occur that extends the shelf life of those foods.
+比如说糖果和谷物
+So it's like candy bars and cereals,
+以及加工食品中的各种东西
+and all sorts of things that are in processed foods.
+最坏的是那种糕点
+The worst of which are the typical kind of pastries
+你在便利店看到的东西
+that you see at the convenience store.
+以及一些薯片
+But this extends into chips of various kinds
+甚至是各种肉
+and even some meats of various kinds,
+他们把这些东西装进肉里
+they pack this stuff into meats.
+这些物质包括  大豆卵磷脂和其他东西
+They have names like soy lecithin and other things.
+乳化剂为什么不好？
+Why are emulsifiers bad?
+恩 有很多原因导致它们不好
+Okay, there are a lot of reasons why they're bad,
+但它们之所以
+but the reason why they're bad
+对于我们今天讨论的机制不好的原因
+for the mechanisms that we've been talking about today,
+就是当你摄取这些食物时
+is that when you ingest those foods,
+你在将这些乳化剂带入你的肠道
+you're bringing those emulsifiers into your gut.
+那些乳化剂就消失在
+And those emulsifiers strip away
+肠道的粘膜衬里
+the mucosal lining of the gut,
+它们实际上会引起神经支配肠道
+and they actually cause the neurons that innervate the gut,
+延伸出一些小反应
+that extend those little processes
+我们称轴突进入肠道 以更深地缩回肠道
+we call axons into the gut, to retract deeper into the gut.
+结果 你正在摄取一堆食物
+And as a consequence, you're ingesting a bunch of food
+而且CCK之类的信号永远也不会部署到大脑
+and the signals like CCK never get deployed.
+无法真正消除饥饿的信号
+The signals that actually shut down hunger
+不能真正触发
+are never actually triggered.
+因此 你会想要吃得更多
+And so, as a consequence you want to eat far more
+这些高度加工的食物
+of these highly processed foods.
+另外 如果你再
+In addition, if you then go
+从原本吃高度加工的食物
+from eating a highly processed food
+转变为吃非高度加工的食物
+to non highly processed foods,
+你回无法测量氨基酸的量
+you're not able to measure the amounts of amino acids,
+无法准确无误地测量食物中的糖和脂肪酸的含量
+sugars, and fatty acids in those foods as accurately.
+你实际上已经在微观层面造成了到肠粘膜衬里
+You've actually done structural damage at a micro level,
+结构性破坏 对不起
+but structural level damage, excuse me,
+结构上的损害
+to the mucosal lining of the gut.
+但是  这一切都可以修复
+Now, this can all be repaired
+如果你远离高度加工的食物
+if you stay away from highly processed foods
+只要一段时间
+for some period of time.
+但是这些乳化剂的负面影响
+But the negative effects of these emulsifiers
+是很真实的
+are quite real.
+因此 要使其真正干净和简单
+So, to make it really clean and simple,
+高度加工食品中的乳化剂
+emulsifiers from highly processed foods
+限制了你肠道的功能
+are limiting your guts ability
+它无法检测你所吃的食物中有什么
+to detect what's in the foods you eat
+无法部署饱食感信号
+and therefore to deploy the satiety signals,
+消除饥饿的信号
+the signals that shut down hunger.
+除此之外 还有并行机制在起作用
+In addition to that, there's a parallel mechanism at play,
+我在上一集中谈到的
+that I talked about in a previous episode
+我再次说一下 你的肠内有神经元
+but I'll remind you again, that you have neurons in your gut
+可以感觉到糖
+that are sensing sugar,
+并向大脑发出潜意识的信号
+and are sending a subconscious signal up to the brain
+通过迷走神经
+via the vagus nerve.
+这些神经元触发多巴胺的释放
+And those neurons trigger the release of dopamine,
+这会让你渴望更多的食物
+which makes you crave more of that food.
+所以现在你有了并行信号
+So now you've got parallel signals
+让你想吃更多的糖
+making you want to eat more sugar,
+使你不知道自己吃了多少糖
+making you unaware of how much sugar you've eaten,
+破坏了神经系统的输入
+and that are disrupting the inputs to the nervous system
+该信号传递到你的大脑和身体的其余部分
+that signal to the rest of your brain and body
+你已经获得足够的脂肪酸
+that you've obtained enough fatty acids
+并且你已经获得了足够的氨基酸
+and you've obtained enough amino acids.
+因此 这些高度加工的食物真的很糟糕
+So these highly processed foods are really terrible.
+我不是在这里说
+And you know, I'm not out here to say,
+什么  永远不要去享受任何形式的加工食品
+you know, never enjoy a processed food of any kind,
+那就太虚伪了 因为我自己也时不时地吃加工食品
+I'd be a hypocrite 'cause I do eat processed foods from time to time.
+虽然我倾向于吃那些
+Although the ones that I tend to eat,
+更健康的品种
+I try and make of the healthier variety.
+但是吃天然食物具有巨大的价值
+But eating whole foods has tremendous value
+吃高度加工的食物
+and eating highly processed food
+对肠道有巨大的负面影响
+has tremendous negative impact on the gut
+对肠脑轴也有不好的影响
+and on the gut brain axis.
+因此 最近有一篇论文发表了
+And so, recently there was a paper that came out
+在Cell 期刊中
+in Cell, Cell Press journal,
+这是Cell期刊的制高点
+it's kind of the apex of Cell journals,
+这是一个了不起的期刊
+which is a phenomenal.
+本文表明 摄入高度加工的食物
+This paper showed that, ingesting highly processed food
+导致摄入更多的不只是高度加工的食物
+leads to more intake of not just highly processed foods
+但一般来说是其他类型的食物
+but other types of food in general.
+有种暴饮暴食的补偿
+There was kind of an overeating compensation
+通常是跨食物的
+generally across foods
+对于食用这些高度加工食品的人们
+for people that consume these highly processed foods.
+还有很多其他原因
+And there are a lot of other reasons
+都说明了需要避免高度加工的食物
+to avoid highly processed foods.
+再说一遍 我不想过分专注于不让大家做的事情
+So again, I don't like to focus too much on the do nots,
+我喜欢提出一些方法  工具
+I like to arm you with tools to do.
+但是我认为某些食物的视觉效果
+But I think this visual of certain foods
+这些乳化剂  实际上会剥离
+and these emulsifiers actually stripping away
+肠道的一些关键部位
+some of the critical lining of your gut
+并破坏激素向大脑控制进食的部分的信号传递
+and disrupting the hormone signaling to the brain
+这其实非常重要 也很神秘
+controlling feeding, is important enough and cryptic enough,
+意思是没有被很经常地讨论过
+meaning it hasn't been talked about,
+它在潜意识层面上起作用
+it works at a subconscious level,
+意识到这一点很重要
+and that it's important that people are aware of it
+这样大家就可以决定要吃什么
+so they can make decisions about what they do want to eat
+到底想不想吃饭
+or not want to eat for themselves.
+在继续之前 我只想说一件事
+Before moving on, I just want to say one more thing
+关于高度加工的食物
+about highly processed foods.
+有一个绝对棒的研究
+There was an absolutely beautiful study
+由我的同事 斯坦福大学的克里斯·加德纳（Chris Gardner）完成
+done by my colleague, Chris Gardner at Stanford,
+他探索了
+exploring whether or not
+某些饮食  是不是真的比其他饮食好
+certain diets were better than others.
+他们看了严格素食主义者 素食主义者 杂食
+They looked at vegan, vegetarian, omnivore,
+我不知道他们是否看过所有肉类
+I don't know if they looked at all meat or not,
+但是他们研究了不同形式的饮食
+but they looked at the different forms of diets,
+间歇性禁食等
+intermittent fasting, et cetera.
+他们本质上发现
+And they essentially found that,
+无论人们坚持哪种饮食
+whichever diet people adhered to,
+他们遵循的任何一个  都等同于其他
+whichever one they followed, was equivalent to the others.
+只要他们遵循同一个饮食结构
+Provided that they followed it,
+掉的体重是一样的
+they lost the equivalent amount of weight.
+所以食物类型或饮食方式等等
+There really wasn't a strong effect of the food type
+真的没有什么很强的效果或者作用
+or the pattern of eating, et cetera.
+但是 在这样的研​​究中
+However, in a study like that,
+依从性很高 因为人是研究的一部分
+adherence is very high because people are a part of a study.
+对于很多人来说
+And for many people,
+遵守特定饮食计划的能力
+the ability to adhere to a certain eating plan
+对于给定饮食  这种营养计划是否起作用
+is one of the most, if not the most powerful determinants
+是最强大的决定因素之一
+of whether or not a given diet
+如果不是最强大的话
+meaning nutritional plan works.
+那么  关于高度加工食品的事情
+Now, this thing about highly processed foods however,
+真的是魔鬼
+is really diabolical.
+因为它确实说
+Because it truly says,
+我认为细胞代谢的最新数据
+and I think the recent data in cell metabolism
+其他期刊确实证明了这一点
+and other journals really proves that,
+卡路里不是卡路里
+a calorie is not a calorie.
+由于这些乳化剂 这绝对是荒谬的
+That's absolutely absurd because of these emulsifiers
+以及这些高度加工食品的内容
+and the contents of these highly processed foods.
+实际上 人类的数据就是这一点
+In fact, the data in humans points to this.
+所以他们所做的就是他们带了住院的成年人
+So what they did is they took in-patient adults,
+因此他们完全控制了自己的食物摄入量
+so they had total control over their food intake.
+他们接受了超加工
+And they received either ultra processed
+或进行短期研究 14天的饮食
+or unprocessed diets for 14 days, as a short study.
+饮食中要搭配卡路里 糖
+The diets were matched for calories, sugar,
+脂肪 纤维和大量营养素
+fat, fiber, and macronutrients.
+所以其他所有东西都匹配了
+So everything else was matched.
+刚处理或未处理是主要变量
+Just processed or non-processed is the major variable.
+他们发现的
+And basically what they found,
+基本上是那些正在吃加工食品的人
+is that the people who are eating the processed food diet
+碰巧吃了更多
+happened to eat much more, right?
+这是在这期间他们要么饮食
+This was after this period of putting them on either diet
+严格控制所有其他变量
+and clamping for all other variables.
+然后他们会吃得更多
+Then they would eat much more,
+体重变化更多
+and the body weight changes were much more.
+那些体重变化的样子
+And those body weight changes,
+使得他们无法仅仅考虑
+were such that they couldn't be accounted for
+只是因为增加了卡路里
+by just increased calories.
+因此 最重要的是高度加工的食物
+So, the bottom line is that highly processed foods
+对你不好
+are just bad for you.
+它们会让你增加体重
+They increase weight gain.
+它们破坏肠壁
+They disrupt the lining of your gut
+以破坏诸如C​​CK之类的方式激素
+in a way that disrupts things like CCK
+破坏适当的饱腹感信号
+and proper satiety signals.
+它们包含一堆东西 尤其是糖
+And they contain a bunch of things, in particular sugars,
+还有其他的东西
+but other things as well,
+不仅破坏荷尔蒙系统
+that disrupt not just the hormonal systems
+还破坏控制饮食欲望的神经系统
+but also the neural systems that control the desire to eat
+在吃完之后
+after the diet is done.
+所以有很多原因
+So there's just so many reasons
+为什么这些高度加工的食物很糟糕
+why these highly processed foods are terrible,
+他们可以解释很多不良的健康影响
+and they can explain a lot of the ill health effects
+我们在过去50年中看到的
+that we've seen in the last 50 years
+不仅在美国 而且在世界各地
+not just in the United States, but all over the world.
+都显示出糖尿病 青少年糖尿病的巨大增加
+That enormous increase in diabetes, juvenile diabetes.
+非常显著
+It's just remarkable
+我们在节食这条路上已经走了那么远
+how far down the path of diet we've gone.
+很明显 这几乎像是一支吸烟枪
+And it's clear, it's almost a smoking gun
+那是什么原因造成的
+what the cause of this is.
+如果你想进一步了解
+If you'd like to learn more about that
+请参阅Lustig的讲座
+please refer to the Lustig lecture.
+他还阐明了为什么非加工食品
+He also spells out why non-processed foods
+要经济得多
+is far more economical in terms of
+就家庭  个人
+just at the level of the household or individual
+以及社会层面而言
+as well as at the societal level.
+真的很有趣
+Really interesting stuff,
+我强烈建议你去看一下
+I highly recommend you check it out.
+所以现在让我们继续研究其他激素
+So now let's move on to some other hormones
+调节饥饿感和饱腹感 尤其是胰岛素
+that regulate hunger and satiety, in particular insulin.
+那么  你可能以前听说过胰岛素
+Now, you've probably heard of insulin before.
+胰岛素是I型糖尿病患者所缺乏的
+Insulin is the thing that's lacking in type I diabetics,
+这就是为什么他们每次进食时都必须注射胰岛素
+that's why they have to inject insulin whenever they eat.
+他们必须这样做的原因是因为他们吃饭时
+The reason they have to do that, is because when they eat
+他们的食物分解成葡萄糖
+their foods are broken down into glucose.
+为了运输葡萄糖
+And in order to shuttle glucose
+到身体上适当的组织
+to the appropriate tissues in the body,
+并且为了控制血糖水平 你需要胰岛素
+and also to keep glucose levels in check, you need insulin.
+所以考虑胰岛素和葡萄糖的最简单方法
+So the simplest way to think about insulin and glucose
+是当你吃东西时 食物被分解成糖
+is that when you eat, that food is broken down into sugars,
+无论是脂肪还是糖 这都是事实
+that's true whether or not it's fats or it's sugars,
+或最终是蛋白质
+or eventually if it's proteins,
+正如我们所说 它们被氧化成燃料
+they are oxidized into fuels as we say.
+那些燃料可以被使用
+And those fuels can be used
+顾名思义 燃料意味着能量
+as the name fuel implies into energy,
+它们最终被制成ATP
+they're eventually made into ATP.
+那里有很多生化步骤
+There's a bunch of biochemical steps there
+我们今天不讨论
+we're not going to go into today,
+但这实质上就是它的工作方式
+but that's essentially how it works.
+你把食物分解成葡萄糖
+You break down food into glucose.
+那么  如果你是生酮饮食
+Now, if you're ketogenic,
+我们将稍作讨论
+we'll talk about that in a little bit.
+但总的来说 你吃的食物会变成葡萄糖
+But in general, you eat, food is turned into glucose.
+让你的血糖需要保持在特定范围内
+Your blood sugar needs to be kept in a particular range.
+低血糖意味着太低 高血糖意味着太高
+Hypoglycemic means too low, hyperglycemic means too high.
+他们称之为正常血糖EU 血糖
+And what they called euglycemic E-U, glycemic,
+是健康范围
+is the healthy range.
+那么  这健康范围是多少呢
+Now, what those healthy ranges are,
+一般而言 健康范围 正常血糖范围
+in general the healthy range, the euglycemic range,
+每分升约为70至100纳克
+is about 70 to a hundred nanograms per deciliter.
+但是你们大多数人都没有
+But most of you aren't walking around
+随身带着葡萄糖监测仪
+with a glucose monitor.
+你们中有些人可能会 但大多数人不是
+Some of you are, but most of you are not.
+对于我们现在要解决的更重要的问题
+The more important question for us to address right now,
+这就是为什么
+is why is it important
+葡萄糖保持在特定水平很重要？
+that glucose be kept at a particular level?
+一旦了解了这一点 就要检查血糖
+Once you understand that, keeping glucose in check
+开始有其背后的理由
+starts to have a rationale behind it
+并且这样做的方式变得更加有意义
+and the ways to do that start to make a lot more sense.
+所以原因是 如果血糖水平过高
+So the reason is, if glucose levels get too high
+因为我们的细胞特别是神经元的方式
+because of the way that our cells in particular neurons,
+与葡萄糖相互作用
+interact with glucose,
+高水平的葡萄糖会损害神经元
+high levels of glucose can damage neurons.
+它实际上可以杀死神经元
+It can actually kill them.
+你可以开始获取所谓的外周神经
+You can start getting what are called peripheral, excuse me, neuropathies.
+某些形式的糖尿病的症状之一
+One of the symptoms of some forms of diabetes
+就是人们开始失去触摸的感觉
+is that people start losing the sensation of touch
+在他们的手指 手或脚上
+in their fingers or their hands or their feet,
+他们会开始失去感觉
+and they can start going blind.
+有糖尿病性视网膜病变
+There's diabetic retinopathies.
+所以这很重要
+So it's very important,
+胰岛素可以控制你的血糖水平
+that insulin manage your glucose levels.
+那么  还有II型糖尿病
+Now, there's also type II diabetes
+通常患者的胰腺是分泌胰岛素的
+where there's insulin secreted from the pancreas,
+但是患者对胰岛素不敏感
+but people are insulin insensitive.
+受体被破坏
+There's a disruption in the receptors
+这与没有胰岛素
+and insulin insensitivity isn't quite the same
+完全不同
+as having no insulin at all,
+但有某些相同的机制
+but it parallels some of the same mechanisms.
+那么  I型糖尿病会经常被发现
+Now, type I diabetes is often picked up
+因为某人突然体重减轻
+because someone has a sudden weight loss,
+因为他们不像以前一样
+because they're not processing blood sugar
+能够加工血糖
+the same way they were before.
+II型糖尿病通常是
+Type II diabetes is often,
+虽然并不每次都是这样   但是通常与超重
+although not always associated with being overweight
+肥胖有关
+and with obesity.
+两者都是具有很难的情况
+Both of them are challenging conditions.
+II型糖尿病几乎总是可以控制的
+Type II diabetes almost always can be managed
+通过控制体重
+by managing one's weight.
+当然还有一些处方药和补品
+And of course there are prescription drugs and supplements
+可以帮助管理这些
+that can help manage those.
+我们将讨论所有这些
+We're going to talk about all of that.
+但是对于大多数没有糖尿病的人来说
+But for most people that don't have diabetes,
+重要的是要控制葡萄糖
+the important thing is to manage glucose,
+使其保持在正常血糖范围内
+to keep it in that euglycemic range.
+并且有许多不同的方法可以做到这一点
+And there are a number of different ways to do that.
+其中有些是行为举止 有些是基于饮食的
+Some of them are behavioral, some of them are diet based,
+其中一些是基于补品
+and some of them are based on supplements
+或处方药
+or prescription drugs.
+因此 现在让我们谈谈这些
+So let's talk about those now.
+因此 如果你吃东西 尤其是如果吃碳水化合物
+So if you eat, and in particular if you eat carbohydrates,
+血糖上升
+blood glucose goes up.
+如果你吃脂肪 血糖升高的程度要小得多
+If you eat fats, blood glucose goes up to a far less degree.
+如果你吃蛋白质 取决于蛋白质
+And if you eat proteins, depending on the protein,
+最终将被分解为燃料
+it will eventually be broken down for fuel
+或组装成氨基酸链以进行蛋白质合成
+or assembled into amino acid chains for protein synthesis
+并修复其他组织和身体功能
+and repair of other tissues and bodily functions.
+但是葡萄糖也会上升 然后保持在范围内
+But glucose goes up and then is kept in range.
+饥饿时会分泌一种不同的激素
+When you are hungry, you secrete a different hormone
+叫做胰高血糖素
+and that's called glucagon.
+胰高血糖素的主要作用是拉动能量储存
+And glucagon's main role, is to pull stores of energy
+从肝脏和肌肉中分离出来
+out of the liver and the muscles.
+一旦这些被耗尽
+And once those are depleted,
+你最终会吸收体内脂肪 好吧
+you'll eventually tap into body fat, okay?
+所以 这是对于那些
+So, and this is for people
+具有正常的血糖范围的人的
+that have a typical blood glucose range,
+也就是血糖范围在70至100之间的人
+so that 70 to 100 euglycemic range.
+因此 两种推拉系统
+So, the two kind of push and pull systems
+我们现在要考虑一下以保持这一简单性
+that we're going to think about now to keep this simple,
+是你有管理葡萄糖的胰岛素系统
+is that you have the insulin system managing glucose,
+胰高血糖素系统
+and you've got the glucagon system
+从肝脏和肌肉中抽出能量
+pulling energy out of your liver and muscles
+立即加油
+for immediate fuel.
+最终你会从体内脂肪中抽出燃料
+And eventually you'll pull fuel out of body fat
+如果你已经活动了很长时间
+if you've been active for a very long time
+你所有的糖原储量都枯竭了
+and all your glycogen stores are depleted
+或接近耗尽
+or close to depleted.
+那么 这意味着什么？
+So what does this all mean?
+这之中有很多重要的生物化学
+There's a lot of important biochemistry
+还有很多重要的细胞在工作
+and a lot of important cellar processes
+参与你的同化或分解代谢
+involved in whether or not your anabolic or catabolic.
+你是否正在分解物质
+Whether or not you're breaking things down
+或合成物质
+or building things up.
+但是 让我们讨论以一种更简单的方式进行进食
+Let's talk about feeding in a simpler way, however.
+让我们来编织管理血糖的工具
+And let's weave the tools to manage blood glucose,
+保持检查状态 就像我们那样做
+to keep it in check, as we do that.
+所以 假设你吃过饭
+So, let's say you had a meal
+那顿饭是米 碳水化合物
+and that meal consisted of rice, a carbohydrate,
+一些肉或鱼 比如说一块鲑鱼
+some meat or fish, let's say a piece of salmon,
+还有一些蔬菜 一些纤维状蔬菜
+and some vegetable, some fibrous vegetable
+像芦笋 白菜或类似的东西
+like asparagus or cabbage or something like that.
+如果你要一次吃所有这些
+If you were to eat all of that at once,
+你咬一口 另一口
+you know, you take a bite of one, a bite of the other,
+你将把它混合起来
+you're going to mix it up.
+这些食物 最终都到了同一个地方
+You know, one of these, it all ends up in the same place
+它们会混在一起
+kind of people, mix it all up.
+然后你会经历胰岛素的增加
+Then you'll experience an increase in insulin
+并增加血糖
+and increase in blood glucose
+速度适中
+that's moderately fast.
+它会迅速增加
+It's going to increase pretty quickly.
+其中非常惊人的事情是
+What's remarkable,
+你消耗每种宏观营养素的顺序
+is that the order that you consume each macro-nutrient
+对胰岛素的升高速度
+has a pretty profound influence on the rate of insulin
+葡萄糖分泌到血液中的速度
+and glucose secretion into the blood
+这些上升的速度  有非常深远的影响
+and how quickly those levels rise.
+因此 如果你将使其变得非常简单
+So if you will make it really simple.
+如果先吃米饭
+If you were to eat the rice first,
+你的葡萄糖会急剧上升
+your glucose would rise in a sharp spike,
+特别是如果它不包含任何需要减慢吸收的脂肪
+especially if it doesn't contain any fats to slow the absorption.
+那么  如果你非常饿
+Now, that might be good if you're very hungry
+而你想增加葡萄糖  那可能会很好
+and you want to get an increase in glucose.
+其实这就是原因
+In fact, this is the reason
+为什么经常在饭前吃面包 因为它是...
+why you're often served bread before meals, because it is...
+有时是面包和黄油
+And sometimes it's bread and butter,
+饭前或开胃菜或薯条
+or chips before meals or appetizers,
+旨在使你的血糖升高
+are designed to get your blood glucose going up high
+因为血糖急剧上升
+because big steep increases in blood glucose
+倾向于促进消耗更多葡萄糖的欲望
+tend to promote the desire to consume more glucose.
+这也与多巴胺系统有关
+And this also relates to the dopamine system
+以及口中是否美味
+and the way that something tasty in the mouth
+肠中有糖 口中有脂肪和糖
+and sugar in the gut and fats and sugars in the mouth,
+触发大脑中许多系统的激活
+trigger the activation of a lot of systems in the brain
+身体消耗更多你所拥有的
+and body to consume more of whatever you have
+或任何现有的东西
+or whatever is available to you.
+所以 基本思想是  如果先吃碳水化合物
+So, the basic idea is that eating carbohydrates
+和/或一餐中的脂肪
+and/or fats early in a meal
+会使血糖急剧上升
+will give a steep rise in blood glucose.
+但是 如果你先吃纤维的东西
+However, if you were to eat the fibrous thing first,
+咀嚼很多 但是血糖却没有大的上升
+so a lot of chewing, but not a big rise in blood glucose
+因为总的来说...
+because in general there's...
+除非它与糖在一块儿
+Unless it's laid in with sugar.
+或我们正在谈论的东西
+Or something we're just talking about
+一些蔬菜 纤维蔬菜
+some vegetable, fibrous vegetable,
+这实际上会钝化葡萄糖的释放
+that will actually blunt the release of glucose
+直到你吃了鱼和米饭
+until you eat the fish and the rice.
+但信不信由你
+But believe it or not
+它实际上会抑制吃大米引起的
+it will actually blunt the glucose increase
+葡萄糖的增加
+that the rice would cause.
+那么  我不是在谈论
+Now, I'm not talking about
+神经兮兮地  把每种常量营养素
+neurotically eating each macro-nutrient
+依次分开来吃
+separately in sequence.
+我只是想给你一个整体概念
+I'm just trying to give you a picture
+通常发生的是什么
+of what's happening ordinarily.
+所以这意味着
+So what this means is,
+如果你感到很多与食物有关的焦虑
+if you feel a lot of food related anxiety,
+或者你觉得自己是这些人之一
+or you feel you're one of these people
+你可以感觉到
+that you can kind of sense
+比如你的血糖上升非常快
+like your blood sugar increasing very quickly,
+很多人可以感觉到 有些人则不能
+a lot of people can sense this, some people can't,
+跟每个人的血糖管理水平有很大关系
+has a lot to do with how well they manage their blood sugar
+以及一些心理因素
+as well as some of the psychological factors.
+是的 跟家庭和历史原因有很大关系
+And yes, their family and historical reasons,
+你知道 我有一些有很多兄弟姐妹的朋友
+you know, I've got friends who had a lot of siblings,
+当他们坐下来吃饭时
+and when they sit down to eat
+他们必须克制住自己
+they have to really suppress the desire
+才能不跟桌上其他人抢吃的
+to not beat up everyone else at the table and take all the food.
+有点像...
+It's sort of like not...
+他们很难理解
+It's hard for them to understand
+东西是够吃的
+that there's plenty to go around,
+因为他们的成长过程就是那样
+because of their upbringing.
+因此 存在自上而下的心理影响
+So there are psychological top-down effects.
+关于食物的很多心理学
+A lot of the psychology around food
+旨在使人们在进食时放松身心
+is geared towards getting people to be relaxed when they eat
+还有这类事情
+and these sorts of things.
+但是这些血糖作用只是细胞的作用
+But these blood sugar effects are real just cellar
+和基本的生物化学
+and basic biochemistry
+身体如何管理摄入血液的糖分
+of how the body manages sugars ingested into the blood.
+那么 这意味着什么？
+So what does this all mean?
+这意味着如果你想急剧增加葡萄糖
+It means that if you want a steep increase in glucose,
+你非常非常饿
+you are very, very hungry,
+那么你应该先吃掉食物中的碳水化合物
+then you should eat the carbohydrate laid in food first,
+或者 你应该同时食用大量的常量营养素
+or you should eat a bunch of macronutrients combined.
+比如说汉堡包或三明治
+So that would be like the hamburger or the sandwich,
+面包 三明治中的所有东西
+the bread, the whatever's in that sandwich altogether,
+通常也包括蛋白质和蔬菜
+usually that's protein and vegetables as well.
+如果你想增加适度的血糖
+If you want to have a more modest increase in glucose
+或者你想抑制葡萄糖的增加
+or you want to blunt the increase in glucose,
+然后至少要有一些纤维
+then have the, at least some of the fibrous thing first,
+然后是蛋白质 然后是碳水化合物
+and then the protein and then the carbohydrate.
+你会注意到你的血糖
+You will notice that your blood glucose
+会更稳定地上升
+will rise more steadily,
+而且你会在餐前更早地达到饱腹感
+and that you'll achieve satiety earlier in the meal.
+至少你不会经历一个巨大的血糖高峰
+Or at least you won't get this huge peak
+有点像感恩节大餐
+at sort of the Thanksgiving meal effect.
+一部分观众可能在国外
+Some of you are international,
+你可能不庆祝感恩节
+so if you don't celebrate Thanksgiving
+那是在一年中的某个时候...
+is a time of year where...
+一年一次或一年两次
+It used to be the one-time a year or two times a year
+美国人会允许自己
+where Americans would give themselves permission
+吃大餐的时候
+to eat enormous meals.
+那么  这种情况似乎经常发生
+Now that seems to happen a lot more often.
+但是这种影响是  你吃饱了
+But there is this effect of you're full
+但是你渴望更多
+and yet you're hungry for more,
+那是因为你的血糖已经到了顶峰
+that's because your blood glucose has gone through the roof
+并且触发了许多其他机制
+and it's triggered a number of other mechanisms.
+通常也有大量的酒精摄入
+There's also usually a lot of alcohol consumption,
+和酒精本身 因为它是糖
+and alcohol itself because it's a sugar
+会非常非常急剧地增加血糖
+will increase blood glucose very, very sharply.
+取决于酒精
+It depends on the alcohol,
+有些酒精比其他酒精含有更多的糖
+some alcohols have more sugar than others.
+但是基本上你想避免的是
+But basically what you're trying to avoid
+血糖急剧上升
+are steep increases in blood sugar.
+和你吃食物的顺序
+And the order that you eat foods
+对此产生了巨大的影响
+has an enormous impact on that.
+产生巨大影响的另一件事
+The other thing that has an enormous impact
+影响葡萄糖的曲线
+on how long and shallow,
+多长  多浅  或有多陡峭
+or how steep that curve of glucose is,
+取决于你最近是否在动
+depends on on whether or not you recently were moving,
+吃完饭后开始动或之前在移动
+are moving or start moving after you eat.
+结果证明你的血糖水平
+So it turns out that your blood glucose levels
+可以通过运动  非常非常有力地进行调制
+can be modulated very, very powerfully by movement.
+如果你做任何剧烈的运动
+If you did any kind of intense exercise,
+甚至只是步行或慢跑
+or even just walking or jogging,
+或在吃东西之前骑自行车
+or cycling anything before you eat
+你的血糖水平会有所降低
+your blood glucose levels will be dampened somewhat.
+这与释放所谓的东西有关
+And that has to do with the release of something called,
+有人称它为GLUT4 听起来像...
+some people call it GLUT4, which sounds like glutton.
+也有人发音为GLUT4
+Other people call it GLUT4.
+这些都是参与运输葡萄糖
+These are things that are involved in shuttling glucose
+到体内的特定细胞
+to particular cells in the body,
+即针对肌肉和糖原存储
+namely toward muscle and glycogen stores
+并远离脂肪储存处
+and away from body fat stores.
+它与从血液中隔离葡萄糖有关
+It has to do with sequestering of glucose from the blood.
+关键是 如果你
+The point is that, if you're somebody
+在血糖调节方面苦苦挣扎
+who struggles with blood sugar regulation,
+除了使体重处于健康范围之外
+in addition to getting your body weight in a healthy range,
+做所有其他事情
+doing all the other sorts of things
+你应该做的
+that you should be doing,
+关键是要尝试一些动作
+the key thing is to try and get some movement,
+有时作为巡回餐
+sometime as circuit meal.
+那么  很少有人
+Now, very few people
+可以同时吃饭和走路
+can actually eat and walk at the same time,
+尽管我一直都这样做
+although I do it all the time.
+不是因为我要调节血糖
+Not because I'm trying to regulate my blood sugar
+但是只是因为我经常很忙
+but just 'cause I tend to be busy.
+我吃饭开车 忙着...
+I eat and drive, [mumbles] busy.
+如果我不播这个播客
+Busy if I'm not giving this podcast,
+那我可能在睡觉 在吃东西
+or if sleeping, I'm eating,
+除了我的窗口期
+but except the early part of the day when I fast.
+但最重要的是
+But the bottom line here is that,
+例如 如果你在用餐后步行30分钟
+if you, for instance take a 30 minute walk after a meal,
+你的血糖会以有益的方式
+your blood glucose will be blunted
+被钝化
+in ways that are beneficial.
+如果你在饭前的几个小时内锻炼过身体
+If you have exercised in the recent hours before a meal,
+那可能是有益的
+that can be beneficial.
+你食用食物的顺序是有益的
+The order that you consume foods is beneficial.
+而且 你可以吃一些东西
+And there are a few things that you can consume
+来调节血糖水平
+that can also adjust blood glucose levels.
+因此 让我们谈谈这些
+So let's talk about those,
+但我认为重要的是要夯实
+but I thought it was important to really tamp down
+不只是吃什么
+that it's not just what you eat,
+我们之前谈到过
+we talked about that before,
+还有吃这些东西的顺序
+but also the order that you eat those things,
+信不信由你
+believe it or not,
+无论你是否结合大量营养素
+whether or not you combine macro-nutrients,
+碳水化合物 蛋白质 脂肪和纤维状蔬菜
+carbohydrates, proteins and fats and fibrous vegetables.
+以及你最近是否有运动
+And whether or not you've moved recently.
+运动强度越高
+The higher intensity the movement,
+GLUT4增加得越大
+the greater the GLUT4 increase,
+而且血糖会变钝
+and the more that the blood glucose will be blunted
+你会把更多的血糖运输到糖原
+and you'll shuttle more of that to glycogen
+和肌肉储存上
+and muscle stores.
+甚至饭后运动
+And even just moving after a meal,
+即使只是一个轻松的步行
+even just a calm easy walk,
+真的可以让血糖更好地调节
+can really adjust the ways in which blood sugar regulated for the better.
+我不想在这种加工食品上坚持不懈
+I don't want to perseverate on this processed foods,
+隐藏着糖的东西太多了
+hidden sugars thing too much.
+但是现在了解
+But understanding now
+关于胰岛素和葡萄糖的工作原理
+a little bit about how insulin and glucose work,
+你可能可以想象为什么隐藏的糖
+you can probably imagine why hidden sugars
+从加工食品制造商的角度来看
+are such an attractive thing
+是如此吸引人的东西
+from the standpoint of processed food manufacturers.
+因为如果他们可以把糖放进去 那你甚至都不会尝到
+Because if they can put sugar in that you can't even taste,
+糖会增加你体内葡萄糖的量
+that sugar is going to amplify the amount of glucose,
+它会增加葡萄糖的增加速度
+it's going to increase the rate of glucose increase
+进入你的血液
+into your bloodstream
+它将促进更多的进食
+and it's going to promote more feeding.
+因此 在那种情况下 真的是落入了圈套
+So in that case, you're really being tricked.
+不是说你真的要
+It's not that you're actually reaching
+去吃额外的开胃菜
+for the additional appetizer
+并且你的血糖上升
+and your blood glucose is going up.
+你吃的食物
+The food that you ate
+实际上可以在你进食时增加食欲
+is actually increasing your appetite as you eat it.
+这是一个积极的反馈回路
+It's a positive feedback loop.
+所以不想再妖魔化那些我已经说过的东西
+So don't want to demonize those any more than I already have,
+但你应该知道这些事情正在发生
+but you should be aware that these things are happening
+在你的血液和大脑的水平
+at the level of your bloodstream and brain.
+我想谈谈另一件事
+The other thing I'd like to address for a moment,
+这是稳定血糖的概念
+is this notion of stable blood sugar
+相对于放置胆汁血糖或不稳定血糖
+versus lay bile blood sugar or unstable blood sugar.
+有些人只是血糖稳定
+Some people just have stable blood sugar.
+他们可以长时间不吃东西
+They can go long periods of time without eating
+而且感觉还不错
+and feel fine.
+别的人就会身体不支 开始发抖
+Other people get really shaky, really jittery,
+当他们吃东西时 他们会觉得自己很紧张
+and/or when they do eat, they feel really keyed up.
+有时他们甚至会出汗
+Sometimes they'll even sweat.
+有时他们的视线会变得模糊
+Sometimes their vision will go blurry.
+其中一些实际上可能是
+And some of that can actually be
+因为他们已经成为高血糖患者
+because they've become hyperglycemic.
+以及你所经历的那些
+And those effects that you experience
+血糖过高时的影响 预警信号是
+when you are hyperglycemic are the early warning signs
+损害神经元的各种事物
+of the kinds of things that damage neurons
+并导致真正可怕的东西
+and lead to the really terrible stuff
+他们像周围神经一样谈论过
+they talked about before like peripheral neuropathies.
+那么  这些事情要花一些时间
+Now, it takes some time for those things to occur,
+这些神经疾病的发生
+those neuropathies to occur.
+但是血糖是否到处都是
+But whether or not your blood sugar is all over the place
+或是否稳定
+or whether or not stable,
+可能会受到许多因素的影响
+can be impacted by a number of things.
+这些事情之一就是运动
+One of those things is exercise.
+所以这些天有很多兴趣
+So these days there's a lot of interest
+在他们所谓的第 zone-2 有氧运动
+in what they call zone two cardio,
+就是那种有氧运动的稳态
+which is that kind of steady state cardio,
+可以鼻呼吸的地方
+where you can just nasal breathe
+即使输出很高
+even at pretty high output,
+在这里你可以进行对话
+where you could maybe have a conversation.
+虽然我强烈赞同
+Although I'm such a huge proponent
+运动期间鼻呼吸
+of nasal breathing during exercise,
+大多数运动形式 特别是zone-2 有氧运动
+most forms of exercise especially zone two cardio,
+在做有氧运动时
+that you probably shouldn't be talking
+你可能不应该说话
+while you're doing that cardio
+除非绝对必要的对话
+unless it's absolutely essential.
+但是zone-2 有氧运动的时期
+But periods of zone two cardio
+持续30分钟到一个小时
+that lasts anywhere from 30 minutes to an hour
+或有时更多的耐力运动员
+or sometimes more for your endurance athletes,
+可以对血糖调节产生积极影响
+can create positive effects on blood sugar regulation,
+这样你就可以坐下来享受其中的一切
+such that you people can sit down and enjoy whatever it is,
+热软糖圣代
+the hot fudge sundae,
+或任何含糖量高的食物
+or whatever the high sugar content food is.
+而且血糖管理非常好
+And blood glucose management is so good.
+你的胰岛素敏感性非常高 这是一件好事
+Your insulin sensitivity is so high, which is a good thing,
+你可以控制血糖
+that you can manage that blood glucose
+到真正不能让你动摇的地步
+to the point where it doesn't really make you shaky,
+它不会打扰你正常生活
+it doesn't disrupt you.
+而且 与体重有关的问题更不用说了
+And you know, to say nothing of the weight-related issues
+或肥胖的脂肪等等
+or the adipose fat gain, et cetera,
+那是一个单独的问题 因为那里的人们各不相同
+that's a separate issue because people vary there.
+但基本上 zone-2 有氧运动要进行30到60分钟
+But basically doing zone two cardio for 30 to 60 minutes,
+一周三到四次
+three to four times a week
+才能使你的血糖真正稳定
+makes your blood sugar really stable,
+出于各种原因 这是一件有吸引力的事情
+and that's an attractive thing for a variety of reasons.
+另一方面 高强度间歇训练
+On the flip side, high intensity interval training
+或阻抗训练  又称重量训练
+or resistance training AKA weight training,
+擅长刺激各种分子
+are very good at stimulating the various molecules
+促进糖原的重新包装
+that promote repackaging of glycogen.
+冲刺 举重 循环举重
+So sprints, heavy weight lifting, circuit type weightlifting
+只要有一定程度的阻抗
+provided there is some reasonable degree of resistance,
+那些会触发的机制是各种各样的
+those are going to trigger are all sorts of mechanisms
+会鼓励身体
+that are going to encourage the body
+将葡萄糖转运回糖原中
+to shuttle glucose back into glycogen,
+转化为糖原 转化为肌肉组织
+converting to glycogen, into muscle tissue,
+重新储存肝糖原等
+restock the liver, et cetera.
+消耗一个人的糖原实际上需要一些时间
+Depleting one's glycogen actually takes some time.
+如果你做几套三头肌扩展
+You know, if you do a couple sets of tricep extensions
+有一些收缩 你并没有耗尽糖原
+and some crunches, you're not depleting your glycogen.
+糖原消耗训练 的强度非常大
+Glycogen depleting workouts are very high intensity.
+通常他们不到一个小时左右
+Generally they're less than an hour or so,
+但是那是那种
+but those are the sort
+将导致各种酶和代谢途径
+that are going to lead to big increases
+大幅增长的运动
+in the kinds of enzymes and metabolic pathways
+它将重新包装糖原并运送大多数东西
+that are going to repack glycogen and shuttle most things
+恢复食物
+towards restorage of foods
+不进入脂肪组织 不变成脂肪
+not into adipose tissue, not into fat,
+但摄取葡萄糖并将其转化为燃料
+but taking glucose and making it into fuels
+储备好 你之后可以用
+that you can access later
+进行更多的高强度活动
+for more of that high intensity activity.
+我要提到的优势之一
+And I should mention that one of the advantages
+高强度间歇训练
+of high intensity interval training
+或各种举重
+or weightlifting of various kinds,
+是因为它会让基础代谢率
+is that it causes long standing increases
+长期提高
+in basal metabolic rate.
+我不想讲的太多
+I don't want to go too far down this path
+因为我们之后要做整整一个月的播客
+because we're going to do an entire month
+将对人类表现和运动表现的影响
+on human performance and athletic performance.
+不仅是肌肉的增加
+But it's not just the increases in muscle
+增加新陈代谢 因为肌肉燃烧更多的能量
+that increase metabolism, because muscle burns more energy
+比其他类型的组织
+than other types of tissues,
+除了你的大脑 它真正消耗了最多的能量
+except your brain, which truly burns the most energy.
+反正是主要原因
+Anyway is the main reason
+为什么你的基础代谢率是原来的水平
+why your basal metabolic rate is what it is.
+好吧 高强度训练
+Well, high-intensity training.
+所以可能是冲刺
+So it could be sprints,
+可能是高强度间歇训练
+it could be high intensity interval training
+不同种类的 可能是重量训练
+of different kinds, it could be weight training,
+也有增加生热的作用
+also has an effect of increasing thermogenesis
+甚至在完成练习后很长时间
+even long after you've completed the exercise.
+所以有一段很长的余热
+So there's a long tail.
+运动后有一种新陈代谢作用
+There's a kind of post exercise metabolic effect
+这也是有益的
+that's also beneficial.
+所以它不是“可能”
+So it's not an either or,
+真的是要高强度间歇训练
+it's really that high intensity interval training
+和抵抗训练
+and resistance training.
+出于某种原因 这种事情非常好
+And things of that sort are very good for one reason.
+而由于其他原因 Zone2有氧运动也非常好
+And the zone two cardio is very good for other reasons.
+现在你可以明白为什么这只是健康的事情
+And now you can see why it's just a healthy thing
+以及为什么大多数人应该在一周中的大多数日子中做运动
+and why most people should probably be doing exercise
+如果不是一周中的每一天
+most days of the week, if not every day of the week.
+如果你的目标是控制血糖
+If your goal is to manage blood glucose
+你的目标是管理一些新陈代谢的因素
+and your goal is to manage some of the metabolic factors
+控制糖原的重新包装
+that control repackaging of glycogen
+并努力让多余的葡萄糖
+and encouraging excess glucose
+不转移成为人体脂肪存储
+to not get diverted into body fat stores.
+今天我们关于脂肪的讨论不多
+We haven't talked a lot about lipids today,
+这是因为今天大多数讨论都与荷尔蒙有关
+that's because most of today's discussion is about hormones
+胰岛素是
+and insulin is the dominant hormone
+在调动和控制体内葡萄糖方面的主要激素
+in terms of mobilizing and managing glucose in the body,
+至少对于大多数人来说是这样
+at least for most people.
+但是脂肪很重要
+But fats are very important.
+还有一些关于脂肪的轶事
+And there's just a little anecdote about fats
+我认为这对思考很有用
+that I think will be useful in thinking
+关于为什么要管理
+about why you want to manage
+他们称为LDL或HDL比率
+what they call the LDL or HDL ratios.
+这值得一整集
+And this is deserving an entire episode,
+很多 甚至几集
+many, perhaps even several episodes.
+但是你们当中有些人可能熟悉LDL和HDL
+But some of you may be familiar with LDLs and HDLs,
+你们中有些人可能不知道是什么
+some of you may not.
+LDL是低密度脂蛋白
+The LDL is low density lipoprotein.
+这是你不希望它过高的一种脂蛋白
+This is the one that you don't want it to be too high.
+Costallo在做梦 他在叫
+Castillo's dreaming, he's barking.
+他爱各种形式的胆固醇
+He loves all forms of cholesterol
+但这只是Costallo的梦
+but that's just Castillo dreaming.
+因此 LDL是你想要保持较低的水平
+So LDLs are the ones that you want to keep low.
+你不希望这个物质的水平过高
+You don't want those to go excessively high.
+HDLs 高密度脂蛋白
+HDLs, the high density lipoproteins
+是所谓的健康脂蛋白
+are the ones that are the so-called healthy lipoproteins.
+一切都很好
+That's all fine and good.
+但是你可能会问自己 它们 的功能是什么？
+But you might ask yourself, what are they doing?
+这些东西的实际作用是什么
+What is the actual role of these things,
+为什么要健康水平的HDL
+and why would you want healthy levels of HDL
+而不是太多的LDL？
+and not too much LDL?
+嗯 原因之一是
+Well, one of the reasons is,
+脂肪不溶于水 对不对？
+that fats don't like water, right?
+它们是疏水的
+They are hydrophobic.
+但是你需要在血液中移动脂肪
+And yet you need to move fats in your bloodstream,
+人体所有组织都需要脂肪
+all tissues in your body need fats.
+他们需要胆固醇 它们是...
+They need cholesterols, they're...
+在上一集中 我们谈到了胆固醇
+In last episode we talked about cholesterol
+是性类固醇激素的前体
+is a precursor to the sex steroid hormones,
+雌激素 以及睾丸激素和其他激素
+estrogen, and testosterone and other hormones as well.
+好吧 HDL和LDL实际上可以包裹脂肪
+Well, HDL and LDL, actually coat fats
+使它们能够通过血液运输
+to allow them to be transported through the bloodstream.
+他们也做很多其他事情
+They do a number of other things as well.
+但是HDL是运输脂肪的系统的关键组成部分
+But HDL, is a key component of the delivery system
+这个系统把那些脂肪带到肝脏 卵巢
+that brings those fats to the liver, ovaries,
+睾丸和肾上腺
+testes, and adrenals.
+换句话说 拥有足够水平的HDL是件好事
+In other words, having adequate levels of HDL is good,
+因为它让脂肪被输送到组织
+because it allows fats to be delivered to the tissues
+制造睾丸激素 雌激素
+that manufactured testosterone, estrogen,
+皮质醇的健康水平和肝脏
+cortisol in healthy levels and the liver.
+这就是为什么当LDL太高时
+So this is why when LDLs are too high
+会发生的事情是
+what's happening is you're not getting fats
+该胖的地方不胖
+to the correct tissues.
+你会积聚脂肪
+And you can get buildup of fats
+比如脂肪肝
+like fatty liver disease
+而且其中某些事情可能会发生
+and some of these things can happen.
+糖含量高
+A high sugar content
+甚至会导致某些脂肪肝疾病
+can even lead to some of these fatty liver conditions
+那开始发生
+that starting to happen
+实际上是人类历史上的第一次
+is actually the first time in human history perhaps
+无论如何我们都知道
+that we're aware of anyway.
+我们开始看到肝脏疾病
+That we're starting to see liver conditions
+之前通常只与严重酗酒有关
+that normally were associated only with severe alcoholism
+现在开始来自含糖量
+starting to come from sugar content.
+那么这是什么意思？
+So what does this mean?
+这意味着你得关注并保持你的LDL和HDL比率正确
+This means keep your LDL and HDL ratios proper.
+你需要那些HDL来传递脂肪分子
+You want those HDLs in order to deliver fatty molecules
+到使用胆固醇的组织
+to the very tissues that use cholesterol
+为了制造激素
+in order to manufacturer hormones.
+那么如何使LDL和HDL保持适当的比例呢？
+So how do you keep LDLs and HDLs in their proper ratios?
+好吧 很多人没有意识到这一点
+Well, a lot of people don't realize this,
+但是关于饮食中胆固醇的争论
+but the debate about dietary cholesterol
+及其与低密度脂蛋白和高密度脂蛋白比率的关系
+and its relationship to LDL and HDL ratios,
+这是一场持久的辩论
+it is a barbed wire debate.
+我现在不想参加到其中
+I don't want to get into it right now.
+因为仍然有很多悬而未决的问题
+There are still a lot of open questions
+关于饮食中胆固醇的多少
+as to how much dietary cholesterol
+影响LDL和HDL比率
+impacts LDL and HDL ratios.
+我现在不想讲这个
+I don't want to get into that now,
+我都不采取任何立场
+I'm not taking a stance either way.
+但是很清楚的事
+But what is very clear,
+血糖高度升高的人
+is that having highly elevated glucose,
+他们摄入了太多的糖
+consuming too much sugar
+或无法控制体内的葡萄糖
+or not managing glucose in your body
+通过一些机制
+through some of the mechanisms
+直到现在我们一直在谈论
+that we've been talking about up until now,
+这会对LDL HDL比率产生负面影响
+can also negatively impact LDL, HDL ratios.
+因此 控制葡萄糖水平远远超出了
+So managing glucose goes way beyond
+控制血糖
+just managing blood sugar,
+还要确保你不会过多摄取体内脂肪
+and making sure that you don't lay down too much body fat,
+确保你的新陈代谢保持高水平
+making sure your metabolism stays high
+并确保你在用餐时不会感到紧张
+and making sure you're not getting jittery at meals.
+这也与
+It also has to do with
+确保你创建了足够的分子HDL
+making sure that you're creating enough of the molecules HDL
+并且没有太多的LDL
+and not too many of the molecules LDL,
+将会破坏事物的传递
+that are going to disrupt the delivery of things
+到你的身体器官
+to the organs of your body
+阻止你的睾丸激素水平保持健康水平
+that allow you to make healthy levels of testosterone,
+影响雌激素等
+estrogen, and so forth.
+如果不清楚 那么让我简化一下
+If that wasn't clear, let me make this ultra simple.
+你需要健康的HDL水平
+You want healthy levels of HDL,
+而且要低水平的LDL
+and you want low levels of LDL,
+因为如果你有卵巢
+because if you have ovaries
+它将允许到达卵巢的脂肪
+it will allow the fats that need to get to the ovary
+产生雌激素 到达那里
+to produce estrogen, to get there.
+如果你有睾丸 它将允许脂肪
+And if you have testes, it will allow the fats
+和你需要的胆固醇分子
+and the cholesterol molecules that you need
+到达睾丸后 能够制造睾丸激素
+in order to manufacture testosterone to get to the testes.
+同样 为了具有适当的肾上腺功能
+As well, in order to have proper adrenal function
+和适当的肝功能
+and proper liver function,
+你希望HDL和LDL处于正确的健康水平
+you want HDL and LDL in the healthy correct levels.
+所以现在我们已经讨论了很多行为工具
+So now we've talked a lot about behavioral tools
+以及潜在的生物学机制
+and the underlying biological mechanisms
+在特定情况下证明这些工具是合理的
+that justify those tools in particular circumstances.
+那么  我想谈谈补充剂和处方药
+Now, I'd like to turn to supplements and prescription drugs
+调节荷尔蒙系统
+that regulate the hormone systems,
+控制进食和饱腹感
+controlling feeding and satiety.
+其中有很多
+There are a huge number of these.
+有些具有比其他更强大的效果
+Some have more powerful effects than others.
+我想描述两个
+There are two that I want to describe
+因为最近它们受到了很多关注
+because they've been getting a lot of attention recently.
+首先 有一种处方药二甲双胍
+First of all, there's a prescription drug Metformin,
+被开发为治疗糖尿病的药物
+which was developed as a treatment for diabetes.
+它有效地降低了血糖
+And it works potently to reduce blood glucose.
+它在降低血糖方面具有显著作用
+It has dramatic effects in lowering blood glucose.
+二甲双胍涉及线粒体作用的改变
+Metformin involves changes to mitochondrial action
+在肝脏中
+in the liver.
+这是消耗或减少血糖的主要方法
+That's its main way of depleting or reducing blood glucose.
+它是通过所谓的AMPK途径实现的
+And it does so through the so-called AMPK pathway,
+并且整体上增加了胰岛素敏感性
+and it increases insulin sensitivity overall.
+二甲双胍是一种功能强大的药物
+Metformin is a powerful drug.
+其实我很惊讶这么多人
+In fact, I'm surprised that so many people
+考虑到大多数人
+have sought it out, given that most of the people
+我知道所寻求的不是糖尿病
+that I'm aware of that sought it out are not diabetic.
+我认为对于糖尿病患者来说 这似乎是一种有用的药物
+I think for diabetics it seems to be a useful drug.
+对于非糖尿病患者 当然也可以
+For non-diabetics, it can also of course,
+降低血糖
+lower blood glucose.
+它还具有使人们降血糖的潜力
+It also has the potential to make people hypoglycemic,
+真正降血糖
+genuinely hypoglycemic.
+因此 你确实需要谨慎使用二甲双胍
+So, you really need to approach Metformin with caution.
+我有点担心
+I get a little concern
+当我听到有人疯狂摄入二甲双胍时
+when I hear about people blasting Metformin,
+仅仅是因为禁食状态或低血糖状态
+simply because fasted states or low blood sugar states
+原本是健康的
+are healthy.
+药理学上这样做会产生长期影响
+Doing that pharmacologically can have long standing effects.
+你确实需要谨慎处理该药物
+You really want to approach that with caution.
+那么  有一种可比的药物
+Now, there's a comparable drug,
+它真的应该被称为"药品"
+it really should be called a drug.
+但这不是处方
+But it's non-prescription,
+在那里也有相当突出的用途
+that's also in fairly prominent use out there
+叫黄连素 对
+called berberine, B-E-R B-E-R-I-N-E, berberine, correct.
+因此 黄连素是一种非常有趣的化合物
+So berberine is a really interesting compound.
+它的作用非常类似于二甲双胍
+Its actions very much mimic Metformin.
+因此 让我们再谈一谈黄连素
+So let's talk about berberine for a second.
+小碱实际上来自各种植物和树皮
+Berberine actually comes from various plants and tree bark.
+它在补品商店中出售 在网上出售
+It is sold in supplement stores, it's sold online.
+据我所知 它是强大的
+It is, as far as I know unregulated, it is powerful.
+如果你要尝试使用黄连素
+If you're going to experiment with berberine,
+你肯定想和你的医生谈谈
+you definitely want to talk to your doctor
+并且你要谨慎处理它
+and you want to approach it with caution.
+它还可以激活所谓的AMPK途径
+It also works to activate the so-called AMPK pathway.
+AMPK代表
+AMPK by the way stands for
+腺苷单磷酸激活蛋白激酶AMPK
+Adenosine Monophosphate-activated protein kinase, AMPK.
+并且它抑制蛋白质酪氨酸磷酸酯的1B途径
+And it inhibits a protein tyrosine phosphates 1B pathway.
+行了 说够了不说了
+I think that's enough nomenclature.
+它会激活某种途径
+It activates a certain pathway
+与空腹和低血糖有关
+that's associated with fasting and low blood glucose.
+据我所知 黄连素的作用是
+The effects of berberine are as far as I can tell,
+当看文献时 会发现
+when looking at the literature,
+它与二甲双胍非常相似
+are very similar if not identical to Metformin.
+那么  对此的研究数量很多
+Now, the number of studies out there on this are many.
+所以我将要回顾其中的一些
+So I'm just going to review a few of them
+及其主要影响
+and their major effects.
+与往常一样 我邀请你检查一下examine.com
+As always, I invite you to check out examine.com.
+这是一个很棒的网站
+It's a wonderful website
+你可以在其中添加任何补充剂或化合物
+where you can put in any supplement or compound
+或生物学目标
+or biological goal for that matter.
+它将列出各种效果
+And it will list out the various effects
+在人类效应矩阵中
+in the human effect matrix.
+因此 如果有的话 对人类进行研究
+So studies on humans, if they're available.
+它会告诉你它们是否有效
+And it will tell you whether or not they're strong effects
+或微弱的影响或适度的影响
+or weak effects or modest effects.
+它将指向特定的受试者人群
+And it will point to the specific subject population,
+这是一个很棒的资源
+it's a wonderful resource.
+因此 黄连素在降低血糖方面具有很强的作用也就不足为奇了
+So berberine, not surprisingly has very strong effects in lowering blood glucose.
+对此有四项研究
+There are four studies on this.
+实际上 他们说黄连素是其中一种
+In fact, they say that berberine is one of the more
+非常有效的当作降低血糖的补品
+if not the most effective supplements for lowering blood glucose.
+它谈论那里的剂量
+It talks about dosages there.
+尽管我只会提到我尝试了黄连素
+Although I'll just mention that I've tried berberine,
+和瓶子上的典型剂量
+and the dosages that are typical on the bottle
+大多数补品中的含量都比我需要的要高得多
+of most supplements, is much higher than I needed.
+所以当我服用黄连素时 发生了两件事
+So when I took berberine, two things happened,
+首先 我头痛欲裂
+first of all, I got a pretty splitting headache.
+这让我头疼得厉害
+It gave me pretty vicious headache.
+所以对我来说几乎是立即不行
+So for me it was a no, almost immediately.
+另一件事是 我变得血糖不足
+The other thing is, I became so hypoglycemic.
+为了使我的血糖回升
+That in order to get my blood sugar back up,
+我想我吃了10个甜甜圈
+I think I ate something like 10 donuts
+而且我不觉得自己摄取了那么多糖
+and I didn't feel like I had ingested all that much sugar.
+真的很奇怪
+It was really kind of weird.
+我食糖过多
+I was hyperphagic for sugar.
+我非常渴望糖 渴望糖
+I was craving sugar, craving sugar
+而且我也很口渴
+and I was very thirsty as well.
+因此 我不想提倡任何不良行为
+And so, I don't want to promote any bad behavior,
+但我知道某些人会使用这个
+but I know that certain people use this
+当他们吃糖过多时
+when they've overeaten sugars
+或者他们正在cheating day
+or they're doing their cheat days,
+我个人不喜欢这个做法
+something that I'm personally just not a fan of.
+他们想控制血糖
+And they want to keep their blood sugar in check
+或者他们知道自己要吃一顿大餐
+or they know they're going to consume a huge meal.
+他们会服用黄连素来保持血糖水平
+They'll take berberine to keep blood glucose clamped.
+它确实做到了
+And it does do that.
+它具有非常强的作用
+It has very strong effects.
+三项同行评议的HbA1c水平研究
+Three peer reviewed studies on HbA1c levels.
+HbA1c是可以在血液测试中测量的东西
+HbA1c is something that can be measured in a blood test.
+那是过去的两三个月里
+That is sort of an average readout
+血糖水平的
+of your blood sugar levels
+平均值
+over the previous two or three months,
+有时会更短
+sometimes shorter period.
+但这主要是HbA1c的目的
+But that's mostly what HbA1c is about.
+因此 它可以从根本上降低你的血糖水平
+So, it radically decreases your blood sugar levels.
+它实际上降低了胆固醇
+It actually lowers cholesterol.
+它会记住肝脏
+It acts remember on the liver,
+肝脏参与胆固醇代谢
+and the liver is involved in cholesterol metabolism.
+记住 这都是糖 血糖
+And remember it's both sugars, blood glucose,
+和饮食脂肪
+and dietary fats.
+也许市面上关于这个的话题仍在激烈辩论中
+Perhaps it's still heavily debated
+就血液中的总胆固醇
+in terms of how your blood total cholesterol
+是否会限制HDL和LDL水平这个问题
+HDL and LDL are regulated.
+似乎是降低了总胆固醇
+So it seems to lower total cholesterol,
+似乎同时降低了HDL和LDL
+and it seems like it lowers HDL and LDL in parallel.
+这很有趣
+So that's interesting.
+一项研究显示HDL略有增加
+One study showed a minor increase in HDL,
+也就是所谓的好胆固醇
+the so-called good cholesterol.
+然后胰岛素水平下降 不足为奇
+Insulin levels dropped, not surprising.
+另一项研究表明LDL略有下降
+Another study showed a slight decrease in LDL,
+虽然似乎是次要的
+though seem to be kind of minor.
+这是一种有趣的事情
+Here's a kind of interesting one,
+只是为了帮助你记住黄连素
+just to help you remember berberine
+由于它来自树皮
+as of the fact that it comes from tree bark,
+这可能并不能让你足以记住它
+isn't trigger enough to remember it.
+但如果说黄连素去直接接触溃疡疮
+Direct contact of berberine on canker sores
+似乎可以很快消除溃疡疮
+seems to eliminate canker sores very quickly,
+这很酷
+which is kind of cool.
+几年来我没有溃疡疮
+I've not had canker sores in a few years
+但是当我患上的时候 会非常痛
+but when I dig down, they're extremely painful.
+我不喜欢那些
+I don't like those.
+所以这很有趣
+So that's kind of interesting,
+那里有一些研究参考
+and there's some study references there.
+我发现这些化合物的存在令人惊讶
+I find it amazing that these compounds exist.
+你有这种处方药二甲双胍
+You've got this prescription drug Metformin,
+然后有黄连素 这是树皮上的东西
+and then you've got berberine, this stuff from tree bark,
+而且它们的效果基本上是等价的
+and they have effects that are essentially equivalent to one another.
+再说一次 我不提倡使用它们
+So again, I'm not promoting their use
+甚至只是尝试
+or even their exploration,
+但是那些化合物确实存在 它们在那里
+but those compounds do exist, they're out there.
+如果你想了解更多信息 请访问examine.com
+And check out examine.com if you'd like to learn more.
+当然 你可以阅读 做好相关准备
+Certainly do your reading, do your homework,
+在开始之前 请说明
+before you start just popping the stuff.
+如果你患有低血糖或高血糖症
+And if you have hypoglycemia or hyperglycemia,
+要特别小心 也要了解剂量
+be especially careful and also do understand that dosages
+剂量要求各不相同
+and dose requirements vary.
+所以如果你想要用这些物质
+So if you do go down this path,
+请认真对待事情
+really approach things carefully.
+一律以最低用量开始
+Always start with the lowest amount
+你可以马上停止的剂量
+that you could get away with.
+对我来说 头痛的事使它一去不复返
+For me, the headache thing just made it a no-go.
+我确实保留了一瓶完整的信息
+I do keep a bottle of it in a full disclosure,
+偶然的机会
+in the odd chance
+我觉得自己想吃很多甜甜圈
+that I feel like eating a ton of doughnuts.
+不摄取卡路里的意义不大
+It's not so much about not ingesting the calories,
+只是我不喜欢这种感觉
+it's just that I don't like the feeling
+血糖过高
+of being hyperglycemic,
+视线模糊 感觉很糟糕
+the blurry vision, just feeling lousy,
+我喜欢甜甜圈
+I do love donuts.
+其他以补充剂形式影响血糖的物质
+Other things that impact blood glucose in supplement form.
+铬在29项研究中已显示出微量元素
+Chromium has been shown in 29 studies to have a minor,
+我想强调一点对降低血糖的作用
+I want to emphasize a minor effect on reducing blood glucose.
+左旋肉碱
+Things like L-carnitine,
+我们之前在播客上讨论过的物质
+something we've talked about here on the podcast before
+就其与ATP之间
+in terms of its relationship
+为ATP生产提供动力的这种关联
+to power output in ATP production
+对于有氧运动和无氧运动
+for both aerobic and anaerobic exercise,
+以及精子质量和卵子质量
+as well as sperm quality and egg quality.
+我们早就谈论过了
+We talked about that long ago.
+人参等东西可以对人产生积极影响
+Things like Panax ginseng can have positive effects on,
+我应该说 会有效果
+I should say, can have effects
+降低血糖的效果
+of reducing blood glucose slightly.
+我不想评判这种效果
+I don't want to give a valence to or judgment
+是正面还是负面的
+to whether or not it's positive or negative.
+这很有趣
+Here's something that's interesting
+你应该知道的
+that you should know about.
+咖啡因已被非常可靠地证实
+Caffeine has very reliably been shown
+会增加一点点的血糖 好吧
+to increase blood glucose just a little bit, okay?
+但是我一直以为咖啡因会降低血糖
+So I always thought that caffeine would drop blood glucose,
+但实际上可以稍微增加血糖
+but it actually can increase blood glucose just slightly.
+像镁一样的东西
+Things like magnesium.
+我们谈到过镁
+We talked about magnesium
+作为补剂 是帮助睡眠的工具
+as a tool for enhancing the passage into sleep,
+特别是苏糖酸镁和双甘氨酸盐
+in particular magnesium threonate and bisglycinate.
+镁还可以使血糖适度降低
+Magnesium can also have a modest reduction in blood glucose.
+你只是想获得印象
+You're just trying to get the impression,
+一切都会降低血糖
+everything reduces blood glucose,
+但事实并非如此
+but that's certainly not the case.
+然后几集前
+And then a couple episodes ago
+当我们讨论营养时
+when we were discussing nutrition
+我们谈到了人造甜味剂三氯蔗糖
+we talked about artificial sweeteners, sucralose,
+阿斯巴甜 NutraSweet
+aspartame, NutraSweet.
+其中一些是通用名称
+Some of those are generic names.
+其中一些可能是品牌名称
+Some of those might be brand names
+以及它们如何对肠道微生物组产生负面影响
+and how they have negative effects on the gut microbiome
+这得到了许多研究的支持
+and that's supported by a number of studies.
+有一种人造甜味剂 是甜叶菊 甜叶菊
+There's one artificial sweetener, it's stevia, S-T-E-V-I-A,
+似乎只是稍微降低了血糖
+which seems to lower blood glucose just slightly.
+而且我仍然找不到数据
+And I still can't find data
+甜叶菊是否会影响肠道微生物组
+on whether or not Stevia impacts the gut microbiome
+在任一方向上
+in either direction.
+我吃的许多东西
+Many of the things that I consume
+里面确实有少量的甜叶菊
+do have small amounts of Stevia in them.
+所以我很想知道是否有人
+So I'd love to know if anyone out there
+有了解到有相关的高质量的同行评审研究
+is aware of quality peer reviewed research,
+甜叶菊是否会影响肠道微生物组
+as to whether or not Stevia impacts the gut microbiome
+与其他人造甜味剂相似或不同
+similarly or differently from other artificial sweeteners.
+如果有人知道 请告诉我
+Please let me know.
+请给我参考
+Please send me the references.
+我真的很感激
+I'd really appreciate it
+可以将其放在YouTube或其他地方的评论部分中
+if put it in the comment section on YouTube or elsewhere.
+YouTube上的评论部分将是最好的地方
+Comment section on YouTube would be the best place.
+因此 甜叶菊似乎会稍微降低血糖
+So Stevia seems to lower blood glucose a little bit,
+这使其成为一种有吸引力的人造甜味剂
+which makes it kind of an attractive artificial sweetener
+如果要使用人造甜味剂
+if one is going to use artificial sweeteners.
+但请记住 甜味本身
+But remember, sweet taste itself
+激发了进食的欲望
+stimulates the desire to eat,
+这将增加更多的血糖
+which will increase more blood glucose.
+所以我猜想他们可能会互相抵消
+So I'm guessing that they probably cancel each other out.
+因此 你必须从逻辑上考虑这些事情
+So you have to think logically about these things.
+维生素B3 所以一些B族维生素
+Vitamin B3, so some of the B vitamins
+确实刺激食欲
+do indeed stimulate appetite
+通过触发血糖升高
+by triggering increases in blood glucose,
+尤其是维生素B3
+vitamin B3 in particular.
+我不知道B6是否这样做
+I don't know if B6 does.
+锌之类的东西似乎可以降低血糖
+Things like zinc seem to lower blood glucose.
+然后还有很多其他物质
+And then there've been an enormous number of other things
+已经测试了它们在血糖中的作用
+that have been tested for their roles in blood glucose.
+苹果醋 任何酸性物质
+Apple cider vinegar, anything acidic.
+现在众所周知 任何一种酸度
+This is well-known now that any kind of acidity,
+可能是柠檬汁或酸橙汁
+so it could be lemon juice or lime juice,
+或苹果醋 可略微降低血糖
+or Apple cider vinegar, lowers blood glucose slightly.
+其中一些也可能有其他影响
+Some of those can also have other effects
+我们今天不再谈论了
+that we're not talking about today.
+所以这很有趣
+So that's kind of interesting
+因为现在有一阵狂热
+because there's a movement now
+人们谈论的话题
+towards creating a sort of people talk about
+变得更碱性 这些是什么...
+becoming more alkaline, you know, what these...
+我讨厌打破你的想法
+I hate to break it to you
+但你真的不能让自己的身体太碱性
+but you don't really want your body to be too alkaline.
+你想保持正确的pH值 否则就开始...
+You want to stay in the right pH or else you're start...
+有一些环境是会使你变得更碱性
+There are conditions that make you more alkaline.
+你不想太酸或太碱性
+You don't want to be too acidic or too alkaline.
+如果你看到饮料或其他东西
+If you see a beverage or something
+声称摄取该饮料
+that purports that ingesting that beverage
+会让你更碱性
+is going to make you more alkaline,
+那绝对是错误的
+that is absolutely false.
+没有证据表明 从生化角度讲是不可能的
+There's no evidence for that, is impossible biochemically.
+这只是营销
+It's just marketing.
+但是仍然摄入酸性食物
+But nonetheless ingesting foods that are acidic
+可以对肠道的pH值进行一些微调
+can make some slight adjustments to the pH of the gut
+以可能减慢或改变食物吸收的方式
+in ways that can slow or alter the absorption of foods
+并且会钝化血糖
+and can blunt blood glucose.
+如果需要 你可以在某个时候尝试一下
+You can try this sometime if you want,
+如果你感觉有点过分紧张
+if ever you're feeling kind of over sugared out
+比如你吃了太多糖
+like you ate something with too much sugar.
+你可以喝少量柠檬汁
+You can drink a small amount of lemon juice
+与水或酸橙汁混合
+mixed with water or lime juice,
+而且你会注意到它会变钝
+and you'll notice that it will blunt
+那种高血糖作用只是一点点
+that kind of hyperglycemic effect just a little bit.
+同样 你不想将其用作医疗工具
+Again, you don't want to use this as a medical tool,
+但效果相当有效
+but the effect is fairly potent.
+然后
+And then, excuse me.
+然后还有很多其他物质
+And then there are a number of other things
+像辣椒素和辣椒
+like capsaicin and hot chili peppers
+会降低血糖
+that will lower blood glucose.
+这些物质不胜枚举
+The list goes on and on,
+最强大的是绝对的黄连素和二甲双胍
+The most powerful one is absolutely berberine and Metformin,
+但这真的是药效很强的东西
+but that's really heavy caliber stuff.
+我提到的其他物质影响较小
+And the other ones I mentioned have more minor effects.
+我想提一提 因为我敢肯定你们中的一些人
+I do want to mention because I'm sure some of you out there
+对生酮饮食感到好奇
+are curious about the ketogenic diet.
+我要录一整集关于生酮以及大脑和身体的播客
+I'm going to do an entire episode about ketosis and the brain and the body,
+但已有22项研究显示了生酮饮食
+but the ketogenic diet has been shown in 22 studies
+使血糖显着下降
+to have a notable decrease on blood glucose.
+这并不奇怪
+And that is not surprising,
+因为生酮饮食的本质
+because the essence of the ketogenic diet
+是你只摄入很少 或者几乎不摄入
+is that you're consuming very little or zero
+促进胰岛素和葡萄糖急剧增加的食物
+of the foods that promote big spikes in insulin and glucose.
+如果你摄入足够的蛋白质
+If you consume enough protein,
+某些蛋白质可以转化为葡萄糖
+some of that protein can be converted into glucose,
+当然是通过糖异生
+of course, through gluconeogenesis.
+但是生酮饮食有很强的
+But the ketogenic diet has a very strong support
+调节血糖（葡萄糖）的作用
+for its role in regulating blood sugar, which is glucose.
+但是生酮饮食的特定作用
+But the specific effects of the ketogenic diet,
+还有一个特效 我稍后再讲
+and one particular effect that I'll address later
+但我现在要提
+but I'll mention now,
+这就是生酮饮食的
+which is, the ability of the ketogenic diet
+调整甲状腺激素水平的能力
+to adjust thyroid hormone levels
+以使之成为
+in ways that make it
+这样 如果你重新吃碳水化合物
+such that if you return to eating carbohydrates
+酮症时间过长后
+after being in ketosis for too long,
+你也不能控制肌瘤和碳水化合物
+you don't manage fibroid and carbohydrates as well,
+也已经显示出来
+that has been shown as well.
+因此 我们将深入研究生酮
+So we're going to dive deep into ketosis
+在未来的一集中
+in a future episode.
+因此 对于你来说 ketonistas确实不用担心
+So for you ketonistas does out there don't worry,
+我当然没有反对生酮饮食
+I certainly have nothing against ketogenic diet.
+我什么都没说
+I actually don't have anything
+我没说反对任何特定的营养计划
+for against any particular nutrition plan.
+我知道它对我有用 至少在我生命的这个阶段
+I know it works for me, at least at this stage in my life.
+如果需要 我会对这些知识点进行更新
+And I'll update it if I need to.
+我只是想为你提供尽可能多的信息
+I'm simply trying to get you as much information
+尽我所能
+as I possibly can,
+这样你就可以浏览整个学术界
+so that you can navigate through that landscape
+与你的特定目标保持一致
+in a way that's in keeping with your particular goals.
+所以现在你对血糖有了很多了解
+So now you understand a lot about blood sugar
+及其管理方式
+and how it's managed,
+以及可以更好地管理它的方法
+and the ways that you can manage it better
+根据你的特定需求
+depending on your particular needs.
+这也是我们回顾的好机会
+This is also a good opportunity for us to look back
+在一些医学文献中
+at some of the medical literature,
+因为它确实指向我们已经走了多远
+because it really points to just how far we've come
+在理解这些重要机制方面
+in terms of understanding these important mechanisms.
+它为我们指明了方向
+And it points us in the direction
+一些可行的协议
+of some actionable protocols.
+因此 糖尿病 这就是血糖的巨大增加
+So diabetes, which is these huge increases in blood glucose,
+因为没有胰岛素
+because there's no insulin,
+早在公元前1500年就被人们所知
+was known about as early as 1500 BC,
+真是不可思议
+which is just incredible.
+然后医师了解的方式
+And the way physicians then understood
+某些人血糖高
+that certain people had high blood glucose
+在不知道血糖是多少的情况下
+without actually knowing what blood glucose was,
+是他们会吸收特定患者的尿液
+is that they would take the urine of particular patients,
+他们发现蚂蚁经常会朝着
+and they'd find that ants preferably move toward
+并消耗某些患者而非其他人的尿液
+and consume the urine of certain patients and not others.
+它们知道尿中有东西
+And they understood that there was something in that urine
+与减肥有关
+that was correlated with the weight loss
+和其他一些
+and some of the other
+可能是非常不幸的健康症状
+probably very unfortunate health symptoms
+这些人正在经历的
+that these people were experiencing.
+所以他们知道血液和尿液中有东西
+So they knew that there was something in blood and urine.
+但是你可能会问自己 等等 那是尿液
+But you might be asking yourself, wait, that's urine.
+但是我会告诉遇见的每个孩子 有两件事
+But as I tell every kid that I meet, two things.
+我告诉一个孩子 你的大脑在这里
+I tell a kid, your brain is here,
+我让他们指着他们的头
+I make them point to their head.
+然后我告诉他们 你知道吗？
+And then I tell them, do you know what?
+你知道你的尿液实际上是血液吗？
+Do you know that your urine is actually filtered blood?
+他们通常会
+And they usually go, [grunts].
+当然我提前获得了他们父母的许可
+I get parental permission to do this first.
+但是大多数成年人没有意识到
+But most adults don't realize
+你的尿液实际上只是过滤的血液
+that your urine is actually just filtered blood.
+这就是为什么如果你会看到尿液中有血液
+And that's why if you see blood in your urine,
+那便会是个问题
+that's a problem.
+你想过滤血液 但尿液就是过滤的血液
+You want to filter the blood, but urine is filtered blood.
+那么  这项从尿液中测量血糖的业务
+Now, this business of measuring blood sugar from the urine
+一直可以追溯到
+has been something that lasted way beyond
+公元前1500年的早期
+these early stages of 1500 BC.
+事实证明 直到1674年
+It turns out that as late as 1674,
+牛津大学的医生正在弄清楚
+physicians at Oxford university were figuring out
+血糖异常高的人
+who had pathologically high levels of blood glucose
+通过分析他们的尿液
+by analyzing their urine.
+再一次 他们正在测量尿液的甜度
+And again, they were measuring the sweetness of their urine,
+这是医学事实
+and this is medical fact.
+他们会这样做
+They would do this
+通过采集不同患者的尿液样本
+by taking urine samples from different patients,
+并品尝它们
+and tasting them.
+他们发展出一种直觉
+And they developed an intuitive sense
+什么是过甜的尿液
+of what excessively sweet urine was
+相对于他们品尝过的其他尿液
+relative to the other urines that they had tasted.
+所以对于那些从事医学专业的人
+So for those of you that are in the medical profession
+或那些正在寻求医学专业的人
+or those of you that are seeking out the medical profession,
+你知道这还不做吗？
+do you understand this is not done anymore?
+你也可以反思我们已经走了多远
+And you can also just reflect on how far we've come
+就医学专业而言
+in terms of the medical profession itself.
+在我们从血液中测量事物的能力
+In our ability to measure things from the blood
+并从尿液中测量东西
+and measure things from urine
+无需询问蚂蚁哪种尿液更甜
+without having to ask ants which urine is sweeter
+或问自己 哪种尿液更甜
+or ask oneself, which urine is sweeter.
+因此 的确 我们作为一个物种正在取得进步
+So indeed we are making progress as a species.
+在今天结束之前 我想谈谈另一种工具
+Before we close out today I want to talk about one more tool
+你们中的许多人可能会发现有用
+that many of you will probably find useful.
+我当然有 我是咖啡因的主要消费者
+I certainly have, I'm a big consumer of caffeine,
+虽然我没有喝的很多
+although I don't consume a ton of it,
+我一直在喝它
+I consume it very consistently.
+因此 我一直在喝Mate
+So I'm big on consuming Mate,
+这是一种含咖啡因的浓茶
+which is a strong caffeinated tea.
+我通常是在一天的早些时候喝
+And I generally do that early in the day.
+虽然我起床后会延迟约两个小时
+Although I do delay about two hours after I wake up
+由于我在上一集中提到的原因
+for reasons I've talked about in previous episode,
+保持警觉性和专注力
+to maintain that nice arc of alertness and focus.
+我也喝黑咖啡 蘑菇咖啡
+I do drink black coffee as well, mushroom coffee as well,
+我喜欢那个东西
+I love that stuff.
+但是Mate（也称为Yerba Mate）是一个有趣的化合物
+But Mate, also called Yerba Mate, is an interesting compound
+因为不像咖啡
+because unlike coffee,
+已经显示它可以增加称为胰高血糖素的物质
+it has been shown to increase something called glucagon
+像肽GLP1
+like peptide GLP1.
+并增加瘦素水平
+And increase leptin levels.
+那么  我们今天对胰高血糖素的讨论不多
+Now, we didn't talk a lot about glucagon today.
+胰高血糖素在禁食状态下确实会升高
+Glucagon is really elevated in the fasting state.
+我提到这与胰岛素相反
+I mentioned that it's sort of the opposite of insulin
+粗略地说
+in kind of rough terms
+那是考虑它的一种方式
+that's one way to think about it.
+但是GLP1或胰高血糖素样肽之一
+But GLP1, or glucagon-like peptide one,
+通过摄取Mate 这两种物质会增加
+is increased by ingesting Mate
+它可以很好地抑制食欲
+and it acts as a pretty nice appetite suppressant.
+那么  我并不是想抑制自己的食欲
+Now, I'm not trying to suppress my appetite.
+我喜欢像我之前提到的那样吃东西
+I like to eat as I mentioned before.
+但是它真的可以很好地刺激大脑
+But it works really well to stimulate the brain
+并给你一定的警觉性
+and to give you a level of alertness
+并同时有很多咖啡的功效
+and to do a lot of the things that coffee does.
+它还包含电解质
+It also contains electrolytes.
+所以我们的意思是我们的神经元和我们的大脑
+So we meaning our neurons and our brain
+受多种因素影响
+run on a variety of factors,
+电活动和化学传递等
+electrical activity and chemical transmission, et cetera,
+但他们需要足够水平的钠钾
+but they require adequate levels of sodium potassium
+和镁
+and magnesium.
+所以 如果你要学习生物学
+So, if you were to learn the biology
+或动作电位的生理学
+or the physiology of the action potential,
+发射神经元
+the firing of a neuron,
+我们每隔一年就会向神经科学专业的学生教授一些东西
+something we teach every first year neuroscience student,
+如果你有兴趣 我很乐意教你
+and I'd be happy to teach you if you're interested.
+你会听到钠冲入细胞
+You'll hear about sodium rushing into cells
+钾进入和离开细胞
+and potassium entering and leaving cells
+为了让神经元交流
+in order to allow neurons to communicate.
+电解质至关重要
+Electrolytes are critically important
+对于神经系统的功能很重要
+for the function of the nervous system.
+还有很多利尿剂
+And many things that act as diuretics,
+促进咖啡因等水的排泄
+that promote excretion of water, like caffeine,
+也可以带走电解质
+can also take electrolytes out along
+特别是钠
+with in particular sodium.
+有时头昏眼花
+And sometimes the lightheadedness
+或人们经历的脑雾
+or the brain fog that people experience,
+不只是因为电解质含量低
+isn't just because electrolytes are low
+但是因为它们有点不平衡
+but because they're kind of out of balance.
+所以我喜欢Mate 因为它含有电解质和咖啡因
+So I like Mate because it has electrolytes, it has caffeine.
+它刺激这种胰高血糖素样肽的释放
+It stimulates the release of this glucagon-like peptide
+GLP1 对我有很大帮助 GLP1
+and it's been a big help to me
+在延长清晨的空腹时间
+in extending that early morning fasting window
+当我吃第一顿饭时大约要到中午
+out to about noon or so when I eat my first meal.
+它的味道也真的很好
+It also just tastes really good.
+我不是从葫芦里喝出来的
+I don't drink it out of the gourd
+即使我有阿根廷血统
+even though I have Argentine lineage.
+葫芦对我来说只是一种不便
+The gourd to me it's just kind of an inconvenience,
+我用杯子喝
+I drink it out of a mug.
+这里没有推荐 无广
+There's no promotion here.
+我与任何Yerba Mate种植园或公司 都没有利益关系
+I have no relationship to any Yerba Mate plantations
+我只是碰巧真的很喜欢这些东西
+or companies, I just happen to really like the stuff.
+胰高血糖素样肽之一被富集的事实
+And the fact that glucagon-like peptide one is enriched
+或喝Mate时释放的更多
+or is released more when you drink Mate.
+GLP1可以调节血糖的事实
+And the fact that GLP1 can regulate blood sugar
+以保持血糖的方式
+in ways that keep your blood sugar
+因为我们称其为正常血糖
+in that we called euglycemic,
+不太高 不太低的模式
+not too high, not too low mode,
+是摄取Mate对我有吸引力的原因之一
+is one reason why ingesting Mate is attractive to me.
+如果你去南美
+If you go to South America,
+好吧 你会特别在俄勒冈人中看到
+well, you'll see especially among Oregonians,
+还有阿根廷人 实际上大家都会
+but also Argentines, is people actually carry
+带着冲好这个东西的热水瓶
+a thermos of this stuff with them around
+并带到餐厅用餐
+and bring it to meals in restaurants.
+这只是文化习俗
+And it's just considered cultural convention,
+看到这一点并不罕见
+it's not unusual to see that.
+所以我们在美国看不到那么多
+So we don't see that so much here in the States
+但是我碰巧真的很喜欢这个东西
+but I happen to really love this stuff.
+我自己酿造
+I brew my own,
+因为这是最经济的方式
+because that's the most economical way to do it.
+我真的很喜欢
+And I really enjoy it.
+对于某些人来说可能有点苦
+It can be a little bitter for some people.
+如果你想知道其中的诀窍
+The real key there if you want to know,
+种植Mate的诀窍是不要用水
+the Mate trick is to not use water
+真的很热
+that's really boiling hot.
+你真是胆怯
+You go just shy of boil
+然后就没有像这样的烟草味道
+and then it doesn't have that same kind of tobacco like
+或真正的酸性味道
+or really acidic flavor to it.
+虽然不是很甜 但还是有点甜
+It's just a little bit sweeter, although not quite sweet.
+因此 Yerba Meta GLP1可以以健康的方式进行管理
+So, Yerba Meta GLP1, can manage in healthy ways
+瘦素水平 葡萄糖水平和胰高血糖素水平
+leptin levels, glucose levels, and glucagon levels
+如果它可以为你服务 那么你可能想尝试一下
+in ways that if it serves you, that you might want to try.
+因此 我们再次涵盖了大量的材料
+So once again, we covered an enormous amount of material,
+专注于荷尔蒙如何调节进食 饥饿
+focused on how hormones regulate feeding, hunger,
+当一个人觉得他们不需要吃饭时
+and when one feels they don't need to eat,
+所谓的饱腹感  也就是你吃饱了
+so-called satiety, that you've had enough.
+一如既往 我们涵盖了很多 但我不能穷尽
+As always, we covered a lot, but I could not be exhaustive
+关于与该主题有关的所有信息
+about all the information related to this topic.
+真是太浩大了
+It's just so vast.
+例如 我们没有谈论甲状腺激素
+For instance, we did not talk about thyroid hormone,
+极为重要的激素和途径
+an extremely important hormone and pathway
+在身体和大脑中
+in the body and brain.
+我们要做一个与甲状腺有关的发作
+We are going to do an episode related to thyroid
+我保证 还有调节甲状腺的工具
+and tools to regulate thyroid, I promise.
+看了这个播客
+Having seen this episode,
+你将能够更轻松地消化该材料
+you will be able to digest that material with far more ease.
+我们也没有谈论以下事实
+We also didn't talk about the fact that
+睾丸激素和雌激素会影响血糖
+testosterone and estrogen can impact blood glucose
+以彼此相反的方式
+in ways that are opposite to one another.
+当雌激素水平高的时候
+That when estrogen levels are high,
+食欲会降低
+appetite tends to be reduced.
+当睾丸激素水平高时
+When testosterone levels are high,
+食欲趋于增加
+appetite tends to increase.
+所以有各种各样有趣的相互作用
+So there are all sorts of interesting interplays
+各种激素之间
+between the various hormones.
+但这是现在的深度探索
+But that's too much of a deep dive of now.
+那么  我们今天主要集中在
+Right now, we've just focused today mainly
+在生长素释放肽之类的东西上
+on things like ghrelin, on things like,
+黑色素细胞模拟激素
+Melanocyte simulating hormone,
+令人难以置信的强大激素 可以抑制食欲
+incredible powerful hormone that can suppress appetite.
+在肠道产生的胆囊收缩素之类的东西上
+On things like Cholecystokinin that comes from the gut
+并能抑制食欲
+and can suppress appetite.
+在食品乳化剂上
+On things like food emulsifiers.
+在吃饭的时候
+On the fact that when you're eating
+你是在寻找氨基酸
+you are amino acids seeking,
+即使你可能没有意识到
+even though you might not realize it.
+你也在寻找特定的脂肪酸
+That you are also seeking out particular fatty acids
+特别是共轭亚油酸和Omega-3
+in particular, the conjugated linoleic acids and Omega-3's.
+因此 我尝试为你提供了许多可行的工具
+So I've tried to give you a number of actionable tools.
+他们中许多人行为举止
+Many of them behavioral.
+其中一些是基于补品
+Some of them are based on supplements
+甚至处方药
+or even prescription drugs.
+再说一遍 总是做对你的健康最有益的事情
+Again, always do what's best for your health,
+并与医疗保健专业人员一起进行
+and do that in company with a healthcare professional.
+我不是医生 我什么都没开
+I'm not a physician, I don't prescribe anything.
+我是教授 我自称很多东西
+I'm a professor, I profess a lot of things.
+我尝试与你分享我认为最好的东西
+And I try and share with you what I think to be the best
+高质量的同行评审文献
+high quality peer reviewed literature.
+这就是我今天要做的
+So that's what I've done today.
+真的很感谢你的时间和意图
+Really appreciate your time and intention.
+你们中的许多人继续问
+Many of you have continued to ask
+如何帮助支持播客
+how you can help support the podcast.
+我们真的很感谢这个问题
+And we really appreciate the question.
+有几种方法可以做到这一点
+There's several ways to do that.
+首先是喜欢你看过的视频
+The first is to like a video that you've seen
+如果愿意 请订阅YouTube频道
+if you like it, and please subscribe to the YouTube channel.
+那也许是最重要的
+That's perhaps the most important thing
+关于YouTube频道
+about the YouTube channel.
+同样 请给我们留言
+As well, leave us a comment.
+如果你在评论部分给我们留下评论
+If you leave us a comment in the comment section
+对我们有帮助
+that helps us.
+并请提出问题
+And please ask questions.
+这些问题和你的评论
+Those questions and your comments
+确实告知未来播客的内容
+do inform content of future episodes.
+我们全部阅读了
+We read them all.
+除了我们不读的负面内容
+Except the negative ones we don't read,
+我只是在开玩笑 我们都读了
+I'm just kidding, we read them all.
+此外 请在Apple和/或Spotify上订阅
+In addition, please subscribe on Apple and/or Spotify
+或两者（如果你愿意）
+or both if you like.
+在Apple上 你有机会离开我们
+And on Apple, you have the opportunity to leave us
+如果你认为我们值得得到五星级的评价
+up to a five star review if you feel we deserve that.
+苹果还允许你发表评论
+Apple also lets you leave a comment,
+也为我们提供了一些反馈
+some feedback for us as well.
+请检查我们的赞助商
+Please do check out our sponsors
+我们在播客开始时提到的内容
+that we mentioned at the beginning of the podcast.
+那可能是支持播客的最佳方式
+That's the best way perhaps to support the podcast.
+我们也有一个Patreon帐户
+As well we have a Patreon account.
+是patreon.com/andrewhuberman
+It's patreon.com/andrewhuberman.
+在那里 你可以在任何喜欢的水平上支持播客
+And there you can support the podcast at any level you like.
+今天 以及以前的播客
+And today, as well as in previous episodes,
+我提到过各种补品
+I've mentioned various supplements.
+如果你有兴趣看看我需要什么补品
+If you're interested in seeing what supplements I take
+而且你还想探索其他一些补品
+and you want to explore for some other supplements as well,
+你可以去索恩
+you can go to Thorne
+thorne.com/u/huberman
+T-H-O-R-N-E.com slash U, / Huberman.
+索恩是一家补品公司
+Thorne is a supplement company
+我们认为具有最高的严格性
+that we believe to have the highest stringency
+就他们的投入而言
+in terms of what they put
+他们制作的各种补品中
+in the various supplements that they make.
+他们使用的配方非常准确
+And the amounts that they put are very accurate.
+他们已经与梅奥诊所合作
+They've partnered with the Mayo Clinic.
+他们与所有主要的运动队合作
+They partnered with all the major sports teams.
+我们已经与他们合作
+And we've partnered with them
+因为我们相信他们的严格程度
+because we believe in their levels of stringency
+和准确性
+and accuracy.
+如果你访问thorne.com/u/huberman 你可以看到我的举动
+If you go to thorne.com/u/huberman, you can see what I take
+并且你还将获得其中20％的折扣
+and you'll also get 20% off any of those supplements
+或索恩（Thorne）制造的任何其他补品
+or any of the other supplements that Thorne makes.
+因此 你可以在这里找到有关补品的更多信息
+So that's where you can find out more about supplements
+还有我带的那些
+and the ones that I take.
+再一次 你将获得20％的折扣
+And again, you get the 20% discount
+索恩制作的任何补品
+on any supplements that Thorne makes.
+最后但并非最不重要的一点 感谢你与我们在一起
+And last but not least, thank you for being with us.
+希望你能学到很多
+I hope you learned a lot.
+我希望你能探索一些工具
+I hope you explore some of the tools
+以及你今天学到的机械信息
+and that the mechanistic information that you learned today
+会很好地为你服务
+will serve you well.
+如果你认识对此主题感兴趣的人
+If you know anyone that's interested in this topic
+或者你认为有人可以从中受益
+or you think that someone could benefit from it,
+请向他们建议播客
+please suggest the podcast to them as well.
+最重要的是 感谢你对科学的关注
+And most of all, thank you for your interest in science.
+[欢快的音乐]
+[upbeat music]
